@@ -12,7 +12,12 @@ settings:
     over_lines: 10
   warn_about_similar_files:       # one concept, ONE document — update it,
     above: 0.82                   # don't clone a near-duplicate
-    ignore: ["**/__init__.py", "**/index.md", "**/log.md", "**/skilltree.md"]
+    # raw/apowiki-export/ is a bulk import of 848 articles: near-duplicates are
+    # expected there (an article and its "(artikkeli)" variant, stubs sharing
+    # boilerplate) and are ApoWiki's own structure, not our copy-paste. The
+    # de-duplication rule still applies to everything we write ourselves.
+    ignore: ["**/__init__.py", "**/index.md", "**/log.md", "**/skilltree.md",
+             "_brain/raw/apowiki-export/**"]
 
 # Add rules as you go. `henxels explain <path>` shows what applies to a path.
 henxels:
@@ -81,7 +86,11 @@ henxels:
     in: ./_brain/raw/*
     except: _brain/raw/index.md
     filename_casing: kebab-case
-    allowed_filetypes: [.md, .txt, .csv, .json, .yaml, .toml, .html, .pdf, .png, .jpg]
+    # .wiki is the ApoWiki export: MediaWiki source stored UNCONVERTED, because
+    # that is what ApoWiki actually published and what makes the provenance
+    # claim defensible. Converting it here would blur what contributors wrote
+    # with what we made of it; conversion happens in knowledge/.
+    allowed_filetypes: [.md, .txt, .csv, .json, .yaml, .toml, .html, .pdf, .png, .jpg, .wiki]
 
   # --- APOLOGETICS-SPECIFIC: GFDL notice on imported ApoWiki source ---------
   - henxel: "ApoWiki-exported source files carry the GFDL notice"
