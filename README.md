@@ -87,8 +87,20 @@ For context on the versions below the floor: federation and implants
 `--root` pointing at a repo root above the bundle arrived in 0.4.5. Neither is
 sufficient on its own — 0.7.0 is the floor for this repository.
 
-The latest release is recommended but not required. If you already run
-something at or above 0.7.0, you do not need to upgrade to use this implant.
+**Install the `[vectors]` extra**, not plain `brainpick`. Without it the
+vector tier is silently off and search degrades to keyword only — no warning
+at install time, just worse results:
+
+```bash
+uv tool install "brainpick[vectors]"
+```
+
+**Use 0.8.1 or later if you will run `brainpick serve`.** Earlier versions
+applied `[bundle] root` twice and served a path that does not exist, so the
+web UI showed a single generated index and nothing else. 0.7.0 remains the
+floor for reading this brain; 0.8.1 is the floor for serving it.
+
+The latest release is otherwise recommended but not required.
 
 ---
 
