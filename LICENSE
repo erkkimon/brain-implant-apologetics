@@ -1,0 +1,41 @@
+This repository contains two categories of content under different licenses:
+
+## Article content (GFDL-1.3-or-later)
+
+Articles imported from ApoWiki (https://apowiki.fi) are licensed under the
+GNU Free Documentation License 1.3 or later (GFDL-1.3-or-later), as they are
+in the source wiki. The faithful-history import preserves the original
+contributor attribution: every commit that adds or changes ApoWiki-sourced
+content is authored by the real ApoWiki contributor on the real edit date,
+citing the MediaWiki revision id (oldid) in the commit message.
+
+Bare IP-address authors from early ApoWiki revisions are pseudonymized to
+"ApoWiki-anonymous" at import, with the real IP kept only in a local,
+gitignored provenance sidecar — this protects personal data under GDPR
+while preserving GFDL's authorship-attribution requirement.
+
+The full GFDL text: https://www.gnu.org/copyleft/fdl.html
+
+## Tooling and conventions (MIT)
+
+Scripts, henxels checks, configuration files, and conventions authored in
+this repository (not imported from ApoWiki) are licensed under the MIT
+License.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.

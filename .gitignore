@@ -1,0 +1,11 @@
+_temp/
+brainpick.local.toml
+.brainpick/
+.brainpick-auth.json
+__pycache__/
+
+# ApoWiki provenance sidecar — the real IP addresses behind pseudonymized
+# commits. Personal data under GDPR; never enters the public repository.
+# The no-ip-in-history henxel blocks committing this file.
+.provenance/
+apowiki-provenance.json
