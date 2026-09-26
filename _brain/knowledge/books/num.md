@@ -7,7 +7,7 @@ book: num
 testament: ot
 chapters: 36
 tags: [raamattu, kirja, num]
-timestamp: 2026-09-26T00:30:00Z
+timestamp: 2026-09-26T11:30:00Z
 half_life: 0
 ---
 
@@ -17,6 +17,6 @@ half_life: 0
 
 Luvut, jaetunnisteet ja kirjan teologinen käsittely ovat teologiaimplantissa, joka omistaa raamatullisen selkärangan (OSIS-koodi `num`):
 
-<brain://theology-n4d79bfxkjv1ysobi5g7fu/knowledge/scripture/num/num.md>
+<brain://theology-kay4zyljsuy909krumpau/knowledge/scripture/num/num.md>
 
 Tämän implantin artikkelit, jotka viittaavat kirjaan, näkyvät sivun takaisinlinkeissä.

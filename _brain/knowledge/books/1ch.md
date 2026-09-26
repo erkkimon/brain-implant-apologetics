@@ -7,7 +7,7 @@ book: 1ch
 testament: ot
 chapters: 29
 tags: [raamattu, kirja, 1ch]
-timestamp: 2026-09-26T00:30:00Z
+timestamp: 2026-09-26T11:30:00Z
 half_life: 0
 ---
 
@@ -17,6 +17,6 @@ half_life: 0
 
 Luvut, jaetunnisteet ja kirjan teologinen käsittely ovat teologiaimplantissa, joka omistaa raamatullisen selkärangan (OSIS-koodi `1ch`):
 
-<brain://theology-n4d79bfxkjv1ysobi5g7fu/knowledge/scripture/1ch/1ch.md>
+<brain://theology-kay4zyljsuy909krumpau/knowledge/scripture/1ch/1ch.md>
 
 Tämän implantin artikkelit, jotka viittaavat kirjaan, näkyvät sivun takaisinlinkeissä.

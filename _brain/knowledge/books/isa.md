@@ -7,7 +7,7 @@ book: isa
 testament: ot
 chapters: 66
 tags: [raamattu, kirja, isa]
-timestamp: 2026-09-26T00:30:00Z
+timestamp: 2026-09-26T11:30:00Z
 half_life: 0
 ---
 
@@ -19,6 +19,6 @@ ApoWikin artikkeli kirjasta: [Jesajan kirja](../articles/jesajan-kirja.md).
 
 Luvut, jaetunnisteet ja kirjan teologinen käsittely ovat teologiaimplantissa, joka omistaa raamatullisen selkärangan (OSIS-koodi `isa`):
 
-<brain://theology-n4d79bfxkjv1ysobi5g7fu/knowledge/scripture/isa/isa.md>
+<brain://theology-kay4zyljsuy909krumpau/knowledge/scripture/isa/isa.md>
 
 Tämän implantin artikkelit, jotka viittaavat kirjaan, näkyvät sivun takaisinlinkeissä.

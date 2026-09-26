@@ -30,8 +30,8 @@ import json
 import re
 from pathlib import Path
 
-THEOLOGY = "brain://theology-n4d79bfxkjv1ysobi5g7fu"
-TIMESTAMP = "2026-09-26T00:30:00Z"
+THEOLOGY = "brain://theology-kay4zyljsuy909krumpau"
+TIMESTAMP = "2026-09-26T11:30:00Z"
 KR92 = "https://raamattu.fi/"
 
 # code, Finnish name, testament, division (Finnish), chapters, extra aliases.

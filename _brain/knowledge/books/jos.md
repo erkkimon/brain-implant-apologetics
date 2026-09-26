@@ -7,7 +7,7 @@ book: jos
 testament: ot
 chapters: 24
 tags: [raamattu, kirja, jos]
-timestamp: 2026-09-26T00:30:00Z
+timestamp: 2026-09-26T11:30:00Z
 half_life: 0
 ---
 
@@ -19,6 +19,6 @@ ApoWikin artikkeli kirjasta: [Joosuan kirja](../articles/joosuan-kirja.md).
 
 Luvut, jaetunnisteet ja kirjan teologinen käsittely ovat teologiaimplantissa, joka omistaa raamatullisen selkärangan (OSIS-koodi `jos`):
 
-<brain://theology-n4d79bfxkjv1ysobi5g7fu/knowledge/scripture/jos/jos.md>
+<brain://theology-kay4zyljsuy909krumpau/knowledge/scripture/jos/jos.md>
 
 Tämän implantin artikkelit, jotka viittaavat kirjaan, näkyvät sivun takaisinlinkeissä.

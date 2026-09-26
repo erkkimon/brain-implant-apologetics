@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to be done — the brain's live work queue.
-timestamp: 2026-09-26T10:20:00Z
+timestamp: 2026-09-26T12:00:00Z
 ---
 
 # Open
@@ -27,9 +27,8 @@ Done 2026-09-25 — see [archive/2026-09-25.md](archive/2026-09-25.md). Left ove
 Rungs generated 2026-09-26 by `skills/tools/apowiki_books.py`: 66 books + 2
 testaments in `knowledge/books/`, each pointing at the theology spine.
 
-- [ ] Declare the theology implant as a read-only mount (`access = "read-only"`, alias `theology`) in the brain registry on each machine, then check that `brain_read` on a theology book page shows this brain's rung as an annotation
+- [ ] Register the theology implant on each other machine (`brainpick register <repo>/_brain --implant --alias theology`, plus `--read-only` where the user is not its author), then check that `brain_read` on a theology book page shows this brain's rung as an annotation
 - [ ] Hang the `Luokka:Kirjat` book-corpus articles (the *kirja* reviews) off the biblical books they discuss, where they discuss one
-- [ ] Mirror the binding from the theology side: each theology book page links to its Finnish rung here (theology's own todo)
 
 ## Phase 3 — Make Finnish findable by English queries (machine time)
 

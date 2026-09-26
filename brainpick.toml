@@ -7,7 +7,7 @@ spec = "0.1"
 [bundle]
 root = "_brain"
 exclude = ["raw/*"]     # source material stays greppable but never surfaces in results
-id = "oy1tof3pbevxegadqy8hr3"   # minted once — an address for this brain, never a credential
+id = "3hm51e1pxik7zz5la3bve"   # minted once — an address for this brain, never a credential
 
 # License: ApoWiki article content is GFDL-1.3-or-later (the import preserves
 # it); scripts, henxels checks, and tooling authored here are MIT. See LICENSE.

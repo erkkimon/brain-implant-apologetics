@@ -7,7 +7,7 @@ book: job
 testament: ot
 chapters: 42
 tags: [raamattu, kirja, job]
-timestamp: 2026-09-26T00:30:00Z
+timestamp: 2026-09-26T11:30:00Z
 half_life: 0
 ---
 
@@ -17,6 +17,6 @@ half_life: 0
 
 Luvut, jaetunnisteet ja kirjan teologinen käsittely ovat teologiaimplantissa, joka omistaa raamatullisen selkärangan (OSIS-koodi `job`):
 
-<brain://theology-n4d79bfxkjv1ysobi5g7fu/knowledge/scripture/job/job.md>
+<brain://theology-kay4zyljsuy909krumpau/knowledge/scripture/job/job.md>
 
 Tämän implantin artikkelit, jotka viittaavat kirjaan, näkyvät sivun takaisinlinkeissä.

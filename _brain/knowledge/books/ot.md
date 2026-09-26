@@ -5,7 +5,7 @@ title: "Vanha testamentti"
 description: "Vanha testamentti: Heprealaisen Raamatun 39 kirjaa luomiskertomuksesta profeettoihin."
 testament: ot
 tags: [raamattu, testamentti, ot]
-timestamp: 2026-09-26T00:30:00Z
+timestamp: 2026-09-26T11:30:00Z
 half_life: 0
 ---
 
@@ -13,7 +13,7 @@ half_life: 0
 
 Heprealaisen Raamatun 39 kirjaa luomiskertomuksesta profeettoihin. Kirjojen järjestys ja jako noudattavat protestanttista kaanonia, kuten teologiaimplantin selkäranka:
 
-<brain://theology-n4d79bfxkjv1ysobi5g7fu/knowledge/scripture/ot.md>
+<brain://theology-kay4zyljsuy909krumpau/knowledge/scripture/ot.md>
 
 Apokryfit eivät ole osa selkärankaa: ne ovat tavallisia artikkeleita, jotka linkittävät kanonisiin kirjoihin. Katso myös [kirjojen luettelo](index.md).
 

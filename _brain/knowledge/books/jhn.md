@@ -7,7 +7,7 @@ book: jhn
 testament: nt
 chapters: 21
 tags: [raamattu, kirja, jhn]
-timestamp: 2026-09-26T00:30:00Z
+timestamp: 2026-09-26T11:30:00Z
 half_life: 0
 ---
 
@@ -19,6 +19,6 @@ ApoWikin artikkeli kirjasta: [Johanneksen evankeliumi](../articles/johanneksen-e
 
 Luvut, jaetunnisteet ja kirjan teologinen käsittely ovat teologiaimplantissa, joka omistaa raamatullisen selkärangan (OSIS-koodi `jhn`):
 
-<brain://theology-n4d79bfxkjv1ysobi5g7fu/knowledge/scripture/jhn/jhn.md>
+<brain://theology-kay4zyljsuy909krumpau/knowledge/scripture/jhn/jhn.md>
 
 Tämän implantin artikkelit, jotka viittaavat kirjaan, näkyvät sivun takaisinlinkeissä.
