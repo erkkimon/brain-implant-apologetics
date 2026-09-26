@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to be done — the brain's live work queue.
-timestamp: 2026-09-26T12:00:00Z
+timestamp: 2026-09-26T13:40:00Z
 ---
 
 # Open
@@ -32,7 +32,6 @@ testaments in `knowledge/books/`, each pointing at the theology spine.
 
 ## Phase 3 — Make Finnish findable by English queries (machine time)
 
-- [ ] Confirm tier-2 vectors built with `bge-m3` (`brainpick compile` no longer reports search `degraded from semantic`) and spot-check that English queries return Finnish articles
 
 ## Phase 4 — The MVP gate
 
