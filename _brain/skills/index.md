@@ -15,3 +15,15 @@ the tree.
   the real contributor, the real timestamp and the MediaWiki revision id.
   Pseudonymises bare-IP authors and writes the real addresses only to the
   gitignored provenance sidecar.
+* `tools/apowiki_convert.py` — convert the wikitext export into Finnish
+  articles in `knowledge/articles/`: links resolved through the importer's
+  slug map, citations as footnotes, redirects resolved, red links reported.
+* `tools/apowiki_topics.py` — turn ApoWiki's categories into topic pages in
+  `knowledge/topics/` and give every article a breadcrumb back to them.
+* `tools/apowiki_books.py` — the book spine: 66 book pages and two testament
+  pages in `knowledge/books/`, bound to the theology implant's spine.
+
+## Procedures
+
+* [Convert ApoWiki wikitext into brain articles](convert-apowiki-to-articles.md)
+  — the token-free conversion that produces the MVP.

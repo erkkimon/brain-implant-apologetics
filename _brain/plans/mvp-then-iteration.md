@@ -3,7 +3,7 @@ type: plan
 title: "MVP first, then daily iteration (apologetics)"
 description: "The apologetics half of the shared plan: convert ApoWiki's wikitext to Finnish markdown pages with parsed brain links, hang the book corpus on the shared book spine, compile with multilingual embeddings, and only then start cooldown-batched translation and improvement."
 tags: [plan, mvp, roadmap]
-timestamp: 2026-09-25T00:00:00Z
+timestamp: 2026-09-26T10:20:00Z
 ---
 
 # MVP first, then daily iteration (apologetics)
@@ -13,7 +13,7 @@ The canonical plan is in the theology implant —
 — because the book spine it builds on lives there. This page states the
 apologetics side and keeps it searchable from this brain. Tom's instruction
 (MVP first, then iterate) is recorded in
-[journals/2026-09-25.md](../journals/2026-09-25.md).
+[journals/2026-09-25.md](../journals/archive/2026/09/2026-09-25.md).
 
 ## What "lovable" means here
 

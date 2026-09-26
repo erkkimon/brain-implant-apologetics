@@ -16,8 +16,15 @@ settings:
     # expected there (an article and its "(artikkeli)" variant, stubs sharing
     # boilerplate) and are ApoWiki's own structure, not our copy-paste. The
     # de-duplication rule still applies to everything we write ourselves.
+    # The same holds for the converter's output: knowledge/articles, topics and
+    # books are regenerated wholesale by skills/tools/apowiki_*.py from that
+    # export and inherit its near-duplicates. Diffing ~600 generated files
+    # pairwise also took the pre-commit hook past ten minutes. A hit there
+    # would not be fixable by hand anyway — the tools are the source.
     ignore: ["**/__init__.py", "**/index.md", "**/log.md", "**/skilltree.md",
-             "_brain/raw/apowiki-export/**"]
+             "_brain/raw/apowiki-export/**",
+             "_brain/knowledge/articles/**", "_brain/knowledge/topics/**",
+             "_brain/knowledge/books/**"]
 
 # Add rules as you go. `henxels explain <path>` shows what applies to a path.
 henxels:
