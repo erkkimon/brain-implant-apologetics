@@ -4,14 +4,14 @@ about: concept
 title: Apologetics vs theology scope
 description: "This implant covers apologetics — articles defending Christian belief against non-Christian views; the sibling theology implant covers articles defending one Christian view against other Christian views; the boundary is who the opponent is (outside the faith vs inside the faith), and both implants hold the same neutral-point-of-view rule: we claim that somebody said something (which is true and provable), not that what they said is true."
 tags: [convention, scope, apologetics, theology, npov, neutrality]
-timestamp: 2026-09-24T16:00:00Z
+timestamp: 2026-09-25T22:30:00Z
 half_life: 0
 ---
 
 # Apologetics vs theology scope
 
 Decided by Tom on 2026-09-24, founding the implant
-([journal](../journals/2026-09-24.md)):
+([journal](../journals/archive/2026/09/2026-09-24.md)):
 
 > *"Apologetics is basically everything that defends Christian beliefs… bluntly
 > put, it is articles about subjects that help Christians defend their faith

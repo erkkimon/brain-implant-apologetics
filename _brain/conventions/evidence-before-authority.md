@@ -4,14 +4,14 @@ about: concept
 title: Evidence before authority
 description: A claim is weighed by the evidence behind it and never by who made it — a famous apologist's argument and an unknown blogger's paper are graded on the same scale, criticism lands on the argument rather than the person, and a claim's authorship is a separate question (whose claim is this, provably) from its truth (does the evidence hold).
 tags: [convention, epistemics, bias, assessment]
-timestamp: 2026-09-24T16:00:00Z
+timestamp: 2026-09-25T22:30:00Z
 half_life: 0
 ---
 
 # Evidence before authority
 
 Decided by Tom on 2026-09-24 while founding the apologetics implant
-([journal](../journals/2026-09-24.md)). The brief asks for an apologetics
+([journal](../journals/archive/2026/09/2026-09-24.md)). The brief asks for an apologetics
 layer *"assessed in the light of evidence"* — how much of a claim stands on
 proven fact, how hard that evidence is, and where it becomes faith. That
 assessment is worthless if it flinches when the apologist is famous, and

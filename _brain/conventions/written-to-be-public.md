@@ -4,14 +4,14 @@ about: concept
 title: Written to be public
 description: This implant is written for release to the open internet — every page is addressed to a stranger with no access to the machine it was written on, so no host names, internal paths, personal details or credentials ever enter it; the repository is private only until it is published, which changes nothing about how it is written.
 tags: [convention, publishing, privacy, scope]
-timestamp: 2026-09-24T16:00:00Z
+timestamp: 2026-09-25T22:30:00Z
 half_life: 0
 ---
 
 # Written to be public
 
 Decided by Tom on 2026-09-24, while founding the apologetics implant
-([journal](../journals/2026-09-24.md)): *"this repository will be public […]
+([journal](../journals/archive/2026/09/2026-09-24.md)): *"this repository will be public […]
 it's not public yet, I will publish it later, but make sure that you know it
 and that you will know it also in the future."*
 

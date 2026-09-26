@@ -140,6 +140,26 @@ uv tool install henxels && henxels init
 henxels check --all
 ```
 
+## How the content is produced — and a disclaimer
+
+The articles here originate from human contributors to ApoWiki (see below),
+but everything the import adds — the transcription into this repository, the
+frontmatter, the descriptions, the links, and any page written or revised
+after the import — is **produced by AI agents** under the contract above, and
+reviewed by humans only to the extent the maintainers and contributors have
+had time for. The contract checks what can be checked mechanically — that
+links land, that citations are present, that no bare IP address enters the
+history — but it cannot check that a source was read correctly or that a
+quotation is accurate. Errors of transcription, attribution and interpretation
+are therefore possible on any page, and every receipt is there precisely so
+that you can verify the claim yourself before relying on it.
+
+The content is provided **as is**, without warranty of any kind, express or
+implied. Nothing here is professional, pastoral or legal advice. Apologetic
+arguments are reported as the arguments their named authors made; an error in
+such a report is an error of the implant, not a claim of the source. If you
+find one, open an issue or a pull request.
+
 ## Provenance and licensing
 
 Articles are imported from [ApoWiki](https://apowiki.fi), which has been

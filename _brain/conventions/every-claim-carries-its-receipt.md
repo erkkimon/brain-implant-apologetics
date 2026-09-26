@@ -4,14 +4,14 @@ about: concept
 title: Every claim carries its receipt
 description: No statement of fact enters this implant without a resolvable, verifiable citation attached to that specific statement — a DOI, a mission dataset, a pinned document revision — because the value this implant adds over a model's own memory is not the fact but the source, and a fact whose source cannot be checked is indistinguishable from a fluent guess.
 tags: [convention, grounding, citation, traceability, provenance]
-timestamp: 2026-09-24T16:00:00Z
+timestamp: 2026-09-25T22:30:00Z
 half_life: 0
 ---
 
 # Every claim carries its receipt
 
 Decided by Tom on 2026-09-24, founding the apologetics implant
-([journal](../journals/2026-09-24.md)): *"the traceability of the information
+([journal](../journals/archive/2026/09/2026-09-24.md)): *"the traceability of the information
 is fucking important. It is possible that a model is right if it states
 something, but even if it is right and knows already something that is in
 this brain implant, it doesn't know the source which this brain implant

@@ -4,13 +4,13 @@ about: concept
 title: Credence is a model, not a measurement
 description: Numeric probabilities attached to hypotheses in this implant are the output of a stated, replayable model — a decomposition into factors, a prior, and explicit likelihood ratios with their justifications — never a claim to have measured a truth; the contribution is the structure and its defensible inputs, so any reader can substitute their own numbers and recompute, and the spread of results across reasonable inputs is itself the report on how much of a belief is evidence and how much is faith.
 tags: [convention, bayesian, epistemics, credence, uncertainty, replicability]
-timestamp: 2026-09-24T16:00:00Z
+timestamp: 2026-09-25T22:30:00Z
 half_life: 0
 ---
 
 # Credence is a model, not a measurement
 
-Decided by Tom on 2026-09-24 ([journal](../journals/2026-09-24.md)):
+Decided by Tom on 2026-09-24 ([journal](../journals/archive/2026/09/2026-09-24.md)):
 
 > *"If somebody wants to use different probabilities for the factors, they
 > can calculate the probability they believe based on the factors they think
