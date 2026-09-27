@@ -22,9 +22,9 @@ settings:
     # pairwise also took the pre-commit hook past ten minutes. A hit there
     # would not be fixable by hand anyway — the tools are the source.
     ignore: ["**/__init__.py", "**/index.md", "**/log.md", "**/skilltree.md",
-             "_brain/raw/apowiki-export/**",
-             "_brain/knowledge/articles/**", "_brain/knowledge/topics/**",
-             "_brain/knowledge/books/**"]
+             "_implant/raw/apowiki-export/**",
+             "_implant/knowledge/articles/**", "_implant/knowledge/topics/**",
+             "_implant/knowledge/books/**"]
 
 # Add rules as you go. `henxels explain <path>` shows what applies to a path.
 henxels:
@@ -34,13 +34,13 @@ henxels:
     filename_casing: kebab-case
 
   # --- the brainpick brain (brainpick-brain template) ----------------------
-  # _brain/ is a BRAIN: an OKF wiki that is this project's agent memory, in the
+  # _implant/ is a BRAIN IMPLANT: an OKF wiki mounted beside an agent's own brain (its cortex), in the
   # brainpick brain format (spec/85). Folders are memory types; information
   # flows journals -> knowledge -> skills and is read in reverse. The why:
   # https://github.com/benquemax/brainpick/blob/main/docs/brain.md
-  - henxel: "One brain, one bundle root — and it is compiled fresh before every commit"
+  - henxel: "One implant, one bundle root — and it is compiled fresh before every commit"
     why: >
-      Agents navigate the COMPILED brain (brainpick's index, link graph,
+      Agents navigate the COMPILED implant (brainpick's index, link graph,
       vectors), not the raw files. Stale artifacts lie to agents, so the
       freshness gate runs before every commit. Serve it with `brainpick init`.
     in: .
@@ -55,9 +55,9 @@ henxels:
       decided work, conventions/ decided rules and principles for HOW things
       get done (standing policy — naming, process, contracts — not a
       specific task like plans/, not a step-by-step procedure like skills/).
-      todo/ is not a memory type: it is the brain's own work queue — open.md
+      todo/ is not a memory type: it is the implant's own work queue — open.md
       the live checklist, archive/YYYY-MM-DD.md what was closed that day —
-      kept in the brain so it is searchable and counted. raw/ is not one
+      kept in the implant so it is searchable and counted. raw/ is not one
       either: undistilled source material (transcripts, exports, clippings)
       that knowledge grounds on — governed for order, exempt from OKF, and
       excluded from brainpick's results. Nothing is replicated across
@@ -67,19 +67,19 @@ henxels:
       distilled, tested and pure layer, then knowledge/, then journals/;
       grep raw/ only to ground or to distil.
       Data flow architecture: https://github.com/benquemax/brainpick/blob/main/docs/data-flow-architecture.md
-    in: ./_brain
+    in: ./_implant
     required_files: index.md
     required_subfolders: [knowledge, skills, journals, todo, vision, plans, conventions, raw]
     only_these_subfolders: [knowledge, skills, journals, todo, vision, plans, conventions, raw]
 
-  - henxel: "Brain material is markdown plus small data and scripts; scratch is _temp/"
+  - henxel: "Implant material is markdown plus small data and scripts; scratch is _temp/"
     why: >
-      Catalogues and tooling may live in the brain, but only these types count
-      as brain material. brainpick indexes the markdown; the rest is allowed
+      Catalogues and tooling may live in the implant, but only these types count
+      as implant material. brainpick indexes the markdown; the rest is allowed
       but invisible to the graph. Anything temporary goes to _temp/; raw/
       has its own, wider list below.
-    in: ./_brain/*
-    except: _brain/raw/*
+    in: ./_implant/*
+    except: _implant/raw/*
     allowed_filetypes: [.md, .txt, .py, .json, .yaml, .toml]
 
   - henxel: "raw/ is orderly source material — kebab-case, indexed, greppable — never a dump"
@@ -90,8 +90,8 @@ henxels:
       is, listed in raw/index.md, and pruned when it has been distilled or
       proved worthless. brainpick excludes raw/ from search results (see
       brainpick.toml) so it never drowns the distilled layers; grep it.
-    in: ./_brain/raw/*
-    except: _brain/raw/index.md
+    in: ./_implant/raw/*
+    except: _implant/raw/index.md
     filename_casing: kebab-case
     # .wiki is the ApoWiki export: MediaWiki source stored UNCONVERTED, because
     # that is what ApoWiki actually published and what makes the provenance
@@ -107,35 +107,35 @@ henxels:
       carry the GFDL notice so the import is license-compliant — the
       faithful-history transcription preserves contributor attribution in
       git, and this notice preserves the license declaration in the source.
-    in: ./_brain/raw/apowiki-export/*
-    gfdl_notice_required: ./_brain/raw/apowiki-export    # custom check, lives in henxels_checks.py
+    in: ./_implant/raw/apowiki-export/*
+    gfdl_notice_required: ./_implant/raw/apowiki-export    # custom check, lives in henxels_checks.py
 
   - henxel: "Every concept doc is kebab-case markdown with OKF frontmatter (type is the one MUST)"
     why: >
       type, title and description keep a page findable and compilable; a
       description containing `: ` must be quoted. Follows the Open Knowledge
       Format: https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md
-    in: ./_brain/*
-    except: ["**/index.md", "**/log.md", "**/skilltree.md", "_brain/journals/**", "_brain/raw/**", "_brain/skills/tools/**"]
+    in: ./_implant/*
+    except: ["**/index.md", "**/log.md", "**/skilltree.md", "_implant/journals/**", "_implant/raw/**", "_implant/skills/tools/**"]
     allowed_filetypes: .md
     filename_casing: kebab-case
     required_frontmatter: [type, title, description]
 
   - henxel: "Freshness is explicit — timestamp is a real ISO 8601 datetime bumped whenever a doc changes"
-    in: ./_brain/*
-    except: ["**/index.md", "**/log.md", "**/skilltree.md", "_brain/journals/**", "_brain/raw/**", "_brain/skills/tools/**"]
+    in: ./_implant/*
+    except: ["**/index.md", "**/log.md", "**/skilltree.md", "_implant/journals/**", "_implant/raw/**", "_implant/skills/tools/**"]
     frontmatter_dates: { timestamp: datetime }
     bump_updated_on_change: timestamp
 
   - henxel: "Every claim is grounded — knowledge, skills, plans and conventions link to where they came from"
     why: >
       Wikipedia-style, inline, a plain link at the claim: a journal entry (a
-      decision this brain made), an external page, another brain
+      decision this implant made), an external page, another brain or implant
       (brain://slug-id/path), or say in words that it is an assumption. A
       page with no outbound links is ungrounded and fails, not warns.
       Journals are the primary sources and are exempt.
       https://github.com/benquemax/brainpick/blob/main/docs/grounding.md
-    in: ["./_brain/knowledge/*", "./_brain/skills/*", "./_brain/plans/*", "./_brain/conventions/*"]
+    in: ["./_implant/knowledge/*", "./_implant/skills/*", "./_implant/plans/*", "./_implant/conventions/*"]
     except: ["**/index.md", "**/skilltree.md"]
     min_outbound_links: 1
 
@@ -151,13 +151,13 @@ henxels:
       generated from those edges by brainpick — edit the skills, never the
       tree. A skill with `export: agent-skill` is also written out as a
       harness-loaded SKILL.md pointer by `brainpick integrate`, so the
-      brain's procedures reach the agent before it decides anything. Start
+      implant's procedures reach the agent before it decides anything. Start
       one with `brainpick skill new <name>`.
-    in: ./_brain/skills/*
-    except: ["**/index.md", "**/skilltree.md", "_brain/skills/tools/**"]
+    in: ./_implant/skills/*
+    except: ["**/index.md", "**/skilltree.md", "_implant/skills/tools/**"]
     frontmatter_values:
       type: [skill]
-    skill_tools_exist: ./_brain    # custom check, lives in henxels_checks.py
+    skill_tools_exist: ./_implant    # custom check, lives in henxels_checks.py
 
   - henxel: "One journal file per day — journals/YYYY-MM-DD.md — entries newest first under any heading"
     why: >
@@ -168,8 +168,8 @@ henxels:
       it changed instead of restating it (DRY by pointer, in the direction
       of distillation); when you distil an entry, add the pointer to it.
       Journals are logs, not concept docs: no frontmatter.
-    in: ./_brain/journals
-    except: ./_brain/journals/index.md
+    in: ./_implant/journals
+    except: ./_implant/journals/index.md
     allowed_filetypes: .md
     filename_matches_regex: '^\d{4}-\d{2}-\d{2}\.md$'
     no_frontmatter: true
@@ -182,49 +182,49 @@ henxels:
       cannot be forgotten. Archived days are read-only history; brainpick
       indexes both, and a grounding link to a day is a link to its file, no
       anchor: ../journals/archive/2026/09/2026-09-07.md.
-    in: ./_brain/journals
-    except: ./_brain/journals/index.md
+    in: ./_implant/journals
+    except: ./_implant/journals/index.md
     only_these_subfolders: [archive]
     max_files: 1
 
   - henxel: "Archived journals sit under archive/YYYY/MM/, one day per file, untouched otherwise"
-    in: ./_brain/journals/archive/*
+    in: ./_implant/journals/archive/*
     allowed_filetypes: .md
     filename_matches_regex: '^\d{4}-\d{2}-\d{2}\.md$'
     no_frontmatter: true
-    archived_journals_sit_under_year_month: ./_brain/journals/archive    # custom check, lives in henxels_checks.py
+    archived_journals_sit_under_year_month: ./_implant/journals/archive    # custom check, lives in henxels_checks.py
 
   - henxel: "Every link lands — bundle-absolute (/a/b.md) and relative alike"
-    in: ./_brain/*
-    rooted_links_resolve: ./_brain
+    in: ./_implant/*
+    rooted_links_resolve: ./_implant
     links_resolve: true
 
   - henxel: "OKF reserved files stay frontmatter-free; the root index is compile-managed"
     why: >
-      _brain/index.md is regenerated by `brainpick compile` ([index] mode =
+      _implant/index.md is regenerated by `brainpick compile` ([index] mode =
       "section") — edit the docs' descriptions, never the generated block.
-    in: ["./_brain/**/index.md", "./_brain/**/log.md"]
-    except: ./_brain/index.md
+    in: ["./_implant/**/index.md", "./_implant/**/log.md"]
+    except: ./_implant/index.md
     no_frontmatter: true
 
   - henxel: "Update logs are date-sectioned, newest first"
-    in: ./_brain/**/log.md
+    in: ./_implant/**/log.md
     log_headings_are_dates: true    # custom check, lives in henxels_checks.py
 
   - henxel: "vision/ is a book — index.md is the table of contents; an unlinked chapter is invisible"
-    in: ./_brain/vision
+    in: ./_implant/vision
     required_files: index.md
-    referenced_in: ./_brain/vision/index.md
-    except: ./_brain/vision/index.md
+    referenced_in: ./_implant/vision/index.md
+    except: ./_implant/vision/index.md
 
   - henxel: "plans/ holds DECIDED work only, every plan listed in its index"
     why: >
       Undecided ideas belong in todo/open.md (a task) or journals/ (an
       insight), not here.
-    in: ./_brain/plans
+    in: ./_implant/plans
     required_files: index.md
-    referenced_in: ./_brain/plans/index.md
-    except: ./_brain/plans/index.md
+    referenced_in: ./_implant/plans/index.md
+    except: ./_implant/plans/index.md
 
   - henxel: "conventions/ holds decided rules and principles, one per page, every one listed in its index"
     why: >
@@ -237,16 +237,16 @@ henxels:
       first in brain_overview and the AGENTS.md report; ground each one
       the same way any other claim is grounded (the decision episode, an
       external source, or a stated assumption).
-    in: ./_brain/conventions
+    in: ./_implant/conventions
     required_files: index.md
-    referenced_in: ./_brain/conventions/index.md
-    except: ./_brain/conventions/index.md
+    referenced_in: ./_implant/conventions/index.md
+    except: ./_implant/conventions/index.md
     frontmatter_values:
       type: [convention]
 
-  - henxel: "todo/ is the brain's work queue — open.md the live type: todo checklist, done items archived by day"
+  - henxel: "todo/ is the implant's work queue — open.md the live type: todo checklist, done items archived by day"
     why: >
-      Open work is part of the brain, so it is searchable and counted:
+      Open work is part of the implant, so it is searchable and counted:
       brainpick compiles every `- [ ]` / `- [x]` line of a `type: todo` doc
       into todos.json, the overview says how many are open, and a search
       hit on a list carries its counts. Tasks that surface mid-work go to
@@ -256,18 +256,18 @@ henxels:
       YYYY-MM-DD)` and moves to todo/archive/YYYY-MM-DD.md — the day it was
       closed — the next day at the latest, so open.md stays small and
       "done" is an episode with a date. The archive holds only done items.
-    in: ./_brain/todo/*
-    except: ./_brain/todo/index.md
+    in: ./_implant/todo/*
+    except: ./_implant/todo/index.md
     required_files: [index.md, open.md]
     only_these_subfolders: [archive]
     frontmatter_values:
       type: [todo]
-    done_todos_are_archived: ./_brain/todo    # custom check, lives in henxels_checks.py
+    done_todos_are_archived: ./_implant/todo    # custom check, lives in henxels_checks.py
 
   - henxel: "_temp stays gitignored"
     why: >
       _temp/ is free scratch space; nothing in it is ever committed, and
-      brainpick always excludes it from the brain.
+      brainpick always excludes it from the implant.
     in: .
     run_before_commit: git check-ignore -q _temp
 

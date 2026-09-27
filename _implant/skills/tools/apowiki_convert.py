@@ -1,0 +1,755 @@
+#!/usr/bin/env python3
+"""Convert the ApoWiki wikitext export into implant articles — deterministically.
+
+This is the machine-time half of the MVP (see plans/mvp-then-iteration.md):
+no model is involved, so it costs hours of CPU rather than tokens, and it is
+idempotent — run it as often as you like and the output is the same.
+
+What it guarantees, because each is a rule the implant's contract enforces:
+
+* **Links land.** Every `[[wiki link]]` is resolved through the SAME slug map
+  the importer used, including its `-v2` collision disambiguation. A target
+  that does not exist becomes a visible red link and is reported, never a
+  silently plausible path.
+* **Receipts survive.** The corpus is heavily cited (5 590 `<ref>` tags,
+  1 365 `{{Kirjaviite}}` book citations). Structured citation templates are
+  rendered as real footnotes with author, title, publisher, year, page and
+  ISBN intact, because a claim without its receipt is worth less here than no
+  claim at all.
+* **Degradation is visible.** An unknown template is emitted as a fenced
+  `wikitext` block, not dropped. A converter that silently discards content
+  looks successful while destroying the archive; this one looks noisy instead.
+* **Redirects are resolved, not imported.** The 374 redirect pages become
+  entries in a redirect map used for link resolution; they do not become 374
+  stub articles.
+
+Usage:
+    python3 apowiki_convert.py --export _implant/raw/apowiki-export \\
+        --cache _temp/apowiki-cache --out _implant/knowledge/articles \\
+        [--report _temp/convert-report.json] [--limit N]
+"""
+from __future__ import annotations
+
+import argparse
+import html
+import json
+import re
+import unicodedata
+from collections import Counter
+from pathlib import Path
+
+try:  # the book spine's alias table; the converter works without it too
+    import sys as _sys
+    _sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from apowiki_books import alias_map as _book_alias_map
+    BOOK_ALIASES = _book_alias_map()
+except ImportError:  # pragma: no cover
+    BOOK_ALIASES = {}
+
+# ---------------------------------------------------------------------------
+# Slug — byte-identical to apowiki_import.slug(). Do not "improve" it here:
+# the two must agree or the links this tool writes will not match the files
+# the importer named.
+# ---------------------------------------------------------------------------
+
+
+def slug(title: str) -> str:
+    out = []
+    for ch in title.lower():
+        if ch.isalnum():
+            out.append(ch)
+        elif ch in " _-/":
+            out.append("-")
+    s = "".join(out)
+    while "--" in s:
+        s = s.replace("--", "-")
+    return s.strip("-") or "untitled"
+
+
+def resolve_filenames(titles: list[str]) -> dict[str, str]:
+    """Title -> unique stem, with the importer's sorted `-vN` disambiguation."""
+    groups: dict[str, list[str]] = {}
+    for t in sorted(titles):
+        groups.setdefault(slug(t), []).append(t)
+    names: dict[str, str] = {}
+    for base, group in groups.items():
+        if len(group) == 1:
+            names[group[0]] = base
+        else:
+            for i, t in enumerate(group):
+                names[t] = base if i == 0 else f"{base}-v{i + 1}"
+    return names
+
+
+# ---------------------------------------------------------------------------
+# Citation templates -> footnote text
+# ---------------------------------------------------------------------------
+
+def _fields(body: str) -> dict[str, str]:
+    """Parse `| Key = Value` pairs, respecting nested braces and brackets."""
+    parts, depth, cur = [], 0, []
+    for ch in body:
+        if ch in "{[":
+            depth += 1
+        elif ch in "}]":
+            depth -= 1
+        if ch == "|" and depth == 0:
+            parts.append("".join(cur))
+            cur = []
+        else:
+            cur.append(ch)
+    parts.append("".join(cur))
+    out: dict[str, str] = {}
+    for p in parts[1:]:
+        if "=" in p:
+            k, v = p.split("=", 1)
+            out[k.strip().lower()] = v.strip()
+        elif p.strip():
+            out.setdefault("_positional", p.strip())
+    return out
+
+
+def _strip_comments(s: str) -> str:
+    return re.sub(r"<!--.*?-->", "", s, flags=re.S).strip()
+
+
+def fmt_kirjaviite(f: dict[str, str]) -> str:
+    """A book citation. Fields are Finnish; the output is a plain reference."""
+    bits = []
+    if f.get("tekijä"):
+        bits.append(f["tekijä"])
+    if f.get("nimeke"):
+        bits.append(f"*{f['nimeke']}*")
+    if f.get("selite"):
+        bits.append(f["selite"])
+    if f.get("julkaisija"):
+        bits.append(f["julkaisija"])
+    if f.get("vuosi"):
+        bits.append(f["vuosi"])
+    if f.get("sivu"):
+        bits.append(f"s. {f['sivu']}")
+    if f.get("tunniste"):
+        bits.append(f["tunniste"])
+    return ", ".join(b for b in bits if b)
+
+
+def fmt_verkkoviite(f: dict[str, str]) -> str:
+    """A web citation. The URL is often commented out in the source; keep the
+    reference readable either way rather than emitting a broken link."""
+    url = _strip_comments(f.get("osoite", ""))
+    label = f.get("nimeke") or url or "verkkolähde"
+    bits = []
+    if f.get("tekijä"):
+        bits.append(f["tekijä"])
+    bits.append(f"[{label}]({url})" if url.startswith("http") else f"*{label}*")
+    for key in ("julkaisija", "ajankohta", "selite"):
+        if f.get(key):
+            bits.append(f[key])
+    if f.get("viitattu"):
+        bits.append(f"viitattu {f['viitattu']}")
+    return ", ".join(bits)
+
+
+def fmt_lehtiviite(f: dict[str, str]) -> str:
+    bits = []
+    for key in ("tekijä", "otsikko", "nimeke"):
+        if f.get(key):
+            bits.append(f["tekijä"] if key == "tekijä" else f"*{f[key]}*")
+    for key in ("lehti", "julkaisu", "vuosi", "numero", "sivut", "sivu"):
+        if f.get(key):
+            bits.append(f[key])
+    return ", ".join(bits)
+
+
+CITATION_FORMATTERS = {
+    "kirjaviite": fmt_kirjaviite,
+    "cite book": fmt_kirjaviite,
+    "verkkoviite": fmt_verkkoviite,
+    "cite web": fmt_verkkoviite,
+    "lehtiviite": fmt_lehtiviite,
+    "cite journal": fmt_lehtiviite,
+}
+
+# Templates that carry no content worth keeping (layout and navigation cruft).
+DROP_TEMPLATES = {"hl2", "viestipohja", "kirja-päivitys", ",", "clear", "-"}
+
+
+class Converter:
+    def __init__(self, stems: dict[str, str], redirects: dict[str, str]):
+        self.stems = stems           # title -> stem
+        self.redirects = redirects   # title -> target title
+        # Case-insensitive title lookup, since wiki links vary in case.
+        self.by_lower = {t.lower(): t for t in stems}
+        self.stats = Counter()
+        self.red_links: Counter = Counter()
+        self.unknown_templates: Counter = Counter()
+        self.pending_keywords: list[str] = []
+        self.missing_project_pages: Counter = Counter()
+
+    # -- link resolution ---------------------------------------------------
+
+    def resolve_title(self, target: str) -> str | None:
+        """Follow redirects to a title that has an article, or None."""
+        seen = set()
+        cur = target
+        for _ in range(10):
+            key = cur.lower()
+            if key in seen:
+                return None
+            seen.add(key)
+            real = self.by_lower.get(key)
+            if real is None:
+                # MediaWiki treats the first letter as case-insensitive and
+                # underscores as spaces.
+                alt = cur.replace("_", " ").strip()
+                real = self.by_lower.get(alt.lower())
+                if real is None and alt:
+                    real = self.by_lower.get((alt[0].upper() + alt[1:]).lower())
+                if real is None:
+                    return None
+            if real in self.redirects:
+                cur = self.redirects[real]
+                continue
+            return real
+        return None
+
+    def link(self, target: str, label: str | None = None) -> str:
+        target = target.strip()
+        label = (label or target).strip()
+        if not target:
+            return label
+
+        # ApoWiki's project namespace — the glossary shortcuts (AW:S#term and
+        # friends) are 415 of them. The fetch captured only the main
+        # namespace, so those pages are genuinely absent from this export
+        # rather than merely misnamed: record the gap and keep the prose
+        # readable instead of emitting a link that cannot land. Re-fetching
+        # the project namespace is a task in todo/open.md.
+        if re.match(r"^(aw|apowiki|ohje|help|project|keskustelu|talk)\s*:",
+                    target, re.I):
+            self.stats["link_project_ns_missing"] += 1
+            self.missing_project_pages[target.split("#", 1)[0].strip()] += 1
+            return label
+
+        # Interwiki: Finnish Wikipedia.
+        if target.lower().startswith(("wp:", "w:")):
+            page = target.split(":", 1)[1].strip()
+            url = "https://fi.wikipedia.org/wiki/" + page.replace(" ", "_")
+            self.stats["link_wikipedia"] += 1
+            return f"[{label}]({url})"
+
+        # Images and files: no media is exported, so name them in italics
+        # rather than emit a link to a file that is not here.
+        if target.split(":", 1)[0].strip().lower() in (
+                "kuva", "tiedosto", "file", "image"):
+            self.stats["link_media_dropped"] += 1
+            return ""
+
+        # Categories are handled separately (they become tags).
+        if target.lower().startswith(("luokka:", "category:")):
+            return ""
+
+        real = self.resolve_title(target)
+        if real is None:
+            # A biblical book the wiki never wrote an article for still has a
+            # page: the book spine (apowiki_books.py). Land the link there
+            # rather than leave the most-cited texts in the corpus red.
+            book = BOOK_ALIASES.get(target.replace("_", " ").strip().lower())
+            if book:
+                self.stats["link_book_spine"] += 1
+                return f"[{label}](../{book})"
+            self.red_links[target] += 1
+            self.stats["link_red"] += 1
+            # A red link that still reads as prose, and is greppable.
+            return f"{label} <!-- red link: {target} -->"
+        self.stats["link_internal"] += 1
+        return f"[{label}]({self.stems[real]}.md)"
+
+    # -- template expansion ------------------------------------------------
+
+    def expand_templates(self, text: str) -> str:
+        """Replace {{...}} innermost-first so nesting resolves correctly."""
+        pattern = re.compile(r"\{\{([^{}]*)\}\}", re.S)
+        for _ in range(12):
+            new = pattern.sub(self._one_template, text)
+            if new == text:
+                break
+            text = new
+        return text
+
+    def _one_template(self, m: re.Match) -> str:
+        raw = m.group(1)
+        name = raw.split("|", 1)[0].strip().lower()
+        f = _fields(raw)
+        pos = f.get("_positional", "")
+
+        if name in CITATION_FORMATTERS:
+            self.stats[f"tmpl_{name}"] += 1
+            return CITATION_FORMATTERS[name](f)
+        if name in DROP_TEMPLATES:
+            self.stats["tmpl_dropped"] += 1
+            return ""
+        if name.startswith("viitteet") or name == "reflist":
+            self.stats["tmpl_reflist"] += 1
+            return "\n\n## Viitteet\n\n<!-- footnotes render here -->\n"
+        if name == "rp":
+            # An inline scripture/page pointer: keep it as plain text.
+            self.stats["tmpl_rp"] += 1
+            return f" ({pos})" if pos else ""
+        if name in ("sitaatti", "lainaus", "quotation", "sitaatti3",
+                    "sitaatti2", "cquote", "blockquote"):
+            self.stats["tmpl_quote"] += 1
+            segments = [p.strip() for p in re.split(r"\|", raw)[1:] if p.strip()]
+            # Drop named parameters (lähde=, source=); keep positional text.
+            body_parts, attribution = [], ""
+            for seg in segments:
+                head = seg.split("=", 1)[0]
+                if "=" in seg and " " not in head.strip() and len(head) < 20:
+                    continue
+                body_parts.append(seg)
+            if len(body_parts) > 1 and not body_parts[-1].startswith("#"):
+                attribution = body_parts[-1]
+                body_parts = body_parts[:-1]
+            quoted = "\n".join(
+                "> " + ln for part in body_parts
+                for ln in part.split("\n") if ln.strip() or True)
+            if attribution:
+                quoted += f"\n>\n> — {attribution}"
+            return "\n\n" + quoted + "\n\n"
+        if name in ("pääartikkeli", "main"):
+            self.stats["tmpl_mainarticle"] += 1
+            inner = pos or raw.split("|", 1)[-1]
+            return f"\n\n*Pääartikkeli: {inner.strip()}*\n\n"
+        if name.startswith(("uskonnonfilosofia", "raamatuntutkimus", "navbox",
+                            "evoluutio", "teologia", "filosofia")):
+            # Navigation boxes: the implant's own link graph replaces them.
+            self.stats["tmpl_navbox_dropped"] += 1
+            return ""
+        if name in ("tägit", "tagit", "avainsanat"):
+            # Search keywords the editors chose by hand. They are retrieval
+            # gold in an implant whose whole point is being findable, so they are
+            # collected into the page's tags rather than thrown away.
+            self.stats["tmpl_keywords"] += 1
+            for kw in re.split(r"[,\n]", pos):
+                kw = kw.strip()
+                if 2 < len(kw) < 40:
+                    self.pending_keywords.append(kw)
+            return ""
+        if name in ("lähde", "fact", "citation needed", "cn"):
+            # ApoWiki's own "citation needed" marker. This implant requires a
+            # receipt for every claim, so the marker is kept as a visible
+            # admission rather than quietly deleted.
+            self.stats["tmpl_citation_needed"] += 1
+            return " *[lähde puuttuu]*"
+
+        if name in ("ingressi", "lead", "johdanto"):
+            # The article's lead paragraph, wrapped in a styling template.
+            # This is prime content — the first thing a reader and the
+            # description generator see — so it is unwrapped, not dropped.
+            self.stats["tmpl_lead"] += 1
+            return "\n\n" + pos.strip() + "\n\n"
+        if name in ("en", "fi", "sv", "de", "la", "gr", "he"):
+            # A language marker on a following title; the label is noise in
+            # prose but the language is worth keeping inline.
+            self.stats["tmpl_lang"] += 1
+            return "" if not pos else f" ({pos.strip()})"
+        if name in ("väite-alku", "väite-loppu", "vaite-alku", "vaite-loppu",
+                    "kh", "!", "l", "prettytable", "sisällysluettelo",
+                    "toc", "suojattu", "tekijänoikeuksien alainen",
+                    "lähteetön", "tämä artikkeli", "malline:tieteenfilosofia",
+                    "raamatun_kirjat", "kirja", "tieteilijä", "ajankohtainen 3"):
+            # Layout, protection banners and table styling: presentation that
+            # markdown and the implant's own structure already provide.
+            self.stats["tmpl_layout_dropped"] += 1
+            return ""
+        if name.startswith("#css") or name.startswith("#"):
+            self.stats["tmpl_parserfunc_dropped"] += 1
+            return ""
+        if name in ("raamatunpaikka", "elokuvaviite", "cathency",
+                    "kainalojuttu", "kainalojuttuboksi", "multiple image",
+                    "hakasuluissa", "=", "kenen mukaan"):
+            # Small wrappers around their own content: keep the content, drop
+            # the wrapper. A citation variant keeps its text; a sidebar keeps
+            # its prose; "hakasuluissa" literally means "in square brackets".
+            self.stats["tmpl_unwrapped"] += 1
+            inner = pos.strip()
+            if name == "hakasuluissa" and inner:
+                return f"[{inner}]"
+            return inner
+        if re.match(r"^k-[a-z]{2,3}$", name) or name in ("k-grc", "k-en", "k-he"):
+            # Language-tagged term ({{k-grc|logos}}): the term is the content.
+            self.stats["tmpl_lang_term"] += 1
+            return pos.strip()
+        if name.startswith("malline:") or name.endswith(("-päivitys", "-navi")):
+            # `malline:` is the Template: namespace spelled out, and every
+            # *-päivitys is an update banner. Both are navigation furniture.
+            self.stats["tmpl_navbox_dropped"] += 1
+            return ""
+        # A bare {{topic}} with no parameters, whose name matches an article
+        # or category in this wiki, is a topic navbox: the implant's link graph
+        # replaces it. Anything WITH parameters may carry content, so it still
+        # falls through to the visible-degradation path below.
+        if not pos and "|" not in raw and len(name) > 3:
+            self.stats["tmpl_navbox_dropped"] += 1
+            return ""
+
+        # Unknown: keep it visible so the gap can be found and fixed.
+        self.unknown_templates[name] += 1
+        self.stats["tmpl_unknown"] += 1
+        return "\n\n```wikitext\n{{" + raw.strip() + "}}\n```\n\n"
+
+    # -- refs --------------------------------------------------------------
+
+    def extract_refs(self, text: str) -> tuple[str, list[str]]:
+        """Turn <ref> tags into markdown footnotes, preserving named reuse."""
+        notes: list[str] = []
+        named: dict[str, int] = {}
+
+        def add(content: str) -> int:
+            notes.append(content.strip())
+            return len(notes)
+
+        def repl(m: re.Match) -> str:
+            attrs, content = m.group("attrs") or "", m.group("body")
+            nm = re.search(r'name\s*=\s*"?([^"\s/>]+)', attrs)
+            if content is None:  # self-closing reuse: <ref name="x" />
+                if nm and nm.group(1) in named:
+                    return f"[^{named[nm.group(1)]}]"
+                return ""
+            body = self.expand_templates(content)
+            body = self.inline_markup(body).strip()
+            body = re.sub(r"\s*\n\s*", " ", body)
+            idx = add(body)
+            if nm:
+                named[nm.group(1)] = idx
+            return f"[^{idx}]"
+
+        pattern = re.compile(
+            r"<ref(?P<attrs>[^>]*?)(?:/>|>(?P<body>.*?)</ref\s*>)",
+            re.S | re.I)
+        text = pattern.sub(repl, text)
+        self.stats["refs"] += len(notes)
+        return text, notes
+
+    # -- inline markup -----------------------------------------------------
+
+    def _media_embeds(self, text: str) -> str:
+        """`[[Kuva:x.jpg|frame|caption]]` -> an italic caption line.
+
+        Brace-counted rather than regex-matched, because a caption may itself
+        contain `[[links]]` and `[^1]` footnote markers.
+        """
+        open_re = re.compile(
+            r"\[\[\s*(?:Kuva|Tiedosto|File|Image)\s*:", re.I)
+        out, pos = [], 0
+        while True:
+            m = open_re.search(text, pos)
+            if not m:
+                out.append(text[pos:])
+                break
+            out.append(text[pos:m.start()])
+            depth, i = 1, m.end()
+            while i < len(text) and depth:
+                if text.startswith("[[", i):
+                    depth += 1
+                    i += 2
+                    continue
+                if text.startswith("]]", i):
+                    depth -= 1
+                    i += 2
+                    continue
+                i += 1
+            inner = text[m.end():i - 2]
+            parts = inner.split("|")
+            name = parts[0].strip()
+            # The caption is the last part that is not a layout keyword.
+            caption = ""
+            for p in reversed(parts[1:]):
+                q = p.strip()
+                if not q:
+                    continue
+                if re.fullmatch(
+                        r"(frame|framed|thumb|thumbnail|left|right|center|none"
+                        r"|border|upright|\d+\s*px|upright=[\d.]+)", q, re.I):
+                    continue
+                caption = q
+                break
+            self.stats["media_caption"] += 1
+            if caption:
+                out.append(f"\n\n*Kuva: {caption}*\n\n")
+            else:
+                out.append(f"\n\n*Kuva: {name}*\n\n")
+            pos = i
+        return "".join(out)
+
+    def inline_markup(self, text: str) -> str:
+        # Media embeds first. Their captions are real prose — often several
+        # sentences carrying their own citations — and may contain brackets,
+        # so the wiki-link regex below (which forbids brackets to stay
+        # non-greedy) cannot match them. No media file is exported, so the
+        # caption survives as an italic caption and the image is named.
+        text = self._media_embeds(text)
+
+        # Wiki links next, so their labels are not mangled by the quote rules.
+        def wl(m: re.Match) -> str:
+            inner = m.group(1)
+            if "|" in inner:
+                tgt, lbl = inner.split("|", 1)
+            else:
+                tgt, lbl = inner, inner
+            tgt = tgt.split("#", 1)[0]
+            return self.link(tgt, lbl)
+
+        text = re.sub(r"\[\[([^\[\]]+)\]\]", wl, text)
+
+        # External links: [url label] -> [label](url)
+        text = re.sub(
+            r"\[(https?://[^\s\]]+)(?:\s+([^\]]+))?\]",
+            lambda m: f"[{(m.group(2) or m.group(1)).strip()}]({m.group(1)})",
+            text)
+
+        # Emphasis: five, then three, then two quotes.
+        text = re.sub(r"'''''(.+?)'''''", r"***\1***", text, flags=re.S)
+        text = re.sub(r"'''(.+?)'''", r"**\1**", text, flags=re.S)
+        text = re.sub(r"''(.+?)''", r"*\1*", text, flags=re.S)
+
+        # Inline HTML that markdown has no need for.
+        text = re.sub(r"<br\s*/?>", "  \n", text, flags=re.I)
+        text = re.sub(r"</?(small|big|center|font|span|div)[^>]*>", "",
+                      text, flags=re.I)
+        text = re.sub(r"<nowiki>(.*?)</nowiki>", r"`\1`", text, flags=re.S | re.I)
+        # HTML entities: markdown is read as text, so &ndash; must become the
+        # character it names or the prose shows its own markup.
+        text = html.unescape(text)
+        return text
+
+    # -- block structure ---------------------------------------------------
+
+    def blocks(self, text: str) -> str:
+        out = []
+        for line in text.split("\n"):
+            s = line.rstrip()
+            m = re.match(r"^(={1,6})\s*(.+?)\s*\1\s*$", s)
+            if m:
+                # A single '=' is an h1 in wikitext, but the article title
+                # already owns h1 here, so shift every level down by one.
+                level = min(len(m.group(1)) + 1, 6)
+                out.append("#" * level + " " + m.group(2))
+                continue
+            # A wikitext bullet is `* text`. This runs AFTER inline markup, so
+            # `'''Foo'''` is already `**Foo**`; a greedy `^\*+` would turn a
+            # bold lead sentence into a list item and eat one of its markers.
+            m = re.match(r"^(\*+)[ \t]+(?!\*)(.*)$", s)
+            if m:
+                out.append("  " * (len(m.group(1)) - 1) + "* " + m.group(2))
+                continue
+            m = re.match(r"^(#+)[ \t]+(.*)$", s)
+            if m:
+                out.append("  " * (len(m.group(1)) - 1) + "1. " + m.group(2))
+                continue
+            m = re.match(r"^:+\s*(.*)$", s)
+            if m:
+                out.append("> " + m.group(1))
+                continue
+            m = re.match(r"^;\s*(.*)$", s)
+            if m:
+                out.append("**" + m.group(1) + "**")
+                continue
+            if re.match(r"^-{4,}\s*$", s):
+                out.append("---")
+                continue
+            out.append(s)
+        text = "\n".join(out)
+        text = re.sub(r"\n{3,}", "\n\n", text)
+        return text
+
+    def tables(self, text: str) -> str:
+        """Wiki tables are 41 occurrences in the whole corpus. Rather than
+        half-convert them, keep them as visible wikitext so nothing is lost
+        and the remaining work is findable."""
+        def repl(m: re.Match) -> str:
+            self.stats["table_preserved"] += 1
+            return "\n\n```wikitext\n" + m.group(0).strip() + "\n```\n\n"
+        return re.sub(r"^\{\|.*?^\|\}", repl, text, flags=re.S | re.M)
+
+    # -- whole document ----------------------------------------------------
+
+    def categories(self, text: str) -> tuple[str, list[str]]:
+        cats = []
+
+        def repl(m: re.Match) -> str:
+            cats.append(m.group(1).strip())
+            return ""
+
+        text = re.sub(r"\[\[(?:Luokka|Category):([^\]|]+)(?:\|[^\]]*)?\]\]",
+                      repl, text, flags=re.I)
+        return text, cats
+
+    def convert(self, title: str, wikitext: str, revid: str | None) -> str:
+        self.pending_keywords = []
+        body = re.sub(r"^<!--.*?-->\s*", "", wikitext, flags=re.S)
+        body, cats = self.categories(body)
+        body = self.tables(body)
+        body, notes = self.extract_refs(body)
+        body = self.expand_templates(body)
+        body = self.inline_markup(body)
+        body = self.blocks(body)
+        body = re.sub(r"<!--\s*red link:", "<!-- red link:", body)
+        body = re.sub(r"\n{3,}", "\n\n", body).strip()
+
+        # Footnote definitions go at the end, under the references heading the
+        # {{viitteet}} template already produced (or one we add).
+        if notes:
+            if "## Viitteet" not in body:
+                body += "\n\n## Viitteet\n"
+            body = body.replace("<!-- footnotes render here -->", "").rstrip()
+            body += "\n\n" + "\n".join(
+                f"[^{i + 1}]: {n}" for i, n in enumerate(notes) if n)
+
+        tags = ["apowiki"] + [slug(c) for c in cats if c]
+        # Editor-chosen keywords, capped: tags are for retrieval, and a list
+        # of forty dilutes rather than sharpens it.
+        tags += [slug(k) for k in self.pending_keywords[:12] if k]
+        desc = self.description(body, title)
+        fm = [
+            "---",
+            "type: article",
+            "about: apologetics",
+            f"title: {json.dumps(title, ensure_ascii=False)}",
+            f"description: {json.dumps(desc, ensure_ascii=False)}",
+            f"tags: [{', '.join(dict.fromkeys(tags))}]",
+            "timestamp: 2026-09-25T23:00:00Z",
+            "---",
+            "",
+        ]
+        permalink = (f"https://apowiki.fi/index.php?oldid={revid}" if revid
+                     else "https://apowiki.fi")
+        notice = (
+            "<!--\n"
+            f'Converted from ApoWiki (https://apowiki.fi) article "{title}".\n'
+            f"Permalink: {permalink}\n"
+            "Licence: GNU Free Documentation License, version 1.3 or later "
+            "(GFDL-1.3-or-later).\n"
+            "Generated by skills/tools/apowiki_convert.py from "
+            "raw/apowiki-export/ — the wikitext there is the source of truth.\n"
+            "-->\n"
+        )
+        return "\n".join(fm) + notice + "\n" + f"# {title}\n\n" + body + "\n"
+
+    def description(self, body: str, title: str) -> str:
+        """First real sentence, trimmed — the description is what search and
+        the index show, so an empty one makes a page effectively invisible."""
+        text = re.sub(r"^#.*$", "", body, flags=re.M)
+        text = re.sub(r"```wikitext.*?```", "", text, flags=re.S)
+        text = re.sub(r"<!--.*?-->", "", text, flags=re.S)
+        text = re.sub(r"\[\^?\d+\]:?", "", text)
+        # Markdown links: keep the label, drop the target, or the description
+        # reads "Herman Dooyeweerd(herman-dooyeweerd.md)".
+        text = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", text)
+        text = re.sub(r"[*>#\[\]]", "", text)
+        text = re.sub(r"\s+", " ", text).strip()
+        if not text:
+            return f"ApoWiki-artikkeli: {title}."
+        cut = text[:400]
+        m = re.search(r"^(.{60,300}?[.!?])\s", cut)
+        out = (m.group(1) if m else cut[:240].rsplit(" ", 1)[0] + "…").strip()
+        return unicodedata.normalize("NFC", out)
+
+
+def _revision_text(rev: dict) -> str:
+    """Wikitext out of a MediaWiki revision record.
+
+    MediaWiki 1.43 returns content under `slots.main.*` (the multi-content
+    revision shape); older shapes put it in `*` or `content`. Reading only
+    the top-level keys yields the empty string for every page, which looks
+    like a corpus of blank articles rather than like a bug — so try all three.
+    """
+    slots = rev.get("slots") or {}
+    main = slots.get("main") or {}
+    return main.get("*") or main.get("content") or rev.get("*") \
+        or rev.get("content") or ""
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser(description=__doc__)
+    ap.add_argument("--export", default="_implant/raw/apowiki-export")
+    ap.add_argument("--cache", default="_temp/apowiki-cache")
+    ap.add_argument("--out", default="_implant/knowledge/articles")
+    ap.add_argument("--report", default="_temp/convert-report.json")
+    ap.add_argument("--limit", type=int, default=0)
+    args = ap.parse_args()
+
+    export, cache = Path(args.export), Path(args.cache)
+    out = Path(args.out)
+
+    # Titles, revisions and redirect targets all come from the cache, so the
+    # wiki's server is never touched by a conversion run.
+    titles, revid_of, redirects, wikitext_of = [], {}, {}, {}
+    for jf in sorted(cache.glob("*.json")):
+        d = json.loads(jf.read_text(encoding="utf-8"))
+        revs = d.get("revisions") or []
+        if not revs:
+            continue
+        title = d["title"]
+        titles.append(title)
+        last = revs[-1]
+        revid_of[title] = str(last.get("revid", ""))
+        content = _revision_text(last)
+        wikitext_of[title] = content
+        m = re.match(r"^\s*#(?:REDIRECT|OHJAUS)\s*\[\[([^\]|]+)",
+                     content, re.I)
+        if m:
+            redirects[title] = m.group(1).strip()
+
+    stems = resolve_filenames(titles)
+    conv = Converter(stems, redirects)
+    out.mkdir(parents=True, exist_ok=True)
+
+    written = 0
+    for title in sorted(titles):
+        if title in redirects:
+            continue
+        wikitext = wikitext_of[title]
+        # Prefer the exported file when present: it is the committed source.
+        ef = export / f"{stems[title]}.wiki"
+        if ef.exists():
+            wikitext = ef.read_text(encoding="utf-8", errors="replace")
+        md = conv.convert(title, wikitext, revid_of.get(title))
+        (out / f"{stems[title]}.md").write_text(md, encoding="utf-8")
+        written += 1
+        if args.limit and written >= args.limit:
+            break
+
+    report = {
+        "articles_written": written,
+        "redirects_resolved": len(redirects),
+        "stats": dict(conv.stats),
+        "red_links_total": sum(conv.red_links.values()),
+        "red_links_distinct": len(conv.red_links),
+        "red_links_top": conv.red_links.most_common(60),
+        "unknown_templates": conv.unknown_templates.most_common(40),
+        "missing_project_pages": conv.missing_project_pages.most_common(20),
+    }
+    rp = Path(args.report)
+    rp.parent.mkdir(parents=True, exist_ok=True)
+    rp.write_text(json.dumps(report, ensure_ascii=False, indent=2),
+                  encoding="utf-8")
+
+    print(f"wrote {written} articles to {out}")
+    print(f"redirects resolved: {len(redirects)}")
+    print(f"internal links: {conv.stats['link_internal']}, "
+          f"wikipedia: {conv.stats['link_wikipedia']}, "
+          f"red: {conv.stats['link_red']} "
+          f"({len(conv.red_links)} distinct)")
+    print(f"footnotes: {conv.stats['refs']}")
+    if conv.unknown_templates:
+        print(f"unknown templates (kept visible): "
+              f"{sum(conv.unknown_templates.values())} in "
+              f"{len(conv.unknown_templates)} kinds — "
+              f"{', '.join(k for k, _ in conv.unknown_templates.most_common(8))}")
+    print(f"report: {rp}")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

@@ -1,13 +1,13 @@
-# brainpick.toml — how this brain is compiled and served (SHARED policy, committed).
+# brainpick.toml — how this brain implant is compiled and served (SHARED policy, committed).
 # Machine-local model endpoints live in brainpick.local.toml beside this file —
 # it deep-merges over this one and stays out of git. Run `brainpick init` to
-# detect backends and mint a [bundle] id (a stable address for this brain).
+# detect backends and mint a [bundle] id (a stable address for this implant).
 spec = "0.1"
 
 [bundle]
-root = "_brain"
+root = "_implant"
 exclude = ["raw/*"]     # source material stays greppable but never surfaces in results
-id = "3hm51e1pxik7zz5la3bve"   # minted once — an address for this brain, never a credential
+id = "3hm51e1pxik7zz5la3bve"   # minted once — an address for this brain implant, never a credential
 
 # License: ApoWiki article content is GFDL-1.3-or-later (the import preserves
 # it); scripts, henxels checks, and tooling authored here are MIT. See LICENSE.
@@ -16,14 +16,14 @@ id = "3hm51e1pxik7zz5la3bve"   # minted once — an address for this brain, neve
 mode = "section"        # brainpick owns a generated block at the end of index.md
 
 [brain]
-format = 3              # the brainpick brain format (spec/85): day journals, todo/ and conventions/ in the brain
+format = 3              # the brainpick brain format (spec/85): day journals, todo/ and conventions/ in the implant
 # PUBLIC — write every page for a stranger on the internet.
 # This repository will be published. ApoWiki's content is GFDL-1.3-or-later and
 # arrives with 20 years of contributor attribution; the import preserves both.
 # No host names, no fleet paths, no personal detail, no credentials, no bare IP
 # addresses (those are pseudonymized at import — see conventions/written-to-be-public.md).
-# The standing rule is _brain/conventions/written-to-be-public.md — read it before writing here.
-audience = "public"     # personal | team | public — who this brain is written for
+# The standing rule is _implant/conventions/written-to-be-public.md — read it before writing here.
+audience = "public"     # personal | team | public — who this implant is written for
 origin = "git@github.com:erkkimon/brain-implant-apologetics.git"
 
 # Memories fade — a ranking factor, never a deletion: a doc's search score is

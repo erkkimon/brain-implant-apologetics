@@ -1,4 +1,4 @@
-"""Custom checks for the brain (ported from stem, with apologetics-specific additions).
+"""Custom checks for the implant (ported from stem, with apologetics-specific additions).
 
 Stem checks ported:
   - log_headings_are_dates
@@ -68,7 +68,7 @@ def log_headings_are_dates(file, scope):
 @statement("skill_tools_exist", help="every path a skill lists under `tools:` exists, relative to the bundle root")
 def skill_tools_exist(param, file, scope):
     """brainpick indexes and points at a skill's tools (spec/85); a path that lands
-    nowhere is a broken promise. `param` is the bundle root (./_brain)."""
+    nowhere is a broken promise. `param` is the bundle root (./_implant)."""
     root = _folder(param)
     tools = _frontmatter(scope.read_text(file)).get("tools") or []
     if not isinstance(tools, list):
@@ -80,7 +80,7 @@ def skill_tools_exist(param, file, scope):
 @statement("archived_journals_sit_under_year_month",
            help="archived journal days live at archive/YYYY/MM/YYYY-MM-DD.md, the folders matching the name")
 def archived_journals_sit_under_year_month(param, file, scope):
-    """`param` is the archive folder (./_brain/journals/archive)."""
+    """`param` is the archive folder (./_implant/journals/archive)."""
     archive = _folder(param)
     rel = file[len(archive) + 1:] if file.startswith(archive + "/") else file
     name = rel.rsplit("/", 1)[-1]
@@ -97,7 +97,7 @@ def archived_journals_sit_under_year_month(param, file, scope):
            help="a [x] item in open.md carries (done: YYYY-MM-DD) and leaves for archive/YYYY-MM-DD.md the next day; "
                 "the archive is day files holding only done items")
 def done_todos_are_archived(param, file, scope):
-    """`param` is the todo folder (./_brain/todo)."""
+    """`param` is the todo folder (./_implant/todo)."""
     todo = _folder(param)
     rel = file[len(todo) + 1:] if file.startswith(todo + "/") else file
     problems = []
@@ -131,7 +131,7 @@ def done_todos_are_archived(param, file, scope):
 @statement("gfdl_notice_required",
            help="every file in raw/apowiki-export/ contains the GFDL notice string, keeping the GFDL-1.3-or-later import license-compliant")
 def gfdl_notice_required(param, file, scope):
-    """`param` is the apowiki-export folder (./_brain/raw/apowiki-export).
+    """`param` is the apowiki-export folder (./_implant/raw/apowiki-export).
     Checks that every file there contains 'GFDL' or 'GNU Free Documentation License'
     so the GFDL-1.3-or-later license notice is preserved in the source material."""
     text = scope.read_text(file) or ""

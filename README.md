@@ -12,7 +12,7 @@ overview first, then search, then read, then follow the links out.
 their faith against non-Christian views. Articles that defend one Christian
 view against *other Christian views* are theology and belong to the sibling
 implant, `brain-implant-theology`. The boundary is who the opponent is — see
-[`_brain/conventions/apologetics-vs-theology-scope.md`](_brain/conventions/apologetics-vs-theology-scope.md).
+[`_implant/conventions/apologetics-vs-theology-scope.md`](_implant/conventions/apologetics-vs-theology-scope.md).
 
 **Neutral point of view.** Nothing here asserts that a contested claim is
 true. It asserts that somebody *said* something — and that is what gets
@@ -35,7 +35,7 @@ Then `brainpick search`, `brainpick read`, `brainpick neighbors`. To wire it
 into an agent harness as an MCP server:
 
 ```bash
-brainpick register "$PWD/_brain"    # register once, then harnesses see it
+brainpick register "$PWD/_implant"    # register once, then harnesses see it
 brainpick integrate                 # writes harness config (Claude Code, opencode, …)
 ```
 
@@ -73,7 +73,7 @@ Source, issues and full documentation: <https://github.com/benquemax/brainpick>
 
 **brainpick >= 0.7.0 is required.** Check with `brainpick --version`.
 
-This is not arbitrary. This brain uses **brain format 3**, introduced in
+This is not arbitrary. This implant uses **brain format 3**, introduced in
 0.7.0, which made `type: convention` a memory type the engine actually
 recognises — compiled into `conventions.json`, listed first in the overview
 and in the generated `AGENTS.md` report. On an older brainpick the conventions
@@ -98,7 +98,7 @@ uv tool install "brainpick[vectors]"
 **Use 0.8.1 or later if you will run `brainpick serve`.** Earlier versions
 applied `[bundle] root` twice and served a path that does not exist, so the
 web UI showed a single generated index and nothing else. 0.7.0 remains the
-floor for reading this brain; 0.8.1 is the floor for serving it.
+floor for reading this implant; 0.8.1 is the floor for serving it.
 
 The latest release is otherwise recommended but not required.
 
@@ -106,7 +106,7 @@ The latest release is otherwise recommended but not required.
 
 ## How this repository is organised
 
-`_brain/` is the bundle. Its folders are memory types, one job each:
+`_implant/` is the bundle. Its folders are memory types, one job each:
 
 | Folder | Holds |
 | --- | --- |
