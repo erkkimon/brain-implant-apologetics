@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to be done — the implant's live work queue.
-timestamp: 2026-09-27T12:30:00Z
+timestamp: 2026-09-27T14:00:00Z
 ---
 
 # Open
@@ -27,7 +27,6 @@ Done 2026-09-25 — see [archive/2026-09-25.md](archive/2026-09-25.md). Left ove
 Rungs generated 2026-09-26 by `skills/tools/apowiki_books.py`: 66 books + 2
 testaments in `knowledge/books/`, each pointing at the theology spine.
 
-- [ ] Verify the live annotations: right after `brainpick compile --root . --only t2` has finished in both theology and this repo, run `brain_read` on `theology:knowledge/scripture/isa/isa.md` in a set holding both. It should list `apologetics:knowledge/books/isa.md`. It hung on 2026-09-27 only because a stale T2 re-embeds during the read (see the journal)
 - [ ] Register the theology implant on each other machine (`brainpick register <repo>/_implant --implant --alias theology`, plus `--read-only` where the user is not its author), then check that `brain_read` on a theology book page shows this brain's rung as an annotation
 
 ## Phase 3 — Make Finnish findable by English queries (machine time)

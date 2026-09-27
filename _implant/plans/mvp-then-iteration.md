@@ -3,7 +3,7 @@ type: plan
 title: "MVP first, then daily iteration (apologetics)"
 description: "The apologetics half of the shared plan: convert ApoWiki's wikitext to Finnish markdown pages with parsed implant links, hang the book corpus on the shared book spine, compile with multilingual embeddings, and only then start cooldown-batched translation and improvement."
 tags: [plan, mvp, roadmap]
-timestamp: 2026-09-27T12:30:00Z
+timestamp: 2026-09-27T14:00:00Z
 ---
 
 # MVP first, then daily iteration (apologetics)
@@ -110,15 +110,18 @@ happened last.
   links in articles now land there instead of being dropped.
 * The translation tooling exists and has been tried on one article (see
   the journal of 2026-09-27).
+* The corpus hangs off the book spine: 1 297 scripture references link to
+  their book page, and each book page lists the articles citing it. The
+  cross-implant annotations were verified live in both directions. Theology
+  now carries Raamattu 1933/38 and the Textus Receptus beside the KJV.
 
 **Next, in order:**
 
-1. The remaining machine-time items in todo/open.md, phase 2: hang the
-   `Luokka:Kirjat` review articles off the book pages, and verify the live
-   cross-implant annotations against theology.
-2. Phase 4, the gate: Tom uses the implant for a real question. Nothing
-   below starts before he calls it lovable.
-3. Translation batches, one theme at a time, per the skill.
+1. Phase 4, the gate: Tom uses the implant for a real question. Nothing
+   below starts before he calls it lovable. Machine-time polish meanwhile:
+   the leftovers in todo/open.md (red links, tables, missing glossary
+   terms).
+2. Translation batches, one theme at a time, per the skill.
 
 **To resume on any machine:**
 
