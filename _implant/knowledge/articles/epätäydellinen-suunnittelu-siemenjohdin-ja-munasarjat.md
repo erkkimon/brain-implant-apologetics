@@ -4,7 +4,7 @@ about: apologetics
 title: "Epätäydellinen suunnittelu: Siemenjohdin ja munasarjat"
 description: "Eläinekologian professori Hanna Kokko pitää kirjassaan Kutistuva turska ohjaamattoman evoluutioteorian todisteena sitä, että on olemassa epätarkkoja ja kehnoja sopeumia."
 tags: [apowiki, suunnitteluteoria]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Epätäydellinen suunnittelu: Siemenjohdin ja munasarjat".
@@ -41,7 +41,7 @@ Lääkäri [Pekka Reinikainen](pekka-reinikainen.md) kyseenalaistaa väitteen, e
 >
 > — Tiedekeskustelun avoimuuskoe[^3]
 
-Saatavissa olevan tiedon perusteella voimme siis päätellä kyseisen rakenteen olevan optimaalinen ainakin [ontogeneettisten](https://fi.wikipedia.org/wiki/ontogenia), [fysiologisten](https://fi.wikipedia.org/wiki/fysiologia) ja [hedelmöitys](https://fi.wikipedia.org/wiki/hedelmöitys)vaatimusten kannalta.
+Saatavissa olevan tiedon perusteella voimme siis päätellä kyseisen rakenteen olevan optimaalinen ainakin [ontogeneettisten](https://fi.wikipedia.org/wiki/ontogenia), [fysiologisten](https://fi.wikipedia.org/wiki/fysiologia) ja [hedelmöitysvaatimusten](https://fi.wikipedia.org/wiki/hedelmöitys) kannalta.
 
 Koska evoluutioteoreettiset premissit[^4] selittivät rakennetta sellaisilla oletuksilla, jotka osoittautuivat kestämättömäksi, evoluutiobiologisten selitysten uskottavuus heikkenee.<!-- (Vastaavaasti suunnittelun uskottavuus kasvaa.) Tarkempia perusteluja tällasille.-->
 

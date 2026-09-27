@@ -31,7 +31,7 @@ import re
 from pathlib import Path
 
 THEOLOGY = "brain://theology-kay4zyljsuy909krumpau"
-TIMESTAMP = "2026-09-26T11:30:00Z"
+TIMESTAMP = "2026-09-27T13:00:00Z"
 KR92 = "https://raamattu.fi/"
 
 # code, Finnish name, testament, division (Finnish), chapters, extra aliases.
@@ -150,6 +150,52 @@ def alias_map() -> dict[str, str]:
     return out
 
 
+# Scripture-reference abbreviations as ApoWiki writes them in {{rp|…}}
+# ("Matt. 5:32", "1. Moos 25:22", "Ps. 22:10"): the 1992 church Bible's
+# abbreviations plus the variants actually found in the export. Keys are
+# lower case, without dots or spaces; the leading number is part of the key.
+ABBREVIATIONS = {
+    "1moos": "gen", "gen": "gen", "2moos": "exo", "3moos": "lev", "lev": "lev",
+    "4moos": "num", "5moos": "deu", "joos": "jos", "tuom": "jdg",
+    "ruut": "rut", "1sam": "1sa", "2sam": "2sa", "1kun": "1ki",
+    "2kun": "2ki", "1aik": "1ch", "2aik": "2ch", "esra": "ezr",
+    "esr": "ezr", "neh": "neh", "est": "est", "job": "job", "ps": "psa",
+    "psa": "psa", "psalm": "psa", "psalmi": "psa", "psalmit": "psa",
+    "sananl": "pro", "snl": "pro", "san": "pro", "sananlaskut": "pro",
+    "saarn": "ecc", "laull": "sng", "laul": "sng", "jes": "isa",
+    "jer": "jer", "valit": "lam", "hes": "ezk", "dan": "dan",
+    "hoos": "hos", "joel": "jol", "aam": "amo", "obadja": "oba",
+    "ob": "oba", "joona": "jon", "miika": "mic", "miik": "mic",
+    "nah": "nam", "hab": "hab", "sef": "zep", "hagg": "hag", "hag": "hag",
+    "sak": "zec", "mal": "mal",
+    "matt": "mat", "mt": "mat", "mark": "mrk", "mk": "mrk", "luuk": "luk",
+    "lk": "luk", "luukas": "luk", "joh": "jhn", "apt": "act",
+    "room": "rom", "1kor": "1co", "2kor": "2co", "gal": "gal", "ef": "eph",
+    "fil": "php", "kol": "col", "1tess": "1th", "2tess": "2th",
+    "1tim": "1ti", "2tim": "2ti", "tit": "tit", "tiit": "tit",
+    "filem": "phm", "hepr": "heb", "hebr": "heb", "jaak": "jas",
+    "1piet": "1pe", "2piet": "2pe", "1joh": "1jn", "2joh": "2jn",
+    "3joh": "3jn", "juud": "jud", "ilm": "rev",
+}
+
+_REF = re.compile(r"^\s*\(?\s*([1-5]\.?\s*)?([A-Za-zÄÖÅäöå]+(?:\.?\s*l\.)?)\.?\s*\d")
+
+
+def ref_book(ref: str) -> str | None:
+    """The book code a scripture reference names, or None.
+
+    `ref_book("Matt. 5:32") == "mat"`, `ref_book("1. Moos 25:22") == "gen"`.
+    A reference must carry a chapter number after the book, so a bare word
+    ("Job") or a page reference ("s. 45") is never mistaken for one.
+    """
+    m = _REF.match(ref)
+    if not m:
+        return None
+    key = ((m.group(1) or "") + m.group(2)).lower()
+    key = re.sub(r"[.\s]", "", key)
+    return ABBREVIATIONS.get(key)
+
+
 def _fm_title(text: str) -> str | None:
     m = re.search(r'^title:\s*(.+)$', text, re.M)
     if not m:
@@ -172,10 +218,19 @@ def main() -> int:
     # ApoWiki's own article about a book, when it has one, is the richest
     # thing this implant knows about it: link it from the rung.
     article_by_title: dict[str, str] = {}
-    for f in adir.glob("*.md"):
-        t = _fm_title(f.read_text(encoding="utf-8"))
+    # Which articles cite which book, and how often: every link the converter
+    # wrote to ../books/<code>.md, from a {{rp|…}} scripture reference or a
+    # wiki link naming the book. This is what hangs the corpus off the spine.
+    cited_by: dict[str, dict[str, tuple[str, int]]] = {}
+    for f in sorted(adir.glob("*.md")):
+        text = f.read_text(encoding="utf-8")
+        t = _fm_title(text)
         if t:
             article_by_title[t.lower()] = f.stem
+        body = re.sub(r"^\*Raamatullinen selkäranka:.*$", "", text, flags=re.M)
+        for code in re.findall(r"\]\(\.\./books/([a-z0-9]+)\.md\)", body):
+            title, n = cited_by.setdefault(code, {}).get(f.stem, (t or f.stem, 0))
+            cited_by[code][f.stem] = (title, n + 1)
 
     for code, name, test, division, chapters, extra in BOOKS:
         tname = TESTAMENTS[test][0]
@@ -223,10 +278,24 @@ def main() -> int:
             "",
             f"<{THEOLOGY}/knowledge/scripture/{code}/{code}.md>",
             "",
-            "Tämän implantin artikkelit, jotka viittaavat kirjaan, näkyvät "
-            "sivun takaisinlinkeissä.",
-            "",
         ]
+        cites = sorted(cited_by.get(code, {}).items(),
+                       key=lambda kv: (-kv[1][1], kv[1][0].lower()))
+        cites = [(s, tn) for s, tn in cites if s != own]
+        if cites:
+            lines += [
+                "## ApoWikin artikkelit, jotka viittaavat kirjaan",
+                "",
+                "Suurin viittausmäärä ensin (raamatunkohdat ja kirjan nimeävät "
+                "linkit).",
+                "",
+            ]
+            lines += [f"* [{tt}](../articles/{s}.md) — {n}"
+                      for s, (tt, n) in cites]
+            lines.append("")
+        else:
+            lines += ["Mikään ApoWikin artikkeli ei viittaa tähän kirjaan.", ""]
+        lines = lines
         (out / f"{code}.md").write_text("\n".join(lines), encoding="utf-8")
 
     for test, (tname, _, blurb) in TESTAMENTS.items():
@@ -279,7 +348,9 @@ def main() -> int:
     (out / "index.md").write_text("\n".join(index), encoding="utf-8")
     print(f"book pages: {len(BOOKS)}, testaments: {len(TESTAMENTS)}, "
           f"with an ApoWiki article: "
-          f"{sum(1 for b in BOOKS if any(a.lower() in article_by_title for a in aliases_for(b[1], b[5])))}")
+          f"{sum(1 for b in BOOKS if any(a.lower() in article_by_title for a in aliases_for(b[1], b[5])))}, "
+          f"cited by some article: {len(cited_by)}, "
+          f"citations: {sum(n for d in cited_by.values() for _, n in d.values())}")
     return 0
 
 

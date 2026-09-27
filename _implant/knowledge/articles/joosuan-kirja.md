@@ -4,7 +4,7 @@ about: apologetics
 title: "Joosuan kirja"
 description: "Joosuan kirja kuvaa sitä, miten Israel valloitti Kanaanin maan Joosuan johdolla."
 tags: [apowiki, raamattu, raamatun-tekstit]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Joosuan kirja".
@@ -29,7 +29,7 @@ Perinteisen käsityksen mukaan Israel tuli Kanaanin maahan vapauduttuaan Egyptis
 
 Mikä sitten motivoi tutkijoita omaksumaan näitä vaihtoehtoisia selityksiä. Longin[^2] mukaan yksi motivoiva tekijä on naturalistinen oletus, jonka mukaan Joosuan kirjaa on pidettävä historiallisesti epäluotettavana, koska siinä kuvataan Jumalan toimintaa. Toisen perustelun mukaan arkeologinen todistusaineisto ei tue näkemystä, että Israel olisi ottanut Kanaanin maan valtaansa sotilaallisen valloitussodan välityksellä. Arkeologinen tutkimus ei ole tämän näkemyksen mukaan löytänyt merkkejä laajamittaisesta hävityksestä, jota yleisen käsityksen mukaan Joosuan valloitussota edellyttäisi.
 
-Longin mukaan tämä vallitseva tulkinta Joosuan valloitussodan luonteesta perustuu kuitenkin siihen, että Joosuan kirjaa on luettu huolimattomasti. Joosuan kirja tosin kertoo siitä, että useiden kaupunkien asujaimisto tuhottiin kokonaisuudessaan. Mutta vain kolmesta kaupungista (Jeriko, Ai ja Hasor) tuhottiin myös rakennukset. ”Näitä kaupunkeja, jotka yhä seisoivat kukkuloillaan, ei kuitenkaan poltettu; vain Hasorin Joosua poltti.” ( (Joos. 11:13)) Joosuan kirjan lopussa todetaan israelilaisten asuvan kaupungeissa, joita he eivät itse olleet rakentaneet. ”Näin minä annoin teille maan, jota ette ole raivanneet, ja kaupungit, joita ette itse ole rakentaneet, ja te saitte asettua niihin asumaan. Minä annoin teille viinitarhoja ja oliivipuita, joita te ette ole istuttaneet mutta joiden hedelmiä te silti saatte syödä.” ( (Joos. 24:13))
+Longin mukaan tämä vallitseva tulkinta Joosuan valloitussodan luonteesta perustuu kuitenkin siihen, että Joosuan kirjaa on luettu huolimattomasti. Joosuan kirja tosin kertoo siitä, että useiden kaupunkien asujaimisto tuhottiin kokonaisuudessaan. Mutta vain kolmesta kaupungista (Jeriko, Ai ja Hasor) tuhottiin myös rakennukset. ”Näitä kaupunkeja, jotka yhä seisoivat kukkuloillaan, ei kuitenkaan poltettu; vain Hasorin Joosua poltti.” ( ([Joos. 11:13](../books/jos.md))) Joosuan kirjan lopussa todetaan israelilaisten asuvan kaupungeissa, joita he eivät itse olleet rakentaneet. ”Näin minä annoin teille maan, jota ette ole raivanneet, ja kaupungit, joita ette itse ole rakentaneet, ja te saitte asettua niihin asumaan. Minä annoin teille viinitarhoja ja oliivipuita, joita te ette ole istuttaneet mutta joiden hedelmiä te silti saatte syödä.” ( ([Joos. 24:13](../books/jos.md)))
 
 Niinpä israelilaisten käymästä valloitussodasta ei voi olla laajamittaisia arkeologisia todisteita, koska ainoastaan tuhoutuneista rakennuksista jää arkeologisia todisteita. Vuonna 1990 aloitetuissa Hasorin kaivauksissa tosin osoitettiin, että kaupunki oli tuhoutunut 1200-luvun paikkeilla eKr. raivoisassa tulipalossa[^3]. Arkeologia antaa todisteita siitä, että kyseiseen aikaan tapahtui yleisesti asujaimiston muutos Kanaanin maassa[^4]. Arkeologinen todistusaineisto antaa jopa viitteitä siitä, että maan uudet asukkaat olivat nimenomaan israelilaisia. Lisäksi Egyptin faarao Merenptah mainitsee Israelin läsnäolon Kanaanin maassa viidentenä hallitusvuotenaan eli vuonna 1209 eKr.[^5].
 

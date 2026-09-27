@@ -4,7 +4,7 @@ about: apologetics
 title: "ATP-syntaasi"
 description: "Kuva: ATP-syntaasikone yksitellen valmistettujen proteiinialayksiköiden avulla kuvattuna, kukin nimettynä kreikkalaisilla kirjaimilla."
 tags: [apowiki, luomisoppi, suunnitteluteoria, redusoimattomat-järjestelmät]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "ATP-syntaasi".
@@ -52,7 +52,7 @@ Voisimme myös pohtia, että ATP-syntaasi tehdään prosesseilla, jotka kaikki t
 
 Mitä Hänen ominaisuuksista, joka suunnitteli ATP-syntaasi -nanomoottorin hämmästyttävät ominaisuudet? Pitää muistaa, että mitä pienempi kone on, sitä nerokkaampi ponnistus tarvitaan sen rakentamiseksi.
 
-ATP-syntaasi kertoo sen luojan viisaudesta, älykkyydestä, kyvykkyydestä ja järkevyydestä, jotka ovat tarkkoja tuntomerkkejä Jumalasta, aivan niin kuin on kirjoitettuna Raamatussa! Kun me tutkimme tarkasti hänen kättensä töitä, me sekä tottelemme hänen käskyään  (1. Moos. 1:28) tehdä tarpeellinen työ ”viljelläksemme maata”, jotta meillä olisi yhä enemmän syytä ylistää ja kiittää häntä, sekä nauttia hänestä ja hänen huolenpidostaan ja nerokkuudestaan.[^6]
+ATP-syntaasi kertoo sen luojan viisaudesta, älykkyydestä, kyvykkyydestä ja järkevyydestä, jotka ovat tarkkoja tuntomerkkejä Jumalasta, aivan niin kuin on kirjoitettuna Raamatussa! Kun me tutkimme tarkasti hänen kättensä töitä, me sekä tottelemme hänen käskyään  ([1. Moos. 1:28](../books/gen.md)) tehdä tarpeellinen työ ”viljelläksemme maata”, jotta meillä olisi yhä enemmän syytä ylistää ja kiittää häntä, sekä nauttia hänestä ja hänen huolenpidostaan ja nerokkuudestaan.[^6]
 
 ### Katso myös
 #### Internet

@@ -4,7 +4,7 @@ about: apologetics
 title: "Narraatiokritiikki (raamatuntutkimus)"
 description: "Narraatiokriittistä tutkimusta perustellaan historiallis-kriittisen tutkimuksen kyvyttömyydellä tuottaa yleispäteviä tuloksia tai tehdä oikeutta Raamatun tekstille."
 tags: [apowiki, raamattu, historia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Narraatiokritiikki (raamatuntutkimus)".
@@ -60,11 +60,11 @@ Niinpä jotkut analyysit Raamatun tekstien oletetusta ironiasta kertovat enemmä
 
 Narraatiokritiikissä pyritään kertomuksen tapahtumia luokittelemaan sen mukaan, mitä pidetään ydintapahtumina ja mitä pidetään niistä riippuvaisina. Myös tällaisessa luokittelussa kriitikon subjektiivisilla painotuksilla on suuri merkitys. Esimerkiksi voimme ottaa **Frank Materan**[^12] analyysin Matteuksen evankeliumin juonesta. Materan mukaan Matteuksen evankeliumissa on kuusi ydintapahtumaa, jotka ovat hänen mukaansa kertomuksen käännekohtia:
 
-1. Jeesuksen syntymä ( (Matt. 2:1)) käynnistää kriisin sen osalta, miten ihmiset suhtautuvat Messiaaseen.
-1. Jeesuksen julkisen toiminnan alku ( (Matt. 4:12-17)) edustaa käännekohtaa, koska kriisistä tulee tämän jälkeen selväpiirteisempi. Tämän jälkeen kertomuksessa tuleva aines keskittyy erityisesti selventämään, miten Israel vastaa Jeesuksen saarnaan, opetukseen ja parantamistyöhön.
-1. Kysymys Johannes Kastajasta ( (Matt. 11:2-6)) on johdantona ainekselle, jossa Jeesuksen itsensä täytyy tehdä olennainen ratkaisu. Tullessaan niiden hylkäämäksi, joiden luo hänet on lähetetty, hän päättää keskittää huomionsa opetuslapsiinsa ja kaikkiin niihin, jotka uskovat, vaikka he olisivat syntyperältään ei-juutalaisia.
-1. Tämän ratkaisun jälkeen keskustelu Kesarean Filippissä ( (Matt. 16:13-28)) on johdantona kertomuksen seuraavaan kriisiin. Nyt Jeesuksen opetuslasten täytyy päättää, ovatko he valmiita seuraamaan Messiasta, joka kutsuu heitä kärsimykseen ja kuolemaan.
-1. Jeesuksen suorittama temppelin puhdistaminen ( (Matt. 21:1-17)) on johdanto kertomukseen Jeesuksen kärsimyksestä ja ylösnousemuksesta.
+1. Jeesuksen syntymä ( ([Matt. 2:1](../books/mat.md))) käynnistää kriisin sen osalta, miten ihmiset suhtautuvat Messiaaseen.
+1. Jeesuksen julkisen toiminnan alku ( ([Matt. 4:12-17](../books/mat.md))) edustaa käännekohtaa, koska kriisistä tulee tämän jälkeen selväpiirteisempi. Tämän jälkeen kertomuksessa tuleva aines keskittyy erityisesti selventämään, miten Israel vastaa Jeesuksen saarnaan, opetukseen ja parantamistyöhön.
+1. Kysymys Johannes Kastajasta ( ([Matt. 11:2-6](../books/mat.md))) on johdantona ainekselle, jossa Jeesuksen itsensä täytyy tehdä olennainen ratkaisu. Tullessaan niiden hylkäämäksi, joiden luo hänet on lähetetty, hän päättää keskittää huomionsa opetuslapsiinsa ja kaikkiin niihin, jotka uskovat, vaikka he olisivat syntyperältään ei-juutalaisia.
+1. Tämän ratkaisun jälkeen keskustelu Kesarean Filippissä ( ([Matt. 16:13-28](../books/mat.md))) on johdantona kertomuksen seuraavaan kriisiin. Nyt Jeesuksen opetuslasten täytyy päättää, ovatko he valmiita seuraamaan Messiasta, joka kutsuu heitä kärsimykseen ja kuolemaan.
+1. Jeesuksen suorittama temppelin puhdistaminen ( ([Matt. 21:1-17](../books/mat.md))) on johdanto kertomukseen Jeesuksen kärsimyksestä ja ylösnousemuksesta.
 1. Lähetyskäskyn antaminen on ydintapahtuma, jolle alisteisia tapahtumia ei kertomuksessa ole. Se on koko evankeliumin huippukohta ja johdanto lukijan kohtaamaan kysymykseen: Saarnataanko evankeliumia kaikille kansoille?
 
 Materan analyysissa on olennaisia ongelmakohtia, jotka kertovat siitä, että tämäntyyppinen analyysi riippuu tutkijan taustaoletuksista. On esimerkiksi kyseenalaista pitää ristiinnaulitsemista ja ylösnousemusta alisteisina temppelin puhdistamiselle sen sijaan että niitä pidettäisiin itsenäisinä ydintapahtumina. Yleisellä tasolla Matteuksen evankeliumin juonen ytimenä voidaan pitää pyrkimystä antaa kuvaus Jeesuksen henkilöstä. Kaikki tapahtumat valottavat eri puolia hänen henkilöstään.

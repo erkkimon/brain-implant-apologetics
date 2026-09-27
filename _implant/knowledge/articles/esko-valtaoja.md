@@ -4,7 +4,7 @@ about: apologetics
 title: "Esko Valtaoja"
 description: "Esko Jorma Johannes Valtaoja (s. 20. kesäkuuta 1951 Kemi) on avaruustähtitieteen professori Turun yliopistossa ja Tuorlan observatorion entinen johtaja."
 tags: [apowiki, henkilöt]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Esko Valtaoja".
@@ -42,7 +42,7 @@ Suomalaisten näkemyksiä tutkineen Tiedebarometri 2013:n mukaan Valtaoja oli Su
 
 Valtaoja tunnustautuu agnostikoksi. Kansantajuisen puhetapansa takia hänen kannanottonsa saattavat kuitenkin välillä muistuttaa uusateistien eli niin sanottujen ateististen fundamentalistien kannanottoja. Tämä näkyy esimerkiksi Valtaojan kannanotoissa [New Yorkin yliopiston](https://fi.wikipedia.org/wiki/New_Yorkin_yliopisto) filosofian professorin **Thomas Nagel**in ajatuksia kohtaan.
 
-Valtaoja ei ole ilmeisesti tutustunut Nagelin ajatuksiin niiden alkuperäisessä kontekstissa. Sen sijaan Valtaoja kritisoi **[Tapio Puolimatka](tapio-puolimatka.md)n** kirjoittamaa Vieraskynä artikkelia Helsingin Sanomiin, jossa Puolimatka filosofi Thomas Nagelin ajatuksiin pohjautuen puolusti evoluutioteorian opettamista kriittisesti avoimella tavalla. Valtaoja koki Nagelin ajatuksia esittelevän artikkelin ajatukset ”kreationistisiksi” ja ”fundamentalistisiksi”.
+Valtaoja ei ole ilmeisesti tutustunut Nagelin ajatuksiin niiden alkuperäisessä kontekstissa. Sen sijaan Valtaoja kritisoi **[Tapio Puolimatkan](tapio-puolimatka.md)** kirjoittamaa Vieraskynä artikkelia Helsingin Sanomiin, jossa Puolimatka filosofi Thomas Nagelin ajatuksiin pohjautuen puolusti evoluutioteorian opettamista kriittisesti avoimella tavalla. Valtaoja koki Nagelin ajatuksia esittelevän artikkelin ajatukset ”kreationistisiksi” ja ”fundamentalistisiksi”.
 
 Valtaoja hylkää Nagelin ajatuksen, jonka mukaan ”ainoa tapa opettaa biologisia tosiasioita neutraalisti on myöntää, että empiiristä todistusaineistoa voidaan tulkita eri tavoilla ja tulkinta voi johtaa erilaisiin päätelmiin riippuen siitä, minkä uskonnollisen oletuksen pohjalta sitä tulkitaan”[^6]. Valtaojan mukaan tähän ajatukseen sisältyy vaatimus, että olisi luovuttava koko menestyksekkään tieteen perusmetodista vain siksi, että ”fundamentalistissävyinen Jumala” saataisiin kaiken lähtökohdaksi.
 

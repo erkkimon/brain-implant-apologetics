@@ -4,7 +4,7 @@ about: apologetics
 title: "Historia"
 description: "37 ApoWiki-artikkelia aihepiiristä historia — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, historia]
-timestamp: 2026-09-25T23:30:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 
 # Historia
@@ -17,7 +17,7 @@ Aihepiirin historia artikkelit, tuotu [ApoWikistä](https://apowiki.fi). Luettel
 * [Aitouskriteerit](../articles/aitouskriteerit.md) — Historiallis-kriittisen tutkimuksen periaatteiden ymmärtäminen on välttämätöntä mielekkäälle Uuden testamentin historiallisuuden pohtimiselle.
 * [Alkuperäisheimot ja Jumala](../articles/alkuperäisheimot-ja-jumala.md) — Kuva: Kareneiden perimätieto tuki Raamatun luotettavuutta, mistä oli apua Adoniram Judsonin tehdessä lähetystyötä heidän parissaan.
 * [Apostolien teot](../articles/apostolien-teot.md) — Naturalistisen Uuden testamentin tutkimuksen yksi ensimmäisiä pyrkimyksiä on ollut kyseenalaistaa Apostolien tekojen historiallisuus, koska….
-* [Arkeologia ja Raamattu](../articles/arkeologia-ja-raamattu.md) — Teologi-arkeologi Eero Junkkaala aiheesta: Miltä Raamattu siis näyttää tämän tutkimuksen valossa?.
+* [Arkeologia ja Raamattu](../articles/arkeologia-ja-raamattu.md) — 1.
 * [Da Vinci -koodi (kirja)](../articles/da-vinci-koodi-kirja.md) — Olemme sikäli omituisessa tilanteessa, että suomalaiset lukevat Da Vinci -koodia, eivätkä naura.
 * [Dekonstruktio (raamatuntutkimus)](../articles/dekonstruktio-raamatuntutkimus.md) — Dekonstruktiivinen lähestymistapa perustuu erityisesti ranskalaisen Jacques Derridan (1930-2004) ajatteluun.
 * [Ensimmäinen kuninkaiden kirja](../articles/ensimmäinen-kuninkaiden-kirja.md) — Keväällä 1993 Helsingin Sanomat julkaisi artikkelin, joka oli otsikoitu näin: ”Amerikkalaistutkijan mukaan iso osa Vanhasta testamentista on satua”.

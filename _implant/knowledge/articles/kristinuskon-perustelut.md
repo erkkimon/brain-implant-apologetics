@@ -4,7 +4,7 @@ about: apologetics
 title: "Kristinuskon perustelut"
 description: "Perustelun käsitteelle on tunnusomaista se, että ensin on esitettävä jokin kanta ja vasta sitten sitä voi pyrkiä perustelemaan."
 tags: [apowiki, yleistä-tietoa, argumentit, lukusuositukset]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kristinuskon perustelut".
@@ -37,11 +37,11 @@ Käsitteellisen selkeyden vuoksi on syytä käsittää "perusteet" ja "perustelu
 
 Samoin esimerkiksi havaintojen luotettavuuden tai oman tajunnan ulkopuolisten asioiden olemassaolon uskomiselle on perusteita, vaikkei tietoteoriassa kyetäkään väitelausein esittämään mitään vakuuttavia perusteluja, miksi ne olisi uskottava. Nämä asiat voidaan nähdä oikeina perususkomuksina, jotka eivät tarvitse perusteluita.
 
-Kuten professori [Tapio Puolimatka](tapio-puolimatka.md) on useissa kirjoissaan todennut, omakohtainen kokemus Jumalasta ja Pyhän Hengen välittämä Raamatun sisäinen todistus on älyllisesti aivan oikeutettu syy henkilökohtaiseen kristilliseen uskoon. Jumala ei vaadi ihmisen puolelta mitään kunnostautumista hyväksyäkseen tämän rakkaana lapsenaan yhteyteensä Jeesuksen sovintokuoleman perusteella eikä uskoon päätymiseen vaadita filosofista tai tieteellistä osaamista, vaan usko on Jumalan lahja, jota tarjotaan eroa tekemättä kaikille ja kaikenlaisille ihmisille. Jumalan olemassaolosta voi vakuuttua samaan tapaan kuin siitä, että itsemme lisäksi on olemassa muitakin ihmisiä: oman kokemuksemme perusteella. Jos siis teen kokemukseni perusteella väitteitä henkilöstä, jota ystäväni ei tunne, hänen on oman kokemuksensa puuttumisesta huolimatta järkevää ottaa todistukseni vakavasti. Itse asiassa luonnon[tiede](tiede.md)kin perustuu siihen, että uskomme toisten ihmisten todistuksia siitä, mitä he väittävät saaneensa selville mittaamalla. Luonnontieteen taustalla piilee muitakin uskomuksia, joita ei voi "tieteellisesti todistaa", mutta jotka on tieteellisen tutkimuksen mahdollistamiseksi välttämättä edellytettävä tosiksi.
+Kuten professori [Tapio Puolimatka](tapio-puolimatka.md) on useissa kirjoissaan todennut, omakohtainen kokemus Jumalasta ja Pyhän Hengen välittämä Raamatun sisäinen todistus on älyllisesti aivan oikeutettu syy henkilökohtaiseen kristilliseen uskoon. Jumala ei vaadi ihmisen puolelta mitään kunnostautumista hyväksyäkseen tämän rakkaana lapsenaan yhteyteensä Jeesuksen sovintokuoleman perusteella eikä uskoon päätymiseen vaadita filosofista tai tieteellistä osaamista, vaan usko on Jumalan lahja, jota tarjotaan eroa tekemättä kaikille ja kaikenlaisille ihmisille. Jumalan olemassaolosta voi vakuuttua samaan tapaan kuin siitä, että itsemme lisäksi on olemassa muitakin ihmisiä: oman kokemuksemme perusteella. Jos siis teen kokemukseni perusteella väitteitä henkilöstä, jota ystäväni ei tunne, hänen on oman kokemuksensa puuttumisesta huolimatta järkevää ottaa todistukseni vakavasti. Itse asiassa luonnon[tiedekin](tiede.md) perustuu siihen, että uskomme toisten ihmisten todistuksia siitä, mitä he väittävät saaneensa selville mittaamalla. Luonnontieteen taustalla piilee muitakin uskomuksia, joita ei voi "tieteellisesti todistaa", mutta jotka on tieteellisen tutkimuksen mahdollistamiseksi välttämättä edellytettävä tosiksi.
 
 ### Miksi kristinuskon totuutta tulisi perustella
 
-Perustelut ovat tärkeitä, vaikkeivät olekaan uskolle välttämättömiä. Länsimaisessa nykykulttuurissa elävä ihminen kohtaa näet paljon kristinuskon vastaisia väitteitä.[^10] Mikäli hän ei pysty löytämään niihin vastauksia (eli häneltä puuttuu kumoajan kumoaja[^11]) eikä muutoinkaan kohtaa vakuuttavia perusteluja kristinuskolle, tilanne vaatii veronsa: joko hänen uskonsa heikkenee[^12] tai hän joutuu perääntymään [fideismi](fideismi.md)in. Uskon heikkeneminen tekee hengellisestä elämästä raskaampaa, ja varsinkin erityisten vaikeuksien kohdatessa uskon menettämisen uhkakin samalla kasvaa. Fideismilläkin on ikäviä seurauksia, etenkin kokonaisvaltaisen kristillisen ajattelun ja kristittynä elämisen kannalta.[^13]
+Perustelut ovat tärkeitä, vaikkeivät olekaan uskolle välttämättömiä. Länsimaisessa nykykulttuurissa elävä ihminen kohtaa näet paljon kristinuskon vastaisia väitteitä.[^10] Mikäli hän ei pysty löytämään niihin vastauksia (eli häneltä puuttuu kumoajan kumoaja[^11]) eikä muutoinkaan kohtaa vakuuttavia perusteluja kristinuskolle, tilanne vaatii veronsa: joko hänen uskonsa heikkenee[^12] tai hän joutuu perääntymään [fideismiin](fideismi.md). Uskon heikkeneminen tekee hengellisestä elämästä raskaampaa, ja varsinkin erityisten vaikeuksien kohdatessa uskon menettämisen uhkakin samalla kasvaa. Fideismilläkin on ikäviä seurauksia, etenkin kokonaisvaltaisen kristillisen ajattelun ja kristittynä elämisen kannalta.[^13]
 
 Ei-kristitylle apologetiikka antaa perusteita luokitella kristinusko sinänsä mielekkääksi todellisuuskäsitykseksi, jolloin evankeliumin vastaanottaminenkin tulee hänen kannaltaan ajateltavissa olevaksi vaihtoehdoksi. Koko kulttuurin tasolla kristinuskon järkiperustelujen tunnetuksi tuleminen tervehdyttää vallitsevaa maailmankuvaa siten, että myös kristinuskon mukaiset toimintatavat ja arvot nähdään yhä asiaankuuluvina ja säilyttämisen arvoisina. Perusteluiden esittäminen on siis kristillisten seurakuntien menestyksellisen toiminnan kannalta melkeinpä välttämätöntä.
 
@@ -51,29 +51,29 @@ Kristinuskolle on useita perusteluja.[^14] Niitä voi luetella ja luokitella seu
 
 #### Filosofiset perustelut
 Filosofisia argumentteja Jumalan olemassaolon puolesta on esitetty yli kaksikymmentä [^11][^15][^16]. Alla joitain näistä:
-#[Ontologinen argumentti](ontologinen-argumentti.md) [^17]
-#[Kosmologinen argumentti](kosmologinen-argumentti.md) [^17]
-#[Moraalin](moraalinen-argumentti.md) olemassaoloon perustuva argumentti eli aksiologinen argumentti [^17]
-#[Järjen luotettavuuteen](evolutiivinen-argumentti-naturalismia-vastaan.md) perustuva argumentti
-#Kauneuteen perustuva argumentti
-#Uskonnollisiin kokemuksiin perustuva argumentti[^17]
-#[Eksistentiaalinen argumentti](pascalin-peliteoria.md)
+1. [Ontologinen argumentti](ontologinen-argumentti.md) [^17]
+1. [Kosmologinen argumentti](kosmologinen-argumentti.md) [^17]
+1. [Moraalin](moraalinen-argumentti.md) olemassaoloon perustuva argumentti eli aksiologinen argumentti [^17]
+1. [Järjen luotettavuuteen](evolutiivinen-argumentti-naturalismia-vastaan.md) perustuva argumentti
+1. Kauneuteen perustuva argumentti
+1. Uskonnollisiin kokemuksiin perustuva argumentti[^17]
+1. [Eksistentiaalinen argumentti](pascalin-peliteoria.md)
 
 #### Historialliset perustelut
-#Jeesuksen ylösnousemuksen historialliset todisteet [^18]
-#Arkeologiset todisteet [^19]
-#Raamatun profetiat [^20]
-#[Raamatun historiallisen luotettavuuden todisteet](raamatun-historiallinen-luotettavuus.md) [^21]
-#Aikaiset ja silminnäkijätodistukset Jeesuksesta [^22]
-#[Alkuperäisasukkaiden uskomukset ja perimätieto, jotka tukevat Raamatun luotettavuutta](alkuperäisheimot-ja-jumala.md)
+1. Jeesuksen ylösnousemuksen historialliset todisteet [^18]
+1. Arkeologiset todisteet [^19]
+1. Raamatun profetiat [^20]
+1. [Raamatun historiallisen luotettavuuden todisteet](raamatun-historiallinen-luotettavuus.md) [^21]
+1. Aikaiset ja silminnäkijätodistukset Jeesuksesta [^22]
+1. [Alkuperäisasukkaiden uskomukset ja perimätieto, jotka tukevat Raamatun luotettavuutta](alkuperäisheimot-ja-jumala.md)
 
 #### Luonnontieteelliset perustelut [^23]
-#[Universumin alku](kalam-kosmologinen-argumentti-v3.md)
-#[Kosminen hienosäätö](kosminen-hienosäätö.md)
-#[Suunnittelusignaalit](suunnitteluteoria.md) [biologiassa](palautumaton-monimutkaisuus.md)
-#Tietoisuuden tutkimus
-#[Alkusynnyn eli ensimmäisen solun itsestäänsyntymisen mahdottomuus](abiogeneesi.md)
-#[Evoluution havaitut rajat](the-edge-of-evolution-kirja.md)
+1. [Universumin alku](kalam-kosmologinen-argumentti-v3.md)
+1. [Kosminen hienosäätö](kosminen-hienosäätö.md)
+1. [Suunnittelusignaalit](suunnitteluteoria.md) [biologiassa](palautumaton-monimutkaisuus.md)
+1. Tietoisuuden tutkimus
+1. [Alkusynnyn eli ensimmäisen solun itsestäänsyntymisen mahdottomuus](abiogeneesi.md)
+1. [Evoluution havaitut rajat](the-edge-of-evolution-kirja.md)
 
 ### Viitteet
 

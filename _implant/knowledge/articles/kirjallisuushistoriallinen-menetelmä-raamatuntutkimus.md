@@ -4,7 +4,7 @@ about: apologetics
 title: "Kirjallisuushistoriallinen menetelmä (raamatuntutkimus)"
 description: "Historiallisesti orientoitunut kirjallisuuskritiikki eli kirjallisuushistoriallinen menetelmä on yksi historiallis-kriittinen menetelmä."
 tags: [apowiki, eksegetiikka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kirjallisuushistoriallinen menetelmä (raamatuntutkimus)".
@@ -33,7 +33,7 @@ Historiallis-kriittisen kirjallisuuskritiikin alle sijoittuvat esim. seuraavat k
 
 Ennakko-olettamukset ohjaavat voimakkaasti lähdekriittisiä päätelmiä, koska Raamatun kirjoittajat antavat vain niukasti suoranaista tietoa käyttämistään lähteistä. Parhaimmassakin tapauksessa meillä on ainoastaan joitakin mainintoja käytettyjen lähteiden nimistä, mutta yksikään Raamatun kirjoittajien mainitsemista lähteistä ei ole säilynyt meidän päiviimme asti. Koska ennakko-oletuksilla on lähdekritiikissä näin ratkaiseva asema, on ensisijaisen tärkeää tehdä ennakko-oletukset näkyviksi. Tässä luvussa on tarkoitus tehdä joitakin huomioita tätä tarkoitusta silmällä pitäen.
 
-Raamatun kirjoissa on joitakin viitteitä siitä, että kirjoittajat ovat käyttäneet hyväksi kirjallisia lähteitä. Esimerkiksi  (Luukas 1: 1-4) kirjoittaa:
+Raamatun kirjoissa on joitakin viitteitä siitä, että kirjoittajat ovat käyttäneet hyväksi kirjallisia lähteitä. Esimerkiksi  ([Luukas 1: 1-4](../books/luk.md)) kirjoittaa:
 
 > Jo monet ovat ryhtyneet työhön ja laatineet kertomuksia niistä asioista, jotka meidän keskuudessamme ovat toteutuneet, sen mukaan kuin meille ovat kertoneet ne, jotka alusta alkaen olivat silminnäkijöitä ja joista tuli sanan palvelijoita. Niin olen nyt minäkin, otettuani alusta asti kaikesta tarkan selon, päättänyt kirjoittaa yhtenäisen esityksen sinua varten, kunnioitettu Teofilos, jotta tietäisit, kuinka luotettavaa sinulle annettu opetus on.
 
@@ -80,7 +80,7 @@ Toisen Vanhan testamentin tutkimuksessa käytetyn naturalistisen oletuksen mukaa
 
 Tämän oletuksen mukaan Israelin kansan uskonto oli alkuperältään täysin ihmislähtöinen, kuten kaikki muutkin uskonnot, ja voidaan selittää täysin luonnollisen kehitysprosessin tuotokseksi. Tässä oletuksessa ei oteta huomioon, että ainoastaan Israelin uskonnosta lähtöisin olevat uskonnot ovat koskaan päätyneet aitoon monoteismiin. Uskonnonhistoriallisen evolutionismin oletuksen mukaan israelilaisten on täytynyt uskonnollisen kehityksensä alussa olla animisteja ja karkeita polyteistejä, kuten kaikki muutkin muinaiset kulttuurit. Tästä oletuksesta on pidetty kiinni, vaikka koko Raamatun todistusaineisto Mooseksen kirjoista Malakian kirjaan kertoo siitä, että Israelin uskonto oli alusta alkaen monoteististä. Koko tämä todistusaineisto on jätetty huomiotta ja on dogmaattisesti pitäydytty opinkappaleeseen, jonka mukaan Jumala ei ole voinut ilmoittaa itseään yhdelle kansalle ja yhden tietyn tekstikokoelman välityksellä.
 
-Paitsi että molemmat edellä esitetyistä oletuksista ovat vailla riittäviä perusteita, niiden yhdistelmä johtaa usein tulkinnan sisäisiin ristiriitaisuuksiin. Jos tarkastelemme esimerkiksi kuuluisan [dokumentaarihypoteesi](dokumentaarihypoteesi.md)n historiaa, saamme kuvan siitä, kuinka nämä kaksi oletusta johtavat toistensa kanssa ristiriitaisiin tuloksiin.
+Paitsi että molemmat edellä esitetyistä oletuksista ovat vailla riittäviä perusteita, niiden yhdistelmä johtaa usein tulkinnan sisäisiin ristiriitaisuuksiin. Jos tarkastelemme esimerkiksi kuuluisan [dokumentaarihypoteesin](dokumentaarihypoteesi.md) historiaa, saamme kuvan siitä, kuinka nämä kaksi oletusta johtavat toistensa kanssa ristiriitaisiin tuloksiin.
 
 ### Katso myös
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Raamattu"
 description: "36 ApoWiki-artikkelia aihepiiristä raamattu — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, raamattu]
-timestamp: 2026-09-25T23:30:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 
 # Raamattu
@@ -14,7 +14,7 @@ Aihepiirin raamattu artikkelit, tuotu [ApoWikistä](https://apowiki.fi). Luettel
 ## Artikkelit (36)
 
 * [Apostolien teot](../articles/apostolien-teot.md) — Naturalistisen Uuden testamentin tutkimuksen yksi ensimmäisiä pyrkimyksiä on ollut kyseenalaistaa Apostolien tekojen historiallisuus, koska….
-* [Arkeologia ja Raamattu](../articles/arkeologia-ja-raamattu.md) — Teologi-arkeologi Eero Junkkaala aiheesta: Miltä Raamattu siis näyttää tämän tutkimuksen valossa?.
+* [Arkeologia ja Raamattu](../articles/arkeologia-ja-raamattu.md) — 1.
 * [Dekonstruktio (raamatuntutkimus)](../articles/dekonstruktio-raamatuntutkimus.md) — Dekonstruktiivinen lähestymistapa perustuu erityisesti ranskalaisen Jacques Derridan (1930-2004) ajatteluun.
 * [Dokumentaarihypoteesi](../articles/dokumentaarihypoteesi.md) — Dokumentaarihypoteesi on yksi kaikkein vaikutusvaltaisimmista Vanhan testamentin tutkimuksessa esitetyistä lähdeteorioista.
 * [Ensimmäinen kuninkaiden kirja](../articles/ensimmäinen-kuninkaiden-kirja.md) — Keväällä 1993 Helsingin Sanomat julkaisi artikkelin, joka oli otsikoitu näin: ”Amerikkalaistutkijan mukaan iso osa Vanhasta testamentista on satua”.

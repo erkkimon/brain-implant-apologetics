@@ -4,7 +4,7 @@ about: apologetics
 title: "J. Budziszewski"
 description: "J. Budziszewski (s. 1952) on hallintotieteen ja filosofian professori Texasin yliopistossa Austinissa, jossa hän on työskennellyt vuodesta 1981."
 tags: [apowiki, henkilöt, filosofia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "J. Budziszewski".
@@ -56,7 +56,7 @@ Budziszewskin mukaan ainoa tapa paeta tätä pahanlaatuista kehää on myöntä�
 
 Budziszewski kertoo esimerkin omasta elämästään pyrkiessään selventämään, miten jokaisessa ihmisessä luontaisesti oleva taipumus itsepetokseen vääristää myös hänen älykkyyttään. Hän pyrkii perustelemaan, että itse asiassa juuri älykkäät ihmiset voivat joutua kaikkein syvimmälle itsepetokseen, koska he voivat johtaa itseään harhaan älykkäästi. Itsepetos on kaikkein helpointa tunnistaa sellaisissa tapauksissa, joissa ihminen haluaa kieltää tietävänsä sellaisia asioita, joita hänen on itse asiassa mahdotonta olla tietämättä. Itsepetos paljastuu siinä, että ihminen kuitenkin toimii tämän tiedon varassa.
 
-Budziszewski ottaa esimerkiksi tiedon siitä, että on olemassa ero hyvän ja pahan välillä. Voimme hyvällä syyllä olettaa jokaisella ihmisellä olevan tiedon hyvästä ja pahasta, koska inhimillinen elämä olisi mahdotonta ilman tätä tietoa. Monet ihmiset kuitenkin kieltävät, että ihmisellä olisi tällaista tietoa. Tämä johtuu Budziszewskin mukaan siitä, että ihminen pakenee tietoa, joka asettaisi hänet vastuuseen. Siksi ihminen alkaa elää itsepetoksessa. Yhtenä tärkeänä syynä on myös se, että ihmisen luontainen tieto hyvästä ja pahasta kertoo siitä, että ihminen on [Jumala](jumala.md)n kuvaksi luotu olento. Objektiivista hyvää ja pahaa on vaikea ymmärtää ilman Jumalan olemassaoloa. Ihminen luonnostaan pakenee Jumalaa, koska hän haluaa paeta vastuutaan Jumalan edessä.
+Budziszewski ottaa esimerkiksi tiedon siitä, että on olemassa ero hyvän ja pahan välillä. Voimme hyvällä syyllä olettaa jokaisella ihmisellä olevan tiedon hyvästä ja pahasta, koska inhimillinen elämä olisi mahdotonta ilman tätä tietoa. Monet ihmiset kuitenkin kieltävät, että ihmisellä olisi tällaista tietoa. Tämä johtuu Budziszewskin mukaan siitä, että ihminen pakenee tietoa, joka asettaisi hänet vastuuseen. Siksi ihminen alkaa elää itsepetoksessa. Yhtenä tärkeänä syynä on myös se, että ihmisen luontainen tieto hyvästä ja pahasta kertoo siitä, että ihminen on [Jumalan](jumala.md) kuvaksi luotu olento. Objektiivista hyvää ja pahaa on vaikea ymmärtää ilman Jumalan olemassaoloa. Ihminen luonnostaan pakenee Jumalaa, koska hän haluaa paeta vastuutaan Jumalan edessä.
 
 Budziszewskin mukaan suuri osa aikamme tieteestä perustuu kollektiiviseen itsepetokseen, jossa pidetään oikean tieteen lähtökohtana nimenomaan oletusta, ettei meillä ole tietoa Jumalasta. Itsepetoksen ytimessä on ihmisen haluttomuus tunnustaa, että hänellä on tietoa Jumalasta ja itsestään Jumalan kuvaksi luotuna olentona. Ihminen ei halua kohdata totuutta omasta itsestään olentona, joka on olemassaolonsa ja itsetuntemuksensa osalta riippuvainen Jumalasta. Älykkäät ihmiset voivat syyllistyä suurempaan typeryyteen kuin tavalliset ihmiset, koska älykkyyttä voidaan käyttää myös itsepetoksen välineenä:
 

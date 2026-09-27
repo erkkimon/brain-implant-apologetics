@@ -4,7 +4,7 @@ about: apologetics
 title: "Religulous"
 description: "Religulous on propagandistinen dokumenttielokuva, joka pyrkii tekemään uskonnon naurunalaiseksi."
 tags: [apowiki, elokuvat]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Religulous".
@@ -24,7 +24,7 @@ Dokumentti syyllistyy implisiittisesti tyypillisimpiin [uusateistisiin](uusateis
 
 ### "Jeesusta ei ollut olemassa"
 
-*Religulous* levittää tietynlaista [Jeesus-myyttihypoteesi](jeesus-myyttihypoteesit.md)versiota. Jeesus-myyttihypoteesin keskeisimmän väitteen mukaan [Jeesus](jeesus-nasaretilainen.md)ta ei olisi koskaan ollut olemassa vaan hän olisi keksitty henkilö, jonka ominaisuudet olisi kopioitu vanhempien uskontojen myyttisiltä hahmoilta. *Religulous* esittää Jeesuksen ominaisuuksien olennaisimmaksi lähteeksi [Egyptin mytologian](https://fi.wikipedia.org/wiki/Muinaisen_Egyptin_mytologia) [Horusta](https://fi.wikipedia.org/wiki/Horus), auringon ja taivaan jumalaa, joka kuvattiin usein haukanhahmoisena tai haukanpäisenä. Horus oli aikanaan yksi tärkeimmistä jumalista, jota palvottiin kymmenissä eri muodoissa muinaisen Egyptin valtakunnan alueella. Horuksen äiti oli [Isis](https://fi.wikipedia.org/wiki/Isis) ja isä [Osiris](https://fi.wikipedia.org/wiki/Osiris).[^2]
+*Religulous* levittää tietynlaista [Jeesus-myyttihypoteesiversiota](jeesus-myyttihypoteesit.md). Jeesus-myyttihypoteesin keskeisimmän väitteen mukaan [Jeesusta](jeesus-nasaretilainen.md) ei olisi koskaan ollut olemassa vaan hän olisi keksitty henkilö, jonka ominaisuudet olisi kopioitu vanhempien uskontojen myyttisiltä hahmoilta. *Religulous* esittää Jeesuksen ominaisuuksien olennaisimmaksi lähteeksi [Egyptin mytologian](https://fi.wikipedia.org/wiki/Muinaisen_Egyptin_mytologia) [Horusta](https://fi.wikipedia.org/wiki/Horus), auringon ja taivaan jumalaa, joka kuvattiin usein haukanhahmoisena tai haukanpäisenä. Horus oli aikanaan yksi tärkeimmistä jumalista, jota palvottiin kymmenissä eri muodoissa muinaisen Egyptin valtakunnan alueella. Horuksen äiti oli [Isis](https://fi.wikipedia.org/wiki/Isis) ja isä [Osiris](https://fi.wikipedia.org/wiki/Osiris).[^2]
 
 Dokumentissaan Bill Maher lataa väittelyyn valmistautumattomalle kristitylle seuraavan faktakokoelman.[^3][^4]
 
@@ -46,7 +46,7 @@ Väite on pääosin paikkansapitävä. Maher kuitenkin menee metsään seuraavis
 
 Todellisuudessa ei ole olemassa yhtä muinaisegyptiläistä [Kuolleiden kirjaa](https://fi.wikipedia.org/wiki/Kuolleiden_kirja). Sen sijaan on löytynyt moniaita kuolleiden kirjoja: loitsuista koostuvia kokoelmia, joista kunkin uskottiin auttavan kulloistakin vainajaa tämän matkalla tuonpuoleisessa. *Kuolleiden kirja* -ilmaus tarkoittaakin aivan konkreettisesti muumion kanssa haudattuna, siis tämän "omaisuutena", löytynyttä kirjaa.[^5] Joissain näistä kirjoista Horus-nimi todella esiintyy, mutta vain lyhyissä jaksoissa.
 
-Tietomme Horuksesta tuleekin ensisijaisesti muista arkeologisista lähteistä. Tiedämme Horukseen liittyvistä tarinoista syntyneen vuosituhansien mittaan[^6] monenmoisia versioita: egyptologit puhuvatkin useimmiten *Horus-jumalista* monikossa, eivät yksittäisestä Horuksesta.[^7] Tästä rönsyilevästä tarinavalikoimasta voi sitten tietenkin yrittää marjanpoimintatekniikalla rakentaa mahdollisimman samanlaista hahmoa kuin Raamatun Jeesuksesta. Näin menettelevät tuppaavat kuitenkin unohtamaan sen perustavan seikan, että jumaltaruista poiketen [evankeliumi](evankeliumit.md)t ovat perusluonteeltaan historiallisten tapahtumien silminnäkijätodistuksia.
+Tietomme Horuksesta tuleekin ensisijaisesti muista arkeologisista lähteistä. Tiedämme Horukseen liittyvistä tarinoista syntyneen vuosituhansien mittaan[^6] monenmoisia versioita: egyptologit puhuvatkin useimmiten *Horus-jumalista* monikossa, eivät yksittäisestä Horuksesta.[^7] Tästä rönsyilevästä tarinavalikoimasta voi sitten tietenkin yrittää marjanpoimintatekniikalla rakentaa mahdollisimman samanlaista hahmoa kuin Raamatun Jeesuksesta. Näin menettelevät tuppaavat kuitenkin unohtamaan sen perustavan seikan, että jumaltaruista poiketen [evankeliumit](evankeliumit.md) ovat perusluonteeltaan historiallisten tapahtumien silminnäkijätodistuksia.
 
 #### Neitseestä syntynyt jumalan poika
 
@@ -56,7 +56,7 @@ Mitä egyptiläismytologia sitten oikeastaan kertoo Horuksen alkuperästä? Kaik
 
 #### Anup Kastajan kastama
 
-Itse asiassa koko egyptiläinen mytologia ei tunne mitään "Anup Kastajaa", joka on pelkkä egyptologiaa harrastavan runoilijan [Gerald Massey](https://fi.wikipedia.org/wiki/Gerald_Massey)n myöhäsyntyinen keksintö.
+Itse asiassa koko egyptiläinen mytologia ei tunne mitään "Anup Kastajaa", joka on pelkkä egyptologiaa harrastavan runoilijan [Gerald Masseyn](https://fi.wikipedia.org/wiki/Gerald_Massey) myöhäsyntyinen keksintö.
 
 Egyptiläisissä hautamaalauksissa ja -veistoksissa esiintyy kylläkin viitteitä siitä, että faaraoita on rituaalisesti pesty kruunajaisseremonioiden yhteydessä. Mytologia viittaa kuitenkin siihen, että kyseinen toimenpide koski vain faaraoita, vaikka pesun suorittajina olivatkin jotkut jumalat. Taiteen valossa Horus olisi siis sopinut pikemminkin kastajan kuin kastettavan rooliin.
 
@@ -74,11 +74,11 @@ Vetten päällä kävelemisestä tai riivaajien ulos ajamisesta ei ole egyptilä
 
 Ainoa Horusta ja parantamista yhdistävä tekijä on 400 eKr. rakennettu *The Metternich Stella* -monumentti. Monumenttiin liittyvän tarinan mukaan Toth herätti Sethin myrkyttämän Horuksen henkiin tämän äidin, Isiksen, pyynnöstä. Monumenttiin on kirjattu loitsu, johon muinaiset egyptiläiset liittivät parantavia vaikutuksia.
 
-Se, että Horus herätettiin henkiin, tai se, että kyseisessä monumentissa lukevaa loitsua pidettiin parantavana, ei muistuta paljoakaan Jeesusta opetuslapsineen Galilean maaseudulla rasittanutta arkista julistamis-, parantamis- ja riivaajien ulosajamistyötä ( (Mark. 6:1-13),  (Mark. 6:30-31)).
+Se, että Horus herätettiin henkiin, tai se, että kyseisessä monumentissa lukevaa loitsua pidettiin parantavana, ei muistuta paljoakaan Jeesusta opetuslapsineen Galilean maaseudulla rasittanutta arkista julistamis-, parantamis- ja riivaajien ulosajamistyötä ( ([Mark. 6:1-13](../books/mrk.md)),  ([Mark. 6:30-31](../books/mrk.md))).
 
 #### Asarin herättäminen kuolleista
 
-Jeesus herätti Lasaruksen kuolleista ( (Joh. 11:38-44)). Tätä kertomusta väitetään usein kopioksi egyptiläisestä myytistä, jossa Horus herättää Asarin. Väite on ongelmallinen lähinnä siksi, että tämänsisältöistä myyttiä ei ole olemassa.
+Jeesus herätti Lasaruksen kuolleista ( ([Joh. 11:38-44](../books/jhn.md))). Tätä kertomusta väitetään usein kopioksi egyptiläisestä myytistä, jossa Horus herättää Asarin. Väite on ongelmallinen lähinnä siksi, että tämänsisältöistä myyttiä ei ole olemassa.
 
 "Asar" on Osiriksen kreikankielinen nimi. Osirista taas ei, kuten sanottu, egyptiläismytologiassa suinkaan herättänyt kuolleista hänen poikansa Horus (joka ei ollut vielä syntynytkään) vaan tämän tuleva äiti Isis. Mytologia ei väitä Horuksen herättäneen kuolleista ketään muutakaan.
 

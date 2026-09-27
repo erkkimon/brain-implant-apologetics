@@ -4,7 +4,7 @@ about: apologetics
 title: "Sukupuoli"
 description: "Biologinen sukupuoliero perustuu naisen ja miehen toisiaan täydentäviin tehtäviin lisääntymisessä."
 tags: [apowiki, etiikka, lukusuositukset]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Sukupuoli".
@@ -51,13 +51,13 @@ Raamattu ei puhu "sukupuolen moninaisuudesta" vaan miehistä ja naisista, mikä 
 
 > Mutta luomakunnan alusta Jumala 'on luonut heidät mieheksi ja naiseksi. Sentähden mies luopukoon isästänsä ja äidistänsä ja liittyköön vaimoonsa. Ja ne kaksi tulevat yhdeksi lihaksi.' Niin eivät he enää ole kaksi, vaan yksi liha.
 >
-> — (Mark.10:6-8), KR1933/38
+> — ([Mark.10:6-8](../books/mrk.md)), KR1933/38
 
 Raamatun mukaan miehillä ja naisilla on eri tehtävät lisääntymisen näkökulmasta. Erilaiset tehtävät eivät tarkoita epätasa-arvoa, sillä ihmisarvo ei riipu ihmisen kyvyistä tai annetuista tehtävistä.
 
 > Mutta niinkuin seurakunta on Kristukselle alamainen, niin olkoot vaimotkin miehillensä kaikessa alamaiset. Miehet, rakastakaa vaimojanne, niinkuin Kristuskin rakasti seurakuntaa ja antoi itsensä alttiiksi sen edestä,
 >
-> — (Ef. 5:24-25), KR1933/38
+> — ([Ef. 5:24-25](../books/eph.md)), KR1933/38
 
 ### Transvestisuus ja transsukupuolisuus
 
@@ -95,13 +95,13 @@ Raamattu tuomitsee transvestiittisen käyttäytymisen, mikä ei tarkoita transve
 
 > Nainen älköön käyttäkö miehen tamineita, älköönkä mies pukeutuko naisen vaatteisiin; sillä jokainen, joka niin tekee, on kauhistus Herralle, sinun Jumalallesi.
 >
-> — (5. Moos. 22:5), KR1933/38
+> — ([5. Moos. 22:5](../books/deu.md)), KR1933/38
 
 Seuraavan raamatunkohdan perusteella sukupuolenvaihdos[^31]leikkaukset ovat syntiä, eli voidaan sanoa, että Raamattu tuomitsee transsukupuolisen käyttäytymisen, muttei taaskaan taipumusta:
 
 > "Älköön kukaan, joka on kuohittu musertamalla tai leikkaamalla, pääskö Herran seurakuntaan.
 >
-> — (5. Moos. 23:1), KR1933/38
+> — ([5. Moos. 23:1](../books/deu.md)), KR1933/38
 
 Muutenkin nämä vaikuttavat olevan ristiriidassa [kristillisen sukupuolikäsityksen kanssa](sukupuoli.md).
 

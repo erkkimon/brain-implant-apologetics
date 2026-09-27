@@ -4,7 +4,7 @@ about: apologetics
 title: "Raamatun ristiriidat"
 description: "__NOTOC__ Raamatussa havaitaan joitain kohtia jotka eivät näytä sopivan hyvin yhteen jonkun toisen kohdan kanssa."
 tags: [apowiki, raamattu]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Raamatun ristiriidat".
@@ -22,8 +22,8 @@ __NOTOC__
 Raamatussa havaitaan joitain kohtia jotka eivät näytä sopivan hyvin yhteen jonkun toisen kohdan kanssa. Ristiriidat voivat olla joko todellisia tai näennäisiä. Mikäli ristiriita on todellinen, se kertoisi joko tekstin kulkeutumisessa tapahtuneesta virheessä tai jopa virheestä alkuperäisessä tekstissä, joka olisi raamatun erehtymättömyydelle hankala asia. Mikäli taas ristiriita osoittautuu näennäiseksi (tai se voidaan tulkita sellaiseksi), eli sille löydetään hyvä selitys, siitä tulee vahva todiste raamatun luotettavuuden puolesta. Tämä siksi, että näennäinen ristiriita kertoo siitä, että kirjoittaja on rehellisesti kertonut näkemästään/kuulemastaan, muuttamatta tekstiä muiden tekstien mukaan. On sanottu, että raamatussa ei ole osoitettu yhtäkään todellista ristiriitaa, esitetyt ristiriidat voidaan sovittaa yhteen. *[lähde puuttuu]*
 
 Ristiriitoihin voidaan suhtautua usealla tavalla:
-#Minimalistinen historia. Tässä tavassa ei sallita sitä, että taustalle oletetaan lisätapahtumia, joilla ristiriita voidaan selittää. Selitysyrityksiä pidetään teennäisinä.
-#Monimutkainen historia. Tässä tavassa ristiriita voidaan selittää monimutkaisellakin tapahtumalla, joka sitten sopii molempiin tekstin kohtiin. Selitys ei välttämättä ole monimutkainen, mutta näin on joissain kohdissa.
+1. Minimalistinen historia. Tässä tavassa ei sallita sitä, että taustalle oletetaan lisätapahtumia, joilla ristiriita voidaan selittää. Selitysyrityksiä pidetään teennäisinä.
+1. Monimutkainen historia. Tässä tavassa ristiriita voidaan selittää monimutkaisellakin tapahtumalla, joka sitten sopii molempiin tekstin kohtiin. Selitys ei välttämättä ole monimutkainen, mutta näin on joissain kohdissa.
 
 Näistä vaihtoehto 2. on monesti realistisempi siksi, että historia on todellisuudessa monimutkaista. Vaihtoehto 2 on myös käytännössä välttämätön esim. oikeusistuimessa, koska silminnäkijöiden todistukset jättävät yleensä suuren osan henkilöistä ja tapahtumista mainitsematta.
 

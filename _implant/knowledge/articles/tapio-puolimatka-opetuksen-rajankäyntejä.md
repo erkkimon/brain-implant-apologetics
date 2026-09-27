@@ -4,7 +4,7 @@ about: apologetics
 title: "Tapio Puolimatka: Opetuksen rajankäyntejä"
 description: "Indoktrinaatiolla tarkoitetaan opetuksen vääristymää, joka voi ilmetä useissa eri muodoissa: joko opetuksen sisältö ei ole tietoa tai sitä ei opeteta niin, että oppilas tulee tietämään asian."
 tags: [apowiki, tapio-puolimatka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tapio Puolimatka: Opetuksen rajankäyntejä".
@@ -22,7 +22,7 @@ Indoktrinaatiolla tarkoitetaan opetuksen vääristymää, joka voi ilmetä useis
 
 Opetuksen indoktrinoivuutta arvioitaessa nousee ratkaisevaksi kysymykseksi, mitkä ovat itsenäisen tiedollisen arviointikyvyn henkiset edellytykset. Tästä kysymyksestä voidaan olla eri mieltä erilaisten ihmiskäsitysten ja todellisuuskäsitysten pohjalta.
 
-Kristillisen maailmankatsomuksen ytimessä on ajatus, että itsenäinen tiedollinen arviointikyky riippuu ratkaisevasti Kristuksen tuntemisesta, koska maailma on luotu hänen kauttaan, häntä varten ja häneen, niin että hänessä "kaikki viisauden ja tiedon aarteet ovat kätkettyinä" ( (Kol. 2:3)).
+Kristillisen maailmankatsomuksen ytimessä on ajatus, että itsenäinen tiedollinen arviointikyky riippuu ratkaisevasti Kristuksen tuntemisesta, koska maailma on luotu hänen kauttaan, häntä varten ja häneen, niin että hänessä "kaikki viisauden ja tiedon aarteet ovat kätkettyinä" ( ([Kol. 2:3](../books/col.md))).
 
 Yksittäisten tiedollisten käsitysten arviointi edellyttää oikeaa kokonaisnäkemystä. Koska ihminen ei rajallisena olentona koskaan pysty tietämään kaikkea, hänen on vaikea tai mahdotonta saavuttaa luotettavaa kokonaisnäkemystä omin avuin. Siksi hän tarvitsee Jumalan ilmoitusta ja hänen on tärkeä pystyä erottamaan sen aidot muodot vääristymistä. Yritys ymmärtää todellisuutta epätodesta kokonaisnäkemyksestä käsin johtaa ajattelun sisäisiin ristiriitoihin, koska todellisuuden yhtenäinen merkitys avautuu vain sen alkuperän kautta. Erilaisten kokonaisnäkemysten pätevyyttä voidaan pyrkiä arvioimaan vertaamalla niiden selitysvoimaa, sisäistä yhtenäisyyttä ja käytännöllistä toimivuutta.
 

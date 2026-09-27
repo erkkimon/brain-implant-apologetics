@@ -4,7 +4,7 @@ about: apologetics
 title: "Augustinus"
 description: "Aurelius Augustinus (13. marraskuuta 354 – 28. elokuuta 430) oli läntisen kristillisen kirkon merkittävin kirkkoisä, joka teki huomattavaa työtä filosofian ja teologian yhteen sovittamisessa."
 tags: [apowiki, henkilöt]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Augustinus".
@@ -26,13 +26,13 @@ Aurelius Augustinus (13. marraskuuta 354 – 28. elokuuta 430) oli läntisen kri
 
 Augustinus erottaa viisauden (sapientia) tieteestä (scientia). Viisaudella Augustinus tarkoittaa ainutlaatuista oivallusta, joka syntyy ihmismielen nähdessä muuttumattomien ikuisten totuuksien näkymättömän tuonpuoleisen alueen, jonka varaan rakentuu kaikki ihmisjärjen rationaalisen päättelyn kautta saavutettava tieteellinen tieto näkyvästä aineellisesta maailmasta.
 
-Augustinuksen käsityksen mukaan viisaus on lahja. Ihminen ei pysty itse tuottamaan siihen liittyvää oivallusta. Ihmismieli hahmottaa ikuisia totuuksia vain hetken ja tallentaa ne sitten muistiinsa. Muistin välityksellä tällainen oivallus ohjaa järkiperäistä tutkimusta luomakunnan rakenteista. Kun viisautta ohjaa [Jumala](jumala.md)n ilmoitus, se pystytään ilmaisemaan käsitteellisessä muodossa.
+Augustinuksen käsityksen mukaan viisaus on lahja. Ihminen ei pysty itse tuottamaan siihen liittyvää oivallusta. Ihmismieli hahmottaa ikuisia totuuksia vain hetken ja tallentaa ne sitten muistiinsa. Muistin välityksellä tällainen oivallus ohjaa järkiperäistä tutkimusta luomakunnan rakenteista. Kun viisautta ohjaa [Jumalan](jumala.md) ilmoitus, se pystytään ilmaisemaan käsitteellisessä muodossa.
 
 Synti haittaa ihmisen kykyä suhteuttaa tieteellistä tutkimusta viisauden kautta saatuun oivallukseen. Niinpä synti haittaa ihmisen kykyä suhteuttaa ajallista todellisuutta sen ikuiseen perustaan. Viisauden on tarkoitus ohjata tieteellistä tutkimusta, koska ainoastaan viisauden valossa luonnollista maailmaa koskevat tosiasiat voidaan tulkita oikein.
 
 Augustinukselta peräisin olevan tradition mukaan oikea usko avaa ihmisen järjen ymmärtämään todellisuuden oikeasta näkökulmasta. Tämä perustava lähestymistapa voidaan ilmaista tunnetulla lausumalla: ”Uskon, jotta ymmärtäisin”. Tämän ajattelutavan mukaan tieteellistä tutkimusta ohjaa aina jokin uskonvakaumus. Olennainen kysymys koskee sitä, onko kyseinen uskonvakaumus sellainen, että se avaa todellisuuden vai sellainen, joka vääristää näkökulman todellisuuteen. Philip Schaff tekee yhteenvedon tästä perinteestä
 
-Augustinusta seuraten myöhäisen keskiajan oppineet lähtivät liikkeelle periaatteesta, jonka mukaan usko edeltää tietoa – fides praecedit intellectum. Tai, kuten [Anselm](anselm-canterburylainen.md) asian ilmaisi, ”Uskon, jotta ymmärtäisin; en ymmärrä, jotta uskoisin” credo ut intelligam, non intelligo ut credam. He lainasivat perustavana tekstinään  (Jes 7:9): ”Ellette usko, te ette kestä.” [Abélard](https://fi.wikipedia.org/wiki/Pierre_Abélard) oli poikkeus, sillä hän käänsi järjestyksen päinvastaiseksi ja katsoi tiedon edeltävän uskoa; mutta kaikki päätyivät samaan lopputulokseen. Ilmoitus ja järki, usko ja tiede, teologia ja filosofia ovat samaa mieltä, sillä ne kaikki tulevat yhdeltä Jumalalta, joka ei voi olla itsensä kanssa ristiriidassa.[^1]
+Augustinusta seuraten myöhäisen keskiajan oppineet lähtivät liikkeelle periaatteesta, jonka mukaan usko edeltää tietoa – fides praecedit intellectum. Tai, kuten [Anselm](anselm-canterburylainen.md) asian ilmaisi, ”Uskon, jotta ymmärtäisin; en ymmärrä, jotta uskoisin” credo ut intelligam, non intelligo ut credam. He lainasivat perustavana tekstinään  ([Jes 7:9](../books/isa.md)): ”Ellette usko, te ette kestä.” [Abélard](https://fi.wikipedia.org/wiki/Pierre_Abélard) oli poikkeus, sillä hän käänsi järjestyksen päinvastaiseksi ja katsoi tiedon edeltävän uskoa; mutta kaikki päätyivät samaan lopputulokseen. Ilmoitus ja järki, usko ja tiede, teologia ja filosofia ovat samaa mieltä, sillä ne kaikki tulevat yhdeltä Jumalalta, joka ei voi olla itsensä kanssa ristiriidassa.[^1]
 
 Anselmin ja Abelardin välinen ristiriita on elänyt siinä ajattelun traditiossa, joka katsoo uskonnollisen uskon olevan ominaista ihmiselle ja hänen pyrkimykselleen hankkia tietoa. Voiko tiede lähteä liikkeelle ilman uskonnollista uskoa ja antaa perusteet uskolle, vai edellyttääkö tiede aina uskoa? Seuraavassa esittelen lyhyesti joitakin teoreetikkoja, joiden mukaan tiede edellyttää aina uskonnollista uskoa, koska ihminen on rajallinen olento, jonka täytyy tietoa hankkiessaan tukeutua johonkin, mitä hän ei käsitteellisesti täysin hallitse. Ihminen on [uskonnollinen](uskonnon-määritelmä.md) olento, joka aina pitää jotakin jumalanaan. Ihmisen usko heijastuu siihen, miten hän tekee tiedettä.
 

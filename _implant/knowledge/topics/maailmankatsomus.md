@@ -4,7 +4,7 @@ about: apologetics
 title: "Maailmankatsomus"
 description: "25 ApoWiki-artikkelia aihepiiristä maailmankatsomus — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, maailmankatsomus]
-timestamp: 2026-09-25T23:30:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 
 # Maailmankatsomus
@@ -32,7 +32,7 @@ Aihepiirin maailmankatsomus artikkelit, tuotu [ApoWikistä](https://apowiki.fi).
 * [Pascalin peliteoria](../articles/pascalin-peliteoria.md) — Pascalin peliteoria (Pascalin vaaka, Pascalin vedonlyönti, Pascalin argumentti, peliteoreettinen argumentti, pelurin todistus) on yksi peruste uskoa….
 * [Suurkertomukset](../articles/suurkertomukset.md) — Kertomukset (narraatiot, narratiivit) ovat ihmiselle luonteenomainen tapa asioiden hahmottamiseen ja jäsentämiseen.
 * [Tieteellinen maailmankatsomus](../articles/tieteellinen-maailmankatsomus.md) — Tieteellistä maailmankatsomusta pidetään usein uskonnollisen ajattelun vastakohtana.
-* [Tieteen ja uskonnon välinen suhde](../articles/tieteen-ja-uskonnon-välinen-suhde.md) — Ian Barbour esittää neljä yleistä mallia tieteen ja uskonnon suhteelle: Vaikka erilliset alueet -malli on ollut teologien keskuudessa jo noin sata….
+* [Tieteen ja uskonnon välinen suhde](../articles/tieteen-ja-uskonnon-välinen-suhde.md) — Ian Barbour esittää neljä yleistä mallia tieteen ja uskonnon suhteelle: 1.
 * [Tieteisusko](../articles/tieteisusko.md) — Tieteisusko eli skientismi eli tieteisuskovaisuus on epistemologinen käsitys, jonka mukaan vain tieteellinen tieto on luotettavaa tietoa ja tiede….
 * [Todistuksen taakka](../articles/todistuksen-taakka.md) — Usein kuulee sanottavan, ettei olematonta voi todistaa olemattomaksi.
 * [Uskonnon määritelmä](../articles/uskonnon-määritelmä.md) — Uskontoa on yritetty määritellä monella tapaa johtuen siitä, että se on äärimmäisen vaikeaa.

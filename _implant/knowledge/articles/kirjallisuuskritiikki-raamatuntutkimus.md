@@ -4,7 +4,7 @@ about: apologetics
 title: "Kirjallisuuskritiikki (raamatuntutkimus)"
 description: "Kirjallisuuskritiikki on yksi uudemmista raamatuntutkimuksen menetelmistä, joissa huomion keskipiste on siirretty pois Raamatun tekstien historiallisesta totuudesta."
 tags: [apowiki, raamattu, historia, eksegetiikka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kirjallisuuskritiikki (raamatuntutkimus)".
@@ -47,7 +47,7 @@ Supranaturalistisen lähestymistavan mukaan Raamatun ytimessä on ilmoitus Jumal
 >
 > — Vanhoozer[^10]
 
-Kirjallisuuskriittistä lähestymistapaa voidaan siis mielekkäästi soveltaa supranaturalistisessa viitekehyksessä. Tällöin voidaan kiinnittää huomiota Raamatun eri tyyleihin ja kirjallisuuslajeihin, koska niillä katsotaan olevan merkitystä kristillisen elämän avartamisessa käsittämään koko elämän moninaisuus. Jumalan sana aktivoi kristittyä elämään ihmisyyden kaikilla ulottuvuuksilla. Sana on uutta luova ja elämää antava ei pelkästään sisältönsä vaan myös esitystapansa puolesta. Jumala lahjoittaa ihmiselle sanansa kautta sen, mitä hän sanassaan käskee. Tämän näemme selvimmin Jeesuksen huutaessa neljä päivää haudassa kuolleena olleelle ja jo mätänevälle Lasarukselle: ”Tule ulos.” Jeesuksen sana lahjoitti Lasarukselle elämän ja sen mukana voiman sanan toteuttamiseen. ”Silloin kuollut tuli haudasta, jalat ja kädet siteissä ja kasvot hikiliinan peittäminä.” ( (Joh. 11:43-44))
+Kirjallisuuskriittistä lähestymistapaa voidaan siis mielekkäästi soveltaa supranaturalistisessa viitekehyksessä. Tällöin voidaan kiinnittää huomiota Raamatun eri tyyleihin ja kirjallisuuslajeihin, koska niillä katsotaan olevan merkitystä kristillisen elämän avartamisessa käsittämään koko elämän moninaisuus. Jumalan sana aktivoi kristittyä elämään ihmisyyden kaikilla ulottuvuuksilla. Sana on uutta luova ja elämää antava ei pelkästään sisältönsä vaan myös esitystapansa puolesta. Jumala lahjoittaa ihmiselle sanansa kautta sen, mitä hän sanassaan käskee. Tämän näemme selvimmin Jeesuksen huutaessa neljä päivää haudassa kuolleena olleelle ja jo mätänevälle Lasarukselle: ”Tule ulos.” Jeesuksen sana lahjoitti Lasarukselle elämän ja sen mukana voiman sanan toteuttamiseen. ”Silloin kuollut tuli haudasta, jalat ja kädet siteissä ja kasvot hikiliinan peittäminä.” ( ([Joh. 11:43-44](../books/jhn.md)))
 
 ### Viitteet
 

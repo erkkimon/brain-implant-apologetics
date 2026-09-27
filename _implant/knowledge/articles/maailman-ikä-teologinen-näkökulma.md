@@ -4,7 +4,7 @@ about: apologetics
 title: "Maailman ikä – teologinen näkökulma"
 description: "Tämän tekstin tavoite on esitellä ja verrata näkyvän universumin (maailmankaikkeuden) ja maapallon ikää koskevia erilaisia raamatuntulkintoja."
 tags: [apowiki, raamattu, luomisoppi]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Maailman ikä – teologinen näkökulma".
@@ -22,11 +22,11 @@ Tämän tekstin tavoite on esitellä ja verrata näkyvän universumin (maailmank
 
 ### Ensimmäisen Mooseksen kirjan kahden ensimmäisen luvun tekstiin liittyviä huomioita
 #### Jae 1
- (1. Moos. 1:1)
+ ([1. Moos. 1:1](../books/gen.md))
 **Kaikkeuden luominen tyhjästä eli olevaiseksi luodun asettaminen pelkän olemattomuuden sijaan**
 
 ##### Yhtenäinen kertomus
-Teksti tulee ymmärtää juuri niin kuin se on kirjoitettukin. Tässä kohtaa Raamattu kertoo kaiken olevaisen  alusta. On syytä huomata, että aikakin on luotu entiteetti, ja kysymykseen "mitä oli ennen alkua" löytää vastauksen evankeliumista Johanneksen mukaan  (Joh. 1:1-3), jossa kuvataan *ikuisuutta*.
+Teksti tulee ymmärtää juuri niin kuin se on kirjoitettukin. Tässä kohtaa Raamattu kertoo kaiken olevaisen  alusta. On syytä huomata, että aikakin on luotu entiteetti, ja kysymykseen "mitä oli ennen alkua" löytää vastauksen evankeliumista Johanneksen mukaan  ([Joh. 1:1-3](../books/jhn.md)), jossa kuvataan *ikuisuutta*.
 
 ##### Aukkotulkinta
 Jotkut nykyajan kommentaattorit ovat kyseenalaistaneet tämän tekstin *ex nihilo* -tulkinnan eli tyhjästä luomisen. Sen sijaan he tahtovat tulkita 1. jakeen "kun alussa Jumala loi...", siis että maailma olisi tosin ollut olemassa mutta vain autiona ja tyhjänä aina siihen asti, kun Jumala "alussa" aloitti työnsä.
@@ -45,7 +45,7 @@ Vaihtoehtoja on tässä siis kaksi:
 (Alkutekstissä ei ole jakeita eikä siis jaerajojakaan, mutta myöhemmin lisättyä jaejaottelua on edellä käytetty tekstinosien nimentään kuten yleensäkin on tapana.)
 
 #### Jae 2
- (1. Moos. 1:2)-13
+ ([1. Moos. 1:2](../books/gen.md))-13
 
 ##### Aukkotulkinta
 Maapallon muokkaaminen sekaisesta (sana tarkoittaa asumattomaksi kelpaamaton hukkamaa, ei täysin kaoottinen) tilasta.
@@ -54,7 +54,7 @@ Maapallon muokkaaminen sekaisesta (sana tarkoittaa asumattomaksi kelpaamaton huk
 Universumin muokkaaminen 1. jakeessa kuvatun alkuluomistapahtuman jälkeisestä tilasta, jossa jo on kaikki ainekset Jumalan tarkoitusten toteutumiseksi, mutta mitään ei vielä ole viimeistelty tarkoitustaan vastaavaan tilaan. Tilanteen "sekaisuus" siis muistuttaa tilannetta rakennustyömaan avautuessa: kaikki rakennustarpeet ovat vasta väliaikaisilla paikoillaan, mutta koko tilanne on rakennusmestarin hanskassa eikä siis millään muotoa täysin kaoottinen.
 
 #### Jae 14
- (1. Moos. 1:14)
+ ([1. Moos. 1:14](../books/gen.md))
 Aurinko, kuu ja tähdet
 Jae 14
 
@@ -63,7 +63,7 @@ Teksti ei edellytä sitä, että tässä luodaan taivaankappaleet, vaan ilmaisu 
 [^3]
 [^4]
 
- (1.Moos. 1) luomista tapahtuu tekemällä ja sanomalla. Jumala tekee sanomalla, ja sitten ehkä kirjoittaja kommentoi miten se tapahtuu. Esim. jakeet 11 ja 12. Jae 16 lienee siis kommentaari jakeeseen 15.
+ ([1.Moos. 1](../books/gen.md)) luomista tapahtuu tekemällä ja sanomalla. Jumala tekee sanomalla, ja sitten ehkä kirjoittaja kommentoi miten se tapahtuu. Esim. jakeet 11 ja 12. Jae 16 lienee siis kommentaari jakeeseen 15.
 
 Eli 4. päivänä ei ehkä luoda taivaankappaleita vaan niille annetaan tarkoitus (aikojen osoittaminen), vastakohtana niitä palvoville ympäröiville pakanakulttuureille, ja todetaan että Jumala on tehnyt ne.
 
@@ -111,34 +111,34 @@ Modernilla ajalla tätä tulkintakantaa ovat edustaneet myös adventistit, ja si
 #### Määräämättömän pitkä päivä -tulkinta
 
 ##### Perustelut puolesta
-* (1. Moos. 1:12) "maa tuotti vihantaa, ruohoja, jotka tekivät siementä lajiensa mukaan, ja puita..." maa tuottaa - vaikuttaa pitemmältä kuin yksi päivä.
+* ([1. Moos. 1:12](../books/gen.md)) "maa tuotti vihantaa, ruohoja, jotka tekivät siementä lajiensa mukaan, ja puita..." maa tuottaa - vaikuttaa pitemmältä kuin yksi päivä.
 
-* (1. Moos. 2:4) "Siihen aikaan" on sama sana kuin "päivä", joka tässä siis viittaa pitempään ajanjaksoon. Samoin ilmeisesti Hesekiel 30:3 ja Hoosea 6:2 käyttävät päivä-sanaa pitemmässä mielessä, Hoos 6:2 liittää sanaan myös numeron.
+* ([1. Moos. 2:4](../books/gen.md)) "Siihen aikaan" on sama sana kuin "päivä", joka tässä siis viittaa pitempään ajanjaksoon. Samoin ilmeisesti Hesekiel 30:3 ja Hoosea 6:2 käyttävät päivä-sanaa pitemmässä mielessä, Hoos 6:2 liittää sanaan myös numeron.
 
-*Seitsemäs päivä ei ilmeisesti pääty, sen päättymisestä ei käytetä samaa 'Ja tuli ehtoo, ja tuli aamu, N:nnäs päivä' -rakennetta, myös Uuden testamentin mukaan Jumalan lepopäivä jatkuu ( (Hebr. 4:1-5)). Lisäksi Jeesus totesi 'Minä ja Isäni teemme yhäti työtä' vastineena sapattikielloille, viitaten ilmeisesti siihen että Jumala tekee laupeuteen liittyvää työtä lepopäivänään. (Tämä selittäisi myös, miksi Jumala ei koko ajan ja näkyvästi ole vuorovaikutuksessa luomakuntaansa.)
+*Seitsemäs päivä ei ilmeisesti pääty, sen päättymisestä ei käytetä samaa 'Ja tuli ehtoo, ja tuli aamu, N:nnäs päivä' -rakennetta, myös Uuden testamentin mukaan Jumalan lepopäivä jatkuu ( ([Hebr. 4:1-5](../books/heb.md))). Lisäksi Jeesus totesi 'Minä ja Isäni teemme yhäti työtä' vastineena sapattikielloille, viitaten ilmeisesti siihen että Jumala tekee laupeuteen liittyvää työtä lepopäivänään. (Tämä selittäisi myös, miksi Jumala ei koko ajan ja näkyvästi ole vuorovaikutuksessa luomakuntaansa.)
 
 *Aatami tekee melko paljon hommia 6. päivänä, hän mm. nimeää kaikki eläimet. Kun Eeva herää, Aatami toteaa "vihdoin". Tämä viittaa pitempään aikaan kuin päivä.
 
 ##### Perustelut vastaan
 
-* (1. Moos. 1:12) "maa tuotti vihantaa, ruohoja, jotka tekivät siementä lajiensa mukaan, ja puita..."  Samalla logiikalla kun kantaa on puolustettu ylhäällä voidaan koittaa selittää Jeesuksen Uudessa testamentissa veden muuttamista viiniksi. Voidaanko siis ajatella, että viinin valmistusprosessista johtuen Jeesus vietti häissä viikkoja, kuukausia, tai vuosia? Tietenkään ei voida.
+* ([1. Moos. 1:12](../books/gen.md)) "maa tuotti vihantaa, ruohoja, jotka tekivät siementä lajiensa mukaan, ja puita..."  Samalla logiikalla kun kantaa on puolustettu ylhäällä voidaan koittaa selittää Jeesuksen Uudessa testamentissa veden muuttamista viiniksi. Voidaanko siis ajatella, että viinin valmistusprosessista johtuen Jeesus vietti häissä viikkoja, kuukausia, tai vuosia? Tietenkään ei voida.
 
-* (1. Moos. 2:4) Tässä kohdassa monet näkevät "toisen luomiskertomuksen". Väite ei kuitenkaan pidä paikkaansa, sillä luontevin tapa on tulkita tämä Aadamin kuvaukseksi siitä mitä tapahtui. "Siihen aikaan" on sama sana kuin "päivä", ja se viittaa suoraan siihen aikaan kun Jumala loi. Mikään osa tekstiä ei viittaa siihen, että kyse olisi määräämättömän pitkästä ajasta.
+* ([1. Moos. 2:4](../books/gen.md)) Tässä kohdassa monet näkevät "toisen luomiskertomuksen". Väite ei kuitenkaan pidä paikkaansa, sillä luontevin tapa on tulkita tämä Aadamin kuvaukseksi siitä mitä tapahtui. "Siihen aikaan" on sama sana kuin "päivä", ja se viittaa suoraan siihen aikaan kun Jumala loi. Mikään osa tekstiä ei viittaa siihen, että kyse olisi määräämättömän pitkästä ajasta.
 
-* Ylhäällä on myös esitetty, että  (Hes. 30:3) ja  (Hoos. 6:2) käyttävät päivä sanaa pidemmässä mielessä.
-  * Johdannossa  (Hes. 30:3) tekstiin kerrotaan selvästi, että kyse on ennustuksesta, profetiasta. Näin ollen yhtymäkohtien vetäminen historialliseen kuvaukseen on perusteetonta.
-  * (Hoos. 6:2) puolestaan on selvässä heprealaisessa runomitassa oleva runo. Kohdassa on kyseessä rinnakkainen runo (parallelism), jossa toistetaan kahta - mahdollisesti kolmea asiaa (mikäli "saamme elää hänen edessänsä" on runon kolmas osa).
+* Ylhäällä on myös esitetty, että  ([Hes. 30:3](../books/ezk.md)) ja  ([Hoos. 6:2](../books/hos.md)) käyttävät päivä sanaa pidemmässä mielessä.
+  * Johdannossa  ([Hes. 30:3](../books/ezk.md)) tekstiin kerrotaan selvästi, että kyse on ennustuksesta, profetiasta. Näin ollen yhtymäkohtien vetäminen historialliseen kuvaukseen on perusteetonta.
+  * ([Hoos. 6:2](../books/hos.md)) puolestaan on selvässä heprealaisessa runomitassa oleva runo. Kohdassa on kyseessä rinnakkainen runo (parallelism), jossa toistetaan kahta - mahdollisesti kolmea asiaa (mikäli "saamme elää hänen edessänsä" on runon kolmas osa).
 
 *Kanta kohtaa mahdollisia ongelmia Nooan tulvan kanssa, se tulkitaan paikalliseksi (josta on kyllä näyttöä), eli se, että teksti sanoo vetten olleen kaikkien vuorten yllä, tulkitaan että vesi oli paikallisesti kaikkien näkyvien vuorten yläpuolella. Toisaalta vastaavalla tavalla 'kaikki maailman verollepantava' tulkitaan silloiseksi Rooman valtakunnaksi eikä tässä ole ongelmaa, kaikki-termi on ollut tuolloin joustavampi.
 
 Concordia-teologinen kritiikki on taulukoitu erikseen tuonnempana.
 
 ###### Seitsemännen päivän oletettu jatkuminen
-Seitsemännen päivän jatkumiselta putoaa pohja kun luetaan mitä Raamatussa sanotaan ( (1. Moos. 2:2-3)). Jälkimmäinen jae selvästi toteaa, että lepo on päättynyt:
+Seitsemännen päivän jatkumiselta putoaa pohja kun luetaan mitä Raamatussa sanotaan ( ([1. Moos. 2:2-3](../books/gen.md))). Jälkimmäinen jae selvästi toteaa, että lepo on päättynyt:
 
 > Ja Jumala siunasi seitsemännen päivän ja pyhitti sen, koska hän sinä päivänä lepäsi kaikesta luomistyöstänsä, jonka hän oli tehnyt
 
-Seitsemännen päivän päättymättömyyttä on perusteltu myös Heprealaiskirjeen kohdalla ( (Hebr. 4:1-5)). Heprealaiskirjeen jakeet 3 ja 4 opettaa, että luomisviikon seitsemäs päivä on rinnakkainen siihen lepoon, joka voidaan löytää vain Kristuksen kautta. Vain ne, jotka ovat uskoneet Kristukseen, pääsevät tähän lepoon. Jos Raamattu puhuisi kirjaimellisesti luomispäivän jatkumisesta, silloinhan kaikki **jo olisivat** tässä levossa. Selvästikin tässä *lepo* viittaa hengelliseen lepoon.
+Seitsemännen päivän päättymättömyyttä on perusteltu myös Heprealaiskirjeen kohdalla ( ([Hebr. 4:1-5](../books/heb.md))). Heprealaiskirjeen jakeet 3 ja 4 opettaa, että luomisviikon seitsemäs päivä on rinnakkainen siihen lepoon, joka voidaan löytää vain Kristuksen kautta. Vain ne, jotka ovat uskoneet Kristukseen, pääsevät tähän lepoon. Jos Raamattu puhuisi kirjaimellisesti luomispäivän jatkumisesta, silloinhan kaikki **jo olisivat** tässä levossa. Selvästikin tässä *lepo* viittaa hengelliseen lepoon.
 
 Jae kolme kyllä opettaa Jumalan levosta, mutta rinnastuksessa ei olisi mitään järkeä ellei luomisviikon seitsemäs päivä ollut tavallinen 24 tunnin päivä. Heprealaiskirjeessä ei sanota, että "he eivät pääse *luomisviikon seitsemännen päivän* lepooni".
 
@@ -146,7 +146,7 @@ Eikö Jumala olisi sitten voinut levätä oikean 24 tunnin päivän menneisyydes
 
 Heprean sana *shabat* on perfektissä, joka tarkoittaa *loppuun saatettua* tekemistä menneessä. Tietystikin Jumala lepää yhä luomistyöstään koska Hän sai sen päätökseen. Mutta missään Raamatussa ei sanota, että Jumala jatkaa lepopäivän lepoaan. Päinvastoin, Raamattu opettaa, että Jumalan *seitsemännen päivän lepo* on päättynyt.
 
-Kun Herra Jumala asetti sapatin vieton ( (2. Moos. 20:11),  (2. Moos. 31:17)), Hän itse todisti koko luomisviikon - seitsemäs päivä mukaan lukien - olleen normaali viikko.
+Kun Herra Jumala asetti sapatin vieton ( ([2. Moos. 20:11](../books/exo.md)),  ([2. Moos. 31:17](../books/exo.md))), Hän itse todisti koko luomisviikon - seitsemäs päivä mukaan lukien - olleen normaali viikko.
 
 #### Tekstikehys ja analogiset päivät -tulkinnat
 
@@ -162,7 +162,7 @@ Concordia-teologinen kritiikki on taulukoitu erikseen tuonnempana.
 
 #### Puutarha-tulkinta
 
-Tässä J. Salehammerin, huomattavan evankelikaalisen Vanhan testamentin tutkijan, esiin tuomassa kannassa ajatellaan, että  (1. Moos. 1:1) kertoo maailman luomisesta ja  (1. Moos.  1:2-2:4a) maan valmistamisesta (Eedenin puutarha/luvattu maa) [^4].
+Tässä J. Salehammerin, huomattavan evankelikaalisen Vanhan testamentin tutkijan, esiin tuomassa kannassa ajatellaan, että  ([1. Moos. 1:1](../books/gen.md)) kertoo maailman luomisesta ja  ([1. Moos.  1:2-2:4a](../books/gen.md)) maan valmistamisesta (Eedenin puutarha/luvattu maa) [^4].
 
 Concordia-teologinen kritiikki on taulukoitu erikseen tuonnempana.
 
@@ -326,7 +326,7 @@ Arkkiin kaikkia eläimiä
 |
 |-
 
-| *Mpp*-perustelu: "– – myös Uuden testamentin mukaan Jumalan lepopäivä jatkuu ( (Hebr. 4:1-5))."
+| *Mpp*-perustelu: "– – myös Uuden testamentin mukaan Jumalan lepopäivä jatkuu ( ([Hebr. 4:1-5](../books/heb.md)))."
 | Tässä tekstikohdassahan Jumalan lepo luomistöistään rinnastetaan eräänlaisena ennakkokuvana siihen lepoon, joka hänen omilleen on luvassa tämän elämän tekojensa perästä; kummassakin tapauksessa kysymys on tietyssä mielessä lopullisesta irrottautumisesta[^8] jo valmiiksi tulleesta työstä ja kaikesta siihen liittyneestä keskeneräisyydestä, ja heti luomistyön päätyttyä ihmistenkin tietoon annettu "sapattisiunaus" ymmärretään[^9] lupauksena Jumalan kansalle tulevasta iankaikkisesta levosta. Mikä itse tekstissä mahdollisesti edellyttäisi jotain muuta, pitemmälle menevää tulkintaa? – Eihän *Jumalan luona* Raamatun mukaan edes ole päivän ja yön vaihtelua, joten koko idea yrittää mitata Jumalan omaa olemista ajallisilla käsitteillä ("nyt Jumala elää seitsemättä päiväänsä") olisi lievästi sanoen omituinen. – Totta sen sijaan on se, että nimenomaan täältä ajasta katsoen Jumala joko jatkaa yhä alun luomistyötään tai on jo päättänyt sen, ja *tähän kysymykseen* Raamattu selvästi vastaa, että tämä työ on päättynyt kuudennen päivän myötä, joten siitä eteenpäin Jumala luomistyön osalta yhä edelleen "lepää", vaikka ajalliset päivät yhä uudestaan vaihtuvatkin. Jo siksikin rajoittamaton uniformitarianistinen ekstrapolaatio on ehdottoman epäraamatullista: luomisviikolla tapahtui Raamatun selvän ilmoituksen mukaan paljonkin sellaista, mitä sittemmin ei ole enää tapahtunut.
 |
 |
@@ -405,7 +405,7 @@ Ts. tulkinnallinen mielivaltaisuus voi lopultakin peittää minkä hyvänsä Raa
 |
 |-
 
-| *Pt*-referaatti: "Tässä **J. Salehammer**in, huomattavan evankelikaalisen Vanhan testamentin tutkijan, esiin tuomassa kannassa ajatellaan, että  (1. Moos. 1:1) kertoo maailman luomisesta ja  (1. Moos.  1:2-2:4a) maan valmistamisesta (Eedenin puutarha/luvattu maa) [^4]."
+| *Pt*-referaatti: "Tässä **J. Salehammer**in, huomattavan evankelikaalisen Vanhan testamentin tutkijan, esiin tuomassa kannassa ajatellaan, että  ([1. Moos. 1:1](../books/gen.md)) kertoo maailman luomisesta ja  ([1. Moos.  1:2-2:4a](../books/gen.md)) maan valmistamisesta (Eedenin puutarha/luvattu maa) [^4]."
 | Onko tässä nyt muuta omaperäistä ajatusta kuin aukkotulkinnan kutistaminen siihen, että toisen jakeen "autio ja tyhjä" ei olisikaan koskenut muuta kuin tulevaa Eedenin aluetta? Kannattaako joka kirjan sisällöstä tehdä oma vaihtoehtoinen tulkintamallinsa?
 |
 |

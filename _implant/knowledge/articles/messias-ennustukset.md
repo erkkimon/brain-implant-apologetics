@@ -4,7 +4,7 @@ about: apologetics
 title: "Messias-ennustukset"
 description: "Vanhassa testamentissa on useita kohtia, jotka ovat kristittyjen ja messiaanisten juutalaisten näkemyksen mukaan profetioita Jeesuksesta."
 tags: [apowiki, jeesus]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Messias-ennustukset".
@@ -29,11 +29,11 @@ Vanhan testamentin profetia:
 > Miksi kansat kapinoivat, kansakunnat juonia punovat? Miksi kuninkaat nousevat kapinaan, hallitsijat liittoutuvat keskenään Herraa ja hänen voideltuaan vastaan? "Me heitämme pois ikeemme, katkomme orjuuden kahleet!" Hän, joka hallitsee taivaassa, nauraa, Herra pilkkaa heitä. Hän puhuu heille vihassaan ja kauhistuttaa heidät kiivaudellaan: "Minä itse olen asettanut kuninkaani Siioniin, pyhälle vuorelleni!" Nyt kerron, mitä Herra on säätänyt. Hän sanoi minulle: "Sinä olet minun poikani, tänä päivänä minä sinut synnytin. Pyydä minulta, niin saat kansat perinnöksesi, ja maan ääriin ulottuu sinun valtasi. Sinä alistat kansat rautaisella valtikalla, murrat ne kuin saviastiat." Tulkaa siis järkiinne, kuninkaat!
 > Ottakaa opiksenne, maan mahtavat! Pelätkää Herraa, palvelkaa häntä, vaviskaa, kohottakaa hänelle riemuhuuto. Tervehtikää poikaa, hänen voideltuaan, suudelkaa häntä, muuten Herra vihastuu teihin ja te suistutte tieltänne tuhoon, sillä hetkessä syttyy hänen vihansa. Hyvä on sen osa, joka turvaa häneen!
 >
-> — (Ps. 2:1-12)
+> — ([Ps. 2:1-12](../books/psa.md))
 
 > Kuka on noussut taivaaseen ja palannut sieltä? Kuka on koonnut käsiinsä tuulen? Kuka viittansa sisään kietonut vedet? Kuka pannut paikoilleen maan ääret? Mikä on hänen nimensä, mikä hänen poikansa nimi? Sinä tiedät kyllä.
 >
-> — (Snl. 30:4)
+> — ([Snl. 30:4](../books/pro.md))
 
 Selitys:
 
@@ -55,7 +55,7 @@ Toteutuminen Uudessa testamentissa:
 
 > Kun Jeesus oli kastettu, hän nousi heti vedestä. Samassa taivaat aukenivat, ja Jeesus näki Jumalan Hengen laskeutuvan kyyhkysen tavoin ja asettuvan hänen päälleen. 17 Ja taivaista kuului ääni: "Tämä on minun rakas Poikani, johon minä olen mieltynyt."
 >
-> — (Matt. 3:16-17)
+> — ([Matt. 3:16-17](../books/mat.md))
 
 #### Messias oli olemassa ennen maailman luomista
 
@@ -63,7 +63,7 @@ Vanhan testamentin profetia:
 
 > Sinä Betlehem, sinä Efrata, sinä olet pienin Juudan sukukuntien joukossa! Mutta sinun keskuudestasi nousee Israelille hallitsija. Hänen juurensa ovat muinaisuudessa, ikiaikojen takana.
 >
-> — (Miika 5:1)
+> — ([Miika 5:1](../books/mic.md))
 
 Selitys:
 
@@ -86,7 +86,7 @@ Toteutuminen Uudessa testamentissa:
 > Hän on näkymättömän Jumalan kuva, esikoinen, ennen koko luomakuntaa syntynyt. Hänen välityksellään luotiin kaikki, kaikki mitä on taivaissa ja maan päällä, näkyvä ja näkymätön, valtaistuimet, herruudet, kaikki vallat ja voimat.
 > Kaikki on luotu hänen kauttaan ja häntä varten. Hän on ollut olemassa ennen kaikkea muuta, ja hän pitää kaiken koossa.
 >
-> — (Kol. 1:15-17)
+> — ([Kol. 1:15-17](../books/col.md))
 
 #### Messiasta kutsutaan Jumalaksi
 
@@ -94,11 +94,11 @@ Vanhan testamentin profetia:
 
 > Tulee aika, sanoo Herra, jolloin Daavidin suvusta nousee Vanhurskas Verso. Hän on kuningas, joka hallitsee viisaasti ja saattaa maassa voimaan oikeuden ja vanhurskauden. Hänen aikanaan Juuda saa avun, ja Israel elää turvassa. Häntä kutsutaan tällä nimellä: "Herra on meidän vanhurskautemme".
 >
-> — (Jer. 23:5-6)
+> — ([Jer. 23:5-6](../books/jer.md))
 
 > Sillä lapsi on syntynyt meille, poika on annettu meille. Hän kantaa valtaa harteillaan, hänen nimensä on Ihmeellinen Neuvontuoja, Väkevä Jumala, Iankaikkinen Isä, Rauhan Ruhtinas.
 >
-> — (Jes. 9:5)
+> — ([Jes. 9:5](../books/isa.md))
 
 Selitys:
 
@@ -114,19 +114,19 @@ Toteutuminen Uudessa testamentissa:
 
 > Alussa oli Sana. Sana oli Jumalan luona, ja Sana oli Jumala.
 >
-> — (Joh. 1:1)
+> — ([Joh. 1:1](../books/jhn.md))
 
 > Jeesus vastasi: "Totisesti, totisesti: jo ennen kuin Abraham syntyi - minä olin."
 >
-> — (Joh. 8:58)
+> — ([Joh. 8:58](../books/jhn.md))
 
 > Silloin Tuomas sanoi: "Minun Herrani ja Jumalani!"
 >
-> — (Joh. 20:28)
+> — ([Joh. 20:28](../books/jhn.md))
 
 > Simon Pietari, Jeesuksen Kristuksen palvelija ja apostoli, tervehtii teitä, joille Jumalamme ja Vapahtajamme Jeesus Kristus vanhurskaudessaan on suonut saman kalliin uskon kuin meille.
 >
-> — (2. Piet. 1:1)
+> — ([2. Piet. 1:1](../books/2pe.md))
 
 ### Sukujuuret ja Syntymä
 
@@ -136,7 +136,7 @@ Vanhan testamentin profetia:
 
 > Ja minä panen vainon sinun ja vaimon välille ja sinun siemenesi ja hänen siemenensä välille; se on polkeva rikki sinun pääsi, ja sinä olet pistävä sitä kantapäähän.
 >
-> — (1. Moos. 3:15)
+> — ([1. Moos. 3:15](../books/gen.md))
 
 Selitys:
 
@@ -144,25 +144,25 @@ Yllä lainattu kohta ennustaa "vaimon" (Eevan) jälkeläisestä, joka on polkeva
 
 > Ja he `[vaimon jälkeläiset]` tekevät rauhan lopulta Messias-Kuninkaan päivinä.
 >
-> — (1. Moos. 3:15), Targum Jonathan
+> — ([1. Moos. 3:15](../books/gen.md)), Targum Jonathan
 
-> He tekevät rauhan lopussa, päivien lopussa, Messias-kunkinkaan päivinä. (1. Moos. 3:15), Jerusalem Targum
+> He tekevät rauhan lopussa, päivien lopussa, Messias-kunkinkaan päivinä. ([1. Moos. 3:15](../books/gen.md)), Jerusalem Targum
 
-Ensisilmäyksellä profetia siitä, että Messias on "vaimon siemen" vaikuttaa merkityksettömältä – jokainen syntyy naisesta ja jokainen on syntynyt ihmisestä. Kohta viittaakin mahdollisesti siihen tosiasiaan, että sillä Yhdellä, joka polkee rikki käärmeen pään ei ole ihmisisää. Jeesus syntyikin neitsyestä, Mariasta, eikä hänellä ollut ihmisisää. Hän voittaa muinaisen käärmeen ( (1. Joh. 3:8),  (Ilm. 12),  (Ilm. 19:19-21)) ja luo rauhan juutalaisten ja pakanoiden välille.
+Ensisilmäyksellä profetia siitä, että Messias on "vaimon siemen" vaikuttaa merkityksettömältä – jokainen syntyy naisesta ja jokainen on syntynyt ihmisestä. Kohta viittaakin mahdollisesti siihen tosiasiaan, että sillä Yhdellä, joka polkee rikki käärmeen pään ei ole ihmisisää. Jeesus syntyikin neitsyestä, Mariasta, eikä hänellä ollut ihmisisää. Hän voittaa muinaisen käärmeen ( ([1. Joh. 3:8](../books/1jn.md)),  ([Ilm. 12](../books/rev.md)),  ([Ilm. 19:19-21](../books/rev.md))) ja luo rauhan juutalaisten ja pakanoiden välille.
 
 Toteutuminen Uudessa testamentissa:
 
 > Mutta kun aika oli täyttynyt, Jumala lähetti tänne Poikansa. Naisesta hän syntyi ja tuli lain alaiseksi
 >
-> — (Gal. 4:4)
+> — ([Gal. 4:4](../books/gal.md))
 
 > Kristus on meidän rauhamme. Hän on tehnyt nämä kaksi ihmisryhmää yhdeksi ja kuolemallaan hajottanut niitä erottaneen vihollisuuden muurin. Hän on kumonnut lain käskyineen ja säädöksineen, jotta hän omassa itsessään loisi nuo kaksi yhdeksi uudeksi ihmiseksi, ja näin hän on tehnyt rauhan. Ristillä kuollessaan hän omassa ruumiissaan sai aikaan sovinnon Jumalan ja näiden molempien välille ja teki näin lopun vihollisuudesta.
 >
-> — (Ef. 2:14-16)
+> — ([Ef. 2:14-16](../books/eph.md))
 
 > Taivaalla näkyi suuri tunnusmerkki: nainen, jolla oli pukunaan aurinko, kuu jalkojen alla ja pään päällä seppeleenä kaksitoista tähteä. Hän oli raskaana ja huusi tuskissaan synnytyspolttojen vaivaamana... Nainen synnytti lapsensa, pojan, joka on paimentava maailman kansoja rautaisella sauvalla... Tuo suuri lohikäärme, tuo muinaisaikojen käärme, jota kutsutaan Paholaiseksi ja Saatanaksi, tuo koko ihmiskunnan eksyttäjä... se lähti ajamaan takaa naista, joka oli pojan synnyttänyt... Lohikäärmeen raivo yltyi, ja se lähti sotimaan naisen muita lapsia vastaan, niitä, jotka ovat uskollisia Jumalan käskyille ja Jeesuksen todistukselle.
 >
-> — (Ilm. 12:1-17)
+> — ([Ilm. 12:1-17](../books/rev.md))
 
 #### Messias on Abrahamin jälkeläinen
 
@@ -170,7 +170,7 @@ Vanhan testamentin profetia:
 
 > Herran enkeli huusi Abrahamille uudelleen taivaasta: “Näin sanoo Herra:... siunaan sinua runsain määrin ja annan sinulle jälkeläisiä niin paljon, että he ovat kuin taivaan tähdet tai hiekanjyvät meren rannalla, ja sinun jälkeläisesi valloittavat vihollistensa kaupungit. Sinun siemenessäsi tulevat siunatuiksi kaikki maan kansat, koska sinä olit minun äänelleni kuuliainen."
 >
-> — (1. Moos. 22:15-18)
+> — ([1. Moos. 22:15-18](../books/gen.md))
 
 Selitys:
 
@@ -180,11 +180,11 @@ Toteutuminen Uudessa testamentissa:
 
 > Jeesuksen Kristuksen, Daavidin pojan ja Abrahamin pojan, sukuluettelo:...
 >
-> — (Matt. 1:1)
+> — ([Matt. 1:1](../books/mat.md))
 
 > Mutta nyt lausuttiin lupaukset Aabrahamille ja hänen siemenelleen. Hän ei sano: "Ja siemenille", ikäänkuin monesta, vaan ikäänkuin yhdestä: "Ja sinun siemenellesi", joka on Kristus.
 >
-> — (Gal. 3:16)
+> — ([Gal. 3:16](../books/gal.md))
 
 #### Messias on Jaakobin jälkeläinen
 
@@ -192,7 +192,7 @@ Vanhan testamentin profetia:
 
 > Minä näen hänet, en kuitenkaan nyt, minä katselen häntä, en kuitenkaan läheltä. Tähti nousee Jaakobista, ja valtikka kohoaa Israelista... Ja Jaakobista tulee valtias, hän hävittää kaupungeista niihin pelastuneet.
 >
-> — (4. Moos. 24:17-19)
+> — ([4. Moos. 24:17-19](../books/num.md))
 
 Selitys:
 
@@ -200,17 +200,17 @@ Arameankieliset tätä kohtaa käsittelevät Targumit vahvistavat, että "tähti
 
 > Näen hänet, mutta en nyt, näen hänet, mutta hän ei ole lähellä. Kun kuningas nousee Jaakobista ja voidellaan Israelin Messiaaksi, Hän lyö Moabin ruhtinaat ja hallitsee kaikkia ihmislapsia.
 >
-> — Kohdasta  (4. Moos. 24:17), Targum Onkelos)
+> — Kohdasta  ([4. Moos. 24:17](../books/num.md)), Targum Onkelos)
 
 > ... mutta silloin kun mahtava Kuningas Jaakobin huoneesta nousee, ja voidellaan Messiaaksi, halliten Israelia voimakkaalla valtikallaan Hän lyö Moabin ruhtinaat...
 >
-> — Kohdasta  (4. Moos. 24:17), Targum Jonathan)
+> — Kohdasta  ([4. Moos. 24:17](../books/num.md)), Targum Jonathan)
 
 Toteutuminen Uudessa testamentissa:
 
 > – – Hän oli – näin luultiin – Joosefin poika. Joosefin isä oli Eeli, tämän isä Mattat – – tämän Jaakob, tämän Iisak, tämän Abraham – –
 >
-> — (Luuk. 3:23-24,34)
+> — ([Luuk. 3:23-24,34](../books/luk.md))
 
 #### Messias kuuluu Juudan heimoon
 
@@ -218,7 +218,7 @@ Vanhan testamentin profetia:
 
 > Ei siirry valtikka pois Juudalta, ei käskijän sauva hänen suvultaan. Hänen heimostaan on tuleva se, jolla on valta, häntä kansat tottelevat.
 >
-> — (1. Moos. 49:10)
+> — ([1. Moos. 49:10](../books/gen.md))
 
 Selitys:
 
@@ -230,9 +230,9 @@ Tämä jae kertoo arvoituksellisesta "siitä, jolla on valta". Hän nousee Juuda
 
 > Valtikka ei eroa Juudasta ̣– – kunnes "hän, jolla on valta", eli Messias-kuningas, saapuu. – – "Juudan valtikka" tarkoittaa Mahtavaa Synagogaa, Sanhedriniä, jota isketään ja joka tuhoutuu – – kunnes "hän, jolla on valta" tulee.[^10]
 
-> Mikä on Messias-kuninkaan nimi? – – Herra The LORD (YHWH - יהוה) on hänen nimensä, koska  (Jer. 23:6) sanoo: "Häntä kutsutaan tällä nimellä: "Herra on meidän vanhurskautemme" (יהוה צדקנו)... "Hän, jolla on valta" on hänen nimensä, sillä niin sanotaan kohdassa  (1. Moos. 49:10)[^11]
+> Mikä on Messias-kuninkaan nimi? – – Herra The LORD (YHWH - יהוה) on hänen nimensä, koska  ([Jer. 23:6](../books/jer.md)) sanoo: "Häntä kutsutaan tällä nimellä: "Herra on meidän vanhurskautemme" (יהוה צדקנו)... "Hän, jolla on valta" on hänen nimensä, sillä niin sanotaan kohdassa  ([1. Moos. 49:10](../books/gen.md))[^11]
 
-Jeesus täytti tämän profetian, koska oli Juudan sukua. Lisäksi profetia ja sen Midras kertovat messiaan tulon ajankohdasta. Ne paljastavat, että Juudan heimo säilyttää identiteettinsä ja sukuluettelonsa Messiaan tuloon asti, jonka jälkeen valtikka (valta) eroaisi heimosta. Juutalaiset säilyttivätkin sukuluettelonsa Jeesuksen aikoihin asti, mutta ne hävitettiin pian sen jälkeen n. 70 jKr., kun temppeli tuhottiin. Rabbi Rahmon selittää tämän onnettomuuden kohdassa  (1. Moos. 49) kerrottuna Juudan valtikan häviämisenä ja esittää huolen siitä, että Messiaan olisi pitänyt ilmaantua ennen tätä:
+Jeesus täytti tämän profetian, koska oli Juudan sukua. Lisäksi profetia ja sen Midras kertovat messiaan tulon ajankohdasta. Ne paljastavat, että Juudan heimo säilyttää identiteettinsä ja sukuluettelonsa Messiaan tuloon asti, jonka jälkeen valtikka (valta) eroaisi heimosta. Juutalaiset säilyttivätkin sukuluettelonsa Jeesuksen aikoihin asti, mutta ne hävitettiin pian sen jälkeen n. 70 jKr., kun temppeli tuhottiin. Rabbi Rahmon selittää tämän onnettomuuden kohdassa  ([1. Moos. 49](../books/gen.md)) kerrottuna Juudan valtikan häviämisenä ja esittää huolen siitä, että Messiaan olisi pitänyt ilmaantua ennen tätä:
 
 > Kun Sanhedrin jäsenet huomasivat, että elämän ja kuoleman oikeudet oli riistetty heitä, heidät valloitti tyrmistys. He heittivät tuhkaa hiuksiinsa ja pukeutuivat säkkikankaaseen, huutaen "Voi meitä!" Juudan valtikka on otettu pois, eikä Messias ole vielä tullut.[^12]
 
@@ -240,15 +240,15 @@ Toteutuminen Uudessa testamentissa:
 
 > – – Hän oli – näin luultiin – Joosefin poika. Joosefin isä oli Eeli, tämän isä Mattat – – tämän Juuda – –
 >
-> — (Luuk. 3:23-33)
+> — ([Luuk. 3:23-33](../books/luk.md))
 
 > Kaikkihan tietävät, että meidän Herramme on noussut Juudan heimosta...
 >
-> — (Hepr. 7:14)
+> — ([Hepr. 7:14](../books/heb.md))
 
 > – – Älä itke. Juudan heimon leijona, Daavidin juuriverso, on saanut voiton! Hän avaa kirjan ja murtaa kaikki seitsemän sinettiä.
 >
-> — (Ilm. 5:5)
+> — ([Ilm. 5:5](../books/rev.md))
 
 #### Messias on Daavidin jälkeläinen
 
@@ -256,7 +256,7 @@ Vanhan testamentin profetia:
 
 > Tulee aika, sanoo Herra, jolloin Daavidin suvusta nousee Vanhurskas Verso. Hän on kuningas, joka hallitsee viisaasti ja saattaa maassa voimaan oikeuden ja vanhurskauden. Hänen aikanaan Juuda saa avun, ja Israel elää turvassa. Häntä kutsutaan tällä nimellä: "Herra on meidän vanhurskautemme".
 >
-> — (Jer. 23:5-6)
+> — ([Jer. 23:5-6](../books/jer.md))
 
 Selitys:
 
@@ -266,11 +266,11 @@ Toteutuminen Uudessa testamentissa:
 
 > Jeesuksen Kristuksen, Daavidin pojan ja Abrahamin pojan, sukuluettelo:
 >
-> — (Matt. 1:1)
+> — ([Matt. 1:1](../books/mat.md))
 
 > Mutta enkeli jatkoi: "Älä pelkää, Maria, Jumala on suonut sinulle armonsa. Sinä tulet raskaaksi ja synnytät pojan, ja sinä annat hänelle nimeksi Jeesus. Hän on oleva suuri, häntä kutsutaan Korkeimman Pojaksi, ja Herra Jumala antaa hänelle hänen isänsä Daavidin valtaistuimen. Hän hallitsee Jaakobin sukua ikuisesti, hänen kuninkuudellaan ei ole loppua."
 >
-> — (Luuk 1:30-33)
+> — ([Luuk 1:30-33](../books/luk.md))
 
 #### Messias syntyy neitsyestä
 
@@ -278,7 +278,7 @@ Vanhan testamentin profetia:
 
 > Sen tähden Herra antaa itse teille merkin: neitsyt tulee raskaaksi ja synnyttää pojan ja antaa hänelle nimen Immanuel.
 >
-> — (Jes 7:14)
+> — ([Jes 7:14](../books/isa.md))
 
 Selitys:
 
@@ -290,7 +290,7 @@ Toteutuminen Uudessa testamentissa:
 
 > Mutta enkeli jatkoi: "Älä pelkää, Maria, Jumala on suonut sinulle armonsa. Sinä tulet raskaaksi ja synnytät pojan, ja sinä annat hänelle nimeksi Jeesus. – – Maria kysyi enkeliltä: "Miten se on mahdollista? Minähän olen koskematon." Enkeli vastasi: "Pyhä Henki tulee sinun yllesi, Korkeimman voima peittää sinut varjollaan. Siksi myös lapsi, joka syntyy, on pyhä, ja häntä kutsutaan Jumalan Pojaksi.
 >
-> — (Luuk. 1:30-35)
+> — ([Luuk. 1:30-35](../books/luk.md))
 
 #### Messias syntyy Betlehemissä
 
@@ -298,11 +298,11 @@ Vanhan testamentin profetia:
 
 > Sinä Betlehem, sinä Efrata, sinä olet pienin Juudan sukukuntien joukossa! Mutta sinun keskuudestasi nousee Israelille hallitsija. Hänen juurensa ovat muinaisuudessa, ikiaikojen takana.
 >
-> — (Miik. 5:1)
+> — ([Miik. 5:1](../books/mic.md))
 
 Selitys:
 
-Miikan profetia paljastaa, että hallitsija ikiaikojen takaa syntyy Betlehemissä ja tulee hallitsemaan Israelia. Jonathanin Targum tunnistaa tämän hallitsijan Messiaaksi, selittäen kohdan  (Miik. 5:1): "Sinun keskuudestasi tulee Messias". Artikkelissa aiemmin on myös mainittu, kuinka Rabbi David Qimhin mukaan tässä kohdassa puhutaan Messias-kuninkaasta ja kuinka hän kutsuu hallitsijaa Jumalaksi.
+Miikan profetia paljastaa, että hallitsija ikiaikojen takaa syntyy Betlehemissä ja tulee hallitsemaan Israelia. Jonathanin Targum tunnistaa tämän hallitsijan Messiaaksi, selittäen kohdan  ([Miik. 5:1](../books/mic.md)): "Sinun keskuudestasi tulee Messias". Artikkelissa aiemmin on myös mainittu, kuinka Rabbi David Qimhin mukaan tässä kohdassa puhutaan Messias-kuninkaasta ja kuinka hän kutsuu hallitsijaa Jumalaksi.
 
 Miikan profetian mukaisesti Jeesus syntyi Betlehemissä, Daavidin kaupungissa:
 
@@ -310,17 +310,17 @@ Toteutuminen Uudessa testamentissa:
 
 > Niin myös Joosef lähti Galileasta, Nasaretin kaupungista ja meni verollepanoa varten Juudeaan, Daavidin kaupunkiin Betlehemiin, sillä hän kuului Daavidin sukuun. Hän lähti sinne yhdessä kihlattunsa Marian kanssa, joka odotti lasta. Heidän siellä ollessaan tuli Marian synnyttämisen aika.
 >
-> — (Luuk. 2:4-6)
+> — ([Luuk. 2:4-6](../books/luk.md))
 
 #### Messias tulee neljännen maailmanvallan aikana
 
 Vanhan testamentin profetia:
 
-Nebukadnessarin unen patsas ( (Dan. 2)) ja neljä petoa Danielin unessa ( (Dan. 7)) esittävät neljää valtakuntaa: Babylonia, Meedo-Persiaa, Kreikkaa ja roomaa. Neljännen valtakunnan eli Rooman aikakaudesta sanotaan:
+Nebukadnessarin unen patsas ( ([Dan. 2](../books/dan.md))) ja neljä petoa Danielin unessa ( ([Dan. 7](../books/dan.md))) esittävät neljää valtakuntaa: Babylonia, Meedo-Persiaa, Kreikkaa ja roomaa. Neljännen valtakunnan eli Rooman aikakaudesta sanotaan:
 
 > "Noiden kuninkaiden aikana on taivaan Jumala pystyttävä valtakunnan, joka ei ikinä tuhoudu, eikä sitä valtakuntaa anneta toiselle kansalle. Se murskaa lopullisesti kaikki nuo valtakunnat, ja se pysyy ikuisesti."
 >
-> — (Dan. 2:44)
+> — ([Dan. 2:44](../books/dan.md))
 
 Selitys:
 
@@ -336,7 +336,7 @@ Toteutuminen Uudessa testamentissa:
 
 > Siihen aikaan antoi keisari Augustus käskyn, että koko valtakunnassa oli toimitettava verollepano. – – Niin myös Joosef lähti Galileasta. – – Hän lähti sinne yhdessä kihlattunsa Marian kanssa – – ja hän synnytti pojan, esikoisensa.
 >
-> — (Luuk. 2:1-7)
+> — ([Luuk. 2:1-7](../books/luk.md))
 
 Jeesus syntyi Rooman valtakunnan aikoihin, kuten profeetta Daniel ennusti.
 
@@ -346,12 +346,12 @@ Vanhan testamentin profetia:
 
 > – – Siitä ajasta, jolloin se sana lähti liikkeelle, Jerusalemin entiselleen palauttamista ja rakentamista koskevan sanan lausumisesta, on voidellun hallitsijan tuloon seitsemän vuosiviikkoa – – Ja kuudenkymmenenkahden vuosiviikon kuluttua raivataan voideltu tieltä, eikä kansalla ole enää toista. Uusi hallitsija lähettää väkensä ja saastuttaa kaupungin ja pyhäkön – –
 >
-> — (Dan. 9:25-26)
+> — ([Dan. 9:25-26](../books/dan.md))
 
 Selitys:
 
 * Profetia: 69 vuosiviikkoa (69 * 7 vuotta) Jerusalemin jälleenrakentamisen käskystä Messias raivataan pois, jonka jälkeen kaupunki ja pyhäkkö tuhotaan.
-* Jerusalemin jälleenrakennuskäsky mainitaan kohdassa  (Dan. 9:25) ja sen määräsi Persian kuningas Artakserkses hallituskautensas 20. vuonna Nisan kuussa.[^15]
+* Jerusalemin jälleenrakennuskäsky mainitaan kohdassa  ([Dan. 9:25](../books/dan.md)) ja sen määräsi Persian kuningas Artakserkses hallituskautensas 20. vuonna Nisan kuussa.[^15]
 * Artakserkses aloitti hallituskautensa 465 eKr, joten hänen hallituskautensa 20. vuosi oli 445 eKr. Nisan kuun ensimmäinen päivä vastaa maaliskuun 14. päivää.
 * Danielin profetia ennustaa, että on 7 + 62 = 69 vuosiviikkoa Jerusalemin jälleenrakennuskäskystä Messiaan tuloon (1 vuosiviikko = 7 vuotta)
 * 69 vuosiviikkoa * 7 vuotta = 483 Babylonian vuotta (yksi babylonian vuosi = 360 päivää)
@@ -372,7 +372,7 @@ Lisäksi todennäköisesti tämän profetian vastaansanomattomasta Jeesuksen aik
 
 Toteutuminen:
 
-Kuningas Artakserkses antoi käskyn Jerusalemin jälleenrakentamisesta vuonna 445 eKr. ( (Neh. 2:1-8)). 69 * 7 vuotta myöhemmin tuo meidät vuoteen 32 jKr. Tänä vuonna Jeesus ristiinnaulittiin (raivattiin pois). Samaan aikaan Temppelin uhrit menettivät tehonsa ja hyvin pian tämän jälkeen (70 jKr.) roomalaiset tuhosivat kaupungin ja temppelin.
+Kuningas Artakserkses antoi käskyn Jerusalemin jälleenrakentamisesta vuonna 445 eKr. ( ([Neh. 2:1-8](../books/neh.md))). 69 * 7 vuotta myöhemmin tuo meidät vuoteen 32 jKr. Tänä vuonna Jeesus ristiinnaulittiin (raivattiin pois). Samaan aikaan Temppelin uhrit menettivät tehonsa ja hyvin pian tämän jälkeen (70 jKr.) roomalaiset tuhosivat kaupungin ja temppelin.
 
 ### Julkinen toiminta
 
@@ -382,7 +382,7 @@ Vanhan testamentin profetia:
 
 > – – Aikoinaan Herra vei kunnian Sebulonin ja Naftalin mailta. Mutta kerran hän taas palauttaa kunniaan Meren tien, Jordanin takaisen maan ja muukalaisten Galilean. Kansa, joka pimeydessä vaeltaa, näkee suuren valon. Niille, jotka asuvat kuoleman varjon maassa, loistaa kirkkaus.
 >
-> — (Jes. 9:1-2)
+> — ([Jes. 9:1-2](../books/isa.md))
 
 Selitys:
 
@@ -392,7 +392,7 @@ Toteutuminen Uudessa testamentissa:
 
 > Kun Jeesus sai kuulla, että Johannes oli vangittu, hän siirtyi Galileaan. Nasaretiin hän ei enää jäänyt, vaan hän asettui Kapernaumiin, joka on järven rannalla Sebulonin ja Naftalin heimojen alueella. Näin tapahtui, jotta toteutuisi profeetta Jesajan sana: Sebulonin maa ja Naftalin maa, Meren tie, Jordanin takainen maa ja muukalaisten Galilea --
 >
-> — (Matt. 4:12-16)
+> — ([Matt. 4:12-16](../books/mat.md))
 
 #### Messias on Mooseksen kaltainen profeetta
 
@@ -400,7 +400,7 @@ Vanhan testamentin profetia:
 
 > Herra, teidän Jumalanne, antaa veljienne joukosta nousta profeetan, joka on minun kaltaiseni. Häntä teidän tulee kuunnella. Herra sanoi silloin minulle: 'Se, mitä he sanoivat, on oikein. Siksi minä annan heidän omien jälkeläistensä joukosta nousta profeetan, joka on sinun kaltaisesi; minä panen sanani hänen suuhunsa, ja profeetta puhuu kaiken, minkä minä hänen puhuttavakseen annan. Jos joku ei kuuntele niitä sanoja, jotka hän minun nimissäni puhuu, minä itse vaadin tilille sen miehen.'
 >
-> — (5. Moos. 18:15,17-19)
+> — ([5. Moos. 18:15,17-19](../books/deu.md))
 
 Selitys:
 
@@ -410,7 +410,7 @@ Selitys:
 
 Saarnaajan kirjan Miras-selityksessä puhutaan "viimeisestä pelastajasta", joka ensimmäisen pelastajan, Mooseksen, tavoin tarjoaisi leipää taivaasta ja elävää vettä kansalleen:
 
-> Aivan kuten on ensimmäinen pelastaja, on myös viimeinen. Aivan kuten ensimmäisestä pelastajasta sanotaan ( (2. Moos. 4:20)), että "hän otti vaimonsa ja lapsensa ja pani heidät aasin selkään". Samoin viimeisestä pelastajasta sanotaan: "Hän on nöyrä ja ratsastaa aasilla" ( (Sak. 9:9)). Kuten ensimmäinen pelastaja tarjosi mannaa ( (2. Moos. 16)), kuten on kirjoitettu "Minä annan leivän laskeutua taivaasta teidän keskellenne", niin on myös viimeisen pelastajan aikana, jolloin "maa kasvaa viljaa yltäkylläisesti" ( (Ps. 72:16)). Aivan kuten ensimmäinen pelastaja avasi lähteen, viimeinen pelastaja tarjoaa myös vettä, kuten on kirjoitettu kohdassa ( (Joel 4:18)): "Herran huoneesta kumpuaa lähde.[^19]
+> Aivan kuten on ensimmäinen pelastaja, on myös viimeinen. Aivan kuten ensimmäisestä pelastajasta sanotaan ( ([2. Moos. 4:20](../books/exo.md))), että "hän otti vaimonsa ja lapsensa ja pani heidät aasin selkään". Samoin viimeisestä pelastajasta sanotaan: "Hän on nöyrä ja ratsastaa aasilla" ( ([Sak. 9:9](../books/zec.md))). Kuten ensimmäinen pelastaja tarjosi mannaa ( ([2. Moos. 16](../books/exo.md))), kuten on kirjoitettu "Minä annan leivän laskeutua taivaasta teidän keskellenne", niin on myös viimeisen pelastajan aikana, jolloin "maa kasvaa viljaa yltäkylläisesti" ( ([Ps. 72:16](../books/psa.md))). Aivan kuten ensimmäinen pelastaja avasi lähteen, viimeinen pelastaja tarjoaa myös vettä, kuten on kirjoitettu kohdassa ( ([Joel 4:18](../books/jol.md))): "Herran huoneesta kumpuaa lähde.[^19]
 
 Jeesuksen seuraajat tunnistivat hänet Mooseksen julistamaksi profeetaksi. Lisäksi Jeesus tarjosi leipää seuraajilleen ja lupasi, että hän tulee olemaan heille "ikuisen elämän veden lähde":
 
@@ -418,23 +418,23 @@ Toteutuminen Uudessa testamentissa:
 
 > Filippus tapasi Natanaelin ja sanoi hänelle: "Me olemme löytäneet sen, josta Mooseksen laki ja profeettojen kirjat todistavat! Hän on Jeesus, Joosefin poika Nasaretista."
 >
-> — (Joh. 1:45)
+> — ([Joh. 1:45](../books/jhn.md))
 
 > Jos te uskoisitte Moosesta, uskoisitte myös minua – juuri minusta hän on kirjoittanut.
 >
-> — (Joh. 5:46)
+> — ([Joh. 5:46](../books/jhn.md))
 
 > Kun ihmiset näkivät, minkä tunnusteon Jeesus teki, he sanoivat: "Tämä on todella se profeetta, jonka oli määrä tulla maailmaan."
 >
-> — (Joh. 6:14)
+> — ([Joh. 6:14](../books/jhn.md))
 
 > Tähän Jeesus vastasi: "Totisesti, totisesti: ei Mooses teille antanut taivaasta leipää, vaan todellista taivaan leipää teille antaa minun Isäni. Jumalan leipä on se, joka tulee taivaasta ja antaa maailmalle elämän." Jeesus sanoi: "Minä olen elämän leipä. Joka tulee minun luokseni, ei koskaan ole nälissään, ja joka uskoo minuun, ei enää koskaan ole janoissaan.
 >
-> — (Joh. 6:32-33,35)
+> — ([Joh. 6:32-33,35](../books/jhn.md))
 
 > Jeesus vastasi hänelle: "Joka juo tätä vettä, sen tulee uudelleen jano, mutta joka juo minun antamaani vettä, ei enää koskaan ole janoissaan. Siitä vedestä, jota minä annan, tulee hänessä lähde, joka kumpuaa ikuisen elämän vettä."
 >
-> — (Joh. 4:13-14)
+> — ([Joh. 4:13-14](../books/jhn.md))
 
 #### Messias tekee ihmeitä
 
@@ -442,7 +442,7 @@ Vanhan testamentin profetia:
 
 > Silloin aukenevat sokeiden silmät ja kuurojen korvat avautuvat, rampa hyppii silloin kuin kauris, mykän kieli laulaa riemuaan. Lähteitä puhkeaa autiomaahan, vuolaina virtaavat purot arolla.
 >
-> — (Jes. 35:5-6)
+> — ([Jes. 35:5-6](../books/isa.md))
 
 Selitys:
 
@@ -452,11 +452,11 @@ Toteutuminen Uudessa testamentissa:
 
 > Jeesus oli silloin juuri parantanut monien taudit ja vaivat, karkottanut pahoja henkiä ja antanut monelle sokealle näön.
 >
-> — (Luuk. 7:21)
+> — ([Luuk. 7:21](../books/luk.md))
 
 > Kun Johannes vankilassa kuuli Kristuksen teoista, hän lähetti opetuslapsensa kysymään: "Oletko sinä se, jonka on määrä tulla, vai pitääkö meidän odottaa toista?" Jeesus vastasi heille: "Kertokaa Johannekselle, mitä kuulette ja näette: Sokeat saavat näkönsä ja rammat kävelevät, spitaaliset puhdistuvat ja kuurot kuulevat, kuolleet herätetään henkiin ja köyhille julistetaan ilosanoma."
 >
-> — (Matt. 11:2-5)
+> — ([Matt. 11:2-5](../books/mat.md))
 
 #### Messias on jumalan kansan paimen
 
@@ -464,11 +464,11 @@ Vanhan testamentin profetia:
 
 > "Minä panen yhden paimenen heitä kaitsemaan, palvelijani Daavidin. Hän kaitsee heitä, hän on oleva heidän paimenensa. Minä, Herra, olen heidän Jumalansa, ja palvelijani Daavid on heidän kaikkien ruhtinas. Minä, Herra, olen puhunut."
 >
-> — (Hes. 34:23-24)
+> — ([Hes. 34:23-24](../books/ezk.md))
 
 > "Minun palvelijani Daavid on oleva heidän kuninkaansa, heillä kaikilla on yksi ja sama paimen. He noudattavat minun käskyjäni, he seuraavat minun säädöksiäni ja elävät niiden mukaan. He saavat asua maassa, jonka minä annoin palvelijalleni Jaakobille ja jossa teidän isänne ovat asuneet. He asuvat siinä ikiaikoihin saakka, he ja heidän lapsensa ja heidän lastensa lapset, ja minun palvelijani Daavid on heidän hallitsijansa ajasta aikaan."
 >
-> — (Hes. 37:24-25)
+> — ([Hes. 37:24-25](../books/ezk.md))
 
 Selitys:
 
@@ -478,7 +478,7 @@ Toteutuminen Uudessa testamentissa:
 
 > "Minä olen hyvä paimen, oikea paimen, joka panee henkensä alttiiksi lampaiden puolesta. "Minä olen hyvä paimen. Minä tunnen lampaani ja ne tuntevat minut, niin kuin Isä tuntee minut ja minä Isän. Minä panen henkeni alttiiksi lampaiden puolesta. Minulla on myös muita lampaita, sellaisia, jotka eivät ole tästä tarhasta, ja niitäkin minun tulee paimentaa. Ne kuulevat minun ääneni, ja niin on oleva yksi lauma ja yksi paimen.
 >
-> — (Joh. 10:11,15-16)
+> — ([Joh. 10:11,15-16](../books/jhn.md))
 
 #### Messias on valo pakanoille
 
@@ -486,11 +486,11 @@ Vanhan testamentin profetia:
 
 > Sinä päivänä Iisain juurivesa kohoaa merkkiviirinä kansoille. Hänen luokseen pyrkivät kaikki kansat, hänen asuinsijaansa ympäröi kunnian hohde.
 >
-> — (Jes. 11:10)
+> — ([Jes. 11:10](../books/isa.md))
 
 > – – Ei riitä, että olet minun palvelijani ja saatat ennalleen Jaakobin heimot, tuot takaisin Israelin eloonjääneet. Minä teen sinusta valon kaikille kansoille, niin että pelastus ulottuu maan ääriin saakka.
 >
-> — (Jes. 49:6)
+> — ([Jes. 49:6](../books/isa.md))
 
 Selitys:
 
@@ -500,15 +500,15 @@ Toteutuminen Uudessa testamentissa:
 
 > Lähdettyään sieltä Jeesus meni Tyroksen ja Sidonin seudulle.
 >
-> — (Matt. 15:21)
+> — ([Matt. 15:21](../books/mat.md))
 
 > "Menkää siis ja tehkää kaikki kansat minun opetuslapsikseni..."
 >
-> — (Matt. 28:19)
+> — ([Matt. 28:19](../books/mat.md))
 
 > Tämän kuultuaan kaikki rauhoittuivat ja ylistivät Jumalaa sanoen: "Jumala on siis avannut pakanoillekin tien kääntymykseen ja elämään."
 >
-> — (Apt.11:18)
+> — ([Apt.11:18](../books/act.md))
 
 #### Messias saapuu Jerusalemiin aasilla ratsastaen
 
@@ -516,7 +516,7 @@ Vanhan testamentin profetia:
 
 > Iloitse, tytär Siion! Riemuitse, tytär Jerusalem! Katso, kuninkaasi tulee. Vanhurskas ja voittoisa hän on, hän on nöyrä, hän ratsastaa aasilla, aasi on hänen kuninkaallinen ratsunsa.
 >
-> — (Sak. 9:9)
+> — ([Sak. 9:9](../books/zec.md))
 
 Selitys:
 
@@ -526,7 +526,7 @@ Sekä Talmud että Midras vahvistavat, että Jerusalemiin aasilla ratsastava kun
 >
 > — Sanhedrin 97b[^21]
 
-> Aivan kuten oli Ensimmäinen Pelastaja, on myös Viimeinen Pelastaja. Kuten sanotaan Ensimmäisestä Pelastajasta ( (2. Moos. 4:20)), että "hän otti vaimonsa ja lapsensa ja asetti heidän aasin selkään". Samoin sanotaan Viimeisestä Pelastajasta, että "Hän on nöyrä ja ratsastaa aasilla" ( (Sak. 9:9)]
+> Aivan kuten oli Ensimmäinen Pelastaja, on myös Viimeinen Pelastaja. Kuten sanotaan Ensimmäisestä Pelastajasta ( ([2. Moos. 4:20](../books/exo.md))), että "hän otti vaimonsa ja lapsensa ja asetti heidän aasin selkään". Samoin sanotaan Viimeisestä Pelastajasta, että "Hän on nöyrä ja ratsastaa aasilla" ( ([Sak. 9:9](../books/zec.md))]
 >
 > — Midrash Qoheleth Rabbati 1[^22]
 
@@ -536,7 +536,7 @@ Toteutuminen Uudessa testamentissa:
 
 > – – "Menkää tuolla näkyvään kylään. Siellä on aasintamma kiinni sidottuna ja varsa sen vierellä; löydätte ne heti. Ottakaa ne siitä ja tuokaa minulle. Jos joku sanoo teille jotakin, vastatkaa, että Herra tarvitsee niitä mutta palauttaa ne pian."
 >
-> — (Matt. 21:2-3)
+> — ([Matt. 21:2-3](../books/mat.md))
 
 ### Hylkääminen
 
@@ -546,27 +546,27 @@ Vanhan testamentin profetia:
 
 > Siksi Herra Jumala sanoo näin: -- Katsokaa: minä lasken Siioniin peruskiven, huolella valitun kivipaaden, kallisarvoisen kulmakiven sitomaan vankkaa perustaa. Joka uskoo, ei horju.
 >
-> — (Jes. 28:16)
+> — ([Jes. 28:16](../books/isa.md))
 
 > Kivi, jonka rakentajat hylkäsivät, on nyt kulmakivi. Herra tämän teki, Herra teki ihmeen silmiemme edessä.
 >
-> — (Ps.118:22-23)
+> — ([Ps.118:22-23](../books/psa.md))
 
 > Hyljeksitty hän oli, ihmisten torjuma, kipujen mies, sairauden tuttava, josta kaikki käänsivät katseensa pois. Halveksittu hän oli, me emme häntä minään pitäneet.
 >
-> — (Jes. 53:3)
+> — ([Jes. 53:3](../books/isa.md))
 
 Selitys:
 
-Jesaja ja psalmin kirjoittaja puhuvat pääkulmakivestä, joka hylätään. Kohtia  (Jes. 28:16) ja  (Miik. 5:2) kommentoidessaan Rashi vahvistaa, että psalmin 118 hylätty kulmakivi on messias, joka on hylätty huolimatta siitä, että on pelastushistorian kulmakivi:
+Jesaja ja psalmin kirjoittaja puhuvat pääkulmakivestä, joka hylätään. Kohtia  ([Jes. 28:16](../books/isa.md)) ja  ([Miik. 5:2](../books/mic.md)) kommentoidessaan Rashi vahvistaa, että psalmin 118 hylätty kulmakivi on messias, joka on hylätty huolimatta siitä, että on pelastushistorian kulmakivi:
 
 > Katso, olen pannut perustuksen... ja näin se on tulkittava: Katso, olen hän, joka on jo asettanut [Siionin kiven.] Päätös on [jo] päätetty ennen Minua ja olen asettanut Messiaan kuninkaaksi, joka on Siionissa kuin אֶבֶן בּוֹחֵן, linnoituksen kivi, osoituksena voimasta ja vallasta.
 >
-> — Rashi on  (Jes. 28:16)
+> — Rashi on  ([Jes. 28:16](../books/isa.md))
 
-> Ja sinä, Betlehem, sinä Efrata... sinusta nousee Messias, Daavidin Poika ja Raamattu sanoo kohdassa  (Ps. 118:22): “Kivi, jonka rakentajat hylkäsivät, on nyt kulmakivi.”
+> Ja sinä, Betlehem, sinä Efrata... sinusta nousee Messias, Daavidin Poika ja Raamattu sanoo kohdassa  ([Ps. 118:22](../books/psa.md)): “Kivi, jonka rakentajat hylkäsivät, on nyt kulmakivi.”
 >
-> — Rashi on  (Miik. 5:2)
+> — Rashi on  ([Miik. 5:2](../books/mic.md))
 
 Jeesuksen oma kansa hylkäsi, Messiaansa, Pelastajansa ja Israelin kulmakiven:
 
@@ -574,11 +574,11 @@ Toteutuminen Uudessa testamentissa:
 
 > ja sanoi: "Ihmisen Pojan täytyy kärsiä paljon. Kansan vanhimmat, ylipapit ja lainopettajat hylkäävät hänet, ja hänet surmataan...
 >
-> — (Luuk. 9:22),  (Matt. 21:42-43)
+> — ([Luuk. 9:22](../books/luk.md)),  ([Matt. 21:42-43](../books/mat.md))
 
 > Tulkaa hänen luokseen, elävän kiven luo, jonka ihmiset ovat hylänneet mutta joka on Jumalan valitsema ja hänen silmissään kallisarvoinen. – – Sanotaanhan Raamatussa: – Katso, minä lasken Siioniin kulmakiven, valitun kiven, jonka arvo on suuri. Joka häneen uskoo, ei joudu häpeään.  Te, jotka uskotte, saatte siis osaksenne tämän arvon ja kunnian, mutta niille, jotka eivät usko, "kivestä, jonka rakentajat hylkäsivät, on tullut kulmakivi, kompastuskivi ja kallio johon langetaan". Koska he eivät tottele sanaa, he kompastuvat, ja se heidän osakseen on määrättykin.
 >
-> — (1. Piet. 2:4-8)
+> — ([1. Piet. 2:4-8](../books/1pe.md))
 
 #### Messias myydään 30 hopearahasta
 
@@ -586,21 +586,21 @@ Vanhan testamentin profetia:
 
 > Sitten sanoin heille: "Jos hyväksi näette, maksakaa minulle palkkani. Ellei se käy, olkaa maksamatta." Niin he antoivat minulle palkaksi vaivaiset kolmekymmentä hopearahaa. Herra sanoi minulle: "Vie ne temppeliin ja viskaa metallinsulattajalle. Näin korkean hinnan arvoisena he minua pitävät!" Minä viskasin ne kolmekymmentä hopearahaa metallinsulattajalle, Herran temppeliin.
 >
-> — (Sak. 11:12-13)
+> — ([Sak. 11:12-13](../books/zec.md))
 
 Selitys:
 
-Jeesuksen pettämisestä maksettu hinta oli sama kuin orjan hinta, 30 hopearahaa (kts.  (2. Moos. 21:32)) – Sama määrä, joka vietiin metallinsulattajalle Sakarjan profetiassa.
+Jeesuksen pettämisestä maksettu hinta oli sama kuin orjan hinta, 30 hopearahaa (kts.  ([2. Moos. 21:32](../books/exo.md))) – Sama määrä, joka vietiin metallinsulattajalle Sakarjan profetiassa.
 
 Toteutuminen Uudessa testamentissa:
 
 > Silloin yksi kahdestatoista opetuslapsesta, Juudas Iskariot, meni ylipappien luo ja sanoi: "Paljonko maksatte minulle, jos toimitan hänet teidän käsiinne?" He sopivat hänen kanssaan kolmestakymmenestä hopearahasta.
 >
-> — (Matt. 26:14-15)
+> — ([Matt. 26:14-15](../books/mat.md))
 
 > Kun Juudas, Jeesuksen kavaltaja, näki että Jeesus oli tuomittu kuolemaan, hän katui tekoaan. Hän vei saamansa kolmekymmentä hopearahaa takaisin ylipapeille ja vanhimmille. Silloin Juudas paiskasi rahat temppeliin, meni pois ja hirttäytyi. Ylipapit ottivat rahat ja sanoivat: "Nämä ovat verirahoja, näitä ei ole lupa panna temppelirahastoon." Neuvoteltuaan he päättivät ostaa niillä savenvalajan pellon muukalaisten hautapaikaksi. Vielä tänäkin päivänä sitä peltoa kutsutaan Veripelloksi. Näin kävi toteen tämä profeetta Jeremian sana: -- He ottivat ne kolmekymmentä hopearahaa, hinnan, jonka arvoiseksi he tämän miehen israelilaisten puolesta olivat arvioineet.
 >
-> — (Matt. 27:3,5-9)
+> — ([Matt. 27:3,5-9](../books/mat.md))
 
 #### Ystävä pettää Messiaan
 
@@ -608,7 +608,7 @@ Vanhan testamentin profetia:
 
 > Vieläpä ystäväni, johon luotin ja joka söi minun pöydässäni, kääntyy kopeasti minua vastaan.
 >
-> — (Ps. 41:9)
+> — ([Ps. 41:9](../books/psa.md))
 
 Selitys:
 
@@ -620,7 +620,7 @@ Toteutuminen Uudessa testamentissa:
 
 > Jeesuksen kavaltaja oli sopinut miesten kanssa merkistä: "Se on se mies, jota minä suutelen. Ottakaa hänet kiinni." Hän meni suoraa päätä Jeesuksen luo, sanoi: "Terve, rabbi!", ja suuteli häntä.
 >
-> — (Matt. 26:48-49)
+> — ([Matt. 26:48-49](../books/mat.md))
 
 #### Messias on lempeä ja nöyrä
 
@@ -628,11 +628,11 @@ Vanhan testamentin profetia:
 
 > Ei hän huuda eikä melua, ei kuulu hänen äänensä kaduilla. Murtunutta ruokoa hän ei muserra, lampun hiipuvaa liekkiä hän ei sammuta. Tinkimättä hän toteuttaa oikeuden.
 >
-> — (Jes. 42:2-3)
+> — ([Jes. 42:2-3](../books/isa.md))
 
 > Häntä piinattiin, ja hän alistui siihen, ei hän suutansa avannut. Kuin karitsa, jota teuraaksi viedään, niin kuin lammas, joka on ääneti keritsijäinsä edessä, ei hänkään suutansa avannut.
 >
-> — (Jes. 53:7)
+> — ([Jes. 53:7](../books/isa.md))
 
 Selitys:
 
@@ -642,11 +642,11 @@ Toteutuminen Uudessa testamentissa:
 
 > Silloin ylipappi nousi paikaltaan ja kysyi: "Etkö lainkaan vastaa heidän syytöksiinsä?" Mutta Jeesus pysyi vaiti...
 >
-> — (Matt. 26:62-63)
+> — ([Matt. 26:62-63](../books/mat.md))
 
 > Mutta Jeesus sanoi: "Isä, anna heille anteeksi. He eivät tiedä, mitä tekevät."
 >
-> — (Luuk. 23:34)
+> — ([Luuk. 23:34](../books/luk.md))
 
 #### Messiasta lyödään ja hänen päälleen syljetään
 
@@ -654,7 +654,7 @@ Vanhan testamentin profetia:
 
 > Minä tarjosin selkäni lyötäväksi ja poskieni parran revittäväksi, en kätkenyt kasvojani häväistyksiltä, en sylkäisyiltä.
 >
-> — (Jes. 50:6)
+> — ([Jes. 50:6](../books/isa.md))
 
 Selitys:
 
@@ -664,7 +664,7 @@ Toteutuminen Uudessa testamentissa:
 
 > He sylkivät nyt Jeesusta kasvoihin ja löivät häntä. Muutamat läimäyttivät häntä poskelle
 >
-> — (Matt. 26:67)
+> — ([Matt. 26:67](../books/mat.md))
 
 ### Kuolema
 
@@ -674,17 +674,17 @@ Vanhan testamentin profetia:
 
 > Käteni ja jalkani ovat runnellut.
 >
-> — (Ps. 22:16)
+> — ([Ps. 22:16](../books/psa.md))
 
 > Mutta Daavidin sukuun ja Jerusalemin asukkaisiin minä vuodatan armon ja rukouksen nöyrän hengen. Ja he kohottavat katseensa minuun, kohottavat katseensa häneen, jonka ovat lävistäneet. He surevat häntä, niin kuin surraan ainoaa poikaa, ja valittavat häntä katkerasti, niin kuin esikoista valitetaan.
 >
-> — (Sak. 12:10)
+> — ([Sak. 12:10](../books/zec.md))
 
 Selitys:
 
 Psalmi 22 kuvaa juutalaisen selittäjän M. D. Cassuton sanoin: "ihmistä, jota on kidutettu sekä ruumiillisesti että henkisesti". Hän kokee olevansa Jumalan ja kaikkien ihmisten hylkäämä. Jae 16 kuuluu heprean mukaan: "käteni ja jalkani ovat kuin leijona (כארי, ka'ari)", mikä ei ole kovin järkevää ja on todennäköisesti vaihtoehtoisen lukutavan vioittunut versio: "He lävistivät (כארו, ka'aru) käteni ja jalkani." Jälkimmäisen lukutavan oikeutusta perustelee myös Septuagintan käännös "He lävistivät". Näin ollen kristittyjen Raamattujen yleinen käännöstapa "He lävistivät käteni ja jalkani" ei ole kristittyjen tekstin vääristelyä, vaan juontuu juutalaisesta käännöksestä, ja näin perustuu "kuin leijona" -versiota paremmin alkuperäiseen tekstiin.
 
- (Sak. 12:10): "kohottavat katseensa häneen, jonka ovat lävistäneet" tulkitaan Talmudissa viittaavan "Messiaaseen, Joosefin poikaan":
+ ([Sak. 12:10](../books/zec.md)): "kohottavat katseensa häneen, jonka ovat lävistäneet" tulkitaan Talmudissa viittaavan "Messiaaseen, Joosefin poikaan":
 
 > Ja maa suree... Mistä sureminen johtuu? ... Yksi selitti sen johtuvan Messiaan, Joosefin pojan surmaamisesta... Selittäjän mukaan tämä johtuu Messiaan, Joosefin pojan surmaamisesta, koska se on yhtenevä Raamatun kohdan kanssa...
 >
@@ -694,11 +694,11 @@ Toteutuminen Uudessa testamentissa:
 
 > Kun tultiin paikkaan, jota kutsutaan Pääkalloksi, he ristiinnaulitsivat Jeesuksen...
 >
-> — (Luuk. 23:33)
+> — ([Luuk. 23:33](../books/luk.md))
 
 > Yksi sotilaista kuitenkin työnsi keihään hänen kylkeensä, ja haavasta vuoti heti verta ja vettä.
 >
-> — (Joh. 19:34)
+> — ([Joh. 19:34](../books/jhn.md))
 
 #### Messiaan vaatteista heitetään arpaa
 
@@ -706,7 +706,7 @@ Vanhan testamentin profetia:
 
 > jakavat vaatteeni keskenään ja heittävät puvustani arpaa.
 >
-> — (Ps. 22:18)
+> — ([Ps. 22:18](../books/psa.md))
 
 Selitys:
 
@@ -716,11 +716,11 @@ Toteutuminen Uudessa testamentissa:
 
 > Kun he olivat ristiinnaulinneet Jeesuksen, he jakoivat keskenään hänen vaatteensa heittämällä niistä arpaa.
 >
-> — (Matt. 27:35)
+> — ([Matt. 27:35](../books/mat.md))
 
 > Ristiinnaulittuaan Jeesuksen sotilaat ottivat hänen vaatteensa ja jakoivat ne neljään osaan, kullekin sotilaalle osansa. He ottivat myös paidan, mutta kun se oli saumaton, ylhäältä alas samaa kudosta, he sanoivat toisilleen: "Ei revitä sitä. Heitetään arpaa, kuka sen saa."
 >
-> — (Joh. 19:23-24)
+> — ([Joh. 19:23-24](../books/jhn.md))
 
 #### Messiaalle annetaan etikkaa ja sappea juotavaksi
 
@@ -728,17 +728,17 @@ Vanhan testamentin profetia:
 
 > Viholliseni ovat panneet ruokaani karvasta koiruohoa, janooni he juottivat etikkaa.
 >
-> — (Ps. 69:21)
+> — ([Ps. 69:21](../books/psa.md))
 
 Selitys:
 
-Kohta  (Ps. 69) kuvaa vanhurskaan, jota "vihataan ilman syytä" (jae 4), epäoikeudenmukaista kohtelua. Hänelle annetaan sappea ja etikkaa juotavaksi, kuten Jeesukselle ristillä:
+Kohta  ([Ps. 69](../books/psa.md)) kuvaa vanhurskaan, jota "vihataan ilman syytä" (jae 4), epäoikeudenmukaista kohtelua. Hänelle annetaan sappea ja etikkaa juotavaksi, kuten Jeesukselle ristillä:
 
 Toteutuminen Uudessa testamentissa:
 
 > he tarjosivat Jeesukselle juotavaksi viiniä, johon oli sekoitettu sappea. Hän maistoi sitä, mutta ei halunnut juoda.
 >
-> — (Matt. 27:34)
+> — ([Matt. 27:34](../books/mat.md))
 
 #### Messias uhrataan syntiemme tähden
 
@@ -746,23 +746,23 @@ Vanhan testamentin profetia:
 
 > Ja kuitenkin: hän kantoi meidän kipumme, otti taakakseen meidän sairautemme. Omista teoistaan me uskoimme hänen kärsivän rangaistusta, luulimme Jumalan häntä niistä lyövän ja kurittavan, vaikka meidän rikkomuksemme olivat hänet lävistäneet ja meidän pahat tekomme hänet ruhjoneet. Hän kärsi rangaistuksen, jotta meillä olisi rauha, hänen haavojensa hinnalla me olemme parantuneet. Me harhailimme eksyneinä kuin lampaat, jokainen meistä kääntyi omalle tielleen. Mutta Herra pani meidän kaikkien syntivelan hänen kannettavakseen. Häntä piinattiin, ja hän alistui siihen, ei hän suutansa avannut. Kuin karitsa, jota teuraaksi viedään, niin kuin lammas, joka on ääneti keritsijäinsä edessä, ei hänkään suutansa avannut... Hänet syöstiin pois elävien maasta, hänet lyötiin hengiltä kansansa rikkomusten tähden.
 >
-> — (Jes. 53:4-8)
+> — ([Jes. 53:4-8](../books/isa.md))
 
 Selitys:
 
-Nykyiset juutalaiset usein käsittävät Jesajan kirjan luvun 53 kärsivän palvelijan tarkoittavan Israelin kansaa, joka on kärsinyt muiden kansojen vainosta syntiensä takia. Tämä on ongelmallista, koska synnit anteeksiantavan uhrin on oltava täydellinen ja tahraton, ja tämä on kaukana Jesajan kuvaamasta Israelista, joka ankarasti tuomitsee Israelin sen synneistä (esim.  (Jes. 1)). Useat Juutalaiset lähteet päin vastoin liittävät tämän kärsivän palvelijan kuvan Messiaaseen.
+Nykyiset juutalaiset usein käsittävät Jesajan kirjan luvun 53 kärsivän palvelijan tarkoittavan Israelin kansaa, joka on kärsinyt muiden kansojen vainosta syntiensä takia. Tämä on ongelmallista, koska synnit anteeksiantavan uhrin on oltava täydellinen ja tahraton, ja tämä on kaukana Jesajan kuvaamasta Israelista, joka ankarasti tuomitsee Israelin sen synneistä (esim.  ([Jes. 1](../books/isa.md))). Useat Juutalaiset lähteet päin vastoin liittävät tämän kärsivän palvelijan kuvan Messiaaseen.
 
-Targumn tulkitsee kohdan  (Jes. 52:13): “Katso, palvelijani Messias menestyy.”
+Targumn tulkitsee kohdan  ([Jes. 52:13](../books/isa.md)): “Katso, palvelijani Messias menestyy.”
 
 Rashi, Radaq, Ibn Ezra, ja Talmud (Sukka 52b) sanovat, että kohta viittaa Joosefin poikaan, Messiaaseen.
 
 Tanhuma-Midras kertoo: "Tämä on Kuningas, Messias, joka nousee ja jota suuresti ylistetään Aabrahamia, Moosesta ja ylistäviä enkeleitäkin ylemmäksi."
 
-Midrash Ruth, commenting on  (Ruut 2:14), discusses the "Messianic meal":
+Midrash Ruth, commenting on  ([Ruut 2:14](../books/rut.md)), discusses the "Messianic meal":
 
-Ruutin kirjan Midras kommentoi kohtaa  (Ruut 2:14) ja viittaa "Messiaaniseen ateriaan":
+Ruutin kirjan Midras kommentoi kohtaa  ([Ruut 2:14](../books/rut.md)) ja viittaa "Messiaaniseen ateriaan":
 
-> Kohdan  (Ruut 2:14) viides tulkinta luo viittauksen Messiaaseen. Tule tänne: saavuta kuninkaallinen asema. Ja syö kuninkaallista leipää symboloivaa leipää ja tiputa murut etikkaan, hänen kärsimyksiään kuvaamaan, kuten on sanottu: "Hänet on haavoitettu meidän rikkomustemme tähden" ( (Jes. 53:5)).
+> Kohdan  ([Ruut 2:14](../books/rut.md)) viides tulkinta luo viittauksen Messiaaseen. Tule tänne: saavuta kuninkaallinen asema. Ja syö kuninkaallista leipää symboloivaa leipää ja tiputa murut etikkaan, hänen kärsimyksiään kuvaamaan, kuten on sanottu: "Hänet on haavoitettu meidän rikkomustemme tähden" ( ([Jes. 53:5](../books/isa.md))).
 >
 > — Ruth Rabbah 5:6
 
@@ -772,7 +772,7 @@ Rabbi Elia de Vidas kirjoittaa:
 
 Talmud viittaa niin ikään kärsivän palvelijan Messiaaseen:
 
-> Mikä on Messiaan nimi? ... Rabbit sanovat: Hänen nimensä on "sairaiden ystävä", kuten on kirjoitettu, hän kantaa kärsimyksemme ja murheemme: vaikka pidämme häntä sairaana, Jumalan lyömänä ( (Jes. 53:4))
+> Mikä on Messiaan nimi? ... Rabbit sanovat: Hänen nimensä on "sairaiden ystävä", kuten on kirjoitettu, hän kantaa kärsimyksemme ja murheemme: vaikka pidämme häntä sairaana, Jumalan lyömänä ( ([Jes. 53:4](../books/isa.md)))
 >
 > — Sanhedrin 98b
 
@@ -788,15 +788,15 @@ Toteutuminen Uudessa testamentissa:
 
 > Filippos lähti sinne. Juuri silloin sitä tietä tuli mahtava etiopialainen hoviherra, eunukki... istui vaunuissaan ja luki profeetta Jesajan kirjaa... Kohta, jota hän kirjasta luki, oli tämä: Niin kuin lammas hänet vietiin teuraaksi, niin kuin karitsa, joka on ääneti keritsijänsä edessä, ei hänkään suutansa avannut. Kun hänet alennettiin, hänen tuomionsa otettiin pois. Kuka voi laskea hänen jälkeläistensä määrän? Hänen elämänsä otetaan pois maan päältä. Hoviherra sanoi Filippokselle: "Voisitko sanoa, kenestä profeetta puhuu, itsestäänkö vai jostakin toisesta?" Filippos rupesi puhumaan, aloitti tuosta kirjoitusten kohdasta ja julisti miehelle evankeliumia Jeesuksesta.
 >
-> — (Apt. 8:27-35)
+> — ([Apt. 8:27-35](../books/act.md))
 
 > sillä meidän pääsiäislampaamme, Kristus, on jo teurastettu.
 >
-> — (1. Kor. 5:7)
+> — ([1. Kor. 5:7](../books/1co.md))
 
 > Hän on kuitenkin tullut tähän maailmaan vain kerran, nyt aikojen lopulla, hävittääkseen synnin uhrillaan.
 >
-> — (Hepr. 9:26)
+> — ([Hepr. 9:26](../books/heb.md))
 
 #### Yhtäkään luuta ei häneltä rikota
 
@@ -804,11 +804,11 @@ Vanhan testamentin profetia:
 
 > Lammas on syötävä yhdessä ja samassa talossa, kukaan ei saa viedä lihaa ulos talostaan eikä rikkoa ainoatakaan luuta.
 >
-> — (2. Moos. 12:46)
+> — ([2. Moos. 12:46](../books/exo.md))
 
 > Monet vaivat kohtaavat vanhurskasta, mutta kaikista niistä Herra hänet vapauttaa. Herra varjelee häntä, ei yksikään hänen luunsa murru.
 >
-> — (Ps. 34:19-20)
+> — ([Ps. 34:19-20](../books/psa.md))
 
 Selitys:
 
@@ -818,7 +818,7 @@ Toteutuminen Uudessa testamentissa:
 
 > Jeesuksen luo tultuaan he huomasivat hänen jo kuolleen eivätkä siksi katkaisseet hänen sääriluitaan.
 >
-> — (Joh. 19:33)
+> — ([Joh. 19:33](../books/jhn.md))
 
 ### Ylösnousemus ja ylentäminen
 
@@ -828,21 +828,21 @@ Vanhan testamentin profetia:
 
 > Sinä et hylkää minun sieluani tuonelaan, et anna palvelijasi joutua kuoleman valtaan.
 >
-> — (Ps. 16:10)
+> — ([Ps. 16:10](../books/psa.md))
 
 Selitys:
 
-Muinainen toivo kuolleiden ylösnousemuksesta, johon Daavid viittaa psalmissa 16, pysyi täyttämättömänä Daavidin oman elämän aikana, kuten apostoli Pietari selitti Jerusalemiin kokoontuneille juutalaisille Helluntaina ( (Apt. 2)). Jeesuksen ylösnousemus kuitenkin täytti tämän lupauksen kuoleman täydellisestä voittamisesta.
+Muinainen toivo kuolleiden ylösnousemuksesta, johon Daavid viittaa psalmissa 16, pysyi täyttämättömänä Daavidin oman elämän aikana, kuten apostoli Pietari selitti Jerusalemiin kokoontuneille juutalaisille Helluntaina ( ([Apt. 2](../books/act.md))). Jeesuksen ylösnousemus kuitenkin täytti tämän lupauksen kuoleman täydellisestä voittamisesta.
 
 Toteutuminen Uudessa testamentissa:
 
 > Enkeli kääntyi naisten puoleen ja sanoi: "Älkää te pelätkö. Minä tiedän, että te etsitte ristiinnaulittua Jeesusta. Ei hän ole täällä, hän on noussut kuolleista...
 >
-> — (Matt. 28:5-6)
+> — ([Matt. 28:5-6](../books/mat.md))
 
 > "Veljeni, kantaisästämme Daavidista voi varmasti sanoa, että hän kuoli ja hänet haudattiin. Onhan hänen hautansa tänäkin päivänä meidän nähtävissämme. Mutta Daavid oli profeetta, ja Jumala oli valalla vannoen luvannut asettaa Daavidin valtaistuimelle hänen oman jälkeläisensä. Daavid tiesi tämän ja näki ennalta Kristuksen ylösnousemuksen. Sitä hän tarkoitti sanoessaan, ettei Herra hylkää häntä tuonelaan eikä hänen ruumiinsa maadu. Tämän Jeesuksen on Jumala herättänyt kuolleista; me kaikki olemme sen todistajia.
 >
-> — (Apt. 2:29-32)
+> — ([Apt. 2:29-32](../books/act.md))
 
 #### Messias astuu taivaaseen
 
@@ -850,7 +850,7 @@ Vanhan testamentin profetia:
 
 > Sinä, Herra, nousit korkeuteen, otit vankeja, otit lahjaksi ihmisiä, otit nekin, jotka kapinoivat vastaan. Sinä asut korkealla, Herra, Jumala.
 >
-> — (Ps. 68:18)
+> — ([Ps. 68:18](../books/psa.md))
 
 Selitys:
 
@@ -860,11 +860,11 @@ Toteutuminen Uudessa testamentissa:
 
 > Minä menen valmistamaan teille sijaa mutta tulen sitten takaisin ja noudan teidät luokseni, jotta saisitte olla siellä missä minä olen.
 >
-> — (Joh. 14:3)
+> — ([Joh. 14:3](../books/jhn.md))
 
 > Kun hän oli sanonut tämän, he näkivät, kuinka hänet otettiin ylös, ja pilvi vei hänet heidän näkyvistään.
 >
-> — (Apt. 1:9)
+> — ([Apt. 1:9](../books/act.md))
 
 #### Messias istuu Jumalan oikealle puolelle
 
@@ -872,7 +872,7 @@ Vanhan testamentin profetia:
 
 > Herra sanoo minun herralleni: "Istu oikealle puolelleni. Minä kukistan vihollisesi, panen heidät jalkojesi alle, korokkeeksi valtaistuimesi eteen."
 >
-> — (Ps. 110:1)
+> — ([Ps. 110:1](../books/psa.md))
 
 Selitys:
 
@@ -888,7 +888,7 @@ Toteutuminen Uudessa testamentissa:
 
 > "Ja minä sanon teille: vastedes te saatte nähdä Ihmisen Pojan istuvan Voiman oikealla puolella ja tulevan taivaan pilvien päällä."
 >
-> — (Matt. 26:64)
+> — ([Matt. 26:64](../books/mat.md))
 
 #### Messias on oleva Melkisedekin kaltainen pappi
 
@@ -896,21 +896,21 @@ Vanhan testamentin profetia:
 
 > Näin on Herra vannonut, eikä hän valaansa peruuta: "Sinä olet pappi ikuisesti, sinun pappeutesi on Melkisedekin pappeutta."
 >
-> — (Ps. 110:4)
+> — ([Ps. 110:4](../books/psa.md))
 
 Selitys:
 
- (Psalm 110) puhuu salaperäisestä papista, jonka "pappeus on Melkisedekin pappeutta". Uudessa testamentissa Heprealaiskirjessä kuvataan kuinka Aaronin pappeus, väliaikainen ja tehoton, korvattiin uudella ja mahtavammalla papilla, joka "ei ole saanut virkaansa inhimillistä syntyperää koskevan lain käskyn mukaan vaan häviämättömän elämänsä voimasta." ( (Hepr. 7:16)). Jeesus on ikuinen ylipappi Melkisedekin pappeuden mukaisesti.
+ ([Psalm 110](../books/psa.md)) puhuu salaperäisestä papista, jonka "pappeus on Melkisedekin pappeutta". Uudessa testamentissa Heprealaiskirjessä kuvataan kuinka Aaronin pappeus, väliaikainen ja tehoton, korvattiin uudella ja mahtavammalla papilla, joka "ei ole saanut virkaansa inhimillistä syntyperää koskevan lain käskyn mukaan vaan häviämättömän elämänsä voimasta." ( ([Hepr. 7:16](../books/heb.md))). Jeesus on ikuinen ylipappi Melkisedekin pappeuden mukaisesti.
 
 Toteutuminen Uudessa testamentissa:
 
 > Siten ei Kristuskaan itse korottanut itseään ylipapin arvoon, vaan hänet korotti se, joka sanoi hänelle: -- Sinä olet minun Poikani, tänä päivänä minä sinut synnytin, ja toisessa paikassa: -- Sinä olet pappi ikuisesti, sinun pappeutesi on Melkisedekin pappeutta.
 >
-> — (Hepr. 5:5-6)
+> — ([Hepr. 5:5-6](../books/heb.md))
 
 > Meillä on ylipappi, joka on asettunut taivaissa istuimelleen Majesteetin valtaistuimen oikealle puolelle. Hän toimittaa palvelusta taivaan pyhäkössä, todellisessa pyhäkköteltassa, jota ei ole pystyttänyt ihminen vaan Herra itse.
 >
-> — (Hepr. 8:1-2)
+> — ([Hepr. 8:1-2](../books/heb.md))
 
 #### Messias suorittaa kahta tehtävää
 
@@ -918,7 +918,7 @@ Vanhan testamentin profetia:
 
 > Herran henki on minun ylläni, sillä hän on voidellut minut. Hän on lähettänyt minut ilmoittamaan köyhille hyvän sanoman, parantamaan ne, joiden mieli on murtunut, julistamaan vangituille vapautusta ja kahlituille kahleitten kirpoamista, julistamaan Herran riemuvuotta, päivää, jona Jumalamme antaa palkan. Hän on lähettänyt minut lohduttamaan kaikkia murheellisia.
 >
-> — (Jes. 61:1-2)
+> — ([Jes. 61:1-2](../books/isa.md))
 
 Selitys:
 
@@ -928,11 +928,11 @@ Toteutuminen Uudessa testamentissa:
 
 > Sokeat saavat näkönsä ja rammat kävelevät, spitaaliset puhdistuvat ja kuurot kuulevat, kuolleet herätetään henkiin ja köyhille julistetaan ilosanoma.
 >
-> — (Matt. 11:5)
+> — ([Matt. 11:5](../books/mat.md))
 
 > Ihmisen Poika on tuleva Isänsä kirkkaudessa enkeliensä kanssa, ja silloin hän maksaa jokaiselle tämän tekojen mukaan.
 >
-> — (Matt. 16:27)
+> — ([Matt. 16:27](../books/mat.md))
 
 #### Kaikki ihmiset ylistävät ihmisen poikaa
 
@@ -940,7 +940,7 @@ Vanhan testamentin profetia:
 
 > Yhä minä katselin yöllisiä näkyjä ja näin, miten taivaan pilvien keskellä tuli eräs, näöltään kuin ihminen. Hän saapui Ikiaikaisen luo. Hänet saatettiin Ikiaikaisen eteen, ja hänelle annettiin valta, kunnia ja kuninkuus, kaikkien kansojen, kansakuntien ja kielten tuli palvella häntä. Hänen valtansa on ikuinen valta, joka ei katoa, eikä hänen kuninkuutensa koskaan häviä.
 >
-> — (Dan. 7:13-14)
+> — ([Dan. 7:13-14](../books/dan.md))
 
 Selitys:
 
@@ -959,7 +959,7 @@ Toteutuminen Uudessa testamentissa:
 
 > Karitsa, joka on teurastettu, on arvollinen saamaan vallan, rikkauden, viisauden ja voiman, kunnian, kirkkauden ja ylistyksen. Ja minä kuulin, kuinka kaikki luodut taivaassa, maan päällä, maan alla ja meressä, kaikki mitä niissä on, lausuivat: -- Hänen, joka istuu valtaistuimella, hänen ja Karitsan on ylistys, kunnia, kirkkaus ja mahti aina ja ikuisesti.Ne neljä olentoa sanoivat: "Aamen", ja vanhimmat heittäytyivät kasvoilleen ja osoittivat kunnioitustaan.
 >
-> — (Ilm. 5:12-14)
+> — ([Ilm. 5:12-14](../books/rev.md))
 
 ### Katso myös
 *[Jeesus Nasaretilainen](jeesus-nasaretilainen.md)
@@ -977,14 +977,14 @@ Toteutuminen Uudessa testamentissa:
 [^5]: Bereshith Rabbah 1:2, Santala, p. 35
 [^6]: Pesahim 54a, Nedarim 39b, viitannut Santala, p. 52)
 [^7]: Bamidbar Rabbah 2, viitannut Santala, p. 41
-[^8]: (1. Moos. 49:10-12), Targum Onqelos
-[^9]: (1. Moos. 49:10-12), Targum Jonathan
+[^8]: ([1. Moos. 49:10-12](../books/gen.md)), Targum Onqelos
+[^9]: ([1. Moos. 49:10-12](../books/gen.md)), Targum Jonathan
 [^10]: Bereshit Rabbah 98, viitannut Santala, p. 50
 [^11]: Lamentations Rabbah 1:16 (on Lam. 1:15-17); see also Sanhedrin 98b
 [^12]: Santala, p. 103
 [^13]: Baba Bathra 75b, viitannut Santala, p. 64
 [^14]: vanhan testamentin kreikannos, jonka tekivät Aleksandrian juutalaiset 300-luvulla eKr.
-[^15]: (Neh. 2:1-8)
+[^15]: ([Neh. 2:1-8](../books/neh.md))
 [^16]: Santala, p. 105 See also http://custance.org/old/seed/references.html
 [^17]: Larry and Marion Pierce.  Afterward to James Ussher's *Annals of the World*.  Published 2007, Master Books
 [^18]: Targum Jonathan, Santala, p. 58

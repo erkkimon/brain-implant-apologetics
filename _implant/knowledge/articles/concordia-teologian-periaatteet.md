@@ -4,7 +4,7 @@ about: apologetics
 title: "Concordia-teologian periaatteet"
 description: "Apologetiikkaa voi pitää teologian osa-alueena, ja näin ajatellen apologetiikkaan keskittyvä sivusto rajaa muun teologian ulkopuolelleen (samoin kuin esim."
 tags: [apowiki, yleistä-tietoa]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Concordia-teologian periaatteet".
@@ -67,15 +67,15 @@ Käytännössä tämä tarkoittaa sitä, että kiistojen ilmetessä ne on ratkai
 Koska raamattuperusteluja käytetään tunnetusti jokseenkin kaikkien mahdollisten ja mahdottomien teologisten kantojen puolustamiseen, yksin Raamattu -periaate edellyttää toimiakseen konkreettista ja johdonmukaista erilaisten raamattuargumenttien arviointikriteeristöä. Muutenhan oltaisiin kehäpäättelytilanteessa. ("Kantamme perustuu parhaisiin raamattuperusteluihin." -- "Mistä tiedätte, että juuri ne ovat parhaita?" -- "Emme kai perustaisi kantaamme niihin, ellemme pitäisi juuri niitä kaikkein parhaina!"/"Emme kai pitäisi kantamme vastaisia perusteluja sen mukaisia perusteluja parempina!")
 
 Klassinen luterilainen (eli Concordia-teologinen) raamattuargumentaatioarviointi lähtee siitä perususkomuksesta, että Raamattu selittää itse itsensä ja että tämä Raamatun itseselitys tulee esiin seuraavanlaisia kriteereitä käytettäessä (C.F.W.Walther: *Oikea näkyvä kirkko* -- tämä teos sisältää myös kriteerien tarkemman esittelyn):
-#Evankelisluterilainen kirkko antaa alkutekstin yksin ratkaista.
-#Evankelisluterilainen kirkko pitää kiinni kielenkäytöstä selittäessään sanoja ja lauseita.
-#Evankelisluterilainen kirkko tunnustaa oikeaksi merkitykseksi vain kirjaimellisen merkityksen
-#Evankelisluterilainen kirkko pitää kiinni siitä, että kullakin raamatunkohdalla on vain yksi ainoa kirjaimellinen merkitys.
-#Evankelisluterilainen kirkko ottaa Raamattua selittäessään huomioon tekstiyhteyden ja tarkoituksen.
-#Evankelisluterilainen kirkko tunnustaa, että kirjaimellinen merkitys voi olla joko epävarsinainen tai varsinainen. Evankelisluterilainen kirkko ei kuitenkaan poikkea sanan tai lauseen varsinaisesta merkityksestä, ellei Raamattu itse pakota sitä tekemään. Tämä tapahtuu silloin, kun itse tekstiin sisältyvät asiat tai jokin rinnakkaiskohta tai uskonmukaisuus siihen pakottavat.
-#Evankelisluterilainen kirkko selittää hämärät kohdat selvien kohtien mukaan.
-#Evankelisluterilainen kirkko ottaa uskonkohdat niiden sijaintipaikoista ja arvioi näiden mukaan sellaisia lausumia, jotka viittaavat niihin vain ohimennen.
-#Evankelisluterilainen kirkko hylkää suoralta kädeltä jokaisen selityksen, joka ei ole uskonmukainen. (Room. 12:6)
+1. Evankelisluterilainen kirkko antaa alkutekstin yksin ratkaista.
+1. Evankelisluterilainen kirkko pitää kiinni kielenkäytöstä selittäessään sanoja ja lauseita.
+1. Evankelisluterilainen kirkko tunnustaa oikeaksi merkitykseksi vain kirjaimellisen merkityksen
+1. Evankelisluterilainen kirkko pitää kiinni siitä, että kullakin raamatunkohdalla on vain yksi ainoa kirjaimellinen merkitys.
+1. Evankelisluterilainen kirkko ottaa Raamattua selittäessään huomioon tekstiyhteyden ja tarkoituksen.
+1. Evankelisluterilainen kirkko tunnustaa, että kirjaimellinen merkitys voi olla joko epävarsinainen tai varsinainen. Evankelisluterilainen kirkko ei kuitenkaan poikkea sanan tai lauseen varsinaisesta merkityksestä, ellei Raamattu itse pakota sitä tekemään. Tämä tapahtuu silloin, kun itse tekstiin sisältyvät asiat tai jokin rinnakkaiskohta tai uskonmukaisuus siihen pakottavat.
+1. Evankelisluterilainen kirkko selittää hämärät kohdat selvien kohtien mukaan.
+1. Evankelisluterilainen kirkko ottaa uskonkohdat niiden sijaintipaikoista ja arvioi näiden mukaan sellaisia lausumia, jotka viittaavat niihin vain ohimennen.
+1. Evankelisluterilainen kirkko hylkää suoralta kädeltä jokaisen selityksen, joka ei ole uskonmukainen. (Room. 12:6)
 
 Tämä tarkoittaa mm. sitä, että pelkkä selittäjän valmiiksi nauttima hyvä maine tai hänen oletettu "hyvä tarkoituksensa" ei riitä selityksen hyväksymiseksi "yhdeksi mahdolliseksi vaihtoehdoksi". Aivan erityisen sietämätöntä tämän mukaan on sellainen nykyään yleinen menettely, jossa ensin koetetaan esittää, että Raamattua voitaisiin jossain kohtaa tulkita joko niin tai näin, ja sitten esitetään jokin raamatunulkoinen kriteeri, jolla näiden väitettyjen vaihtoehtojen välillä halutaan suorittaa valinta. Jos Raamattua oikein lähestytään ja sitä opitaan oikein ymmärtämään, se valitsee itse oman tulkintansa, kuten lukko avaimensa -- vain lukkoon sopiva avain voi olla oikea, kun taas väkivallan tai tiirikan käyttö lukon avaamiseksi on tyypillisesti rikollista toimintaa.
 
@@ -98,34 +98,34 @@ Concordia-teologian mukaan Raamattu sisältää informaation, velvoitteen ja voi
 (Ks. tarkemmin: Franz Pieper: *Kristillinen dogmatiikka*.) Näin Raamattu selitetään Raamatun itsensä eikä ihmisviisauden mukaisesti.
 
 Luterilaisen teologian tarkka esittäminen ei ole tässä yhteydessä mahdollinenkaan tavoite. On kuitenkin syytä todeta edes muutama keskeinen seikka:
-#Ihminen on alkulankeemuksen jälkeisessä nykytilassaan luonnostaan hengellisesti kuollut: sokea Jumalan totuudelle ja vihamielinen sitä vastaan.
-#Ihminen ei itse voi tätä tilaansa muuttaa tai edes sitä tunnistaa tai toivoa siihen muutosta.
-#Vain Jumala voi muuttaa ihmisen hengellisen tilan kuolleesta eläväksi.
-#Jumala muuttaa ihmisen hengellisen tilan kuolleesta eläväksi yksin oman hyvän tahtonsa tähden; ihminen ei siinä myötävaikuta.
-#Raamattu jakautuu oman todistuksensa mukaan kahteen erilliseen osaan: lakiin ja evankeliumiin.
-#Laki näyttää ihmisen syntisyyden ja saa hänet kauhistumaan tulevaa tuomiopäivää.
-#Tämä kauhistaminen on kuitenkin vain Jumalan "vasemman käden työtä", joka valmistaa ihmistä ymmärtämään evankeliumin ja pitäytymään siihen.
-#Jumala käyttää uskon ja sillä omistettavan henkilökohtaisen pelastuksen lahjoittavassa "oikean käden" eli varsinaisessa työssään itse asettamiaan armonvälineitä, joita ovat Raamattu (varsinaisimmin sen sisältämä evankeliumi Kristuksesta) kaikissa muodoissaan (luettuna ja kuultuna) sekä sakramentit (kaste ja ehtoollinen); myös rippikäytäntöön liittyvä avaintenvalta kuuluu olennaisena osana armonvälineteologiaan.
-#Jumala tekee ihmisestä hengellisesti elävän lahjoittamalla hänelle pyhän kristillisen uskon (subjektiivinen vanhurskautus).
-#On vain yksi oikea usko, ja se on Raamatun mukainen.
-#Autuuden perii se, jolla kuollessaan tai Herran näkyvästi palatessa on tämä ainoa oikea usko.
-#Epäuskoiset joutuvat helvettiin, joka on tietoisessa tilassa kärsittävä loputon rangaistus.
-#Ihmisen joutuessa helvettiin toteutuu Jumalan oikeudenmukaisuus -- synnin palkka on kuolema, ja näin paha saa palkkansa.
-#Ihmisen pelastuessa taivaaseen toteutuu sekä Jumalan oikeudenmukaisuus -- sillä Kristus on jo kaiken maksanut -- että armollinen pelastustahto, joka kohdistuu kaikkiin ihmisiin: Kristus on koko maailman syntien sovitus, joten Jumala on jo antanut kaikki synnit anteeksi (objektiivinen vanhurskautus).
-#Helvettiin "pääsee" vain jättäytymällä epäuskossa Jumalan anteeksiantamusta todistavan evankeliumin vastustajaksi. -- Näin käy, kun oman luonnollisen tilan kadotuksenalaisuus kielletään, jolloin myös välttämättä etsitään apua vääriin ongelmiin ja vääristä lähteistä.
-#Kun Jumala vaikuttaa "epäsuorasti" eli armonvälineiden kautta, ("ymmärtävässä iässä oleva") ihminen voi vastustaa hänen vaikutustaan niin, että hänen hyvä tahtonsa ei toteudu tämän ihmisen suhteen. Armonväline pysyy kuitenkin tehoisana, vika on yksinomaan ihmisen vastustuksessa.
-#On myös mahdollista luopua uskon lahjasta jälkikäteen -- ihminen voi siis omin avuin vaihtaa elämänsä kuolemaan, vaikkei pystykään vaihtamaan kuolemaansa elämään.
-#On mahdollista, että oikeaa uskoa ulkoisesti tunnustava ei sitä sydämessään uskokaan, jolloin hän on kadotukseen vievällä tiellä.
-#On mahdollista, että oikean uskon vastaisia käsityksiä ulospäin edustava kuitenkin sisimmässään elää hengellisesti oikeasta uskosta eli Kristuksen evankeliumista (on siis "autuaasti epäjohdonmukainen"), jolloin hän vääriin käsityksiin tunnustautumisestaan huolimatta on taivaaseen johtavalla tiellä.
-#Kaikki (tietoinen) oikean uskon ja sitä edustavan opin ja opetuksen vierominen on kuitenkin hengellisesti kuolemanvaarallista.
-#Myös ne, joilla on oikea usko ja siis hengellinen elämä, ovat maallisen elämänsä loppuun asti itsessään syntisiä: heissä on samaan aikaan kaksi luontoa -- sekä uusi, hengellinen että vanha, lihallinen. Kumpikin luonto toimii luonteenomaisella tavallaan ja taistelee siksi toistaan vastaan.
-#Usko koituu pelastukseksi yksin Kristuksen tähden, ilman mitään ihmisen tekoja tai hänessä tapahtuvia koettavia muutoksia.
-#Oikea usko kuitenkin aina myös vaikuttaa ihmisen elämään ja toimintaan, ja Jumala palkitseekin itse uskovassa vaikuttamansa hyvät teot.
-#Jos oikeassa uskossa ollut ja siinä hyviä töitä tehnyt ihminen kuitenkin luopuu ja jää siihen tilaan, hänen entiset tekonsa eivät häntä pelasta tai muutenkaan auta.
-#Autuas perillepääsy eli oikeassa uskossa säilyminen siihen asti, että usko muuttuu näkemiseksi, on sekin Jumalan lahja.
-#Vain valitut saavuttavat autuuden, omin voimin ei voi säilyä oikeassa uskossa. Siksi pelastus on alusta loppuun pelkkä armollisen Jumalan hyvä työ itsessään täysin kelvotonta syntistä ihmistä kohtaan.
-#Jumalan armon kasvattamana ihminen voi päästä pettämättömään luottamukseen omasta valinnastaan ja autuudestaan jo ennen iankaikkisuuteen astumistaan; tämä perustuu aivan samaan evankeliumiin, jonka kaikki tosin kuulevat, mutta vain usko omistaa.
-#Myös heikko usko koituu pelastukseksi aivan yhtä varmasti kuin vahvakin usko, kunhan kyse vain on oikeasta uskosta: usko ei pelasta itsensä vaan kohteensa (puolestamme ristiinnaulitun ja ylösnousseen Herran Jeesuksen Kristuksen) tähden.
+1. Ihminen on alkulankeemuksen jälkeisessä nykytilassaan luonnostaan hengellisesti kuollut: sokea Jumalan totuudelle ja vihamielinen sitä vastaan.
+1. Ihminen ei itse voi tätä tilaansa muuttaa tai edes sitä tunnistaa tai toivoa siihen muutosta.
+1. Vain Jumala voi muuttaa ihmisen hengellisen tilan kuolleesta eläväksi.
+1. Jumala muuttaa ihmisen hengellisen tilan kuolleesta eläväksi yksin oman hyvän tahtonsa tähden; ihminen ei siinä myötävaikuta.
+1. Raamattu jakautuu oman todistuksensa mukaan kahteen erilliseen osaan: lakiin ja evankeliumiin.
+1. Laki näyttää ihmisen syntisyyden ja saa hänet kauhistumaan tulevaa tuomiopäivää.
+1. Tämä kauhistaminen on kuitenkin vain Jumalan "vasemman käden työtä", joka valmistaa ihmistä ymmärtämään evankeliumin ja pitäytymään siihen.
+1. Jumala käyttää uskon ja sillä omistettavan henkilökohtaisen pelastuksen lahjoittavassa "oikean käden" eli varsinaisessa työssään itse asettamiaan armonvälineitä, joita ovat Raamattu (varsinaisimmin sen sisältämä evankeliumi Kristuksesta) kaikissa muodoissaan (luettuna ja kuultuna) sekä sakramentit (kaste ja ehtoollinen); myös rippikäytäntöön liittyvä avaintenvalta kuuluu olennaisena osana armonvälineteologiaan.
+1. Jumala tekee ihmisestä hengellisesti elävän lahjoittamalla hänelle pyhän kristillisen uskon (subjektiivinen vanhurskautus).
+1. On vain yksi oikea usko, ja se on Raamatun mukainen.
+1. Autuuden perii se, jolla kuollessaan tai Herran näkyvästi palatessa on tämä ainoa oikea usko.
+1. Epäuskoiset joutuvat helvettiin, joka on tietoisessa tilassa kärsittävä loputon rangaistus.
+1. Ihmisen joutuessa helvettiin toteutuu Jumalan oikeudenmukaisuus -- synnin palkka on kuolema, ja näin paha saa palkkansa.
+1. Ihmisen pelastuessa taivaaseen toteutuu sekä Jumalan oikeudenmukaisuus -- sillä Kristus on jo kaiken maksanut -- että armollinen pelastustahto, joka kohdistuu kaikkiin ihmisiin: Kristus on koko maailman syntien sovitus, joten Jumala on jo antanut kaikki synnit anteeksi (objektiivinen vanhurskautus).
+1. Helvettiin "pääsee" vain jättäytymällä epäuskossa Jumalan anteeksiantamusta todistavan evankeliumin vastustajaksi. -- Näin käy, kun oman luonnollisen tilan kadotuksenalaisuus kielletään, jolloin myös välttämättä etsitään apua vääriin ongelmiin ja vääristä lähteistä.
+1. Kun Jumala vaikuttaa "epäsuorasti" eli armonvälineiden kautta, ("ymmärtävässä iässä oleva") ihminen voi vastustaa hänen vaikutustaan niin, että hänen hyvä tahtonsa ei toteudu tämän ihmisen suhteen. Armonväline pysyy kuitenkin tehoisana, vika on yksinomaan ihmisen vastustuksessa.
+1. On myös mahdollista luopua uskon lahjasta jälkikäteen -- ihminen voi siis omin avuin vaihtaa elämänsä kuolemaan, vaikkei pystykään vaihtamaan kuolemaansa elämään.
+1. On mahdollista, että oikeaa uskoa ulkoisesti tunnustava ei sitä sydämessään uskokaan, jolloin hän on kadotukseen vievällä tiellä.
+1. On mahdollista, että oikean uskon vastaisia käsityksiä ulospäin edustava kuitenkin sisimmässään elää hengellisesti oikeasta uskosta eli Kristuksen evankeliumista (on siis "autuaasti epäjohdonmukainen"), jolloin hän vääriin käsityksiin tunnustautumisestaan huolimatta on taivaaseen johtavalla tiellä.
+1. Kaikki (tietoinen) oikean uskon ja sitä edustavan opin ja opetuksen vierominen on kuitenkin hengellisesti kuolemanvaarallista.
+1. Myös ne, joilla on oikea usko ja siis hengellinen elämä, ovat maallisen elämänsä loppuun asti itsessään syntisiä: heissä on samaan aikaan kaksi luontoa -- sekä uusi, hengellinen että vanha, lihallinen. Kumpikin luonto toimii luonteenomaisella tavallaan ja taistelee siksi toistaan vastaan.
+1. Usko koituu pelastukseksi yksin Kristuksen tähden, ilman mitään ihmisen tekoja tai hänessä tapahtuvia koettavia muutoksia.
+1. Oikea usko kuitenkin aina myös vaikuttaa ihmisen elämään ja toimintaan, ja Jumala palkitseekin itse uskovassa vaikuttamansa hyvät teot.
+1. Jos oikeassa uskossa ollut ja siinä hyviä töitä tehnyt ihminen kuitenkin luopuu ja jää siihen tilaan, hänen entiset tekonsa eivät häntä pelasta tai muutenkaan auta.
+1. Autuas perillepääsy eli oikeassa uskossa säilyminen siihen asti, että usko muuttuu näkemiseksi, on sekin Jumalan lahja.
+1. Vain valitut saavuttavat autuuden, omin voimin ei voi säilyä oikeassa uskossa. Siksi pelastus on alusta loppuun pelkkä armollisen Jumalan hyvä työ itsessään täysin kelvotonta syntistä ihmistä kohtaan.
+1. Jumalan armon kasvattamana ihminen voi päästä pettämättömään luottamukseen omasta valinnastaan ja autuudestaan jo ennen iankaikkisuuteen astumistaan; tämä perustuu aivan samaan evankeliumiin, jonka kaikki tosin kuulevat, mutta vain usko omistaa.
+1. Myös heikko usko koituu pelastukseksi aivan yhtä varmasti kuin vahvakin usko, kunhan kyse vain on oikeasta uskosta: usko ei pelasta itsensä vaan kohteensa (puolestamme ristiinnaulitun ja ylösnousseen Herran Jeesuksen Kristuksen) tähden.
 
 ### Lopuksi
 

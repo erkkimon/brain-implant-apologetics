@@ -4,7 +4,7 @@ about: apologetics
 title: "Multiversumi-hypoteesi"
 description: "Multiversumi- eli monimaailmankaikkeushypoteesin mukaan meidän asumamme näkyvän maailmankaikkeuden lisäksi on olemassa valtava määrä muita universumeja."
 tags: [apowiki, suunnitteluteoria, kosmologia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Multiversumi-hypoteesi".
@@ -24,7 +24,7 @@ Useilla maailmankaikkeuksilla on spekuloitu jo antiikin ajoista lähtien. Toista
 
 ### Hypoteesin käyttö ja perustelu
 
-Multiversumi-hypoteesilla pyritään ennen kaikkea selittämään tiettyjä naturalismiehtoisten selitysten puitteissa erittäin epätodennäköisiä ja siksi [suunnitteluun](suunnitteluteoria.md) viittaavia havaintoja:
+Multiversumi-hypoteesilla pyritään ennen kaikkea selittämään tiettyjä [naturalismiehtoisten selitysten](../glossary/sanasto.md#naturalistinen-selittäminen) puitteissa erittäin epätodennäköisiä ja siksi [suunnitteluun](suunnitteluteoria.md) viittaavia havaintoja:
 * Universumimme on [hienosäätönsä](kosminen-hienosäätö.md) ansiosta elämälle ja havaitsijoille suotuisa: luonnonlait ja niissä esiintyvät vakiot[^1] on tarkasti säädetty sellaisiksi, että elämä olisi mahdollista. Kosmisen hienosäädön selittäminen puhtaalla sattumalla on järjetöntä, joten useat fyysikot ovat esittäneet, että mikäli universumeita on valtava määrä, joku universumi olisi elämälle suotuisa sattumalta.
 * Koska [alkusolun](abiogeneesi.md) syntyminen sattumalta on samoin valtavan epätodennäköistä, myös sitä on pyritty selittämään useilla maailmankaikkeuksilla.
 Multiversumi-selityksellä voidaan siis pyrkiä selittämään pois eli jotenkin neutraloimaan oman ajatusmallin kannalta ongelmalliset eli kohtuuttoman epätodennäköiset havainnot.

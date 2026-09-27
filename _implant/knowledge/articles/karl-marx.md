@@ -4,7 +4,7 @@ about: apologetics
 title: "Karl Marx"
 description: "Karl Heinrich Marx (5. toukokuuta 1818 – 14. maaliskuuta 1883) oli juutalaissyntyinen yhteiskuntafilosofi ja sosiaaliteoreetikko."
 tags: [apowiki, henkilöt]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Karl Marx".
@@ -30,7 +30,7 @@ Marxin oletus, että usko Jumalaan on sumunomaista heijastusta vääristyneistä
 
 ### Marxin teoria ei ole pätevä kumoaja teismille
 
-Niinpä teistin ei tarvitse pitää Marxin teoriaa kumoajana uskolle Jumalaan. Hän voi täysin perustellusti käyttää sitä päinvastoin selittämään ihmisen haluttomuutta tunnustaa Jumalan todellisuutta. Marxin teoriaa voidaan käyttää hänen intentioidensa vastaisesti yhtenä mahdollisena selityksenä sille, että ihminen torjuu Jumalan pois tietoisuudestaan. Ihmisen voi olla helppo unohtaa Jumalan todellisuus, kun hänen koko huomionsa suuntautuu rahan ja toimeentulon maailmaan. **Jeesus** itse käytti tällaista tulkintaa sanoessaan kuuluisassa kylväjä-vertauksessaan, että "sana ei tuota satoa, koska tämän maailman huolet ja rikkauden viettelykset tukahduttavat sen" ( (Matt 13:22)).
+Niinpä teistin ei tarvitse pitää Marxin teoriaa kumoajana uskolle Jumalaan. Hän voi täysin perustellusti käyttää sitä päinvastoin selittämään ihmisen haluttomuutta tunnustaa Jumalan todellisuutta. Marxin teoriaa voidaan käyttää hänen intentioidensa vastaisesti yhtenä mahdollisena selityksenä sille, että ihminen torjuu Jumalan pois tietoisuudestaan. Ihmisen voi olla helppo unohtaa Jumalan todellisuus, kun hänen koko huomionsa suuntautuu rahan ja toimeentulon maailmaan. **Jeesus** itse käytti tällaista tulkintaa sanoessaan kuuluisassa kylväjä-vertauksessaan, että "sana ei tuota satoa, koska tämän maailman huolet ja rikkauden viettelykset tukahduttavat sen" ( ([Matt 13:22](../books/mat.md))).
 
 ### Marxin teorian retorinen luonne
 

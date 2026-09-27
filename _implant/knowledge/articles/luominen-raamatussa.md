@@ -4,7 +4,7 @@ about: apologetics
 title: "Luominen Raamatussa"
 description: "Tähän artikkeliin on koottu luomiseen liittyviä raamatunkohtia: (1."
 tags: [apowiki, raamattu, luomisoppi]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Luominen Raamatussa".
@@ -24,212 +24,212 @@ Tähän artikkeliin on koottu luomiseen liittyviä raamatunkohtia:[^1][^2]
 
 #### Mooseksen kirjat
 
- (1. Moos. 1)
+ ([1. Moos. 1](../books/gen.md))
 
- (1. Moos. 2)
+ ([1. Moos. 2](../books/gen.md))
 
- (1. Moos. 15:5)
+ ([1. Moos. 15:5](../books/gen.md))
 
- (1. Moos. 22:17)
+ ([1. Moos. 22:17](../books/gen.md))
 
- (2. Moos. 20:8-11)
+ ([2. Moos. 20:8-11](../books/exo.md))
 
- (5. Moos. 11:21)
+ ([5. Moos. 11:21](../books/deu.md))
 
 #### Aikakirjat
 
- (1 Aik. 16:30-34)
+ ([1 Aik. 16:30-34](../books/1ch.md))
 
 #### Job
 
- (Job 8:11-19)
+ ([Job 8:11-19](../books/job.md))
 
- (Job 12:7-10)
+ ([Job 12:7-10](../books/job.md))
 
- (Job 14:5-12)
+ ([Job 14:5-12](../books/job.md))
 
- (Job 23:8-10)
+ ([Job 23:8-10](../books/job.md))
 
- (Job 26:7-14)
+ ([Job 26:7-14](../books/job.md))
 
- (Job 28:1-11)
+ ([Job 28:1-11](../books/job.md))
 
- (Job 36:27-33)
+ ([Job 36:27-33](../books/job.md))
 
- (Job 37:1-3)
+ ([Job 37:1-3](../books/job.md))
 
- (Job 38)
- (Job 39)
- (Job 40)
- (Job 41)
+ ([Job 38](../books/job.md))
+ ([Job 39](../books/job.md))
+ ([Job 40](../books/job.md))
+ ([Job 41](../books/job.md))
 
 #### Psalmit
 
- (Ps. 37:1-2)
+ ([Ps. 37:1-2](../books/psa.md))
 
- (Ps. 93:1-4)
+ ([Ps. 93:1-4](../books/psa.md))
 
- (Ps. 96:10)
+ ([Ps. 96:10](../books/psa.md))
 
- (Ps. 104)
+ ([Ps. 104](../books/psa.md))
 
- (Ps. 135:6-7)
+ ([Ps. 135:6-7](../books/psa.md))
 
- (Ps. 139:1-18)
+ ([Ps. 139:1-18](../books/psa.md))
 
- (Ps. 147)
+ ([Ps. 147](../books/psa.md))
 
- (Ps. 148)
+ ([Ps. 148](../books/psa.md))
 
 #### Sananlaskut
 
- (San. 8:22-31)
+ ([San. 8:22-31](../books/pro.md))
 
- (San. 24:30-31)
+ ([San. 24:30-31](../books/pro.md))
 
- (San. 30:24-31)
+ ([San. 30:24-31](../books/pro.md))
 
 #### Saarnaaja
 
- (Saarn. 1:3-10)
+ ([Saarn. 1:3-10](../books/ecc.md))
 
- (Saarn. 3)
+ ([Saarn. 3](../books/ecc.md))
 
- (Saarn. 8)
- (Saarn. 9)
- (Saarn. 10)
- (Saarn. 11)
- (Saarn. 12)
+ ([Saarn. 8](../books/ecc.md))
+ ([Saarn. 9](../books/ecc.md))
+ ([Saarn. 10](../books/ecc.md))
+ ([Saarn. 11](../books/ecc.md))
+ ([Saarn. 12](../books/ecc.md))
 
 #### Jesaja
 
- (Jes. 40:21-22)
+ ([Jes. 40:21-22](../books/isa.md))
 
- (Jes. 42:5)
+ ([Jes. 42:5](../books/isa.md))
 
- (Jes. 44:2)
+ ([Jes. 44:2](../books/isa.md))
 
- (Jes. 49:5)
+ ([Jes. 49:5](../books/isa.md))
 
- (Jes. 50:2-3)
+ ([Jes. 50:2-3](../books/isa.md))
 
- (Jes. 51:13-16)
+ ([Jes. 51:13-16](../books/isa.md))
 
- (Jes. 55:10)
+ ([Jes. 55:10](../books/isa.md))
 
 #### Jeremia
 
- (Jer. 5:22)
+ ([Jer. 5:22](../books/jer.md))
 
 #### Aamos
 
- (Aam. 9:5-6)
+ ([Aam. 9:5-6](../books/amo.md))
 
 ### Uusi Testamentti
 
 #### Evankeliumit
 
- (Matt. 19:4)
+ ([Matt. 19:4](../books/mat.md))
 
- (Matt. 23:35)
+ ([Matt. 23:35](../books/mat.md))
 
- (Mark. 10:6)
+ ([Mark. 10:6](../books/mrk.md))
 
- (Mark. 13:19)
+ ([Mark. 13:19](../books/mrk.md))
 
- (Luuk. 11:50-51)
+ ([Luuk. 11:50-51](../books/luk.md))
 
- (Luuk. 17:26-27)
+ ([Luuk. 17:26-27](../books/luk.md))
 
- (Joh. 1:1-3)
+ ([Joh. 1:1-3](../books/jhn.md))
 
 #### Apostolien teot
 
- (Apt. 14:15)
+ ([Apt. 14:15](../books/act.md))
 
- (Apt. 17:24)
+ ([Apt. 17:24](../books/act.md))
 
 #### Paavalin kirjeet
 
- (Room. 1:18-25)
+ ([Room. 1:18-25](../books/rom.md))
 
- (Room. 4:17)
+ ([Room. 4:17](../books/rom.md))
 
- (Room. 5:12)
+ ([Room. 5:12](../books/rom.md))
 
- (Room. 8:20-22)
+ ([Room. 8:20-22](../books/rom.md))
 
- (1. Kor. 6:16)
+ ([1. Kor. 6:16](../books/1co.md))
 
- (1. Kor. 11:3,7,8,9)
+ ([1. Kor. 11:3,7,8,9](../books/1co.md))
 
- (1. Kor. 15:21-22, 38-39, 47)
+ ([1. Kor. 15:21-22, 38-39, 47](../books/1co.md))
 
- (2. Kor. 4:16)
+ ([2. Kor. 4:16](../books/2co.md))
 
- (2. Kor. 5:1-4)
+ ([2. Kor. 5:1-4](../books/2co.md))
 
- (2. Kor. 11:3)
+ ([2. Kor. 11:3](../books/2co.md))
 
- (Ef. 3:9)
+ ([Ef. 3:9](../books/eph.md))
 
- (Ef. 5: 30-31)
+ ([Ef. 5: 30-31](../books/eph.md))
 
- (Kol. 1:16)
+ ([Kol. 1:16](../books/col.md))
 
- (Kol. 3:10)
+ ([Kol. 3:10](../books/col.md))
 
- (1. Tim. 2:13-14)
+ ([1. Tim. 2:13-14](../books/1ti.md))
 
- (1. Tim. 4:3-4)
+ ([1. Tim. 4:3-4](../books/1ti.md))
 
 #### Kirje heprealaisille
 
- (Hepr. 1:10-12)
+ ([Hepr. 1:10-12](../books/heb.md))
 
- (Hepr. 2:7-8)
+ ([Hepr. 2:7-8](../books/heb.md))
 
- (Hepr. 4:3,10)
+ ([Hepr. 4:3,10](../books/heb.md))
 
- (Hepr. 11:3,4,5,7)
+ ([Hepr. 11:3,4,5,7](../books/heb.md))
 
- (Hepr. 12:24)
+ ([Hepr. 12:24](../books/heb.md))
 
 #### Johanneksen ja Pietarin kirjeet, Jaakobin ja Juudaan kirje
 
- (Jaak. 3:9)
+ ([Jaak. 3:9](../books/jas.md))
 
- (1. Piet. 3:20)
+ ([1. Piet. 3:20](../books/1pe.md))
 
- (2. Piet. 2:5)
+ ([2. Piet. 2:5](../books/2pe.md))
 
- (2. Piet. 3:4-5,6)
+ ([2. Piet. 3:4-5,6](../books/2pe.md))
 
- (1. Joh. 2:17)
+ ([1. Joh. 2:17](../books/1jn.md))
 
- (1. Joh. 3:8)
+ ([1. Joh. 3:8](../books/1jn.md))
 
- (1. Joh. 3:12)
+ ([1. Joh. 3:12](../books/1jn.md))
 
- (Juud. 11, 14)
+ ([Juud. 11, 14](../books/jud.md))
 
 #### Johanneksen ilmestys
 
- (Ilm. 2:7)
+ ([Ilm. 2:7](../books/rev.md))
 
- (Ilm. 3:14)
+ ([Ilm. 3:14](../books/rev.md))
 
- (Ilm. 4:11)
+ ([Ilm. 4:11](../books/rev.md))
 
- (Ilm. 10:6)
+ ([Ilm. 10:6](../books/rev.md))
 
- (Ilm. 14:7)
+ ([Ilm. 14:7](../books/rev.md))
 
- (Ilm. 20:2)
+ ([Ilm. 20:2](../books/rev.md))
 
- (Ilm. 21:1,4)
+ ([Ilm. 21:1,4](../books/rev.md))
 
- (Ilm. 22:2,3,14)
+ ([Ilm. 22:2,3,14](../books/rev.md))
 
 ### Viitteet
 

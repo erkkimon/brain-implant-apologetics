@@ -4,7 +4,7 @@ about: apologetics
 title: "Todennettavuusehto"
 description: "Loogisen empirismin perusajatus on ns. todennettavuusehto eli verifikaatioperiaate."
 tags: [apowiki, tieteenfilosofia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Todennettavuusehto".
@@ -87,7 +87,7 @@ On tärkeää muistaa, että positivistit kohtasivat suurimmat ongelmansa juuri 
 
 Väitteiden mielekkyyden kriteerinä voidaan myös käyttää kysymystä siitä, onko väitettä mahdollista osoittaa epätodeksi (falsifioida). Yksi tapa luonnehtia uskonnollisia uskomuksia on määritellä ne uskomuksiksi, joita ei periaatteessakaan ole mahdollista osoittaa epätosiksi. Tätä pidetään ratkaisevana puutteena, koska se merkitsee sitä, että uskomukset on suojattu empiiriseltä testaukselta. Jos ne olisivat mielekkäitä, niitä ei tarvitsisi suojata keinotekoisesti, vaan ne voitaisiin päinvastoin altistaa empiiriselle testaukselle.
 
-**[William Lane Craig](william-lane-craig.md)in** mukaan falsifikaatiokriteeri on jotakuinkin hylätty nykyfilosofiassa, koska on helppo löytää väitelauseita, joiden totuus on ilmeinen muttei falsifioitavissa.
+**[William Lane Craigin](william-lane-craig.md)** mukaan falsifikaatiokriteeri on jotakuinkin hylätty nykyfilosofiassa, koska on helppo löytää väitelauseita, joiden totuus on ilmeinen muttei falsifioitavissa.
 
 > Esimerkiksi väitelause *"Minä olen olemassa"* ei ole falsifioitavissa. Voidaksesi osoittaa todeksi vastaväitteen *"Minä en ole olemassa"* sinun on oltava olemassa, joten vastaväite on itsensä kumoava. Väite ei siis ole falsifioitavissa, mutta se on kuitenkin merkityksellinen.
 > Craig
@@ -109,7 +109,7 @@ Viimeaikaisessa uskonnonfilosofiassa on kuitenkin yhä enemmän tuotu esille sit
 
 ### Aiheesta muualla
 
-* [*Can the Universe Exist Without God?*](http://www.youtube.com/watch?v=prYeIU0NrSY) – [William Lane Craig](william-lane-craig.md)in keskustelutilaisuus professori [Kari Enqvist](kari-enqvist.md)in kanssa Helsingin yliopistolla 16.4.2012.
+* [*Can the Universe Exist Without God?*](http://www.youtube.com/watch?v=prYeIU0NrSY) – [William Lane Craigin](william-lane-craig.md) keskustelutilaisuus professori [Kari Enqvistin](kari-enqvist.md) kanssa Helsingin yliopistolla 16.4.2012.
 
 ### Viitteet
 

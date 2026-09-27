@@ -4,7 +4,7 @@ about: apologetics
 title: "Kosminen lähiömme"
 description: "Maapallo on erittäin hyvä paikka asua universumissamme. Suurin osa planeetoista on elämälle kelpaamattomia."
 tags: [apowiki, kosmologia, suunnitteluteoria, hienosäätö, astrobiologia, kosminen, paikka, maapallo, linnunrata, kuu, aurinko, antrooppinen-periaate, kosminen-hienosäätö]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kosminen lähiömme".
@@ -24,42 +24,42 @@ Maapallo on erittäin hyvä paikka asua universumissamme. Suurin osa planeetoist
 
 *Kuva: Maa, hämmästyttävän hyvä paikka elämälle.*
 
-#Painovoiman voimakkuus maan pinnalla: Jos vahvempi, ilmakehään jäisi liikaa ammoniakkia ja metaania. Jos heikompi, ilmakehä menettäisi liikaa vettä.
-#Etäisyys auringosta: Jos kauempana, maapallo olisi liian kylmä vakaalle veden kierrolle. Jos lähempänä, maapallo olisi liian kuuma vakaalle veden kierrolle.
-#Akselikallistuma (maapallon kiertoradan ja pyörimisakselin kulma): Jos suurempi tai pienempi, lämpötilaerot maapallon pinnalla olisivat liian suuret.
-#Maapallon kiertoradan epäkeskisyys (eksentrisyys): Jos suurempi, vuodenaikojen lämpötilavaihtelut olisivat liian suuria.
-#Maapallon pyörähdysaika: Jos pidempi, Päivittäiset lämpötilavaihtelut olisivat liian suuret. Jos lyhyempi, tuulien nopeudet olisivat liian suuria.
-#Maapallon magneettikenttä: Jos heikompi, otsonikerros olisi alttiina aurinkotuulelle ja muulle avaruuden säteilylle. Lisäksi vesi ionisoituisi yläilmakehässä ja karkaisi aurinkotuulen mukana avaruuteen.
-#Maapallon heijastuskyky (albedo, eli heijastuneen valon suhde maapallon pintaan osuvan valon kokonaismäärään): Jos suurempi, mannerjäätiköiden jäätyminen olisi liian nopeaa ja itseään vahvistavaa. Jos pienempi, kasvihuoneilmiö vahvistuisi.
-#Hiilidioksidin määrä ilmakehässä: Jos suurempi, kasvihuoneilmiö liian suuri. Jos pienempi, kasvit eivät voisi yhteyttää tehokkaasti.
-#Vesihöyryn määrä ilmakehässä: Jos suurempi, kasvihuoneilmiö liian suuri. Jos pienempi,  sademäärät olisivat liian vähäisiä monimutkaiselle elämälle.
-#Ilmakehän otsonitaso: Jos suurempi, pintalämpötilat olisivat liian pieniä. Jos pienempi, pintalämpötilat olisivat liian suuria ja maapallon pinnalla olisi liikaa UV säteilyä.
-#Hapen määrä ilmakehässä: Jos suurempi, kasvit ja hiilivedyt palaisivat liian nopeasti. Jos pienempi,  monimutkaisilla eläimillä ei olisi tarpeeksi happea hengitykseen.
-#Seisminen toiminta: Jos suurempaa, liikaa eliöitä tuhoutuisi. Jos vähäisempää, merenpohjan ravinteita ei saataisi kierrätettyä mantereille eikä karbonaateista irtoaisi tarpeeksi hiilidioksidia.
-#Vulkaaninen toiminta: Jos vähäisempää, liian vähän hiilidioksidia ja vettä palautuisi ilmakehään ja mineralisaatio maaperässä olisi liian vähäistä elämälle.
-#Kuun painovoiman vaikutus: Jos vahvempaa, kuun vaikutus merien vuorovesiin, ilmakehään ja maapallon pyörimisnopeuteen olisi liian vahva. Jos heikompaa, akselikallistuman muutokset johtaisivat ilmakehän epävakauteen, ravinteiden kulku mantereilta mereen (ja toisinpäin) olisi riittämätöntä, sekä magneettikenttä olisi liian heikko.
-#Ilmakehän paine: Jos pienempi, nestemäinen vesi höyrystyisi liian helposti ja tiivistyisi liian harvoin. Jos suurempi, nestemäinen vesi ei höyrystyisi riittävän helposti maaeläimille, liian vähän valoa pääsisi maapallon pinnalle.
-#Ilmakehän läpinäkyvyys: Jos pienempi, liian pieni aallonpituusalue pääsisi läpi pinnalle. Jos suurempi, liian monenlaista säteilyä pääsisi pinnalle.
+1. Painovoiman voimakkuus maan pinnalla: Jos vahvempi, ilmakehään jäisi liikaa ammoniakkia ja metaania. Jos heikompi, ilmakehä menettäisi liikaa vettä.
+1. Etäisyys auringosta: Jos kauempana, maapallo olisi liian kylmä vakaalle veden kierrolle. Jos lähempänä, maapallo olisi liian kuuma vakaalle veden kierrolle.
+1. Akselikallistuma (maapallon kiertoradan ja pyörimisakselin kulma): Jos suurempi tai pienempi, lämpötilaerot maapallon pinnalla olisivat liian suuret.
+1. Maapallon kiertoradan epäkeskisyys (eksentrisyys): Jos suurempi, vuodenaikojen lämpötilavaihtelut olisivat liian suuria.
+1. Maapallon pyörähdysaika: Jos pidempi, Päivittäiset lämpötilavaihtelut olisivat liian suuret. Jos lyhyempi, tuulien nopeudet olisivat liian suuria.
+1. Maapallon magneettikenttä: Jos heikompi, otsonikerros olisi alttiina aurinkotuulelle ja muulle avaruuden säteilylle. Lisäksi vesi ionisoituisi yläilmakehässä ja karkaisi aurinkotuulen mukana avaruuteen.
+1. Maapallon heijastuskyky (albedo, eli heijastuneen valon suhde maapallon pintaan osuvan valon kokonaismäärään): Jos suurempi, mannerjäätiköiden jäätyminen olisi liian nopeaa ja itseään vahvistavaa. Jos pienempi, kasvihuoneilmiö vahvistuisi.
+1. Hiilidioksidin määrä ilmakehässä: Jos suurempi, kasvihuoneilmiö liian suuri. Jos pienempi, kasvit eivät voisi yhteyttää tehokkaasti.
+1. Vesihöyryn määrä ilmakehässä: Jos suurempi, kasvihuoneilmiö liian suuri. Jos pienempi,  sademäärät olisivat liian vähäisiä monimutkaiselle elämälle.
+1. Ilmakehän otsonitaso: Jos suurempi, pintalämpötilat olisivat liian pieniä. Jos pienempi, pintalämpötilat olisivat liian suuria ja maapallon pinnalla olisi liikaa UV säteilyä.
+1. Hapen määrä ilmakehässä: Jos suurempi, kasvit ja hiilivedyt palaisivat liian nopeasti. Jos pienempi,  monimutkaisilla eläimillä ei olisi tarpeeksi happea hengitykseen.
+1. Seisminen toiminta: Jos suurempaa, liikaa eliöitä tuhoutuisi. Jos vähäisempää, merenpohjan ravinteita ei saataisi kierrätettyä mantereille eikä karbonaateista irtoaisi tarpeeksi hiilidioksidia.
+1. Vulkaaninen toiminta: Jos vähäisempää, liian vähän hiilidioksidia ja vettä palautuisi ilmakehään ja mineralisaatio maaperässä olisi liian vähäistä elämälle.
+1. Kuun painovoiman vaikutus: Jos vahvempaa, kuun vaikutus merien vuorovesiin, ilmakehään ja maapallon pyörimisnopeuteen olisi liian vahva. Jos heikompaa, akselikallistuman muutokset johtaisivat ilmakehän epävakauteen, ravinteiden kulku mantereilta mereen (ja toisinpäin) olisi riittämätöntä, sekä magneettikenttä olisi liian heikko.
+1. Ilmakehän paine: Jos pienempi, nestemäinen vesi höyrystyisi liian helposti ja tiivistyisi liian harvoin. Jos suurempi, nestemäinen vesi ei höyrystyisi riittävän helposti maaeläimille, liian vähän valoa pääsisi maapallon pinnalle.
+1. Ilmakehän läpinäkyvyys: Jos pienempi, liian pieni aallonpituusalue pääsisi läpi pinnalle. Jos suurempi, liian monenlaista säteilyä pääsisi pinnalle.
 
 ### Aurinkokunta
-#Auringon massa: Jos suurempi, auringon valoteho muuttuisi liian nopeasti ja aurinko palaisi liian nopeasti. Jos pienempi, elämän sallima etäisyyskaista olisi liian pieni ja vuorovesivoima pysäyttäisi maapallon pyörimisen.
-#Auringon väri: Jos punaisempi tai sinisempi, fotosynteesi olisi tehotonta.
-#Jupiterin etäisyys ja massa: Jos etäisyys suurempi tai massa pienempi, maapalloon osuisi liikaa asteroideja. Jos etäisyys pienempi tai massa suurempi, maapallon kiertorata tulisi epävakaaksi.
-#Suurten planeettojen ratojen epäkeskisyydet: Jos suurempi, maapallon rata kulkisi pois elämän vaatimalta alueelta.
+1. Auringon massa: Jos suurempi, auringon valoteho muuttuisi liian nopeasti ja aurinko palaisi liian nopeasti. Jos pienempi, elämän sallima etäisyyskaista olisi liian pieni ja vuorovesivoima pysäyttäisi maapallon pyörimisen.
+1. Auringon väri: Jos punaisempi tai sinisempi, fotosynteesi olisi tehotonta.
+1. Jupiterin etäisyys ja massa: Jos etäisyys suurempi tai massa pienempi, maapalloon osuisi liikaa asteroideja. Jos etäisyys pienempi tai massa suurempi, maapallon kiertorata tulisi epävakaaksi.
+1. Suurten planeettojen ratojen epäkeskisyydet: Jos suurempi, maapallon rata kulkisi pois elämän vaatimalta alueelta.
 
 ### Sijainti galaksissa
 
 *Kuva: Linnunrata. Galaksimme kaunis kaksikätinen muoto ja aurinkomme sijainti siinä.*
 
-#Auringon etäisyys galaksimme keskipisteestä: Jos kauempana, liian vähän painavampia alkuaineita kiviplaneettaa varten. Jos lähempänä, säteilytaso olisi liian korkea ja aurinkojen tiheys tuottaisi häiriöitä planeettojen kiertoratoihin. Tämä määrittelee galaksin asuttavan alueen.
-#Aurinkokuntamme tekee vain pientä liikettä galaksimme tasosta ylös tai alas. Suurin osa tähdistä liikkuu kauemmas tasosta jossa niiden planeetat saavat liikaa säteilyä [^2].
-#Edes galaksin asuttavalla alueella mikä tahansa paikka ei käy, sillä spiraaligalaksin tiheät kädet, jättimäiset tähdet, tähtiklusterit, tiheät mokelylaariset pilvet, sekä nuoret supernovien jäänteet lähettävät tappavaa säteilyä, aiheuttavat vakavia pölymyrskyjä tai aiheuttavat häiriöitä kiertoratoihin.
-#Spiraaligalaksin spiraalirakenne pyörii eri tietyllä nopeudella mutta tähdet ja niiden planeetat pyörivät galaksin ympäri nopeudella joka vähenee kauemmas mentäessä. Näin siis suurin osa tähdistä joutuu vaarallisten spiraalikäsien sisään tasaisin väliajoin. Onneksi aurinkokuntamme on etäisyydellä, jossa spiraaligalaksin tiheysvaihtelut pyörivät lähes samalla nopeudella kuin aurinkokuntamme. Täysin sama nopeus ei saa olla, koska tämä johtaisi vaaralliseen resonanssiin, joka potkaisisi aurinkokuntamme pois asuttavalta vyöhykkeeltä.
-#Galaksin tulee olla sellainen, että asuttava alue osuu yo. myötäpyörimis-alueeseen. Yleensä näin ei ole mutta linnunradassa näin on.
+1. Auringon etäisyys galaksimme keskipisteestä: Jos kauempana, liian vähän painavampia alkuaineita kiviplaneettaa varten. Jos lähempänä, säteilytaso olisi liian korkea ja aurinkojen tiheys tuottaisi häiriöitä planeettojen kiertoratoihin. Tämä määrittelee galaksin asuttavan alueen.
+1. Aurinkokuntamme tekee vain pientä liikettä galaksimme tasosta ylös tai alas. Suurin osa tähdistä liikkuu kauemmas tasosta jossa niiden planeetat saavat liikaa säteilyä [^2].
+1. Edes galaksin asuttavalla alueella mikä tahansa paikka ei käy, sillä spiraaligalaksin tiheät kädet, jättimäiset tähdet, tähtiklusterit, tiheät mokelylaariset pilvet, sekä nuoret supernovien jäänteet lähettävät tappavaa säteilyä, aiheuttavat vakavia pölymyrskyjä tai aiheuttavat häiriöitä kiertoratoihin.
+1. Spiraaligalaksin spiraalirakenne pyörii eri tietyllä nopeudella mutta tähdet ja niiden planeetat pyörivät galaksin ympäri nopeudella joka vähenee kauemmas mentäessä. Näin siis suurin osa tähdistä joutuu vaarallisten spiraalikäsien sisään tasaisin väliajoin. Onneksi aurinkokuntamme on etäisyydellä, jossa spiraaligalaksin tiheysvaihtelut pyörivät lähes samalla nopeudella kuin aurinkokuntamme. Täysin sama nopeus ei saa olla, koska tämä johtaisi vaaralliseen resonanssiin, joka potkaisisi aurinkokuntamme pois asuttavalta vyöhykkeeltä.
+1. Galaksin tulee olla sellainen, että asuttava alue osuu yo. myötäpyörimis-alueeseen. Yleensä näin ei ole mutta linnunradassa näin on.
 
 ### Galaksimme sijainti
-#Suurin osa galakseista sijaitsee suurissa ja tiheissä galaksijoukoissa, joissa naapureina on jättimäisiä galakseja. Nämä antavat ympäristöönsä tappavaa säteilyä. Niiden ja tuhansien niihin liittyvien galaksien painovoima vääristää klusterien galaksien rakennetta. Monimutkainen elämä ei ole mahdollista tällaisissa joukoissa. Oma Linnunrata-galaksimme sijaitsee pienessä noin neljänkymmenen galaksin ryhmässä, joista kaksi ovat keskikokoisia (Andromeda ja Linnunrata) ja loput pieniä tai kääpiöitä. Galaksit ovat paikallisessa galaksiryhmässäkin riittävän etäällä toisistaan ettei linnunradan rakenne häiriinny mutta samaan aikaa kääpiögalakseja on riittävästi jotta galaksimme spiraalirakenne säilyy (rakenne tarvitsee kaasua ja pölyä kääpiögalakseista).
-#Paikallinen galaksiryhmämme sijaitsee Virgo superjoukon laidalla. Jos se olisi keskemmällä, suuremmat galaksijoukot häiritsisivät paikallisryhmää tai nielaisisivat sen.
+1. Suurin osa galakseista sijaitsee suurissa ja tiheissä galaksijoukoissa, joissa naapureina on jättimäisiä galakseja. Nämä antavat ympäristöönsä tappavaa säteilyä. Niiden ja tuhansien niihin liittyvien galaksien painovoima vääristää klusterien galaksien rakennetta. Monimutkainen elämä ei ole mahdollista tällaisissa joukoissa. Oma Linnunrata-galaksimme sijaitsee pienessä noin neljänkymmenen galaksin ryhmässä, joista kaksi ovat keskikokoisia (Andromeda ja Linnunrata) ja loput pieniä tai kääpiöitä. Galaksit ovat paikallisessa galaksiryhmässäkin riittävän etäällä toisistaan ettei linnunradan rakenne häiriinny mutta samaan aikaa kääpiögalakseja on riittävästi jotta galaksimme spiraalirakenne säilyy (rakenne tarvitsee kaasua ja pölyä kääpiögalakseista).
+1. Paikallinen galaksiryhmämme sijaitsee Virgo superjoukon laidalla. Jos se olisi keskemmällä, suuremmat galaksijoukot häiritsisivät paikallisryhmää tai nielaisisivat sen.
 
 ### Katso myös
 *[The Privileged Planet](the-privileged-planet-kirja.md) -kirja ja DVD

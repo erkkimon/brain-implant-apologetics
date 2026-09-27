@@ -4,7 +4,7 @@ about: apologetics
 title: "Argumentum ad hominem"
 description: "Ad hominem eli henkilöä vastaan hyökkääminen tarkoittaa hyökkäämistä väitteen sijaan väitteen esittäjää vastaan, esimerkiksi näin: Koska Pecca näyttää kommunistilta tms., hänen puheistaan ei tarvitse välittää."
 tags: [apowiki, argumentointi]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Argumentum ad hominem".
@@ -36,7 +36,7 @@ Mauri kuuluu ev. lut. -kirkkoon. Hän kävelee kaupungilla ja repii kaikilta vas
 
 Jos nyt joku haluaisi kritisoida kristinuskoa Maurin tapauksella ratsastaen, hänen siis tulisi kyetä osoittamaan, että kristinusko sallii Maurin toiminnan. Jos taas ateismia kritisoidessa halutaan ratsastaa jonkun ateismia tunnustavan sekoiluilla, on kyettävä osoittamaan sekoilun rationaalisuus suhteessa ateismiin.
 
-Esimerkiksi [John Lennox](john-lennox.md) totesi [Richard Dawkins](richard-dawkins.md)ille seuraavasti; "Oletan, että olisit aivan oikeutetusti loukkaantunut, jos väittäisin, että vain siksi koska sinä ja [Stalin](https://fi.wikipedia.org/wiki/Josif_Stalin) olette ateisteja, olisit hyväksynyt miljoonien säälimättömän surmaamisen. Odotat aivan oikeutetusti minun erottelevan ateistien välillä. Minä haluan, että sinä erottelet uskonnot toisistaan, sillä ne eivät ole yhdenmukaisia. Jotkin tukevat fanatismia, toiset eivät." [^1]
+Esimerkiksi [John Lennox](john-lennox.md) totesi [Richard Dawkinsille](richard-dawkins.md) seuraavasti; "Oletan, että olisit aivan oikeutetusti loukkaantunut, jos väittäisin, että vain siksi koska sinä ja [Stalin](https://fi.wikipedia.org/wiki/Josif_Stalin) olette ateisteja, olisit hyväksynyt miljoonien säälimättömän surmaamisen. Odotat aivan oikeutetusti minun erottelevan ateistien välillä. Minä haluan, että sinä erottelet uskonnot toisistaan, sillä ne eivät ole yhdenmukaisia. Jotkin tukevat fanatismia, toiset eivät." [^1]
 
 ### Ärsyttävät kristityt
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Homoseksuaalisuus"
 description: "Homoseksuaalisuus on seksuaalinen suuntautuminen, jossa yksilön emotionaaliset, eroottiset ja/tai seksuaaliset tunteet kohdistuvat ensisijaisesti omaan sukupuoleen."
 tags: [apowiki, seksuaalietiikka, lukusuositukset]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Homoseksuaalisuus".
@@ -92,7 +92,7 @@ Miesten ja naisten kasvatustavat ja olemus ovat erilaiset. Isäsuhteen on todett
 >
 > — psykologi Virpi Lahtiharju[^37]
 
-Iltalehti uutisoi 8.7.2014, että homoperheiden lapset ovat onnellisempia kuin heteroperheiden lapset.[^39] Tutkimuksessa[^40] ei kuitenkaan käytetty satunnaisotantaa, ja aineisto kerättiin sateenkaariperheiden vanhemmilta, joten tuloksia ei voida pitää luotettavina. Tutkimuksen puolueettomuus vaarantui, sillä sateenkaariperheiden vanhemmat saattoivat antaa tiedostamatta tai jopa tiedostaen väärää tietoa, sillä he epäilemättä ymmärtävät tällaisten tutkimusten poliittisen luonteen. Tämän sijaan esimerkiksi [Allen](douglas-allen.md)in meta-analyysissa[^41] paljastuu, että monissa aiheen tutkimuksissa on virheitä ja puutteita, kuten satunnaisotannan puute. Allen itse teki samalla tutkimuksen välttäen kritisoimiaan asioita. Hänen tulostensa mukaan lapset tarvitsevat sekä isän että äidin, eikä homopari voi heitä korvata.
+Iltalehti uutisoi 8.7.2014, että homoperheiden lapset ovat onnellisempia kuin heteroperheiden lapset.[^39] Tutkimuksessa[^40] ei kuitenkaan käytetty satunnaisotantaa, ja aineisto kerättiin sateenkaariperheiden vanhemmilta, joten tuloksia ei voida pitää luotettavina. Tutkimuksen puolueettomuus vaarantui, sillä sateenkaariperheiden vanhemmat saattoivat antaa tiedostamatta tai jopa tiedostaen väärää tietoa, sillä he epäilemättä ymmärtävät tällaisten tutkimusten poliittisen luonteen. Tämän sijaan esimerkiksi [Allenin](douglas-allen.md) meta-analyysissa[^41] paljastuu, että monissa aiheen tutkimuksissa on virheitä ja puutteita, kuten satunnaisotannan puute. Allen itse teki samalla tutkimuksen välttäen kritisoimiaan asioita. Hänen tulostensa mukaan lapset tarvitsevat sekä isän että äidin, eikä homopari voi heitä korvata.
 
 ##### Sateenkaariperheiden lasten kokemuksia
 
@@ -168,18 +168,18 @@ Argumentti voidaan esittää myös esimerkiksi muodossa: "Jos kaksi aikuista ihm
 
 Raamattu kieltää homoseksin systemaattisesti.[^62] Jumala on ihmisiä rakastava rationaalinen olento, joten kristitty voi olettaa, että Jumalalla on ollut **järkisyitä** Raamatun homoseksuaalisuuteen liittyviin kannanottoihin, ja tällaisia syitä esitelläänkin tässä artikkelissa. Homoseksi on siksi Raamatun arvomaailmaan uskovan kristityn mielestä kiellettyä siinä missä monet muutkin synnit, kuten kateus, ylpeys, alkoholin liikakäyttö, pornografian katseleminen, aiheeton väkivalta, avioliitto useamman kumppanin kanssa tai vaikkapa eläimiin sekaantuminen, vaikka näillä on tietysti aste-eroja. On kuitenkin täysin selvää, että jokainen on joskus syyllistynyt Raamatussa kiellettyihin asioihin. Eri ihmisillä on luonteensa ja henkilöhistoriansa takia alttius eri synteihin. Jollakulla on taipumus väkivaltaiseen käyttäytymiseen, jollakulla valehteluun, jollakulla kateuteen ja jollakulla homoseksuaaliseen käyttäytymiseen. Teologian maisterin ja entisen homoseksuaalin[^63] Ari Puonnin mukaan kristilliset seurakunnat ovat tehneet väärin siinä, että ne ovat heijastaneet jokaisessa ihmisessä asuvan pahuuden johonkin "erityisen syntiseen" ryhmään ja homot ovat olleet projektiolle yleinen kohde.[^64] Synnin saa anteeksi ja meidän tulee välittää ihmisestä ja osoittaa hänelle kunnioitusta vaikka hän tekisikin syntiä. Seurakunta on syntisten sairaala, mutta itse synti ei ole hyvä asia.
 
-Raamatussa ei mainita sanaa avioliitto, mutta avioliitosta kuitenkin puhutaan miehen ja naisen välisenä ( (1. Moos. 2:24),  (Mark. 10:7-8) ja  (Ef. 5:31)). Raamatussa esiintyy yksiavioisuuden lisäksi myös moniavioisuutta, mutta missään kohdassa sitä ei puolusteta. Vanhassa testamentissa kuningasta kielletään ottamasta monta vaimoa ( (5. Moos. 17:17)). Uudessa testamentissa seurakunnan kaitsijalta edellytetään yksiavioisuutta ( (1. Tim. 3:2) ja  (Tit.1:6)). Raamatun kanta moniavioisuuteen on siis ennemmin kielteinen kuin myönteinen.
+Raamatussa ei mainita sanaa avioliitto, mutta avioliitosta kuitenkin puhutaan miehen ja naisen välisenä ( ([1. Moos. 2:24](../books/gen.md)),  ([Mark. 10:7-8](../books/mrk.md)) ja  ([Ef. 5:31](../books/eph.md))). Raamatussa esiintyy yksiavioisuuden lisäksi myös moniavioisuutta, mutta missään kohdassa sitä ei puolusteta. Vanhassa testamentissa kuningasta kielletään ottamasta monta vaimoa ( ([5. Moos. 17:17](../books/deu.md))). Uudessa testamentissa seurakunnan kaitsijalta edellytetään yksiavioisuutta ( ([1. Tim. 3:2](../books/1ti.md)) ja  ([Tit.1:6](../books/tit.md))). Raamatun kanta moniavioisuuteen on siis ennemmin kielteinen kuin myönteinen.
 
 #### Vanha testamentti
 ##### Käskeekö Raamattu tappamaan homoseksiä harjoittaneet?
-Vanhassa testamentissa suhtautuminen ( (3. Moos. 18:22)) miesten kanssa makaaviin miehiin vaikuttaa ankaralta, sillä näin toimiville on säädetty kuolemanrangaistus ( (3. Moos. 20:13)), joka tosin ei ole enää nykyään käytännössä voimassa Jeesuksen julistaman uuden liiton ( (Luuk. 22:20)) ansiosta, sillä Jeesuksen sovitustyö tekee Häneen uskovasta syntisestä ihmisestä Jumalle kelpaavan niin, että kuolemanrangaistus on tarpeeton (vrt.  (Joh. 8:2-11)). Kristityt eivät siis voi oikeuttaa kuolemanrangaistuksia Raamatulla, sillä kaikki syntiset ovat potentiaalisia kristittyjä.
+Vanhassa testamentissa suhtautuminen ( ([3. Moos. 18:22](../books/lev.md))) miesten kanssa makaaviin miehiin vaikuttaa ankaralta, sillä näin toimiville on säädetty kuolemanrangaistus ( ([3. Moos. 20:13](../books/lev.md))), joka tosin ei ole enää nykyään käytännössä voimassa Jeesuksen julistaman uuden liiton ( ([Luuk. 22:20](../books/luk.md))) ansiosta, sillä Jeesuksen sovitustyö tekee Häneen uskovasta syntisestä ihmisestä Jumalle kelpaavan niin, että kuolemanrangaistus on tarpeeton (vrt.  ([Joh. 8:2-11](../books/jhn.md))). Kristityt eivät siis voi oikeuttaa kuolemanrangaistuksia Raamatulla, sillä kaikki syntiset ovat potentiaalisia kristittyjä.
 
 #### Uusi testamentti
 ##### Tuomitsiko Paavali vain pederastiset poika-mies -suhteet?
 
 Homoseksuaalisuuden siunaamista on puolusteltu muun muassa sillä, ettei apostoli Paavali tuntenut tasa-arvoisia homosuhteita, vaan ainoastaan pederastiasuhteita, joissa vanhempi mies piti nuorempaa poikaa rakastajanaan. Paavali mainitsee 1. Korinttilaiskirjeessä homoseksin yhteydessä kaksi kreikan sanaa: *arsenekoites* ja *malakoi* (monikkomuodot).
 
-> (1. Kor 6:9-11): *ē ouk oidate oti adikoi theou basileian ou klēronomēsousin mē planasthe oute **pornoi** oute eidōlolatrai oute moichoi oute **malakoi oute arsenokoitai** oute kleptai oute pleonektai ou methusoi ou loidoroi ouch arpages basileian theou klēronomēsousin kai tauta tines ēte alla apelousasthe alla ēgiasthēte alla edikaiōthēte en tō onomati tou kuriou [ēmōn] iēsou christou kai en tō pneumati tou theou ēmōn*
+> ([1. Kor 6:9-11](../books/1co.md)): *ē ouk oidate oti adikoi theou basileian ou klēronomēsousin mē planasthe oute **pornoi** oute eidōlolatrai oute moichoi oute **malakoi oute arsenokoitai** oute kleptai oute pleonektai ou methusoi ou loidoroi ouch arpages basileian theou klēronomēsousin kai tauta tines ēte alla apelousasthe alla ēgiasthēte alla edikaiōthēte en tō onomati tou kuriou [ēmōn] iēsou christou kai en tō pneumati tou theou ēmōn*
 >
 
 >
@@ -187,14 +187,14 @@ Homoseksuaalisuuden siunaamista on puolusteltu muun muassa sillä, ettei apostol
 
 *Arsenekoites* tarkoittaa miehen kanssa makaavaa miestä. Sanaa ei löydy kreikkalaisesta kirjallisuudesta ennen Paavalia ja David F. Wright mukaan[^65] se onkin johdettu Septuagintan pohjalta homoseksin kieltävistä Mooseksen kirjan jakeista:
 
-> (3. Moos.18:22): *kai meta **arsenos** ou koimethese **koiten** gynaikos*
+> ([3. Moos.18:22](../books/lev.md)): *kai meta **arsenos** ou koimethese **koiten** gynaikos*
 >
  'Älä makaa miehen kanssa niin kuin naisen kanssa maataan...'
 >
 
 >
 
->  (3. Moos.20:13): *kai hos an koimethe meta **arsenos koiten** gynaikos*
+>  ([3. Moos.20:13](../books/lev.md)): *kai hos an koimethe meta **arsenos koiten** gynaikos*
 >
 
 > 'Jos mies makaa miehen kanssa niin kuin naisen kanssa maataan...'
@@ -205,7 +205,7 @@ Mikäli Paavali olisi halunnut korostaa tuomitsevansa vain poika-mies -suhteet, 
 
 Jo aiemmin mainittu raamatunkohta voidaan tulkita niin, että Paavali tunnusti mahdollisuuden homoseksuaalin eheytymiseen:
 
-> (1. Kor. 6:9-11) Ettekö tiedä, että vääryydentekijät eivät saa omakseen Jumalan valtakuntaa? Älkää eksykö! Jumalan valtakunnan perillisiä eivät ole siveettömyyden harjoittajat eivätkä epäjumalien palvelijat, eivät avionrikkojat, eivät **miesten kanssa makaavat miehet**, eivät varkaat eivätkä ahneet, eivät juomarit, pilkkaajat eivätkä riistäjät. **Tällaisia jotkut teistä olivat ennen**, mutta nyt teidät on pesty puhtaiksi ja tehty pyhiksi ja vanhurskaiksi Herran Jeesuksen Kristuksen nimessä ja Jumalamme Hengen voimasta.
+> ([1. Kor. 6:9-11](../books/1co.md)) Ettekö tiedä, että vääryydentekijät eivät saa omakseen Jumalan valtakuntaa? Älkää eksykö! Jumalan valtakunnan perillisiä eivät ole siveettömyyden harjoittajat eivätkä epäjumalien palvelijat, eivät avionrikkojat, eivät **miesten kanssa makaavat miehet**, eivät varkaat eivätkä ahneet, eivät juomarit, pilkkaajat eivätkä riistäjät. **Tällaisia jotkut teistä olivat ennen**, mutta nyt teidät on pesty puhtaiksi ja tehty pyhiksi ja vanhurskaiksi Herran Jeesuksen Kristuksen nimessä ja Jumalamme Hengen voimasta.
 
 ### Eheytymiskokemukset
 Eheytymiskokemus tarkoittaa homoseksuaalisuuden muuttumista heteroseksuaalisuudeksi hyvänä, eheyttävänä kokemuksena; tosin joissakin tapauksissa seksuaalinen kiinnostus omaa sukupuolta kohtaan ei ole täysin hävinnyt. Jopa **Setan** mukaan seksuaalisuus voi muuttua.[^66]

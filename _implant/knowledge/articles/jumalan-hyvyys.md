@@ -4,7 +4,7 @@ about: apologetics
 title: "Jumalan hyvyys"
 description: "Raamatun mukaan vain Jumala on hyvä. Jumalan hyvyys on usein kyseenalaistettu, mutta Jumalan hyvyydellä ei ole mitään tekemistä Jumalan olemassaolon kanssa."
 tags: [apowiki, jumala, etiikka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jumalan hyvyys".
@@ -44,5 +44,5 @@ Jatkakaamme kuitenkin tarinaa. Rollaattori jatkaa matkaansa risteykseen, jossa r
 
   1. Viitteet
 
-[^1]: (Mark. 10:18)
+[^1]: ([Mark. 10:18](../books/mrk.md))
 [^2]: [Jumala ei ole kiva -argumentti](jumala-ei-ole-kiva-argumentti.md)

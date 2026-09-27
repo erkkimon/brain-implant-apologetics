@@ -4,7 +4,7 @@ about: apologetics
 title: "Kristillinen seksuaalietiikka"
 description: "Raamatun seksuaalietiikan ytimessä on ajatus, että ihminen on luotu Jumalan kuvaksi, naiseksi ja mieheksi."
 tags: [apowiki, seksuaalietiikka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kristillinen seksuaalietiikka".
@@ -31,7 +31,7 @@ Kun seksuaalinen suuntautuminen määritellään ihmisen identiteetin perustaksi
 Seksuaalisen suuntautumisen yhteydessä erotetaan yleensä kolme tasoa: halu, käyttäytyminen ja identiteetti. Ihmiset voivat hallita näitä eri tasoja eri tavoilla. Identiteetin määrittely on kaikkein selkeimmin ihmisen hallittavissa. Käyttäytyminen ei seuraa suoraan haluista, koska ihminen voi toimia halujensa vastaisesti. Haluihinkin on mahdollista vaikuttaa useilla eri tavoilla, vaikka niihin vaikuttaminen voi olla pitkäaikainen ja monimutkainen prosessi. Jos ihminen vapautetaan näissä suhteissa vastuusta, hän myös menettää tietoisuuden vapaudestaan.
 
 ### Esiaviollinen seksi
-Raamatun mukaan seksin harrastaminen kuuluu avioliittoon ( (Sananl. 5:15-19),  (5. Moos. 22:13-30),  (3. Moos. 20:10),  (2. Moos. 20:14),  (2. Moos. 22:16-17)). Seksin säästäminen avioliittoon ehkäisee tehokkaasti sukupuolitautien leviämistä ja ei-toivottuja raskauksia. On havaittu, että esiaviollisesta seksistä pidättyminen vahvistaa avioliittoa,[^1][^2] mikä saattaa selittyä sillä, että "seksin aloittaminen suhteen alkuvaiheessa saattaa johtaa siihen, että ihmiset ikään kuin liukuvat suhteeseen sen sijaan, että pohtisivat suhteen aloittamista syvällisemmin"[^2], jolloin esiaviollinen seksi lähentää suhteen osapuolia toisiinsa liian aikaisin verrattuna Raamatun mukaan toimimiseen eli seksin säästämiseen avioliittoon. Lisäksi voidaan olettaa, että seksin säästäminen avioliittoon edistää uskollisuutta parisuhteessa, sillä seksin avioliittoon säästävällä henkilöillä on keskimäärin vähemmän[^3] seksikokemuksia kuin muilla, mikä ehkäisee[^4] pettämistä varsinkin silloin, kun aviopuolisoiden seksielämässä on ongelmia.
+Raamatun mukaan seksin harrastaminen kuuluu avioliittoon ( ([Sananl. 5:15-19](../books/pro.md)),  ([5. Moos. 22:13-30](../books/deu.md)),  ([3. Moos. 20:10](../books/lev.md)),  ([2. Moos. 20:14](../books/exo.md)),  ([2. Moos. 22:16-17](../books/exo.md))). Seksin säästäminen avioliittoon ehkäisee tehokkaasti sukupuolitautien leviämistä ja ei-toivottuja raskauksia. On havaittu, että esiaviollisesta seksistä pidättyminen vahvistaa avioliittoa,[^1][^2] mikä saattaa selittyä sillä, että "seksin aloittaminen suhteen alkuvaiheessa saattaa johtaa siihen, että ihmiset ikään kuin liukuvat suhteeseen sen sijaan, että pohtisivat suhteen aloittamista syvällisemmin"[^2], jolloin esiaviollinen seksi lähentää suhteen osapuolia toisiinsa liian aikaisin verrattuna Raamatun mukaan toimimiseen eli seksin säästämiseen avioliittoon. Lisäksi voidaan olettaa, että seksin säästäminen avioliittoon edistää uskollisuutta parisuhteessa, sillä seksin avioliittoon säästävällä henkilöillä on keskimäärin vähemmän[^3] seksikokemuksia kuin muilla, mikä ehkäisee[^4] pettämistä varsinkin silloin, kun aviopuolisoiden seksielämässä on ongelmia.
 
 ### Avoliitto
 Avoliittoa ei voida pitää kristillisenä parisuhteen muotona, sillä siihen tyypillisesti kuuluu esiaviollinen seksi tai ainakin se on omiaan houkuttelemaan tämän harrastamiseen. Suomessa tapahtuu avoeroja vuosittain kahdesta kolmeen kertaan enemmän kuin avioeroja, vaikka avioliitossa elää moninkertaisesti enemmän ihmisiä kuin avoliitossa.[^5]

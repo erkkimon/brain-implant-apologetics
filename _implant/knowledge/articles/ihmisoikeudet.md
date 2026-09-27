@@ -4,7 +4,7 @@ about: apologetics
 title: "Ihmisoikeudet"
 description: "Ihmisoikeudet ovat oikeuksia, jotka ihmisellä on pelkästään sillä perusteella, että hän on ihminen."
 tags: [apowiki, ihmisoikeudet]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ihmisoikeudet".
@@ -30,7 +30,7 @@ Tietosanakirja *Geschichtliche Grundbegriffe* toteaa:
 
 > Kristinuskon myötä astuu myöhäisantiikissa esiin kaikkien ihmisten tasa-arvo Jumalan edessä. Tämä saa uuden perustansa Kristuksen lunastustyössä, jolla oli suuri vaikutus varhaisen kristinuskon käsitysmaailmaan.
 
-Kaikki kristityt saivat kasteen Kristuksen kuolemaan. Kasteen valossa heidän yhteiskunnalliset ja rodulliset eronsa menettivät merkityksensä. ”Ja uskovaisten suuressa joukossa oli yksi sydän ja yksi sielu.”  ((Apt. 4:32)). Kristillinen usko ihmisten tasa-arvoon muutti lopulta yhteiskunnan rakenteet.
+Kaikki kristityt saivat kasteen Kristuksen kuolemaan. Kasteen valossa heidän yhteiskunnalliset ja rodulliset eronsa menettivät merkityksensä. ”Ja uskovaisten suuressa joukossa oli yksi sydän ja yksi sielu.”  ([(Apt. 4:32)](../books/act.md)). Kristillinen usko ihmisten tasa-arvoon muutti lopulta yhteiskunnan rakenteet.
 
 Kristillinen puhuja **Laktantius** (k. 317) kirjoittaa:
 
@@ -44,9 +44,9 @@ Yleisen väärinkäsityksen mukaan ehdottomien ihmisoikeuksien perusta luotiin v
 
 ### Ihmisoikeuksien perusta: ihminen luotu Jumalan kuvaksi
 
-Filosofi **[Peter van Inwagen](peter-van-inwagen.md)in**[^4] mukaan yksi tärkeä todiste kristinuskon totuudesta on se, että kristinuskon hedelmänä syntyi maailmankatsomuksellinen viitekehys ja perusta demokraattiselle yhteiskunnalle, jossa vaikuttaa kaikkia ihmisiä yhtäläisesti koskeva oikeusjärjestys ja ehdottomat ihmisoikeudet.
+Filosofi **[Peter van Inwagenin](peter-van-inwagen.md)**[^4] mukaan yksi tärkeä todiste kristinuskon totuudesta on se, että kristinuskon hedelmänä syntyi maailmankatsomuksellinen viitekehys ja perusta demokraattiselle yhteiskunnalle, jossa vaikuttaa kaikkia ihmisiä yhtäläisesti koskeva oikeusjärjestys ja ehdottomat ihmisoikeudet.
 
-Kristinuskon opetus luomisesta, syntiinlankeemuksesta ja lunastuksesta loi perustan ihmisten tasa-arvolle, ehdottomalle ihmisarvolle ja ehdottomille ihmisoikeuksille. Luomisopin mukaan ihminen on Jumalan kuvaksi ja kaltaiseksi luotu olento, jolla on ehdoton ihmisarvo riippumatta ominaisuuksistaan. Tästä seuraa velvollisuus suojella ihmiselämää: ”Joka ihmisen veren vuodattaa, hänen verensä on ihminen vuodattava, sillä omaksi kuvakseen Jumala loi ihmisen.”  (1. Moos. 9:6)
+Kristinuskon opetus luomisesta, syntiinlankeemuksesta ja lunastuksesta loi perustan ihmisten tasa-arvolle, ehdottomalle ihmisarvolle ja ehdottomille ihmisoikeuksille. Luomisopin mukaan ihminen on Jumalan kuvaksi ja kaltaiseksi luotu olento, jolla on ehdoton ihmisarvo riippumatta ominaisuuksistaan. Tästä seuraa velvollisuus suojella ihmiselämää: ”Joka ihmisen veren vuodattaa, hänen verensä on ihminen vuodattava, sillä omaksi kuvakseen Jumala loi ihmisen.”  ([1. Moos. 9:6](../books/gen.md))
 
 Kirkollinen oikeusoppinut **Burchard Wormsilainen** (k. 1025) katsoi kaikkien ihmisten olevan Jumalan kuvaksi luotuja riippumatta uskonnostaan. Joka ihmisen ”tappaa, on tuhonnut Jumalan kuvan ja toivon hänen tulevasta kääntymisestään”. **Gregorius IX** (k. 1241) vaati oikeudenmukaista kohtelua myös juutalaisille, koska ”heissä on Lunastajan kuva ja he ovat kaikkeuden Luojan luomuksia”. Uutta maailmaa koskevassa espanjalaisessa keskustelussa **Francisco de Vitoria** (k. 1546) puolusti intiaanien itsemääräämisoikeutta vetoamalla siihen, että heidät on luotu Jumalan kuvaksi eikä pakanuus tai kuolemansynti voi poistaa ehdotonta ihmisarvoa.[^5]
 

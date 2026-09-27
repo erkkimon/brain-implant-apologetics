@@ -4,7 +4,7 @@ about: apologetics
 title: "Tiedekeskustelun avoimuuskoe (kirja)"
 description: "Tiedekeskustelun avoimuuskoe on Tapio Puolimatkan kirjoittama kirja, joka analysoi tieteellisen tutkimuksen ja itsekriittisen tiedeyhteisön perusedellytyksiä."
 tags: [apowiki, kirjat, tapio-puolimatka, tieteenfilosofia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tiedekeskustelun avoimuuskoe (kirja)".
@@ -30,7 +30,7 @@ Kirjassa etsitään vastausta seuraaviin kysymyksiin:
 
 ### Ote kirjan esipuheesta
 
-Kirjan lähtökohtana on yhteiskuntakoe, ”tiedekeskustelun avoimuuskoe”, jonka tein kirjoittamalla Vieraskynä-artikkelin Helsingin Sanomiin. Siinä esittelin [New Yorkin yliopisto](https://fi.wikipedia.org/wiki/New_Yorkin_yliopisto)n filosofian professorin **[Thomas Nagel](thomas-nagel.md)**in ajatuksen, että tieteellinen tutkimus ja tieteellisten tosiasioiden tulkinta pohjautuu aina perimmältään uskonnolliseen lähtökohtaan, joka sisältää kannanoton Jumalaan. Kuitenkin tämä uskonnollinen kannanotto usein salataan, koska akateeminen maailma pyrkii torjumaan ajatuksen, että on olemassa koko maailmankaikkeutta hallitseva auktoriteetti, joka määrää myös ihmisen elämästä.
+Kirjan lähtökohtana on yhteiskuntakoe, ”tiedekeskustelun avoimuuskoe”, jonka tein kirjoittamalla Vieraskynä-artikkelin Helsingin Sanomiin. Siinä esittelin [New Yorkin yliopiston](https://fi.wikipedia.org/wiki/New_Yorkin_yliopisto) filosofian professorin **[Thomas Nagel](thomas-nagel.md)**in ajatuksen, että tieteellinen tutkimus ja tieteellisten tosiasioiden tulkinta pohjautuu aina perimmältään uskonnolliseen lähtökohtaan, joka sisältää kannanoton Jumalaan. Kuitenkin tämä uskonnollinen kannanotto usein salataan, koska akateeminen maailma pyrkii torjumaan ajatuksen, että on olemassa koko maailmankaikkeutta hallitseva auktoriteetti, joka määrää myös ihmisen elämästä.
 
 Puolustin tätä keskeistä ajatusta julkisissa väittelyissä eri yliopistoissa ateistien, agnostikkojen, uskonnottomien kuten myös kristittyjen tieteentekijöiden ja filosofien kanssa. Jokainen näistä väittelyistä oli tärkeä oppimiskokemus, vaikka joukossa oli sellaisiakin, joissa tunteenomainen retoriikka paljolti peitti alleen järkiperustelut. Käyn kirjassa läpi myös väittelyissä esiin nostettuja argumentteja ja mielikuvia. Joitakin linkkejä näihin keskusteluihin löytyy kotisivuiltani [www.tapiopuolimatka.net](http://www.tapiopuolimatka.net).
 
@@ -56,7 +56,7 @@ Tieteen itsekriittisyys edellyttää, että tieteentekijät altistavat omat peru
 
 ### Ote kirjan johdannosta
 
-[Kuopion yliopisto](https://fi.wikipedia.org/wiki/Kuopion_yliopisto)n Mediteknian auditorion 250 paikkaa eivät riittäneet, vaan opiskelijat täyttivät myös portaat ja seinänvierustat. Opiskelijoiden kiinnostuksen herätti väittely uskon ja tieteen suhteesta, jossa paikkakunnan suorapuheisin ateisti haastoi vierailevan kristityn filosofin ajatukset.
+[Kuopion yliopiston](https://fi.wikipedia.org/wiki/Kuopion_yliopisto) Mediteknian auditorion 250 paikkaa eivät riittäneet, vaan opiskelijat täyttivät myös portaat ja seinänvierustat. Opiskelijoiden kiinnostuksen herätti väittely uskon ja tieteen suhteesta, jossa paikkakunnan suorapuheisin ateisti haastoi vierailevan kristityn filosofin ajatukset.
 
 Pidin itse tilaisuuden aluksi esitelmän, jossa puolustin väitettä, että tutkimusta tehdessään tieteentekijä joutuu aina välttämättä ottamaan kantaa Jumalaan joko tietoisesti tai tietämättään. Kannanotto Jumalan olemassaoloon koskettaa kysymystä maailmankaikkeuden alkuperästä, sen perimmäisestä järjestyksestä ja sen yhtenäisyyden perustasta. Näihin kysymyksiin annettavat vastaukset määräävät tutkimuksen perimmäisen viitekehyksen, jonka valossa yksittäiset tosiasiat tulkitaan. Tieteessä on lähtökohtaoletukset ilmaistava avoimesti. Tämä tekee mahdolliseksi arvioida tutkimuksen lähtökohtana olevien perususkomusten pätevyyttä.
 
@@ -165,7 +165,7 @@ Yhtenä osana tiedekeskustelun avoimuuskoetta kirjoitin [Vieraskynä-artikkelin]
 >
 > Ainoa tapa opettaa biologisia tosiasioita neutraalisti on myöntää, että empiiristä todistusaineistoa voidaan tulkita eri tavoilla ja se voi johtaa erilaisiin päätelmiin riippuen siitä, minkä uskonnollisen oletuksen pohjalta sitä tulkitaan.
 
-[New Yorkin yliopiston](https://fi.wikipedia.org/wiki/New_Yorkin_yliopisto) filosofian professorin **[Thomas Nagel](thomas-nagel.md)in** ajattelu on osa dialogisen pluralismin mukaista tiedekäsitystä, jonka mukaan erilaiset maailmankatsomukset, todellisuus- ja tietokäsitykset kilpailevat toistensa kanssa tieteen kentällä kehittämällä teorioita ja malleja todellisuuden kuvaamiseksi. Kilpailevien tutkimusohjelmien paremmuutta arvioidaan teorioiden selitysvoimalla ja johdonmukaisuudella. Tieteen lähtökohtana on tutkijan näkemys todellisuuden alkuperästä ja perimmäisestä järjestyksestä, ja tieteellisen keskustelun tarkoituksena on haastaa tutkijan usko kehittämällä sille kumoajia eli vasta-argumentteja. Tutkija voi puolustaa uskoaan pyrkimällä kumoamaan uskoaan vastaan esitettyjä vasta-argumentteja, eli kehittämällä kumoajan kumoajia.
+[New Yorkin yliopiston](https://fi.wikipedia.org/wiki/New_Yorkin_yliopisto) filosofian professorin **[Thomas Nagelin](thomas-nagel.md)** ajattelu on osa dialogisen pluralismin mukaista tiedekäsitystä, jonka mukaan erilaiset maailmankatsomukset, todellisuus- ja tietokäsitykset kilpailevat toistensa kanssa tieteen kentällä kehittämällä teorioita ja malleja todellisuuden kuvaamiseksi. Kilpailevien tutkimusohjelmien paremmuutta arvioidaan teorioiden selitysvoimalla ja johdonmukaisuudella. Tieteen lähtökohtana on tutkijan näkemys todellisuuden alkuperästä ja perimmäisestä järjestyksestä, ja tieteellisen keskustelun tarkoituksena on haastaa tutkijan usko kehittämällä sille kumoajia eli vasta-argumentteja. Tutkija voi puolustaa uskoaan pyrkimällä kumoamaan uskoaan vastaan esitettyjä vasta-argumentteja, eli kehittämällä kumoajan kumoajia.
 
 Nagelin ajatusten taustalla on tietoteoreettinen näkemys, jonka mukaan väitteitä ei voida todistaa loppuun saakka. Lopulta on aina tukeuduttava perususkomuksiin, jotka omaksutaan välittömän kokemuksen varassa. Nagelin mukaan kysymys Jumalan olemassaolosta on yksi tällainen välittömään kokemukseen perustuva perususkomus, joka jakaa tutkijoita ja tarjoaa erilaisia lähtökohtia tosiasioiden käsitteellistämiseksi. Perususkomukset voivat olla tiedollisesti perusteltuja, vaikka niitä ei voitaisi todistaa väitelausein ilmaistavilla argumenteilla. Perususkomukset on kuitenkin altistettava kumoajille eli vasta-argumenteille. Nagel kritisoikin sitä, että pyrkimys sulkea teistinen eli jumaluskoon perustuva lähtökohta tieteellisen keskustelun piiristä on epäkriittistä sikäli, että sen avulla naturalistiset perususkomukset suojataan kritiikiltä, mikä on tieteen itsekriittisyyden vastaista.
 

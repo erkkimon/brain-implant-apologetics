@@ -4,7 +4,7 @@ about: apologetics
 title: "Laittomuuden salainen vaikutus (kirja)"
 description: "Laittomuuden salainen vaikutus on Tapio Puolimatkan kirjoittama kirja."
 tags: [apowiki, kirjat]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Laittomuuden salainen vaikutus (kirja)".
@@ -43,58 +43,58 @@ Subjektiiviseen mielentilaan perustuva sukupuolikäsitys (gender) ei siis ole pe
 ### Sisällysluettelo
 
 > ***Esipuhe**
-#**Johdanto**
-#*Laittomuuden salainen vaikutus
-#*Koetun sukupuolen ideologia
-#*Jeesus on kulmakivi
-#*Identiteettipolitiikan uusi uhrikultti
-#*Uskosta luopuminen
-#*Pahuuden liukuportaat
-#*Seksuaalinen rikkomus tienä vapauteen
-#*”Niin kuin oli Lootin päivinä”
-#**Vääryys tunkeutuu seurakuntaan**
-#*Raamatun arvovallan kyseenalaistaminen
-#*Painopiste tunnesyihin
-#*Myötätunto laittomuuden palveluksessa
-#*Tunteisiin vaikuttavien kertomusten voima
-#*Turvallisen tilan identiteettipolitiikka
-#*Uusgnostilainen oppi hengen uudesta aikakaudesta
-#*Uskosta luopuminen johtaa laittomuuteen
-#*Vapaus ja itsemääräämisoikeus vääristellään
-#*Maallistunut käsitys itsemääräämisoikeudesta
-#**Ihmisoikeudet ja niiden vääristely**
-#*Ihmisoikeudet käännetään itseään vastaan
-#*Koetun sukupuolen ideologian suojaaminen kritiikiltä
-#*Uusi sukupuolikasvatus
-#**Harhaanjohtava sukupuoli- ja seksuaalikasvatus**
-#*Koulujen sukupuoli- ja seksuaalikasvatus
-#*Altistuminen seksuaaliselle kaltoinkohtelulle
-#*Liberaali seksuaalikasvatus laittomuuden salaisena vaikutuksena
-#*”Valheen kaikella voimalla”
-#*Tutkimustuloksia harhaanjohtavassa valossa
-#*Vapauksien kaventuminen
-#**Intersektionaalinen tasa-arvokäsitys**
-#*Puhe luo todellisuutta
-#*Poliittis-uskonnollinen ohjelma
-#*Intersektionaalinen seksuaalihierarkia
-#*Kapina Jumalan käskyjä vastaan
-#*Syrjintää tasa-arvon nimissä
-#*Abortin laillistaminen murentaa ihmisoikeusjärjestelmän
-#*Kehollisuuden merkitys kumotaan lainsäädännössä
-#*Oikeusjärjestelmä murenee
-#**Laittomuutta arvojen varjolla**
-#*Kahden käsikirjoituksen strategia
-#*Aborttiliikkeen kaksi kertomusta
-#*Todellisuuden ja kertomusten välinen ristiriita
-#*Natsien tuhoamisohjelman kaksi kertomusta
-#**Moraaliperiaatteiden vääristely**
-#*Vääristelty moraaliperiaate käännetään moraalia vastaan
-#*Massaihmisen luominen
-#*”Pedon merkki”
-#**Kristittyjen vainot**
-#*Uusi pelastusoppi totalitaarisen hallinnan välineenä
-#*Kaksi eri maljaa
-#*Babylonian uskonto
-#*Kristinuskoa solvaava propaganda
-#*Ehdottoman alamaisuuden vaatimus
-#**Lopuksi**
+      * Johdanto**
+   * Laittomuuden salainen vaikutus
+   * Koetun sukupuolen ideologia
+   * Jeesus on kulmakivi
+   * Identiteettipolitiikan uusi uhrikultti
+   * Uskosta luopuminen
+   * Pahuuden liukuportaat
+   * Seksuaalinen rikkomus tienä vapauteen
+   * ”Niin kuin oli Lootin päivinä”
+      * Vääryys tunkeutuu seurakuntaan**
+   * Raamatun arvovallan kyseenalaistaminen
+   * Painopiste tunnesyihin
+   * Myötätunto laittomuuden palveluksessa
+   * Tunteisiin vaikuttavien kertomusten voima
+   * Turvallisen tilan identiteettipolitiikka
+   * Uusgnostilainen oppi hengen uudesta aikakaudesta
+   * Uskosta luopuminen johtaa laittomuuteen
+   * Vapaus ja itsemääräämisoikeus vääristellään
+   * Maallistunut käsitys itsemääräämisoikeudesta
+      * Ihmisoikeudet ja niiden vääristely**
+   * Ihmisoikeudet käännetään itseään vastaan
+   * Koetun sukupuolen ideologian suojaaminen kritiikiltä
+   * Uusi sukupuolikasvatus
+      * Harhaanjohtava sukupuoli- ja seksuaalikasvatus**
+   * Koulujen sukupuoli- ja seksuaalikasvatus
+   * Altistuminen seksuaaliselle kaltoinkohtelulle
+   * Liberaali seksuaalikasvatus laittomuuden salaisena vaikutuksena
+   * ”Valheen kaikella voimalla”
+   * Tutkimustuloksia harhaanjohtavassa valossa
+   * Vapauksien kaventuminen
+      * Intersektionaalinen tasa-arvokäsitys**
+   * Puhe luo todellisuutta
+   * Poliittis-uskonnollinen ohjelma
+   * Intersektionaalinen seksuaalihierarkia
+   * Kapina Jumalan käskyjä vastaan
+   * Syrjintää tasa-arvon nimissä
+   * Abortin laillistaminen murentaa ihmisoikeusjärjestelmän
+   * Kehollisuuden merkitys kumotaan lainsäädännössä
+   * Oikeusjärjestelmä murenee
+      * Laittomuutta arvojen varjolla**
+   * Kahden käsikirjoituksen strategia
+   * Aborttiliikkeen kaksi kertomusta
+   * Todellisuuden ja kertomusten välinen ristiriita
+   * Natsien tuhoamisohjelman kaksi kertomusta
+      * Moraaliperiaatteiden vääristely**
+   * Vääristelty moraaliperiaate käännetään moraalia vastaan
+   * Massaihmisen luominen
+   * ”Pedon merkki”
+      * Kristittyjen vainot**
+   * Uusi pelastusoppi totalitaarisen hallinnan välineenä
+   * Kaksi eri maljaa
+   * Babylonian uskonto
+   * Kristinuskoa solvaava propaganda
+   * Ehdottoman alamaisuuden vaatimus
+      * Lopuksi**

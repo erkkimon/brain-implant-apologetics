@@ -4,7 +4,7 @@ about: apologetics
 title: "Geneettiset orvot"
 description: "Lisääntymisteknologian kehitys on tehnyt monille lapsettomille pareille mahdolliseksi lapsen saamisen."
 tags: [apowiki, seksuaalietiikka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Geneettiset orvot".
@@ -124,7 +124,7 @@ Raamatussa tunnustetaan ja myötäeletään orpojen kokemaa syvää tuskaa ja lu
 
 > Sinä näet kaiken, tuska ja murhe ei jää sinulta huomaamatta. Sinä ojennat kätesi. Sinulle köyhä ja orpo uskovat asiansa, sinä annat avun. − − Sinä hankit oikeuden orvolle ja sorretulle.
 >
-> — (Ps. 10:14)
+> — ([Ps. 10:14](../books/psa.md))
 
 Sukupuolineutraalista näkökulmasta tällaista myötätuntoa on vaikea kokea, koska äidin ja isän erityismerkitystä ei tunnusteta.
 

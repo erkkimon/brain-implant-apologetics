@@ -4,7 +4,7 @@ about: apologetics
 title: "Daniel Nylund: Maailmankatsomuksen tulee olla oikeaksi koettava ja sisäisesti tyydyttävä (Ajankohtainen 3, VI luku)"
 description: "Jos keskivertokansalainen saisi lonkalta esittää laatuvaatimuksensa uskottavalle maailmankatsomukselle, hän luultavasti edellyttäisi, että se tuntuisi hyvältä, olisi tarpeita tyydyttävä ja että sen voisi kokea oikeaksi."
 tags: [apowiki, maailmankatsomus, tekijänoikeuden-alaiset-artikkelit]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Daniel Nylund: Maailmankatsomuksen tulee olla oikeaksi koettava ja sisäisesti tyydyttävä (Ajankohtainen 3, VI luku)".
@@ -53,7 +53,7 @@ Jumalankieltäjä tekee Jumalan surulliseksi mutta kieltäjän epätoivoiseksi. 
 
 Jäljellä oli vain "kaikkein tuskallisin ja sydäntäsärkevin kysymys ja sydän, joka kysyy itseltään: 'Missä minä voin olla kotonani?"[^5] Ei ihme, että hän vanhoilla päivillään valitti sitä sietämätöntä yksinäisyyttä, johon oli joutunut ilman Jumalaa: "Elämäni koostuu nyt toivosta, että asia olisikin toisin, kuin olen sen ymmärtänyt, että joku voisi saada minun 'totuuteni' näyttämään uskomattomalta.”[^6] Koko Nietzschen Jumalan luoma olemus protestoi hänen· valitsemaansa ateismia vastaan, kunnes hänen mielenterveytensä lopullisesti petti ja jäljelle jäi pitkä ja lohduton kuoleman odotus.
 
-Nietzschen maailmankatsomus oli kaikkea muuta kuin subjektiivisesti tyydyttävä. Nobel-kirjailija Samuel Beckett ei ole yhtään sen onnellisempi omastaan, kun hän kuolee: "Miten minä, rajallinen olento, joka olen vangittuna aikaan ja paikkaan, voin vapautua vankilastani, kun minä tiedän (kurs. suom.), että ajan ja paikan ulkopuolella ei ole mitään ja että minäkään en pohjimmiltani ole mitään."[^7] Jotta Beckett todella voisi tietää mitä hän väittää tietävänsä, hänen pitäisi olla Jumala. Beckettin väitteen mieletön surullisuus onkin juuri siinä, että hän julistaa ensin itsensä Jumalaksi (esittämällä väitteen, joka käytännössä edellyttäisi väittäjältä rajatonta ja ikuista tietoa) voidakseen heti sen jälkeen täysin kieltää oman ihmisyytensäkin. Tällaisen väitteen suurin synti ei ole siinä, että se on täysin epälooginen, vaan siinä, että se väittää olemattomaksi sekä Luojan että luodun. Toisaalta se osoittaa, että Jumalan kieltäminen väistämättä johtaa ihmisen kieltämiseen.
+Nietzschen maailmankatsomus oli kaikkea muuta kuin subjektiivisesti tyydyttävä. Nobel-kirjailija Samuel Beckett ei ole yhtään sen onnellisempi omastaan, kun hän kuolee: "Miten minä, rajallinen olento, joka olen vangittuna aikaan ja paikkaan, voin vapautua vankilastani, kun minä tiedän ([kurs.](../glossary/sanasto.md#kursorinen) suom.), että ajan ja paikan ulkopuolella ei ole mitään ja että minäkään en pohjimmiltani ole mitään."[^7] Jotta Beckett todella voisi tietää mitä hän väittää tietävänsä, hänen pitäisi olla Jumala. Beckettin väitteen mieletön surullisuus onkin juuri siinä, että hän julistaa ensin itsensä Jumalaksi (esittämällä väitteen, joka käytännössä edellyttäisi väittäjältä rajatonta ja ikuista tietoa) voidakseen heti sen jälkeen täysin kieltää oman ihmisyytensäkin. Tällaisen väitteen suurin synti ei ole siinä, että se on täysin epälooginen, vaan siinä, että se väittää olemattomaksi sekä Luojan että luodun. Toisaalta se osoittaa, että Jumalan kieltäminen väistämättä johtaa ihmisen kieltämiseen.
 
 Monet lahjakkaat ajattelijat ovat etsineet helpotusta kosmiseen kodittomuuteensa jakamalla sen muiden kanssa - kirjoittamalla kirjoja ja tekemällä näytelmiä, elokuvia ja taideteoksia, joiden avulla muutkin yritetään herättää ymmärtämään ja kokemaan kaiken tyhjyys. Ikäänkuin sokealle annettaisiin näkö vain jotta hän voisi itse todeta, ettei ole mitään näkemistä.
 
@@ -179,9 +179,9 @@ Kristillisen maailmankatsomuksen oikeaksi kokemisen surullinen puoli on se, ett�
 [^10]: Siteerattu Os Guinnesin kirjassa' 'The Dust of Death" . IVP Illinois -75, s. 353.
 [^11]: Siteerattu T.M. Kitwoodin kirjassa "What is Human?" IVP. -70, s. 49.
 [^12]: David Hume, A Treatise of Human Nature. New York, E.P. Patton -56
-[^13]: (Ps. 10:1),  (Ps. 28:1),  (Ps. 85:2)
-[^14]: (Psalmi 40:1-4)
-[^15]: (Jes. 49:23)
+[^13]: ([Ps. 10:1](../books/psa.md)),  ([Ps. 28:1](../books/psa.md)),  ([Ps. 85:2](../books/psa.md))
+[^14]: ([Psalmi 40:1-4](../books/psa.md))
+[^15]: ([Jes. 49:23](../books/isa.md))
 [^16]: D.T. Suzuki, Sengai: The Zen Master
 [^17]: D.T. Suzuki, Studies in Zen. Delta Books, New York -55, s. 73
 [^18]: D.T. Suzuki. Living by Zen. Samuel Weiser, New York -72, s. ISO, 151
@@ -193,4 +193,4 @@ Kristillisen maailmankatsomuksen oikeaksi kokemisen surullinen puoli on se, ett�
 [^24]: S. Kierkegaard, H. Diemin kirjasta "Kierkegaard's theology of Existence". Oliver and Boyd -59, s. 49
 [^25]: Nietzsche, Thus Spoke Zarahustra, kirjassa "The Philosophy of Nietzsche". New York, Modern Library s.267
 [^26]: J.P. Sartre, Words. Penguin -67, ss. 62-65
-[^27]: (4 Moos. 14:34)
+[^27]: ([4 Moos. 14:34](../books/num.md))

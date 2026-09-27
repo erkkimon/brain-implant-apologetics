@@ -4,7 +4,7 @@ about: apologetics
 title: "Perinnöllisen muuntelun mekanismit"
 description: "Perinnöllisen muuntelun mekanismeja ovat muun muassa luonnonvalinta, seksuaalivalinta, mutaatiot) ja migraatio."
 tags: [apowiki, evoluutioteoria]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Perinnöllisen muuntelun mekanismit".
@@ -25,7 +25,7 @@ Perinnöllisen muuntelun mekanismeja ovat muun muassa [luonnonvalinta](https://f
 
 Mutaatioista suurin osa on neutraaleja, toisin sanoen ne eivät johda havaittaviin muutoksiin eliön elonjäämismahdollisuuksissa tai sopivuudessa elinympäristöönsä. Mutaatioista, jotka eivät ole neutraaleja, suurin osa on vahingollisia tai haitallisia. Vain pieni osa on [adaptiivisia](https://fi.wikipedia.org/wiki/adaptaatio) eli sellaisia että ne auttavat eliötä elämään ja lisääntymään elinympäristössään, mutta tämä pieni hyödyllisten mutaatioiden määrä mahdollistaa sopeutumisen.
 
-Useampien eläinten ja kasvien DNA:ssa on suurehko määrä materiaalia, joka ei koodaa proteiineja. Osalla tästä materiaalista ei ole tunnettua geneettistä roolia, mutta osa siitä toimii säätelytehtävissä. Ihmisen tapauksessa tämän proteiineja koodaamattoman ”roska-DNA:n” eli [tilke-DNA](https://fi.wikipedia.org/wiki/tilke-DNA):n osuus on peräti 97 %. Tämä prosenttimäärä vaihtelee suuresti myös toisiaan lähellä olevien lajien välillä. <!---Mutaatiot näissä alueissa ovat aina neutraaleja ja näihin ei kohdistu ns. selektiivistä painetta. Siksi ne ovat sopivia niin sanottuja ”[molekyylikello](https://fi.wikipedia.org/wiki/molekyylikello)ja”, joiden avulla eri lajien geneettiset etäisyydet voidaan mitata. Aina on kuitenkin oltava varovainen. Se, että emme tiedä jonkin DNA-alueen käyttötarkoitusta, ei välttämättä merkitse ettei sellaista olisi olemassa. Viime aikoina on löytynyt esimerkkejä tästä juuri roska-DNA:n joukosta. Silloin molekyylikellon käytön edellytykset eivät täyty.-->
+Useampien eläinten ja kasvien DNA:ssa on suurehko määrä materiaalia, joka ei koodaa proteiineja. Osalla tästä materiaalista ei ole tunnettua geneettistä roolia, mutta osa siitä toimii säätelytehtävissä. Ihmisen tapauksessa tämän proteiineja koodaamattoman ”roska-DNA:n” eli [tilke-DNA](https://fi.wikipedia.org/wiki/tilke-DNA):n osuus on peräti 97 %. Tämä prosenttimäärä vaihtelee suuresti myös toisiaan lähellä olevien lajien välillä. <!---Mutaatiot näissä alueissa ovat aina neutraaleja ja näihin ei kohdistu ns. selektiivistä painetta. Siksi ne ovat sopivia niin sanottuja ”[molekyylikelloja](https://fi.wikipedia.org/wiki/molekyylikello)”, joiden avulla eri lajien geneettiset etäisyydet voidaan mitata. Aina on kuitenkin oltava varovainen. Se, että emme tiedä jonkin DNA-alueen käyttötarkoitusta, ei välttämättä merkitse ettei sellaista olisi olemassa. Viime aikoina on löytynyt esimerkkejä tästä juuri roska-DNA:n joukosta. Silloin molekyylikellon käytön edellytykset eivät täyty.-->
 
 Hyödyllisten mutaatioiden todennäköisyys eliössä on pieni, ja jotta kyseinen hyödyllinen mutaatio voisi periytyä jälkeläisille, sen täytyy tapahtua sukusolulinjassa, jossa se ei tapahdu kuin äärimmäisen harvoissa tapauksissa. Silti niin voi tapahtua ja tapahtuukin jatkuvasti.
 
@@ -64,7 +64,7 @@ Migraation rooli evoluutiossa on se, että tietyssä paikassa alkunsa saanut uus
 
 Populaatiosta tulisi kuitenkin vaatia, että yksilö voi fyysisesti matkustaa paikasta toiseen populaation sisällä. Kuivalla maalla eläville organismeille esim. se tarkoittaa, että on oltava yhtenäinen kuiva maa-alue. Tästä vaikuttavin esimerkki on [Australia](https://fi.wikipedia.org/wiki/Australia).
 
-Yleisen käsityksen mukaan 45 miljoona vuotta sitten Australian [mannerlaatta](https://fi.wikipedia.org/wiki/mannerlaatta) erosi lopullisesti etelämantereelta ja purjehti pois, niin, että Australiassa elävät eliöt kehittyivät eri tavalla kuin eliöt muualla. Australiassa elävät edelleen pussieläimet, jotka ovat sopeutuneet samoihin eri ekologisiin lokeroihin kuin istukalliset nisäkkäät muussa maailmassa. Esim. missä muussa maailmassa on susia, hiiriä ja myyriä, on Australiassa pussisusi, -hiiri ja -myyrä. Tämä on myös esimerkki [konvergenssi](konvergenssi.md)sta.
+Yleisen käsityksen mukaan 45 miljoona vuotta sitten Australian [mannerlaatta](https://fi.wikipedia.org/wiki/mannerlaatta) erosi lopullisesti etelämantereelta ja purjehti pois, niin, että Australiassa elävät eliöt kehittyivät eri tavalla kuin eliöt muualla. Australiassa elävät edelleen pussieläimet, jotka ovat sopeutuneet samoihin eri ekologisiin lokeroihin kuin istukalliset nisäkkäät muussa maailmassa. Esim. missä muussa maailmassa on susia, hiiriä ja myyriä, on Australiassa pussisusi, -hiiri ja -myyrä. Tämä on myös esimerkki [konvergenssista](konvergenssi.md).
 
 ### Katso myös
 #### ApologetiikkaWiki

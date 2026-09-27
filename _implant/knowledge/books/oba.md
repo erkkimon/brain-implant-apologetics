@@ -7,7 +7,7 @@ book: oba
 testament: ot
 chapters: 1
 tags: [raamattu, kirja, oba]
-timestamp: 2026-09-26T11:30:00Z
+timestamp: 2026-09-27T13:00:00Z
 half_life: 0
 ---
 
@@ -19,4 +19,4 @@ Luvut, jaetunnisteet ja kirjan teologinen käsittely ovat teologiaimplantissa, j
 
 <brain://theology-kay4zyljsuy909krumpau/knowledge/scripture/oba/oba.md>
 
-Tämän implantin artikkelit, jotka viittaavat kirjaan, näkyvät sivun takaisinlinkeissä.
+Mikään ApoWikin artikkeli ei viittaa tähän kirjaan.

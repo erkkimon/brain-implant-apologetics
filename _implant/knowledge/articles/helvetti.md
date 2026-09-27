@@ -4,7 +4,7 @@ about: apologetics
 title: "Helvetti"
 description: "Kristinuskon mukaan ihmisen elämä jatkuu kuoleman jälkeen siinä samassa henkisessä ja hengellisessä ilmapiirissä, minkä hän on maanpäällisen elämänsä aikana itselleen valinnut."
 tags: [apowiki, etiikka, raamattu]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Helvetti".
@@ -26,7 +26,7 @@ Helvetistä on olemassa monenlaisia erilaisia tulkintoja. Joissakin korostetaan 
 
 ### C. S. Lewisin käsitys helvetistä
 
-Luukkaan evankeliumissa ( (Luuk. 16: 22–31)) Jeesus kertoo vertauksen rikkaasta miehestä ja köyhästä Lasaruksesta. Maan päällä eläessään rikas mies antautui nautinnoille välittämättä porttinsa pielessä viruvasta köyhästä Lasaruksesta. Voidakseen elää näin räikeässä synnissä, hän joutui torjumaan tiedon Jumalan oikeudenmukaisuudesta ja hyvyydestä. Torjunnan vaikutuksesta hänen todellisuuskuvansa vääristyy ja hän jatkaa tämän vääristyneen todellisuuskuvansa vallassa helvetissä. Hän näkee Lasaruksen edelleen palvelijanaan, jonka tehtävänä on toteuttaa hänen toiveitaan. Hän ei pyydä päästä pois helvetistä, vaan hän pyytää, että Lasarus tulisi sinne häntä palvelemaan. ”Lähetä Lasarus tänne, että hän kastaisi sormenpäänsä veteen ja vilvoittaisi kieltäni.”
+Luukkaan evankeliumissa ( ([Luuk. 16: 22–31](../books/luk.md))) Jeesus kertoo vertauksen rikkaasta miehestä ja köyhästä Lasaruksesta. Maan päällä eläessään rikas mies antautui nautinnoille välittämättä porttinsa pielessä viruvasta köyhästä Lasaruksesta. Voidakseen elää näin räikeässä synnissä, hän joutui torjumaan tiedon Jumalan oikeudenmukaisuudesta ja hyvyydestä. Torjunnan vaikutuksesta hänen todellisuuskuvansa vääristyy ja hän jatkaa tämän vääristyneen todellisuuskuvansa vallassa helvetissä. Hän näkee Lasaruksen edelleen palvelijanaan, jonka tehtävänä on toteuttaa hänen toiveitaan. Hän ei pyydä päästä pois helvetistä, vaan hän pyytää, että Lasarus tulisi sinne häntä palvelemaan. ”Lähetä Lasarus tänne, että hän kastaisi sormenpäänsä veteen ja vilvoittaisi kieltäni.”
 
 C. S. Lewis tulkitsee tämän vertauksen opetusta seuraavaan tapaan:
 

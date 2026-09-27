@@ -4,7 +4,7 @@ about: apologetics
 title: "Raamatun historiallinen luotettavuus"
 description: "Kuva: pienoiskuva Raamattu on sidottu tunnettuihin aikoihin, paikkoihin, hallitsijoihin ja henkilöihin, joista löytyy riittävästi tietoa, jotta tiedämme tekstin olevan pääpiirteissään luotettavaa."
 tags: [apowiki, raamattu, historia, lukusuositukset]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Raamatun historiallinen luotettavuus".
@@ -34,16 +34,16 @@ Raamattu on asettanut itsensä lukemattomissa kohdissa tarkistukselle alttiiksi.
 
 #### Vanha testamentti
 
-#Abrahamin kotikaupunki Uur on eteläisen Babylonian parhaiten tunnettuja muinaisia rauniokaupunkeja Sir Leonard Woolleyn vuosina 1922-1934 suorittamien kaivausten ansiosta.[^1]
-#Pohjois-Syyrian Eblasta löydetystä savitaulukirjastosta (noin 2300 eKr.) on löydetty paljon nimiä, jotka muistuttavat  (1. Moos. 14):ssä mainittuja paikan- ja hallitsijannimiä.[^1]
-#1700-luvulta eKr. peräisin olevissa ns. Marin asiakirjoissa mainitaan Rebekan kotipaikka Naahor.[^1]
-#Varhaisin Raamatun ulkopuolinen maininta Israelista on Merneptahin kuuluisassa steelessä (n. 1224 eKr.).[^1]
-#Raamattua pidettiin epäluotettavana, koska se mainitsi [heettiläisten](heettiläiset.md) kansan useaan otteeseen, vaikkei tästä kansasta ollut mitään mainintaa. Todisteita heettiläisistä on sittemmin löytynyt paljonkin.
-#Raamattu- ja liberaalikriitikot ovat kyseenalaistaneet kuningas Daavidin olemassaolon. 1993 löytyi Israelin vihollisten kirjoittama kivitaulu (Tel Dan Stele), jossa mainitaan Daavidin yhden Daavidin kuningassuvun kuninkaan (Jehoram, Ahabin poika) voittaminen [^2] Mesha inscription -löytö varmistaa myös Daavidin olemassaolon mainitsemalla Daavidin huoneen, ja lisäksi se mainitsee muita Raamatun nimiä kuten Omrin ( (1. Kun. 16:28)).
-#Radiohiiliajoitus antaa tukea ajatukselle, että Jordaniassa sijaitsevat valtavat kaivokset ovat samoja, joita Raamatun mukaan hallitsi kunigas Daavid ja hänen poikansa Salomon[^3].
-#Nelson Glueck löysi vuonna 1938 Israelin kuningas Salomon kuparisulatot Esjon-Geberistä. Foinikialaisista piirtokirjoituksista on saatu lisätietoja Salomon Tarsisin-laivastosta (1. Kun. 10:22).[^1]
-#Jerusalemista on löydetty Juudan kuninkaan Hiskian sinetti.[^4]
-#Vuonna 1947 löydettiin Qumranista yhdessä muiden ns. Kuolleenmeren kirjakääröjen kanssa koko Jesajan kirjan sisältävä käärö, joka oli tuhat vuotta vanhimpia siihen asti tunnettuja käsikirjoituksia vanhempi.[^1]
+1. Abrahamin kotikaupunki Uur on eteläisen Babylonian parhaiten tunnettuja muinaisia rauniokaupunkeja Sir Leonard Woolleyn vuosina 1922-1934 suorittamien kaivausten ansiosta.[^1]
+1. Pohjois-Syyrian Eblasta löydetystä savitaulukirjastosta (noin 2300 eKr.) on löydetty paljon nimiä, jotka muistuttavat  ([1. Moos. 14](../books/gen.md)):ssä mainittuja paikan- ja hallitsijannimiä.[^1]
+1. 1700-luvulta eKr. peräisin olevissa ns. Marin asiakirjoissa mainitaan Rebekan kotipaikka Naahor.[^1]
+1. Varhaisin Raamatun ulkopuolinen maininta Israelista on Merneptahin kuuluisassa steelessä (n. 1224 eKr.).[^1]
+1. Raamattua pidettiin epäluotettavana, koska se mainitsi [heettiläisten](heettiläiset.md) kansan useaan otteeseen, vaikkei tästä kansasta ollut mitään mainintaa. Todisteita heettiläisistä on sittemmin löytynyt paljonkin.
+1. Raamattu- ja liberaalikriitikot ovat kyseenalaistaneet kuningas Daavidin olemassaolon. 1993 löytyi Israelin vihollisten kirjoittama kivitaulu (Tel Dan Stele), jossa mainitaan Daavidin yhden Daavidin kuningassuvun kuninkaan (Jehoram, Ahabin poika) voittaminen [^2] Mesha inscription -löytö varmistaa myös Daavidin olemassaolon mainitsemalla Daavidin huoneen, ja lisäksi se mainitsee muita Raamatun nimiä kuten Omrin ( ([1. Kun. 16:28](../books/1ki.md))).
+1. Radiohiiliajoitus antaa tukea ajatukselle, että Jordaniassa sijaitsevat valtavat kaivokset ovat samoja, joita Raamatun mukaan hallitsi kunigas Daavid ja hänen poikansa Salomon[^3].
+1. Nelson Glueck löysi vuonna 1938 Israelin kuningas Salomon kuparisulatot Esjon-Geberistä. Foinikialaisista piirtokirjoituksista on saatu lisätietoja Salomon Tarsisin-laivastosta (1. Kun. 10:22).[^1]
+1. Jerusalemista on löydetty Juudan kuninkaan Hiskian sinetti.[^4]
+1. Vuonna 1947 löydettiin Qumranista yhdessä muiden ns. Kuolleenmeren kirjakääröjen kanssa koko Jesajan kirjan sisältävä käärö, joka oli tuhat vuotta vanhimpia siihen asti tunnettuja käsikirjoituksia vanhempi.[^1]
 
 *Kuva: Tekstiä Codex Alexandrinuksesta, tunnetusta Uuden testamentin käsikirjoituksesta*
 
@@ -54,16 +54,16 @@ Raamattu on asettanut itsensä lukemattomissa kohdissa tarkistukselle alttiiksi.
 >
 > — [^1]
 
-#Ylipappi Kaifaan arkku on löydetty.[^5] Kaifas mainitaan mahdollisesti toisessakin hautalöydössä.[^6]
-#Pilatuksen olemassaoloakin ehdittiin epäillä, mutta sitten hänen nimensä, asemansa ja tieto siitä, että hän oli maaherrana keisari Tiberiuksen aikaan, löydettiin kivilaatasta[^7]. Pilatuksesta on saatu tietoja myös vanhoista rahoista.[^1]
-#Luujäänteistä näemme ristiinnaulitsemiskertomusta vastaavia yksityiskohtia.
-#Luukkaan evankeliumi mainitsee ( (Luuk. 3:1)) Lysanias nimisen neljännesruhtinaan Abilenessa noin vuonna 27 jKr. Liberaalikriitikot ja skeptikot pitivät pitkään tätä selvänä virheenä Raamatussa, koska Lysanias ei ollut neljännesruhtinaana vaan Kalkisin hallitsijana puoli vuosisataa aiemmin. Sittemmin on löydetty omistuskirjoitus, joka on peräisin Tiberiuksen ajalta vuosilta 14-37 jKr, jossa mainitaan Lysanias Abilenen neljännesruhtinas [^8]. Raamattu kertoo siis toisesta Lysaniuksesta.
-#Skeptikot ovat myös kyseenalaistaneet Nasaretin olemassaolon, koska siitä ei ollut löytynyt todisteita. Nyttemmin arkeologit ovat löytäneet listan, johon on kirjattu juutalaisten pappien perheitä, jotka sijoitettiin uudelleen Jerusalemin temppelin tuhoutumisen, jonka Jeesus ennusti ( (Luuk 21:5-6)), seurauksena. Yhden perheen kohdalla sijoituspaikaksi on kirjattu Nasaretin kaupunki. Vaikka Nasaret on ollut mitätön kaupunki, edes sen sijainnista ei arkeologien keskuudessa vallitse suurta epäilystä.
-#Papyrukset osoittavat, että Rooman valtakunnassa ihmisten oli väestönlaskennan aikana mentävä rekisteröitäviksi siihen paikkaan, josta heidän sukunsa oli lähtöisin.[^1] Tämä sopii Luukkaan kuvaukseen Jeesuksen syntymästä.
-#Luukkaan mukaan väestönlaskenta tapahtui Quiriniuksen ollessa Syyrian käskynhaltijana Herodes Suuren hallintakaudella. Tämä muodosti ongelman, koska Herodes kuoli vuonna 4 eKr. ja tiedetään, että Quirinius aloitti maaherrana vasta vuonna 6 jKr. Nyttemmin on kuitenkin löytynyt kolikko, jossa on Quiriniuksen nimi ja tieto, että hän toimi Syyrian ja Kilikian prokonsulina vuodesta 11 eKr. Herodeksen kuoleman jälkeiseen aikaan asti. Quiriniuksia oli siis ilmeisesti kaksi.
-1. (Apt. 17:6) mainitsee "politarkit", Tessalonikan kaupungin viranomaiset. Skeptikot väittivät, että Luukas oli erehtynyt, koska termiä politarkit ei löytynyt muista dokumenteista. Myöhemmin löydettiin holvikaaresta omistuskirjoitus, joka alkoi: "Politarkkien aikakaudella...". Nykyään on löydetty yli kolmekymmentä kirjoitusta, joissa mainitaan politarkit, useat Tessalonikasta samalta aikakaudelta, josta Luukas kirjoittaa [^9].
-#Apostolien teoissa mainitaan [tämän lisäksi 83 historiallisen ja arkeologisen tutkimuksen vahvistamaa tosiasiaa](apostolien-teot.md).
-#Teksti Betesdan lammikosta ( (Joh. 5:1-15)) oli laajalti kyseenalaistettu, kunnes lammikko löytyi juuri sellaisena (viisi pylväshallia), kuin Johanneksen evankeliumi sen kuvaa. Samoin on löydetty Siloan allas ( (Joh. 9:7)), Jaakobin kaivo ( (Joh. 4:12)), kivipiha Jaffa-portin luona, jossa Jeesus asetettiin Pilatuksen eteen ( (Joh. 19:13)), sekä Pilatuksen henkilöllisyys [^10].
+1. Ylipappi Kaifaan arkku on löydetty.[^5] Kaifas mainitaan mahdollisesti toisessakin hautalöydössä.[^6]
+1. Pilatuksen olemassaoloakin ehdittiin epäillä, mutta sitten hänen nimensä, asemansa ja tieto siitä, että hän oli maaherrana keisari Tiberiuksen aikaan, löydettiin kivilaatasta[^7]. Pilatuksesta on saatu tietoja myös vanhoista rahoista.[^1]
+1. Luujäänteistä näemme ristiinnaulitsemiskertomusta vastaavia yksityiskohtia.
+1. Luukkaan evankeliumi mainitsee ( ([Luuk. 3:1](../books/luk.md))) Lysanias nimisen neljännesruhtinaan Abilenessa noin vuonna 27 jKr. Liberaalikriitikot ja skeptikot pitivät pitkään tätä selvänä virheenä Raamatussa, koska Lysanias ei ollut neljännesruhtinaana vaan Kalkisin hallitsijana puoli vuosisataa aiemmin. Sittemmin on löydetty omistuskirjoitus, joka on peräisin Tiberiuksen ajalta vuosilta 14-37 jKr, jossa mainitaan Lysanias Abilenen neljännesruhtinas [^8]. Raamattu kertoo siis toisesta Lysaniuksesta.
+1. Skeptikot ovat myös kyseenalaistaneet Nasaretin olemassaolon, koska siitä ei ollut löytynyt todisteita. Nyttemmin arkeologit ovat löytäneet listan, johon on kirjattu juutalaisten pappien perheitä, jotka sijoitettiin uudelleen Jerusalemin temppelin tuhoutumisen, jonka Jeesus ennusti ( ([Luuk 21:5-6](../books/luk.md))), seurauksena. Yhden perheen kohdalla sijoituspaikaksi on kirjattu Nasaretin kaupunki. Vaikka Nasaret on ollut mitätön kaupunki, edes sen sijainnista ei arkeologien keskuudessa vallitse suurta epäilystä.
+1. Papyrukset osoittavat, että Rooman valtakunnassa ihmisten oli väestönlaskennan aikana mentävä rekisteröitäviksi siihen paikkaan, josta heidän sukunsa oli lähtöisin.[^1] Tämä sopii Luukkaan kuvaukseen Jeesuksen syntymästä.
+1. Luukkaan mukaan väestönlaskenta tapahtui Quiriniuksen ollessa Syyrian käskynhaltijana Herodes Suuren hallintakaudella. Tämä muodosti ongelman, koska Herodes kuoli vuonna 4 eKr. ja tiedetään, että Quirinius aloitti maaherrana vasta vuonna 6 jKr. Nyttemmin on kuitenkin löytynyt kolikko, jossa on Quiriniuksen nimi ja tieto, että hän toimi Syyrian ja Kilikian prokonsulina vuodesta 11 eKr. Herodeksen kuoleman jälkeiseen aikaan asti. Quiriniuksia oli siis ilmeisesti kaksi.
+1. ([Apt. 17:6](../books/act.md)) mainitsee "politarkit", Tessalonikan kaupungin viranomaiset. Skeptikot väittivät, että Luukas oli erehtynyt, koska termiä politarkit ei löytynyt muista dokumenteista. Myöhemmin löydettiin holvikaaresta omistuskirjoitus, joka alkoi: "Politarkkien aikakaudella...". Nykyään on löydetty yli kolmekymmentä kirjoitusta, joissa mainitaan politarkit, useat Tessalonikasta samalta aikakaudelta, josta Luukas kirjoittaa [^9].
+1. Apostolien teoissa mainitaan [tämän lisäksi 83 historiallisen ja arkeologisen tutkimuksen vahvistamaa tosiasiaa](apostolien-teot.md).
+1. Teksti Betesdan lammikosta ( ([Joh. 5:1-15](../books/jhn.md))) oli laajalti kyseenalaistettu, kunnes lammikko löytyi juuri sellaisena (viisi pylväshallia), kuin Johanneksen evankeliumi sen kuvaa. Samoin on löydetty Siloan allas ( ([Joh. 9:7](../books/jhn.md))), Jaakobin kaivo ( ([Joh. 4:12](../books/jhn.md))), kivipiha Jaffa-portin luona, jossa Jeesus asetettiin Pilatuksen eteen ( ([Joh. 19:13](../books/jhn.md))), sekä Pilatuksen henkilöllisyys [^10].
 
 Teologi-arkeologi Eero Junkkaala on todennut arkeologian ja Raamatun suhteesta seuraavasti:
 
@@ -73,37 +73,37 @@ Teologi-arkeologi Eero Junkkaala on todennut arkeologian ja Raamatun suhteesta s
 
 ### Tekstin sisäinen todistusvoima
 
-Lisäksi Raamatun teksti kertoo tapahtumista suoraan liittämättä niihin legendanomaista suurentelua tai teologisia merkityksiä. Tapahtumien tärkeidenkin henkilöiden lankeamukset ja virheet kerrotaan kaunistelematta (vrt. esimerkiksi kuningas Daavidin tekemä aviorikos ja murha ( (2. Sam. 11))). Myös hankalasti selitettävät tapahtumat kerrotaan ilman lisättyjä selittelyjä.
+Lisäksi Raamatun teksti kertoo tapahtumista suoraan liittämättä niihin legendanomaista suurentelua tai teologisia merkityksiä. Tapahtumien tärkeidenkin henkilöiden lankeamukset ja virheet kerrotaan kaunistelematta (vrt. esimerkiksi kuningas Daavidin tekemä aviorikos ja murha ( ([2. Sam. 11](../books/2sa.md)))). Myös hankalasti selitettävät tapahtumat kerrotaan ilman lisättyjä selittelyjä.
 
 Alla kymmenen syytä jotka viittaavat Uuden testamentin kirjoitusten luotettavuuteen[^11]:
 
 1. Uuden testamentin kirjoittajat kertoivat nöyryyttäviä asioita itsestään.
-#*He ovat kovapäisiä eivätkä usein ymmärrä mitä Jeesus sanoo. ( (Luuk. 18:34),  (Joh. 12:16))
-#*He ovat kovasydämisiä ( (Mark. 14:32-41))
-#*Heitä ojennetaan. Jeesus esimerkiksi kutsuu Pietaria Saatanaksi ( (Matt. 16:23)).
-#*He olivat pelkureita. Kaikki opetuslapset paitsi yksi piiloutuvat Jeesuksen mennessä ristille.
-#*He olivat epäilijöitä. Jeesus kertoi useasti nousevansa kuolleista, mutta opetuslapset epäilevät kuullessaan ylösnousemuksesta ( (Matt. 28:17)).
+   * He ovat kovapäisiä eivätkä usein ymmärrä mitä Jeesus sanoo. ( ([Luuk. 18:34](../books/luk.md)),  ([Joh. 12:16](../books/jhn.md)))
+   * He ovat kovasydämisiä ( ([Mark. 14:32-41](../books/mrk.md)))
+   * Heitä ojennetaan. Jeesus esimerkiksi kutsuu Pietaria Saatanaksi ( ([Matt. 16:23](../books/mat.md))).
+   * He olivat pelkureita. Kaikki opetuslapset paitsi yksi piiloutuvat Jeesuksen mennessä ristille.
+   * He olivat epäilijöitä. Jeesus kertoi useasti nousevansa kuolleista, mutta opetuslapset epäilevät kuullessaan ylösnousemuksesta ( ([Matt. 28:17](../books/mat.md))).
 1. Uuden testamentin kirjoittajat kertoivat Jeesuksen ongelmallisia sanontoja ja kiusallisia yksityiskohtia
-#*Äiti ja veljet ajattelivat Jeesuksen olevan "poissa tolaltaan". ( (Mark. 3:21))
-#*Pidettiin "pettäjänä". ( (Joh. 7:14))
-#*Ristiinnaulittiin
+   * Äiti ja veljet ajattelivat Jeesuksen olevan "poissa tolaltaan". ( ([Mark. 3:21](../books/mrk.md)))
+   * Pidettiin "pettäjänä". ( ([Joh. 7:14](../books/jhn.md)))
+   * Ristiinnaulittiin
 1. Jättivät Jeesuksen vaikeita sanontoja
-#* (Matt. 5:28)
-#* (Matt. 5:29-42)
-#* (Matt. 6:19-21)
-#* (Matt. 7:1-2)
-#Uuden testamentin kirjoittajat erittelivät selvästi Jeesuksen sanat omistaan.
-#Kirjoittajat jättivät kohtia ylösnousemuksesta, joita eivät olisi keksineet.
-#*Jeesus haudattiin Joosef Arimatialaisen, hänet tuominneen Sanhedrinin jäsenen, hautaan.
-#*Naiset olivat ensimmäisiä ylösnousemuksen todistajia.
-#*Pappien kääntymiset - nämä oli vastapuolen helppo tarkistaa.
-#*Juutalaisten selitykset tapahtuneelle.
-#Tekstit kertovat historiallisista henkilöistä, joista yli 30 on historiallisesti varmennettu muista lähteistä.
-#*Olisi ollut vaikeaa väärentää asioita kertomalla totta vain niistä henkilöistä, joista me löydämme varmisteet.
-#Teksteissä on eroavia yksityiskohtia.
-#Kirjoittajat haastavat lukijansa tarkastamaan tietoja jopa ihmeistä.
-#Kirjoittajat kertovat ihmeistä kuten muista historiallisista tapahtumista, yksinkertaisesti, korostamatta tai suurentelematta.
-#Kirjoittajat hylkäsivät uskomuksensa ja tapansa, vastaanottivat uusia, eivätkä kieltäneet todistustaan vainoissa ja kuolemassa.
+   * ([Matt. 5:28](../books/mat.md))
+   * ([Matt. 5:29-42](../books/mat.md))
+   * ([Matt. 6:19-21](../books/mat.md))
+   * ([Matt. 7:1-2](../books/mat.md))
+1. Uuden testamentin kirjoittajat erittelivät selvästi Jeesuksen sanat omistaan.
+1. Kirjoittajat jättivät kohtia ylösnousemuksesta, joita eivät olisi keksineet.
+   * Jeesus haudattiin Joosef Arimatialaisen, hänet tuominneen Sanhedrinin jäsenen, hautaan.
+   * Naiset olivat ensimmäisiä ylösnousemuksen todistajia.
+   * Pappien kääntymiset - nämä oli vastapuolen helppo tarkistaa.
+   * Juutalaisten selitykset tapahtuneelle.
+1. Tekstit kertovat historiallisista henkilöistä, joista yli 30 on historiallisesti varmennettu muista lähteistä.
+   * Olisi ollut vaikeaa väärentää asioita kertomalla totta vain niistä henkilöistä, joista me löydämme varmisteet.
+1. Teksteissä on eroavia yksityiskohtia.
+1. Kirjoittajat haastavat lukijansa tarkastamaan tietoja jopa ihmeistä.
+1. Kirjoittajat kertovat ihmeistä kuten muista historiallisista tapahtumista, yksinkertaisesti, korostamatta tai suurentelematta.
+1. Kirjoittajat hylkäsivät uskomuksensa ja tapansa, vastaanottivat uusia, eivätkä kieltäneet todistustaan vainoissa ja kuolemassa.
 
 Näin, myös historiallisen luotettavuuden kautta, Raamatun välittämä maailmankatsomus ankkuroituu aivan erityisellä tavalla todellisuuteen.
 

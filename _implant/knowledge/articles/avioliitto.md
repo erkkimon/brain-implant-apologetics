@@ -4,7 +4,7 @@ about: apologetics
 title: "Avioliitto"
 description: "Avioliitto on yleismaailmallinen instituutio, joka on jo vuosituhansien ajan muodostanut osan kaikkia inhimillisiä kulttuureja."
 tags: [apowiki, seksuaalietiikka, lukusuositukset]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Avioliitto".
@@ -30,7 +30,7 @@ Pysyvät, ruumiilliseen yhteyteen perustuvat ja lasten hankkimiseen ja kasvattam
 
 Valtion erityiskiinnostus avioliittoon ja sen suojelemiseen johtuu siitä, että avioliitossa on erityissuojelua tarvitseva hauras osapuoli, nimittäin avioliitosta syntyvä lapsi, jonka terveestä kehityksestä puolestaan riippuu koko yhteiskunnan tulevaisuus.
 
-Perinteisen käsityksen mukaan avioliiton pysyvyyden perustana on moraalinen sitoumus kohdella puolisoa itseisarvoisena olentona yhdistettynä siihen luonnolliseen tosiasiaan, että naisen ja miehen seksuaaliyhdyntä luo heistä uuden organismin, josta voi syntyä uutta elämää. Tämän uuden yhteyden varaan rakentuva liitto sisältää tietysti paljon romanttisia tunteita, mutta liitto ei perustu näihin tunteisiin vaan siihen, että puolisoista on tullut ”yksi liha”, kuten Raamattu asian ilmaisee, ja että he näin voivat luoda uutta elämää.
+Perinteisen käsityksen mukaan avioliiton pysyvyyden perustana on moraalinen sitoumus kohdella puolisoa itseisarvoisena olentona yhdistettynä siihen luonnolliseen tosiasiaan, että naisen ja miehen seksuaaliyhdyntä luo heistä [uuden organismin](../glossary/sanasto.md#uusi-organismi-avioliitto), josta voi syntyä uutta elämää. Tämän uuden yhteyden varaan rakentuva liitto sisältää tietysti paljon romanttisia tunteita, mutta liitto ei perustu näihin tunteisiin vaan siihen, että puolisoista on tullut ”yksi liha”, kuten Raamattu asian ilmaisee, ja että he näin voivat luoda uutta elämää.
 
 ### Onko kristillinen avioliittomoraali luonnotonta ihmiselle?
 

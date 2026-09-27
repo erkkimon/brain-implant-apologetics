@@ -4,7 +4,7 @@ about: apologetics
 title: "Argumentum ad ignorantiam"
 description: "Argumentum ad ignorantiam eli käänteinen todistustaakka tai tietämättömyyteen vetoaminen (engl."
 tags: [apowiki, argumentointi]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Argumentum ad ignorantiam".
@@ -53,7 +53,7 @@ Tällainen menettely onnistuu sitä todennäköisemmin, mitä myötämielisemmä
 ### Havainnollistusta
 Apologeettisiin aiheisiin liittyviä esimerkkejä:
 > **Arkeologiset tutkimukset eivät ole antaneet mitään todisteita Jaakobin pojan Joosefin valta-asemasta Egyptissä. Raamatun kertomukset Joosefista ovat siis pelkkää satua.*
-> **Kukaan ei ole nähnyt [Jumala](jumala.md)a. Jumalaa ei siis ole olemassa.*
+> **Kukaan ei ole nähnyt [Jumalaa](jumala.md). Jumalaa ei siis ole olemassa.*
 > **Mahdollisia fysikaalis-kemiallisia olosuhteita on niin paljon, ettei niitä kaikkia voi millään systemaattisesti kokeilla laboratoriossa. On siis täysin ymmärrettävää, suorastaan odotettua, ettei asiaa ole vielä kokeellisesti varmistettu, ja niinpä meillä onkin kaikki syyt uskoa, että joissain meille tuntemattomissa olosuhteissa elämä voi helpostikin syntyä elottomasta aineesta aivan itsestään. Emme toki vielä tiedä kaikkia huomioonotettavia seikkoja tämän ilmiön esiin saamiseksi, mutta ehkä ei tarvita kuin yksi neronleimaus, joka yhdistää vielä irrallaan ja sekaisin olevat langanpäät yhdeksi vastaansanomattomaksi kokonaisnäkemykseksi, jonka kokeellinen testaus on varmistava yhä uudelleen ja uudelleen. Tämän neronleimauksen saaja on varma nobelisti, eikä palkintoa tässä tapauksessa todellakaan tarvitse odotella kymmeniä vuosia!*
 
 Argumentointitavan ongelmallisuus on helppo nähdä, jos sitä kokeeksi sovelletaan jotain nykykulttuurissamme vallalla olevaa näkemystä vastaan:

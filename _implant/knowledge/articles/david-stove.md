@@ -4,7 +4,7 @@ about: apologetics
 title: "David Stove"
 description: "David Charles Stove (15. syyskuuta 1927 - 2. kesäkuuta 1994) oli australialainen filosofi, joka oli erikoistunut tieteenfilosofiaan."
 tags: [apowiki, henkilöt, filosofia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "David Stove".
@@ -29,7 +29,7 @@ Stove kritisoi lisäksi platonismin vaikutusta, marxismia, feminismiä[^1] ja po
 
 ### Darwiniaanisia satuja
 
-Vaikka Stove oli ateisti, hän arvosteli kirjassaan [Darwinian Fairytales](darwinian-fairytales-kirja.md) joitakin darwinistisia ajattelijoita kuten [Richard Dawkins](richard-dawkins.md)ia siitä, että tämän ajattelussa oli sadunomaisia piirteitä.
+Vaikka Stove oli ateisti, hän arvosteli kirjassaan [Darwinian Fairytales](darwinian-fairytales-kirja.md) joitakin darwinistisia ajattelijoita kuten [Richard Dawkinsia](richard-dawkins.md) siitä, että tämän ajattelussa oli sadunomaisia piirteitä.
 
 ### Teoksia
 

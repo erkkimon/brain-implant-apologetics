@@ -4,7 +4,7 @@ about: apologetics
 title: "Kutistuva turska (kirja)"
 description: "Kirjassaan Kutistuva turska Katja Bargum ja Hanna Kokko pitävät ohjaamattoman evoluution todisteena sitä, että on olemassa epätarkkoja ja kehnoja sopeumia."
 tags: [apowiki, kirjat]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kutistuva turska (kirja)".
@@ -60,7 +60,7 @@ Sen sijaan että naturalistit näkisivät näissä luonnon hienosäädetyissä j
 
 Tekijät pitävät täysin emansipoitunutta (vapautunutta) itsenäisyyttä niin korkeana arvona, ettei Jumala loukkaisi sitä edes kalojen kohdalla, jos hän olisi luonut maailman. He esittävät luonnontieteen nimissä päättelynsä, joka perustuu kiistanalaiseen moraalis-teologiseen lähtökohtaoletukseen. Tiedämmekö siis, ettei Jumalaa voi olla olemassa, koska hän ei amatsonimollien lisääntymistä suunnitellessaan ole toteuttanut yhtä länsimaisen yhteiskunnan keskeistä arvoa, täydellisen emansipoitunutta itsenäisyyttä? Tekijät ilmeisesti vastaisivat myönteisesti tähän kysymykseen. Vielä suurempi ongelma tekijöiden mukaan on se, että yksittäisissä lampareissa amatsonimollien lisääntyminen johtaa lopulta koko mollipopulaation kuolemaan. Tosin kalojen liikkuvuuden takia ”kokonaisuus säilyy hengissä, vaikka yksittäiset lampareet aina ennen pitkää kalansa kadottaisivatkin”[^10]. Voisiko Jumala luoda tällaista monimuotoisuutta eläinmaailmaan? Tekijöiden mukaan se olisi niin järkyttävän epätäydellistä suunnittelua, että on mahdotonta ajatella yhdenkään järkevän suunnittelijan syyllistyvän sellaiseen, jos hän voi lähteä suunnittelussaan puhtaalta pöydältä.
 
-Hämmentäväksi tämän päättelyn tekee se, että kirjan päätösluvussa he johtavat ihmisille opetuksia juuri mollikoiraiden toiminnan lyhytnäköisyydestä. Tekijöille ei kuitenkaan tule mieleen ajatus, että Jumala on luonut eläinkuntaan erilaisia lyhytnäköisen toiminnan esimerkkejä juuri siksi, että ihminen ottaisi niistä oppia. Tämä ei tule tekijöiden mieleen, vaikka he toisessa yhteydessä lainaavat ja soveltavat Raamatun lausetta: ”Mene laiskuri, muurahaisen luo, katso sen aherrusta ja ota opiksesi. Ei sillä ole ketään käskijää, ei herraa eikä hallitsijaa, ja silti se kerää kesällä ruokansa ja täyttää varastonsa korjuun aikana.” ( (Sananl. 6:6–7)) Tässä Raamatun kohdassa ihmistä kehotetaan tutkimaan luontoa ja oppimaan siellä ilmenevistä toimintamalleista.
+Hämmentäväksi tämän päättelyn tekee se, että kirjan päätösluvussa he johtavat ihmisille opetuksia juuri mollikoiraiden toiminnan lyhytnäköisyydestä. Tekijöille ei kuitenkaan tule mieleen ajatus, että Jumala on luonut eläinkuntaan erilaisia lyhytnäköisen toiminnan esimerkkejä juuri siksi, että ihminen ottaisi niistä oppia. Tämä ei tule tekijöiden mieleen, vaikka he toisessa yhteydessä lainaavat ja soveltavat Raamatun lausetta: ”Mene laiskuri, muurahaisen luo, katso sen aherrusta ja ota opiksesi. Ei sillä ole ketään käskijää, ei herraa eikä hallitsijaa, ja silti se kerää kesällä ruokansa ja täyttää varastonsa korjuun aikana.” ( ([Sananl. 6:6–7](../books/pro.md))) Tässä Raamatun kohdassa ihmistä kehotetaan tutkimaan luontoa ja oppimaan siellä ilmenevistä toimintamalleista.
 
 Ohjaamattomasta evoluutiosta todistaa Bargumin ja Kokon mukaan myös se, että koiraspainotteiset sisiliskopopulaatiot ajavat itsensä vähitellen sukupuuttoon. Lukuisten esimerkkien pohjalta tekijät päätyvätkin seuraavan johtopäätökseen:
 

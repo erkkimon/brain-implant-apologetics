@@ -4,7 +4,7 @@ about: apologetics
 title: "Todistus"
 description: "Todistus tarkoittaa filosofisessa kontekstissa jonkin asian uskottavuuden perustelua."
 tags: [apowiki, argumentointi]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Todistus".
@@ -32,9 +32,9 @@ Asioiden absoluuttinen todistaminen on itse asiassa loogisesti mahdotonta. [Agri
 
 Esimerkiksi matematiikassa todistaminen perustuu ensimmäiseen vaihtoehtoon, eli kaikkien muiden todistusten pohjalla on aksioomia, jotka oletetaan tosiksi, eikä niitä tarvitse enää todistaa.
 
-Samalla periaatteella toimii myös tietoteoreettinen [fundamentalismi](https://fi.wikipedia.org/wiki/fundamentalismi_(tietoteoria)), jonka mukaan on olemassa perususkomuksia, joita pidetään oikeutettuina sellaisenaan, ja joilla perustellaan kaikki muut uskomukset.
+Samalla periaatteella toimii myös [tietoteoreettinen](../glossary/sanasto.md#tietoteoria) [fundamentalismi](https://fi.wikipedia.org/wiki/fundamentalismi_(tietoteoria)), jonka mukaan on olemassa [perususkomuksia](../glossary/sanasto.md#perususkomus), joita pidetään oikeutettuina sellaisenaan, ja joilla perustellaan kaikki muut uskomukset.
 
-Sen sijaan [koherentismissa](https://fi.wikipedia.org/wiki/koherentismi) todistaminen perustuu Agrippan trilemman toiseen vaihtoehtoon, eli kehäpäättelyyn. Koherentismin mukaan ei ole olemassa perususkomuksia, vaan kaikki uskomukset perustellaan toisilla uskomuksilla, ja tärkeintä on uskomusten koherenssi, eli keskinäinen yhteensopivuus.
+Sen sijaan [koherentismissa](https://fi.wikipedia.org/wiki/koherentismi) todistaminen perustuu Agrippan trilemman toiseen vaihtoehtoon, eli kehäpäättelyyn. Koherentismin mukaan ei ole olemassa perususkomuksia, vaan kaikki uskomukset perustellaan toisilla uskomuksilla, ja tärkeintä on uskomusten [koherenssi](../glossary/sanasto.md#koherenssi), eli keskinäinen yhteensopivuus.
 
 ### Katso myös
 #### ApologetiikkaWiki

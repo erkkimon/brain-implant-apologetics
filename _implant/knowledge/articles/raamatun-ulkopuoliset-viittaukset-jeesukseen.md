@@ -4,7 +4,7 @@ about: apologetics
 title: "Raamatun ulkopuoliset viittaukset Jeesukseen"
 description: "Historiallisen Jeesuksen olemassaoloa ei juuri kukaan vakavasti otettava tutkija epäile."
 tags: [apowiki, historia, jeesus]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Raamatun ulkopuoliset viittaukset Jeesukseen".
@@ -35,14 +35,14 @@ Roomalainen historioitsija Tacitus kirjoitti toisen vuosisadan alkupuolella main
 Teoksessaan *Annaalit* [Tacitus](https://fi.wikipedia.org/wiki/Tacitus) käsittelee kristinuskoa seuraavasti: "Pysyvä huhu arveli keisari Neroa tämän tulipalon sytyttäjäksi. Voidakseen tukahduttaa huhun, hän syytti rikoksesta lahkoa, jota yleisesti vieroksuttiin sen jumalanpalvelustapojen vuoksi ja jonka jäseniä kutsuttiin kristityiksi. Nimi oli annettu heille erään Kristuksen mukaan, jonka prokuraattori Pontius Pilatus tuomitsi ja naulitsi ristille Tiberiuksen hallitusajalla. Tämä vaarallinen lahko, jota olen kuvannut aikaisemmin, ei ole juurtunut vain Juudeaan, josta se on kotoisin, vaan myös itse Roomaan, jonne kaikki pelättävät ja häpeälliset asiat kerääntyvät ja löytävät sieltä kotinsa.[^5]
 
 Viittaus Jeesuksen on mitä ilmeisemmin aitoa Tacitusta. Se esiintyy kyseisen teoksen kaikissa tunnetuissa kopioissa ja on kirjoitettu Tacituksen kirjoitustyylillä. Sen kristinuskon vastainen tyyli antaa olettaa, etteivät kristityt ole lisänneet kyseistä kohtaa Tacituksen teokseen. Tacitusta tutkivat historioitsijat ylistävät Tämän tarkkuutta, huolellisuutta ja luotettavuutta.[^6] Tacitus keräsi tietoa mitä ilmeisimmin pääasiallisesti roomalaisista lähteistä. Näin ollen väite, jonka mukaan Tacitus olisi nojautunut kommentissaan kristittyjen omiin käsityksiin, ei ole uskottava. Mitä tietoa saamme Tacitukselta kristinuskoa koskien?[^7]
-#Kristityt saivat nimensä liikkeen perustajan, Kristuksen, mukaan.
-#Roomalainen prokuraattori Pontius Pilatus tuomitsi hänet kuolemaan.
-#Tämä tapahtui keisari Tiberiuksen hallituskaudella (14-37).
-#Hänen kuolemansa lopetti "taikauskon" hetkeksi.
+1. Kristityt saivat nimensä liikkeen perustajan, Kristuksen, mukaan.
+1. Roomalainen prokuraattori Pontius Pilatus tuomitsi hänet kuolemaan.
+1. Tämä tapahtui keisari Tiberiuksen hallituskaudella (14-37).
+1. Hänen kuolemansa lopetti "taikauskon" hetkeksi.
 1. "Taikausko" heräsi uudelleen henkiin.
-#Tämä tapahtui Juudeassa, josta liike on lähtöisin.
-#Hänen seuraajansa toivat opin mukanaan Roomaan
-#Kun Rooma tuhoutui suuressa tulipalossa keisari Neron hallituskaudella (54-68), keisari syytti tapahtumasta kristittyjä.
+1. Tämä tapahtui Juudeassa, josta liike on lähtöisin.
+1. Hänen seuraajansa toivat opin mukanaan Roomaan
+1. Kun Rooma tuhoutui suuressa tulipalossa keisari Neron hallituskaudella (54-68), keisari syytti tapahtumasta kristittyjä.
 
 #### Thallus
 
@@ -68,18 +68,18 @@ Kyseinen maininta kuuluu seuraavasti:
 Kuuluisa Josefus-tutkija Louis Feldman luettelee pääargumentit kyseisen kohdan aitouden puolesta ja vastaan.
 
 Puoltavat argumentit:
-#Kyseinen kohta löytyy kaikista säilyneistä käsikirjoituksista.
+1. Kyseinen kohta löytyy kaikista säilyneistä käsikirjoituksista.
 1. Eusebius lainaa sitä 324 jkr.
-#Laajemmalti hyväksytty viittaus Jeesukseen kirjassa 20 antaa olettaa, että hänet on täytynyt mainita jo aiemmin, loogisesti Pilatuksen käsittelyn yhteydessä.
-#Sanasto ja tyyli vastaavat Josefuksen käyttämää.
-#Koska mitään muuta kohtaa Josefuksen teoksessa Antiquities ei ole kyseenalaistettu, todistustaakka on skeptikoilla.
+1. Laajemmalti hyväksytty viittaus Jeesukseen kirjassa 20 antaa olettaa, että hänet on täytynyt mainita jo aiemmin, loogisesti Pilatuksen käsittelyn yhteydessä.
+1. Sanasto ja tyyli vastaavat Josefuksen käyttämää.
+1. Koska mitään muuta kohtaa Josefuksen teoksessa Antiquities ei ole kyseenalaistettu, todistustaakka on skeptikoilla.
 
 Vastustavat argumentit:
-#Sisältö on liian kristillistä juutalaisen kirjoittajan kirjoittamaksi.
-#Eusebiusta varhaisemmat kirjoittajat eivät lainaa kyseistä kohtaa; Origenes sanoo, että Josefus ei uskonut Jeesuksen olevan messias.
-#Kohta katkaisee Pilatusta käsittelevän kertomuksen.
-#Kohdassa on tyylillisiä pikkuseikkoja, jotka eivät esiinny muualla Josefuksen kirjoituksissa. Esimerkki tästä on " Vaikutusvaltaisten miestemme…", jossa Josefus käyttää monikon ensimmäistä persoonaa kolmannen sijasta.
-#Joistain käsikirjoituksista (ns. slaavilaisesta versiosta) on löydetty interpolaatioita.
+1. Sisältö on liian kristillistä juutalaisen kirjoittajan kirjoittamaksi.
+1. Eusebiusta varhaisemmat kirjoittajat eivät lainaa kyseistä kohtaa; Origenes sanoo, että Josefus ei uskonut Jeesuksen olevan messias.
+1. Kohta katkaisee Pilatusta käsittelevän kertomuksen.
+1. Kohdassa on tyylillisiä pikkuseikkoja, jotka eivät esiinny muualla Josefuksen kirjoituksissa. Esimerkki tästä on " Vaikutusvaltaisten miestemme…", jossa Josefus käyttää monikon ensimmäistä persoonaa kolmannen sijasta.
+1. Joistain käsikirjoituksista (ns. slaavilaisesta versiosta) on löydetty [interpolaatioita](../glossary/sanasto.md#interpolaatio).
 
 1971 Professori Schlomo Pines Jerusalemin Heprealaisesta Yliopistosta julkaisi tutkimuksen arabiankielisestä käsikirjoituksesta, johon sisältyi myös tämä Josefuksen maininta Jeesuksesta.[^12] Kyseisen käsikirjoituksen on tehnyt 1000-luvulla vaikuttanut Hieropoliin piispa Agapius.
 
@@ -92,11 +92,11 @@ Jonkinlaisena tutkijoiden konsensuksena Josefuksen todistuksen (Testimonium Flav
 Luotettavana pidetään mainintaa Jaakobista, Kristukseksi kutsutun veljestä, joka tuomittiin kivitettäväksi Jumalan pilkasta.[^18] Jaakob, Jerusalemin alkuseurakunnan johtaja mainitaan siis myös tässä ei-kristillisessä lähteessä. Koska Jaakobin teloittaminen tapahtui verrattain aikaisin, 62 jkr, tämä Josefuksen mainita antaa ymmärtää, että kristillinen seurakunta oli olemassa jo tuolloin. Mm. tämän Josefuksen maininnan perusteella voimme pitää Jeesusta kristinuskon perustajana. Se, että Josefus käyttää termiä "niinkutsutun Kristuksen" ilmaisee ehkä lievää halveksuntaa, mutta toisaalta tämä myös vahvistaa Jeesuksen historiallisuuden.
 
 Habermasin mukaan Josefuksen kirjoituksesta voidaan päätellä mm. seuraavia Jeesusta ja kristinuskoa koskevia asioita:[^19]
-#Jeesus oli viisas ja hyveellinen ihminen, joka tunnettiin hyvästä käyttäytymisestä
-#Hänellä oli paljon opetuslapsia, sekä juutalaisia että kreikkalaisia.
-#Pilatus tuomitsi hänet kuolemaan.
-#Kuolemantuomio toteutettiin ristiinnaulitsemalla.
-#Opetuslapset ilmoittivat Jeesuksen nousseen kuolleista ja ilmestyneen näille kolme päivää ristiinnaulitsemisen jälkeen.
+1. Jeesus oli viisas ja hyveellinen ihminen, joka tunnettiin hyvästä käyttäytymisestä
+1. Hänellä oli paljon opetuslapsia, sekä juutalaisia että kreikkalaisia.
+1. Pilatus tuomitsi hänet kuolemaan.
+1. Kuolemantuomio toteutettiin ristiinnaulitsemalla.
+1. Opetuslapset ilmoittivat Jeesuksen nousseen kuolleista ja ilmestyneen näille kolme päivää ristiinnaulitsemisen jälkeen.
 1. Opetuslapset jatkoivat hänen opetuksiensa levittämistä.
 1. Jeesus oli Jaakobin veli ja jotkut kutsuivat häntä messiaaksi..
 

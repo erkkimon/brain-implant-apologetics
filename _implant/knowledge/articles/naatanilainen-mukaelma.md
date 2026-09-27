@@ -4,7 +4,7 @@ about: apologetics
 title: "Naatanilainen mukaelma"
 description: "Naatanilainen mukaelma ja naatanilainen parodia ovat retorisia keinoja, joiden perimmäisenä ideana on huijata ihminen arvioimaan omaa objektiivisuuttansa siten, että hänelle esitetään hänen omaa toimintaansa tai ajatteluansa vastaava esimerkki, jota hän ei osaa yhdistää itseensä."
 tags: [apowiki, retoriset-keinot]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Naatanilainen mukaelma".
@@ -34,4 +34,4 @@ Voidaankin kysyä, olisiko Daavid koskaan ymmärtänyt tekonsa vakavuutta, jos h
 
   1. Viitteet
 
-[^1]: (2. Sam. 12:1-7)
+[^1]: ([2. Sam. 12:1-7](../books/2sa.md))

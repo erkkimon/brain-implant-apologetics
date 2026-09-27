@@ -4,7 +4,7 @@ about: apologetics
 title: "Teleologinen argumentti"
 description: "Teleologisen argumentin lähtökohtana on luonnossa ilmenevä tarkoituksenmukaisuus (telos = päämäärä) ja järjestys."
 tags: [apowiki, filosofia, argumentit, suunnitteluteoria]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Teleologinen argumentti".
@@ -77,7 +77,7 @@ Tällainen oletus universumin rakenteen kauneudesta, eleganssista tai harmoniast
 
 Onko teleologinen argumentti pätevä ja vakuuttava? Älykkään suunnitelman tunnistamiseksi on olennaista pystyä eliminoimaan sen kaksi kilpailijaa, sattuma ja fysikaalinen välttämättömyys. Fysikaalinen välttämättömyys voisi selittää maailmassa ilmenevän täsmennetyn monimutkaisuuden ainoastaan, jos olisi olemassa tähän mennessä tuntematon lainalaisuuksien joukko, joka voitaisiin kiteyttää kaikkeutta koskevaksi teoriaksi, joka selittäisi sen, millainen maailmankaikkeus on. Tämän mahdollisuuden mukaan maailmankaikkeuden täytyy olla sellainen kuin se on ja on vain vähän mahdollisuuksia, ettei maailmankaikkeus olisi elämää salliva. Tämä mahdollisuus on täysin spekulatiivinen ja se vain siirtäisi hienosäätöä koskevan argumentin yhden askelen taaksepäin. Myös järjestyneen maailmankaikkeuden selittäminen pelkän sattuman pohjalta kohtaa vakavia ongelmia.
 
-Ateismin esitaistelijana tunnetuksi tullut filosofi [Antony Flew](antony-flew.md) pitää nimenomaan teleologisen argumentin moderneja muunnelmia riittävän vakuuttavina älyllisesti, jotta hän niiden perusteella katsoo perustelluksi luopua ateismista ja omaksua sen sijaan teismin. Flew huomauttaa, että Darwin ei [evoluutioteoria](evoluutioteoria.md)ssaan edes väitä selittävänsä [elämän syntyä](abiogeneesi.md) vaan ainoastaan niitä mekanismeja, jotka ohjaavat eliöiden kehittymistä.
+Ateismin esitaistelijana tunnetuksi tullut filosofi [Antony Flew](antony-flew.md) pitää nimenomaan teleologisen argumentin moderneja muunnelmia riittävän vakuuttavina älyllisesti, jotta hän niiden perusteella katsoo perustelluksi luopua ateismista ja omaksua sen sijaan teismin. Flew huomauttaa, että Darwin ei [evoluutioteoriassaan](evoluutioteoria.md) edes väitä selittävänsä [elämän syntyä](abiogeneesi.md) vaan ainoastaan niitä mekanismeja, jotka ohjaavat eliöiden kehittymistä.
 
 > center
 > Minusta näyttää, että [Richard Dawkins](richard-dawkins.md) jättää koko ajan huomiotta sen, mitä Darwin itse sanoo teoksensa *Origin of Species* neljännessätoista luvussa. Siellä hän huomauttaa, että hänen koko argumenttinsa lähtee liikkeelle oliosta, joka on lisääntymiskykyinen. Tämä on se evoluution luomus, joka todella kokonaisvaltaisen evoluutioteorian pitäisi selittää. Darwin itse oli hyvin tietoinen siitä, ettei hän ollut tarjonnut tällaista selitystä. Minusta näyttää nyt, että yli viidenkymmenen vuoden DNA-tutkimus on tuottanut aineistoa uudelle ja valtavan vakuuttavalle argumentille suunnitteluteoria

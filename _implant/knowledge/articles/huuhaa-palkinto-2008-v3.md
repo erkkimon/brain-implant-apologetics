@@ -4,7 +4,7 @@ about: apologetics
 title: "Huuhaa-palkinto 2008"
 description: "Kuva: Vuoden 2008 Huuhaa-palkinto Skepsis ry antoi vuoden 2008 Huuhaa-palkintonsa Kustannus Oy Uudelle Tielle kasvatustieteen professori Tapio Puolimatkan Usko, tiede ja Raamattu sekä Usko, tiede ja evoluutio -kirjojen julkaisemisesta."
 tags: [apowiki, tapio-puolimatka, media, lukusuositukset]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Huuhaa-palkinto 2008".
@@ -26,7 +26,7 @@ Huuhaa-palkinnolle antamissaan [perusteluissa](http://www.skepsis.fi/HuuhaaPalki
 
 > Kuvittele, että olet ammattifilosofina analysoinut tieteellisen tutkimuksen peruslähtökohtia yli tuhannen sivun verran. Olet perustanut argumenttisi kansainvälisesti tunnettujen filosofien kuten Charles Taylorin, Alvin Plantingan ja William Alstonin ja tieteenhistorioitsijoiden kuten H. Floris Cohenin, Peter Harrisonin ja Margaret Oslerin tutkimuksille. Kuvittele edelleen, että uusateistinen yhdistys määrittelee kirjasi tavoitteen seuraavaan tapaan perustelematta väitettään yhdelläkään viittauksella kirjan tekstiin: *”Kirjan tavoitteena on kaiken opetuksen ja tieteen tekemisen lähtökohtien heittäminen roskakoriin, vain jotta saataisiin fundamentalistien Jumala ansaitsemalleen paikalle.”* Mitä vastaisit tähän?
 
-Puolimatka epäili, että palkinto myönnettiin hänen *Helsingin Sanomain* [vieraskynä-artikkelinsa](https://www.tapiopuolimatka.net/17) johdosta. Kyseisessä artikkelissaan Puolimatka esitteli juutalaisen ateistifilosofi [**Thomas Nagel**](https://fi.wikipedia.org/wiki/Thomas_Nagel)in näkemyksiä evoluutioteorian opettamisesta kouluissa. Avaruustähtitieteen professori **Esko Valtaoja**, tunnettu agnostikko ja tieteen popularisoija sekä yksi palkinnon voimakkaimmista puolestapuhujista, katsoi artikkelin olevan osa salajuonta, jolla pyritään ujuttamaan luomisoppi kouluihin tieteen tilalle. Valtaoja kertoi *Kotimaa*-lehden haastattelussa ehdottaneensa palkinnon antamista kritisoimalleen Puolimatkalle [vapaa-ajattelijoiden](https://fi.wikipedia.org/wiki/Vapaa-ajattelijain_liitto) ja Skepsis ry:n yhteisessä biologian ja maantieteen opettajille järjestetyssä (sisältönsä yksipuolisuudella huomiota herättäneessä) seminaarissa.
+Puolimatka epäili, että palkinto myönnettiin hänen *Helsingin Sanomain* [vieraskynä-artikkelinsa](https://www.tapiopuolimatka.net/17) johdosta. Kyseisessä artikkelissaan Puolimatka esitteli juutalaisen ateistifilosofi [**Thomas Nagel**in](https://fi.wikipedia.org/wiki/Thomas_Nagel) näkemyksiä evoluutioteorian opettamisesta kouluissa. Avaruustähtitieteen professori **Esko Valtaoja**, tunnettu agnostikko ja tieteen popularisoija sekä yksi palkinnon voimakkaimmista puolestapuhujista, katsoi artikkelin olevan osa salajuonta, jolla pyritään ujuttamaan luomisoppi kouluihin tieteen tilalle. Valtaoja kertoi *Kotimaa*-lehden haastattelussa ehdottaneensa palkinnon antamista kritisoimalleen Puolimatkalle [vapaa-ajattelijoiden](https://fi.wikipedia.org/wiki/Vapaa-ajattelijain_liitto) ja Skepsis ry:n yhteisessä biologian ja maantieteen opettajille järjestetyssä (sisältönsä yksipuolisuudella huomiota herättäneessä) seminaarissa.
 
 Puolimatka pitää tunnetun tieteentekijän kommentointia [hämmentävänä](tapio-puolimatka-vastine-valtaojalle.md):
 
@@ -49,11 +49,11 @@ Skepsis ry perusteli "Huuhaa-palkintoa" seuraavasti
 >
 > — 3.12.2008
 
-Perustelut vaikuttavat olevan sikäli ongelmallisia, että ne rikkovat Skepsiksen omia periaatteita.[^5] Skepsis ry:n mukaan skeptiseen keskusteluun *"kuuluu argumentointi eli väitteiden perusteleminen"*. Skepsiksen sivuilla listataan mm. seuraavia argumentointivirheitä:[^6]
+Perustelut vaikuttavat olevan sikäli ongelmallisia, että ne rikkovat Skepsiksen omia periaatteita.[^5] Skepsis ry:n mukaan [skeptiseen](../glossary/sanasto.md) keskusteluun *"kuuluu argumentointi eli väitteiden perusteleminen"*. Skepsiksen sivuilla listataan mm. seuraavia argumentointivirheitä:[^6]
 
 > *1) [Henkilöä vastaan hyökkääminen](argumentum-ad-hominem.md) – Hyökätään väitteen esittäjää eikä itse väitettä vastaan.*
 
-> *2) *"Straw man"* eli olkinukke <!-- red link: olkinukke --> – Ohitetaan vastustettava väite tekemällä siitä karikatyyri, olkinukke.*
+> *2) *"Straw man"* eli olkinukke <!-- red link: olkinukke --> – Ohitetaan vastustettava väite tekemällä siitä [karikatyyri](../glossary/sanasto.md), olkinukke.*
 > *Sitä vastaan hyökkäämällä ja naurettavaksi tekemällä pyritään mitätöimään vastustajan väite.*
 
 "Huuhaa-palkinnon" perusteluissa Skepsis aloittaa
@@ -145,7 +145,7 @@ Professori Puolimatka oli onnistunut mahduttamaan luentoonsa paljon keskeistä a
 * *perususkomusten välttämättömyys* ajattelun ja tutkimusintuitioiden pohjana sekä *teistisen ja naturalistisen* (itse asiassa tiukan ateistis-materialistisen) *perususkomuksen rinnasteisuus* tutkimusta edeltävänä ja suuntaavana (todellisuuden perusolemukseen kantaaottavuuden mielessä) *uskonnollisena lähtökohtana*,
 * *teistisen* perususkomuksen mahdollistama *suurempi avoimuus* tutkimushypoteesien esikarsinnassa ja sen *hedelmällisyys* käytännön pioneeritutkimuksessa, mistä esimerkkinä Newtonin painovoimalain edellyttämä mekanistisesti selittämättömän kaukovaikutuksen mahdollisuus, sekä
 * *teistisen* ajattelun varaan rakentuneen *kulttuuripohjan* ratkaiseva *vaikutus modernin luonnontieteen synnyn mahdollistajana* (minkä on todennut myös Nobel-palkittu kemian tutkija [Melvin Calvin](https://fi.wikipedia.org/wiki/Melvin_Calvin)) sekä
-* tämän seikan myöhempi *piilottaminen* positivistisvaikutteisessa [tieteen historiankirjoituksessa](https://fi.wikipedia.org/wiki/tieteen_historia) ja ennen vuotta 1967 vallinneessa naturalistisessa [tieteenfilosofiassa](https://fi.wikipedia.org/wiki/tieteenfilosofia) ([Alvin Plantinga](alvin-plantinga.md)n [*God and Other Minds: A Study of the Rational Justification of Belief in God*](http://theosproject.blogspot.com/2007/09/god-and-other-minds-alvin-plantinga.html) -teos käänsi suunnan),
+* tämän seikan myöhempi *piilottaminen* positivistisvaikutteisessa [tieteen historiankirjoituksessa](https://fi.wikipedia.org/wiki/tieteen_historia) ja ennen vuotta 1967 vallinneessa naturalistisessa [tieteenfilosofiassa](https://fi.wikipedia.org/wiki/tieteenfilosofia) ([Alvin Plantingan](alvin-plantinga.md) [*God and Other Minds: A Study of the Rational Justification of Belief in God*](http://theosproject.blogspot.com/2007/09/god-and-other-minds-alvin-plantinga.html) -teos käänsi suunnan),
 * siihen asti tuntemattomien *luonnonlakien olemassaolon mahdollisuuden päätteleminen teistisen perususkomuksen pohjalta* Lainantajan olemassaolosta ja toimintavapaudesta, mikä johti empiirisen tutkimuksen mahdollisuuteen ja korvaamattomuuteen ja näin modernin luonnontieteen syntyyn,
 * *naturalismin asema* teististen perususkomusten varaan perustuvan tieteellisen ajattelun "vapaamatkustajana" tai *"käenpoikana"*, joka kyllä on omaksunut toimiviksi osoittautuneet teistispohjaisen kulttuurin intuitiot ja pystyy niitä hyödyntämään muttei uusintamaan eikä edelleenkehittämään vaan pikemminkin nävertää kuin ylläpitää tulevaisuuden menestyksellisen tieteenteon perustuksia,
 * suunnittelun ja sattuma-luonnonvalintamekanismin välisen vastakkainasettelun yli 2.500-vuotinen historia, *luonnonvalinta-ajattelun asema naturalistisen perususkomuksen suorana loogisena seurauksena*, minkä jo antiikinaikainen lähdemateriaali osoittaa, ja *[Sokrates](https://fi.wikipedia.org/wiki/Sokrates)* nimenomaan *suunnitteluvaihtoehdon puolustajana*, jolle Skepsis siis olisi joutunut antamaan "huuhaa-palkinnon",
@@ -213,7 +213,7 @@ Puolimatkan [vastine](tapio-puolimatka-käsitykset-testataan-moniäänisessä-di
 [^6]: Vesa Tenhunen, [Argumentoinnin virheet](http://www.skepsis.fi/jutut/virhelista.html), Skepsis ry, viitattu 05.12.2008
 [^7]: Pauli Ojala, [Skepsis ry](http://www.helsinki.fi/~pjojala/skepsis.htm), 11.2008, viitattu 17.08.2010
 [^8]: Vrt. listan kohtaa 2.
-[^9]: Valikoiva linja vaikuttaa varsin johdonmukaiselta: v. 2007 "Sokrates-palkinto" osoitettiin Skepsis ry:n oman tieteellisen neuvottelukunnan jäsenelle, dosentti Marjaana Lindemanille tutkimusryhmineen, ja v. 2009 saman neuvottelukunnan jäsenelle professori [Kari Enqvist](kari-enqvist.md)ille.
+[^9]: Valikoiva linja vaikuttaa varsin johdonmukaiselta: v. 2007 "Sokrates-palkinto" osoitettiin Skepsis ry:n oman tieteellisen neuvottelukunnan jäsenelle, dosentti Marjaana Lindemanille tutkimusryhmineen, ja v. 2009 saman neuvottelukunnan jäsenelle professori [Kari Enqvistille](kari-enqvist.md).
 [^10]: Jussi Rytkönen, *Skepsis väisti Savonlinnan uskontokeskustelun*, eKotimaa, 03.03.2009, viitattu 06.03.2009
 [^11]: Taneli Kylätasku, *Skepsis yrittää mahdotonta*, eKotimaa, 05.03.2009, viitattu 06.03.2009
 [^12]: Taneli Kylätasku, *Esko Valtaoja: Huuhaa-palkinto "todellakin" oikeaan osoitteeseen*, eKotimaa-verkkolehti, 18.12.2008, viitattu 12.2008

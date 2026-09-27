@@ -4,7 +4,7 @@ about: apologetics
 title: "Entropian lain evoluutioteoreettinen merkitys"
 description: "Ohjaamattoman evoluution mahdollisuuteen tai mahdottomuuteen liittyvissä väittelyissä tulee usein esille termodynamiikan toinen pääsääntö eli entropian laki."
 tags: [apowiki, evoluutioteoria]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Entropian lain evoluutioteoreettinen merkitys".
@@ -154,7 +154,7 @@ Väite on matemaattisesti mahdollinen[^34] mutta luonnontieteellisesti kiistanal
 
 Yleisen **todistustaakan periaatteen**[^35] lisäksi tämän vaatimuksen voi katsoa seuraavan todennäköisyyslaskennassa yleisesti hyväksytystä **"riittämättömien syiden periaatteesta"**, jonka mukaan *tasainen jakauma on oletusarvoinen lähtökohta, josta ei tule poiketa ilman riittävän painavaa syytä*[^36]. Tämän voi katsoa yleistyvän ehdollisten todennäköisyyksien laskemiseen: *jos yksittäistapahtumien todennäköisyyksien laskemiseen on käytetty tasaista jakaumaa, niin juuri riippumattomuusoletus pitää myös yhdistettyjen tapahtumien todennäköisyysjakauman tasaisena[^37], joten siitä ei tule poiketa ilman riittävän painavaa syytä*.
 
-[Suunnitteluteoria](suunnitteluteoria.md)n tarkoituksellisuuspäättelyt todellakin edellyttävät satunnaissyntytodennäköisyysylärajojen arvioimista, ja näitä arvioita on julkisesti esitetty[^38]. Kaikki ovat mitä tervetulleimpia kritisoimaan niitä ja esittämään perusteltuja konkreettisia korjausehdotuksia. Tämähän se juuri veisikin asioita eteenpäin!
+[Suunnitteluteorian](suunnitteluteoria.md) tarkoituksellisuuspäättelyt todellakin edellyttävät satunnaissyntytodennäköisyysylärajojen arvioimista, ja näitä arvioita on julkisesti esitetty[^38]. Kaikki ovat mitä tervetulleimpia kritisoimaan niitä ja esittämään perusteltuja konkreettisia korjausehdotuksia. Tämähän se juuri veisikin asioita eteenpäin!
 
 #### "Kun asia on joka tapauksessa kiistanalainen, miksi luottaisin juuri tämän artikkelin sisältöön?"
 
@@ -169,13 +169,13 @@ Järkevästi ajatellen mistään lähteestä löytyneisiin ajatuksiin ei ole syy
   1. Ottaen huomioon, että naturalistisen premissin mukaan universumi kokonaisuudessaan on eristetty systeemi, niin mitä tämän luonnehdinnan mukaan sen kokonaisentropialle kaiken aikaa tapahtuu?
   1. Ottaen huomioon, että universumin sisällä on myös eristettyjä osakokonaisuuksia, niin mitä niiden itse kunkin sisäiselle entropialle tämän luonnehdinnan mukaan kaiken aikaa tapahtuu?
   1. Ottaen huomioon eristetyn systeemin määritelmän sekä sen, että universumin eristetyksi systeemiksi olettaen jokainen sen sisältämä avoin tai suljettu osasysteemi sisältyy johonkin (yhteen tai useampaan[^39]) eristettyyn systeemiin, niin voiko mikään avoin tai suljettu systeemi entropian kasvun välttämisen kannalta mitenkään hyötyä
-##* mahdollisesti sisältämistään eristetyistä osasysteemeistä?
-##* suppeimman eristetyn ympäröivän systeeminsä[^40] ulkopuolelta tulevista vaikutuksista?
-##* suppeimman eristetyn ympäröivän systeeminsä sisäisistä mutta itsensä ulkopuolisista eristetyistä systeemeistä?[^41]
+      * mahdollisesti sisältämistään eristetyistä osasysteemeistä?
+      * suppeimman eristetyn ympäröivän systeeminsä[^40] ulkopuolelta tulevista vaikutuksista?
+      * suppeimman eristetyn ympäröivän systeeminsä sisäisistä mutta itsensä ulkopuolisista eristetyistä systeemeistä?[^41]
   1. Ottaen huomioon vastaukset edelliskohtien kysymyksiin, voiko avoin tai suljettu termodynaaminen systeemi entropian lain evoluutioteoreettisen merkityksen tarkastelun kannalta mielenkiintoisilta osiltaan itse asiassa olla muuntyyppinen kuin suppeimman eristetyn ympäröivän punkteeratun systeeminsä[^42] aito[^43] osa?[^44]
   1. Jos nyt edelliskohtien läpikäynti omassa mielessä on vakuuttanut tämän lukijan siitä, että naturalismin puitteissa jokainen avoin tai suljettu muttei eristetty termodynaaminen systeemi itse asiassa on joka hetki osa suppeinta ympäröivää eristettyä termodynaamista systeemiä, jota naturalistienkin myöntämä entropian lain suppeakin tulkinta koskee, päästään siirtymään seuraaviin kysymyksiin:
-###* *Miten eristetyssä termodynaamisessa systeemissä, jonka entropia joko on jo maksimaalinen tai sitten kaiken aikaa kasvamassa, olisi voinut satunnaistarkoituksettomasti muodostua sellainen avoin tai suljettu muttei eristetty osasysteemi, jonka sisällä alkukopioituja voisi sitten satunnaistarkoituksettomasti kehkeytyä?*
-###* *Kun siis entropian laki joka tapauksessa sulkee pois sellaisen vaihtoehdon, että alkukopioituja olisi noin vain itsestään kehkeytynyt ilman erityisen suotuisaa ympäristöä, niin miten sitten tällainen erityisen suotuisa ympäristö olisi voinut noin vain itsestään kehkeytyä ilman sitä edeltävää erityisen suotuisaa ympäristönkehkeytymisympäristöä?*
+         * *Miten eristetyssä termodynaamisessa systeemissä, jonka entropia joko on jo maksimaalinen tai sitten kaiken aikaa kasvamassa, olisi voinut satunnaistarkoituksettomasti muodostua sellainen avoin tai suljettu muttei eristetty osasysteemi, jonka sisällä alkukopioituja voisi sitten satunnaistarkoituksettomasti kehkeytyä?*
+         * *Kun siis entropian laki joka tapauksessa sulkee pois sellaisen vaihtoehdon, että alkukopioituja olisi noin vain itsestään kehkeytynyt ilman erityisen suotuisaa ympäristöä, niin miten sitten tällainen erityisen suotuisa ympäristö olisi voinut noin vain itsestään kehkeytyä ilman sitä edeltävää erityisen suotuisaa ympäristönkehkeytymisympäristöä?*
     1. Koska vastaavan järkeilyn toistaminen johtaa edellyttämään erityistä suotuisuutta myös ympäristönkehkeytymisympäristön kehkeytymisympäristöltä jne. loputtomiin, niin onko naturalistilla entropian lain edessä lopultakaan muuta mahdollisuutta kuin vedota siihen, että "jotenkin sen on täytynyt olla mahdollista, koskapa me ja koko biosfääri olemme olemassa"?
     1. Eikö kuitenkin ole aivan ilmeistä, että tuollainen "jotenkin sen on täytynyt olla mahdollista" -kuittaus edustaa pelkkää sokeaa uskoa sokean sattuman mahdollisuuksiin ja että tällainen naturalistinen fideismi on sovittamattomassa ristiriidassa empiirisen luonnontieteen kanssa niin periaatteen kuin käytännönkin tasolla?
     1. Eikö ole yhtä ilmeistä, että tällaisesta sokean naturalistisen fideismin umpikujasta on olemassa ainakin yksi loogisesti mielekäs ulospääsy: koska naturalismin ja empiirisen luonnontieteen yhdistelmä on johtanut älyllisesti mahdottomaan tilanteeseen, jompikumpi niistä on hylättävä?

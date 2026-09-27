@@ -7,7 +7,7 @@ book: exo
 testament: ot
 chapters: 40
 tags: [raamattu, kirja, exo]
-timestamp: 2026-09-26T11:30:00Z
+timestamp: 2026-09-27T13:00:00Z
 half_life: 0
 ---
 
@@ -19,4 +19,18 @@ Luvut, jaetunnisteet ja kirjan teologinen käsittely ovat teologiaimplantissa, j
 
 <brain://theology-kay4zyljsuy909krumpau/knowledge/scripture/exo/exo.md>
 
-Tämän implantin artikkelit, jotka viittaavat kirjaan, näkyvät sivun takaisinlinkeissä.
+## ApoWikin artikkelit, jotka viittaavat kirjaan
+
+Suurin viittausmäärä ensin (raamatunkohdat ja kirjan nimeävät linkit).
+
+* [Messias-ennustukset](../articles/messias-ennustukset.md) — 5
+* [John Hartnettin kosmologinen malli](../articles/john-hartnettin-kosmologinen-malli.md) — 2
+* [Kristillinen kasvatus](../articles/kristillinen-kasvatus.md) — 2
+* [Kristillinen seksuaalietiikka](../articles/kristillinen-seksuaalietiikka.md) — 2
+* [Maailman ikä – teologinen näkökulma](../articles/maailman-ikä-teologinen-näkökulma.md) — 2
+* [Daniel Nylund: Maailmankatsomus ei saa olla ristiriidassa todellisuuden kanssa (Ajankohtainen 3, III luku)](../articles/daniel-nylund-maailmankatsomus-ei-saa-olla-ristiriidassa-todellisuuden-kanssa-ajankohtainen-3-iii-luku.md) — 1
+* [Epäilijän kirjeet (kirja)](../articles/epäilijän-kirjeet-kirja.md) — 1
+* [Kanaanilaisten kansanmurha](../articles/kanaanilaisten-kansanmurha.md) — 1
+* [Luominen Raamatussa](../articles/luominen-raamatussa.md) — 1
+* [Orjuus](../articles/orjuus.md) — 1
+* [Toora](../articles/toora.md) — 1

@@ -4,7 +4,7 @@ about: apologetics
 title: "Jan Nummensalo: Antarktiksen vuoristo tukee Raamattua"
 description: "Lähes keskellä Antarktiksen mannerta sijaitsee Euroopan Alppien kokoinen Gamburtsev nimen saanut vuoristo."
 tags: [apowiki, tekijänoikeuden-alaiset-artikkelit, luomisoppi]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jan Nummensalo: Antarktiksen vuoristo tukee Raamattua".
@@ -35,6 +35,6 @@ Lähteet:
 ## Viitteet
 
 [^1]: http://www.nsf.gov/news/news_summ.jsp?cntn_id=114172&org=NSF&from=news
-[^2]: (Psa 104:6-9)  … vuoria ylempänä seisoivat vedet. Mutta ne pakenivat Sinun nuhteluasi, Sinun jylinääsi ne juoksivat pakoon; vuoret kohosivat ja laaksot laskeutuivat paikkoihin, jotka Sinä olit niille valmistanut. Sinä panit rajan, jonka yli vedet eivät käy eivätkä palaja peittämään maata.
+[^2]: ([Psa 104:6-9](../books/psa.md))  … vuoria ylempänä seisoivat vedet. Mutta ne pakenivat Sinun nuhteluasi, Sinun jylinääsi ne juoksivat pakoon; vuoret kohosivat ja laaksot laskeutuivat paikkoihin, jotka Sinä olit niille valmistanut. Sinä panit rajan, jonka yli vedet eivät käy eivätkä palaja peittämään maata.
 [^3]: Ns. ydintalvi-hypoteesissa oletetaan että ydinsota nostaisi niin paljon pölyä ilmakehään, että se johtaisi maapallon ilmaston huomattavaan väliaikaiseen kylmenemiseen. Monet ajattelevat vedenpaisumuksen yhteydessä tapahtuneen vulkaanisen toiminnan johtaneen vastaavanlaiseen ilmiöön.
 [^4]: Answers, vol.3, no. 4, July-September 2009, s. 11

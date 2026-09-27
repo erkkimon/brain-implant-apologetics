@@ -7,7 +7,7 @@ book: amo
 testament: ot
 chapters: 9
 tags: [raamattu, kirja, amo]
-timestamp: 2026-09-26T11:30:00Z
+timestamp: 2026-09-27T13:00:00Z
 half_life: 0
 ---
 
@@ -19,4 +19,8 @@ Luvut, jaetunnisteet ja kirjan teologinen käsittely ovat teologiaimplantissa, j
 
 <brain://theology-kay4zyljsuy909krumpau/knowledge/scripture/amo/amo.md>
 
-Tämän implantin artikkelit, jotka viittaavat kirjaan, näkyvät sivun takaisinlinkeissä.
+## ApoWikin artikkelit, jotka viittaavat kirjaan
+
+Suurin viittausmäärä ensin (raamatunkohdat ja kirjan nimeävät linkit).
+
+* [Luominen Raamatussa](../articles/luominen-raamatussa.md) — 1

@@ -4,7 +4,7 @@ about: apologetics
 title: "Daniel Nylund: Maailmankatsomus ei saa olla sisäisesti ristiriitainen (Ajankohtainen 3, II luku)"
 description: "Tätä ensimmäistä maailmankatsomuksen laatuvaatimusta eli totuuskriteeriä voidaan kutsua myös koherenssi- tai rationaalisuusperiaatteeksi."
 tags: [apowiki, maailmankatsomus, tekijänoikeuden-alaiset-artikkelit]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Daniel Nylund: Maailmankatsomus ei saa olla sisäisesti ristiriitainen (Ajankohtainen 3, II luku)".
@@ -395,7 +395,7 @@ Logiikka, joka on irrotettu muusta kokemusperäisestä todellisuudesta, jää aj
 [^10]: AURA-lehti n:o 2, 1976
 [^11]: How to Know God. New American Library 1969
 [^12]: Stanislaw Grof, Realms of Human Unconscious, Observations from LSD Research, An Esalen Book. Viking Press 1975
-[^13]: (Snl. 17:28)
+[^13]: ([Snl. 17:28](../books/pro.md))
 [^14]: O. Ketonen, Eurooppalaisen ihmisen maailmankatsomus. WSOY-63, s. 117.
 [^15]: Lainaus 1801 kirjoitetusta artikkelista Fichtestä ja Schnellingistä. Siteerattu William Youngin kirjasta Hegel's Dialectical Method. Craig Press, s. 133
 [^16]: Kirjasta The Logic of Hegel. Siteerattu William Youngin kirjasta Hegel's Dialectical Method. Craig Press, s. 20.
@@ -414,11 +414,11 @@ Logiikka, joka on irrotettu muusta kokemusperäisestä todellisuudesta, jää aj
 [^29]: O. Ketonen, Eurooppalaisen ihmisen maailmankatsomus. WSOY-63, s. 117
 [^30]: En tietenkään välitä, etteivätkö opiskelijamellakat olisi olleet osittain oikeutettujakin.
 [^31]: H. Marcuse, Reason and Revolution, Hegel and the Rise of Social Theory. Beacon Press 1960, johdanto s. 12
-[^32]: (2. Tess. 2:7)
-[^33]: (1. Kor. 14:9)
-[^34]: (Psalmi 32:9)
-[^35]: (Sananlaskut 1:22)
-[^36]: (Sananlaskut 26:5)
+[^32]: ([2. Tess. 2:7](../books/2th.md))
+[^33]: ([1. Kor. 14:9](../books/1co.md))
+[^34]: ([Psalmi 32:9](../books/psa.md))
+[^35]: ([Sananlaskut 1:22](../books/pro.md))
+[^36]: ([Sananlaskut 26:5](../books/pro.md))
 [^37]: A. Camus, The Rebel s. 16
 [^38]: W. S. Maugham, The Summing Upo Penguin 1963, s. 179
 [^39]: Mies, joka on omistanut elämänsä Jumalan kieltämiselle, ILTALEHTI 7.5.82.
@@ -426,41 +426,41 @@ Logiikka, joka on irrotettu muusta kokemusperäisestä todellisuudesta, jää aj
 [^41]: L. Feuerbach, The Essence of Christianity. Harper Torchbooks Edition 1957
 [^42]: Vastaavia uskontopsykologisia väitteitä on tarkemmin käsitelty Tapio Puolimatkan artikkelissa Perusteltu usko kirjassa KRISTITYN KASVU no 4
 [^43]: Ernest Jones, The Life and Work of Sigmund Freud
-[^44]: (Room. 2:4)
-[^45]: (5. Moos. 8:5)
-[^46]: (Sananlaskut 6:16-19),  (Room. 1:18),  (Psalmi 103:8),  (Psalmi 58:10-11).
-[^47]: (Joh. 3:33),  (Joh. 8:26),  (Joh. 7:28),  (Joh. 17:3),  (Room. 3:4),  (1. Tess. 1:9),  (1. Joh. 5:20),  (Ilm. 3:7),  (Ilm. 6:10)
-[^48]: (Joh. 17:17),  (Ilm. 19:9),  (Ilm. 21:5),  (Jer. 10:10)
-[^49]: (Joh. 14:6)
-[^50]: (Joh. 8:45-46),  (Joh. 16:7)
-[^51]: (Joh. 14:17),  (Joh. 15:26),  (1. Joh. 4:6)
-[^52]: (Joh. 16:13)
-[^53]: (Joh. 8:32)
-[^54]: (1. Tim. 2:4),  (2. Tim. 3:7)
-[^55]: (1. Piet. 1:22)
-[^56]: (1. Joh. 1:10)
-[^57]: (1. Joh. 5:10)
-[^58]: (Room. 1:25),  (2. Tess. 2:11)
-[^59]: (Jes. 28:15)
-[^60]: (Hes. 13:8),  (Jes. 28:17)
-[^61]: (Room. 2:8)
-[^62]: (Room. 1:18)
-[^63]: (2. Tim. 3:8)
-[^64]: (2. Tim. 4:4)
-[^65]: (Tiit. 1:14)
-[^66]: (Jaak. 3:14)
-[^67]: (2. Piet. 2:2)
-[^68]: (1. Kor. 13:6)
-[^69]: (1. Piet. 1:22),  (2. Piet. 1:12)
-[^70]: (2. Joh. 1:4),  (Joh. 1:9),  (1. Joh. 1:7)
-[^71]: (Fil. 4:8)
-[^72]: (Joh. 4:23-24)
-[^73]: (Joh. 1:1)
-[^74]: (1. Joh. 1:10)
+[^44]: ([Room. 2:4](../books/rom.md))
+[^45]: ([5. Moos. 8:5](../books/deu.md))
+[^46]: ([Sananlaskut 6:16-19](../books/pro.md)),  ([Room. 1:18](../books/rom.md)),  ([Psalmi 103:8](../books/psa.md)),  ([Psalmi 58:10-11](../books/psa.md)).
+[^47]: ([Joh. 3:33](../books/jhn.md)),  ([Joh. 8:26](../books/jhn.md)),  ([Joh. 7:28](../books/jhn.md)),  ([Joh. 17:3](../books/jhn.md)),  ([Room. 3:4](../books/rom.md)),  ([1. Tess. 1:9](../books/1th.md)),  ([1. Joh. 5:20](../books/1jn.md)),  ([Ilm. 3:7](../books/rev.md)),  ([Ilm. 6:10](../books/rev.md))
+[^48]: ([Joh. 17:17](../books/jhn.md)),  ([Ilm. 19:9](../books/rev.md)),  ([Ilm. 21:5](../books/rev.md)),  ([Jer. 10:10](../books/jer.md))
+[^49]: ([Joh. 14:6](../books/jhn.md))
+[^50]: ([Joh. 8:45-46](../books/jhn.md)),  ([Joh. 16:7](../books/jhn.md))
+[^51]: ([Joh. 14:17](../books/jhn.md)),  ([Joh. 15:26](../books/jhn.md)),  ([1. Joh. 4:6](../books/1jn.md))
+[^52]: ([Joh. 16:13](../books/jhn.md))
+[^53]: ([Joh. 8:32](../books/jhn.md))
+[^54]: ([1. Tim. 2:4](../books/1ti.md)),  ([2. Tim. 3:7](../books/2ti.md))
+[^55]: ([1. Piet. 1:22](../books/1pe.md))
+[^56]: ([1. Joh. 1:10](../books/1jn.md))
+[^57]: ([1. Joh. 5:10](../books/1jn.md))
+[^58]: ([Room. 1:25](../books/rom.md)),  ([2. Tess. 2:11](../books/2th.md))
+[^59]: ([Jes. 28:15](../books/isa.md))
+[^60]: ([Hes. 13:8](../books/ezk.md)),  ([Jes. 28:17](../books/isa.md))
+[^61]: ([Room. 2:8](../books/rom.md))
+[^62]: ([Room. 1:18](../books/rom.md))
+[^63]: ([2. Tim. 3:8](../books/2ti.md))
+[^64]: ([2. Tim. 4:4](../books/2ti.md))
+[^65]: ([Tiit. 1:14](../books/tit.md))
+[^66]: ([Jaak. 3:14](../books/jas.md))
+[^67]: ([2. Piet. 2:2](../books/2pe.md))
+[^68]: ([1. Kor. 13:6](../books/1co.md))
+[^69]: ([1. Piet. 1:22](../books/1pe.md)),  ([2. Piet. 1:12](../books/2pe.md))
+[^70]: ([2. Joh. 1:4](../books/2jn.md)),  ([Joh. 1:9](../books/jhn.md)),  ([1. Joh. 1:7](../books/1jn.md))
+[^71]: ([Fil. 4:8](../books/php.md))
+[^72]: ([Joh. 4:23-24](../books/jhn.md))
+[^73]: ([Joh. 1:1](../books/jhn.md))
+[^74]: ([1. Joh. 1:10](../books/1jn.md))
 [^75]: Minä en puhu Logoksesta sellaisena kuin gnostilaiset ja platonilaiset sen ymmärsivät ja sellaisena kuin filosofi Sven Krohn sen esittää kirjassaan "Ihminen, luonto ja Logos" (Gummerus -81), persoonattomana universumin perustana, vaan persoonallisen universumin luojana.
-[^76]: (Apt. 25:27),  (2. Piet. 2:1-12),  (Juud. 1:10)
-[^77]: (2. Tess. 2:7),  (Matt 24:12)
+[^76]: ([Apt. 25:27](../books/act.md)),  ([2. Piet. 2:1-12](../books/2pe.md)),  ([Juud. 1:10](../books/jud.md))
+[^77]: ([2. Tess. 2:7](../books/2th.md)),  ([Matt 24:12](../books/mat.md))
 [^78]: Horkheimer, Theismus - Atheismus, lainattu H. Küngin kirjasta "Does God Exist?".
-[^79]: (Room. 1:25)
-[^80]: (Kol. 2:8)
+[^79]: ([Room. 1:25](../books/rom.md))
+[^80]: ([Kol. 2:8](../books/col.md))
 [^81]: Asiaa on käsitelty tarkemmin Tapio Puolimatkan artikkelissa Perusteltu usko kirjassa KRISTITYN KASVU no 4

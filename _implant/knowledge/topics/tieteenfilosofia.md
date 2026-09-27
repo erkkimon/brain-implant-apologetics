@@ -4,7 +4,7 @@ about: apologetics
 title: "Tieteenfilosofia"
 description: "17 ApoWiki-artikkelia aihepiiristä tieteenfilosofia — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, tieteenfilosofia]
-timestamp: 2026-09-25T23:30:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 
 # Tieteenfilosofia
@@ -24,7 +24,7 @@ Aihepiirin tieteenfilosofia artikkelit, tuotu [ApoWikistä](https://apowiki.fi).
 * [Supranaturalistinen tutkimusohjelma](../articles/supranaturalistinen-tutkimusohjelma.md) — Supranaturalismilla tarkoitetaan käsitystä, jonka mukaan Jumala on puhtaasti henkinen olento, joka on kausaalisesti riippumaton luonnollisista….
 * [Tiede](../articles/tiede.md) — Tiede tarkoittaa todellisuuden ilmiöiden ja niiden välisten suhteiden järjestelmällistä ja arvostelevaa tutkimista sekä sen avulla saatua tietojen….
 * [Tiedekeskustelun avoimuuskoe (kirja)](../articles/tiedekeskustelun-avoimuuskoe-kirja.md) — Tiedekeskustelun avoimuuskoe on Tapio Puolimatkan kirjoittama kirja, joka analysoi tieteellisen tutkimuksen ja itsekriittisen tiedeyhteisön….
-* [Tieteen ja uskonnon välinen suhde](../articles/tieteen-ja-uskonnon-välinen-suhde.md) — Ian Barbour esittää neljä yleistä mallia tieteen ja uskonnon suhteelle: Vaikka erilliset alueet -malli on ollut teologien keskuudessa jo noin sata….
+* [Tieteen ja uskonnon välinen suhde](../articles/tieteen-ja-uskonnon-välinen-suhde.md) — Ian Barbour esittää neljä yleistä mallia tieteen ja uskonnon suhteelle: 1.
 * [Tieteen tulosten valikoiva vastustaminen](../articles/tieteen-tulosten-valikoiva-vastustaminen.md) — Tieteen tulosten valikoiva vastustaminen on syytös, jonka voi kohdistaa ja joka onkin kohdistettu eri todellisuuskäsitysvaihtoehtojen edustajiin.
 * [Todennettavuusehto](../articles/todennettavuusehto.md) — Loogisen empirismin perusajatus on ns.
 * [Todistuksen taakka](../articles/todistuksen-taakka.md) — Usein kuulee sanottavan, ettei olematonta voi todistaa olemattomaksi.

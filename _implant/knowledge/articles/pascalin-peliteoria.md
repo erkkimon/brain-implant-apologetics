@@ -4,7 +4,7 @@ about: apologetics
 title: "Pascalin peliteoria"
 description: "Pascalin peliteoria (Pascalin vaaka, Pascalin vedonlyönti, Pascalin argumentti, peliteoreettinen argumentti, pelurin todistus) on yksi peruste uskoa Jumalaan."
 tags: [apowiki, maailmankatsomus, pascalin-veto, pascalin-vaaka, blaise-pascal, pascalin-gambiitti, pascalin-peliteoria, ateismi, teismi, järki, usko, tieto]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Pascalin peliteoria".
@@ -26,7 +26,7 @@ Asian luonteesta johtuu, että tämän pelin tulos ratkeaa ja mahdollinen voiton
 
 ### "Elämä pelissä"
 
-Pascalin vaa'an taustalla on [kristinusko](https://fi.wikipedia.org/wiki/kristinusko)n jumalakäsitys, erityisesti siitä näkökulmasta, joka on Raamatussa ilmaistu esim.  (Hepr. 11:6).
+Pascalin vaa'an taustalla on [kristinuskon](https://fi.wikipedia.org/wiki/kristinusko) jumalakäsitys, erityisesti siitä näkökulmasta, joka on Raamatussa ilmaistu esim.  ([Hepr. 11:6](../books/heb.md)).
 
 Pelurin todistus sanoo, että vaikka ei tiedettäisi, onko Jumala olemassa vai ei, Jumalaan ei kannata jättää uskomatta, sillä vaikka Jumalaa ei olisikaan, asiasta ei voisi koskaan olla varma eikä tällaisesta uskomuksesta olisi mitään hyötyä. Sen sijaan Jumalaan kannattaa uskoa, koska näin saavutettava palkinto, iankaikkinen elämä, on äärettömän suuri, ja epäuskosta seuraava rangaistus, iankaikkinen kärsimys, on hirvittävä.
 
@@ -60,7 +60,7 @@ Hän muotoilee seuraavan järjestyksen epäilijän kohtaamiseen:
 > — [Blaise Pascal](blaise-pascal.md)[^11]
 
 Pascalin mukaan Raamatun pohjalta on täysin luonnollista odottaa, ettei Jumala näyttäydy meille täysin kirkkaasti, niin ettei tätä valoa voisi ihminen torjua, sillä Raamatun Jumala on salattu Jumala:
-"Totisesti, sinä olet salattu Jumala, sinä Israelin Jumala, sinä Vapahtaja." ( (Jes. 45:15))
+"Totisesti, sinä olet salattu Jumala, sinä Israelin Jumala, sinä Vapahtaja." ( ([Jes. 45:15](../books/isa.md)))
 
 > Jos tämä uskonto kerskailisi näkevänsä Jumalan kirkkaasti, ja että tämä näkymä on avoin ja verhoamatton, tätä vastaan voisi hyökätä ​​sanomalla, ettei maailmassa ole mitään, mikä osoittaisi sen tällä tavalla kirkkaasti. Mutta sen sijaan se päinvastoin sanoo, että ihmiset ovat pimeydessä ja vieraantuneita Jumalasta, että Hän on piiloutunut heidän tiedoltaan, että tämä on itse asiassa se nimi, jonka Hän antaa itselleen Raamatussa, *Deus absconditus*;
 >
@@ -139,7 +139,7 @@ Tämähän on periaatteessa täysin mahdollista. On tosin myös mahdollista ett�
 
 Kaikkein parhaiten argumentti toimii luultavasti ateistiksi kääntymisen ehkäisijänä. Minkä takia ihmisen, joka on elänyt esimerkiksi kristittynä, kannattaisi missään tilanteessa kääntyä ateistiksi?
 
-Ateistiksi kääntymisen ymmärrettävänä perusteluna voisi pitää totuuden seuraamista ehdoitta. Jos siis todistusaineisto vastaansanomattomalla tavalla osoittaisi, ettei mitään jumalia ole olemassa, niin tätä voisi pitää hyvänä syynä kääntyä ateistiksi. On kuitenkin varsin helppo havaita, ettei mitään varsinaisia jumalattomuustodistuksia ole olemassa. Yksittäisiä teistisiä uskomuksia vastaan on kyllä esitetty monia argumentteja, mutta juuri ateismiin uskomisen perusteeksi tarjotaan yleensä [tietämättömyyteen vetoamista](argumentum-ad-ignorantiam.md).[^21] Ateisti voi siis sanoa, että teistin tulisi todistaa Jumalan olemassaolo, ennen kuin hänen olisi järkevää uskoa siihen. Jos teisti sitten tarjoaa jonkun [perusteen](jumalan-olemassaolo.md) Jumalan olemassaololle, ateisti voi syyttää teistiä [aukkojen Jumala](aukkojen-jumala-v2.md)an vetoamisesta ja todeta ettei todiste ole riittävän hyvä. Ateistin on käytännössä aina mahdollista keksiä [vaihtoehtoinen selitys](naturalistien-paniikkiratkaisut.md) todistusaineistolle, tai sitten hän voi todeta, ettei asiaa vielä tiedetä, niin kauan kuin Jumala olisi ainoa ratkaisu ongelmaan. Jos ateistilta sitten kysyy, että minkälainen todiste riittäisi, jotta Jumalan olemassaoloa voisi pitää uskottavana, ateisti saattaa tähän vastata, että Jumala kyllä tietäisi [mikä olisi riittävä todiste](ateismin-falsifioitavuus.md) ja esittäisi sen varmasti, jos olisi olemassa. Tähän päälle voi vielä kysyä: ["Miksei Jumala ilmoita itseään selvästi?"](miksei-jumala-ilmoita-itseään-selvästi-v2.md) Tämän retoriikan jäljiltä tulee kuitenkin huomata, ettei ateismille ole edelleenkään esitetty ainoatakaan järjellistä todistetta. Tietämättömyyteen vetoaminen on nimittäin argumentointivirhe.
+Ateistiksi kääntymisen ymmärrettävänä perusteluna voisi pitää totuuden seuraamista ehdoitta. Jos siis todistusaineisto vastaansanomattomalla tavalla osoittaisi, ettei mitään jumalia ole olemassa, niin tätä voisi pitää hyvänä syynä kääntyä ateistiksi. On kuitenkin varsin helppo havaita, ettei mitään varsinaisia jumalattomuustodistuksia ole olemassa. Yksittäisiä teistisiä uskomuksia vastaan on kyllä esitetty monia argumentteja, mutta juuri ateismiin uskomisen perusteeksi tarjotaan yleensä [tietämättömyyteen vetoamista](argumentum-ad-ignorantiam.md).[^21] Ateisti voi siis sanoa, että teistin tulisi todistaa Jumalan olemassaolo, ennen kuin hänen olisi järkevää uskoa siihen. Jos teisti sitten tarjoaa jonkun [perusteen](jumalan-olemassaolo.md) Jumalan olemassaololle, ateisti voi syyttää teistiä [aukkojen Jumalaan](aukkojen-jumala-v2.md) vetoamisesta ja todeta ettei todiste ole riittävän hyvä. Ateistin on käytännössä aina mahdollista keksiä [vaihtoehtoinen selitys](naturalistien-paniikkiratkaisut.md) todistusaineistolle, tai sitten hän voi todeta, ettei asiaa vielä tiedetä, niin kauan kuin Jumala olisi ainoa ratkaisu ongelmaan. Jos ateistilta sitten kysyy, että minkälainen todiste riittäisi, jotta Jumalan olemassaoloa voisi pitää uskottavana, ateisti saattaa tähän vastata, että Jumala kyllä tietäisi [mikä olisi riittävä todiste](ateismin-falsifioitavuus.md) ja esittäisi sen varmasti, jos olisi olemassa. Tähän päälle voi vielä kysyä: ["Miksei Jumala ilmoita itseään selvästi?"](miksei-jumala-ilmoita-itseään-selvästi-v2.md) Tämän retoriikan jäljiltä tulee kuitenkin huomata, ettei ateismille ole edelleenkään esitetty ainoatakaan järjellistä todistetta. Tietämättömyyteen vetoaminen on nimittäin argumentointivirhe.
 
 On siis naiivia kuvitella, että ateismiin uskottaisiin, koska sen tiedettäisiin olevan totta. Useimmat ateistit myöntävätkin olevansa tietojensa puolesta agnostikkoja[^22]: heillä ei mielestään ole riittävää tietoa uskoakseen jumalaan – eikä toisaalta riittävää tietoa todistaakseen, ettei jumalia ole. Jos asiaa ei voida ratkaista puhtaasti tiedollisilla argumenteilla, niin peliteoreettinen lähestymistapa on erittäin perusteltu ja ateismi voidaan hylätä puhtaasti käytännöllisistä syistä.[^23]
 
@@ -176,7 +176,7 @@ Tämän takia ihmisen, joka ei voi olla varma ateismin totuudellisuudesta, ei j�
 [^1]: Vaikka onkin periaatteessa mahdollista välttää lausumasta asiasta mitään mielipidettä, on aivan eri asia elää elämäänsä ikään kuin Jumala olisi todellisesti olemassa kuin ikään kuin Jumalaa ei olisikaan. Käytännössä siis agnostikkokin "asettaa panoksensa" joko teismin tai ateismin puolelle.
 [^2]: Ihmisen osaksi tuleva "henkilökohtainen tulos" siis tämän argumentin mukaan kyllä voi riippuakin ihmisen uskosta, mutta *tuloksen ratkaiseva tekijä* (perimmäinen totuus olemassaolon luonteesta) on ihmisten kannanotoista riippumaton.
 [^3]: Tässä toimitaan saatavilla olevan informaation ja omien järjenkykyjen varassa, subjektiivisen todennäköisyyskäsityksen pohjalta: miten todennäköisesti arvioisit kristinuskon olevan totta ja sen kanssa yhteensopimattomien käsitysten siis harhaa?
-[^4]: Minkä arvoinen on iankaikkinen autuus tilassa, "jonka Jumala on valmistanut niille, jotka häntä rakastavat" ( (1. Kor. 2:9))?
+[^4]: Minkä arvoinen on iankaikkinen autuus tilassa, "jonka Jumala on valmistanut niille, jotka häntä rakastavat" ( ([1. Kor. 2:9](../books/1co.md)))?
 [^5]: Minkä paljon vahinkoa ihmiselle on (kristillisestä kokonaisnäkökulmasta, siis iankaikkisuus huomioonottaen) arvioitava koituvan siitä, että kristillisen uskon tähden oli tämän elämän aikana voinut menettää jotain itselleen ajallisessa elämässä arvokasta, mistä muuten olisi voinut päästä täällä nauttimaan?
 [^6]: Käy mielessäsi läpi kaikki tuntemasi, kristinuskon kanssa yhteensopimattomat todellisuuskäsitykset: Miten todennäköisenä kunkin käsityksen osalta pidät sitä, että juuri tämä käsitys olisi totta?
 [^7]: Kuinka huono juttu kristityn kannalta juuri tämän vaihtoehdon totuus olisi?

@@ -4,7 +4,7 @@ about: apologetics
 title: "Daniel Nylund: Entä sitten? Epäilen silti (Ajankohtainen 3, VII luku)"
 description: "Tähän asti olen väittänyt, että uskottavan maailmankatsomuksen tulisi sisäisesti ristiriidattomalla ja koko todellisuuden kanssa yhteensopivalla tavalla vastata kysymykseen kaiken alkuperästä, tarkoituksesta ja päämäärästä."
 tags: [apowiki, maailmankatsomus, tekijänoikeuden-alaiset-artikkelit]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Daniel Nylund: Entä sitten? Epäilen silti (Ajankohtainen 3, VII luku)".
@@ -454,15 +454,15 @@ Vaikka kirjoitukseni rakenne ja käsittely tapa onkin omintakeinen, olen yksityi
 *Lisher Richard. MARX AND TEILHARD. Orbis
 *Ramm Bernhad. V ARIETIES OF CHRISTIAN APOLOGETICS. Baker
 
-[^1]: (San. 8:36)
+[^1]: ([San. 8:36](../books/pro.md))
 [^2]: Josh McDowell. Evidence that Demands a Verdict. Here's Life Publishers IMC s. 17
 [^3]: Suurimman osan epäilyä koskevista ajatuksista, jotka tässä esitän, olen ottanut suoraan tai muunnellen Os Guinnesin viisaasta ja monipuolisesta kirjasta "In Two Minds". IVCF, USA -76.
-[^4]: (Matt. 13:19),  (Matt. 13:51),  (Matt. 15:10)
-[^5]: (Matt. 13:19)
-[^6]: (Joh. 20:29)
-[^7]: (1 Kun. 19:1-8)
-[^8]: (Luuk. 24:36-48)
-[^9]: (Joh. 3:19-21)
-[^10]: (Joh. 5:44)
-[^11]: (Matt. 10:42),  (Matt. 18:6,10,14),  (Luuk. 18:5),  (Jaak. 2:9)
-[^12]: (Matt. 22:16),  (Mark 12:14),  (Luuk. 20:21),  (Apt. 10:34),  (Room. 2:11),  (Gal. 2:6),  (Ef. 6:9)
+[^4]: ([Matt. 13:19](../books/mat.md)),  ([Matt. 13:51](../books/mat.md)),  ([Matt. 15:10](../books/mat.md))
+[^5]: ([Matt. 13:19](../books/mat.md))
+[^6]: ([Joh. 20:29](../books/jhn.md))
+[^7]: ([1 Kun. 19:1-8](../books/1ki.md))
+[^8]: ([Luuk. 24:36-48](../books/luk.md))
+[^9]: ([Joh. 3:19-21](../books/jhn.md))
+[^10]: ([Joh. 5:44](../books/jhn.md))
+[^11]: ([Matt. 10:42](../books/mat.md)),  ([Matt. 18:6,10,14](../books/mat.md)),  ([Luuk. 18:5](../books/luk.md)),  ([Jaak. 2:9](../books/jas.md))
+[^12]: ([Matt. 22:16](../books/mat.md)),  ([Mark 12:14](../books/mrk.md)),  ([Luuk. 20:21](../books/luk.md)),  ([Apt. 10:34](../books/act.md)),  ([Room. 2:11](../books/rom.md)),  ([Gal. 2:6](../books/gal.md)),  ([Ef. 6:9](../books/eph.md))

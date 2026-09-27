@@ -27,6 +27,8 @@ Only use `git commit --no-verify` in a genuine emergency: it bypasses the hooks 
   ↳ Raw data is undistilled but valuable: it is what knowledge grounds on and what future distillation reads. It needs no frontmatter and no links, but it is kept clean: kebab-case names that say what a file is, listed in raw/index.md, and pruned when it has been distilled or proved worthless. brainpick excludes raw/ from search results (see brainpick.toml) so it never drowns the distilled layers; grep it.
 - ApoWiki-exported source files carry the GFDL notice (in ./_implant/raw/apowiki-export/*)
   ↳ ApoWiki content is GFDL-1.3-or-later. The license requires preserving authorship and license notices. Every file in raw/apowiki-export/ must carry the GFDL notice so the import is license-compliant — the faithful-history transcription preserves contributor attribution in git, and this notice preserves the license declaration in the source.
+- ApoWiki project pages (the glossary) carry the GFDL notice too (in ./_implant/raw/apowiki-project/*)
+  ↳ raw/apowiki-project/ holds ApoWiki's own project-namespace pages — the official glossary, ApoWiki:Sanasto — under the same licence and the same obligation as the article export.
 - Every concept doc is kebab-case markdown with OKF frontmatter (type is the one MUST) (in ./_implant/*)
   ↳ type, title and description keep a page findable and compilable; a description containing `: ` must be quoted. Follows the Open Knowledge Format: https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md
 - Freshness is explicit — timestamp is a real ISO 8601 datetime bumped whenever a doc changes (in ./_implant/*)

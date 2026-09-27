@@ -4,7 +4,7 @@ about: apologetics
 title: "Ateistin vedonlyönti"
 description: "Ateistin vedonlyönti (t. \"ateistin vaaka\") on yhteisnimitys ateistien aikaansaannoksille heidän pyrkimyksissään Pascalin vedonlyönti -argumentin kumoamiseksi; itse nimityskin on ilmeisesti heidän keksintöään."
 tags: [apowiki, maailmankatsomus, ateismi, keskeneräiset-artikkelit]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ateistin vedonlyönti".
@@ -133,14 +133,14 @@ Tämä esitys kannattaa kyllä katsoa – sehän antaa havainnollisen kuvan atei
 
 ## Ateismin fideistinen luonne
 
-[Fideismi](fideismi.md)n mukaan *perustavia uskonnollisia vakaumuksia ei tarvitse eikä pidäkään perustella eikä arvioida järjellisesti, sillä uskonnolliset vakaumukset eivät ole luonteeltaan tiedollisia*.
+[Fideismin](fideismi.md) mukaan *perustavia uskonnollisia vakaumuksia ei tarvitse eikä pidäkään perustella eikä arvioida järjellisesti, sillä uskonnolliset vakaumukset eivät ole luonteeltaan tiedollisia*.
 
 Huomattava osa vallankin kevyen sarjan ateismia
 1. olettaa fideismin ilman muuta olevan oikea uskonnonfilosofinen näkemys,[^17]
 1. katsoo, ettei ateismi ole uskonto,[^18] ja
 1. keskittyy näiden valmistavien toimien jälkeen ivailemaan niitä, jotka myöntävät itsellään olevan uskonnollinen vakaumus,
-#* joko siitä, että he ovat fideistejä, siis "järjettömiä uskovaisia"
-#* tai siitä, että he ovat niin asiantuntemattomia, etteivät edes ymmärrä, että heidän tulisi olla fideistejä[^19].
+   * joko siitä, että he ovat fideistejä, siis "järjettömiä uskovaisia"
+   * tai siitä, että he ovat niin asiantuntemattomia, etteivät edes ymmärrä, että heidän tulisi olla fideistejä[^19].
 
 Entä miten sitten on ateismin oma laita? Millaiselle tietoteoreettiselle pohjalle se voidaan perustaa?
 
@@ -195,7 +195,7 @@ Asiaa voi havainnollistaa taulukolla:
 [^11]: kyseistä ilmausta ei tässä videopätkässä kuitenkaan käytetä
 [^12]: Esiintyjä laskee tähän tultaessa sormillaan jo neljään, mutta järkevästi ajatellen hän on vain esitellyt samaa (ensimmäistä) vastaväitettään eri puolilta: "mänty, honka, petäjä" -tyyliin.
 [^13]: vaikkei Pascal itse ehkä nähnytkään tarpeelliseksi esittää siitä monenkeskistä versiota
-[^14]: *Polyteistiset uskonnot* ovat tässä epäolennaisia, sillä niiden tunnustamat jumalat ovat itsekin äärellisiä eivätkä näin ollen pysty lupaamaan mitään äärettömiä seuraamuksia – tai ainakaan toteuttamaan mahdollisia tällaisia lupauksiaan. *Panteistinen monismi* (lähinnä hindulaisperäinen uskonnollisuus) on aikakäsitykseltään syklinen eikä siksi voi tarjota kenellekään mitään varmuudella lopullisia seuraamuksia (tai ehkä enintään persoonallisen olemassaolon katoamisen jossain vaiheessa, vrt. ateismi). *Pienet monoteistiset uskonnot* (juutalaisuus eli Uuden testamentin ajan fariseusten uskonnollisuuden jatko-osa, mormonit, Jehovan todistajat, *baha'i*-uskonto, sufilaisuus, ahmadijjalaisuus yms.) edustavat käytännössä nekin eräänlaisia muunnelmia kristinuskon ja/tai islamin teemoista; esim. nykyjuutalaisuudella (joka sinänsä on jakautunut moniin kuppikuntiin kuten ulkoinen kristikunta ja muhamettilaisuuskin) on osin samoja pyhiä tekstejä kuin kristityillä (Vanha testamentti), ja toisaalta ensimmäiset kristityt olivat – esivanhemmistaan asti – olleet juutalaisia, joten on väärin väittää, että juutalaisuus olisi peräisin Vanhasta testamentista ja kristinusko vasta Uudesta – tosiasiassa kysymys on Vanhan testamentin oikeasta selittämisestä: onko Vanhan testamentin oikea selitys Jeesuksella ja hänen apostoleillaan (eli onko Uusi testamentti Vanhan testamentin täyttymys) vaiko fariseuksilla ja heidän kirjanoppineillaan (vrt.  (Matt. 7:28-29)).
+[^14]: *Polyteistiset uskonnot* ovat tässä epäolennaisia, sillä niiden tunnustamat jumalat ovat itsekin äärellisiä eivätkä näin ollen pysty lupaamaan mitään äärettömiä seuraamuksia – tai ainakaan toteuttamaan mahdollisia tällaisia lupauksiaan. *Panteistinen monismi* (lähinnä hindulaisperäinen uskonnollisuus) on aikakäsitykseltään syklinen eikä siksi voi tarjota kenellekään mitään varmuudella lopullisia seuraamuksia (tai ehkä enintään persoonallisen olemassaolon katoamisen jossain vaiheessa, vrt. ateismi). *Pienet monoteistiset uskonnot* (juutalaisuus eli Uuden testamentin ajan fariseusten uskonnollisuuden jatko-osa, mormonit, Jehovan todistajat, *baha'i*-uskonto, sufilaisuus, ahmadijjalaisuus yms.) edustavat käytännössä nekin eräänlaisia muunnelmia kristinuskon ja/tai islamin teemoista; esim. nykyjuutalaisuudella (joka sinänsä on jakautunut moniin kuppikuntiin kuten ulkoinen kristikunta ja muhamettilaisuuskin) on osin samoja pyhiä tekstejä kuin kristityillä (Vanha testamentti), ja toisaalta ensimmäiset kristityt olivat – esivanhemmistaan asti – olleet juutalaisia, joten on väärin väittää, että juutalaisuus olisi peräisin Vanhasta testamentista ja kristinusko vasta Uudesta – tosiasiassa kysymys on Vanhan testamentin oikeasta selittämisestä: onko Vanhan testamentin oikea selitys Jeesuksella ja hänen apostoleillaan (eli onko Uusi testamentti Vanhan testamentin täyttymys) vaiko fariseuksilla ja heidän kirjanoppineillaan (vrt.  ([Matt. 7:28-29](../books/mat.md))).
 [^15]: esim. tutustumalla kummankin uskonnon perusteoksiin, sisällön systemaattisiin esityksiin, vaikutushistoriaan yleensä ja siihen vaikutukseen, minkä tällaisen omakohtaisen perehtymisen myötä itsessään havaitsee
 [^16]: J. R. R. Tolkienin *Taru sormusten herrasta* sisältää tämännimisen luvun, jossa kuvataan, kuinka luopiovelho Sarumanin ääni soi hypnoottisen houkuttelevana, vaikka itse sanoissa ei olekaan voimaa.
 [^17]: Tämä ei kuitenkaan ainakaan kristinuskon osalta pidä paikkaansa, vaan sen suhteen pätee olennaisesti paremmin uskonnonfilosofinen [eksperientialismi](eksperientialismi.md).

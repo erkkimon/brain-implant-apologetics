@@ -4,7 +4,7 @@ about: apologetics
 title: "Kolikkoesimerkki"
 description: "Kolikkoesimerkki on perinteinen analogia, jolla pyritään vetämään matto suunnittelua puolustavien argumenttien alta, jotka vetoavat äärimmäiseen epätodennäköisyyteen."
 tags: [apowiki, suunnitteluteoria, lukusuositukset]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kolikkoesimerkki".
@@ -30,9 +30,9 @@ Laitinen todistaa yllä sen, että mikä tahansa pitkä havaitsemamme tapahtumas
 
 #### Todennäköisyyslaskennan väheksyminen
 
-Kolikkoesimerkissä luodaan ihmiselle mielikuva, jonka mukaan todennäköisyyksillä ei ole mitään merkitystä. Todellisuudessa todennäköisyyksiin perustuva päättely on oikeastaan koko tieteen perusta.[^2] Mikäli pienet todennäköisyydet hyväksyttäisiin pyrkimättä selityksiin, jotka selittävät havainnot todennäköisemmin, kaikki tieteenteko loppuisi – jokainen teoria selittää minkä tahansa havainnon, viimeistään kvanttitunneloitumiseen vedoten, mutta tuolloin joudutaan vetoamaan tähtitieteellisen pieniin todennäköisyyksiin.
+Kolikkoesimerkissä luodaan ihmiselle mielikuva, jonka mukaan todennäköisyyksillä ei ole mitään merkitystä. Todellisuudessa todennäköisyyksiin perustuva päättely on oikeastaan koko [tieteen](../glossary/sanasto.md#tiede) perusta.[^2] Mikäli pienet todennäköisyydet hyväksyttäisiin pyrkimättä selityksiin, jotka selittävät havainnot todennäköisemmin, kaikki tieteenteko loppuisi – jokainen teoria selittää minkä tahansa havainnon, viimeistään kvanttitunneloitumiseen vedoten, mutta tuolloin joudutaan vetoamaan tähtitieteellisen pieniin todennäköisyyksiin.
 
-[W. Dembski](william-dembski.md)n esittämässä [suunnitteluteoria](suunnitteluteoria.md)ssa, täsmennyksen kriteeri ratkaisee yllä olevan asian. Dembskin teoriassa suunnittelun päättelyyn ei siis riitä pelkästään se, että tarkasteltava asia on epätodennäköinen, vaan asia on voitava täsmentää riippumattomasti itse tuloksesta. Esimerkiksi, mikä tahansa kolikon heittotulos on epätodennäköinen, mutta jos kaikki heitot ovat klaavoja, voimme sulkea sattuman pois ja päätellä suunnittelun/huijauksen. [Bayeslaisen tilastollisen paradigman](bayesin-teoreema.md) alla asia nähdään niin, että suunnittelija tekee sattumaa todennäköisemmin täsmennettyjä asioita, joten tulos jossa kaikki heitot ovat klaavoja on todennäköisempi suunnittelun alla kuin sattuman. Tästä seuraa, että suunnittelu on todennäköisempi selitys.
+[W. Dembskin](william-dembski.md) esittämässä [suunnitteluteoriassa](suunnitteluteoria.md), täsmennyksen kriteeri ratkaisee yllä olevan asian. Dembskin teoriassa suunnittelun päättelyyn ei siis riitä pelkästään se, että tarkasteltava asia on epätodennäköinen, vaan asia on voitava täsmentää riippumattomasti itse tuloksesta. Esimerkiksi, mikä tahansa kolikon heittotulos on epätodennäköinen, mutta jos kaikki heitot ovat klaavoja, voimme sulkea sattuman pois ja päätellä suunnittelun/huijauksen. [Bayeslaisen tilastollisen paradigman](bayesin-teoreema.md) alla asia nähdään niin, että suunnittelija tekee sattumaa todennäköisemmin täsmennettyjä asioita, joten tulos jossa kaikki heitot ovat klaavoja on todennäköisempi suunnittelun alla kuin sattuman. Tästä seuraa, että suunnittelu on todennäköisempi selitys.
 
 *Kuva: Venäläisessä ruletissa, toisin kuin kolikonheitossa, sadasta toistokokeesta selviytymistä voi hyvällä syyllä kutsua ihmeeksi.*
 

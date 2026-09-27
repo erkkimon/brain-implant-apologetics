@@ -4,7 +4,7 @@ about: apologetics
 title: "Saanko luvan - sanoa? Sananvapaus ja vihapuhe (kirja)"
 description: "Saanko luvan - sanoa? on Tapio Puolimatkan kirjoittama kirja."
 tags: [apowiki, kirjat]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Saanko luvan - sanoa? Sananvapaus ja vihapuhe (kirja)".
@@ -69,50 +69,50 @@ Miksi länsimaiset demokratiat pyrkivät rajoittamaan rangaistavan puheen sellai
 ### Sisällysluettelo
 
 > ***Esipuhe**
-#**Johdanto**
-#**Vihapuhelait**
-#*Vihapuheen käsitteen epämääräisyys
-#*Vihapuhelakien vahingollisuus
-#*Laajan sananvapauden merkitys
-#*Vihapuhelait vahingoittavat syrjittyjä vähemmistöjä
-#**Identiteettipolitiikka**
-#*Suojeltavat vähemmistöt
-#*Turvallisen tilan vaatimus
-#*Tiedon peittäminen julkisuudelta
-#*Tieteentekijöiden sananvapauden häirintä
-#*Tieteentekijöiden itsesensuuri
-#*Tiedonkulun vaikeuttaminen
-#*Asiantuntijoiden sensurointi
-#*Filosofien kannanotto
-#**Julkisuuskampanjoiden voima**
-#*Julkisuuskampanjoiden perusvaiheet
-#*Kampanja Roger Scrutonia vastaan
-#*Hyvesignalointi ja moraalisäteily
-#*Uhka demokratialle
-#*John Finnis ja lumihiutaleopiskelijat
-#**Sukupuoli- ja seksuaalivähemmistöt ideologian pelinappuloina?**
-#*Rahaeliitti sukupuoli-ideologian tukena
-#*Transideologiasta transhumanismiin
-#*Avaako transideologia portit pedofilialle?
-#*Ideologian kehitysvaiheet
-#*Terrorivaiheen alkusoittoja
-#*Poliittinen vaino tieteellisen julkaisun takia
-#**Sananvapauden rajat avioliittokeskustelussa**
-#*Kampanja Päivi Räsästä vastaan
-#*Rikoskomisario Silenin analyysi
-#*Valtakunnansyyttäjän hämmentävä päätös
-#*Kriittisiä arvioita
-#*Helsingin Sanomien viestintäkatastrofi
-#**Miten sananvapautta häiritään?**
-#*Suuren valheen taktiikka
-#*Mikä raivostutti suvaitsevaiston?
-#*Pedofilian normalisointi
-#*Miten tunteisiin vaikutetaan
-#*Rottamielikuvat herättävät pahoinvointia?
-#*Lapsen oikeuksien puolustus
-#*Yliopisto ja media politiikan narussa?
-#*Paapomiskulttuurin puolustus
-#*Asian vierestä puhumisen taidonnäyte
-#*Keskustelu ohjataan sivupoluille
-#**Lopuksi	**
+      * Johdanto**
+      * Vihapuhelait**
+   * Vihapuheen käsitteen epämääräisyys
+   * Vihapuhelakien vahingollisuus
+   * Laajan sananvapauden merkitys
+   * Vihapuhelait vahingoittavat syrjittyjä vähemmistöjä
+      * Identiteettipolitiikka**
+   * Suojeltavat vähemmistöt
+   * Turvallisen tilan vaatimus
+   * Tiedon peittäminen julkisuudelta
+   * Tieteentekijöiden sananvapauden häirintä
+   * Tieteentekijöiden itsesensuuri
+   * Tiedonkulun vaikeuttaminen
+   * Asiantuntijoiden sensurointi
+   * Filosofien kannanotto
+      * Julkisuuskampanjoiden voima**
+   * Julkisuuskampanjoiden perusvaiheet
+   * Kampanja Roger Scrutonia vastaan
+   * Hyvesignalointi ja moraalisäteily
+   * Uhka demokratialle
+   * John Finnis ja lumihiutaleopiskelijat
+      * Sukupuoli- ja seksuaalivähemmistöt ideologian pelinappuloina?**
+   * Rahaeliitti sukupuoli-ideologian tukena
+   * Transideologiasta transhumanismiin
+   * Avaako transideologia portit pedofilialle?
+   * Ideologian kehitysvaiheet
+   * Terrorivaiheen alkusoittoja
+   * Poliittinen vaino tieteellisen julkaisun takia
+      * Sananvapauden rajat avioliittokeskustelussa**
+   * Kampanja Päivi Räsästä vastaan
+   * Rikoskomisario Silenin analyysi
+   * Valtakunnansyyttäjän hämmentävä päätös
+   * Kriittisiä arvioita
+   * Helsingin Sanomien viestintäkatastrofi
+      * Miten sananvapautta häiritään?**
+   * Suuren valheen taktiikka
+   * Mikä raivostutti suvaitsevaiston?
+   * Pedofilian normalisointi
+   * Miten tunteisiin vaikutetaan
+   * Rottamielikuvat herättävät pahoinvointia?
+   * Lapsen oikeuksien puolustus
+   * Yliopisto ja media politiikan narussa?
+   * Paapomiskulttuurin puolustus
+   * Asian vierestä puhumisen taidonnäyte
+   * Keskustelu ohjataan sivupoluille
+      * Lopuksi	**
 > ***Kirjallisuus**

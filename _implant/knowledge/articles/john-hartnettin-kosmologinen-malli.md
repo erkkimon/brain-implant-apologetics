@@ -4,7 +4,7 @@ about: apologetics
 title: "John Hartnettin kosmologinen malli"
 description: "John Hartnettin kosmologinen malli kuvaa maailmankaikkeutta lähtien oletuksesta, että Raamatun luomiskertomus on kirjaimellisesti totta nuoren maan kreationistisen tulkintaperinteen mukaisesti."
 tags: [apowiki, kosmologia, luomisoppi]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "John Hartnettin kosmologinen malli".
@@ -38,8 +38,8 @@ Hartnett argumentoi:
 1. Tieteen historiassa on lukuisia esimerkkejä siitä, kuinka täysin varmoina pidettyjä asioita on myöhemmin kumottu.[^9]
 1. Vakiintuneen aseman saavuttanutta teoriaa ei silti useinkaan ole sille vastakkaisen todistusaineiston takia suoraa päätä hylätty, vaan lisäoletusten avulla sitä on ensin koetettu saada sopimaan paremmin yhteen havaintojen kanssa.
 1. Kun kyse on teoriasta, jonka on määrä kuvata käsittelemiään ilmiöitä eksaktisti, lisäoletukset näkyvät muutetussa teoriassa erilaisina "justeerauksina" (engl. *fudge factor*: 'fuskufaktori', 'huijauskerroin', 'vedätystekijä').
-#*Aikanaan ”kaikki tiesivät”, että aurinko kiertää maata. Se oli havaittu tosiasia. Kun huomautettiin, etteivät planeettojen liikkeet näytä sopivan tähän malliin, ei havainnoille silti käyty hakemaan vaihtoehtoista selitystä, mikä olisi tarkoittanut havaittujen tosiasioiden kieltämistä, vaan luotiin entistäkin monimutkaisempia teorioita [episykleineen](https://fi.wikipedia.org/wiki/episykli) selittämään hankalat havainnot pois.[^10] Kopernikuksen aurinkokeskinen malli selitti ongelmat kuitenkin ilman episyklejä.
-#*Myöhemmin, kun **Newton**in kaikenkattavat fysiikan lait eivät onnistuneet kuvaamaan sinänsä varmoja tähtitieteellisiä havaintoja, tiedemiehet ehdottelivat erilaisia monimutkaisia selityksiä, kuten episyklejä, pimeää ainetta tai piilossa olevaa planeettaa selittämään ongelmat.[^11] Ongelmien tyydyttäväksi ratkaisuksi tarvittiin kuitenkin peräti uusi fysiikka, jonka lopulta tarjosi **Einstein**.
+   * Aikanaan ”kaikki tiesivät”, että aurinko kiertää maata. Se oli havaittu tosiasia. Kun huomautettiin, etteivät planeettojen liikkeet näytä sopivan tähän malliin, ei havainnoille silti käyty hakemaan vaihtoehtoista selitystä, mikä olisi tarkoittanut havaittujen tosiasioiden kieltämistä, vaan luotiin entistäkin monimutkaisempia teorioita [episykleineen](https://fi.wikipedia.org/wiki/episykli) selittämään hankalat havainnot pois.[^10] Kopernikuksen aurinkokeskinen malli selitti ongelmat kuitenkin ilman episyklejä.
+   * Myöhemmin, kun **Newton**in kaikenkattavat fysiikan lait eivät onnistuneet kuvaamaan sinänsä varmoja tähtitieteellisiä havaintoja, tiedemiehet ehdottelivat erilaisia monimutkaisia selityksiä, kuten episyklejä, pimeää ainetta tai piilossa olevaa planeettaa selittämään ongelmat.[^11] Ongelmien tyydyttäväksi ratkaisuksi tarvittiin kuitenkin peräti uusi fysiikka, jonka lopulta tarjosi **Einstein**.
 1. Näin käy yhä – monimutkaisia lisäoletuksia kehitetään muotiteorioihin sopimattomien havaintojen "lakaisemiseksi maton alle". Tämän merkille paneminen ja vakavasti ottaminen ei ole ainoastaan opettavaista vaan antaa myös avaimet tähtien valon matkaamisongelman ratkaisemiseen, sillä myös nykytieteen vallitseva *Big Bang* -kosmologia on osoittautunut kykenemättömäksi selittämään ongelmallisia havaintoja ilman uusia justeerauksia: *pimeää ainetta* ja *pimeää energiaa*. Nykytila vaatiikin selvästi uuden fysiikan selittämään *Big Bang* -malliin sopimattomat havainnot.[^12]
 
 Hartnettin mukaan silloin, kun vallitsevan tieteellisen näkemyksen seuraaminen johtaa ristiriitaan Raamatun selvän opetuksen kanssa, tulee nöyrtyä myöntämään, että ymmärryksemme maailmankaikkeudesta on edelleen pahasti vajavaista ja tarvitsee siksi korjaamista. Tällainen raamatullisen historian käyttäminen tieteellisen teorianmuodostuksen lähtökohtana johtaa maailmankaikkeuden yhä parempaan tuntemiseen.[^13]
@@ -50,18 +50,18 @@ Vuonna 1994 **Russell Humphreys** esitteli teoriansa[^14], joka pyrki selittäm�
 
 Kirjassaan Hartnett esittelee kaukaisten tähtien ongelmaan viisi mahdollista selitysmallia, jotka pitäytyvät luomisviikon kuudessa 24 tunnin päivässä:
 
-#**Fenomenologinen kieli**: Tässä vaihtoehdossa tähdet olisi luotu miljardeja vuosia ennen neljättä päivää siten, että niiden valo saapuu maapallolle juuri luomisviikon neljäntenä päivänä.
-Hartnett kuitenkin argumentoi tämän olevan kestämätön selitys, sillä kohdissa  (2. Moos. 20:11) ja  (2. Moos. 31:17) Jumala sanoo luoneensa kuuden päivän aikana kaiken.[^17]
-#**Nopeammin käyvät kellot ”loitolla”**: Toisen mahdollisen selityksen mukaan kellot maailmankaikkeuden etäosissa olisivat aiemmin käyneet huomattavasti nopeammin kuin maapallolla.[^18] Luomisviikolla universumimme rajoilla kellot olisivat käyneet biljoonia kertoja nopeammin kuin kellot maapallolla, ja näin valolla olisi ollut tarpeeksi aikaa saapua maapallolle.
+      * Fenomenologinen kieli**: Tässä vaihtoehdossa tähdet olisi luotu miljardeja vuosia ennen neljättä päivää siten, että niiden valo saapuu maapallolle juuri luomisviikon neljäntenä päivänä.
+Hartnett kuitenkin argumentoi tämän olevan kestämätön selitys, sillä kohdissa  ([2. Moos. 20:11](../books/exo.md)) ja  ([2. Moos. 31:17](../books/exo.md)) Jumala sanoo luoneensa kuuden päivän aikana kaiken.[^17]
+      * Nopeammin käyvät kellot ”loitolla”**: Toisen mahdollisen selityksen mukaan kellot maailmankaikkeuden etäosissa olisivat aiemmin käyneet huomattavasti nopeammin kuin maapallolla.[^18] Luomisviikolla universumimme rajoilla kellot olisivat käyneet biljoonia kertoja nopeammin kuin kellot maapallolla, ja näin valolla olisi ollut tarpeeksi aikaa saapua maapallolle.
 Tämän selityksen ongelmana on kuitenkin se, että näin saapuneen valon pitäisi olla voimakkaasti sinisiirtynyttä. Valossa havaitaan kuitenkin punasiirtymää, joten tämä näkemys vaatisi tuekseen fysikaalisen lisäselityksen, joka sallisi meidän nähdä laajentuvassa universumissa punasiirtynyttä valoa.[^19]
-#**Hitaammin käyvät kellot täällä kuin ”loitolla”**: Tämän vaihtoehdon mukaan kellot kävivät maapallolla aiemmin huomattavasti hitaammin kuin ulompana universumissa. Jos luomisviikon aikana kellot olisivat käyneet maapallolla noin biljoonasosatahtiin universumin ulkolaitojen kelloihin verraten,[^20] valolla olisi ollut tarpeeksi aikaa saapua maapallolle täkäläisten kellojen mukaan muutamassa päivässä.
+      * Hitaammin käyvät kellot täällä kuin ”loitolla”**: Tämän vaihtoehdon mukaan kellot kävivät maapallolla aiemmin huomattavasti hitaammin kuin ulompana universumissa. Jos luomisviikon aikana kellot olisivat käyneet maapallolla noin biljoonasosatahtiin universumin ulkolaitojen kelloihin verraten,[^20] valolla olisi ollut tarpeeksi aikaa saapua maapallolle täkäläisten kellojen mukaan muutamassa päivässä.
 Humphreysin teoria on juuri tätä tyyppiä. Hartnettin malli kuuluu myös tähän tyyppiin.[^21]
 On syytä panna merkille edellisen ja tämän teorian erilaisuus:
-#* Edellisessä mallissa kauempana maailmankaikkeudessa kellot olisivat valon lähtiessä käyneet *nopeammin* kuin tätä valoa vastaanottamassa maapallolla nyt olevat kellot.
-#* Tämän mallin mukaan valon lähtiessä kellot kävivät *samaa tahtia* kuin nyt maapallolla valon saapuessa tänne. Vain luomisviikon yhden (tai kahden) päivän aikana kellot kävivät *täällä hitaammin*[^22] vastaanottaakseen valon.
-#**Valon nopeuden hidastuminen**: Ennen Humphreysiä suosittu selitysmalli oli, että valon nopeus (<math>c</math>) on ollut huomattavasti suurempi menneisyydessä, erityisesti luomisviikolla, jonka jälkeen se on reippaasti laskenut nykyiseen arvoonsa.
+   * Edellisessä mallissa kauempana maailmankaikkeudessa kellot olisivat valon lähtiessä käyneet *nopeammin* kuin tätä valoa vastaanottamassa maapallolla nyt olevat kellot.
+   * Tämän mallin mukaan valon lähtiessä kellot kävivät *samaa tahtia* kuin nyt maapallolla valon saapuessa tänne. Vain luomisviikon yhden (tai kahden) päivän aikana kellot kävivät *täällä hitaammin*[^22] vastaanottaakseen valon.
+      * Valon nopeuden hidastuminen**: Ennen Humphreysiä suosittu selitysmalli oli, että valon nopeus (<math>c</math>) on ollut huomattavasti suurempi menneisyydessä, erityisesti luomisviikolla, jonka jälkeen se on reippaasti laskenut nykyiseen arvoonsa.
 Ongelmana on kuitenkin se, että mikäli valon nopeus on ollut aiemmin suurempi ja sitten hidastunut, tähtien pitäisi vähitellen kadota näkyvistämme, mutta tällaista ei havaita. Hartnett argumentoikin, etteivät tähän kategoriaan kuuluneet teoriat ole kestäneet testaamista.[^23]
-#**Valo luotu matkalle**: Viidennen vaihtoehdon mukaan Jumala olisi luonut valon valmiiksi maapallon ja tähtien välille.
+      * Valo luotu matkalle**: Viidennen vaihtoehdon mukaan Jumala olisi luonut valon valmiiksi maapallon ja tähtien välille.
 Tähdistä saapuvasta valosta voidaan kuitenkin päätellä monenlaisia asioita, jotka olisivat tämän mallin mukaan vain teatteria.[^24] Ajatellaan esimerkiksi tilannetta, jossa tähti räjähtää laskennallisesti 100 000 valovuoden päässä maasta. Kun tähtitieteilijä katsoo tätä räjähtävää tähteä maasta käsin, hän voi havaita muutakin kuin ainoastaan sieltä saapuvan näkyvän valonsäteen. Tarkkailtavasta kohteesta maahan saapuva säteily sisältää hyvin yksityiskohtaisen spektrin erilaisia säteilyjä, jotka ovat yhdenmukaisia tarkkailijan näköhavainnon kanssa tähden räjähtämisestä. Täten kohteesta saapuva valo kantaa selkeästi mukanaan informaatiota todellisesta tapahtumasta. Tähtitieteilijä voi täysin perustellusti tulkita havaitsemansa ilmiön aiheutuneen todellisesta tapahtumasta, jossa todellinen objekti räjähti fysiikan lakien mukaisesti, kirkastui, säteili mikroaaltoja, himmeni ja niin edelleen.[^15]
 Hartnett argumentoikin tämän olevan *ad hoc* -selitys ja huomauttaa, että ihmeet ovat Raamatussa hyvin erityisiä tapauksia, joihin liittyy jokin selkeä tarkoitus tai ilmoitus. Selitys valon luomisesta matkalleen ei kuulu tähän sarjaan.[^25]
 
@@ -179,7 +179,7 @@ On huomattava, että Hubble tulkitsi punasiirtymät galaksien liikkeeksi.[^76] T
 
 Edellä mainittua olettamusta kutsutaan yleisesti kosmologiseksi vakioksi, ja sen mukaan laajoissa mittasuhteissa missä tahansa universumin kolkassa oleva havainnoija näkee saman universumin ”suuren kuvan”. Hubblen mukaan tämä on kuitenkin vain puhdas olettamus.[^78]
 
-Hartnett argumentoi, että on järkevää olettaa universumin olevan äärellinen ja rajallinen Jumalan ihmiskuntaan kohdistaman huomion perusteella. Kun hyväksytään universumin äärellisyys ja hylätään yhtenäisyys havaintojen ja taustaolettamusten perusteella, seuraa tästä, että universumilla on rajat. Kohdassa  (1. Moos. 22:17) Jumala sanoo, että Abraham saa jälkeläisiä yhtä paljon kuin tähtiä on taivaalla. Tämän perusteella ei tietenkään voi todistaa, että tähtien määrä on äärellinen, mutta se on järkevä olettamus huomioiden, että vain Jumala on ääretön.[^79]
+Hartnett argumentoi, että on järkevää olettaa universumin olevan äärellinen ja rajallinen Jumalan ihmiskuntaan kohdistaman huomion perusteella. Kun hyväksytään universumin äärellisyys ja hylätään yhtenäisyys havaintojen ja taustaolettamusten perusteella, seuraa tästä, että universumilla on rajat. Kohdassa  ([1. Moos. 22:17](../books/gen.md)) Jumala sanoo, että Abraham saa jälkeläisiä yhtä paljon kuin tähtiä on taivaalla. Tämän perusteella ei tietenkään voi todistaa, että tähtien määrä on äärellinen, mutta se on järkevä olettamus huomioiden, että vain Jumala on ääretön.[^79]
 
 Hartnett argumentoi, että aivan niin kuin Hubblen aikana, voidaan todistusaineisto edelleen tulkita kuvaamaan, että olemme keskellä universumiamme. Eteläafrikkalainen tähtitieteilijä ja poliitikko **George Ellis** toteaakin, ettei pallomaisesti symmetristä universumia, jossa maapallo on keskellä, voi kumota havainnoilla, vaan sen voi hylätä vain filosofisin perustein. Hänen mukaansa malleja valittaessa käytetään filosofisia kriteerejä – ja kosmologia pyrkii paljolti piilottamaan tämän.[^80]
 
@@ -225,7 +225,7 @@ Hubblen lain perusteella galaksin punasiirtymä <math>z = 0,022</math> ja galaks
 
 Kvasaareiden punasiirtymät antavat myös valikoivasti vain tiettyjä arvoja, mikä todistaa linnunratakeskisestä universumista. Hartnettin mukaan ne on luotu kaikki luomisviikon neljännen päivän luomisjaksojen aikana taivaiden levittyessä. Halton Arp on voimakkaasti kannattanut tämän tuottoprosessin sekulaaria tulkintaa, ja jo hänen *Seeing Red* -kirjansa[^118] takakannen kuvakin esittää ellipsigalaksia tuottamassa pienempiä galakseja.[^119]
 
-Hartnettin tulkinta näistä löydöistä on, että galakseissa nähdään luominen silloin, kun se tapahtui: luomisviikon neljäntenä päivänä, sillä valolta kuluu äärellinen aika kulkea maapallolle. Kohta  (Ps. 19:1) sopii tähän kuvaan myös erinomaisesti.[^120]
+Hartnettin tulkinta näistä löydöistä on, että galakseissa nähdään luominen silloin, kun se tapahtui: luomisviikon neljäntenä päivänä, sillä valolta kuluu äärellinen aika kulkea maapallolle. Kohta  ([Ps. 19:1](../books/psa.md)) sopii tähän kuvaan myös erinomaisesti.[^120]
 
 #### Laajenemistekijä
 
@@ -265,7 +265,7 @@ Aikalaajenemisen vaikutukset ilmenivät maapallolla luomisviikon aikana. Kun laa
 
 [^1]: John G. Hartnett, [Where I now stand](https://biblescienceforum.com/2021/03/11/where-i-now-stand/#more-11158), 11.3.2021, viitattu 28.5.2022
 [^2]: Raamatun avausjakeen mukaan Jumala loi taivaan ja maan "alussa": jos tämä ymmärretään ensimmäisen luomispäivän (eli -vuorokauden) aluksi, niin neljännen luomispäivän alku ajoittui tasan kolme vuorokautta maan luomista myöhemmäksi, ja tämän päivän aikana tehdyt muut taivaankappaleet saivat siis syntynsä vähintään kolmen mutta alle neljän vuorokauden kuluttua maan luomisesta.
-[^3]: (1. Moos. 1:1-2:4)
+[^3]: ([1. Moos. 1:1-2:4](../books/gen.md))
 [^4]: Hartnett, s. 11
 [^5]: Sillä niistä lähtenyt valo ei ilmeisesti olisi vielä ehtinyt tänne asti.
 [^6]: Tämä ei tietenkään ole välitön havainto, vaan havaintoja yhdistelemällä ja niihin pohjautuvia mm. trigonometrisia laskelmia laatimalla tehtävissä oleva astronominen johtopäätös.
@@ -351,7 +351,7 @@ Aikalaajenemisen vaikutukset ilmenivät maapallolla luomisviikon aikana. Kun laa
 [^86]: Hartnett, s. 85
 [^87]: Hartnett, s. 85, 87
 [^88]: Hartnett, s. 87
-[^89]: (Ps. 104:2),  (Jes. 40:22),  (Jes. 42:5),  (Jes. 44:24)
+[^89]: ([Ps. 104:2](../books/psa.md)),  ([Jes. 40:22](../books/isa.md)),  ([Jes. 42:5](../books/isa.md)),  ([Jes. 44:24](../books/isa.md))
 [^90]: Hartnett, s. 92–93; [Cosmological expansion in a creationist cosmology, Journal of Creation 19(3):96-102,2004](http://creation.com/images/pdfs/tj/j19_3/j19_3_96-102.pdf)
 [^91]: Hartnett, s. 93–94; [The ‘waters above’, Journal of Creation **20**(1):93–98, Huhtikuu 2006](http://creation.com/the-waters-above)
 [^92]: Hartnett, s. 94–95,99; [The heavens declare a different story! Journal of Creation **17**(2):94–97, elokuu 2003](http://creation.com/the-heavens-declare-a-different-story)

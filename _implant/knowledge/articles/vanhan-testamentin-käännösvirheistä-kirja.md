@@ -4,7 +4,7 @@ about: apologetics
 title: "Vanhan testamentin käännösvirheistä (kirja)"
 description: "Vanhan testamentin käännösvirheistä -kirjanen on Kaarlo O. Syvännön kirjoittama teos, joka käsittelee suomalaisen 1933 käyttöönotetun Vanhan testamentin käännösvirheitä."
 tags: [apowiki, kirjat, raamattu, tyngät]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Vanhan testamentin käännösvirheistä (kirja)".
@@ -32,4 +32,4 @@ Vanhan testamentin käännösvirheistä -kirjanen on Kaarlo O. Syvännön kirjoi
 
 ## Viitteet
 
-[^1]: Esim. s.18: ** (Job 2:9): "Niin hänen vaimonsa sanoi hänelle: 'Vieläkö pysyt hurskaudessasi? Kiroa Jumala ja kuole.' " ** Tällä kohdalla on tahdottu osoittaa, miten jumalaton vaimo Jobilla oli. Mutta kun katsomme heprealaista tekstiä, sisältö on aivan toinen. Alkutekstissä käytetään verbiä "barech", joka merkitsee SIUNATA. Vanhempi suomalainen, käännös (Biblia 1776) sanookin ihan oikein: "SIUNAA Jumalata ja kuole."
+[^1]: Esim. s.18: ** ([Job 2:9](../books/job.md)): "Niin hänen vaimonsa sanoi hänelle: 'Vieläkö pysyt hurskaudessasi? Kiroa Jumala ja kuole.' " ** Tällä kohdalla on tahdottu osoittaa, miten jumalaton vaimo Jobilla oli. Mutta kun katsomme heprealaista tekstiä, sisältö on aivan toinen. Alkutekstissä käytetään verbiä "barech", joka merkitsee SIUNATA. Vanhempi suomalainen, käännös (Biblia 1776) sanookin ihan oikein: "SIUNAA Jumalata ja kuole."

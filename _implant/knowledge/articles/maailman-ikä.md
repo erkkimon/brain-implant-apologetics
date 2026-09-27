@@ -4,7 +4,7 @@ about: apologetics
 title: "Maailman ikä"
 description: "Maailman ja maapallon iästä ja 1. Mooseksen kirjan alkulukujen tulkinnasta on kristittyjen keskuudessa useita käsityksiä."
 tags: [apowiki, alkuperähypoteesit]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Maailman ikä".
@@ -23,12 +23,12 @@ Maailman ja maapallon iästä ja 1. Mooseksen kirjan alkulukujen tulkinnasta on 
 Kysymys maapallon iästä ei ilmeisesti minkään kirkkokunnan mukaan ole pelastuskysymys, vaan Jeesukseen vapahtajanaan uskova saa syntinsä anteeksi ja pääsee taivaaseen riippumatta käsityksistä maailman ikää koskien. Toisaalta kysymys maailman iästä on tärkeä Raamatun luotettavuuden ja Raamatun Jumalallisen inspiraation kannalta.
 
 Maailman ikä -kysymys muodostaa ongelman Raamatun luotettavuudelle (ja siten Jumalalliselle inspiraatiolle) vain, mikäli
-#Raamatun ainoa oikea tulkinta on, että maailma on nuori. (Tekstin tulkinta vanhan iän kannalta ei olisi mahdollinen.)
+1. Raamatun ainoa oikea tulkinta on, että maailma on nuori. (Tekstin tulkinta vanhan iän kannalta ei olisi mahdollinen.)
 Ja
-#Tieteellisen näytön perusteella maailma on varmasti vanha.
+1. Tieteellisen näytön perusteella maailma on varmasti vanha.
 Tästä seuraisi, että raamattu on virheellinen. Molempia väittämiä kuulee väitettävän, mutta molemmat ovat kyseenalaisia:
-#On olemassa useita mahdollisia tulkintatapoja, joihin maailman vanha ikä sopii. Luontevin tulkinta näyttäisi kylläkin olevan, että maapallo on nuori.
-#Myös nuoren maailman kreationisteilla on hyviä tieteellisiä argumentteja. Tämä siitä huolimatta, että heillä ei ole lainkaan tutkimusrahoitusta julkisista varoista.
+1. On olemassa useita mahdollisia tulkintatapoja, joihin maailman vanha ikä sopii. Luontevin tulkinta näyttäisi kylläkin olevan, että maapallo on nuori.
+1. Myös nuoren maailman kreationisteilla on hyviä tieteellisiä argumentteja. Tämä siitä huolimatta, että heillä ei ole lainkaan tutkimusrahoitusta julkisista varoista.
 
 Mikäli maailma siis todella on vanha, tämä alentaa Raamatun luotettavuuden todennäköisyyttä melko vähän koska on useita mahdollisia vanhan iän tulkintoja.
 

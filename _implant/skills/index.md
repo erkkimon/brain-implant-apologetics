@@ -20,10 +20,21 @@ the tree.
   slug map, citations as footnotes, redirects resolved, red links reported.
 * `tools/apowiki_topics.py` — turn ApoWiki's categories into topic pages in
   `knowledge/topics/` and give every article a breadcrumb back to them.
+* `tools/apowiki_glossary.py` — ApoWiki's official glossary
+  (`ApoWiki:Sanasto`) into `raw/apowiki-project/` and
+  `knowledge/glossary/sanasto.md`, one anchor per term, so the articles'
+  `AW:S#term` links land.
+* `tools/apowiki_stamp.py` — after regenerating, restore the committed
+  timestamp on every page that did not change and bump the rest.
+* `tools/apowiki_translate.py` — translate one article with a small local
+  model, checking links, footnotes and glossary terms chunk by chunk.
 * `tools/apowiki_books.py` — the book spine: 66 book pages and two testament
   pages in `knowledge/books/`, bound to the theology implant's spine.
 
 ## Procedures
 
+* [Translate an article into English](translate-an-article.md) — a small
+  local model writes the prose, ApoWiki's glossary fixes the terms, and
+  deterministic checks decide what is accepted. Frontier tokens go only to review.
 * [Convert ApoWiki wikitext into implant articles](convert-apowiki-to-articles.md)
   — the token-free conversion that produces the MVP.

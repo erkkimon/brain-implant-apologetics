@@ -4,7 +4,7 @@ about: apologetics
 title: "Uusislam"
 description: "Uusislam on sellainen legitiimin islam-tulkinnan asemasta kamppaileva ajatus- ja toimintamalli, joka on valmis selvään irtiottoon monista perinteisen islamin tunnusmerkillisistä piirteistä ja edustaa siksi olennaisesti erilaista…"
 tags: [apowiki, teismi, islam, keskeneräiset-artikkelit]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Uusislam".
@@ -42,7 +42,7 @@ Islamin kriisiin on muslimeille[^5] tarjolla lähinnä neljä ratkaisumallia[^6]
 
 ### "Tapaustutkimus": Bhuttolainen uusislam
 
-Valaisevan suomenkielisen näyteikkunan uusislamilaiseen ajatteluun tarjoaa Pakistanin entisen pääministerin, väkivaltaisesti surmansa saaneen **[Benazir Bhutto](https://fi.wikipedia.org/wiki/Benazir_Bhutto)n** (jäljempänä BB) postuumina ilmestynyt teos: *Sovinto: Islam, länsi ja demokratia*[^8]. Teoksesta käy selvästi ilmi, ettei sen islam-näkemys ole pelkkä kirjailijan oma katsomus vaan että hän jatkaa siinä jo kodinperintönä saamaansa ajatustapaa. Bhuttot ovat Pakistanin poliittisen historian ja nykyhetkenkin merkittävimpiä sukuja, ja tämä näkemys on jo siksikin tutustumisen arvoinen.[^9]
+Valaisevan suomenkielisen näyteikkunan uusislamilaiseen ajatteluun tarjoaa Pakistanin entisen pääministerin, väkivaltaisesti surmansa saaneen **[Benazir Bhutton](https://fi.wikipedia.org/wiki/Benazir_Bhutto)** (jäljempänä BB) postuumina ilmestynyt teos: *Sovinto: Islam, länsi ja demokratia*[^8]. Teoksesta käy selvästi ilmi, ettei sen islam-näkemys ole pelkkä kirjailijan oma katsomus vaan että hän jatkaa siinä jo kodinperintönä saamaansa ajatustapaa. Bhuttot ovat Pakistanin poliittisen historian ja nykyhetkenkin merkittävimpiä sukuja, ja tämä näkemys on jo siksikin tutustumisen arvoinen.[^9]
 
 (Jatkossa viittaukset tähän teokseen annetaan pelkkinä sivuviitteinä ja pelkät sivuviitteet kohdistuvat nimenomaan tähän teokseen. Tässä bhuttolaista uusislamia käsittelevässä luvussa uusislam-sana tarkoittaa erityisesti bhuttolaista uusislamia, mutta epäilemättä monet ajatukset ovat uusmuslimien yhteisiä näkemyksiä. Lähdemateriaalin niukkuus kuitenkin estää erittelemästä tarkemmin, mitkä näkemykset ovat yhteisiä, mitkä kenties erityisen bhuttolaisia.)
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Frederick Suppe"
 description: "Frederick Suppe (s. helmikuu 22, 1940 Los Angelesissa, Kaliforniassa) on filosofian emeritusprofessori Marylandin yliopistossa."
 tags: [apowiki, henkilöt, filosofia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Frederick Suppe".
@@ -24,7 +24,7 @@ Hänen merkittävät teoksensa tieteenfilosofian alueella ovat *The Structure of
 
 ### Kritiikki eliminatiivista materialismia kohtaan
 
-Suppe[^1] kritisoi eliminatiiviselle [materialismi](fysikalismi.md)lle ominaista pyrkimystä palauttaa koko todellisuus aineellisiin tekijöihin. Hän pitää sitä yhtenä ilmauksena tieteisuskosta. Eliminatiivisen materialismin puolesta esitetyt argumentit kertovat aina saman kertomuksen. Ne olettavat, että korkeammalle tasolle A kuuluvat asiaintilat, oliot, tapahtumat ja prosessit vastaavat jollakin tavalla alemman tason B asiaintiloja, olioita, tapahtumia ja prosesseja. Esimerkiksi ihmisen ajattelu on yhteydessä aivojen toimintaan.
+Suppe[^1] kritisoi eliminatiiviselle [materialismille](fysikalismi.md) ominaista pyrkimystä palauttaa koko todellisuus aineellisiin tekijöihin. Hän pitää sitä yhtenä ilmauksena tieteisuskosta. Eliminatiivisen materialismin puolesta esitetyt argumentit kertovat aina saman kertomuksen. Ne olettavat, että korkeammalle tasolle A kuuluvat asiaintilat, oliot, tapahtumat ja prosessit vastaavat jollakin tavalla alemman tason B asiaintiloja, olioita, tapahtumia ja prosesseja. Esimerkiksi ihmisen ajattelu on yhteydessä aivojen toimintaan.
 
 Näihin argumentteihin liittyy yleensä jokin rakenteellisesti pelkistävä ja hajottava analyysi siitä, mitä tapahtuu korkeammalla tasolla A. Kun tämä ”pelkistys” on suoritettu, väitetään, että koska kaikkia tason A ilmiöitä vastaavat jotkin tason B ilmiöt tai ne ovat pelkistettävissä tason B rakenteisiin, ainoastaan tason B rakenteet ovat todellisia. Koska ihmisen ajattelua vastaavat jotkin ihmisaivojen biologiset prosessit, ajattelu on pelkkää biologiaa.
 

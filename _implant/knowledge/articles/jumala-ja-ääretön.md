@@ -4,7 +4,7 @@ about: apologetics
 title: "Jumala ja ääretön"
 description: "Klassiseen kristinuskoon kuuluva tunnustautuminen Jumalan äärettömyyteen on saanut niinikään klassisen ilmauksensa jo vanhalla ajalla Athanasioksen uskontunnustuksessa."
 tags: [apowiki, jumala, keskeneräiset-artikkelit]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jumala ja ääretön".
@@ -48,7 +48,7 @@ Ennen nykyisen alkuräjähdyskosmologian[^8] tieteenhistoriallista voittokulkua 
 
 Myös alkuräjähdyskosmologiaan liittyy erilaisia ongelmia. [Naturalistien](naturalismi.md) kannalta yksi suuri ongelma on se, että havaitut [hienosäätöilmiöt](kosminen-hienosäätö.md) jäävät tyydyttävää "luonnollista" selitystä vaille, mikä taas heikentää [metodologisen naturalismin](metodologinen-naturalismi.md) uskottavuutta.
 
-Mainitusta syystä eräät kosmologit ovat viime aikoina rakennelleet erilaisia [multiversumimalleja](multiversumi-hypoteesi.md)[^11]. Kosmologien tuoreissa spekulaatioissa kehitellään ajatusta, että jos fysikaalinen todellisuus on "hyvin suuri" tai ääretön – mitä emme myöskään **[Immanuel Kant](https://fi.wikipedia.org/wiki/Immanuel_Kant)in** mukaan voi koskaan tietää tutkimuksen keinoin *[lähde puuttuu]* – ja luonto pystyy evoluutioprosessin kautta kehittämään älykästä elämää ja tietoisuuden, tästä seuraa välttämättä, että [evoluutio](evoluutioteoria.md) on joissain oloissa jo edennyt paljon pidemmälle kuin voimme käsittää. Tätä ajatuslinjaa pitkin voidaan siis kärjistäen jopa sanoa, että "ääretön evoluutio luo jumalan"; tällöin ei kuitenkaan tietenkään puhuta klassisen kristinuskon tunnustamasta Jumalasta, joka on luonut kaiken aineellisen(kin) todellisuuden tyhjästä, kuten [Nikaian-Konstantinopolin uskontunnustus](https://fi.wikipedia.org/wiki/Nikaian-Konstantinopolin_uskontunnustus) sanoo[^12].
+Mainitusta syystä eräät kosmologit ovat viime aikoina rakennelleet erilaisia [multiversumimalleja](multiversumi-hypoteesi.md)[^11]. Kosmologien tuoreissa spekulaatioissa kehitellään ajatusta, että jos fysikaalinen todellisuus on "hyvin suuri" tai ääretön – mitä emme myöskään **[Immanuel Kantin](https://fi.wikipedia.org/wiki/Immanuel_Kant)** mukaan voi koskaan tietää tutkimuksen keinoin *[lähde puuttuu]* – ja luonto pystyy evoluutioprosessin kautta kehittämään älykästä elämää ja tietoisuuden, tästä seuraa välttämättä, että [evoluutio](evoluutioteoria.md) on joissain oloissa jo edennyt paljon pidemmälle kuin voimme käsittää. Tätä ajatuslinjaa pitkin voidaan siis kärjistäen jopa sanoa, että "ääretön evoluutio luo jumalan"; tällöin ei kuitenkaan tietenkään puhuta klassisen kristinuskon tunnustamasta Jumalasta, joka on luonut kaiken aineellisen(kin) todellisuuden tyhjästä, kuten [Nikaian-Konstantinopolin uskontunnustus](https://fi.wikipedia.org/wiki/Nikaian-Konstantinopolin_uskontunnustus) sanoo[^12].
 
 <!--== Aiheesta muualla ==
 
@@ -61,7 +61,7 @@ Mainitusta syystä eräät kosmologit ovat viime aikoina rakennelleet erilaisia 
   1. Viitteet
 
 [^1]: Rajoittamattomuuskäsitteiden merkitys on esitettävissä negaation kautta seuraavaan tapaan: * Iankaikkinen on sellainen, jota ajallisuus ei millään tavoin rajoita, * kaikkivaltias sellainen, jonka toimintamahdollisuuksia mikään hänen tahtonsa ulkopuolinen tekijä ei rajoita, ja * kaikkitietävä sellainen, jonka tietoa mikään ulkopuolinen tekijä ei rajoita. Tämän tai tämäntapaisen käsitemäärittelyn jälkeen on mahdollista jatkaa kysymällä, mitä näin ollen on ajateltava jostain tarkennetusta kysymyksenasettelusta eli miten annettua määritelmää olisi siihen sovellettava ja soveltuuko se ylipäänsä siihen sellaisenaan vai olisiko sitä ehkä vielä jotenkin hiottava. On kuitenkin joka tapauksessa selvää, että rajoittamattomuutta ilmaisevat käsitteet ovat rajoittuneisuutta ilmaisevien väitteiden kanssa yhteensopimattomia.
-[^2]: *"Minä olen se, joka minä olen"* ilmaisee mm. Jumalan olemassaolon täydellistä riippumattomuutta minkään muun mahdollisesta olemassaolemisesta tai olemassaolemattomuudesta. Näin käsittäen Jumalasta äärettömyytensä kannalta puhuttaessa on kysymyksessä jokseenkin ellei täysin sama käsite kuin [Anselm](anselm-canterburylainen.md)illa: *[Jumala on se, mitä suurempaa tai parempaa ei ole mahdollista ajatella](anselmin-jumalatodistus.md).*
+[^2]: *"Minä olen se, joka minä olen"* ilmaisee mm. Jumalan olemassaolon täydellistä riippumattomuutta minkään muun mahdollisesta olemassaolemisesta tai olemassaolemattomuudesta. Näin käsittäen Jumalasta äärettömyytensä kannalta puhuttaessa on kysymyksessä jokseenkin ellei täysin sama käsite kuin [Anselmilla](anselm-canterburylainen.md): *[Jumala on se, mitä suurempaa tai parempaa ei ole mahdollista ajatella](anselmin-jumalatodistus.md).*
 [^3]: myös joidenkuiden "pimeäksi" luonnehtimalla keskiajalla
 [^4]: Esim. kokonaislukuja ja myös alkulukuja on ääretön määrä.
 [^5]: Esim. puolisuora ja suora ovat määritelmänsä nojalla pituudeltaan äärettömiä.

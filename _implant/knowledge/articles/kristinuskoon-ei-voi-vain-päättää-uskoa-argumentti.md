@@ -4,7 +4,7 @@ about: apologetics
 title: "\"Kristinuskoon ei voi vain päättää uskoa\" (argumentti)"
 description: "Argumentti on seuraava: 1. Jumala edellyttää vilpittömän uskon pelastaakseen ihmisen 1."
 tags: [apowiki, jumala]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article ""Kristinuskoon ei voi vain päättää uskoa" (argumentti)".
@@ -52,11 +52,11 @@ Argumentissa tulisi siis kattavammin määritellä pelastava usko, jotta tämä 
 
 #### Mihin pitää vilpittömästi uskoa pelastuakseen?
 
-Joonan kirjan niiniveläisillä näyttää olleen ( (Joona 3:5-10)) usko siihen, että:
+Joonan kirjan niiniveläisillä näyttää olleen ( ([Joona 3:5-10](../books/jon.md))) usko siihen, että:
 
 1. He ovat eläneet pahoilla teillään ja tehneet vääriä tekoja.
 1. Ihmisten on huudettava Jumalaa täysin voimin, käännyttävä pahoilta teiltään ja hylättävä väärät tekonsa.
-1. ”Ehkä Jumala silloin luopuu aikomuksestaan, leppyy ja antaa hehkuvan vihansa laantua, ja me pelastumme.” ( (Joona 3:9))
+1. ”Ehkä Jumala silloin luopuu aikomuksestaan, leppyy ja antaa hehkuvan vihansa laantua, ja me pelastumme.” ( ([Joona 3:9](../books/jon.md)))
 
 Yllä olevassa on laki ja evankeliumi tiiviissä muodossa:
 
@@ -76,7 +76,7 @@ Tästä edelleen seuraa, että vaikka ihminen ei (ainakaan suoraan ja laajasti) 
 
 Ihmisen ei tarvitse uskoa kovinkaan montaa asiaa tietääkseen, että on rikkonut omaatuntoaan vastaan. Eli sitä, että sydämeen kirjoitetun lain vääristäminen on vilpillisyyttä, että omat pyrkimykset elää oikeamielisesti ovat aina vajavaisia ja että sydämen lakia vastaan tehty rikkomus täytyy oikaista eli myöntää ja hylätä.
 
-Kun tunnustaa rikkoneensa omaa mielivaltaista tahtoaan korkeampaa lakia vastaan, on tuon lain armoilla ja oikeamielinen asenne tähän tilanteeseen on etsiä armoa tuon lain puitteissa. Varsin ohuella opillisella pohjalla päästään tuohon minimiin: ”Joka rikkomuksensa salaa, se ei menesty; mutta joka ne tunnustaa ja hylkää, se saa armon.” ( (Sananl. 28:13))
+Kun tunnustaa rikkoneensa omaa mielivaltaista tahtoaan korkeampaa lakia vastaan, on tuon lain armoilla ja oikeamielinen asenne tähän tilanteeseen on etsiä armoa tuon lain puitteissa. Varsin ohuella opillisella pohjalla päästään tuohon minimiin: ”Joka rikkomuksensa salaa, se ei menesty; mutta joka ne tunnustaa ja hylkää, se saa armon.” ( ([Sananl. 28:13](../books/pro.md)))
 
 Kristinuskon mukaan on ihmisiä jotka voivat pelastua Jeesuksen ristintyön kautta vaikka eivät olisi kuulleetkaan Jeesuksesta ja heidän Jumalan olemusta kokevat käsityksensä olisivat vajavaisia (esimerkiksi yllä mainitut Joonan kirjan niiniveläiset). Kristilliseen perinteeseen sisältyy siis ajatus hurskaasta pakanasta, mutta heidän hurskautensa nojaa siihen että he tunnustavat loukanneensa Korkeinta vastaan ja turvaavat armoon ja sovitukseen, eivät omaan ylpeään erinomaisuuteensa.
 

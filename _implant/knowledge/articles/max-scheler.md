@@ -4,7 +4,7 @@ about: apologetics
 title: "Max Scheler"
 description: "Max Scheler (22. elokuuta 1874 München, Saksa – 19. toukokuuta 1928 Frankfurt am Main, Saksa) oli saksalainen filosofi, joka on tunnettu ennen kaikkea eettisestä teoriastaan, filosofisesta antropologiastaan, tunnefilosofiastaan ja tiedon…"
 tags: [apowiki, henkilöt]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Max Scheler".
@@ -61,9 +61,9 @@ Sivistynyt ihminen pystyy erottamaan tärkeät ja olennaiset arvot vähemmän t�
 1. Perustavana tasona ovat aistikokemuksiin liittyvät arvot kuten miellyttävä ja epämiellyttävä, mielipahansävyinen ja mielihyvänsävyinen, nautinnollinen ja kivulias. Tähän yhteyteen liittyvät myös hyötyarvot kuten hyödyllinen, käytännöllinen, tehokas ja taloudellinen sekä niiden vastakohdat.
 1. Elämänvoimaan liittyvät sellaiset arvot ja arvovastakohdat kuin jalo - halpamainen, terveys - sairaus, voima - heikkous, rohkeus - pelkuruus.
 1. Henkisiä arvoja ovat
-#*(a) esteettiset arvot kuten kauneus,
-#*(b) oikeudenmukaisuuden arvot,
-#*(c) puhtaan tiedon arvot.
+   * (a) esteettiset arvot kuten kauneus,
+   * (b) oikeudenmukaisuuden arvot,
+   * (c) puhtaan tiedon arvot.
 Näihin arvoihin liittyviä tunteita ovat henkinen ilo ja suru, hyväksyminen ja paheksuminen, kunnioitus ja halveksunta.
 1. Neljäntenä ja korkeimpana on absoluuttinen alue, johon kuuluvat pyhän ja epäpyhän arvot. Pyhyys on Schelerin mukaan ominaista olemassaolon absoluuttiselle perustalle, joka on täydellinen hyvyydessään. Ihmisen autuus edellyttää sitä, että hän voi olla yhteydessä tähän olemassaolon perustana olevaan täydellisen hyvään persoonaan. Jumalan pyhyys estää häntä hyväksymästä pahuutta. Voidakseen elää Jumalan yhteydessä ihmisen täytyisi olla täydellinen hyvyydessä. Jokainen ihminen on kuitenkin henkilökohtaisesti sidoksissa pahuuteen. Siksi ihminen ei voi saavuttaa pyhyyttä muuta kuin Kristuksen lunastustyön pohjalta, Jumalan armosta uskon kautta.[^6]
 

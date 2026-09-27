@@ -4,7 +4,7 @@ about: apologetics
 title: "Francis Bacon"
 description: "Tätä henkilöä käsitellään ApologetiikkaWikissä, koska hänen työllään on ollut suuri merkitys tieteen kehitykselle sekä tieteen ja kristinuskon väliselle suhteelle Sir Francis Bacon (22."
 tags: [apowiki, henkilöt]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Francis Bacon".
@@ -24,7 +24,7 @@ Sir Francis Bacon (22. tammikuuta 1561 – 9. huhtikuuta 1626) oli englantilaine
 
 ### Raamatullisen maailmankuvan vaikutus Baconin tutkimukseen
 
-Bacon tukeutui ensinnäkin [Raamatun](raamattu.md) luomiskäsitykseen, johon sisältyy ajatus [Jumala](jumala.md)sta [luonnonlaki](luonnonlaki.md)en säätäjänä. Raamatun kirjoittajat näkivät maailman lainalaisuudet suorana ilmauksena Jumalan tahdosta ja sanasta. Koska Jumala on luonnon lakien säätäjä ja ylläpitäjä, hän on aktiivinen kaikkialla siellä, missä luonnonlait vaikuttavat. Luonnonlakien pysyvyys ja universaalisuus on riippuvaista Jumalan tahdosta.
+Bacon tukeutui ensinnäkin [Raamatun](raamattu.md) luomiskäsitykseen, johon sisältyy ajatus [Jumalasta](jumala.md) [luonnonlakien](luonnonlaki.md) säätäjänä. Raamatun kirjoittajat näkivät maailman lainalaisuudet suorana ilmauksena Jumalan tahdosta ja sanasta. Koska Jumala on luonnon lakien säätäjä ja ylläpitäjä, hän on aktiivinen kaikkialla siellä, missä luonnonlait vaikuttavat. Luonnonlakien pysyvyys ja universaalisuus on riippuvaista Jumalan tahdosta.
 
 Bacon kirjoittaa 1600-luvun alussa osana omaa uskontunnustustaan.
 

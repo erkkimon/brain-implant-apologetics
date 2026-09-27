@@ -7,7 +7,7 @@ book: 2co
 testament: nt
 chapters: 13
 tags: [raamattu, kirja, 2co]
-timestamp: 2026-09-26T11:30:00Z
+timestamp: 2026-09-27T13:00:00Z
 half_life: 0
 ---
 
@@ -21,4 +21,12 @@ Luvut, jaetunnisteet ja kirjan teologinen käsittely ovat teologiaimplantissa, j
 
 <brain://theology-kay4zyljsuy909krumpau/knowledge/scripture/2co/2co.md>
 
-Tämän implantin artikkelit, jotka viittaavat kirjaan, näkyvät sivun takaisinlinkeissä.
+## ApoWikin artikkelit, jotka viittaavat kirjaan
+
+Suurin viittausmäärä ensin (raamatunkohdat ja kirjan nimeävät linkit).
+
+* [Luominen Raamatussa](../articles/luominen-raamatussa.md) — 3
+* [Daniel Nylund: Maailmankatsomuksen täytyy voida selittää kaiken alkuperä, tarkoitus ja päämäärä (Ajankohtainen 3, IV luku)](../articles/daniel-nylund-maailmankatsomuksen-täytyy-voida-selittää-kaiken-alkuperä-tarkoitus-ja-päämäärä-ajankohtainen-3-iv-luku.md) — 1
+* [Daniel Nylund: Maailmankatsomus ei saa olla ristiriidassa todellisuuden kanssa (Ajankohtainen 3, III luku)](../articles/daniel-nylund-maailmankatsomus-ei-saa-olla-ristiriidassa-todellisuuden-kanssa-ajankohtainen-3-iii-luku.md) — 1
+* [Sanainspiraatio-oppi](../articles/sanainspiraatio-oppi.md) — 1
+* [Tieteen ja uskonnon välinen suhde](../articles/tieteen-ja-uskonnon-välinen-suhde.md) — 1

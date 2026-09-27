@@ -4,7 +4,7 @@ about: apologetics
 title: "Raamatun alkukertomuksien luotettavuus"
 description: "Tässä tekstissä referoidaan lyhyttä osaa professori K. A. Kitchenin vuonna 2003 ilmestyneestä teoksesta “On the Reliability of the Old Testament”."
 tags: [apowiki, historia, raamattu]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Raamatun alkukertomuksien luotettavuus".
@@ -24,7 +24,7 @@ Kitchenin teoksen idea on yksinkertainen: mitä Vanhan Testamentin luotettavuude
 
 ### Tausta
 
-Kitchen toteaa teoksessaan, että siirryttäessä aikaan ennen Abrahamin lähtöä Urista ( (1. Moos. 1-11)), olemme jo niin kaukana historiassa, että todistusaineisto vähenee.
+Kitchen toteaa teoksessaan, että siirryttäessä aikaan ennen Abrahamin lähtöä Urista ( ([1. Moos. 1-11](../books/gen.md))), olemme jo niin kaukana historiassa, että todistusaineisto vähenee.
 Mitä Raamattu sitten väittää tästä ajasta? Raamatun muinaishistoriaa kuvaava sanoma on yksinkertaistetusti tämä:
 1. luominen
 1. useita sukupolvia
@@ -47,7 +47,7 @@ Lähi-Idässä siis väitettiin yleisesti:
 
 Tämä yhtäpitävyys on pyritty selittämään sillä, että Raamattuun on kopioitu ympäröivistä kulttuureista pakanalliset muinaishistoriankuvaukset.
 
-Raamatuntutkijat ovat ensinnäkin väittäneet, että  (1. Moos. 1-2) on lainattu Babylonialaisesta luomiskertomuksesta. On kuitenkin hyvät perusteet ajatella, että Raamatun kuvaus luomisesta on säilynyt itsenäisesti. Tämä väite perustuu siihen, että Raamatun ja Babylonian luomiskertomukset ovat liian erilaiset:
+Raamatuntutkijat ovat ensinnäkin väittäneet, että  ([1. Moos. 1-2](../books/gen.md)) on lainattu Babylonialaisesta luomiskertomuksesta. On kuitenkin hyvät perusteet ajatella, että Raamatun kuvaus luomisesta on säilynyt itsenäisesti. Tämä väite perustuu siihen, että Raamatun ja Babylonian luomiskertomukset ovat liian erilaiset:
 
 1. Sana tehom/thm, joka on yleinen sekä hepreassa että Syyrian ugariitissa, tarkoittaa yksinkertaisesti “syvyyttä”, eikä ole yhdistettävissä jumaluuteen, kuten Ti’amat, joka on Babylonian luomiskertomuksen jumalatar.
 1. Raamatun mukaan luominen tyhjästä on keskeisintä. Babylonialaisen version mukaan luominen on sivuseikka, koska Babylonialaisen kertomuksen päämäärä on korostaa Marduk-jumalan ylivaltaa.
@@ -59,7 +59,7 @@ Raamatun luomiskertomuksen lähin vastine on juuri Babylonilainen luomiskertomus
 
 ### Vedenpaisumus
 
-Onko Raamatun vedenpaisumuskertomusta pidettävä Mesopotamiasta lainattuna myyttinä? On selvää, että mesopotamialaiset uskoivat myös vedenpaisumukseen. Millä perusteilla voidaan kuitenkin olettaa että  (1. Moos. 6-9) on säilynyt itsenäisesti? Itsenäisyyttä tukee tälläkin kertaa sisällön liiallinen eroavuus. Suoraa kopiointia ei ole tapahtunut kumpaankaan suuntaan. Lukuisia eroja ovat muun muassa:
+Onko Raamatun vedenpaisumuskertomusta pidettävä Mesopotamiasta lainattuna myyttinä? On selvää, että mesopotamialaiset uskoivat myös vedenpaisumukseen. Millä perusteilla voidaan kuitenkin olettaa että  ([1. Moos. 6-9](../books/gen.md)) on säilynyt itsenäisesti? Itsenäisyyttä tukee tälläkin kertaa sisällön liiallinen eroavuus. Suoraa kopiointia ei ole tapahtunut kumpaankaan suuntaan. Lukuisia eroja ovat muun muassa:
 1. Raamatun mukaan rangaistus seuraa moraalisesta rappiosta. Mesopotamialaisen kertomuksen mukaan jumalat raivostuvat ihmisten metelöintiin.
 1. Raamatun mukaan Jumala käskee vanhurskaan Nooan rakentaa arkin. Mesopotamialaisen version mukaan ystävällismielinen jumala salamyhkäisesti paljastaa asian sankarille.
 1. Raamatun mukaan Nooan arkki on rakennettu nykyisten laivan mukaisiin mittasuhteisiin. Mesopotamialaisen myytin mukaan laiva on kuutio.<!--Eikös 1:6 ole optimaalinen paikallaan pysyvälle alukselle, kun taas nykyiset laivat pyrkivät etenemään vauhdikkaasti. Esimerkiksi titanicin suhteet ovat n. 1:9.-->
@@ -93,7 +93,7 @@ Kitchenin mukaan ensimmäisen Mooseksen kirjan luvut 1-11 ovat vanhinta hepreala
 
 Miksi meillä on näitä poikkeavia kuvauksia yhdestä ja samasta tapahtumasta? Heprelaiset patriarkat tulivat Luvattuun maahan juuri Mesopotamiasta. On järjellistä olettaa, että yksi ja sama traditio on sekä Raamatun että mesopotamilaisen perimän takana. Ensimmäisen Mooseksen kirjan kuvaus on näistä kahdesta yksinkertaisempi ja eleettömämpi. Kriittinen tutkimus on kuitenkin väittänyt, että ensimmäisen Mooseksen kirjan kaksi ensimmäistä lukua ovat kaksi väkisin yhdistettyä tarinaa (jotka vielä lisäksi väitetään keskenään ristiriitaisiksi).
 
-Ensimmäisen väitteen perustana on  (1. Moos. 2:4), jota on pidetty ensimmäisen ja toisen tarinan liitoskohtana:
+Ensimmäisen väitteen perustana on  ([1. Moos. 2:4](../books/gen.md)), jota on pidetty ensimmäisen ja toisen tarinan liitoskohtana:
 
 > (1) Tämä on kertomus siitä, kuinka taivas ja maa saivat alkunsa silloin kun ne luotiin. (2) Siihen aikaan, kun Herra Jumala teki maan ja taivaan. [...].”
 
@@ -101,7 +101,7 @@ Näin jakeen 4 alkuosa (1) on ensimmäisen kertomuksen loppu ja jakeen loppuosa 
 
 > “Mutta monet ensimmäiset(A) tulevat olemaan viimeisiä(B) ja viimeiset(B) ensimmäisiä(A).”
 >
-> — (Matt. 19:30)
+> — ([Matt. 19:30](../books/mat.md))
 
 Rakenne on siis: A B B A.
 

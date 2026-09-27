@@ -4,7 +4,7 @@ about: apologetics
 title: "Metodologinen naturalismi"
 description: "Metodologinen naturalismi on tieteessä usein itsestäänselvyyden aseman saanut, mutta maailmankatsomuksellisesti sitoutunut metodologinen lähestymistapa, jonka mukaan kaikki tapahtuminen on selitettävä luonnollisten syiden perusteella."
 tags: [apowiki, filosofia, naturalismi]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Metodologinen naturalismi".
@@ -87,7 +87,7 @@ On myös hyvä huomata, että koska maailmankaikkeuden ymmärrettävyys ja laino
 
 Teismin ja naturalismin välinen yhteiskunnallis-metafyysinen kilpailuasetelma ei asian luonteen nojalla ole viime kädessä verrattavissa ikään kuin jalkapalloon, jossa luonnonlain löytyminen vastaisi naturalistijoukkueen tekemää maalia ja sellaisen löytymättömyys puolestaan teistijoukkueen maalia; sen sijaan "naturalistijoukkue" pystyisi loogisesti ottaen voittamaan ainoastaan tilanteessa, jossa vastapäiseen maaliin tulee viljalti osumia "oman maalin" jäädessä *täysin* tai vähintäänkin *lähes koskemattomaksi*[^10]; kun lähtötilanne siis on naturalistien kannalta näin kriittinen, ei inhimillisesti katsoen ole suurikaan ihme, että monet heistä ovat tahtoneet "varmistaa voiton" lahjomalla tai kiristämällä jo etukäteen "erotuomarin" hylkäämään kaikki "naturalistien omaan maaliin" kohdistuneet osumat. Juuri tällaisesta "erotuomaripelistähän" metodologisessa naturalismissa viime kädessä on metafysiikan ja kulttuurihistorian näkökulmasta kysymys.[^11]
 
-Sen sijaan asetelma on sellainen, että mikäli Jumala-selityksiä rehellisessä tieteessä todella tarvitaan *johonkin*, niin teistinen katsomus saa tieteellisen vahvistuksen *myös tulkitessaan luonnonlait Jumalan epäsuoraksi toiminnaksi* eikä naturalismin mukaiseksi tarkoituksettomaksi itsenäiseksi perimmäisyydeksi. Tällöin nimenomaan **metafyysisen naturalismin**[^12] kulttuurinen uskottavuus olisi vaarassa romahtaa sen osoittautuessa perimmältään pelkäksi aatehistoriallisesti mahon antiikin epikurolaisuuden kehäpäättelyllisen toiveajattelumaailman moderniksi uudelleenlämmitelmäksi.[^13] Metodologinen naturalismi on siis yhdeltä osaltaan myös eräänlainen metafyysisen naturalismin Troijan hevonen, jonka avulla tämä pyrkii näennäisen neutraalisti pitämään yllä kulttuurista valta-asemaansa niin tieteessä kuin koko sitä ympäröivässä yhteiskunnassammekin.
+Sen sijaan asetelma on sellainen, että mikäli Jumala-selityksiä rehellisessä tieteessä todella tarvitaan *johonkin*, niin teistinen katsomus saa tieteellisen vahvistuksen *myös tulkitessaan luonnonlait Jumalan epäsuoraksi toiminnaksi* eikä naturalismin mukaiseksi tarkoituksettomaksi itsenäiseksi perimmäisyydeksi. Tällöin nimenomaan **[metafyysisen naturalismin](../glossary/sanasto.md#metafyysinen-naturalismi)**[^12] kulttuurinen uskottavuus olisi vaarassa romahtaa sen osoittautuessa perimmältään pelkäksi aatehistoriallisesti mahon antiikin epikurolaisuuden kehäpäättelyllisen toiveajattelumaailman moderniksi uudelleenlämmitelmäksi.[^13] Metodologinen naturalismi on siis yhdeltä osaltaan myös eräänlainen metafyysisen naturalismin Troijan hevonen, jonka avulla tämä pyrkii näennäisen neutraalisti pitämään yllä kulttuurista valta-asemaansa niin tieteessä kuin koko sitä ympäröivässä yhteiskunnassammekin.
 
 ### Katso myös
 #### Internet

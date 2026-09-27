@@ -4,7 +4,7 @@ about: apologetics
 title: "Evoluutioteoria"
 description: "23 ApoWiki-artikkelia aihepiiristä evoluutioteoria — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, evoluutioteoria]
-timestamp: 2026-09-25T23:30:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 
 # Evoluutioteoria
@@ -22,7 +22,7 @@ Aihepiirin evoluutioteoria artikkelit, tuotu [ApoWikistä](https://apowiki.fi). 
 * [Evoluution määritelmä](../articles/evoluution-määritelmä.md) — Tämä artikkeli käsittelee "evoluutio"-termin erilaisia määritelmiä.
 * [Evoluutioteoria](../articles/evoluutioteoria.md) — TerminologiastaEvoluutioteorialla tarkoitetaan ApologetiikkaWikissä oppia jonka mukaan "kaikki eliöt polveutuvat yhteisestä esi-isästä ohjaamattomien….
 * [Evoluutioteorian historia](../articles/evoluutioteorian-historia.md) — Evoluutoajatuksia ovat esittäneet jo antiikin Kreikan materialistit, erityisesti Lucretius, joiden katsomukset vaativat jonkinlaisen materiasta….
-* [Icons of Evolution (kirja)](../articles/icons-of-evolution-kirja.md) — Icons of Evolution on amerikkalaisen biologin Jonathan Wells in kirjoittama kirja, jossa hän käsittelee merkittävimpiä evoluutioteorian….
+* [Icons of Evolution (kirja)](../articles/icons-of-evolution-kirja.md) — Icons of Evolution on amerikkalaisen biologin Jonathan Wellsin kirjoittama kirja, jossa hän käsittelee merkittävimpiä evoluutioteorian….
 * [Ihminen vs. simpanssi](../articles/ihminen-vs-simpanssi.md) — Evoluutioteoreettisen polveutumisopin perusteella sitä, että ihmisen ja "lähimpänä sukulaisenamme" markkinoidun simpanssin genomit ovat lähes….
 * [Kambrikauden räjähdys](../articles/kambrikauden-räjähdys.md) — Noin 570 miljoonaa vuotta vanhoihin kerrostumiin näyttää ilmestyneen kuin tyhjästä valtava määrä erilaisia fossiileja.
 * [Konvergenssi](../articles/konvergenssi.md) — Konvergenssilla tarkoitetaan rakenteellista samankaltaisuutta, joka selittyy rakenteen samanlaisella toiminnalla tilanteessa, jossa eliöiden….
@@ -33,6 +33,6 @@ Aihepiirin evoluutioteoria artikkelit, tuotu [ApoWikistä](https://apowiki.fi). 
 * [Polveutumisoppi](../articles/polveutumisoppi.md) — Polveutumisopin mukaan kaikki eliöt ovat polveutuneet yhteisestä kantamuodostaan ohjatusti tai ohjaamattomasti.
 * [Seksuaalisen lisääntymisen synty evoluutioteorian valossa](../articles/seksuaalisen-lisääntymisen-synty-evoluutioteorian-valossa.md) — Hyvää infoa….
 * [Tapio Puolimatka: Vastine Valtaojalle](../articles/tapio-puolimatka-vastine-valtaojalle.md) — Professori Tapio Puolimatka vastasi professori Esko Valtaojalle Kotimaa –lehden verkkokeskustelussa seuraavasti: On hämmentävää lukea tunnetun….
-* [The Edge of Evolution (kirja)](../articles/the-edge-of-evolution-kirja.md) — The Edge of Evolution: The Search for the Limits of Darwinism (EOE) on biokemian professori Michael Behe n kirjoittama kirja, jossa hän käsittelee….
+* [The Edge of Evolution (kirja)](../articles/the-edge-of-evolution-kirja.md) — The Edge of Evolution: The Search for the Limits of Darwinism (EOE) on biokemian professori Michael Behen kirjoittama kirja, jossa hän käsittelee….
 * [Tilke-DNA](../articles/tilke-dna.md) — Roska-DNA:lla viitataan usein DNA-jaksoihin, jotka eivät koodaa proteiineja tai joilla ei vaikuta olevan mitään selkeätä funktiota.
 * [Usko, tiede ja evoluutio (kirja)](../articles/usko-tiede-ja-evoluutio-kirja.md) — Teologian tohtori Sammeli Juntunen arvioi Kotimaan-lehden verkkosivuilla kirjan olevan kenties merkittävin teologinen puheenvuoro Suomessa sitten….

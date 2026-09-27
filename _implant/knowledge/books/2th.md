@@ -7,7 +7,7 @@ book: 2th
 testament: nt
 chapters: 3
 tags: [raamattu, kirja, 2th]
-timestamp: 2026-09-26T11:30:00Z
+timestamp: 2026-09-27T13:00:00Z
 half_life: 0
 ---
 
@@ -19,4 +19,10 @@ Luvut, jaetunnisteet ja kirjan teologinen käsittely ovat teologiaimplantissa, j
 
 <brain://theology-kay4zyljsuy909krumpau/knowledge/scripture/2th/2th.md>
 
-Tämän implantin artikkelit, jotka viittaavat kirjaan, näkyvät sivun takaisinlinkeissä.
+## ApoWikin artikkelit, jotka viittaavat kirjaan
+
+Suurin viittausmäärä ensin (raamatunkohdat ja kirjan nimeävät linkit).
+
+* [Daniel Nylund: Maailmankatsomus ei saa olla sisäisesti ristiriitainen (Ajankohtainen 3, II luku)](../articles/daniel-nylund-maailmankatsomus-ei-saa-olla-sisäisesti-ristiriitainen-ajankohtainen-3-ii-luku.md) — 3
+* [Daniel Nylund: Maailmankatsomuksen valinta ja maailmankatsomukselliset valinnat (Ajankohtainen 3, I luku)](../articles/daniel-nylund-maailmankatsomuksen-valinta-ja-maailmankatsomukselliset-valinnat-ajankohtainen-3-i-luku.md) — 1
+* [Kanaanilaisten kansanmurha](../articles/kanaanilaisten-kansanmurha.md) — 1

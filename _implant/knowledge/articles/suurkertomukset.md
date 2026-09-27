@@ -4,7 +4,7 @@ about: apologetics
 title: "Suurkertomukset"
 description: "Kertomukset (narraatiot, narratiivit) ovat ihmiselle luonteenomainen tapa asioiden hahmottamiseen ja jäsentämiseen."
 tags: [apowiki, maailmankatsomus]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Suurkertomukset".
@@ -106,8 +106,8 @@ Suurkertomukset ovat keskenään kovin erilaisia, joten voi tuntua epäselvält�
 Voi siis kokoavasti todeta, että **joko**
 1. mikään suurkertomus ei ole totta  **tai** sitten
 1. on olemassa tasan yksi tosi suurkertomus,
-#* jolla myös on monia erilaisia mutta keskenään yhteensopivia esitysmuotoja,
-#* mutta jonka liepeillä toisaalta voi esiintyä virheellisiä lisäyksiä ja tarkennuksia sisältäviä, oikeaa joissain suhteissa läheisestikin muistuttavia mutta kuitenkin sen olennaisen sisällön kiistäviä ja sen kanssa ihmiskunnan luottamuksesta kilpailevia vääriä suurkertomuksia.
+   * jolla myös on monia erilaisia mutta keskenään yhteensopivia esitysmuotoja,
+   * mutta jonka liepeillä toisaalta voi esiintyä virheellisiä lisäyksiä ja tarkennuksia sisältäviä, oikeaa joissain suhteissa läheisestikin muistuttavia mutta kuitenkin sen olennaisen sisällön kiistäviä ja sen kanssa ihmiskunnan luottamuksesta kilpailevia vääriä suurkertomuksia.
 
 Lisäksi monetkin pienet kertomukset ovat tietysti totta. Suurkertomukset siis sulkevat pois toisensa mutta eivät yleensä pieniä kertomuksia. Vastaavasti pienet kertomukset eivät yleensä sulje pois suurkertomuksia eivätkä toisiaan; tämä johtuu siitä, että pienkertomukset käsittelevät yleensä keskenään eri asioita, kun taas kaikki suurkertomukset vastaavat, kukin omalla tavallaan, todellisuuden perimmäistä luonnetta koskeviin kysymyksiin, joita mitkään pienet kertomukset taas eivät suoranaisesti käsittele. Voi siis sanoa, että maailmaan mahtuu enintään yksi tosi suurkertomus mutta joka tapauksessa monta pientä totuudenmukaista kertomusta. (Keskikokoisista kertomuksista on jäljempänä oma lukunsa.)
 

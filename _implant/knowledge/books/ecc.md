@@ -7,7 +7,7 @@ book: ecc
 testament: ot
 chapters: 12
 tags: [raamattu, kirja, ecc]
-timestamp: 2026-09-26T11:30:00Z
+timestamp: 2026-09-27T13:00:00Z
 half_life: 0
 ---
 
@@ -19,4 +19,9 @@ Luvut, jaetunnisteet ja kirjan teologinen käsittely ovat teologiaimplantissa, j
 
 <brain://theology-kay4zyljsuy909krumpau/knowledge/scripture/ecc/ecc.md>
 
-Tämän implantin artikkelit, jotka viittaavat kirjaan, näkyvät sivun takaisinlinkeissä.
+## ApoWikin artikkelit, jotka viittaavat kirjaan
+
+Suurin viittausmäärä ensin (raamatunkohdat ja kirjan nimeävät linkit).
+
+* [Luominen Raamatussa](../articles/luominen-raamatussa.md) — 7
+* [A New Critique of Theoretical Thought (kirja)](../articles/a-new-critique-of-theoretical-thought-kirja.md) — 1

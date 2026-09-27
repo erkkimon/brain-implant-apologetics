@@ -4,7 +4,7 @@ about: apologetics
 title: "Alkuperäisheimot ja Jumala"
 description: "Kuva: Kareneiden perimätieto tuki Raamatun luotettavuutta, mistä oli apua Adoniram Judsonin tehdessä lähetystyötä heidän parissaan."
 tags: [apowiki, historia, jumala, lukusuositukset]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Alkuperäisheimot ja Jumala".
@@ -70,7 +70,7 @@ Kareneilla on lisäksi Raamatun kanssa hyvin yhteensopiva kertomus siitä, kuink
 
 > Myöhemmin alkoikin sairauksia ilmetä, sillä yksi Ee-un ja Tha-nain lapsista sairastui. Koska Y'wa oli hylännyt heidät, he menivät kysymään Mu-kaw-leelta neuvoa. Mu-kaw-lee antoikin tarkkoja ohjeita siitä, kuinka uhreja piti suorittaa kutakin tautia vastaan. Uhrit suoritettiin hänen palvelijoilleen eli demoneille. Mu-kaw-lee opetti ihmisiä myös ennustamaan lintujen luista, mistä pian tulikin vuoristolaisille keino hakea apua jokseenkin kaikkiin ongelmiin.[^6]
 
-Karenit odottivat ja kaipasivat Y'wan paluuta. He eivät olleet omaksuneet buddhalaisuutta eivätkä pitäneet epäjumalankuvia. Vanhempiensa kunnioittamisen he uskoivat kuuluvan ihmisen velvollisuuksiin. Lähimmäistä piti rakastaa, ja sääntöjä rikkoneita kareneita lohdutettiin Y'wan armon lupauksilla, sillä hänen kerrottiin armahtavan kareneita aina uudestaan, kun he rukoilivat häntä. Rukoilemaan myös kehotettiin lakkaamatta,[^7] vrt.  (1.Tess. 5:17).
+Karenit odottivat ja kaipasivat Y'wan paluuta. He eivät olleet omaksuneet buddhalaisuutta eivätkä pitäneet epäjumalankuvia. Vanhempiensa kunnioittamisen he uskoivat kuuluvan ihmisen velvollisuuksiin. Lähimmäistä piti rakastaa, ja sääntöjä rikkoneita kareneita lohdutettiin Y'wan armon lupauksilla, sillä hänen kerrottiin armahtavan kareneita aina uudestaan, kun he rukoilivat häntä. Rukoilemaan myös kehotettiin lakkaamatta,[^7] vrt.  ([1.Tess. 5:17](../books/1th.md)).
 
 Erikoista karenien yksijumalaisessa uskonnossa on myös avoin oman puutteellisuutensa tunnustaminen.[^8] Eräs **Sau-qua-la**-niminen karen kertoi englantilaiselle kenraalikuvernöörille, että valkoiset vieraat eli eurooppalaiset olivat alun perin olleet karenien nuorempia veljiä. Karenit kuitenkin olivat laiminlyöneet velvollisuutensa vanhempina veljinä ja kadottaneet kappaleensa Y'wan kirjasta. Nuoremmilla veljillä se kuitenkin on tallessa, ja siksipä he ovatkin ns. vanhurskaita eli opettajia Jumalan luokse. Lisäksi he olivat oppineet matkustamaan valkosiipisillä laivoilla valtamerien yli.[^9]
 

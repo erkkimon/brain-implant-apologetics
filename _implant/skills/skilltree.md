@@ -5,5 +5,8 @@ skills, never this file._
 
 - [Convert ApoWiki wikitext into implant articles](convert-apowiki-to-articles.md) — Use when turning the ApoWiki export in raw/apowiki-export/ into searchable articles under knowledge/ — the deterministic, token-free conversion that produces the MVP, including wiki-link resolution, citation footnotes and the topic spine that grounds every page.
   - needs [Using the brain implant](using-the-brain-implant.md)
-  - tools: `tools/apowiki_convert.py`, `tools/apowiki_topics.py`, `tools/apowiki_books.py`
+  - tools: `tools/apowiki_convert.py`, `tools/apowiki_topics.py`, `tools/apowiki_books.py`, `tools/apowiki_glossary.py`, `tools/apowiki_stamp.py`
+- [Translate an article into English](translate-an-article.md) — Use when translating a converted Finnish ApoWiki article into English: a small local model does the prose, ApoWiki's own glossary (Sanasto) fixes the terminology, and deterministic checks (links, footnotes, glossary terms) decide whether a chunk is accepted. Frontier-model tokens are spent only on review.
+  - needs [Convert ApoWiki wikitext into implant articles](convert-apowiki-to-articles.md)
+  - tools: `tools/apowiki_glossary.py`, `tools/apowiki_translate.py`
 - [Using the brain implant](using-the-brain-implant.md) — Use when reading from or writing to this brain implant — before answering from memory, before grepping, and before adding or changing any doc in _implant/. Explains what an implant is (mounted beside the agent's own brain, its cortex), where opinions go (the cortex, never here), and the read and write discipline the contract enforces.

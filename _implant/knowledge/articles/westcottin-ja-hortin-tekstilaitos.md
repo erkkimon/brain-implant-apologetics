@@ -4,7 +4,7 @@ about: apologetics
 title: "Westcottin ja Hortin tekstilaitos"
 description: "Westcottin ja Hortin tekstilaitoksella tarkoitetaan B. F. Westcottin ja F."
 tags: [apowiki, raamatun-tekstit]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Westcottin ja Hortin tekstilaitos".
@@ -26,7 +26,7 @@ Westcottin ja Hortin tekstilaitos perustuu Uuden testamentin aleksandrialaista t
 
 Nykyisin eniten käytetyt kriittiset Uuden testamentin tekstilaitokset *Novum Testamentum Graece* (27. painos Deutsche Bibelgesellschaft, Stuttgart 1993) ja *The Greek New Testament* (4. painos Deutsche Bibelgesellschaft, Stuttgart 1993) ovat tekstiltään lähellä Westcottin ja Hortin laitosta, josta ne poikkeavat noin 500 kohdassa. Nämä kaksi tekstilaitosta (toisin kuin Westcottin ja Hortin laitos) perustuvat ekleettiseen tekstikriittiseen metodiin, jossa tekstikriitikko osin varsin subjektiivisin perustein määrittelee parhaat lukutavat. Ero tekstikriittisessä metodissa sekä Westcottin ja Hortin laitoksen laatimisen jälkeen löydetty uusi käsikirjoitusaineisto on syynä siihen, että nykyiset tekstilaitokset poikkeavat jonkin verran Westcottin ja Hortin laitoksen tekstistä.
 
-Niissä kohdin, joissa nykyiset tekstilaitokset poikkeavat Westcottin ja Hortin laitoksen tekstistä, on usein palattu Textus Receptuksen mukaiseen lukutapaan. Merkittävimpiä näistä kohdista ovat *läntiset ei-interpolaatiot* (engl. *Western non-interpolations*). Nämä ovat kohtia, joissa Westcott ja Hort katsoivat länsimaista tekstiä edustavan Codex Bezaen lyhyempien lukutapojen olevan alkuperäisiä ja siksi nämä kohdat (jakeissa  (Matt. 27:49);  (Luuk. 22:19-20);  (Luuk. 24:3);  (Luuk. 24:6);  (Luuk. 24:12);  (Luuk. 24:36);  (Luuk. 24:40);  (Luuk. 24:51-52)) on Westcottin ja Hortin laitoksessa laitettu kaksinkertaisiin hakasulkuihin. Nykyisin tekstikriitikot useimmiten kuitenkin katsovat edellä mainittujen kohtien kuuluvan alkuperäiseen tekstiin.
+Niissä kohdin, joissa nykyiset tekstilaitokset poikkeavat Westcottin ja Hortin laitoksen tekstistä, on usein palattu Textus Receptuksen mukaiseen lukutapaan. Merkittävimpiä näistä kohdista ovat *läntiset ei-interpolaatiot* (engl. *Western non-interpolations*). Nämä ovat kohtia, joissa Westcott ja Hort katsoivat länsimaista tekstiä edustavan Codex Bezaen lyhyempien lukutapojen olevan alkuperäisiä ja siksi nämä kohdat (jakeissa  ([Matt. 27:49](../books/mat.md));  ([Luuk. 22:19-20](../books/luk.md));  ([Luuk. 24:3](../books/luk.md));  ([Luuk. 24:6](../books/luk.md));  ([Luuk. 24:12](../books/luk.md));  ([Luuk. 24:36](../books/luk.md));  ([Luuk. 24:40](../books/luk.md));  ([Luuk. 24:51-52](../books/luk.md))) on Westcottin ja Hortin laitoksessa laitettu kaksinkertaisiin hakasulkuihin. Nykyisin tekstikriitikot useimmiten kuitenkin katsovat edellä mainittujen kohtien kuuluvan alkuperäiseen tekstiin.
 
 ### Katso myös
 

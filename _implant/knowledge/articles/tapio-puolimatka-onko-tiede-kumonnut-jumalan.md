@@ -4,7 +4,7 @@ about: apologetics
 title: "Tapio Puolimatka: Onko tiede kumonnut Jumalan?"
 description: "Kulttuuriamme hallitsevan mielikuvamaailman mukaan tieteen tutkimustulokset ovat murentaneet uskon siihen, että olisi olemassa kaikkitietävä ja kaikkivaltias Luoja."
 tags: [apowiki, jumala, filosofia, tapio-puolimatka, tekijänoikeuden-alaiset-artikkelit, lukusuositukset]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tapio Puolimatka: Onko tiede kumonnut Jumalan?".
@@ -42,7 +42,7 @@ Jokainen meistä haluaa uskoa olevansa yksilö, jolla on rohkeus kohdata tosiasi
 Niin kauan kuin uskomusjärjestelmä on kulttuuriamme hallitsevan mielikuvan ja siihen liittyvän tunteenomaisen vetovoiman varassa, yritykset haastaa sitä älyllisillä perusteluilla voivat jäädä tehottomiksi. Mielikuva vaikuttaa suoraan tunteisiin ilman perusteluja.
 
 #### Mielikuva voittaa perustelun
-[Charles Taylor](charles-taylor.md)in mukaan ei kuitenkaan ole kyse vastakkainasettelusta tieteellisten tosiasioiden ja kristillisen uskon välillä:
+[Charles Taylorin](charles-taylor.md) mukaan ei kuitenkaan ole kyse vastakkainasettelusta tieteellisten tosiasioiden ja kristillisen uskon välillä:
 
 - Argumentti, jonka mukaan moderni tiede johtaa kokonaisvaltaiseen materialismiin, ei näytä vakuuttavalta. Milloin tahansa tämä argumentti pyritään esittämään vähän yksityiskohtaisemmassa muodossa, se on täynnä aukkoja.
 

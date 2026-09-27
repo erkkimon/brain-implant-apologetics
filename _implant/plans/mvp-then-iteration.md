@@ -3,7 +3,7 @@ type: plan
 title: "MVP first, then daily iteration (apologetics)"
 description: "The apologetics half of the shared plan: convert ApoWiki's wikitext to Finnish markdown pages with parsed implant links, hang the book corpus on the shared book spine, compile with multilingual embeddings, and only then start cooldown-batched translation and improvement."
 tags: [plan, mvp, roadmap]
-timestamp: 2026-09-27T10:00:00Z
+timestamp: 2026-09-27T12:30:00Z
 ---
 
 # MVP first, then daily iteration (apologetics)
@@ -38,8 +38,9 @@ cooldown-sized batches).
 3. **Links that land** — 845 of 848 files carry wiki links, 6 798 of them.
    Resolvable targets become implant links; unresolvable ones become red links
    that grep can list. Redirects resolve to their target and are not imported.
-   Namespace prefixes (`AW:S`, `Luokka:`) map to their own folders; `wp:`
-   becomes an external Wikipedia URL.
+   Namespace prefixes map to their own folders: `AW:S#term` (ApoWiki's
+   glossary) lands on [knowledge/glossary/sanasto.md](../knowledge/glossary/sanasto.md),
+   `Luokka:` on the topic pages; `wp:` becomes an external Wikipedia URL.
 4. **The book spine** — one article per biblical book, generated from the same
    canonical list theology uses, each book bound to its testament and to the
    theology spine across the federation boundary; the `Luokka:Kirjat` corpus
@@ -70,3 +71,66 @@ rather than alphabetical, so each burst finishes a coherent sub-domain instead
 of leaving fifty half-touched ones. Expect days, not hours — the plan assumes
 that and does not depend on the translation being fast, only on the gate being
 early.
+
+## Which models translate
+
+Decided on 2026-09-27 ([journal](../journals/2026-09-27.md)): translation
+runs on a small local model, and frontier tokens go only to review. The
+procedure and its reasoning are in
+[Translate an article](../skills/translate-an-article.md). In short:
+
+* A local 9B model translates the prose. It is free to run, but slow
+  (about 4 tokens a second on a CPU-only host), so a batch runs as an
+  overnight background job, not inside a session.
+* ApoWiki's official glossary fixes the vocabulary.
+  [english.md](../knowledge/glossary/english.md) records the one English
+  rendering of each term, and the translator checks that its output uses
+  it.
+* Links, footnote markers and glossary terms are checked mechanically. A
+  chunk that fails keeps its Finnish original, visibly marked.
+* The cooldown-limited frontier model reviews a batch against the Finnish
+  instead of writing it. That changes what a cooldown burst is for: it
+  covers several machine-translated slices instead of one.
+
+## Status and how to resume
+
+Kept current so that work can pick up from the repository alone, without
+the conversation that produced it. The work queue is
+[todo/open.md](../todo/open.md), and the most recent journal says what
+happened last.
+
+**Done (as of 2026-09-27):**
+
+* Phases 0–3 of the queue: history import, conversion (471 articles,
+  5 111 footnotes), topics, the 66-book spine bound to theology, bge-m3
+  vectors.
+* ApoWiki's glossary is in: raw source in
+  `raw/apowiki-project/sanasto.wiki`, converted to
+  [sanasto.md](../knowledge/glossary/sanasto.md). The 401 `AW:S#term`
+  links in articles now land there instead of being dropped.
+* The translation tooling exists and has been tried on one article (see
+  the journal of 2026-09-27).
+
+**Next, in order:**
+
+1. The remaining machine-time items in todo/open.md, phase 2: hang the
+   `Luokka:Kirjat` review articles off the book pages, and verify the live
+   cross-implant annotations against theology.
+2. Phase 4, the gate: Tom uses the implant for a real question. Nothing
+   below starts before he calls it lovable.
+3. Translation batches, one theme at a time, per the skill.
+
+**To resume on any machine:**
+
+1. `git pull`, then `brainpick compile --root .` from the repository root.
+   Run `brainpick compile --root . --only t2` in the background if
+   `brainpick doctor --root .` says the vectors are stale. It needs an
+   embedding endpoint (bge-m3) in the gitignored `brainpick.local.toml`.
+2. Register this implant beside its sibling so the book spine resolves:
+   the theology implant must also be registered (`brainpick register`).
+3. The conversion is regenerable. `_temp/apowiki-cache/` is not committed,
+   so re-create it with `skills/tools/apowiki_fetch.py` before re-running
+   `apowiki_convert.py`. The procedure is in
+   [Convert ApoWiki wikitext](../skills/convert-apowiki-to-articles.md).
+4. Work down todo/open.md top to bottom, record in today's journal, and
+   commit through the contract.

@@ -4,7 +4,7 @@ about: apologetics
 title: "Alkuhistorianäkemykset"
 description: "Alkuhistorianäkemykset ovat käsityksiä siitä, mitä on tapahtunut ennen kuin kukaan meistä ihmisistä oli tarkkailemassa tapahtumia."
 tags: [apowiki, alkuperähypoteesit]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Alkuhistorianäkemykset".
@@ -51,7 +51,7 @@ Alla olevaan taulukkoon on tiivistetty päänäkemykset:
 | Jumalan erikseen luoma maapallon kuudennen vuorokauden[^8] aikana Raamatun kuvauksen mukaisesti.
 | Alkuperäislajit[^9] Jumalan luomia. Näiden sisäistä muuntelua ja "lajiutumista"[^10] havaitaan, rajoittamaton [makroevoluutio](https://fi.wikipedia.org/wiki/makroevoluutio) ei ole uskottava.
 | Alle 40 000 vuoden ikäinen, tyypillisesti 10 000. Maailmanlaajuisen tulvan muokkaama.
-| Aurinkokunta kuten maakin alle 40 000 vuoden ikäinen; mahdollisuus, että kaikkeuden etäosat ovat aikadilataatio <!-- red link: aikadilataatio -->n vaikutuksesta ehtineet olla paikallisesti olemassa huomattavasti kauemmin, vaikkapa miljardejakin vuosia, on avoin tutkimusongelma.[^11]
+| Aurinkokunta kuten maakin alle 40 000 vuoden ikäinen; mahdollisuus, että kaikkeuden etäosat ovat aikadilataation <!-- red link: aikadilataatio --> vaikutuksesta ehtineet olla paikallisesti olemassa huomattavasti kauemmin, vaikkapa miljardejakin vuosia, on avoin tutkimusongelma.[^11]
 |-
 | style="background-color:#ddd;" | **Muinaisluomisnäkemys <!-- red link: Muinaisluomisnäkemys -->**[^12]
 | Jumalan luoma, noin 100 000 - 20 000 vuotta sitten.
@@ -110,6 +110,6 @@ Alla olevaan taulukkoon on tiivistetty päänäkemykset:
 [^13]: tarkemmin sanoen: teismin ja siihen kuuluvan (laajasti tulkitun) luomisajatuksen kanssa tietyin ehdoin yhteensovitettavissa olevat
 [^14]: älyllisen suunnittelun teoria, älykkään suunnittelun teoria, "älykäs suunnittelu"
 [^15]: ID:n puolueettomuus ikäkysymysten suhteen ei merkitse sitä, etteikö niistä saisi ID-yhteyksissä puhua, vaan päinvastoin *jättää tilaa* kannattajiensa keskenään *erilaisille näkemyksille* niistä.
-[^16]: Suunnitteluteoria ei edellytä määräkantaa [polveutumisoppi](polveutumisoppi.md)in, vaan tässä kysymyksessä näkemykset saavat jakautua ja jakautuvatkin. On syytä erityisesti panna merkille, että kysymys yhtäältä mahdollisesta polveutumisesta aiemmista elämänmuodoista ja toisaalta älyllisen toimijan mahdollisesta vaikutuksesta jonkin nykyisen elämänmuodon ominaisuuksiin eivät apriorisesti riipu toisistaan. Esim. inhimillisten älyllisten toimijoiden geenimanipulaation avulla kehittämillä uusilla lajikkeilla on tunnetusti omat, tältä osin manipuloimattomat esimuotonsa: geenimanipuloidut lajikkeet ovat siis *sekä* varhaisemmista muodoista polveutuvia *että* älykkään tarkoituksellisesti muunneltuja.
+[^16]: Suunnitteluteoria ei edellytä määräkantaa [polveutumisoppiin](polveutumisoppi.md), vaan tässä kysymyksessä näkemykset saavat jakautua ja jakautuvatkin. On syytä erityisesti panna merkille, että kysymys yhtäältä mahdollisesta polveutumisesta aiemmista elämänmuodoista ja toisaalta älyllisen toimijan mahdollisesta vaikutuksesta jonkin nykyisen elämänmuodon ominaisuuksiin eivät [apriorisesti](../glossary/sanasto.md#a-priori) riipu toisistaan. Esim. inhimillisten älyllisten toimijoiden geenimanipulaation avulla kehittämillä uusilla lajikkeilla on tunnetusti omat, tältä osin manipuloimattomat esimuotonsa: geenimanipuloidut lajikkeet ovat siis *sekä* varhaisemmista muodoista polveutuvia *että* älykkään tarkoituksellisesti muunneltuja.
 [^17]: tai [metodologisen naturalismin](metodologinen-naturalismi.md) ehtoinen [agnostinen](agnostisismi.md)
 [^18]: fanaattisimpien kannattajiensa mielestä "ainoa oikea tieteellinen totuus, muu on pelkkää huuhaata"

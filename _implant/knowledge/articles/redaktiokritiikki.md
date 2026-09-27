@@ -4,7 +4,7 @@ about: apologetics
 title: "Redaktiokritiikki"
 description: "Redaktiokritiikki yksi historiallis-kriittisen raamatuntutkimuksen metodi."
 tags: [apowiki, raamattu, historia, eksegetiikka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Redaktiokritiikki".
@@ -111,13 +111,13 @@ Naturalistisesti sovelletun redaktiokriittisen tutkimuksen ongelmia voidaan yhte
 1. Epänormaali historiallinen tutkimus. Redaktiokriitikot lähestyvät evankeliumeja eri tavoin kuin historioitsijat yleensä lähestyvät vanhoja tekstejä. Yleensä historioitsijat olettavat muinaisen maailman historiallisten dokumenttien olevan historiallisesti luotettavia, jollei tosiasia-aineisto anna syytä uskoa muuta, olivatpa nämä lähteet juutalaisia tai kreikkalaisia, koska historiallinen tieto täytyy rakentaa historiallisten dokumenttien varaan. Redaktiokriitikot sen sijaan olettavat tietävänsä evankeliumin kirjoittajia paremmin, miten alkuperäiset historialliset tapahtumat itse asiassa tapahtuivat. He olettavat saavansa tämän tiedon kirjoituspöytänsä äärellä mietiskelemällä. He katsovat voivansa sivuuttaa historiallisten dokumenttien todistuksen omien mielikuvituskertomustensa pohjalta. Redaktiokriitikot olettavat, etteivät evankeliumien kirjoittajat olleet kiinnostuneita historiallisten tapahtumien kulusta tai ettei heillä ollut mahdollisuutta päästä siitä selville. Kaksi tuhatta vuotta tapahtumien jälkeen elävien tutkijoiden on oletettavasti helpompi päästä selville todellisten historian tapahtumien kulusta pääasiassa mielikuvituksensa varassa. Redaktiokriitikot olettavat, että evankeliumien kirjoittajat keksivät tapahtumia tai muokkasivat niitä alkuseurakunnan tarpeiden mukaisiksi. He eivät kuitenkaan selitä, miten evankelistat olivat niin kyvyttömiä ottamaan huomioon alkuseurakunnan tarpeita, että he loivat heille opin, joka teki kristityistä aikansa vihatuimpia ja parjatuimpia ihmisiä. Redaktiokriitikkojen oletusten vastaisesti on ilmeistä, että varhaisilla kristityillä oli suuri historiallinen kiinnostus Jeesus nasaretilaisen elämään. Tämä johtuu siitä yksinkertaisesta tosiasiasta, että kristinusko perustuu historiallisiin tosiasioihin. Evankeliumin kirjoittajien teologia perustui historiaan. Ainoa syy luoda näin epäsuosittu teologia oli se, että se perustui historiallisiin tosiasioihin.
 1. Ennakkoluuloinen filosofinen perusta. Naturalistinen redaktiokritiikki lähtee dogmaattisesta oletuksesta, että mitään yliluonnollista ei voi tapahtua. Siksi he sijoittavat kaikki yliluonnolliset kertomukset uskon maailmaan, jolla ei ole mitään tekemistä historiallisten tosiasioiden kanssa. Tämän olettamuksensa pohjalta heidän on mahdotonta edes ottaa huomioon sitä mahdollisuutta, että evankeliumin kirjoittajat ovat muodostaneet teologiset vakaumuksensa historiallisten tosiasioiden perusteella.
 1. Rajoittamaton subjektivismi. Redaktiokriittistä tutkimusta luonnehtii rajoittamaton subjektivismi. Tutkimuksen pohjana ei ole metodologisia kriteerejä, joiden noudattamista olisi mahdollista arvioida yleispätevästi. Jokainen redaktiokriitikko luo omat metodologiset sääntönsä ja tekee päätelmänsä subjektiivisten mieltymystensä mukaisesti. Redaktiokriittisten tutkijoiden väliset erot heijastelevat eroja heidän henkilökohtaisissa ennakko-olettamuksissaan. On mahdollista osoittaa redaktiokriittisen tutkimuksen metodinen epämääräisyys pelkästään viittaamalla heidän suuriin käsityseroihinsa. Esimerkiksi teoriat Markuksen evankeliumin tarkoituksesta katsovat Markuksen evankeliumin johtavan teeman olevan jokin seuraavista asioista:
-##pyrkimys hyökätä väärää kristologiaa vastaan[^18],
-##uusi Mooses[^19],
-##liturginen kalenteri[^20][^21],
-##ristin puolustus[^22],
-##Jeesuksen korkein auktoriteetti[^23],
-##maantieteellis-teologinen perusperiaate[^24],
-##paavalilainen teologia[^25].
+   1. pyrkimys hyökätä väärää kristologiaa vastaan[^18],
+   1. uusi Mooses[^19],
+   1. liturginen kalenteri[^20][^21],
+   1. ristin puolustus[^22],
+   1. Jeesuksen korkein auktoriteetti[^23],
+   1. maantieteellis-teologinen perusperiaate[^24],
+   1. paavalilainen teologia[^25].
 > Jos redaktiokriitikot eivät toistuvista yrityksistään huolimatta pysty tunnistamaan, mitä teologista teemaa Markus pyrki evankeliumillaan edistämään, hänellä ei ehkä ollut mitään tarkoitushakuista teologista teemaa, joka olisi ohjannut hänen kirjoitustyötään. Esitetyt teemat ovat lähtöisin redaktiokriitikkojen mielikuvituksesta.
 
 Yllä mainituilla perusteilla tulee vaikeaksi pitää naturalistista redaktiokritiikkiä tieteellisenä menetelmänä. Sitä voidaan ehkä osuvammin luonnehtia ideologisesti värittyneeksi lähestymistavaksi, jonka pohjana ei ole mitään yksiselitteisiä metodologisia kriteerejä.

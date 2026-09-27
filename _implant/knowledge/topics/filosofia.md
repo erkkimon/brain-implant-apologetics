@@ -4,7 +4,7 @@ about: apologetics
 title: "Filosofia"
 description: "75 ApoWiki-artikkelia aihepiiristä filosofia — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, filosofia]
-timestamp: 2026-09-25T23:30:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 
 # Filosofia
@@ -31,7 +31,7 @@ Aihepiirin filosofia artikkelit, tuotu [ApoWikistä](https://apowiki.fi). Luette
 * [Evidentialismi](../articles/evidentialismi.md) — Evidentialismi on uskonnonfilosofiassa näkemys, jonka mukaan uskonnolliset uskomukset voidaan rationaalisesti hyväksyä ainoastaan, jos voidaan….
 * [Evolutiivinen argumentti naturalismia vastaan](../articles/evolutiivinen-argumentti-naturalismia-vastaan.md) — Evolutiivinen argumentti naturalismia vastaan on Alvin Plantingan muotoilema argumentti järjen teistiselle alkuperälle.
 * [Faith and Reason: Searching for a Rational Faith (kirja)](../articles/faith-and-reason-searching-for-a-rational-faith-kirja.md) — Faith and Reason: Searching for a Rational Faith (lyh.Faith and Reason) on Ronald H.
-* [Fideismi](../articles/fideismi.md) — Fideismi on uskonnonfilosofia ssa näkemys, jonka mukaan perustavia uskonnollisia vakaumuksia ei tule alistaa järjen arvioitaviksi, koska….
+* [Fideismi](../articles/fideismi.md) — Fideismi on uskonnonfilosofiassa näkemys, jonka mukaan perustavia uskonnollisia vakaumuksia ei tule alistaa järjen arvioitaviksi, koska uskonnolliset….
 * [Frederick Suppe](../articles/frederick-suppe.md) — Frederick Suppe (s.
 * [God and Other Minds (kirja)](../articles/god-and-other-minds-kirja.md) — God and Other Minds on Alvin Plantingan vuonna 1967 kirjoittama….
 * [Herman Dooyeweerd](../articles/herman-dooyeweerd.md) — Herman Dooyeweerd (7.10.1894 - 12.2.1977) oli hollantilainen kristitty filosofi, joka perusti filosofisen suuntauksen nimeltä kosmonominen filosofia.
@@ -77,7 +77,7 @@ Aihepiirin filosofia artikkelit, tuotu [ApoWikistä](https://apowiki.fi). Luette
 * [Teleologinen argumentti](../articles/teleologinen-argumentti.md) — Teleologisen argumentin lähtökohtana on luonnossa ilmenevä tarkoituksenmukaisuus (telos = päämäärä) ja järjestys.
 * [The Myth of Religious Neutrality (kirja)](../articles/the-myth-of-religious-neutrality-kirja.md) — Roy Clouser argumentoi kirjassaan, että tieteellinen ajattelu on aina uskonnollisesti sitoutunutta.
 * [The Nature of Necessity (kirja)](../articles/the-nature-of-necessity-kirja.md) — The Nature of Necessity on Alvin Plantingan vuonna 1974 kirjoittama….
-* [Tietoteoria](../articles/tietoteoria.md) — Tietoteoria (myös tieto-oppi, epistemologia, gnoseologia) on filosofia n osa, jossa tutkitaan käsitteellisin, filosofisin menetelmin tieto a, tiedon….
+* [Tietoteoria](../articles/tietoteoria.md) — Tietoteoria (myös tieto-oppi, epistemologia, gnoseologia) on filosofian osa, jossa tutkitaan käsitteellisin, filosofisin menetelmin tietoa , tiedon….
 * [Totuus](../articles/totuus.md) — Totuus on yleiskielessä tavallisesti yhtä kuin tosiasia, nimittäin se, mikä on totta eli vastaa todellisuutta.
 * [Tuomas Akvinolainen](../articles/tuomas-akvinolainen.md) — Tuomas Akvinolainen (1225-1274) oli katolinen teologi ja apologeetikko.
 * [Usko, tiede ja evoluutio (kirja)](../articles/usko-tiede-ja-evoluutio-kirja.md) — Teologian tohtori Sammeli Juntunen arvioi Kotimaan-lehden verkkosivuilla kirjan olevan kenties merkittävin teologinen puheenvuoro Suomessa sitten….

@@ -4,7 +4,7 @@ about: apologetics
 title: "Kanaanilaisten kansanmurha"
 description: "Kuva: Kartta luvatun maan rajoista. Taustalla nykyiset poliittiset alueet."
 tags: [apowiki, historia, raamattu]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kanaanilaisten kansanmurha".
@@ -24,7 +24,7 @@ Raamatussa Jumala käskee Israelin kansaa tuhoamaan seitsemän kanaanilaista kan
 
 > Kun Herra, teidän Jumalanne, vie teidät siihen maahan, jota nyt olette menossa ottamaan omaksenne, hän hävittää tieltänne seitsemän teitä suurempaa ja mahtavampaa kansaa: heettiläiset, girgasilaiset, amorilaiset, kanaanilaiset, perissiläiset, hivviläiset ja jebusilaiset. Kun Herra, teidän Jumalanne, on antanut nämä kansat teidän käsiinne ja te olette ne lyöneet, julistakaa ne Herralle kuuluvaksi uhriksi ja tuhotkaa ne. Älkää liittoutuko niiden kanssa älkääkä osoittako niille armoa.
 >
-> — (5. Moos. 7:1-2)[^2]
+> — ([5. Moos. 7:1-2](../books/deu.md))[^2]
 
 Kun Israelin kansa oli ylittänyt Jordanin erämaavaelluksensa jälkeen, he tuhosivat täydellisesti **Jeriko**n[^3], tappoivat **Ain** 12 000 asukasta[^4], **Makkedassa**, **Libnassa** ja **Lakisissa** he eivät jättäneet eloon ainoatakaan[^5], samoin **Eglonissa**, **Hebronissa**, **Debirissä**, **Hasorissa** ja monissa muissa kaupungeissa.[^6]
 
@@ -40,9 +40,9 @@ Jumalaa ei voida syyttää kärsimättömyydestä israelilaisten tappamia ihmisi
 
 > Ja Herra sanoi Abramille: "Niin tiedä totisesti, että sinun jälkeläisesi tulevat elämään muukalaisina maassa, joka ei ole heidän omansa, ja heidän on niitä palveleminen, ja ne sortavat heitä neljäsataa vuotta. Mutta myös sen kansan, jota he palvelevat, minä tuomitsen; ja sitten he pääsevät lähtemään, mukanaan paljon tavaraa. Mutta sinä saat mennä isiesi tykö rauhassa, ja sinut haudataan päästyäsi korkeaan ikään. Ja neljännessä polvessa sinun jälkeläisesi palaavat tänne takaisin; sillä **amorilaisten syntivelka ei ole vielä täysi**."
 >
-> — (1. Moos. 15:13-16)
+> — ([1. Moos. 15:13-16](../books/gen.md))
 
-Jumala oli myös valmis säästämään Sodoman kymmenen vanhurskaan tähden ( (1. Moos. 18:32)), ja Jumala on hidas vihaan, mutta nopea antamaan anteeksi, mikä havaitaan Niniven tapauksessa Joonan kirjassa. Pahuudella on kuitenkin rajansa. Jos Jumala ei olisi puuttunut pahuuteen, kysyttäisiin, missä Hän on, ja miksei Hän puutu pahuuteen. Nyt kun Hän puuttuu, Hän onkin "kostonhaluinen, verenhimoinen etninen puhdistaja".[^12]
+Jumala oli myös valmis säästämään Sodoman kymmenen vanhurskaan tähden ( ([1. Moos. 18:32](../books/gen.md))), ja Jumala on hidas vihaan, mutta nopea antamaan anteeksi, mikä havaitaan Niniven tapauksessa Joonan kirjassa. Pahuudella on kuitenkin rajansa. Jos Jumala ei olisi puuttunut pahuuteen, kysyttäisiin, missä Hän on, ja miksei Hän puutu pahuuteen. Nyt kun Hän puuttuu, Hän onkin "kostonhaluinen, verenhimoinen etninen puhdistaja".[^12]
 
 #### Kanaanilaisten näkemys tilanteesta ja heidän valintansa
 
@@ -50,7 +50,7 @@ Kun israelilaiset lähettivät kaksi miestä Jerikoon vakoilemaan, he menivät *
 
 > – – Rahab tuli katolle heidän luokseen ja sanoi heille: "Minä tiedän, että Herra on päättänyt antaa teille tämän maan. Pelko on vallannut meidät, ja koko maa vapisee kauhusta teidän takianne. Olemme kuulleet, kuinka Herra kuivatti Kaislameren vedet teidän tieltänne, kun lähditte Egyptistä. Me tiedämme, että te julistitte Herralle kuuluvaksi uhriksi Sihonin ja Ogin, ne kaksi amorilaiskuningasta, ja surmasitte heidät. Kun me kuulimme siitä, meidän rohkeutemme petti, eikä kukaan meistä uskalla asettua vastustamaan teitä, sillä Herra, teidän Jumalanne, on sekä taivaan että maan valtias.
 >
-> — (Joos. 2:8-11)
+> — ([Joos. 2:8-11](../books/jos.md))
 
 Tästä huolimatta enemmistö kansoista päätti kuitenkin monista muista eri vaihtoehdoista huolimatta lähteä sotimaan israelilaisia vastaan. Sen sijaan gibeonilaiset keksivät ovelan juonen, ja saivat pitää henkensä.[^13]
 
@@ -60,15 +60,15 @@ Raamatussa itsensä ilmoittanut Jumala määritellään *hyväksi*[^14], *rakkau
 
 #### Onko kyse lähinnä liioittelusta?
 
-Filosofi [Paul Copan](paul-copan.md)in mukaan Jumalan kanaanilaisten tuhoamiskäskyjen kirjaimellinen tulkinta on tekstilajin väärintulkintaa. Ensinnäkin ne tulee nähdä muinaisen Lähi-idän sodankäynnin kontekstissa, sillä sinne käsky osoitetaankin. Muinaisissa teksteissä käytetään paljon liioittelua (hyperbola), ja vielä erityisesti sodankäynnin kontekstissa.[^17] "Hävittäminen" ja "tuhoaminen" olivatkin siis sanontoja[^18], jotka tarkoittavat täydellistä voittoa, eikä täydellistä vastustajan tuhoamista viimeistä ihmistä myöten ( (5. Moos. 2:34),  (5. Moos. 3:6))[^19].
+Filosofi [Paul Copanin](paul-copan.md) mukaan Jumalan kanaanilaisten tuhoamiskäskyjen kirjaimellinen tulkinta on tekstilajin väärintulkintaa. Ensinnäkin ne tulee nähdä muinaisen Lähi-idän sodankäynnin kontekstissa, sillä sinne käsky osoitetaankin. Muinaisissa teksteissä käytetään paljon liioittelua (hyperbola), ja vielä erityisesti sodankäynnin kontekstissa.[^17] "Hävittäminen" ja "tuhoaminen" olivatkin siis sanontoja[^18], jotka tarkoittavat täydellistä voittoa, eikä täydellistä vastustajan tuhoamista viimeistä ihmistä myöten ( ([5. Moos. 2:34](../books/deu.md)),  ([5. Moos. 3:6](../books/deu.md)))[^19].
 
-Esimerkiksi kohdassa  (1. Sam. 15:2-3) käsketään tappaa "miehet ja naiset, lapset ja imeväiset". Copanin mukaan naiset ja lapset eivät kuitenkaan olleet sotatoimien varsinaisia kohteita, koska ne kohdistettiin pienempiin sotilaallisiin keskuksiin, joissa ei niinkään asunut siviileitä: he asuivat ympäröivällä maaseudulla.[^20] Lisäksi naisten ja lasten tuhoamisesta puhuttiin, vaikka naisia tai lapsia ei olisi ollutkaan tuhottavassa kohteessa.[^19]
+Esimerkiksi kohdassa  ([1. Sam. 15:2-3](../books/1sa.md)) käsketään tappaa "miehet ja naiset, lapset ja imeväiset". Copanin mukaan naiset ja lapset eivät kuitenkaan olleet sotatoimien varsinaisia kohteita, koska ne kohdistettiin pienempiin sotilaallisiin keskuksiin, joissa ei niinkään asunut siviileitä: he asuivat ympäröivällä maaseudulla.[^20] Lisäksi naisten ja lasten tuhoamisesta puhuttiin, vaikka naisia tai lapsia ei olisi ollutkaan tuhottavassa kohteessa.[^19]
 
 > Arkeologinen todistusaineisto osoittaa kokonaisuudessaan, ettei Jerikossa, Aissa tai muissa Joosuan mainitsemissa kaupungeissa ollut siviiliväestöä.
 >
 > — Copan[^20]
 
-Kanaanin maan valloituksen tarkoituksena ei kuitenkaan Copanin mukaan ollut tuhota väestöä, vaan ajaa asukkaat pois ja puhdistaa maa epäjumalanpalveluksesta.[^21] Jumala antaa käskyn tuhota palvontapaikat perusteellisesti ( (5. Moos. 7:1-5)), mutta käskee etenemään vähitellen, eikä valloittamaan kerralla kaikkia alueita ( (5. Moos. 7:22)). Joosuan kirjassa mainitaan ( (Joos. 10:40),  (Joos. 11:15)) Joosuan tehneen sen, mitä Jumala käski. Kanaanilaisia kuitenkin asui maassa edelleen Joosuan kuollessa ( (Joos. 23:12-13),  (Tuom. 1:21,27-28)), joten Joosua toteutti sen, mitä häneltä vaadittiin. Kanaanilaisten karkoitus jatkui sitten seuraavien sukupolvien aikana. Näin ollen Jumala ei käskenyt tuhota kansaa, vaan vain tuhota asevoimat, jotta israelin kansan viholliset voitiin ajaa pois. Vaikka kielessä käytetäänkin liioittelua, Raamatussa kerrotaan myös, että käsky annetaan tuomioksi väärin toimiville kanaanilaisille ( (5. Moos. 9:5),  (3. Moos. 18:24-25),  (5. Moos. 18:9,12)).
+Kanaanin maan valloituksen tarkoituksena ei kuitenkaan Copanin mukaan ollut tuhota väestöä, vaan ajaa asukkaat pois ja puhdistaa maa epäjumalanpalveluksesta.[^21] Jumala antaa käskyn tuhota palvontapaikat perusteellisesti ( ([5. Moos. 7:1-5](../books/deu.md))), mutta käskee etenemään vähitellen, eikä valloittamaan kerralla kaikkia alueita ( ([5. Moos. 7:22](../books/deu.md))). Joosuan kirjassa mainitaan ( ([Joos. 10:40](../books/jos.md)),  ([Joos. 11:15](../books/jos.md))) Joosuan tehneen sen, mitä Jumala käski. Kanaanilaisia kuitenkin asui maassa edelleen Joosuan kuollessa ( ([Joos. 23:12-13](../books/jos.md)),  ([Tuom. 1:21,27-28](../books/jdg.md))), joten Joosua toteutti sen, mitä häneltä vaadittiin. Kanaanilaisten karkoitus jatkui sitten seuraavien sukupolvien aikana. Näin ollen Jumala ei käskenyt tuhota kansaa, vaan vain tuhota asevoimat, jotta israelin kansan viholliset voitiin ajaa pois. Vaikka kielessä käytetäänkin liioittelua, Raamatussa kerrotaan myös, että käsky annetaan tuomioksi väärin toimiville kanaanilaisille ( ([5. Moos. 9:5](../books/deu.md)),  ([3. Moos. 18:24-25](../books/lev.md)),  ([5. Moos. 18:9,12](../books/deu.md))).
 
 #### Väärintekijöiden rankaiseminen ei ole moraalitonta
 
@@ -93,13 +93,13 @@ Kanaanilaisten tapoja kuvataan iljettäviksi[^24] ja niihin luetaan
 * käärmeiden palvontaa ja jopa
 * lapsiuhreja[^28]
 
-Kanaanilaiset matkivat hedelmällisyysjumaliensa toimintaa, joka käsitti aviorikoksia, homosuhteita, transvetisimiä, lasten seksuaalista hyväksikäyttöä, eläimiin sekaantumista ja insestiä.[^29] Huomattavaa on, että Sodomasta paettuaan Lootin tyttäret viettelivät humalaan juottamansa isänsä – matkien näin tuhoutuneen kaupungin seksuaalisia käytäntöjä ( (1. Moos. 19:30-36)). Kanaanilaiset myös uhrasivat lapsiuhreja härkäpäiselle, mutta ihmisruumiilliselle, Molok-jumalalleen. Uhratut eivät olleet pelkästään vastasyntyneitä, vaan jopa neljävuotiaita, ja arkeologisen todistusaineiston perusteella joskus lapsia poltettiin elävältä tuhansia.[^30] Kanaanilaiset eivät siis olleet viattomia, ja Jumalan mukaan he saastuttivat maan niin, että maa oksentaa ulos asukkaansa.[^31]
+Kanaanilaiset matkivat hedelmällisyysjumaliensa toimintaa, joka käsitti aviorikoksia, homosuhteita, transvetisimiä, lasten seksuaalista hyväksikäyttöä, eläimiin sekaantumista ja insestiä.[^29] Huomattavaa on, että Sodomasta paettuaan Lootin tyttäret viettelivät humalaan juottamansa isänsä – matkien näin tuhoutuneen kaupungin seksuaalisia käytäntöjä ( ([1. Moos. 19:30-36](../books/gen.md))). Kanaanilaiset myös uhrasivat lapsiuhreja härkäpäiselle, mutta ihmisruumiilliselle, Molok-jumalalleen. Uhratut eivät olleet pelkästään vastasyntyneitä, vaan jopa neljävuotiaita, ja arkeologisen todistusaineiston perusteella joskus lapsia poltettiin elävältä tuhansia.[^30] Kanaanilaiset eivät siis olleet viattomia, ja Jumalan mukaan he saastuttivat maan niin, että maa oksentaa ulos asukkaansa.[^31]
 
 #### Jumalan oikeudet
 
 Jos Jumala on olemassa, hänellä on moraalisesti riittävät perusteet tuomita ihmisryhmä. Tällöin tarkoitus on merkityksetön: jos tuomion täytäntöönpanolle on valtuutus, tuomion tarkoitus on sivuseikka. Näin ollen, jos Jumalalla on oikeus käskeä toteuttaa tuomio, israelilaiset toimivat oikein toteuttaessaan sen.
 
-Jumalan oikean toiminnan puolesta voidaan osoittaa lukuisia perusteluja, mutta jos Jumala on Jumala, tarvitseeko Hän mitään oikeutusta sille, mitä hän tekee luomakunnassaan? Tarvitseeko Jumalan perustella rakentamista ja purkamista, istuttamista tai pois repimistä ( (Jer. 45:4))? Tarvitseeko Jumalan selittää, miksi hän ottaa ihmiseltä elämän, kuinka viaton tämä sitten olikaan?
+Jumalan oikean toiminnan puolesta voidaan osoittaa lukuisia perusteluja, mutta jos Jumala on Jumala, tarvitseeko Hän mitään oikeutusta sille, mitä hän tekee luomakunnassaan? Tarvitseeko Jumalan perustella rakentamista ja purkamista, istuttamista tai pois repimistä ( ([Jer. 45:4](../books/jer.md)))? Tarvitseeko Jumalan selittää, miksi hän ottaa ihmiseltä elämän, kuinka viaton tämä sitten olikaan?
 
 Jumalalla on oikeus päättää elämästä ja kuolemasta Luojana ja Kaikkivaltiaana. Hänellä on etuoikeuksia, joita meillä ei ole. Vaikka emme saakaan leikkiä Jumalaa, Jumala voi "leikkiä Jumalaa" näin sanoaksemme. Samoin kuin omistajalla on enemmän vapauksia kuin työntekijällä, Luojalla on vapauksia, joita luoduilla ei ole. Tämä tarkoittaa Jumalan olevan suvereeni. Luojana hänellä on täydet valtuudet luotuun: ei kaikkivaltiuden vaan oikeudenmukaisen omistajuuden takia. Kaikki Hänen luomansa on Hänen, ja Hänellä on lupa tehdä, mitä Hän haluaa sillä, mikä Hänelle kuuluu – eli kaikella. Jumalan suvereenius ei kuitenkaan tarkoita, etteikö Jumalaa saisi kyseenalaistaa. Se asettaa kysymyksen kanaanilaisten tuomiosta kuitenkin oikeisiin kehyksiin.
 
@@ -111,7 +111,7 @@ Jumala on ainoa, joka voi ottaa huomioon [kaikki syyt ja seuraukset](jumalan-hyv
 
 > Mutta näiden kansojen kaupungeissa, jotka Herra, sinun Jumalasi, antaa sinulle perintöosaksi, älä jätä ainoatakaan henkeä eloon, vaan vihi ne tuhon omiksi: heettiläiset ja amorilaiset, kanaanilaiset ja perissiläiset, hivviläiset ja jebusilaiset, niinkuin Herra, sinun Jumalasi, on sinua käskenyt, etteivät he opettaisi teitä tekemään kaikkia niitä kauhistavia tekoja, joita he ovat tehneet palvellessaan jumaliansa, ja ettette te rikkoisi Herraa, teidän Jumalaanne, vastaan.
 >
-> — (5. Moos. 20:16-18), KR1933/38
+> — ([5. Moos. 20:16-18](../books/deu.md)), KR1933/38
 
 Jos lapsia tapettiin, se on ikävä seuraus muista sotatoimista, eikä voida sanoa, että lasten jättäminen henkiin samalla kun vanhemmat tapetaan, olisi väistämättä aina parempi vaihtoehto. Raamatussa Jumala ei tuomitse näitä lapsia [helvettiin](helvetti.md), mutta ei myöskään sano näiden pääsevän taivaaseen. Koska Jumala on oikeudenmukainen[^33], hänellä on kuitenkin jokin oikeudenmukainen ratkaisu tähän ongelmaan, vaikka sitä hän ei olekaan paljastanut.
 
@@ -127,12 +127,12 @@ Toimille voidaan keksiä Jumalan mainitseman syyn lisäksi muitakin syitä, mutt
 
 Tuomiollaan Jumala puhdisti kanaanilaisten alueen heidän moraalittomista uskonnoistaan, ja sai tilalle aitoa ja totuudenmukaista hengellisyyttä niin, että Hän saattoi jatkaa pelastussuunnitelmansa toteuttamista. Pelastussuunnitelma vaati, että Aabrahamin siemen, eli israelilaiset, ovat teologisesti puhtaita eivätkä palvo epäjumalia. Epäjumalanpalvelus oikean Jumalan palvelemisen ohella olisi tärvellyt Israelin teologisten uskomusten ytimen, mutta kanaanilaisten pahuuden poistamalla Jumala pystyi tarjoamaan tulevaisuudessa kaikkien pahojen tekojen anteeksiannon kaikille ihmisille maailmassa.
 
-Israelilaiset eivät kuitenkaan pysyneet erossa kanaanilaisten epäjumalanpalveluksesta, omaksuivat näiden tapoja ja palvoivat epäjumalia ( (Tuom. 3:5-7)). Tällöin sama Jumalan tuomio, joka oli kohdannut kanaanilaisia, kohtasi myös israelilaisia. Kanaanilaisten tuomio ei myöskään kohdistunut pelkästään joihinkin tiettyihin erityisen pahoihin yksilöihin vaan kansaan kokonaisuudessaan, koska kanaanilaisten synninteko oli heille normaalia ja järjestelmällistä. Näin ollen naiset eivät olleet syyttömiä, ja myös lapset joutuivat kärsimään koko kansaa vastaan kohdistuneista tuomioista.
+Israelilaiset eivät kuitenkaan pysyneet erossa kanaanilaisten epäjumalanpalveluksesta, omaksuivat näiden tapoja ja palvoivat epäjumalia ( ([Tuom. 3:5-7](../books/jdg.md))). Tällöin sama Jumalan tuomio, joka oli kohdannut kanaanilaisia, kohtasi myös israelilaisia. Kanaanilaisten tuomio ei myöskään kohdistunut pelkästään joihinkin tiettyihin erityisen pahoihin yksilöihin vaan kansaan kokonaisuudessaan, koska kanaanilaisten synninteko oli heille normaalia ja järjestelmällistä. Näin ollen naiset eivät olleet syyttömiä, ja myös lapset joutuivat kärsimään koko kansaa vastaan kohdistuneista tuomioista.
 
 #### Ongelman ydin
 Jumala on Jumala, mutta me emme ole. Jumalaa ei tuomita meidän asettamien kriteerien mukaan, vaan meidät hänen asettamiensa kriteerien mukaan. Tämä on myös kanaanilaisten tuomion ydin. Ongelmana on oma sydämemme.
 
-Tuomion opetus on myös yksinkertainen: Jumala tuomitsee pahan. Nykykulttuurissa monet kanaanilaisten rikkomukset eivät ole loukkaavia. "Ennustaminen, seksuaalinen vapaus, avioero, homosuhteet, transvetisismi: kaikki nämäkö todella muka pahoja?" Lähes jokainen kanaanilaisten syntilistan kohdista on tavanomaista nykykulttuurissa tai ainakin nopeasti parin klikkauksen päässä. Lapsia ei toki uhrata uskonnollisilla alttareilla, mutta tuhansia tapetaan päivittäin [abortti](abortti.md)klinikoilla valinnanvapaus- ja mukavuus-jumalien alttarille. Jumalan selkeä viesti kanaanilaistenkin tapauksessa on, että Jumalan tuomio on tulossa, ja se kohdistuu kokonaisuudessaan moraalittomaan kansaan, joka on irstaillut vuosisatoja.
+Tuomion opetus on myös yksinkertainen: Jumala tuomitsee pahan. Nykykulttuurissa monet kanaanilaisten rikkomukset eivät ole loukkaavia. "Ennustaminen, seksuaalinen vapaus, avioero, homosuhteet, transvetisismi: kaikki nämäkö todella muka pahoja?" Lähes jokainen kanaanilaisten syntilistan kohdista on tavanomaista nykykulttuurissa tai ainakin nopeasti parin klikkauksen päässä. Lapsia ei toki uhrata uskonnollisilla alttareilla, mutta tuhansia tapetaan päivittäin [aborttiklinikoilla](abortti.md) valinnanvapaus- ja mukavuus-jumalien alttarille. Jumalan selkeä viesti kanaanilaistenkin tapauksessa on, että Jumalan tuomio on tulossa, ja se kohdistuu kokonaisuudessaan moraalittomaan kansaan, joka on irstaillut vuosisatoja.
 
 ### Entä sitten?
 Voi olla, että tämä artikkeli, tai mikään muukaan selitys ei riitä vihamieliselle skeptikolle. Peter J. Williamsin[^34] mukaan monet kriitikot, kuten [Richard Dawkins](richard-dawkins.md) leikkivät kaikkitietävää, eivätkä välitä pelin syvemmistä säännöistä. Olemme kuitenkin vajavaisia ja kaikki Jumalan kannanotot, joissa Hän ottaa synnin vakavasti, tuntuvat meistä kohtuuttomilta. Tämä saa jopa kristityt yrittämään antaa Jumalasta vähemmän ankaraa kuvaa.
@@ -167,39 +167,39 @@ Sen sijaan, että kyse olisi Jumalan moraaliongelmasta, Jonesin mukaan:
 
   1. Viitteet
 
-[^1]: (1. Moos. 15:7-16)
-[^2]: Myös: *Minun enkelini kulkee sinun edelläsi ja vie sinut amorilaisten, heettiläisten, perissiläisten, kanaanilaisten, hivviläisten ja jebusilaisten maahan, ja minä tuhoan heidät.* ( (2. Moos. 23:23)) ja *Sitten hän sanoi: "Elävä Jumala on teidän keskellänne. Tämän te tiedätte siitä, että hän hävittää teidän tieltänne kanaanilaiset, heettiläiset, hivviläiset, perissiläiset, girgasilaiset, amorilaiset ja jebusilaiset.* ( (Joos. 3:10))
-[^3]: (Joos. 6:21,24)
-[^4]: (Joos. 8:25-29)
-[^5]: (Joos. 10:28,30,32)
-[^6]: (Joos. 10:33-39),  (Joos. 11:10-12)
-[^7]: (5. Moos. 20:10-11)
-[^8]: (5. Moos. 20:13-18)
-[^9]: (3. Moos. 19:34),  (3. Moos. 24:22),  (5. Moos. 10-18-19)
-[^10]: (Ps. 145:8)
-[^11]: (1. Piet. 3:18-20)
+[^1]: ([1. Moos. 15:7-16](../books/gen.md))
+[^2]: Myös: *Minun enkelini kulkee sinun edelläsi ja vie sinut amorilaisten, heettiläisten, perissiläisten, kanaanilaisten, hivviläisten ja jebusilaisten maahan, ja minä tuhoan heidät.* ( ([2. Moos. 23:23](../books/exo.md))) ja *Sitten hän sanoi: "Elävä Jumala on teidän keskellänne. Tämän te tiedätte siitä, että hän hävittää teidän tieltänne kanaanilaiset, heettiläiset, hivviläiset, perissiläiset, girgasilaiset, amorilaiset ja jebusilaiset.* ( ([Joos. 3:10](../books/jos.md)))
+[^3]: ([Joos. 6:21,24](../books/jos.md))
+[^4]: ([Joos. 8:25-29](../books/jos.md))
+[^5]: ([Joos. 10:28,30,32](../books/jos.md))
+[^6]: ([Joos. 10:33-39](../books/jos.md)),  ([Joos. 11:10-12](../books/jos.md))
+[^7]: ([5. Moos. 20:10-11](../books/deu.md))
+[^8]: ([5. Moos. 20:13-18](../books/deu.md))
+[^9]: ([3. Moos. 19:34](../books/lev.md)),  ([3. Moos. 24:22](../books/lev.md)),  ([5. Moos. 10-18-19](../books/deu.md))
+[^10]: ([Ps. 145:8](../books/psa.md))
+[^11]: ([1. Piet. 3:18-20](../books/1pe.md))
 [^12]: Greg Koukl, [The Canaanites: Genocide or Judgment?](https://www.str.org/publications/the-canaanites-genocide-or-judgment#_ednref13), Stand to Reason, 1.1.2013, viitattu 21.5.2017
-[^13]: Sopimus gibeonilaisten kanssa:  (Joos. 9)
-[^14]: (Mark. 10:18)
-[^15]: (1. Joh. 4:8)
-[^16]: (3. Moos. 11:44-45)
+[^13]: Sopimus gibeonilaisten kanssa:  ([Joos. 9](../books/jos.md))
+[^14]: ([Mark. 10:18](../books/mrk.md))
+[^15]: ([1. Joh. 4:8](../books/1jn.md))
+[^16]: ([3. Moos. 11:44-45](../books/lev.md))
 [^17]: Copan, Paul, *Is God a Moral Monster?—Making Sense of the Old Testament God*, Grand Rapids:  Baker, 2011
 [^18]: sanontoja, kuten pikkulintujen laulaminen suomen kielessä, tarkoitettaessa juoruilua.
 [^19]: Copan s. 175-176
 [^20]: Copan s. 176
 [^21]: Copan s. 181, 178
-[^22]: (3. Moos. 19:18)
-[^23]: Esimerkiksi  (3. Moos. 24:17,21), Uuden testamentin puolella aihetta käsitellään kohdassa  (Room. 13)
-[^24]: (3. Moos. 18:30)
-[^25]: (5. Moos. 18:10-11)
-[^26]: (3. Moos. 18)
+[^22]: ([3. Moos. 19:18](../books/lev.md))
+[^23]: Esimerkiksi  ([3. Moos. 24:17,21](../books/lev.md)), Uuden testamentin puolella aihetta käsitellään kohdassa  ([Room. 13](../books/rom.md))
+[^24]: ([3. Moos. 18:30](../books/lev.md))
+[^25]: ([5. Moos. 18:10-11](../books/deu.md))
+[^26]: ([3. Moos. 18](../books/lev.md))
 [^27]: Unger, Merrill F. (1954), *Archaeology and the Old Testament* (Grand Rapids, MI: Zondervan), s. 175
 [^28]: Unger, Merrill F. (1954), *Archaeology and the Old Testament* (Grand Rapids, MI: Zondervan), s. 175
 [^29]: Clay Jones, *Why We Don’t Hate Sin so We don’t Understand What Happened to the Canaanites: An Addendum to ‘Divine Genocide’ Arguments*, Philosophia Christi, 11, 53-72
 [^30]: Jones s. 61-62, alaviitteet
-[^31]: (3. Moos. 18:24-25)
-[^32]: (Hes. 18)
-[^33]: (2. Tess. 1:6),  (2. Tim. 4:8)
+[^31]: ([3. Moos. 18:24-25](../books/lev.md))
+[^32]: ([Hes. 18](../books/ezk.md))
+[^33]: ([2. Tess. 1:6](../books/2th.md)),  ([2. Tim. 4:8](../books/2ti.md))
 [^34]: Peter J. Williams, [Considering Moral Objections to the Old Testament (Peter J Williams)](https://youtu.be/TZz8WM2ZggY), Youtube-käyttäjä Gordon Dabbs, 29.9.2012, viitattu 21.5.2017
 [^35]: Jones s. 53
 [^36]: Jones s. 71

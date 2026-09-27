@@ -4,7 +4,7 @@ about: apologetics
 title: "Kosminen hienosäätö"
 description: "Kosmisella hienosäädöllä tarkoitetaan sitä havaittua tosiasiaa, että universumin rakenne ja fysiikan lakien rakenne ja erityisesti luonnonvakiot on täytynyt säätää todella tarkasti, jotta elämä olisi mahdollista."
 tags: [apowiki, kosmologia, suunnitteluteoria, lukusuositukset, hienosäätö, astrobiologia, kosminen, paikka, maapallo, linnunrata, kuu, aurinko, antrooppinen-periaate, kosminen-hienosäätö, fysiikan-lait, dna-koodi]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kosminen hienosäätö".
@@ -220,10 +220,10 @@ Luonnonlaeissa on eleganssia, kauneutta, harmoniaa ja nerokkuutta. Eleganttien l
 *Suunnittelu: Ei muodissa naturalistisen tieteenfilosofian takia, mutta ennustaa havaitsijat parhaiten. Suunnittelusta on myös riippumattomia todisteita.
 
 Suunnittelun ennusteita voidaan perustella usealla tasolla, joista alla esimerkkejä:
-#Jumalan erityisen ilmoituksen perusteella tehdyt ennustukset.
-#Ennusteet Jumalan ja ihmisen samankaltaisuuksiin perustuen. (Analogia on yksi tieteellisen päättelyn yleisimpiä muotoja.)
-#Ennusteet yleisen tietoisen olennon ominaisuuden perusteella.
-#Ennusteet jotka summataan kaikkien tietoisen olennon motiivien yli. Koska tässä todennäköisyysavaruuden dimensio ja tyyppi on erilainen kuin fysikaalisten parametrien avaruus, se kuvautuu ei-tasaisena ennusteena fysikaalisten parametrien avaruuteen. Esimerkiksi, mikäli annamme 50% todennäköisyyden sille, että Suunnittelija (tässä siis Jumala) luo tietoiset havaitsijat mahdollistavan universumin, kutsutaan tätä universumin ominaisutta O, summaamalla O:n ja ei-O:n yli, saamme silti hyvin suuren ennusteen havaitsijat sallivalle universumille fysikaalisten parametrien avaruudessa verrattuna fysikaalisten parametrien avaruuden tasaiseen jakaumaan (tai muuhun ei-informatiiviseen jakaumaan). Esimerkiksi painovoiman voimakkuus on 1, kun kaikkien fysiikan voimien voimakkuudet ovat välillä 1 - 10<sup>40</sup>. Painovoima saa olla korkeintaan 3000-kertainen, jotta elämä on mahdollista. Näin todennäköisyys sille, että Jumala luo maailman, jossa painovoima on välillä 1-3000, on 0.5. Vastaavasti todenäköisyys saada painovoiman arvo elämän sallivalle välille puhtaan sattuman perusteella on noin välin 1-3000 pituus verrattuna koko skaalan pituuteen, eli noin 3000/10<sup>40</sup>=10<sup>-36</sup>. Jumala-selitys on siis noin 0.5/10<sup>-36</sup> ~ 5*10<sup>35</sup> eli melkein miljoona miljoona miljoona miljoona miljoona miljoonaa kertaa todennäköisempi kuin puhdas sattuma (ja siten teismi on tilapäisesti tämän verran ateismia todennäköisempi jo tämän argumentin perusteella).
+1. Jumalan erityisen ilmoituksen perusteella tehdyt ennustukset.
+1. Ennusteet Jumalan ja ihmisen samankaltaisuuksiin perustuen. (Analogia on yksi tieteellisen päättelyn yleisimpiä muotoja.)
+1. Ennusteet yleisen tietoisen olennon ominaisuuden perusteella.
+1. Ennusteet jotka summataan kaikkien tietoisen olennon motiivien yli. Koska tässä todennäköisyysavaruuden dimensio ja tyyppi on erilainen kuin fysikaalisten parametrien avaruus, se kuvautuu ei-tasaisena ennusteena fysikaalisten parametrien avaruuteen. Esimerkiksi, mikäli annamme 50% todennäköisyyden sille, että Suunnittelija (tässä siis Jumala) luo tietoiset havaitsijat mahdollistavan universumin, kutsutaan tätä universumin ominaisutta O, summaamalla O:n ja ei-O:n yli, saamme silti hyvin suuren ennusteen havaitsijat sallivalle universumille fysikaalisten parametrien avaruudessa verrattuna fysikaalisten parametrien avaruuden tasaiseen jakaumaan (tai muuhun ei-informatiiviseen jakaumaan). Esimerkiksi painovoiman voimakkuus on 1, kun kaikkien fysiikan voimien voimakkuudet ovat välillä 1 - 10<sup>40</sup>. Painovoima saa olla korkeintaan 3000-kertainen, jotta elämä on mahdollista. Näin todennäköisyys sille, että Jumala luo maailman, jossa painovoima on välillä 1-3000, on 0.5. Vastaavasti todenäköisyys saada painovoiman arvo elämän sallivalle välille puhtaan sattuman perusteella on noin välin 1-3000 pituus verrattuna koko skaalan pituuteen, eli noin 3000/10<sup>40</sup>=10<sup>-36</sup>. Jumala-selitys on siis noin 0.5/10<sup>-36</sup> ~ 5*10<sup>35</sup> eli melkein miljoona miljoona miljoona miljoona miljoona miljoonaa kertaa todennäköisempi kuin puhdas sattuma (ja siten teismi on tilapäisesti tämän verran ateismia todennäköisempi jo tämän argumentin perusteella).
 
 ### Vastaväitteitä
 
@@ -232,7 +232,7 @@ Kosmologi K. Enqvist on esittänyt seuraavaa kritiikkiä kosmiselle hienosääd�
 
 > Esimerkiksi kreationistit rakastavat todennäköisyyksien liittämistä geeneihin ja niiden mutaatioihin. Kaikkien mahdollisten geenien permutaatioista saadaan sitten suunnattoman pieniä todennäköisyyksiä, jotka ovat osoittavinaan, että vaikkapa elämän synty sattumalta on ”käytännössä mahdoton”. Mutta nämä tarkastelut ovat mielettömiä jollei niihin liitetä sekunteja ja tilavuuksia: kuinka monta molekyyliä asustaa kuutiosenttimetrissä ja kuinka usein uusia permutaatioita muodostuu sekunnissa.
 
-ID ei tietenkään ole [kreationismi](kreationismi.md)a, mutta kaikissa lukemissani *[lähde puuttuu]* laskuissa joille molekyylien tai solujen määrä on olennaista, se on tietenkin otettu huomioon.
+ID ei tietenkään ole [kreationismia](kreationismi.md), mutta kaikissa lukemissani *[lähde puuttuu]* laskuissa joille molekyylien tai solujen määrä on olennaista, se on tietenkin otettu huomioon.
 
 ##### Suureiden vaihteluväli
 K. Enqvist:
@@ -246,7 +246,7 @@ K. Enqvist:
 
 > Kaikkien kompleksisten ilmiöiden esiintymistodennäköisyydet ovat niin mitättömiä että voisimme aina halutessamme kutsua niitä ihmeiksi.
 
-Enqvist ei ole ilmeisesti vähääkään tutustunut [suunnitteluteoria](suunnitteluteoria.md)an, sillä täsmennyksen kriteeri ratkaisee juuri tämän asian. Toisaalta tämä on lähes triviaali huomio [Bayeslaiselle hypoteesitestaukselle](bayesin-teoreema.md): Suunnittelun ennuste on parempi, sillä hyvä.
+Enqvist ei ole ilmeisesti vähääkään tutustunut [suunnitteluteoriaan](suunnitteluteoria.md), sillä täsmennyksen kriteeri ratkaisee juuri tämän asian. Toisaalta tämä on lähes triviaali huomio [Bayeslaiselle hypoteesitestaukselle](bayesin-teoreema.md): Suunnittelun ennuste on parempi, sillä hyvä.
 
 ##### Pitäisi tietää 'oikea' todennäköisyysjakauma
 K. Enqvist:

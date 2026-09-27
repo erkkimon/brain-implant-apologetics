@@ -4,7 +4,7 @@ about: apologetics
 title: "Vapaa-ajattelijat"
 description: "Vapaa-ajattelijat ovat Vapaa-ajattelijain liiton jäseniä. Vapaa-ajattelijoilla voidaan viitata myös Vapaa-ajattelijain liittoon."
 tags: [apowiki, vapaa-ajattelu]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Vapaa-ajattelijat".
@@ -29,7 +29,7 @@ Liiton on tarkoituksena toimia uskonnottomien yhteiskunnallisen ja oikeudellisen
 
 #### Arvostelua
 
-Liiton entinen puheenjohtaja, Suomen ateistiyhdistyksen puheenjohtaja [Erkki Hartikainen](https://fi.wikipedia.org/wiki/Erkki_Hartikainen) pitää sanaa 'vapaa-ajattelija' vanhana sekaannuksia aiheuttavana peitenimenä. Ateismista on puhuttava ateismina.[^5] Uskonnottomien piilotteleminen peitenimien takana on hänestä ”imagofasismia”, ryhmän [imago](https://fi.wikipedia.org/wiki/imago)n nostamisen asettamista kaikkien muiden asioiden edelle.[^6] Jos jotain muuta sanaa halutaan käyttää, ateistit voivat kutsua itseään sivistyneiksi.[^5] "Jumalaton” eli ateisti on parempi sana kuin ”uskonnoton”, koska Hartikaisen mukaan sanalla ”usko” on niin paljon tunnemerkityksiä, että järkevien ihmisten pitäisi lakata kokonaan käyttämästä tätä sanaa.[^7][^8]
+Liiton entinen puheenjohtaja, Suomen ateistiyhdistyksen puheenjohtaja [Erkki Hartikainen](https://fi.wikipedia.org/wiki/Erkki_Hartikainen) pitää sanaa 'vapaa-ajattelija' vanhana sekaannuksia aiheuttavana peitenimenä. Ateismista on puhuttava ateismina.[^5] Uskonnottomien piilotteleminen peitenimien takana on hänestä ”imagofasismia”, ryhmän [imagon](https://fi.wikipedia.org/wiki/imago) nostamisen asettamista kaikkien muiden asioiden edelle.[^6] Jos jotain muuta sanaa halutaan käyttää, ateistit voivat kutsua itseään sivistyneiksi.[^5] "Jumalaton” eli ateisti on parempi sana kuin ”uskonnoton”, koska Hartikaisen mukaan sanalla ”[usko](../glossary/sanasto.md)” on niin paljon tunnemerkityksiä, että järkevien ihmisten pitäisi lakata kokonaan käyttämästä tätä sanaa.[^7][^8]
 
 ### Vapaa-ajattelijoiden tempaukset
 

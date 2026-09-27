@@ -7,7 +7,7 @@ book: jdg
 testament: ot
 chapters: 21
 tags: [raamattu, kirja, jdg]
-timestamp: 2026-09-26T11:30:00Z
+timestamp: 2026-09-27T13:00:00Z
 half_life: 0
 ---
 
@@ -19,4 +19,9 @@ Luvut, jaetunnisteet ja kirjan teologinen käsittely ovat teologiaimplantissa, j
 
 <brain://theology-kay4zyljsuy909krumpau/knowledge/scripture/jdg/jdg.md>
 
-Tämän implantin artikkelit, jotka viittaavat kirjaan, näkyvät sivun takaisinlinkeissä.
+## ApoWikin artikkelit, jotka viittaavat kirjaan
+
+Suurin viittausmäärä ensin (raamatunkohdat ja kirjan nimeävät linkit).
+
+* [Dokumentaarihypoteesi](../articles/dokumentaarihypoteesi.md) — 3
+* [Kanaanilaisten kansanmurha](../articles/kanaanilaisten-kansanmurha.md) — 2

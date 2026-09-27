@@ -4,7 +4,7 @@ about: apologetics
 title: "Strukturalismi (raamatuntutkimus)"
 description: "Strukturalismin mukaan kertomuksia hallitsevat kielelliset syvärakenteet, joita tekstin luojat eivät välttämättä tiedosta, mutta jotka ovat yleispäteviä kaikille kielen käyttäjille."
 tags: [apowiki, raamattu, eksegetiikka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Strukturalismi (raamatuntutkimus)".
@@ -30,7 +30,7 @@ Kun analyysimme kohdistuu kertomuksen pintatason alle, löydämme viestinnän ak
 
 Greimasin lähestymistavan sovellusta Raamatun tutkimiseen voidaan kuvata parin esimerkin avulla. Ensinnäkin lähestymistapaa käytetään kertomuksen yksityiskohtien karsimisessa niin, että saadaan esille kertomuksen perusrakenne. Tätä käytetään apuna tekstin sisältämän teologian esille saamiseksi. **Andrew Lincoln**[^1] käyttää Greimasin mallia saadakseen esille Johanneksen evankeliumin juonen. Isä Jumala on Lähettäjä ja maailma on Vastaanottaja. Objekti, jonka Jumala haluaa tuoda maailmalle, on koetus, joka johtaa joko iankaikkiseen elämään tai rangaistukseen. Jeesus on Subjekti, joka on lähetetty asettamaan maailma koetukselle. Auttajia ovat muut todistajat: Johannes Kastaja, Jeesuksen teot, Raamatun sanat, opetuslapset, rakastettu opetuslapsi, ja Pyhä Henki. Vastustajia ovat ne, jotka eivät ota vastaan Jeesuksen todistusta: maailma, kansan johtajat, Pilatus ja paholainen.
 
-Greimasin mallia käytetään myös tuomaan esille, milloin Raamatun kertomuksissa on epätavallisia käänteitä, joilla on teologista merkitystä. **Roland Barthes**[^2] analysoi  (1. Moos. 32) kertomusta, jossa Jaakob taistelee muukalaisen kanssa: Jumala on Lähettäjä, joka lähettää Subjektin, Jaakobin, etsimään sovintoa Eesaun (Objektin) kanssa. Jaakobin kanssa yöllä paininut mies on Vastustaja, mutta aivan odottamatta käy ilmi, että Vastustaja on Lähettäjä, joka on Auttaja. Tämä epätavallinen käänne tarjoaa aineksia teologisille pohdinnoille.
+Greimasin mallia käytetään myös tuomaan esille, milloin Raamatun kertomuksissa on epätavallisia käänteitä, joilla on teologista merkitystä. **Roland Barthes**[^2] analysoi  ([1. Moos. 32](../books/gen.md)) kertomusta, jossa Jaakob taistelee muukalaisen kanssa: Jumala on Lähettäjä, joka lähettää Subjektin, Jaakobin, etsimään sovintoa Eesaun (Objektin) kanssa. Jaakobin kanssa yöllä paininut mies on Vastustaja, mutta aivan odottamatta käy ilmi, että Vastustaja on Lähettäjä, joka on Auttaja. Tämä epätavallinen käänne tarjoaa aineksia teologisille pohdinnoille.
 
 Kolmanneksi tämä strukturalistinen malli voi tehdä näkyväksi kertomuksessa olevia näkymättömiä tekijöitä ja tämä voi olla teologisesti hyödyllistä. **David Clines**[^3] osoittaa, että julkilausutun Lähettäjän puuttuminen Esterin kirjassa kutsuu lukijaa sijoittamaan Jumalan Lähettäjän paikalle ja siten tarjoaa aineistoa Jumalan kaitselmuksen teologialle.
 

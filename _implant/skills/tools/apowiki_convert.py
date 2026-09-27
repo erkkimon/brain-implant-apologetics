@@ -42,9 +42,23 @@ try:  # the book spine's alias table; the converter works without it too
     import sys as _sys
     _sys.path.insert(0, str(Path(__file__).resolve().parent))
     from apowiki_books import alias_map as _book_alias_map
+    from apowiki_books import ref_book as _ref_book
     BOOK_ALIASES = _book_alias_map()
 except ImportError:  # pragma: no cover
     BOOK_ALIASES = {}
+
+    def _ref_book(ref: str) -> None:
+        return None
+
+# The glossary's anchors (apowiki_glossary.py), so AW:S#term links land.
+from apowiki_glossary import anchor as glossary_anchor  # noqa: E402
+from apowiki_glossary import entries as _glossary_entries  # noqa: E402
+from apowiki_glossary import source as _glossary_source  # noqa: E402
+try:
+    GLOSSARY_TERMS = {glossary_anchor(t) for t, _ in
+                      _glossary_entries(_glossary_source()[0])}
+except FileNotFoundError:  # glossary not generated yet
+    GLOSSARY_TERMS = set()
 
 # ---------------------------------------------------------------------------
 # Slug — byte-identical to apowiki_import.slug(). Do not "improve" it here:
@@ -185,6 +199,7 @@ class Converter:
         self.unknown_templates: Counter = Counter()
         self.pending_keywords: list[str] = []
         self.missing_project_pages: Counter = Counter()
+        self.missing_glossary_terms: Counter = Counter()
 
     # -- link resolution ---------------------------------------------------
 
@@ -219,12 +234,27 @@ class Converter:
         if not target:
             return label
 
-        # ApoWiki's project namespace — the glossary shortcuts (AW:S#term and
-        # friends) are 415 of them. The fetch captured only the main
-        # namespace, so those pages are genuinely absent from this export
-        # rather than merely misnamed: record the gap and keep the prose
-        # readable instead of emitting a link that cannot land. Re-fetching
-        # the project namespace is a task in todo/open.md.
+        # ApoWiki's glossary (ApoWiki:Sanasto, shortcut AW:S). There are 415
+        # of these links, and they land on the glossary page that
+        # apowiki_glossary.py generates, at the term's anchor. A term the
+        # glossary does not define lands on the page itself, not on a dead
+        # anchor.
+        m = re.match(r"^(?:aw:s|apowiki:sanasto)\s*(?:#(.*))?$", target, re.I)
+        if m:
+            frag = (m.group(1) or "").strip()
+            a = glossary_anchor(frag) if frag else ""
+            self.stats["link_glossary"] += 1
+            if a and a not in GLOSSARY_TERMS:
+                self.stats["link_glossary_term_missing"] += 1
+                self.missing_glossary_terms[frag] += 1
+                a = ""
+            href = "../glossary/sanasto.md" + (f"#{a}" if a else "")
+            return f"[{label}]({href})"
+
+        # The rest of ApoWiki's project namespace (help, FAQ, talk pages) was
+        # never fetched. Those pages are genuinely absent from this export, so
+        # record the gap and keep the prose readable instead of emitting a
+        # link that cannot land.
         if re.match(r"^(aw|apowiki|ohje|help|project|keskustelu|talk)\s*:",
                     target, re.I):
             self.stats["link_project_ns_missing"] += 1
@@ -293,9 +323,19 @@ class Converter:
             self.stats["tmpl_reflist"] += 1
             return "\n\n## Viitteet\n\n<!-- footnotes render here -->\n"
         if name == "rp":
-            # An inline scripture/page pointer: keep it as plain text.
+            # An inline scripture reference ("Matt. 5:32"). It links to the
+            # book's page on the spine, which binds it to the theology
+            # implant's chapters and makes every article that cites a book
+            # a backlink of that book. Anything the resolver does not
+            # recognise stays plain text.
             self.stats["tmpl_rp"] += 1
-            return f" ({pos})" if pos else ""
+            if not pos:
+                return ""
+            book = _ref_book(pos.strip())
+            if book:
+                self.stats["rp_linked"] += 1
+                return f" ([{pos.strip()}](../books/{book}.md))"
+            return f" ({pos})"
         if name in ("sitaatti", "lainaus", "quotation", "sitaatti3",
                     "sitaatti2", "cquote", "blockquote"):
             self.stats["tmpl_quote"] += 1
@@ -497,10 +537,15 @@ class Converter:
                 tgt, lbl = inner.split("|", 1)
             else:
                 tgt, lbl = inner, inner
-            tgt = tgt.split("#", 1)[0]
-            return self.link(tgt, lbl)
+            if not re.match(r"^\s*(?:aw:s|apowiki:sanasto)\s*#", tgt, re.I):
+                tgt = tgt.split("#", 1)[0]  # the glossary keeps its term
+            # MediaWiki's link trail: letters written straight after the
+            # closing brackets belong to the label ([[aihetodiste]]et reads
+            # "aihetodisteet"). Finnish inflects by suffix, so without this
+            # every inflected link would render as a split word.
+            return self.link(tgt, lbl + (m.group(2) or ""))
 
-        text = re.sub(r"\[\[([^\[\]]+)\]\]", wl, text)
+        text = re.sub(r"\[\[([^\[\]]+)\]\]([^\W\d_]+)?", wl, text)
 
         # External links: [url label] -> [label](url)
         text = re.sub(
@@ -546,6 +591,19 @@ class Converter:
             m = re.match(r"^(#+)[ \t]+(.*)$", s)
             if m:
                 out.append("  " * (len(m.group(1)) - 1) + "1. " + m.group(2))
+                continue
+            # ApoWiki usually writes numbered items with no space ("#Jos
+            # Jumala…") and nests bullets under them ("#*", "#**", "#:").
+            # Left alone, markdown reads "#Jos" as a broken heading; 4 467
+            # lines in 451 articles were affected. The last prefix
+            # character decides the item type, and the prefix length sets
+            # the depth.
+            m = re.match(r"^(#[#*:]*)(?![#*:])[ \t]*(\S.*)$", s)
+            if m:
+                pre = m.group(1)
+                indent = "   " * (len(pre) - 1)
+                marker = {"#": "1. ", "*": "* ", ":": "   "}[pre[-1]]
+                out.append(indent + marker + m.group(2))
                 continue
             m = re.match(r"^:+\s*(.*)$", s)
             if m:
@@ -729,6 +787,7 @@ def main() -> int:
         "red_links_top": conv.red_links.most_common(60),
         "unknown_templates": conv.unknown_templates.most_common(40),
         "missing_project_pages": conv.missing_project_pages.most_common(20),
+        "missing_glossary_terms": conv.missing_glossary_terms.most_common(60),
     }
     rp = Path(args.report)
     rp.parent.mkdir(parents=True, exist_ok=True)

@@ -4,7 +4,7 @@ about: apologetics
 title: "Francis J. Beckwith"
 description: "Francis J. \"Frank\" Beckwith (syntynyt 1960) on amerikkalainen filosofi, kristitty apologeetta, tutkija ja luennoitsija."
 tags: [apowiki, henkilöt, seksuaalietiikka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Francis J. Beckwith".
@@ -25,7 +25,7 @@ Beckwith on argumentoinut abortteja vastaan[^1] and the <!-- -->constitutional<!
 ### Koulutus ja ura
 Beckwith syntyi New Yorkissa. Valmistui Nevadan yliopistosta Las Vegasista (B.A. in Philosophy), [Simon Greenleaf School of Law](https://en.wikipedia.org/wiki/Trinity_Law_School), Anaheim (M.A. in apologetics), [Fordham University](https://en.wikipedia.org/wiki/Fordham_University) (Ph.D. and M.A. in philosophy) and the [Washington University School of Law, St. Louis](https://fi.wikipedia.org/wiki/Washington_University_in_St._Louis) (Master of Juridical Studies).[^5]
 
-Beckwith on lisäksi tutkinut relativismin vaikutusta julkiseen kulttuuriin,[^6] [affirmative action](https://fi.wikipedia.org/wiki/Positiivinen_Syrjintä) and [discrimination](https://fi.wikipedia.org/wiki/syrjintä), [samaa sukupuolta olevien avioliitto](samaa-sukupuolta-olevien-avioliitto.md)a, bioetiikkaa (mukaan luettuna kloonausta), ja perustuslaillisten kysymysten tulkintaa sikäli kuin ne koskettavat uskonnon vapautta ja harjoittamista.
+Beckwith on lisäksi tutkinut relativismin vaikutusta julkiseen kulttuuriin,[^6] [affirmative action](https://fi.wikipedia.org/wiki/Positiivinen_Syrjintä) and [discrimination](https://fi.wikipedia.org/wiki/syrjintä), [samaa sukupuolta olevien avioliittoa](samaa-sukupuolta-olevien-avioliitto.md), bioetiikkaa (mukaan luettuna kloonausta), ja perustuslaillisten kysymysten tulkintaa sikäli kuin ne koskettavat uskonnon vapautta ja harjoittamista.
 
 Beckwith on toiminut Whittier Collegessa (1996–1997) ja Trinity International Universityssä (1997–2002).[^7]
 

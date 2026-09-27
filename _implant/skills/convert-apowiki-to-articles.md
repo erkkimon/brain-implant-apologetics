@@ -2,12 +2,14 @@
 type: skill
 title: Convert ApoWiki wikitext into implant articles
 description: Use when turning the ApoWiki export in raw/apowiki-export/ into searchable articles under knowledge/ — the deterministic, token-free conversion that produces the MVP, including wiki-link resolution, citation footnotes and the topic spine that grounds every page.
-timestamp: 2026-09-27T10:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 depends_on: [skills/using-the-brain-implant.md]
 tools:
   - skills/tools/apowiki_convert.py
   - skills/tools/apowiki_topics.py
   - skills/tools/apowiki_books.py
+  - skills/tools/apowiki_glossary.py
+  - skills/tools/apowiki_stamp.py
 ---
 
 # Convert ApoWiki wikitext into implant articles
@@ -21,6 +23,12 @@ you like.
 ## The procedure
 
 ```bash
+# 0. start clean, so a page that no longer exists does not linger
+rm -rf _implant/knowledge/{articles,topics,books}
+
+# 0b. the glossary first: the converter resolves AW:S#term links against it
+python3 _implant/skills/tools/apowiki_glossary.py
+
 # 1. wikitext -> markdown articles (reads raw/ and the fetch cache, writes knowledge/articles/)
 python3 _implant/skills/tools/apowiki_convert.py
 
@@ -30,14 +38,21 @@ python3 _implant/skills/tools/apowiki_topics.py
 # 3. the book spine: 66 books + 2 testaments, bound to the theology implant
 python3 _implant/skills/tools/apowiki_books.py
 
-# 4. compile, then verify the contract
+# 4. timestamps: keep the committed one where a page did not change, bump
+#    the rest (the generators write a fixed placeholder)
+python3 _implant/skills/tools/apowiki_stamp.py _implant/knowledge/articles \
+    _implant/knowledge/topics _implant/knowledge/books
+find _implant -name __pycache__ -exec rm -rf {} +
+
+# 5. compile, then verify the contract
 brainpick compile --root .
 henxels check --all
 ```
 
 Expect, from the 848-page export: **471 articles** (377 redirects resolved
 rather than imported), ~2 500 internal links, ~1 500 Wikipedia links,
-**5 111 footnotes**, 44 topic pages, zero ghosts.
+**5 111 footnotes**, 44 topic pages, 401 glossary links, 1 297 scripture
+references linked to their book pages, zero ghosts.
 
 ## What the conversion guarantees, and why each matters
 

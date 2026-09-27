@@ -4,7 +4,7 @@ about: apologetics
 title: "Äärinaturalistinen aktivismi suomenkielisessä Wikipediassa"
 description: "Wikipedia sinänsä on erinomainen esimerkki Internetin tarjoamista ennennäkemättömistä tiedonvälitysmahdollisuuksista."
 tags: [apowiki, media, naturalismi]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Äärinaturalistinen aktivismi suomenkielisessä Wikipediassa".
@@ -24,9 +24,9 @@ Suomalaisessa valtamediassakin on käyty [keskustelua](http://keskustelu.suomi24
 
 ### Äärinaturalistisen aktivismin jälki suomenkielisen Wikipedian Michael Behe -artikkelissa
 
-Seuraava, suoraan suomenkielisen Wikipedian kopiointihetkellä voimassaolleesta Michael Behe -artikkelin tekstistä otettu virke on tyypillinen esimerkki Wikipediaamme rampauttavasta äärinaturalistisesta aktivismista, joka Wikipedian sinänsä selkeitä, kaikilta artikkeleilta neutraalia näkökulmaa vaativia ohjeita "venyttäen" pyrkii kirjoittamaan naturalistisen/materialistisen katsomuksen suoraan artikkelitekstiin muka artikkelin neutraalin näkökulman varmistamiseksi:
+Seuraava, suoraan suomenkielisen Wikipedian kopiointihetkellä voimassaolleesta Michael Behe -artikkelin tekstistä otettu virke on tyypillinen esimerkki Wikipediaamme rampauttavasta [äärinaturalistisesta](../glossary/sanasto.md#äärinaturalismi) aktivismista, joka Wikipedian sinänsä selkeitä, kaikilta artikkeleilta neutraalia näkökulmaa vaativia ohjeita "venyttäen" pyrkii kirjoittamaan naturalistisen/materialistisen katsomuksen suoraan artikkelitekstiin muka artikkelin neutraalin näkökulman varmistamiseksi:
 
-* *Tiedeyhteisö ei kuitenkaan hyväksynyt Behen väitettä vaan väittivät sen olevan uusittu versio [William Paley](https://fi.wikipedia.org/wiki/William_Paley)n "[kelloseppävertauksesta](https://fi.wikipedia.org/wiki/kelloseppävertaus)", joka kaatui "[tietämättömyyteen vetoamiseen](https://fi.wikipedia.org/wiki/tietämättömyyteen_vetoaminen)", eikä niinkään todisteena siitä että luonnolliset prosessit eivät mitenkään voisi aikaansaada kyseistä piirrettä.*
+* *Tiedeyhteisö ei kuitenkaan hyväksynyt Behen väitettä vaan väittivät sen olevan uusittu versio [William Paleyn](https://fi.wikipedia.org/wiki/William_Paley) "[kelloseppävertauksesta](https://fi.wikipedia.org/wiki/kelloseppävertaus)", joka kaatui "[tietämättömyyteen vetoamiseen](https://fi.wikipedia.org/wiki/tietämättömyyteen_vetoaminen)", eikä niinkään todisteena siitä että luonnolliset prosessit eivät mitenkään voisi aikaansaada kyseistä piirrettä.*
 
 Virkkeen ilmeisiä asiattomuuksia (kieliopillisen rektiovirheen "Tiedeyhteisö – – väittivät" ohella):
 1. Tiedeyhteisö-sanan käyttö *argumentum ad auctoritatem* -perusteluna. Tosiasiassahan Behe biokemian professorina on itsekin tiedeyhteisön jäsen, joten tässä asiallisesti ottaen
@@ -57,7 +57,7 @@ Tietämättömyys sinänsä ei siis ole pätevän perustelun lähtökohta, mutta
 Tämä kaikki on "maalaisjärjellä" ajatellen ilmeistä: ellei jossain perustelussa **ylipäänsäkään** ole virhettä, siinä ei voi olla **minkäännimistä** virhettä. Ilmeinen virhe olisi ensin havaittava ja paikannettava, vasta sitten sitä voisi alkaa luokitella.
 
 #### Naturalistinen "tietämättömyyteen vetoamisesta" syyttäminen perusteluvirheenä
-**Naturalistinen "tietämättömyyteen vetoamisen" degeneroituma** pyrkii tekemään "virheen" siitä, että esimerkiksi Behe yksityiskohtaisesti perustellen osoittaa evoluutiomekanismin toimimattomuuden tiettyjen biologisten ilmiöiden syntyselityksenä. Tästä väännetään väkisin "tietämättömyyteen vetoamista" sillä verukkeella, että Behen argumentin teho perustuu siihen, että emme tiedä, miten evoluutiomekanismi olisi voinut synnyttää kyseiset rakenteet, mutta jos sen tietäisimme, niin Behen argumentti olisi osoitettavissa vääräksi – Behe siis vetoaa tämän väitteen mukaan siihen, että "tiede ei vielä osaa selittää asiaa", siis "tietämättömyyteen".
+**Naturalistinen "tietämättömyyteen vetoamisen" [degeneroituma](../glossary/sanasto.md#degeneroitua)** pyrkii tekemään "virheen" siitä, että esimerkiksi Behe yksityiskohtaisesti perustellen osoittaa evoluutiomekanismin toimimattomuuden tiettyjen biologisten ilmiöiden syntyselityksenä. Tästä väännetään väkisin "tietämättömyyteen vetoamista" sillä verukkeella, että Behen argumentin teho perustuu siihen, että emme tiedä, miten evoluutiomekanismi olisi voinut synnyttää kyseiset rakenteet, mutta jos sen tietäisimme, niin Behen argumentti olisi osoitettavissa vääräksi – Behe siis vetoaa tämän väitteen mukaan siihen, että "tiede ei vielä osaa selittää asiaa", siis "tietämättömyyteen".
 
 Väite siitä, että Behe vetoaisi tietämättömyyteen, on kuitenkin itsessään virheellisesti perusteltu. [Naturalistinen kehäpäättely](naturalistinen-kehäpäättely.md) on tässä verrattavissa seuraavantyyppiseen "päätelmään":
 

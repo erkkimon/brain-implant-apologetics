@@ -4,7 +4,7 @@ about: apologetics
 title: "Ylösnousseet pyhät Matteuksen evankeliumissa"
 description: "Argumentti menee seuraavaan tapaan: ”Merkittävä ja hämmästyttävä tapahtuma X kuvataan Raamatussa."
 tags: [apowiki, raamattu]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ylösnousseet pyhät Matteuksen evankeliumissa".
@@ -26,7 +26,7 @@ Uuteen testamenttiin sovellettuna tämä koskee esimerkiksi kohtaa:
 
 > Sillä hetkellä temppelin väliverho repesi kahtia, ylhäältä alas asti. Maa vavahteli, kalliot halkeilivat, haudat aukenivat, ja monien poisnukkuneiden pyhien ruumiit nousivat ylös. He lähtivät haudoistaan, ja Jeesuksen ylösnousemuksen jälkeen he tulivat pyhään kaupunkiin ja näyttäytyivät siellä monille.
 >
-> — (Matt. 27:51-53)
+> — ([Matt. 27:51-53](../books/mat.md))
 
 Argumentti tällaisenaan ei kuitenkaan riitä, sillä tulisi nimetä säilyneet lähteet, joissa tapahtuman olisi pitänyt olla mainittu ja selittää, miksi niiden olisi pitänyt kuvata mainittu tapahtuma, eikä vain väittää, että tapahtumasta pitäisi olla maininta jossain muuallakin.
 

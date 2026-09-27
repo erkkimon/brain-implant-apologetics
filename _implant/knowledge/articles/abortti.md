@@ -4,7 +4,7 @@ about: apologetics
 title: "Abortti"
 description: "Abortti eli raskaudenkeskeytys (indusoitu abortti, abortus arte provocatus eli aap) tarkoittaa raskauden keinotekoista päättämistä poistamalla alkio tai sikiön kohdusta joko mekaanisesti kirurgisin keinoin tai kemiallisesti lääkityksellisin keinoin."
 tags: [apowiki, etiikka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Abortti".
@@ -48,7 +48,7 @@ Kun ihmisellä ei uskota olevan aineetonta sielua, ihmisyksilön määritelmä h
 
 ### Kristillinen näkökulma aborttiin
 
-Kristityillä on erilaisia näkemyksiä abortista, joka johtuu siitä, ettei Raamatussa suoraan puhuta abortista mitään. Raamattu puhuu kuitenkin syntymättömästä lapsesta elävänä ihmisenä ( (Luuk 1:15),  (Luuk 1:44);  (1. Moos 25:22);  (Ps. 22:10)), joka aborttikeskustelun kannalta on olennaisin kysymys.
+Kristityillä on erilaisia näkemyksiä abortista, joka johtuu siitä, ettei Raamatussa suoraan puhuta abortista mitään. Raamattu puhuu kuitenkin syntymättömästä lapsesta elävänä ihmisenä ( ([Luuk 1:15](../books/luk.md)),  ([Luuk 1:44](../books/luk.md));  ([1. Moos 25:22](../books/gen.md));  ([Ps. 22:10](../books/psa.md))), joka aborttikeskustelun kannalta on olennaisin kysymys.
 
 Kristittyjä yhdistää näkemys siitä, että vaikka abortin tekeminen olisi väärin, Jumala antaa kuitenkin abortin tekijälle anteeksi mikäli tämä sitä Jeesukseen turvaten pyytää.[^5]
 

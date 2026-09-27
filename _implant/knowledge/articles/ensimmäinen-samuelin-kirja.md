@@ -4,7 +4,7 @@ about: apologetics
 title: "Ensimmäinen Samuelin kirja"
 description: "Ensimmäisen Samuelin kirjan alkupuolella (luvut 8-13) kuvataan sitä, miten Saulista tuli Israelin ensimmäinen kuningas."
 tags: [apowiki, raamattu, raamatun-tekstit]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ensimmäinen Samuelin kirja".
@@ -53,11 +53,11 @@ Tämä ongelma syntyy oletuksesta, että nämä kolme kertomusta ovat toisensa p
 
 Yksilö ensin nimitetään Jumalan valitsemaksi kuninkaaksi. Hänen odotetaan sitten osoittavan sopivuutensa johtoasemaan. Sen jälkeen hänen kuninkuutensa voidaan julkisesti vahvistaa.
 
-Kolmanneksi tutkijat pitävät ongelmallisena sitä, että  (1. Sam 10:7) näyttäisi antavan Saulille vapaat kädet toimia, kun taas seuraavassa jakeessa Samuel käskee Saulin mennä edellään Gilgaliin ja odottaa häntä siellä uhrimenojen suorittamista varten.
+Kolmanneksi tutkijat pitävät ongelmallisena sitä, että  ([1. Sam 10:7](../books/1sa.md)) näyttäisi antavan Saulille vapaat kädet toimia, kun taas seuraavassa jakeessa Samuel käskee Saulin mennä edellään Gilgaliin ja odottaa häntä siellä uhrimenojen suorittamista varten.
 
 Nämä kaksi jaetta eivät kuitenkaan ole keskenään ristiriidassa vaan ne täydentävät toisiaan. Saulille annetaan vapaat kädet hyökätä filistelaisten vartioston kimppuun Gebassa. Taistelussa filistealaisia vastaan hän kuitenkin tarvitsee Jumalan apua, jota hänen tulee etsiä Gilgalissa uhrimenojen välityksellä.
 
-Miksi sitten näiden jakeiden täyttymyksestä kerrotaan vasta luvussa  (1. Sam 13). Longin[^1] mukaan selitys on seuraava: Saul viivyttelee hänelle annetun tehtävän suorittamisessa. Hän epäröi käydä Gebassa olevan filistealaisten vartioston kimppuun. Tämä luo tilanteen, jossa hän ei toimi tavalla, joka osoittaisi hänen kyvykkyytensä kuninkaan tehtävään. Siksi kansankokouksessa kuullaan hänen kuninkuuttaan vastustavia ääni. Hän saa kuitenkin uuden mahdollisuuden ammonilaisten hyökätessä Gileadin Jabesiin. Koska hän onnistuu torjumaan ammonilaisten hyökkäyksen, hän saa kansan vakuuttuneeksi omista johtajan taidoistaan. Vasta 13. luvussa Jonatan tekee sen, mikä Saulin alun perin odotettiin tekevän, eli käy filistealaisten vartioston kimppuun ja käynnistää näin laajamittaisen sodan heitä vastaan.
+Miksi sitten näiden jakeiden täyttymyksestä kerrotaan vasta luvussa  ([1. Sam 13](../books/1sa.md)). Longin[^1] mukaan selitys on seuraava: Saul viivyttelee hänelle annetun tehtävän suorittamisessa. Hän epäröi käydä Gebassa olevan filistealaisten vartioston kimppuun. Tämä luo tilanteen, jossa hän ei toimi tavalla, joka osoittaisi hänen kyvykkyytensä kuninkaan tehtävään. Siksi kansankokouksessa kuullaan hänen kuninkuuttaan vastustavia ääni. Hän saa kuitenkin uuden mahdollisuuden ammonilaisten hyökätessä Gileadin Jabesiin. Koska hän onnistuu torjumaan ammonilaisten hyökkäyksen, hän saa kansan vakuuttuneeksi omista johtajan taidoistaan. Vasta 13. luvussa Jonatan tekee sen, mikä Saulin alun perin odotettiin tekevän, eli käy filistealaisten vartioston kimppuun ja käynnistää näin laajamittaisen sodan heitä vastaan.
 
 Saulia koskevien kertomusten oletettuun ristiriitaisuuteen vetoavassa argumentissa 1. Samuelin kirjan historiallista luotettavuutta vastaan ei avoimesti tukeuduta naturalistiseen maailmankatsomukseen. Sille on kuitenkin ominaista tulkita Raamattu ristiriitaiseksi melko pinnallisilla perusteilla, mikä kertoo taustalla vaikuttavasta naturalistisesta tietoteoriasta. Tutkimus päätyi olettamaan ristiriidan Raamatun historiallisessa selonteossa, vaikka jokainen oletetuista ristiriidoista ratkeaa pelkästään lukemalla huolellisesti, mitä Raamatussa on tarkkaan ottaen kirjoitettu. Vakaumus Saulia koskevien kertomusten ristiriitaisuudesta kehittyi tietyssä vaiheessa tutkijayhteisössä vallitsevaksi mielipiteeksi, niin että pitkään pidettiin täysin turhana edes yrittää rakentaa mitään yhtenäistä selontekoa Saulin noususta kuninkaaksi. Tämä kertoo siitä, että tutkijoiden vallitseva mielipide voi rakentua melko kevyiden argumenttien varaan, jos se sopii yhteen tutkijayhteisössä vallitsevan naturalistisen ilmapiirin kanssa.
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Daniel Nylund: Maailmankatsomuksen täytyy voida selittää kaiken alkuperä, tarkoitus ja päämäärä (Ajankohtainen 3, IV luku)"
 description: "Modernin taiteen edelläkävijä Paul Gauguin (1848-1903) kirjoitti viimeiseen maalaukseensa ennen epäonnistunutta itsemurhayritystään: \"Mistä tulemme?"
 tags: [apowiki, maailmankatsomus, tekijänoikeuden-alaiset-artikkelit]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Daniel Nylund: Maailmankatsomuksen täytyy voida selittää kaiken alkuperä, tarkoitus ja päämäärä (Ajankohtainen 3, IV luku)".
@@ -691,33 +691,33 @@ Historia ei ole tie, joka ei tule mistään eikä johda minnekään, tai ovi, jo
 [^18]: Why I Am Not a Christian. London, George Allen & Unwin Ltd. 1957
 [^19]: Ram Chandra Pandeya, A Panorama of lndian Philosophy. New Delhi, Motilal Banarisdass 1966, s. 18-20
 [^20]: AJANKOHTAINEN no l:ssä on tiivistelmä tästä maailmankatsomuksesta.
-[^21]: (Room. 1:23-25)
+[^21]: ([Room. 1:23-25](../books/rom.md))
 [^22]: Physical Processes Near Cosmological Singularities. Annual Review of Astronomy and Astrophysics 11/-73, ss. 387-410
 [^23]: Why I Study Biology, Washington University Magazine, Spring 1971, ss. 20-24
 [^24]: Siteerattu T. R. Gerholmin ja S. Magnusonin kirjassa Ajatus, aate ja yhteiskunta. WSOY -72, s. 477
 [^25]: Siteerattu Hans Küngin kirjassa Does God Exist.
 [^26]: R. A. Nicholson, The Mystics of Islam, kirjassa Understanding Mysticism, Image Books, New York -80, s. 188
-[^27]: (1. Joh. 4:16)
+[^27]: ([1. Joh. 4:16](../books/1jn.md))
 [^28]: Sartre, Being And Nothingness s. 758
-[^29]: (1. Moos. 1:1)
-[^30]: (Joh. 1:1-4)
-[^31]: (Hepr. 7:3)
-[^32]: (Ilm. 3:14)
-[^33]: (Kol. 1:17-18)
-[^34]: (2. Piet. 3:8)
+[^29]: ([1. Moos. 1:1](../books/gen.md))
+[^30]: ([Joh. 1:1-4](../books/jhn.md))
+[^31]: ([Hepr. 7:3](../books/heb.md))
+[^32]: ([Ilm. 3:14](../books/rev.md))
+[^33]: ([Kol. 1:17-18](../books/col.md))
+[^34]: ([2. Piet. 3:8](../books/2pe.md))
 [^35]: Sille joka tarkemmin haluaa tutkia Raamatun aikaa ilmaisevia sanoja suosittelen James Barrin kirjaa "Biblical Words For Time". Alec R. AllensoIl Inc. 1969
-[^36]: (Joh. 17:3)
+[^36]: ([Joh. 17:3](../books/jhn.md))
 [^37]: O'Flahertz, Wendy Doninger, The Origin of Evil in Hindu Mythology. Berc1ey, California 1976
 [^38]: The Glorious Koran, Daybreak Classics 1968, s. 23
-[^39]: (Ef 2:19-22),  (1 Kor. 3:16),  (1 Piet. 2:5)
-[^40]: (Joh. 3:16)
-[^41]: (1. Kor. 1:21)
+[^39]: ([Ef 2:19-22](../books/eph.md)),  ([1 Kor. 3:16](../books/1co.md)),  ([1 Piet. 2:5](../books/1pe.md))
+[^40]: ([Joh. 3:16](../books/jhn.md))
+[^41]: ([1. Kor. 1:21](../books/1co.md))
 [^42]: Kärsimyksen merkitystä kristitylle on rohkaisevasti käsitellyt Stanley Jones WSOY:n julkaisemassa kirjassa "Kärsivien Kristus". Kärsimystä koettelemuksena olen itse käsitellyt KRISTITYN KASVU no 3:ssa.
 [^43]: A. Einstein, What I Believe. Allen and Unwin 1966, s.27
 [^44]: Kirjeestä prinsessa Bobapartelle. Siteerattu Viktor Franklin kirjassa "Elämän tarkoitusta etsimässä."
 [^45]: S. Weinberg, s. 154
 [^46]: Jean Paul Sartre, Existentialism and Humanism. Tr. Philip Mairet, Methuen s. 56
-[^47]: (Joh. 10:10)
+[^47]: ([Joh. 10:10](../books/jhn.md))
 [^48]: SPECTRUM osa 8 s. 337
 [^49]: H. J. Blackman et al, Objections to Humanism. Riverside, Connecticut, Greenwood Press 1967
 [^50]: Rauli Jokelin, Epätoivon vastarinta - 20 vuotta Camus'n kuolemasta. Uuden ajan Aura no 6/-80
@@ -727,7 +727,7 @@ Historia ei ole tie, joka ei tule mistään eikä johda minnekään, tai ovi, jo
 [^54]: Siteerattu Roger Garaudyn kirjassa "20-vuosisadan marxilaisuus". Kansankulttuuri Oy, Hki -68, s. 89
 [^55]: M. Lahtela, Katso Ihmistä. Gummerus -72, s. 16
 [^56]: Siteerattu T. R. Gerholmin ja S. Magnusonin kirjassa Ajatus, aate ja yhteiskunta. WSOY -72, s. 477
-[^57]: (Mark. 8:36)
+[^57]: ([Mark. 8:36](../books/mrk.md))
 [^58]: B. Russel, Nightmares of Eminent Persons. Harmondsworth, Penguin Books 1962
 [^59]: B. Russel, Why I am not a Christian
 [^60]: Tolstoi, Memories of a Madman. In Colin Wilsons, The Outsider, Pan -67, s. 164
@@ -744,31 +744,31 @@ Historia ei ole tie, joka ei tule mistään eikä johda minnekään, tai ovi, jo
 [^71]: A. Camus, Metaphysical Rebellion, Jerry H. Gillin kirjassa Philosophy and Religion. Burgess Publ. House, Minneapolis -68
 [^72]: Pieni ja lämpöinen, säv. Veikko Samuli, san. Raul Reiman. © Seandia
 [^73]: Kuin tuhka tuuleen, säv. Jorma Simola, san. Timo Hämäläinen. © April Music
-[^74]: (Joh. 15:13)
-[^75]: (1 Joh. 3:16)
-[^76]: (Matt. 10:31-33)
-[^77]: (Joh. 10:11,15),  (Joh. 15:13)
-[^78]: (Matt. 7:23)
+[^74]: ([Joh. 15:13](../books/jhn.md))
+[^75]: ([1 Joh. 3:16](../books/1jn.md))
+[^76]: ([Matt. 10:31-33](../books/mat.md))
+[^77]: ([Joh. 10:11,15](../books/jhn.md)),  ([Joh. 15:13](../books/jhn.md))
+[^78]: ([Matt. 7:23](../books/mat.md))
 [^79]: V.E. Frankl, Elämän tarkoitusta etsimässä s. 111
 [^80]: V.E. Frankl, Elämän tarkoitusta etsimässä s. 111
-[^81]: (Room. 8:28)
-[^82]: (1. Piet. 1:18)
-[^83]: (Luuk. 7:30)
-[^84]: (1. Joh. 3:8)
-[^85]: (1. Piet. 4:2-3)
-[^86]: (Tiit. 2:14)
-[^87]: (Ef. 2:10)
-[^88]: (2. Kor. 5:15)
+[^81]: ([Room. 8:28](../books/rom.md))
+[^82]: ([1. Piet. 1:18](../books/1pe.md))
+[^83]: ([Luuk. 7:30](../books/luk.md))
+[^84]: ([1. Joh. 3:8](../books/1jn.md))
+[^85]: ([1. Piet. 4:2-3](../books/1pe.md))
+[^86]: ([Tiit. 2:14](../books/tit.md))
+[^87]: ([Ef. 2:10](../books/eph.md))
+[^88]: ([2. Kor. 5:15](../books/2co.md))
 [^89]: Kirjasarjan KRISTITYN KASVU tähän mennessä ilmestyneet neljä osaa käsittelevät sitä, miten Jumalasuhteessa voi kasvaa ja miten se eletään todeksi arkielämässä.
-[^90]: (Room. 8:28)
-[^91]: (Psalmi 73:21)
-[^92]: (Snl. 19:3)
-[^93]: (Joh. 7:17)
-[^94]: (Psalmi 25:9)
-[^95]: (Room. 11:36)
-[^96]: (Ilm. 4:11)
-[^97]: (Matt. 5:22)
-[^98]: (Matt. 12:36)
+[^90]: ([Room. 8:28](../books/rom.md))
+[^91]: ([Psalmi 73:21](../books/psa.md))
+[^92]: ([Snl. 19:3](../books/pro.md))
+[^93]: ([Joh. 7:17](../books/jhn.md))
+[^94]: ([Psalmi 25:9](../books/psa.md))
+[^95]: ([Room. 11:36](../books/rom.md))
+[^96]: ([Ilm. 4:11](../books/rev.md))
+[^97]: ([Matt. 5:22](../books/mat.md))
+[^98]: ([Matt. 12:36](../books/mat.md))
 [^99]: Georg Henrik von Wright, Humanismi elämänasenteena. Otava 1981, s. 16
 [^100]: T.H. Huxley, Evolution and Ethies and Other Essays. Romanes Lecture 1893, D. Appleton. New York 1905, s. 80
 [^101]: D.B. Loekerbie, The Cosmic Center. Eerdmans, Mieh.1977, s. 44
@@ -804,7 +804,7 @@ Historia ei ole tie, joka ei tule mistään eikä johda minnekään, tai ovi, jo
 [^131]: Kiinnostusta ulkoavaruuden mahdollisiin asukkaisiin ja sen syitä on käsitelty Ari Tenhusen artikkelissa "Olemmeko yksin?" AJANKOHTAINEN 2
 [^132]: C. Seelingin toim. kirja. The World as I see it. Watts & Co. London -49
 [^133]: Intellectual Digest. March -73. s. 18
-[^134]: (Ilm. 13:17)
+[^134]: ([Ilm. 13:17](../books/rev.md))
 [^135]: F. Nietzsche. The Will to Power. New York. Frederik Publication
 [^136]: A. Koestler. The Ghost in the Machine. London. Hutchington & Co Ltd -67. s. 267
 [^137]: SPECTRUM osa 10
@@ -814,13 +814,13 @@ Historia ei ole tie, joka ei tule mistään eikä johda minnekään, tai ovi, jo
 [^141]: Charles Darwin. Autobiography ch. 3
 [^142]: B. Russel. Why I am not a Christian. kirjasta "Philosophy and Religion".
 [^143]: Myrkytyksen oireet. san. ja säv. Juice Leskinen. © Bluesway / Johanna
-[^144]: (Dan. 2:31-45)
-[^145]: (Mark. 4:30-32)
-[^146]: (Ilm. 7:9)
-[^147]: (2. Piet. 3:3-9)
+[^144]: ([Dan. 2:31-45](../books/dan.md))
+[^145]: ([Mark. 4:30-32](../books/mrk.md))
+[^146]: ([Ilm. 7:9](../books/rev.md))
+[^147]: ([2. Piet. 3:3-9](../books/2pe.md))
 [^148]: Russel. Why I am not a Christian. s. 12
-[^149]: Tärkeimmät kohdat ovat *tuomio:  (Matt. 10:15),  (Matt. 11:21-24),  (Luuk. 10:12-15),  (Matt. 12:36,41-42),  (Luuk. 11:31-32),  (Joh. 5:26-29),  (Joh. 12:48). *kadotus:  (Matt. 16:26),  (Mark. 8:36-37),  (Luuk. 9:25),  (Matt. 22:2-7),  (Luuk. 13:3-5).  (Joh. 12:25),  (Joh. 17:12). *helvetti:  (Matt. 5:29-30),  (Matt. 10:28),  (Luuk. 12:5),  (Matt. 23:33-36),  (Luuk. 11:50-51). *tuli:  (Matt. 5:22),  (Joh. 15:6). *ikuinen rangaistus:  (Matt. 18:6-8),  (Matt. 25:41-46),  (Luuk. 17:1-2),  (Mark. 9:42-48). *vaivan paikka:  (Matt. 13:30-42,49-50),  (Matt. 24:50-51),  (Matt. 25:26-30),  (Luuk. 13:24-28). *pimeys:  (Matt. 8:12),  (Matt. 22:13).
+[^149]: Tärkeimmät kohdat ovat *tuomio:  ([Matt. 10:15](../books/mat.md)),  ([Matt. 11:21-24](../books/mat.md)),  ([Luuk. 10:12-15](../books/luk.md)),  ([Matt. 12:36,41-42](../books/mat.md)),  ([Luuk. 11:31-32](../books/luk.md)),  ([Joh. 5:26-29](../books/jhn.md)),  ([Joh. 12:48](../books/jhn.md)). *kadotus:  ([Matt. 16:26](../books/mat.md)),  ([Mark. 8:36-37](../books/mrk.md)),  ([Luuk. 9:25](../books/luk.md)),  ([Matt. 22:2-7](../books/mat.md)),  ([Luuk. 13:3-5](../books/luk.md)).  ([Joh. 12:25](../books/jhn.md)),  ([Joh. 17:12](../books/jhn.md)). *helvetti:  ([Matt. 5:29-30](../books/mat.md)),  ([Matt. 10:28](../books/mat.md)),  ([Luuk. 12:5](../books/luk.md)),  ([Matt. 23:33-36](../books/mat.md)),  ([Luuk. 11:50-51](../books/luk.md)). *tuli:  ([Matt. 5:22](../books/mat.md)),  ([Joh. 15:6](../books/jhn.md)). *ikuinen rangaistus:  ([Matt. 18:6-8](../books/mat.md)),  ([Matt. 25:41-46](../books/mat.md)),  ([Luuk. 17:1-2](../books/luk.md)),  ([Mark. 9:42-48](../books/mrk.md)). *vaivan paikka:  ([Matt. 13:30-42,49-50](../books/mat.md)),  ([Matt. 24:50-51](../books/mat.md)),  ([Matt. 25:26-30](../books/mat.md)),  ([Luuk. 13:24-28](../books/luk.md)). *pimeys:  ([Matt. 8:12](../books/mat.md)),  ([Matt. 22:13](../books/mat.md)).
 [^150]: Anthony Flew. God and Philosophy. London. Hutchinson -66, s. 56
 [^151]: Anna. 10.3.81
-[^152]: Sarvepali Radhakrishnan. The Principal Upanishads. London. Allens&Unwin -58. Siteerattu raamatunpaikka on  (Hepr. 9:27)
-[^153]: (Luuk. 1:33),  (Hepr. 1:8),  (Ilm. 11:5)
+[^152]: Sarvepali Radhakrishnan. The Principal Upanishads. London. Allens&Unwin -58. Siteerattu raamatunpaikka on  ([Hepr. 9:27](../books/heb.md))
+[^153]: ([Luuk. 1:33](../books/luk.md)),  ([Hepr. 1:8](../books/heb.md)),  ([Ilm. 11:5](../books/rev.md))

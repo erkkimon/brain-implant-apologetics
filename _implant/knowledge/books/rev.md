@@ -7,7 +7,7 @@ book: rev
 testament: nt
 chapters: 22
 tags: [raamattu, kirja, rev]
-timestamp: 2026-09-26T11:30:00Z
+timestamp: 2026-09-27T13:00:00Z
 half_life: 0
 ---
 
@@ -19,4 +19,13 @@ Luvut, jaetunnisteet ja kirjan teologinen käsittely ovat teologiaimplantissa, j
 
 <brain://theology-kay4zyljsuy909krumpau/knowledge/scripture/rev/rev.md>
 
-Tämän implantin artikkelit, jotka viittaavat kirjaan, näkyvät sivun takaisinlinkeissä.
+## ApoWikin artikkelit, jotka viittaavat kirjaan
+
+Suurin viittausmäärä ensin (raamatunkohdat ja kirjan nimeävät linkit).
+
+* [Luominen Raamatussa](../articles/luominen-raamatussa.md) — 8
+* [Daniel Nylund: Maailmankatsomuksen täytyy voida selittää kaiken alkuperä, tarkoitus ja päämäärä (Ajankohtainen 3, IV luku)](../articles/daniel-nylund-maailmankatsomuksen-täytyy-voida-selittää-kaiken-alkuperä-tarkoitus-ja-päämäärä-ajankohtainen-3-iv-luku.md) — 5
+* [Messias-ennustukset](../articles/messias-ennustukset.md) — 5
+* [Daniel Nylund: Maailmankatsomus ei saa olla sisäisesti ristiriitainen (Ajankohtainen 3, II luku)](../articles/daniel-nylund-maailmankatsomus-ei-saa-olla-sisäisesti-ristiriitainen-ajankohtainen-3-ii-luku.md) — 4
+* [Bysantin tekstilaitos](../articles/bysantin-tekstilaitos.md) — 1
+* [Orjuus](../articles/orjuus.md) — 1

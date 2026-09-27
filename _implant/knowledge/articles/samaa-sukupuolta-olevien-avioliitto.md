@@ -4,7 +4,7 @@ about: apologetics
 title: "Samaa sukupuolta olevien avioliitto"
 description: "Samaa sukupuolta olevien avioliitto tarkoittaa avioliittoa, joka solmitaan samaa sukupuolta olevien henkilöiden kesken."
 tags: [apowiki, seksuaalietiikka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Samaa sukupuolta olevien avioliitto".
@@ -32,7 +32,7 @@ Avioliiton ytimenä on sellainen seksuaaliyhteys, joka mahdollistaa lasten synty
 
 Samaa sukupuolta olevien avioliiton voi ajatella väliaikaisesti parantavan sateenkaariperheiden vakautta (tosin tämä oletus ei saa tukea tutkimuksesta). Kuitenkin pitkällä tähtäimellä sukupuolineutraali avioliittolaki tekee avioliitosta epävakaamman koko yhteiskunnassa, joten tämä väliaikainen hyöty katoaa. Tämä johtuu siitä, että sukupuolineutraalin avioliittolain sisältämä uusi avioliiton merkitys tekee ihmisille vaikeaksi ymmärtää avioliiton vakautta edistävien elinikäisyyden ja puolisouskollisuuden normien mielekkyyttä. Kun ihmiset eivät enää pysty ymmärtämään näiden normien mielekkyyttä, he yhä vähemmän noudattavat niitä.
 
-Perinteisen käsityksen mukaan avioliiton pysyvyyden perustana on moraalinen sitoumus kohdella puolisoa itseisarvoisena olentona yhdistettynä siihen luonnolliseen tosiasiaan, että naisen ja miehen seksuaaliyhdyntä luo heistä uuden organismin, josta voi syntyä uutta elämää. Tämän uuden yhteyden varaan rakentuva liitto sisältää tietysti paljon romanttisia tunteita, mutta liitto ei perustu näihin tunteisiin vaan siihen, että puolisoista on tullut ”yksi liha”, kuten Raamattu asian ilmaisee, ja että he näin voivat luoda uutta elämää.
+Perinteisen käsityksen mukaan avioliiton pysyvyyden perustana on moraalinen sitoumus kohdella puolisoa itseisarvoisena olentona yhdistettynä siihen luonnolliseen tosiasiaan, että naisen ja miehen seksuaaliyhdyntä luo heistä [uuden organismin](../glossary/sanasto.md#uusi-organismi-avioliitto), josta voi syntyä uutta elämää. Tämän uuden yhteyden varaan rakentuva liitto sisältää tietysti paljon romanttisia tunteita, mutta liitto ei perustu näihin tunteisiin vaan siihen, että puolisoista on tullut ”yksi liha”, kuten Raamattu asian ilmaisee, ja että he näin voivat luoda uutta elämää.
 
 Sukupuolineutraalissa ajattelussa tämä avioliiton luonnollinen perusta katoaa, koska samaa sukupuolta olevat parit eivät pysty muodostamaan organismia, josta voisi syntyä uutta elämää. Näin liiton perustana ovat puolisoiden subjektiiviset tunteet ja sitoumukset, ei luonnon tosiasiat. Tunteet voivat vaihdella ja pelkästään niiden varaan rakentuva liitto ei anna perusteita mieltää, miksi liiton pitäisi olla elinikäinen, puolisouskollinen tai edes yksiavioinen. Yksiavioisuus puolestaan kuuluu luonnostaan naisen ja miehen avioliiton luonteeseen, koska uutta elämää synnyttävä organismi on mahdollista vain yhden naisen ja yhden miehen välisen yhdynnän kautta ja tämä uusi elämä asettaa puolisoille moraalisia vaatimuksia.
 

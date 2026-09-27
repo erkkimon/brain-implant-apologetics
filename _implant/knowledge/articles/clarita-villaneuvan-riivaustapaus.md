@@ -4,7 +4,7 @@ about: apologetics
 title: "Clarita Villaneuvan riivaustapaus"
 description: "Tämä artikkeli tarkastelee paljon julkisuutta saanutta tapausta, joka sattui Filippiineillä keväällä 1952."
 tags: [apowiki, paranormaalit-ilmiöt]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Clarita Villaneuvan riivaustapaus".
@@ -49,10 +49,10 @@ McAlisterin mukaan tämä oli hänen elämässään ensimmäinen kohtaaminen dem
 Kiinassa 1800-luvulla vaikuttanut lähetyssaarnaaja John Nevius on luonut demonisaation diagnosointia varten tietyt tuntomerkit, joiden täyttyessä on syytä epäillä kyseessä olevan demonipossession. Seuraavassa on Neviuksen ehdottamat tuntomerkit.[^7]
 
 1. Pääasiallinen merkki on uuden persoonallisuuden automaattinen, itsepintainen ja johdonmukainen ilmestyminen.
-#* Uusi persoonallisuus sanoo olevansa demoni
-#* Hän/se käyttää demonista ensimmäistä persoonaa ja possessoidusta henkilöstä kolmatta persoonaa
-#* Demoni käyttää titteleitä tai nimiä
-#* Demonilla on tunteita, kasvon ilmeitä ja fyysisiä manifestaatioita, jotka ovat sopusoinnussa ylläesitetyn kanssa.
+   * Uusi persoonallisuus sanoo olevansa demoni
+   * Hän/se käyttää demonista ensimmäistä persoonaa ja possessoidusta henkilöstä kolmatta persoonaa
+   * Demoni käyttää titteleitä tai nimiä
+   * Demonilla on tunteita, kasvon ilmeitä ja fyysisiä manifestaatioita, jotka ovat sopusoinnussa ylläesitetyn kanssa.
 1. Toinen merkki demonipossessiosta on sellaisten tietojen esittäminen, joista possessoidulla henkilöllä ei voi olla. Selvännäköisyys, kielilläpuhuminen (todellisilla), prekognitio etc.
 1. Läheisesti demonisaatioon liittyvä merkki on uuden persoonallisuuden myötä tapahtunut täydellinen moraalisen luonteen muutos. (Viha Jumalaa ja erityisesti Kristusta kohtaan)
 

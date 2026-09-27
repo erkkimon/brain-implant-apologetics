@@ -4,7 +4,7 @@ about: apologetics
 title: "Daniel Nylund: Maailmankatsomus ei saa olla ristiriidassa todellisuuden kanssa (Ajankohtainen 3, III luku)"
 description: "Voimme nimittää tätä maailmankatsomuksen laatuvaatimusta ja totuuskriteeriä myös korrespondenssiperiaatteeksi - jos se kuulostaa vakuuttavammalta - tai kotoisammin yhteensopivuuskriteeriksi."
 tags: [apowiki, maailmankatsomus, tekijänoikeuden-alaiset-artikkelit]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Daniel Nylund: Maailmankatsomus ei saa olla ristiriidassa todellisuuden kanssa (Ajankohtainen 3, III luku)".
@@ -520,31 +520,31 @@ Empirismi olettaa, että tarkat aistihavainnot ovat riittävä ja ainoa pätevä
 [^9]: H. P. Belavatsky, Nyckel till Teosofien. Uppsala 1918
 [^10]: Denis Postle, The Fabric of the Universe. New York, Crown Publishers -76, s. 7,8,12
 [^11]: Science and Health with Key to the Scriptures. 1971 Edition s. 377, 421
-[^12]: (Room. 1:18)
+[^12]: ([Room. 1:18](../books/rom.md))
 [^13]: Eupsychia - The Good Society, Journal of Humanistic Psychology Vol. I no 2/-61
-[^14]: (Hepr. 11:3)
-[^15]: (Joh. 4:24)
-[^16]: (Room. 16:26),  (Jes. 43:10),  (Jes. 44:6)
-[^17]: (Psalmi 8:4-5)
+[^14]: ([Hepr. 11:3](../books/heb.md))
+[^15]: ([Joh. 4:24](../books/jhn.md))
+[^16]: ([Room. 16:26](../books/rom.md)),  ([Jes. 43:10](../books/isa.md)),  ([Jes. 44:6](../books/isa.md))
+[^17]: ([Psalmi 8:4-5](../books/psa.md))
 [^18]: Katso esim. artikkeli Suunnittelun jäljet luonnossa, AJANKOHTAINEN no 2 s. 25
 [^19]: New York: Longmans, Green 1949
 [^20]: 'Luonnontieteet eivät tunne evoluutiota', WSOY -81
 [^21]: Elämän synnyn arvoitus, AJANKOHTAINEN no 2 s.4
 [^22]: Moraalikysymys on sekä käytännössä että teoriassa niin tärkeä ja mielenkiintoinen, että tulemme tulevaisuudessa omistamaan yhden AJANKOHTAINEN-lehden numeron täysin tämän kysymyksen käsittelyyn.
 [^23]: Albert Camus, The Myth of Sisyphus: In Martin Esslin, The Theatre of the Absurd, s. 416
-[^24]: (Room. 1:18-22)
-[^25]: (Room. 2:14-15)
+[^24]: ([Room. 1:18-22](../books/rom.md))
+[^25]: ([Room. 2:14-15](../books/rom.md))
 [^26]: Richard Anress (1835-1912) keräsi Marie-vaimonsa kanssa, joka oli kansantarujen asiantuntija, tulvakatastrofilegendoja 88:sta eri kulttuurista ja heimoyhteisöstä, sekä idästä että lännestä. Von Humbelt, joka oli 1800-luvun suuria maantieteilijöitä, teki omat vastaavat tutkimuksensa Etelä-Amerikassa, vertasi omia tutkimuksiaan muihin vastaaviin ja tuli siihen tulokseen, että vastaavanlaisia traditioita oli kaikkialla maailmassa ja mitä primitiivisemmästä kulttuurista oli kysymys sitä selvemmin säilynyt vedenpaisumuskertomus sillä on. Muita aiheen tutkijoita ovat olleet Alfred Rechwinkel, Richard Andree, James G. Frazer, Sir Henry Howorth, Hugh Miller, Byron Nelson, Harold Peake, Johannes Riem, George Smith, Lowell Thomas, Isaac Newton Vail ja William Wundt.
 [^27]: Der Ursprung der Gottesidee 1934
-[^28]: (1. Moos. 12:1-3)
+[^28]: ([1. Moos. 12:1-3](../books/gen.md))
 [^29]: Myöhemmin siitä muodostui heprean kielen rauhanterveys shalom (arabian kielellä salaam). Kaupunki ilmeisesti sijaitsee nykyisen Jerusalemin kohdalla ja alkuperäinen nimi Salem muodostaa nykyisen nimen jälkiosan, Jerusalem- rauhan perusta.
-[^30]: (1. Moos. 14:17-24)
-[^31]: (Tiit. 1:12-13)
+[^30]: ([1. Moos. 14:17-24](../books/gen.md))
+[^31]: ([Tiit. 1:12-13](../books/tit.md))
 [^32]: Diogenes Laerticus, The Lives of Eminent Philosophers (Vol I s. 110). Aristoteleen kirjan "The Art of Rhetoric Book" toimittajan alaviitteet. Loeb Classical Library, Cambridge, Massachusetts. Pansanias, Description of Greece (Voi 1, 1:4) ja Philostratus, Appolonius of Tyana.
-[^33]: (Apt. 17:16)
-[^34]: (Apt. 9:26-40)
-[^35]: (Apt. 17:23)
-[^36]: (Apt. 17:27-28)
+[^33]: ([Apt. 17:16](../books/act.md))
+[^34]: ([Apt. 9:26-40](../books/act.md))
+[^35]: ([Apt. 17:23](../books/act.md))
+[^36]: ([Apt. 17:27-28](../books/act.md))
 [^37]: Bruce Olson, Jumalan banaanipuu. Kustantaja KARAS-SANA. Toinen vastaava kirja on KAHLEET MURTUVAT, kustantaja UUSI TIE.
 [^38]: Sen antoi brittiläinen diplomaatti esimiehelleen luutnantti Michael Symesille, joka kirjoittaa siitä 32 vuotta myöhemmin julkaistussa "An Account of an Embassy to the Kingdom of Ava in the Year 1795". Mrs Macleod Wylie, "The Gospel in Burma." London, W. H. Dalton 1859.
 [^39]: Seuraavat tiedot ovat paljon laajemmin ja perusteellisesti dokumentoituna esitetty lähdekirjallisuusluettelossa mainitussa kirjassa "Eternity in their Hearts".
@@ -553,42 +553,42 @@ Empirismi olettaa, että tarkat aistihavainnot ovat riittävä ja ainoa pätevä
 [^42]: Robert Brow, Religion, Origins and Ideas. Tyndale Press 1966, s. 37
 [^43]: Victor W. Von Hagen, The Ancient Sun Kingdoms of the Americans. New York, World Pub!. Co. 1957, s. 497
 [^44]: B. C. Brundage, Empire of the Inca. University of Oklahoma Press 1963, s. 164-165
-[^45]: (Apt. 14:16-17)
-[^46]: (Joh. 14:6)
-[^47]: (2. Moos. 34:6-7),  (Joona 4:10-11),  (2. Piet. 3:9)
-[^48]: (Matt. 25:41)
-[^49]: (1. Moos. 18:25),  (Psalmi 7:11),  (1. Piet. 1:17)
-[^50]: (Apt. 17:31)
-[^51]: (2. Piet. 2:21)
-[^52]: (Luuk. 12:47-48)
-[^53]: (Psalmi 19:1-4)
-[^54]: (Psalmi 9:18)
-[^55]: (Apt. 10:34-35)
-[^56]: (Hepr. 11:6)
-[^57]: (1. Aik. 28:9). Katso myös  (2. Aik. 15:2),  (Psalmi 9:10),  (San. 8:17),  (Jer. 29:13)
-[^58]: (Joos. 2:9),  (Hepr. 11:31)
-[^59]: (2. Kun. 5:15-19)
-[^60]: (Apt. 9:26-40)
-[^61]: (Joona 4:10-11)
-[^62]: (Joh. 1:5),  (Room. 3:9-20)
-[^63]: (Room. 10:14)
-[^64]: (Matt. 24:14)
+[^45]: ([Apt. 14:16-17](../books/act.md))
+[^46]: ([Joh. 14:6](../books/jhn.md))
+[^47]: ([2. Moos. 34:6-7](../books/exo.md)),  ([Joona 4:10-11](../books/jon.md)),  ([2. Piet. 3:9](../books/2pe.md))
+[^48]: ([Matt. 25:41](../books/mat.md))
+[^49]: ([1. Moos. 18:25](../books/gen.md)),  ([Psalmi 7:11](../books/psa.md)),  ([1. Piet. 1:17](../books/1pe.md))
+[^50]: ([Apt. 17:31](../books/act.md))
+[^51]: ([2. Piet. 2:21](../books/2pe.md))
+[^52]: ([Luuk. 12:47-48](../books/luk.md))
+[^53]: ([Psalmi 19:1-4](../books/psa.md))
+[^54]: ([Psalmi 9:18](../books/psa.md))
+[^55]: ([Apt. 10:34-35](../books/act.md))
+[^56]: ([Hepr. 11:6](../books/heb.md))
+[^57]: ([1. Aik. 28:9](../books/1ch.md)). Katso myös  ([2. Aik. 15:2](../books/2ch.md)),  ([Psalmi 9:10](../books/psa.md)),  ([San. 8:17](../books/pro.md)),  ([Jer. 29:13](../books/jer.md))
+[^58]: ([Joos. 2:9](../books/jos.md)),  ([Hepr. 11:31](../books/heb.md))
+[^59]: ([2. Kun. 5:15-19](../books/2ki.md))
+[^60]: ([Apt. 9:26-40](../books/act.md))
+[^61]: ([Joona 4:10-11](../books/jon.md))
+[^62]: ([Joh. 1:5](../books/jhn.md)),  ([Room. 3:9-20](../books/rom.md))
+[^63]: ([Room. 10:14](../books/rom.md))
+[^64]: ([Matt. 24:14](../books/mat.md))
 [^65]: New Essays in Philosophical Theology. Edited by A. Flew and A. Maclntyre
-[^66]: (Apt. 26:26)
-[^67]: (2. Kor. 15:13)
+[^66]: ([Apt. 26:26](../books/act.md))
+[^67]: ([2. Kor. 15:13](../books/2co.md))
 [^68]: Katso D. Nylundin artikkeli Tyhjän haudan tapaus, AJANKOHTAINEN no 1 s. 20 ja T. Luttisen artikkeli Engels ja historiallinen Jeesus, AJANKOHTAINEN no 2 s. 56
-[^69]: (Mark. 2:12),  (Matt. 11:27),  (Matt. 16:13-17),  (Joh. 10:30),  (Joh. 12:45),  (Joh. 4:6-10).
-[^70]: (Joh. 2:18-22)
-[^71]: (Joh. 14:6)
-[^72]: (Matt. 5:17-19),  (Joh. 10:34-35) Jeesus lupasi opetuslapsilleen avuksi Pyhän Hengen, joka muistuttaisi heitä kaikista Jeesuksen opetuksista:  (Joh. 14:26-27),  (Joh. 16:12-15),  (Apt. 1:21-26). Luvatun Pyhän Hengen avulla he pystyivät perustamaan kirjoituksensa tarkalleen Jeesuksen opetukselle.
-[^73]: (Matt. 20:28),  (Mark. 10:45)
+[^69]: ([Mark. 2:12](../books/mrk.md)),  ([Matt. 11:27](../books/mat.md)),  ([Matt. 16:13-17](../books/mat.md)),  ([Joh. 10:30](../books/jhn.md)),  ([Joh. 12:45](../books/jhn.md)),  ([Joh. 4:6-10](../books/jhn.md)).
+[^70]: ([Joh. 2:18-22](../books/jhn.md))
+[^71]: ([Joh. 14:6](../books/jhn.md))
+[^72]: ([Matt. 5:17-19](../books/mat.md)),  ([Joh. 10:34-35](../books/jhn.md)) Jeesus lupasi opetuslapsilleen avuksi Pyhän Hengen, joka muistuttaisi heitä kaikista Jeesuksen opetuksista:  ([Joh. 14:26-27](../books/jhn.md)),  ([Joh. 16:12-15](../books/jhn.md)),  ([Apt. 1:21-26](../books/act.md)). Luvatun Pyhän Hengen avulla he pystyivät perustamaan kirjoituksensa tarkalleen Jeesuksen opetukselle.
+[^73]: ([Matt. 20:28](../books/mat.md)),  ([Mark. 10:45](../books/mrk.md))
 [^74]: K. Popper, Conjectures and Refutations s. 36. New York, Harper & Row 1963
 [^75]: Kristus. UUDEN AJAN AURA no 4/77
-[^76]: (Jes. 41:21-23)
-[^77]: (Jes. 42:8-9)
+[^76]: ([Jes. 41:21-23](../books/isa.md))
+[^77]: ([Jes. 42:8-9](../books/isa.md))
 [^78]: Ks. Tapio Puolimatkan artikkeli "Perusteltu usko" kirjasta KRISTITYN KASVU 4 s. 220
-[^79]: (Matt. 24:27-44),  (Mark. 13:1-37),  (Luuk. 21:5-35),  (Luuk. 9:26),  (Apt. 1:11),  (1. Tess. 5:2-3),  (Matt. 7:22),  (Jes. 9:6-7),  (Jes. 66:18),  (Dan. 7:13-14),  (Sak. 12:9-10),  (Sak. 14:4-9), jne.
-[^80]: (5. Moos. 18:22)
-[^81]: (Room. 1:21-22)
-[^82]: (Room. 8:16)
-[^83]: (Fil. 2:9-11)
+[^79]: ([Matt. 24:27-44](../books/mat.md)),  ([Mark. 13:1-37](../books/mrk.md)),  ([Luuk. 21:5-35](../books/luk.md)),  ([Luuk. 9:26](../books/luk.md)),  ([Apt. 1:11](../books/act.md)),  ([1. Tess. 5:2-3](../books/1th.md)),  ([Matt. 7:22](../books/mat.md)),  ([Jes. 9:6-7](../books/isa.md)),  ([Jes. 66:18](../books/isa.md)),  ([Dan. 7:13-14](../books/dan.md)),  ([Sak. 12:9-10](../books/zec.md)),  ([Sak. 14:4-9](../books/zec.md)), jne.
+[^80]: ([5. Moos. 18:22](../books/deu.md))
+[^81]: ([Room. 1:21-22](../books/rom.md))
+[^82]: ([Room. 8:16](../books/rom.md))
+[^83]: ([Fil. 2:9-11](../books/php.md))

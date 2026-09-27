@@ -7,7 +7,7 @@ book: num
 testament: ot
 chapters: 36
 tags: [raamattu, kirja, num]
-timestamp: 2026-09-26T11:30:00Z
+timestamp: 2026-09-27T13:00:00Z
 half_life: 0
 ---
 
@@ -19,4 +19,12 @@ Luvut, jaetunnisteet ja kirjan teologinen käsittely ovat teologiaimplantissa, j
 
 <brain://theology-kay4zyljsuy909krumpau/knowledge/scripture/num/num.md>
 
-Tämän implantin artikkelit, jotka viittaavat kirjaan, näkyvät sivun takaisinlinkeissä.
+## ApoWikin artikkelit, jotka viittaavat kirjaan
+
+Suurin viittausmäärä ensin (raamatunkohdat ja kirjan nimeävät linkit).
+
+* [Messias-ennustukset](../articles/messias-ennustukset.md) — 3
+* [Joosefin kaksi isää](../articles/joosefin-kaksi-isää.md) — 2
+* [Daniel Nylund: Maailmankatsomuksen tulee olla oikeaksi koettava ja sisäisesti tyydyttävä (Ajankohtainen 3, VI luku)](../articles/daniel-nylund-maailmankatsomuksen-tulee-olla-oikeaksi-koettava-ja-sisäisesti-tyydyttävä-ajankohtainen-3-vi-luku.md) — 1
+* [Jeesus Nasaretilainen](../articles/jeesus-nasaretilainen.md) — 1
+* [Toora](../articles/toora.md) — 1

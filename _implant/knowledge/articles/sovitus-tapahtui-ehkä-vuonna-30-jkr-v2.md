@@ -4,7 +4,7 @@ about: apologetics
 title: "Sovitus tapahtui ehkä vuonna 30 jKr."
 description: "Talmudin mukaan noin vuodesta 30 eteenpäin juutalaisten sovitusuhrit eivät enää kelvanneet Jumalalle."
 tags: [apowiki, historia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Sovitus tapahtui ehkä vuonna 30 jKr.".
@@ -90,10 +90,10 @@ Mitä näistä ihmeistä voidaan päätellä?
 [^5]: Palestiinalainen Talmud; Jacob Neusner, The Yerushalmi, s. 156–157
 [^6]: Babylonialainen Talmud, Yoma 39b
 [^7]: [All About Yom Kippur](http://judaism.about.com/od/yomkippu1/a/yk_all.htm), New York Times, 2009, Repentin, Fasting, Praying, viitattu 7.6.2009 (*Yom Kippur - - is the holiest day of the Jewish year.*)
-[^8]: (Lev. 16:7-8)
+[^8]: ([Lev. 16:7-8](../books/lev.md))
 [^9]: Valkama, Pirkko, [Israel pelastushistoriassa](http://docplayer.fi/5835237-Israel-pelastushistoriassa-syksy-2006-kansanlahetysopisto-pirkko-valkama.html), Kansanlähetysopisto, 2006, viitattu 7.6.2009, linkki vaihdettu 28.4.2017 (*Sen jälkeen hän otti kaksi vuohipukkia kansan syntiuhriksi. Arvalla valittiin toinen pukki Herralle ja toinen pois lähetettäväksi. - - hän pani kätensä toisen pukin päälle ja tunnusti israelilaisten synnit. Vuohipukki vietiin sitten erämaahan ja päästettiin vapaaksi.*)
-[^10]: (Lev. 16:9)
-[^11]: (3. Moos. 16:10)
+[^10]: ([Lev. 16:9](../books/lev.md))
+[^11]: ([3. Moos. 16:10](../books/lev.md))
 [^12]: Joma 37a, 39a-41a, 62a-63b, 65b; Zeb. 113b; Men. 59b; Ker. 28a
 [^13]: Cyrus Adler & Ludwig Blau, [Lots](http://jewishencyclopedia.com/view.jsp?artid=558&letter=L&search=lot%20black%20white), Jewish Encyclopedia, 2002, viitattu 7.6.2009 (*The lot was either a black or a white pebble - -*)
 [^14]: Cyrus Adler & Ludwig Blau, [Lots](http://jewishencyclopedia.com/view.jsp?artid=558&letter=L&search=lot%20black%20white), Jewish Encyclopedia, 2002, viitattu 7.6.2009 (*They were thrown - - possibly shaken - - so that one fell out, whereby the case in question was decided.*)

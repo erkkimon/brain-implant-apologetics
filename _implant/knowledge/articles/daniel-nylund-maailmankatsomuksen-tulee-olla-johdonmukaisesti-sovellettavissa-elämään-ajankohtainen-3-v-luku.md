@@ -4,7 +4,7 @@ about: apologetics
 title: "Daniel Nylund: Maailmankatsomuksen tulee olla johdonmukaisesti sovellettavissa elämään (Ajankohtainen 3, V luku)"
 description: "Marxilaisuuden yksi tärkeimpiä totuuskriteereitä on toimivuus."
 tags: [apowiki, maailmankatsomus, tekijänoikeuden-alaiset-artikkelit]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Daniel Nylund: Maailmankatsomuksen tulee olla johdonmukaisesti sovellettavissa elämään (Ajankohtainen 3, V luku)".
@@ -284,20 +284,20 @@ En väitä, että kristillinen maailmankatsomus on tosi siksi, että se johdonmu
 [^7]: Tämän esimerkin olen kirjoittanut muistiin TIME-lehdestä, jonka numeroa en nyt löytänyt. Vuosikerta oli todennäköisesti -78.
 [^8]: Punainen miekka, elok. 1919
 [^9]: Tämän ylimalkaisen väitteen perusteleminen ja toimivan kristillisen vaihtoehdon esitteleminen ei tietenkään ole yksioikoinen ja helppo asia. Yritämme tehdä sen jossain tulevassa teemanumerossa, joka käsittelee yhteiskunnallisia asioita.
-[^10]: (Room. 6:20-21)
-[^11]: (Room. 8:36)
-[^12]: (Matt 1:21),  (Room. 6:18)
-[^13]: (Joh. 4:42),  (Apt. 5:31),  (Fil. 3:20),  (1 Tim 4:10)
+[^10]: ([Room. 6:20-21](../books/rom.md))
+[^11]: ([Room. 8:36](../books/rom.md))
+[^12]: ([Matt 1:21](../books/mat.md)),  ([Room. 6:18](../books/rom.md))
+[^13]: ([Joh. 4:42](../books/jhn.md)),  ([Apt. 5:31](../books/act.md)),  ([Fil. 3:20](../books/php.md)),  ([1 Tim 4:10](../books/1ti.md))
 [^14]: Horkheimer, Die Sehnsucht nach dem ganz Anderen. Hamburg -70, s. 60. Siteerattu Hans Küngin kirjassa.
 [^15]: Horkheimer, Die Sehnsucht nach dem ganz Anderen. Hamburg -70, ss. 61-62 Siteerattu Hans Küngin kirjassa.
 [^16]: Krohn, s. 76
 [^17]: Olen kriittisesti arvioinut kaikkia neljää päävirtausta tässä lehdessä esittämieni totuuskriteerien pohjalta 15-tuntisessa luentosarjassa, jonka voi tilata kasetille tallennettuna toimituksen osoitteesta. Aion tutkia aluetta edelleen ja yritän myöhemmin julkaista kirjallisessa muodossa arvion psykologian päävirtauksista, niiden takana olevasta maailmankatsomuksesta ja ihmiskatsomuksesta sekä teoreettisen pohjan kristilliselle ihmiskäsitykselle ja siitä käsin sovelletulle psykologialle.
 [^18]: J.P. Sartre, Words s. 62-65
-[^19]: (Hes. 33:31-33)
-[^20]: (Jer. 5:28-29),  (Jer. 8:10)
-[^21]: (Jer. 7:4)
+[^19]: ([Hes. 33:31-33](../books/ezk.md))
+[^20]: ([Jer. 5:28-29](../books/jer.md)),  ([Jer. 8:10](../books/jer.md))
+[^21]: ([Jer. 7:4](../books/jer.md))
 [^22]: Kirjasarjassa Kristityn Kasvu n:o 4 on Ronald J. Siderin artikkeli siitä, mitä Raamattu opettaa köyhistä ja miten köyhyys voitaisiin poistaa.
-[^23]: (Jes. 58:6-7)
+[^23]: ([Jes. 58:6-7](../books/isa.md))
 [^24]: Ignace Lepp, Aikamme ateismin kasvot. SKS -66, s. 89
 [^25]: Raymond L. Whitehead, Love and Struggle in Mao's Thought. Orbi's Books -77, s. 128
 [^26]: Vesa Oittinen, Marxilainen uskontokritiikki. Kansankulttuuri -79, s. 179

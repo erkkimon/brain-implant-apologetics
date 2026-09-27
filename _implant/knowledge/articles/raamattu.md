@@ -4,7 +4,7 @@ about: apologetics
 title: "Raamattu"
 description: "Löysin arabiankielisen Raamatun Oferin vankilan kirjaston uskonnollisen kirjallisuuden joukosta."
 tags: [apowiki, raamattu]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Raamattu".
@@ -75,21 +75,21 @@ Eräänlaiseksi truismiksi tai jopa mantraksi on muodostunut, että "Raamattua v
 
 Olipa ihmisten tulkinta- ja tulkintojen arviointitaitojen laita sitten niin tai näin, niin Raamattu on joka tapauksessa vähintäänkin ihmeellinen kirja.<!-- Biblia-käännöksen esipuhe valaisee tätä seikkaa seuraavista näkökulmista:
 1. **Pyhän Raamatun vanhuus**
-#* maailman vanhin kirja[^8]
-#* kuvaus maailman alusta ja sen vanhimmista muutoksista
-#* yhtenäisesitys maailmanhistoriasta[^9]
-#* tällaisena ainutlaatuinen kokonaisuus[^10]
+   * maailman vanhin kirja[^8]
+   * kuvaus maailman alusta ja sen vanhimmista muutoksista
+   * yhtenäisesitys maailmanhistoriasta[^9]
+   * tällaisena ainutlaatuinen kokonaisuus[^10]
 1. **Pyhän Raamatun sisällön majesteettisuus: ylevyys, hyödyllisyys ja täydellisyys**
-#* järjelle käsittämättömät salaisuudet
-#* parhaat elämänohjeet
-#* monia satoja vuosia ilmoittamisajankohtansa jälkeen täyttyneet ennustukset, joita ei kukaan muu kuin Jumala olisi voinut niin varhain edeltäpäin tietää;
-#* kaikki, mikä paikkaa järkemme puutteet ja mitä meidän tarvitsee autuudeksemme tietää;
-#* yksinkertaiset mutta korkeat ja jumalalliset sanat, kaunis ja voimallinen esitystapa;
-#* kyky taivuttaa ihmisen ymmärrys vaatimattomaan suostumiseen ja tahto vakaaseen kuuliaisuuteen.
+   * järjelle käsittämättömät salaisuudet
+   * parhaat elämänohjeet
+   * monia satoja vuosia ilmoittamisajankohtansa jälkeen täyttyneet ennustukset, joita ei kukaan muu kuin Jumala olisi voinut niin varhain edeltäpäin tietää;
+   * kaikki, mikä paikkaa järkemme puutteet ja mitä meidän tarvitsee autuudeksemme tietää;
+   * yksinkertaiset mutta korkeat ja jumalalliset sanat, kaunis ja voimallinen esitystapa;
+   * kyky taivuttaa ihmisen ymmärrys vaatimattomaan suostumiseen ja tahto vakaaseen kuuliaisuuteen.
 1. **Pyhän Raamatun kirjojen yhtäpitävyys**
-#* usean sadan vuoden aikana syntynyt;
-#* eri elämänpiireissä eläneiden ja keskenään erilaisten ihmisten kynästä lähtöisin;
-#* silti havaittavissa mitä ihanin tekstien keskinäinen yhteensopivuus;
+   * usean sadan vuoden aikana syntynyt;
+   * eri elämänpiireissä eläneiden ja keskenään erilaisten ihmisten kynästä lähtöisin;
+   * silti havaittavissa mitä ihanin tekstien keskinäinen yhteensopivuus;
 -->
 
 Raamatun kulttuurihistoriallinen vaikutus on ollut kiistatta merkittävää. Tarve saada Raamatun sanoma kansan ymmärtämään muotoon on ollut ratkaiseva tekijä esimerkiksi suomen kirjakielen synnyssä.

@@ -4,7 +4,7 @@ about: apologetics
 title: "Kristillinen kasvatus"
 description: "Ihmisen perusoikeuksiin kuuluu uskonnonvapaus, joka siis on aina tarkoittanut vapautta uskontoon, ei vapautta uskonnosta."
 tags: [apowiki, etiikka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kristillinen kasvatus".
@@ -23,7 +23,7 @@ Ihmisen perusoikeuksiin kuuluu uskonnonvapaus, joka siis on aina tarkoittanut va
 Toinen puoli asiassa ovat uskonnon perustelut. Kristinusko on uskonnoista parhaiten perusteltavissa ja on siten todennäköisimmin totta. Uskonnonvapaus toteutuu parhaiten kristityissä maissa kun taas esimerkiksi ateistiset ja islamilaiset maat rikkovat tyypillisesti uskonnonvapautta. Kristinusko on myös erittäin elämänmyönteinen ja moraaliltaan korkea uskonto, joka on mahdollistanut lukutaidon, koulutuksen, tieteen, sairaalat. Lisäksi, esimerkiksi ateismista poiketen, kristinusko antaa kestävän perustelun moraalille ja ihmisarvolle. Pidemmän päälle hedelmät kuihtuvat mikäli ne erotetaan puusta. Näiden syiden takia juuri kristillinen kasvatus on tärkeää.
 
 ### Neutraalisuuden myytti
-Käsitys, jonka mukaan lapselle ei pitäisi opettaa mitään uskontoa, on virheellinen. Ensinnäkin, vanhemmat ja ympäröivä kulttuuri siirtävät lapseen joka tapauksessa uskonnollisia käsityksiä, halusivat tai eivät. On parempi, että lapselle ollaan tässä rehellisiä. Ongelma on, että usein ajattelultaan varsin pinnalliset ateistit eivät näe [ateismi](ateismi.md)aan uskontona. Pahimmassa tapauksessa vanhemmat ovat niin naiveja, että pettävät lapsen luulemaan että Jumalan kieltäminen olisi tietoa eikä uskonnollinen käsitys ja valinta. Valtauskontojen opettaminen on sentään älyllisesti rehellistä.
+Käsitys, jonka mukaan lapselle ei pitäisi opettaa mitään uskontoa, on virheellinen. Ensinnäkin, vanhemmat ja ympäröivä kulttuuri siirtävät lapseen joka tapauksessa uskonnollisia käsityksiä, halusivat tai eivät. On parempi, että lapselle ollaan tässä rehellisiä. Ongelma on, että usein ajattelultaan varsin pinnalliset ateistit eivät näe [ateismiaan](ateismi.md) uskontona. Pahimmassa tapauksessa vanhemmat ovat niin naiveja, että pettävät lapsen luulemaan että Jumalan kieltäminen olisi tietoa eikä uskonnollinen käsitys ja valinta. Valtauskontojen opettaminen on sentään älyllisesti rehellistä.
 
 Toisekseen, tiedon Jumalasta ja sen perustelujen opettamatta jättäminen on itsessään valtava uskonnollinen arvovalinta. Myös syvällisimmät ateistiset filosofit myöntävät, että kysymys Jumalasta ja ihmisen suhteesta Häneen on ihmiselämän tärkein kysymys.
 
@@ -34,7 +34,7 @@ Myyttinen käsitys, jonka mukaan kaikki uskonnot ovat samanlaisia, on muuten osi
 Kolmanneksi, vanhempien tulee joka tapauksessa opettaa lapselleen oikeasta ja väärästä. Ja vähintään omilla arvostuksillaan he opettavat esimerkiksi sitä, mikä elämässä on tärkeää. Nämä ja monet muut käsitykset johtuvat vanhempien ja kulttuurin uskonnollisista oletuksista. (Useat ateistit jopa opettavat lapsilleen moraalikäsityksiä ihmisarvosta ja oikeasta ja väärästä, jotka ovat perusteltavissa vain kristinuskon alla.) Uskonnollisesti neutraalia kasvatusta ei siis ole, on vain piilossa olevaan uskonnollista kasvatusta ja näkyvää uskonnollista kasvatusta. Piilossa oleva uskonnollinen kasvatus vähentää lapsen mahdollisuuksia tunnistaa omaksumansa uskonnolliset oletukset ja näin estää oletusten avointa arviointia.
 
 ### Raamatulliset perustelut
- (5. Moos. 6:7),  (5. Moos. 4:9-10),  (5. Moos. 11:19);  (1. Moos. 18:19);  (2. Moos. 12:26-27),  (2. Moos. 13:14-15),  (Ps. 78:4-6),  (Ef. 6:4)
+ ([5. Moos. 6:7](../books/deu.md)),  ([5. Moos. 4:9-10](../books/deu.md)),  ([5. Moos. 11:19](../books/deu.md));  ([1. Moos. 18:19](../books/gen.md));  ([2. Moos. 12:26-27](../books/exo.md)),  ([2. Moos. 13:14-15](../books/exo.md)),  ([Ps. 78:4-6](../books/psa.md)),  ([Ef. 6:4](../books/eph.md))
 
 ### Lisätietoa
 *Tapio Leinonen, Timo Junkkaala ja Juha Vähäsarja: Kristillinen kasvatus vastaa ateismin haasteeseen <!-- red link: Tapio_Leinonen,_Timo_Junkkaala_ja_Juha_V%C3%A4h%C3%A4sarja:_Kristillinen_kasvatus_vastaa_ateismin_haasteeseen -->

@@ -4,7 +4,7 @@ about: apologetics
 title: "Usko, tiede ja evoluutio (kirja)"
 description: "Teologian tohtori Sammeli Juntunen arvioi Kotimaan-lehden verkkosivuilla kirjan olevan kenties merkittävin teologinen puheenvuoro Suomessa sitten Tuomo Mannermaan teoksen In ipsa fide Christus adest ."
 tags: [apowiki, evoluutioteoria, filosofia, kirjat, tapio-puolimatka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Usko, tiede ja evoluutio (kirja)".
@@ -37,7 +37,7 @@ Lennart Saari, maat. metsät. tri, riistaeläintieteen dosentti
 ”Puolimatka kuvaa tieteen rajoja ja rajoituksia perusteellisesti ja osuvasti uudessa teoksessaan. Suomessa julkaistaan vain vähän perusteellista ja syvällistä uskon ja tieteen suhdetta käsittelevää kirjallisuutta. Usko, tiede ja evoluutio ottaa rohkeasti kantaa vaikeisiin filosofisiin ja teologisiin kysymyksiin. Tarkkaan punnittu teksti palkitsee lukijansa aivan siitä riippumatta, onko hän kirjoittajan kanssa samaa mieltä vai ei.”
 Markku Ojanen, fil. tri, psykologian professori
 
-Professori Tapio Puolimatkan Usko, tiede ja evoluutio on puheenvuoro, joka kyseenalaistaa useita myyttisiä käsityksiä kehitysopin ympärillä. Evoluution osalta Puolimatka näyttää miten yksipuolista keskustelu ja tutkimus evoluution alueella on. Tiedeyhteisöllä ei ole ollut lähtökohtaisia valmiuksia myöntää teorian ongelmia. On aika etsiä ja uudelleen löytää objektiivisempaa, useista lähtökohdista lähtevää ja keskustelevaa, tieteen tekemistä. Tieteen pitäisi olla vapaa materialismin/naturalismin ennakko-oletuksista. Tämä vaatinee joillain aloilla ajatustyötä ja perustan uudelleenrakennusta, mutta nykyisessä kulttuurissamme harva asia on tätä tärkeämpi. (Enemmistöasemassa väkivaltaan ja sananvapauden rajoituksiin johtavan [Islam](islam.md)in kasvu kulttuurissamme on kyllä myös huolestuttava asia.)
+Professori Tapio Puolimatkan Usko, tiede ja evoluutio on puheenvuoro, joka kyseenalaistaa useita myyttisiä käsityksiä kehitysopin ympärillä. Evoluution osalta Puolimatka näyttää miten yksipuolista keskustelu ja tutkimus evoluution alueella on. Tiedeyhteisöllä ei ole ollut lähtökohtaisia valmiuksia myöntää teorian ongelmia. On aika etsiä ja uudelleen löytää objektiivisempaa, useista lähtökohdista lähtevää ja keskustelevaa, tieteen tekemistä. Tieteen pitäisi olla vapaa materialismin/naturalismin ennakko-oletuksista. Tämä vaatinee joillain aloilla ajatustyötä ja perustan uudelleenrakennusta, mutta nykyisessä kulttuurissamme harva asia on tätä tärkeämpi. (Enemmistöasemassa väkivaltaan ja sananvapauden rajoituksiin johtavan [Islamin](islam.md) kasvu kulttuurissamme on kyllä myös huolestuttava asia.)
 
 Puolimatkan kirja sisältää myös paljon tieteellisiä yksityiskohtia kuten tuoreita mittauksia evoluution rajoista sekä kosmiseen hienosäätöön liittyvää aineistoa. Kirja edustaa kaiken kaikkiaan huomattavasti tarkempaa ja syvällisempää ajattelua kuin esimerkiksi Esko Valtaojan kirjat. Myös tieteellistä aineistoa käytetään enemmän ja tasapuolisemmin.
 

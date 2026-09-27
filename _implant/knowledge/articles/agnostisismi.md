@@ -4,7 +4,7 @@ about: apologetics
 title: "Agnostisismi"
 description: "Valoa on kylliksi niille jotka vain haluavat nähdä, ja on kyllin hämärää niille joilla eivät halua."
 tags: [apowiki, filosofia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Agnostisismi".
@@ -104,7 +104,7 @@ Vaikka agnostisismi merkitsee pidättäytymistä kannanotosta teismin ja ateismi
 
 > Ei ole mahdollista tietää, onko olemassa yliluonnollisia olentoja ja onko universumin olemassaolo seurausta heidän hyväntahtoisista tai pahantahtoisista teoistaan.
 
-Tämäkin siis on yliluonnollisia olentoja koskeva väitelause, joskaan ei ontologinen vaan epistemologinen luonteeltaan. Todistustaakan välttämiseksi agnostikko voi lisäksi muotoilla kyseisen väitelauseen subjektiivisessa muodossaan: "Minä en tiedä, onko olemassa yliluonnollisia olentoja ja onko universumin olemassaolo seurausta heidän hyväntahtoisista tai pahantahtoisista teoistaan."
+Tämäkin siis on yliluonnollisia olentoja koskeva väitelause, joskaan ei [ontologinen](../glossary/sanasto.md#ontologia) vaan [epistemologinen](../glossary/sanasto.md#epistemologia) luonteeltaan. Todistustaakan välttämiseksi agnostikko voi lisäksi muotoilla kyseisen väitelauseen subjektiivisessa muodossaan: "Minä en tiedä, onko olemassa yliluonnollisia olentoja ja onko universumin olemassaolo seurausta heidän hyväntahtoisista tai pahantahtoisista teoistaan."
 
 Siinä vaiheessa kun teisti tai ateisti on esittänyt agnostikolle Jumalan olemassaoloon liittyviä ymmärrettäviä perusteluita, agnostikko ei voi enää väittää, ettei hänen tiedossaan ole syitä uskoa Jumalaan tai ateismiin, ellei hän ensin ota jonkinlaista kantaa näihin esitettyihin perusteluihin.
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Kirjat"
 description: "62 ApoWiki-artikkelia aihepiiristä kirjat — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, kirjat]
-timestamp: 2026-09-25T23:30:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 
 # Kirjat
@@ -29,7 +29,7 @@ Aihepiirin kirjat artikkelit, tuotu [ApoWikistä](https://apowiki.fi). Luettelo 
 * [God in the Dock (kirja)](../articles/god-in-the-dock-kirja.md) — God in the Dock on kokoelma C.
 * [God's battalions (kirja)](../articles/gods-battalions-kirja.md) — God's battalions on sosiologi Rodney Starkin apologeettinen teos, jossa käsitellään ristiretkien historiaa.
 * [I Don't Have Enough Faith to Be an Atheist (kirja)](../articles/i-dont-have-enough-faith-to-be-an-atheist-kirja.md) — I Don't Have Enough Faith to Be an Atheist on Norman L.
-* [Icons of Evolution (kirja)](../articles/icons-of-evolution-kirja.md) — Icons of Evolution on amerikkalaisen biologin Jonathan Wells in kirjoittama kirja, jossa hän käsittelee merkittävimpiä evoluutioteorian….
+* [Icons of Evolution (kirja)](../articles/icons-of-evolution-kirja.md) — Icons of Evolution on amerikkalaisen biologin Jonathan Wellsin kirjoittama kirja, jossa hän käsittelee merkittävimpiä evoluutioteorian….
 * [Jeesus (kirja)](../articles/jeesus-kirja.md) — Jeesus on eksegetiikan dosentti Tom Holménin kirjoittama yleistajuinen tietokirja, joka käsittelee Jeesus Nasaretilaisena tunnettua henkilöä….
 * [Jesus and the Eyewitnesses (kirja)](../articles/jesus-and-the-eyewitnesses-kirja.md) — St.
 * [Jumalharha (kirja)](../articles/jumalharha-kirja.md) — Jumalharha (The God Delusion, (https://fi.wikipedia.org/wiki/2006)) on uusateismin huomattavimman saarnamiehen Richard Dawkinsin kirjoittama….
@@ -57,7 +57,7 @@ Aihepiirin kirjat artikkelit, tuotu [ApoWikistä](https://apowiki.fi). Luettelo 
 * [Sukupuoli muutoksessa (kirja)](../articles/sukupuoli-muutoksessa-kirja.md) — Sukupuoli muutoksessa on Tapio Puolimatkan kirjoittama kirja, joka analysoi sukupuoli-käsitettä ja sen muutoksen yhteiskunnallisia vaikutuksia.
 * [Tapaus Kristus (kirja)](../articles/tapaus-kristus-kirja.md) — Tapaus Kristus on Lee Strobelin Jeesus Nasaretilaista käsittelevä apologeettinen….
 * [The Bible, Protestantism, and the Rise of Natural Science (kirja)](../articles/the-bible-protestantism-and-the-rise-of-natural-science-kirja.md) — Oxfordin yliopiston tieteen ja uskonnon Andreas Idreos -professori Peter Harrison argumentoi kirjassaan, että yksi modernin luonnontieteen syntyyn….
-* [The Edge of Evolution (kirja)](../articles/the-edge-of-evolution-kirja.md) — The Edge of Evolution: The Search for the Limits of Darwinism (EOE) on biokemian professori Michael Behe n kirjoittama kirja, jossa hän käsittelee….
+* [The Edge of Evolution (kirja)](../articles/the-edge-of-evolution-kirja.md) — The Edge of Evolution: The Search for the Limits of Darwinism (EOE) on biokemian professori Michael Behen kirjoittama kirja, jossa hän käsittelee….
 * [The Fall of Man and the Foundations of Science (kirja)](../articles/the-fall-of-man-and-the-foundations-of-science-kirja.md) — Tieteenhistorioitsija Peter Harrison osoittaa kirjassaan, että modernin luonnontieteellisen menetelmän kehittämistä ohjasi alun perin kristillinen….
 * [The Mystery of Life’s Origin (kirja)](../articles/the-mystery-of-lifes-origin-kirja.md) — __NOTOC__ Mystery of Life’s Origin: Reassessing Current Theories on Kemisti Charles Thaxtonin, konetekniikan professori Walter Bradleyn ja kemisti….
 * [The Myth of Religious Neutrality (kirja)](../articles/the-myth-of-religious-neutrality-kirja.md) — Roy Clouser argumentoi kirjassaan, että tieteellinen ajattelu on aina uskonnollisesti sitoutunutta.

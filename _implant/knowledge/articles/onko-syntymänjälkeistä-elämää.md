@@ -4,7 +4,7 @@ about: apologetics
 title: "Onko syntymänjälkeistä elämää?"
 description: "Olivatpa kerran kaksoispojat saaneet alkunsa kohdussa. Sekunnit, minuutit ja tunnit kuluivat, kun kaksi embryomaista elämää kehittyivät."
 tags: [apowiki, parodiset-artikkelit]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Onko syntymänjälkeistä elämää?".
@@ -48,7 +48,7 @@ Kuitenkin samaan aikaan kun toinen raivosi ja oli toivoton, toinen alistui siihe
 
 He huudahtivat, kun he syntyivät valoon. Nesteen yskäys ulos ja henkäys kuivaa ilmaa. Kun he olivat varmoja, että olivat syntyneet, he avasivat silmänsä – nähdäkseen syntymän jälkeisen elämän ensimmäistä kertaa. He näkivät äitinsä kauniit silmät, kun he olivat rakastavasti hänen käsillään. He olivat kotona.
 
-> ”...mitä silmä ei ole nähnyt eikä korva kuullut, mitä ihminen ei ole voinut sydämessään aavistaa, minkä Jumala on valmistanut niille, jotka häntä rakastavat.” ( (1. Kor. 2:9))
+> ”...mitä silmä ei ole nähnyt eikä korva kuullut, mitä ihminen ei ole voinut sydämessään aavistaa, minkä Jumala on valmistanut niille, jotka häntä rakastavat.” ( ([1. Kor. 2:9](../books/1co.md)))
 
 ### Viitteet
 

@@ -110,6 +110,14 @@ henxels:
     in: ./_implant/raw/apowiki-export/*
     gfdl_notice_required: ./_implant/raw/apowiki-export    # custom check, lives in henxels_checks.py
 
+  - henxel: "ApoWiki project pages (the glossary) carry the GFDL notice too"
+    why: >
+      raw/apowiki-project/ holds ApoWiki's own project-namespace pages —
+      the official glossary, ApoWiki:Sanasto — under the same licence and
+      the same obligation as the article export.
+    in: ./_implant/raw/apowiki-project/*
+    gfdl_notice_required: ./_implant/raw/apowiki-project
+
   - henxel: "Every concept doc is kebab-case markdown with OKF frontmatter (type is the one MUST)"
     why: >
       type, title and description keep a page findable and compilable; a

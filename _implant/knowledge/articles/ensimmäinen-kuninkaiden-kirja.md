@@ -4,7 +4,7 @@ about: apologetics
 title: "Ensimmäinen kuninkaiden kirja"
 description: "Keväällä 1993 Helsingin Sanomat julkaisi artikkelin, joka oli otsikoitu näin: ”Amerikkalaistutkijan mukaan iso osa Vanhasta testamentista on satua”."
 tags: [apowiki, raamattu, historia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ensimmäinen kuninkaiden kirja".
@@ -35,7 +35,7 @@ Tel Danin piirtokirjoituksesta käytiin akateemisessa maailmassa vilkasta keskus
 >
 > — Sit. Laato[^1]
 
-Laato argumentoi, että nyt tuskin kukaan enää voi kyseenalaistaa, että piirtokirjoituksen ilmaisu btdwd viittaa ”Daavidin huoneeseen” eli Juudaan. Hän toteaa, että tällainen tapa viitata kuningaskuntaan kuningassuvun perustajan mukaan oli tyypillistä muinaisessa Lähi-idässä. Arpadin kuningassuvun perustajana oli Agusi tai Gus, minkä vuoksi assyrialaiset kutsuivat Arpadin kuningaskuntaa nimellä Bit-Agusi eli ”Agusin huone”. Vastaavasti kuningaskuntia kutsuttiin nimillä Bit-Jakini, ”Jakinin huone”, ja Bit-Adini, ”Adinin huone” niissä vallinneiden hallitsijasukujen perustajien mukaan. Israelin kuningaskunta mainitaan usein Assyrian lähteissä nimellä Bit-Humria eli ”Omrin huone”, koska Omrin suku oli ensimmäinen pitkäaikainen kuningassuku Israelissa ( (1. Kun. 16:15-28))
+Laato argumentoi, että nyt tuskin kukaan enää voi kyseenalaistaa, että piirtokirjoituksen ilmaisu btdwd viittaa ”Daavidin huoneeseen” eli Juudaan. Hän toteaa, että tällainen tapa viitata kuningaskuntaan kuningassuvun perustajan mukaan oli tyypillistä muinaisessa Lähi-idässä. Arpadin kuningassuvun perustajana oli Agusi tai Gus, minkä vuoksi assyrialaiset kutsuivat Arpadin kuningaskuntaa nimellä Bit-Agusi eli ”Agusin huone”. Vastaavasti kuningaskuntia kutsuttiin nimillä Bit-Jakini, ”Jakinin huone”, ja Bit-Adini, ”Adinin huone” niissä vallinneiden hallitsijasukujen perustajien mukaan. Israelin kuningaskunta mainitaan usein Assyrian lähteissä nimellä Bit-Humria eli ”Omrin huone”, koska Omrin suku oli ensimmäinen pitkäaikainen kuningassuku Israelissa ( ([1. Kun. 16:15-28](../books/1ki.md)))
 
 Yllä olevien arkeologisten löytöjen valossa Laato toteaakin:
 

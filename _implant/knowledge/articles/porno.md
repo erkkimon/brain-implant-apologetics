@@ -4,7 +4,7 @@ about: apologetics
 title: "Porno"
 description: "Pornon katsotaan tarkoittavan eri ihmisille hyvin erilaisia asioita, mutta määrittelyssä auttaa keskittyminen pornolle luonteenomaisiin piirteisiin."
 tags: [apowiki]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Porno".
@@ -76,7 +76,7 @@ Pornoa käytetään itsetyydytyksessä fantasioinnin helpottamiseen.[^10] Ihmise
 [^5]: "Kummankin puolison tulee panostaa seksuaalisuhteen toimivuuteen, huolehtia sen ylläpidosta ja ilmaista sen tärkeyttä. Ennen kaikkea tulee ilmaista omia tarpeitaan ja uskaltaa pyytää montakin kertaa toiselta sitä, mikä itsestä tuntuu hyvältä." [Väestöliitto: Parisuhteen seksuaalisuus on molempien vastuulla](http://www.vaestoliitto.fi/parisuhde/tietoa_parisuhteesta/toimivasta_seksuaalisuudesta2/odotukset_ja_tarpeet/)
 [^6]: "Mikä merkitys on hyvällä kommunikaatiolla seksin laatuun? Todella suuri. Tietenkin lyhyissä suhteissa tai suhteen alkuhuumassa sen merkitys on pienempi. Jos kumppani on juuri vasta löytynyt, intohimoa yleensä riittää. Alussa jokainen hipaisu ja teko tuntuvat kiihottavilta ja seksielämä on vilkasta ja piristävää. Seksi on mainio elinvoima ja halu syttyy milloin missäkin tilanteessa. Joskus intohimo korvaa kommunikaatiot, joskus toiveet osuvat muuten vain yhteen. Kun alun huuma haihtuu, se mikä ylläpitää hyvää seksiä, on kummankin tarpeiden huomioiminen ja yhteen sovittaminen, siis kommunikaatio. Kommunikoiden viestitetään omia tarpeita, se on tiedon välitystä." [Väestöliitto: Rakkauden kieli](https://www.perheaikaa.fi/jutut/lapsi-toiveissa/parisuhde/rakkauden-kieli/)
 [^7]: Katso esimerkiksi `http://www.vaestoliitto.fi/seksuaalisuus/miehet/nettipalvelut/kysy_asiantuntijalta/?E*num=100687&E*q=&E*keyword=0`, `http://www.vaestoliitto.fi/seksuaalisuus/miehet/nettipalvelut/kysy_asiantuntijalta/?E*num=113896&E*q=&E*keyword=0` & `http://www.vaestoliitto.fi/seksuaalisuus/miehet/nettipalvelut/kysy_asiantuntijalta/?E*num=567800&E*q=&E*keyword=0`
-[^8]: Esimerkiksi  (1. Kor. 7:2-5),  (Laul. l. 1:1-17) jne.
+[^8]: Esimerkiksi  ([1. Kor. 7:2-5](../books/1co.md)),  ([Laul. l. 1:1-17](../books/sng.md)) jne.
 [^9]: Väestöliitto osoittaa vapaamielisyytensä hyvin suoraan esimerkiksi virkkeissä "Sopivissa määrin ja muistaen, että kysymyksessä on aikuisten satu, porno voi olla hyväkin juttu." sekä "Mikään ei ole väärin, jos se tuntuu hyvältä. -- Kuitenkaan kenenkään toisen oikeuksia tai yksityisyyttä ei saa loukata ja lakia pitää noudattaa." [Väestöliitto: Rakastelu yksin eli itsetyydytys](http://www.terve.fi/parisuhde-ja-seksi/rakastele-yksin-se-tekee-hyvaa)
 [^10]: [Väestöliitto: Rakastelu yksin eli itsetyydytys](http://www.terve.fi/parisuhde-ja-seksi/rakastele-yksin-se-tekee-hyvaa)
 [^11]: [Porno väijyy kaikkialla](http://www.hs.fi/elama/art-2000004679123.html), Helsingin Sanomat (14.9.2009)

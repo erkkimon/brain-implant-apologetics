@@ -4,7 +4,7 @@ about: apologetics
 title: "Humen giljotiini"
 description: "En voi pidättäytyä lisäämästä näihin päätelmiin havaintoa, jolla voidaan, ehkäpä, nähdä jonkinlaista merkitystä."
 tags: [apowiki, tieteenfilosofia, tyngät]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Humen giljotiini".
@@ -28,7 +28,7 @@ Jokainen laki perustuu viime kädessä jonkinlaiseen käsitykseen siitä, mikä 
 1. Päättymätöntä perustelujen ketjua ei voi olla,
 1. Jos sama perustelu esiintyy perustelujen ketjussa toistuvasti, tätä kutsutaan kehäpäättelyksi.
 
-Viime kädessä päädytään sellaisiin arvostuksiin, joita ei perustella muilla arvostuksilla. [Humen giljotiini](https://fi.wikipedia.org/wiki/Humen_giljotiini)n perusteella siitä, miten asiat ovat, ei voida myöskään päätellä sitä, miten asioiden pitäisi olla. Vaihtoehdoiksi näyttää siis jäävän perustelemattomat itseisarvot, tai jonkun riittävän tiedollisen auktoriteetin varassa omaksutut itseisarvot.
+Viime kädessä päädytään sellaisiin arvostuksiin, joita ei perustella muilla arvostuksilla. [Humen giljotiinin](https://fi.wikipedia.org/wiki/Humen_giljotiini) perusteella siitä, miten asiat ovat, ei voida myöskään päätellä sitä, miten asioiden pitäisi olla. Vaihtoehdoiksi näyttää siis jäävän perustelemattomat itseisarvot, tai jonkun riittävän tiedollisen auktoriteetin varassa omaksutut itseisarvot.
 
 Varsinaista ongelmaa tämän kysymyksen kannalta ei olisi, jos kaikki päättäjät pitäisivät samoja asioita itseisarvoina. Silloinhan kysymys olisi melko hyvin logiikan ja empirian keinoin määritettävissä.[^2] Valitettavasti näin ei ole. Kun perimmäisissä päämäärissä on eroja, poliittista yhteisymmärrystä ei välttämättä tavoiteta pelkästään argumentaatioanalyysin ja tieteellisen tutkimuksen avulla, ja joissain kohdissa tulee väistämättä ratkeamattomia ristiriitatilanteita, kun erot päämäärissä painavat eri henkilöillä vaakakupit eri suuntiin.
 

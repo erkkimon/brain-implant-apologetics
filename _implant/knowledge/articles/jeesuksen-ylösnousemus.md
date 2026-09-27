@@ -4,7 +4,7 @@ about: apologetics
 title: "Jeesuksen ylösnousemus"
 description: "Kristinusko poikkeaa siten muista uskonnoista, että se perustuu olennaisesti historialliseen tapahtumaan, Jeesuksen ylösnousemukseen."
 tags: [apowiki, jeesus, ihmeet, historia, lukusuositukset]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jeesuksen ylösnousemus".
@@ -26,30 +26,30 @@ Jeesuksen ylösnousemus oli historiallinen tosiasia, jonka varaan varhaiset kris
 
 > Mutta ellei Kristusta ole herätetty, teidän uskonne on pohjaa vailla ja te olette yhä syntienne vallassa.
 >
-> — (1. Kor. 15:17)
+> — ([1. Kor. 15:17](../books/1co.md))
 
 Jeesuksen ylösnousemusta koskeva raamattukriittinen ja historiallinen tutkimus on ollut yksi suosituimmista tutkimusaiheista viimeisen parin vuosisadan aikana. Siksi on mielenkiintoista, ettei kriittinen tutkimus ole toistuvista yrityksistään huolimatta onnistunut kehittämään yhtään uskottavaa naturalistista teoriaa Jeesuksen ylösnousemusta koskeville historiallisille tosiasioille. Uuden testamentin tutkijoiden käsitykset Uuden testamentin historiallisesta luotettavuudesta vaihtelevat, mutta tutkijat ovat kuitenkin yleensä yhtä mieltä siitä, että Jeesuksen elämän loppuvaiheista ja kristillisen seurakunnan alkuvaiheista on olemassa joitakin historiallisia tosiasioita, jotka voimme tietää riittävällä varmuudella.
 
 **Gary Habermas**[^5] teki perusteellisen tutkimuksen siitä, mitä aikamme tutkijat yleensä ajattelevat ylösnousemuksesta. Hän tutki yli 1400 kaikkein kriittisintä tutkimusta ylösnousemuksesta vuosilta 1975-2003. Tutkimuksensa pohjalta Habermas[^6] luettelee 12 Jeesuksen ylösnousemukseen liittyvää historiallista tosiasiaa, joista enemmistö erityisesti tähän kysymykseen erikoistuneista tutkijoista on hämmästyttävän yksimielisiä lähtökohtaoletuksistaan riippumatta:
 
-#Jeesus kuoli roomalaisten ristiinnaulitsemana.
-#Hänet haudattiin todennäköisesti yksityiseen hautaan.
-#Jeesuksen kuoleman jälkeen opetuslapset olivat masentuneita, surevia ja toivonsa menettäneitä.
-#Jeesuksen haudan havaittiin olevan tyhjä hyvin pian hautauksen jälkeen.
-#Opetuslapsilla oli kokemuksia, joiden he uskoivat olevan ylösnousseen Jeesuksen ilmestyksiä.
-#Näiden kokemusten seurauksena opetuslasten elämä muuttui täysin, niin että he olivat valmiit kuolemaan uskonsa takia.
-#Jeesuksen ruumiillista ylösnousemusta alettiin julistaa hyvin varhain kristillisen seurakunnan historian alussa.
-#Opetuslapset alkoivat todistaa ja saarnata julkisesti Jeesuksen ylösnousemuksesta Jerusalemin kaupungissa, jossa Jeesus oli ristiinnaulittu ja haudattu vähän aikaisemmin.
-#Evankeliumin sanoma keskittyi Jeesuksen kuolemaan ja ylösnousemukseen.
-#Sunnuntaista tuli kristityille pääasiallinen kokoontumis ja rukouspäivä, vaikka suuri osa varhaisista kristityistä oli juutalaisia, jotka olivat lapsuudestaan asti oppineet pyhittämään sapatin lepopäiväksi.
-#Jeesuksen veli Jaakob, joka oli aikaisemmin epäilijä, kääntyi kun hän uskoi kohdanneensa ylösnousseen Kristuksen.
-#Vain muutamia vuosia myöhemmin Saulus Tarsolainen (Paavali) kääntyi uskovaksi kristityksi seurauksena kokemuksesta, jonka hän uskoi olleen ylösnousseen Jeesuksen ilmestys.
+1. Jeesus kuoli roomalaisten ristiinnaulitsemana.
+1. Hänet haudattiin todennäköisesti yksityiseen hautaan.
+1. Jeesuksen kuoleman jälkeen opetuslapset olivat masentuneita, surevia ja toivonsa menettäneitä.
+1. Jeesuksen haudan havaittiin olevan tyhjä hyvin pian hautauksen jälkeen.
+1. Opetuslapsilla oli kokemuksia, joiden he uskoivat olevan ylösnousseen Jeesuksen ilmestyksiä.
+1. Näiden kokemusten seurauksena opetuslasten elämä muuttui täysin, niin että he olivat valmiit kuolemaan uskonsa takia.
+1. Jeesuksen ruumiillista ylösnousemusta alettiin julistaa hyvin varhain kristillisen seurakunnan historian alussa.
+1. Opetuslapset alkoivat todistaa ja saarnata julkisesti Jeesuksen ylösnousemuksesta Jerusalemin kaupungissa, jossa Jeesus oli ristiinnaulittu ja haudattu vähän aikaisemmin.
+1. Evankeliumin sanoma keskittyi Jeesuksen kuolemaan ja ylösnousemukseen.
+1. Sunnuntaista tuli kristityille pääasiallinen kokoontumis ja rukouspäivä, vaikka suuri osa varhaisista kristityistä oli juutalaisia, jotka olivat lapsuudestaan asti oppineet pyhittämään sapatin lepopäiväksi.
+1. Jeesuksen veli Jaakob, joka oli aikaisemmin epäilijä, kääntyi kun hän uskoi kohdanneensa ylösnousseen Kristuksen.
+1. Vain muutamia vuosia myöhemmin Saulus Tarsolainen (Paavali) kääntyi uskovaksi kristityksi seurauksena kokemuksesta, jonka hän uskoi olleen ylösnousseen Jeesuksen ilmestys.
 
 Jeesuksen hauta oli tyhjä. Jos Jeesuksen vastustajat olivat varastaneet ruumiin, he olisivat voineet tuoda sen esille ja näin kumota kristittyjen väitteet. Jos Jeesuksen opetuslapset olivat varastaneet ruumiin, he tuskin olisivat olleet valmiit kuolemaan oman valheensa puolustukseksi. Uudessa testamentissa kerrotaan kahdestatoista eri tapauksesta, jolloin Jeesus ylösnousemisensa jälkeen ilmestyi seuraajilleen. Nämä ilmestykset eivät olleet jonkin yksittäisen ihmisen kokemia muutaman sekunnin pituisia hallusinaatioita, vaan tilanteita, joissa useat ihmiset yhdessä kohtasivat Jeesuksen. He koskettivat häntä fyysisesti, söivät ja joivat hänen kanssaan ja keskustelivat Jumalan valtakunnasta.
 
 > Heille hän myös monin kiistattomin todistein osoitti kuolemansa jälkeen olevansa elossa. Hän näyttäytyi heille neljänkymmenen päivän aikana useasti ja puhui Jumalan valtakunnasta.
 >
-> — (Apt. 1:3)
+> — ([Apt. 1:3](../books/act.md))
 
 Nykyisen tutkimustiedon valossa on ilmeistä, ettei mikään naturalistinen teoria pysty tekemään oikeutta näille historiallisille tosiasioille. Sen enempää hallusinaatioteoria, salaliittoteoria tai teoria, jonka mukaan ylösnousemus on hellenistisen kulttuurin ja jumaltarustojen pohjalta myöhemmin kehittynyt legenda, eivät ole kestäneet kritiikkiä. Kuten **Wolfgang Pannenberg** asian ilmaisee:
 
@@ -75,11 +75,11 @@ Silminnäkijätodistajista kaikkein merkittävimpiä olivat tietysti 12 opetusla
 
 > Myös te olette minun todistajiani, olettehan olleet kanssani alusta asti.
 >
-> — (Joh. 15:27)
+> — ([Joh. 15:27](../books/jhn.md))
 
 > Jo monet ovat ryhtyneet työhön ja laatineet kertomuksia niistä asioista, jotka meidän keskuudessamme ovat tapahtuneet, sen mukaan kuin meille ovat kertoneet ne, jotka alusta alkaen olivat silminnäkijöitä ja joista tuli sanan palvelijoita.
 >
-> — (Luuk 1:1-2)
+> — ([Luuk 1:1-2](../books/luk.md))
 
 Opetuslasten tehtävänä oli pitää huolta siitä, että Jeesusta koskeva tieto välitettiin uusille kristityille alkuperäisessä ja luotettavassa muodossa. He olivat evankeliumissa kerrottujen asioiden totuuden vakuutena ollessaan valmiita mieluummin kuolemaan kuin kieltämään evankeliumin. Evankeliumien saattaminen kirjalliseen asuun tähtäsi siihen, että silminnäkijöiden todistus tallentui luotettavassa muodossa myös niille ihmisille, jotka elävät sen jälkeen, kun silminnäkijätodistajat ovat jo kuolleet. Opetuslasten nimet on huolella lueteltu jokaisessa synoptisessa evankeliumissa, koska evankeliumit rakennettiin heidän todistuksensa varaan. Kun evankeliumissa mainitaan vähemmän tärkeiden henkilöiden nimiä, se johtuu tavallisesti siitä, että evankeliumit siltä osin rakentuvat heidän todistuksensa varaan.[^10]
 
@@ -102,7 +102,7 @@ On erittäin merkittävää, että jopa varhaiset juutalaiset argumentit myönt�
 >
 > — Matt. 28:11-15
 
-Matteuksen evankeliumin mukaan juutalaiset eivät yrittäneetkään väittää Jeesuksen olevan haudassa, vaan antoivat vaihtoehtoisen selityksen haudan tyhjentymiselle. Matteuksen evankeliumin kerronnan autenttisuutta tukee myös mm. juutalainen antievankeliumi, *[Toledot Jesu](http://en.wikipedia.org/wiki/Toledot_Yeshu)*, jonka mukaan hauta oli tyhjä siksi, että puutarhuri oli ottanut Jeesuksen pois haudastaan ja haudannut hänet puutarhaansa.[^21] Sen lisäksi 100-luvulla[^22] käydyssä **Trifonin** ja **Justinus Marttyyri <!-- red link: Justinus Marttyyri -->n** välisessä väittelyssä Trifon väittää haudan olevan tyhjä, koska opetuslapset olivat varastaneet ruumiin.[^23] Tertullianus vahvistaa tämän olevan juutalaisten selitys tyhjälle haudalle vuonna 197 kirjoitetussa, tunnetuimmassa teoksessaan *[Apologeticus](http://en.wikipedia.org/wiki/Apologeticus)*.[^24]
+Matteuksen evankeliumin mukaan juutalaiset eivät yrittäneetkään väittää Jeesuksen olevan haudassa, vaan antoivat vaihtoehtoisen selityksen haudan tyhjentymiselle. Matteuksen evankeliumin kerronnan autenttisuutta tukee myös mm. juutalainen antievankeliumi, *[Toledot Jesu](http://en.wikipedia.org/wiki/Toledot_Yeshu)*, jonka mukaan hauta oli tyhjä siksi, että puutarhuri oli ottanut Jeesuksen pois haudastaan ja haudannut hänet puutarhaansa.[^21] Sen lisäksi 100-luvulla[^22] käydyssä **Trifonin** ja **Justinus Marttyyrin <!-- red link: Justinus Marttyyri -->** välisessä väittelyssä Trifon väittää haudan olevan tyhjä, koska opetuslapset olivat varastaneet ruumiin.[^23] Tertullianus vahvistaa tämän olevan juutalaisten selitys tyhjälle haudalle vuonna 197 kirjoitetussa, tunnetuimmassa teoksessaan *[Apologeticus](http://en.wikipedia.org/wiki/Apologeticus)*.[^24]
 
 ### Vaihtoehtoteoriat tyhjälle haudalle
 
@@ -151,7 +151,7 @@ Oletetaan tilanne, jossa apostolit ovat kehittäneet mielikuvitukseensa perustuv
 
 [^1]: Weldon, John; Ankerberg, John, [The Evidence for the Resurrection of Christ](https://www.jashow.org/articles/general/the-evidence-for-the-resurrection-of-jesus-christpart-1/), Ankerberg Theological Research Institute, Can It Persuade Skeptics?, viitattu 19.4.2017 (*- - only Christianity stakes its claim to truthfulness on historical events open to critical investigation. And only this explains the number of conversions by skeptics throughout history.*)
 [^2]: (28:1-15)
-[^3]: (Mark.16:1-8)
+[^3]: ([Mark.16:1-8](../books/mrk.md))
 [^4]: (24:1-12)
 [^5]: Habermas, Gary, *The Risen Jesus & Future Hope*, Lanham: Rowman & Littlefield, 2003
 [^6]: Habermas, Gary, *The Risen Jesus & Future Hope*, Lanham: Rowman & Littlefield, 2003, s. 9-10

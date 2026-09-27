@@ -4,7 +4,7 @@ about: apologetics
 title: "Suunnitteluteoria"
 description: "39 ApoWiki-artikkelia aihepiiristä suunnitteluteoria — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, suunnitteluteoria]
-timestamp: 2026-09-25T23:30:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 
 # Suunnitteluteoria
@@ -46,7 +46,7 @@ Aihepiirin suunnitteluteoria artikkelit, tuotu [ApoWikistä](https://apowiki.fi)
 * [Tarkoituksellisuuspäättelyn kritiikki](../articles/tarkoituksellisuuspäättelyn-kritiikki.md) — Suunnitteluteoreettinen tarkoituksellisuuspäättely on synnyttänyt voimakkaita kannanottoja niin puolesta kuin vastaan.
 * [Tarkoituksellisuuspäättelyn logiikka](../articles/tarkoituksellisuuspäättelyn-logiikka.md) — Tarkoituksellisuuspäättely on suunnitteluteoreettinen päättely, joka johtaa tutkittavaan kohteeseen liittyvän suunnitteluhypoteesin vahvistamiseen….
 * [Teleologinen argumentti](../articles/teleologinen-argumentti.md) — Teleologisen argumentin lähtökohtana on luonnossa ilmenevä tarkoituksenmukaisuus (telos = päämäärä) ja järjestys.
-* [The Edge of Evolution (kirja)](../articles/the-edge-of-evolution-kirja.md) — The Edge of Evolution: The Search for the Limits of Darwinism (EOE) on biokemian professori Michael Behe n kirjoittama kirja, jossa hän käsittelee….
+* [The Edge of Evolution (kirja)](../articles/the-edge-of-evolution-kirja.md) — The Edge of Evolution: The Search for the Limits of Darwinism (EOE) on biokemian professori Michael Behen kirjoittama kirja, jossa hän käsittelee….
 * [The Privileged Planet (kirja)](../articles/the-privileged-planet-kirja.md) — The Privileged Planet on tähtitieteilijä Guillermo Gonzalezin ja filosofi Jay W.
 * [Tilke-DNA](../articles/tilke-dna.md) — Roska-DNA:lla viitataan usein DNA-jaksoihin, jotka eivät koodaa proteiineja tai joilla ei vaikuta olevan mitään selkeätä funktiota.
 * [Todennäköisyysrajojen vertailu](../articles/todennäköisyysrajojen-vertailu.md) — Suunnitteluteoreettisen tarkoituksellisuuspäättelyn keskeinen, vertaisarvioitu menetelmä on William Dembskin kehittämä, klassisen tilastotieteen….

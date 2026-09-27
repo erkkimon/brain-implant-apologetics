@@ -4,7 +4,7 @@ about: apologetics
 title: "Konstruktivistinen tietoteoria"
 description: "Konstruktivistista tietoteoriaa on mielekästä käsitellä kahdessa osassa sen mukaan, puhutaanko yksilön muodostamista tietorakenteista vai yhteisöllisistä tiedollisista järjestelmistä kuten tieteellisestä tiedosta."
 tags: [apowiki, filosofia, epistemologia, tieteenfilosofia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Konstruktivistinen tietoteoria".
@@ -84,12 +84,12 @@ Radikaali konstruktivismi yhdistää konstruktivistisen oppimiskäsityksen ja ko
 
 1. Tiedon kohteena ei ole havainnoitsijoista riippumaton maailma. Vaikka havainnoitsijoista riippumaton maailma on olemassa, ihminen ei voi saada siitä tietoa.
 1. Totuuden vastaavuusteoria (korrespondenssiteoria) on virheellinen. Ei ole mahdollista verrata ihmisten käsityksiä ja niiden kohteena olevan maailman asiaintiloja ja sillä tavalla varmistaa käsitysten todenperäisyyttä.
-#Yksilöt rakentavat tiedollisia käsityksiään historiallisessa ja kulttuurisessa viitekehyksessä, joka ratkaisevasti vaikuttaa heidän käsitystensä muodostumiseen. Heidän käsityksensä heijastelevat enemmän tätä viitekehystä kuin tiedon kohteena olevaa todellisuutta.
-#Tieto viittaa yksilön kokemukseen, ei maailmaan. Yksilön tiedolliset rakennelmat ovat yritystä tehdä selkoa hänen tavastaan kokea maailma. Koska tämä kokemus ei heijasta niinkään maailman rakennetta kuin yksilön omaa tiedollista viitekehystä, yksilön kokemus ei anna meille luotettavaa kuvaa maailmasta.
-#Tieto muodostuu yksilön käsitteellisistä rakenteista, jotka hän aktiivisesti muodostaa. Tällöin ratkaisevaa on yksilön luova panos, ei se, millainen tiedon kohteena oleva todellisuus on.
-#Käsitteelliset rakenteet ovat tietoa, kun yksilö pitää niitä mahdollisina suhteessa kokemukseensa. Tiedolta ei von Glasersfeldin mukaan voida vaatia sitä, että se vastaa todellisuutta. Riittää, että se jollakin tavalla sopii yhteen yksilön kokemuksen kanssa.
-#Ei ole olemassa yhtä ainoaa oikeaa käsitteellistä rakennetta. Ei ole olemassa yleispätevää tapaa arvioida käsitysten pätevyyttä. Tässä mielessä konstruktivismi on yksi relativismin muoto.
-#Tieto on kokemuksellisen todellisuuden sopivaa järjestämistä. On olemassa useita tapoja järjestää käsitteellisesti kokemustodellisuutta, eikä ole mahdollista vertailla niiden paremmuutta.
+1. Yksilöt rakentavat tiedollisia käsityksiään historiallisessa ja kulttuurisessa viitekehyksessä, joka ratkaisevasti vaikuttaa heidän käsitystensä muodostumiseen. Heidän käsityksensä heijastelevat enemmän tätä viitekehystä kuin tiedon kohteena olevaa todellisuutta.
+1. Tieto viittaa yksilön kokemukseen, ei maailmaan. Yksilön tiedolliset rakennelmat ovat yritystä tehdä selkoa hänen tavastaan kokea maailma. Koska tämä kokemus ei heijasta niinkään maailman rakennetta kuin yksilön omaa tiedollista viitekehystä, yksilön kokemus ei anna meille luotettavaa kuvaa maailmasta.
+1. Tieto muodostuu yksilön käsitteellisistä rakenteista, jotka hän aktiivisesti muodostaa. Tällöin ratkaisevaa on yksilön luova panos, ei se, millainen tiedon kohteena oleva todellisuus on.
+1. Käsitteelliset rakenteet ovat tietoa, kun yksilö pitää niitä mahdollisina suhteessa kokemukseensa. Tiedolta ei von Glasersfeldin mukaan voida vaatia sitä, että se vastaa todellisuutta. Riittää, että se jollakin tavalla sopii yhteen yksilön kokemuksen kanssa.
+1. Ei ole olemassa yhtä ainoaa oikeaa käsitteellistä rakennetta. Ei ole olemassa yleispätevää tapaa arvioida käsitysten pätevyyttä. Tässä mielessä konstruktivismi on yksi relativismin muoto.
+1. Tieto on kokemuksellisen todellisuuden sopivaa järjestämistä. On olemassa useita tapoja järjestää käsitteellisesti kokemustodellisuutta, eikä ole mahdollista vertailla niiden paremmuutta.
 
 Von Glasersfeldin mukaan inhimillinen tieto ei saavuta tarkkaa kuvaa tajunnan ulkopuolisesta todellisuudesta. Havainnot eivät anna ihmiselle sellaista kosketusta maailmaan, että hän pystyisi niiden avulla rakentamaan kuvan maailmasta sellaisena kuin se todella on. Parhaimmillaan inhimillinen tieto on vain yritystä rakentaa havaintojen pohjalta sellainen käsitys maailmasta, joka tekee mahdolliseksi selviämisen, eloonjäämisen.  Von Glasersfeldin mielestä on välttämätöntä luopua totuuden korrespondenssiteoriasta, jonka mukaan totuus on sitä, että tiedolliset väitteemme vastaavat todellisuutta.
 

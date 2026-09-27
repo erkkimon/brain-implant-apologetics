@@ -4,7 +4,7 @@ about: apologetics
 title: "Darwinian Fairytales (kirja)"
 description: "Vaikka australialainen filosofi David Stove on itse ateisti ja evolutionisti, hän kiinnittää kirjassaan Darwinian Fairytales: Selfish Genes, Errors of Heredity and Other Fables of Evolution huomiota siihen, että monien ajassamme…"
 tags: [apowiki, kirjat]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Darwinian Fairytales (kirja)".
@@ -22,7 +22,7 @@ Vaikka australialainen filosofi **[David Stove](david-stove.md)** on itse ateist
 
 ### Richard Dawkinsin satu itsekkäästä geenistä
 
-Stove ottaa yhdeksi esimerkiksi [Richard Dawkins](richard-dawkins.md)in ajatuksen ”itsekkäästä geenistä”.
+Stove ottaa yhdeksi esimerkiksi [Richard Dawkinsin](richard-dawkins.md) ajatuksen ”itsekkäästä geenistä”.
 
 > Dawkins oli kaikkia edeltäjiään nokkelampi ja ymmärsi, että koska geenit ovat salattuja, voimakkaita ja moraalittomia, ne tarjoavat aineistoa kirjalle ”Kuningas Geenin hovin salaisuudet ja skandaalit”. Mikään voima maan päällä ei olisi voinut estää tätä kirjaa menestymästä.
 >

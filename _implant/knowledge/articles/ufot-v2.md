@@ -4,7 +4,7 @@ about: apologetics
 title: "Ufot"
 description: "Viime vuosina elokuvateollisuus on entistä voimakkaammin ammentanut aiheita Ufoista, paranormaaleista ilmiöistä, ulkoavaruuden muukalaisista ja muista vastaavista yliluonnollisista tai muuten oudoista teemoista."
 tags: [apowiki, paranormaalit-ilmiöt]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ufot".
@@ -67,15 +67,15 @@ Raamatun mukaan yliluonnolliset ilmiöt jakaantuvat Jumalan aikaansaamiin ja saa
 
 > Mutta mitä hengellisiin lahjoihin tulee, niin en tahdo, veljet, pitää teitä niistä tietämättöminä. Te tiedätte, että kun olitte pakanoita, teitä vietiin mykkien epäjumalien luo, miten vain tahdottiin. Sentähden minä teen teille tiettäväksi, ettei kukaan, joka puhuu Jumalan Hengessä, sano: "Jeesus olkoon kirottu", ja ettei kukaan voi sanoa: "Jeesus olkoon Herra", paitsi Pyhässä Hengessä.
 >
-> — (1. Kor 12:1-3)
+> — ([1. Kor 12:1-3](../books/1co.md))
 
 > Sillä jos sinä tunnustat suullasi Jeesuksen Herraksi ja uskot sydämessäsi, että Jumala on hänet kuolleista herättänyt, niin sinä pelastut.
 >
-> — (Room 10:9)
+> — ([Room 10:9](../books/rom.md))
 
 > Rakkaani, älkää jokaista henkeä uskoko, vaan koetelkaa henget, ovatko ne Jumalasta; sillä monta väärää profeettaa on lähtenyt maailmaan. Tästä te tunnette Jumalan Hengen: jokainen henki, joka tunnustaa Jeesuksen Kristukseksi, lihaan tulleeksi, on Jumalasta; ja yksikään henki, joka ei tunnusta Jeesusta, ei ole Jumalasta; se on antikristuksen henki, jonka olette kuulleet olevan tulossa, ja se on jo nyt maailmassa
 >
-> — (1. Joh 4:1-3)
+> — ([1. Joh 4:1-3](../books/1jn.md))
 
 Alkukristillinen uskontunnustus oli kaikessa lyhykäisyydessään "Jeesus on Herra". Tämä ei kuitenkaan tarkoita, että Jeesus oli vain jokin "mister" muiden joukossa. Uudessa testamentissa käytetty kreikankielinen sana kyrios on täsmälleen sama nimitys, jota alkukristittyjen Vt, Septuaginta, käyttää Jumalasta, Jahvesta. Näin ollen juutalaisille ja proselyyteille tämä tunnustus merkitsi, että Jeesus on Jahve. Johannes käyttää termiä " Jeesus on Messias", joka sisältää ehkä vieläkin enemmän kuin "Jeesus on Herra". Kun kirjoitukset tunteva juutalainen tunnusti Jeesuksen Messiaaksi, hän tunnusti myös Jeesuksen olevan Jesajan kirjan "kärsivä Herran palvelija", joka sovitti ihmiskunnan synnit. Näin ollen tämä tunnustus sisällytti sovitusopin hyvin selkeänä ja kirkkaana. Suomenkielisenä lauseena "Jeesus on Herra" ei uskontunnustus ole välttämättä vielä täydellinen. On tärkeää tietää, mitä tällä "Herra" sanalla tarkoitetaan. Näin ollen yliluonnollisten sanomien sisällöstä tulee päätellä, onko se Uudessa testamentissa ilmoitetun kristillisen pelastussanoman mukainen.
 ### Ufojen sanoma
@@ -84,7 +84,7 @@ On varsin mielenkiintoista, että lukuisat Ufo-kontaktit väittävät saaneensa 
 
 > "Jos silloin joku sanoo teille: 'Katso, täällä on Kristus', tahi: 'Tuolla', niin älkää uskoko. Sillä vääriä kristuksia ja vääriä profeettoja nousee, ja he tekevät suuria tunnustekoja ja ihmeitä, niin että eksyttävät, jos mahdollista, valitutkin. Katso, minä olen sen teille edeltä sanonut. Sentähden, jos teille sanotaan: 'Katso, hän on erämaassa', niin älkää menkö sinne, tahi: 'Katso, hän on kammiossa', niin älkää uskoko. Sillä niinkuin salama leimahtaa idästä ja näkyy hamaan länteen, niin on oleva Ihmisen Pojan tulemus.
 >
-> — (Matt 24:23-27)
+> — ([Matt 24:23-27](../books/mat.md))
 
 Eduard Meierin Ufo-havaintoja on pidetty parhaiten dokumentoituna Ufo tapauksena historiassa. Meier kertoo saaneensa informaatiota suoraan Jeesukselta muukalaisten järjestämällä matkalla taaksepäin ajassa. Meierin saamat viestit kristinuskoa koskien olivat seuraavanlaisia:
 
@@ -151,7 +151,7 @@ Uusi testamentti opettaa, että pahuuden henkivallat ovat kristittyjen vihollisi
 
 > "Sillä meillä ei ole taistelu verta ja lihaa vastaan, vaan hallituksia vastaan, valtoja vastaan, tässä pimeydessä hallitsevia maailmanvaltiaita vastaan, pahuuden henkiolentoja vastaan taivaan avaruuksissa."
 >
-> — (Ef. 6:12)
+> — ([Ef. 6:12](../books/eph.md))
 
 Kuten aiemmin totesimme, Ufojen toiminta on monessa suhteessa negatiivista ja toteuttaa niiden "johtajan", saatanan suunnitelmia.
 
@@ -161,7 +161,7 @@ Efesolaiskirjeessä kerrotaan toisaalta myös näiden pahuuden henkivaltojen voi
 
 > "...jonka hän vaikutti Kristuksessa, kun hän herätti hänet kuolleista ja asetti hänet oikealle puolellensa taivaissa, korkeammalle kaikkea hallitusta ja valtaa ja voimaa ja herrautta ja jokaista nimeä, mikä mainitaan, ei ainoastaan tässä maailmanajassa, vaan myös tulevassa. Ja kaikki hän on asettanut hänen jalkainsa alle ja antanut hänet kaiken pääksi seurakunnalle."
 >
-> — (Ef 1:20-22)
+> — ([Ef 1:20-22](../books/eph.md))
 
 Jeesus on siis muukalaisten ja Ufojen yläpuolella.
 
@@ -169,13 +169,13 @@ Kun ihminen syntyy uudesti, hän siirtyy pimeyden (saatanan) valtakunnasta Jumal
 
 > "...häntä, joka on pelastanut meidät pimeyden vallasta ja siirtänyt meidät rakkaan Poikansa valtakuntaan."
 >
-> — (Kol 1:13)
+> — ([Kol 1:13](../books/col.md))
 
 Uudestisyntynyt kristitty on siis voittajan puolella ja "taistelu Ufoja vastaan" käydäänkin tästä näkökulmasta käsin. Mitkään pahuuden henkivallat eivät voi siirtää uudestisyntynyttä kristittyä Jumalan valtakunnasta pimeyden valtakuntaan ilman ihmisen omaa tahdon ratkaisua:
 
 > "Sillä minä olen varma siitä, ettei kuolema eikä elämä, ei enkelit eikä henkivallat, ei nykyiset eikä tulevaiset, ei voimat, ei korkeus eikä syvyys, eikä mikään muu luotu voi meitä erottaa Jumalan rakkaudesta, joka on Kristuksessa Jeesuksessa, meidän Herrassamme."
 >
-> — (Room 8:38-39)
+> — ([Room 8:38-39](../books/rom.md))
 
 Vaikka kristitty on voittajan puolella, ei vastustajaa tule aliarvioida. Ylimielinen suhtautuminen pahuuden henkivaltoihin on usein kostautunut. On syytä tuntea myös ne tavat ja aseet, joilla kristityn tulee taistella henkivaltoja vastaan.
 
@@ -187,7 +187,7 @@ Tutkija George Otis kertoo erään lähetyssaarnaajan kokemuksen Jeesus-nimen vo
 
 > "Hetki saapumisemme jälkeen tämä meedio joutui henkien valtaan, mm laman kutsuman talojumalan. Katselimme hämmästyneinä, kun demonit ottivat hänet valtaansa ja kuinka hän otti hehkuvan hiilen ja pani sen suuhunsa. Hänen pureskellessaan hehkuvia hiiliä munkki levitoi (nousi) melkein kahden metrin korkeuteen. Hän istui jalat ristillä ja alkoi lentää ympyränmuotoista rataa huoneessa. Hänen liikkuessaan huoneessa ihmiset kumarsivat syvän kunnioituksen vallassa huutaen "Jumala! Jumala!" Tätä kesti noin kaksi minuuttia ennen kuin minä ja vaimoni emme enää kestäneet tätä perversiota kauempaa ja aloimme lausua Jeesuksen nimeä Oraakkeli tipahti lattialle."
 
-Munkin levitoimisen aiheuttaneet demonit "pelästyivät" Jeesuksen nimeä ja menettivät tilanteen hallinnan. [^34] "Vaikka jotkut eksorkistit ottivat loitsuihinsa myös Jeesuksen nimen jo ensimmäisellä vuosisadalla ( (Apt 19:13-16)) ja myöhemminkin, vaikuttaa siltä, että nimen käyttöön tulee olla oikeutus. Luukas antaa ymmärtää näin Apt. 19. luvussa, jonka opetuksellinen tarkoitus on mitä ilmeisimmin juuri mainitsemamme nimenkäyttöoikeus. Ihmisen tule tunnustaa Jeesus elämänsä herraksi, eli tulla hänen opetuslapsekseen, ennen kuin hänellä on varsinainen nimenkäyttöoikeus. Yksi keskeisimpiä piirteitä Jeesuksen opetuslapsessa on muiden jumalien hylkääminen. Todellinen kristitty ei voi harrastaa esimerkiksi spiritismiä, astrologiaa, korteista ennustamista jne.
+Munkin levitoimisen aiheuttaneet demonit "pelästyivät" Jeesuksen nimeä ja menettivät tilanteen hallinnan. [^34] "Vaikka jotkut eksorkistit ottivat loitsuihinsa myös Jeesuksen nimen jo ensimmäisellä vuosisadalla ( ([Apt 19:13-16](../books/act.md))) ja myöhemminkin, vaikuttaa siltä, että nimen käyttöön tulee olla oikeutus. Luukas antaa ymmärtää näin Apt. 19. luvussa, jonka opetuksellinen tarkoitus on mitä ilmeisimmin juuri mainitsemamme nimenkäyttöoikeus. Ihmisen tule tunnustaa Jeesus elämänsä herraksi, eli tulla hänen opetuslapsekseen, ennen kuin hänellä on varsinainen nimenkäyttöoikeus. Yksi keskeisimpiä piirteitä Jeesuksen opetuslapsessa on muiden jumalien hylkääminen. Todellinen kristitty ei voi harrastaa esimerkiksi spiritismiä, astrologiaa, korteista ennustamista jne.
 
 ### Rukous ja demonit
 
@@ -197,7 +197,7 @@ Rukouksella voidaan katsoa olevan demonista toimintaa ehkäisevä vaikutus. Täm
 
 Rukouksella näyttää olevan spritualistista toimintaa ehkäisevä ja haittaava vaikutus. Mm. saksalainen tutkija ja teologian tohtori Kurt Koch kertoo lukuisia esimerkkejä siitä, kuinka rukoukset ovat estäneet tiettyjä okkultistisia toimintoja, kuten varvulla kaivon hakemista.[^36] Neil Anderson[^37] kertoo tapauksesta, jossa meedio nuhteli kristittyä poikaansa, joka oli rukoillut äitinsä puolesta. Äidin aura oli häiriintynyt rukouksien tähden. Anderson kertoo myös uskoon tulleesta satanistista, joka piti palavaa rukousta tehokkaimpana aseena demoneita vastaan. Kyseiset kokemukset sopivat hyvin yhteen Raamatun opetuksen kanssa.
 
-Jeesus mainitsi myös rukouksen tarpeellisuudesta demonisen toiminnan (myös Ufojen) vastalääkkeenä.  (Mark 9:29) Jeesus mainitsee joistakin demonilajeista, että ne eivät lähde muuta kuin rukouksella ja paastolla.[^38]
+Jeesus mainitsi myös rukouksen tarpeellisuudesta demonisen toiminnan (myös Ufojen) vastalääkkeenä.  ([Mark 9:29](../books/mrk.md)) Jeesus mainitsee joistakin demonilajeista, että ne eivät lähde muuta kuin rukouksella ja paastolla.[^38]
 
 ### Lopuksi
 

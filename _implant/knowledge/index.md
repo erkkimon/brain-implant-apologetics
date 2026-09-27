@@ -9,6 +9,8 @@ and point here to the skill.
 
 * [Raamatun kirjat](books/index.md) — the book spine: 66 books under their
   two testaments, each bound to the theology implant, which owns the spine.
+* [Sanasto](glossary/index.md) — ApoWiki's official glossary (413 terms) and
+  the fixed English rendering of each term, which is the translation contract.
 * [Aihepiirit](topics/index.md) — topic pages built from ApoWiki's own
   categories; every article links back to its topics.
 * `articles/` — the 471 ApoWiki articles, converted mechanically from the

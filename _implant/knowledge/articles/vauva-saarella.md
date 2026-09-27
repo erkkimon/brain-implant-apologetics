@@ -4,7 +4,7 @@ about: apologetics
 title: "Vauva saarella"
 description: "Analogia on sekä tieteessä että arkiajattelussa hyvin yleinen tapa selittää asioita."
 tags: [apowiki, parodiset-artikkelit]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-09-27T13:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Vauva saarella".
@@ -25,10 +25,10 @@ Analogia on sekä tieteessä että arkiajattelussa hyvin yleinen tapa selittää
 Oletetaan hypoteettinen tilanne, jossa autiolta saarelta löytyy korissa jokelteleva vauva. Vauva on biokemiallista tasoa myöten kaikkien tuntemiemme vauvojen kaltainen. Perimässä on vieläpä merkittävästi samankaltaisuuksia suomalaisen geenipoolin kanssa. Kysymys kuuluu, miten tämä vauva on syntynyt?
 
 #### Hypoteesi 1
-Vauva on syntynyt täysin ateleonomisten prosessien, eli tässä tapauksessa eroosion ja aineen itsestäänjärjestäytymisen tuloksena. Tälle selitykselle voidaan laskea alustava todennäköisyys, ja se tarjoaa paljon virikkeitä jatkotutkimukselle, eli tämä selitys on hyvä.
+Vauva on syntynyt täysin [ateleonomisten](../glossary/sanasto.md#ateleonominen) prosessien, eli tässä tapauksessa eroosion ja aineen itsestäänjärjestäytymisen tuloksena. Tälle selitykselle voidaan laskea alustava todennäköisyys, ja se tarjoaa paljon virikkeitä jatkotutkimukselle, eli tämä selitys on hyvä.
 
 #### Hypoteesi 2
-Vauva on syntynyt naisihmisen kohdusta. Tämä selitys on huono, koska se ei kerro, kuka on äiti, miten vauva on päätynyt saarelle, miksi se on yksin saarella tai mikä vauvan sukupuoli on. Selitys ei tee testattavia ennusteita (ainakaan tässä tapauksessa, for the sake of the argument). Selitys ei anna tarkkaa todennäköisyyttä kyseisen äidin olemassaololle, se kun ei edes yksilöi tuota äitiä. Tässä selityksessä piiloudutaan kategorioiden "vauva" ja "nainen" taakse. Eihän monien vauvojen syntyminen naisen kohdusta todista mielivaltaisen vauvan syntymistä mielivaltaisen naisen kohdusta. Todelliset tieteelliset syntyhypoteesit ovat itsenäisesti testattavia ideoita, eivätkä muissa ideoissa loisivia negaatioita: "koska vauva on liian monimutkainen syntyäkseen eroosion ja aineen itsestäänjärjestäytymisen tuloksena, sen synty on järkevintä selittää samalla tavalla kuin kaikkien muidenkin vauvojen". Tällainen argumentointi on pelkkää käsienheiluttelua. Metafyysiseen maailmankuvaansa tällaisia vauvansyntyselityksiä voi tietysti vapaasti sisällyttää, kunhan ei vaadi niille tieteellistä asemaa.
+Vauva on syntynyt naisihmisen kohdusta. Tämä selitys on huono, koska se ei kerro, kuka on äiti, miten vauva on päätynyt saarelle, miksi se on yksin saarella tai mikä vauvan sukupuoli on. Selitys ei tee testattavia ennusteita (ainakaan tässä tapauksessa, for the sake of the argument). Selitys ei anna tarkkaa todennäköisyyttä kyseisen äidin olemassaololle, se kun ei edes yksilöi tuota äitiä. Tässä selityksessä piiloudutaan kategorioiden "vauva" ja "nainen" taakse. Eihän monien vauvojen syntyminen naisen kohdusta todista mielivaltaisen vauvan syntymistä mielivaltaisen naisen kohdusta. Todelliset tieteelliset syntyhypoteesit ovat itsenäisesti testattavia ideoita, eivätkä muissa ideoissa loisivia negaatioita: "koska vauva on liian monimutkainen syntyäkseen eroosion ja aineen itsestäänjärjestäytymisen tuloksena, sen synty on järkevintä selittää samalla tavalla kuin kaikkien muidenkin vauvojen". Tällainen argumentointi on pelkkää käsienheiluttelua. Metafyysiseen maailmankuvaansa tällaisia vauvansyntyselityksiä voi tietysti vapaasti sisällyttää, kunhan ei vaadi niille [tieteellistä](../glossary/sanasto.md#tieteellinen) asemaa.
 
 ### Aiheesta muualla
 #### ApologetiikkaWiki
