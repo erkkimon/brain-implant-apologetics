@@ -2,7 +2,7 @@
 type: skill
 title: Translate an article into English
 description: "Use when translating a converted Finnish ApoWiki article into English: a small local model does the prose, ApoWiki's own glossary (Sanasto) fixes the terminology, and deterministic checks (links, footnotes, glossary terms) decide whether a chunk is accepted. Frontier-model tokens are spent only on review."
-timestamp: 2026-10-02T02:00:00Z
+timestamp: 2026-10-02T03:30:00Z
 depends_on: [skills/convert-apowiki-to-articles.md]
 tools:
   - skills/tools/apowiki_glossary.py
@@ -86,6 +86,13 @@ of them. Finnish is matched by word stem, so inflected forms (*naturalismin*,
    Output goes to `_temp/translations/`. The default model is the 9B Qwen
    3.5, the best of the models that were available in the trial. Change it
    with `--model`.
+   A shared Ollama that holds one model at a time can leave the translator
+   waiting behind someone else's work for hours. In that case, run
+   llama.cpp's `llama-server` on the same GGUF file Ollama stores (the
+   model blob named in Ollama's manifest), with `-c 8192`. Then point the
+   translator at its OpenAI-compatible URL, which ends in `/v1`:
+   `TRANSLATE_ENDPOINT=http://127.0.0.1:<port>/v1`. Thinking stays off on
+   both backends.
 5. **Review** with a strong model or a human: read the English against the
    Finnish for meaning, especially negations and hedges (*melko varmasti*
    is "almost certainly", not "certainly"). Blocks marked

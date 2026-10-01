@@ -219,6 +219,8 @@ def chunks(blocks: list[tuple[str, str]]) -> list[tuple[str, str]]:
 # ---------------------------------------------------------------------------
 
 def generate(endpoint: str, model: str, prompt: str) -> str:
+    if endpoint.rstrip("/").endswith("/v1"):
+        return generate_openai(endpoint, model, prompt)
     body = json.dumps({"model": model, "prompt": prompt, "stream": False,
                        "think": False,
                        "options": {"temperature": 0.2, "num_ctx": 8192}})
@@ -227,6 +229,23 @@ def generate(endpoint: str, model: str, prompt: str) -> str:
                                  headers={"Content-Type": "application/json"})
     with urllib.request.urlopen(req, timeout=3600) as r:
         return json.load(r).get("response", "").strip()
+
+
+def generate_openai(endpoint: str, model: str, prompt: str) -> str:
+    """An OpenAI-compatible server, such as llama.cpp's llama-server on the
+    same GGUF the Ollama model uses. A shared Ollama holding one model at a
+    time can starve the translator behind another user's embedding stream
+    (2026-10-02: no generate call ran for over an hour); a private server
+    cannot be preempted. Thinking stays off, as with Ollama's think=False."""
+    body = json.dumps({"model": model, "stream": False, "temperature": 0.2,
+                       "messages": [{"role": "user", "content": prompt}],
+                       "chat_template_kwargs": {"enable_thinking": False}})
+    req = urllib.request.Request(f"{endpoint.rstrip('/')}/chat/completions",
+                                 data=body.encode(),
+                                 headers={"Content-Type": "application/json"})
+    with urllib.request.urlopen(req, timeout=3600) as r:
+        msg = json.load(r)["choices"][0]["message"]
+    return (msg.get("content") or "").strip()
 
 
 def translate_chunk(text, rules, endpoint, model, retries, dry):
@@ -272,7 +291,10 @@ def main() -> int:
     ap.add_argument("--model", default=DEFAULT_MODEL)
     ap.add_argument("--out", type=Path, default=Path("_temp/translations"))
     ap.add_argument("--endpoint",
-                    default=os.environ.get("OLLAMA_HOST", "http://localhost:11434"))
+                    default=os.environ.get("TRANSLATE_ENDPOINT")
+                    or os.environ.get("OLLAMA_HOST", "http://localhost:11434"),
+                    help="Ollama base URL, or an OpenAI-compatible one "
+                         "ending in /v1 (TRANSLATE_ENDPOINT)")
     ap.add_argument("--retries", type=int, default=2)
     ap.add_argument("--dry-run", action="store_true",
                     help="split and match glossary terms, call no model")
