@@ -4,7 +4,7 @@ about: apologetics
 title: "Gematria"
 description: "Kuva: Jakob Böhmen käyttämän symbolin keskellä on kolmio, jossa tetragrammatonin heprealaisista kirjaimista (JHWH) muodostettu tetraktys."
 tags: [apowiki]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T20:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Gematria".
@@ -43,131 +43,38 @@ Toinen esimerkki ovat [heprealaiset luvut](https://fi.wikipedia.org/wiki/Hepreal
 ### Koodi
 Heprealaisten aakkosten numeroarvot [^6]
 
-```wikitext
-{| border="1"
-|-
-!Arvo
-!Kirjain
-!Merkki
-|-
-|1
-|*Alef*
-| א
-|-
-|2
-|*Beit*
-| ב
-|-
-|3
-|*Gimel*
-| ג
-|-
-|4
-|*Dalet*
-| ד
-|-
-|5
-|*He*
-| ה
-|-
-|6
-|*Vav*
-| ו
-|-
-|7
-|*Zajin*
-| ז
-|-
-|8
-|*Chet*
-| ח
-|-
-|9
-|*Tet*
-| ט
-|-
-|10
-|*Jod*
-| י
-|-
-|20
-|*Kaf*
-| כ, ך
-|-
-|30
-|*Lamed*
-| ל
-|-
-|40
-|*Mem*
-| מ, ם
-|-
-|50
-|*Nun*
-| נ, ן
-|-
-|60
-|*Samekh*
-| ס
-|-
-|70
-|*Ajin*
-| ע
-|-
-|80
-|*Pe*
-| פ, ף
-|-
-|90
-|*Tsade*
-| צ, ץ
-|-
-|100
-|*Quf*
-| ק
-|-
-|200
-|*Resh*
-| ר
-|-
-|300
-|*Shin*
-| ש
-|-
-|400
-|*Tav*
-| ת
-|}
-```
+| Arvo | Kirjain | Merkki |
+|---|---|---|
+| 1 | *Alef* | א |
+| 2 | *Beit* | ב |
+| 3 | *Gimel* | ג |
+| 4 | *Dalet* | ד |
+| 5 | *He* | ה |
+| 6 | *Vav* | ו |
+| 7 | *Zajin* | ז |
+| 8 | *Chet* | ח |
+| 9 | *Tet* | ט |
+| 10 | *Jod* | י |
+| 20 | *Kaf* | כ, ך |
+| 30 | *Lamed* | ל |
+| 40 | *Mem* | מ, ם |
+| 50 | *Nun* | נ, ן |
+| 60 | *Samekh* | ס |
+| 70 | *Ajin* | ע |
+| 80 | *Pe* | פ, ף |
+| 90 | *Tsade* | צ, ץ |
+| 100 | *Quf* | ק |
+| 200 | *Resh* | ר |
+| 300 | *Shin* | ש |
+| 400 | *Tav* | ת |
 
-```wikitext
-{| border="1"
-|-
-!Arvo
-!Kirjain
-!Merkki
-|-
-|500
-|*Kaf*
-|ך
-|-
-|600
-|*Mem*
-|ם
-|-
-|700
-|*Nun*
-|ן
-|-
-|800
-|*Pe*
-|ף
-|-
-|900
-|*Tsade*
-|ץ
-|}
-```
+| Arvo | Kirjain | Merkki |
+|---|---|---|
+| 500 | *Kaf* | ך |
+| 600 | *Mem* | ם |
+| 700 | *Nun* | ן |
+| 800 | *Pe* | ף |
+| 900 | *Tsade* | ץ |
 
 ### Lähteet
 

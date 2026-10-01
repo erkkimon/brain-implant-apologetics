@@ -4,7 +4,7 @@ about: apologetics
 title: "Kreationismi"
 description: "\"Kreationismi\" on yleisnimitys käsityksille, joiden mukaan havaintotodellisuus (kaikkeus ja sen elolliset olennot) ovat olemassa tarkoituksellisesti luotuina."
 tags: [apowiki, luomisoppi]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T20:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kreationismi".
@@ -67,38 +67,14 @@ On myös kreationisteja, jotka kannattavat käsitystä vanhasta maapallosta; tä
 
 Kuten evoluutioteorian eri suuntausten lajittelemiseksi, myös kreationismin eri lajien luokittelemiseksi on tehty useita yrityksiä. Vakiintunein niistä lienee jo edellä todettu jako kahteen sen perusteella, mitä maapallon geologisen historian keston suuruusluokasta ajatellaan.
 
-```wikitext
-{|
-|-
-! | Kreationismiin[^19] luettavat näkemykset
-! | **Äskettäisluomisnäkemys <!-- red link: Äskettäisluomisnäkemys -->**[^20]
-! | **Muinaisluomisnäkemys <!-- red link: Muinaisluomisnäkemys -->**[^21]
-|-
-| style="background-color:#ddd;" | **Ihminen**
-| Jumalan kuvakseen luoma maapallon kuudennen vuorokauden[^22] aikana Raamatun kuvauksen mukaisesti: **Aatami** ja **Eeva** luotu erikseen, enintään noin 10.000 vuotta sitten. Historiallinen syntiinlankeemus.
-| Jumalan luoma noin 100.000 – 20.000 vuotta sitten. Aatami ja Eeva luotu erikseen.
-|-
-| style="background-color:#ddd;" | **Biologiset lajit**
-| <!-- Ei pidä makroevoluutiota uskottavana. -->Kieltää uusien [perusryhmien](https://fi.wikipedia.org/wiki/perusryhmä) synnyn<!--([wp:makroevoluutio](https://fi.wikipedia.org/wiki/makroevoluutio))-->, muuntelusta empiiristä näyttöä: Alkuperäislajit eli heprealaisittain *baramini*t, joiden mahdollisia nykybiologisia vastineita perusryhmät ovat, ovat Jumalan alussa[^23] luomia. Näiden sisäistä muuntelua ja "lajiutumista"[^24] havaitaan (niin sanottu [mikroevoluutio](https://fi.wikipedia.org/wiki/mikroevoluutio)), sen sijaan rajoittamaton [makroevoluutio](https://fi.wikipedia.org/wiki/makroevoluutio) ei ole uskottava.
-| Tyypillisesti ei kannata [makroevoluutioteoriaa](https://fi.wikipedia.org/wiki/makroevoluutio) (uusien elinten tai muun laadullisesti uuden synty), mutta hyväksyy [mikroevoluution](https://fi.wikipedia.org/wiki/mikroevoluutio) (muuntelu lajien / [perusryhmien](https://fi.wikipedia.org/wiki/perusryhmä) sisällä). Tyypillisesti "pätkittäinen" luominen sopivina pidettyinä ajankohtina. Ei yksittäistä yhteistä esivanhempaa.
-|-
-| style="background-color:#ddd;" | **Maapallo**
-| Ei hyväksy miljardien vuosien [ikää](https://fi.wikipedia.org/wiki/Iänmääritys): maapallo ja aurinkokunta alle 40.000 vuoden ikäisiä, tyypillisesti noin 10.000 vuotta; maan pinta maailmanlaajuisen tulvan muokkaama.
-| Pitää maapallon suurta ikää luotettavana: 4,3 miljardia vuotta. Tyypillisesti paikallinen Nooan tulva.
-|-
-| style="background-color:#ddd;" | **Kaikkeus**
-| Saattaa hyväksyä miljardien vuosien [iän](https://fi.wikipedia.org/wiki/Iänmääritys) kaikkeuden meistä etäisille osille, mikäli käytetään yleistä suhteellisuusteoriaa ja [aikadilataatiota](https://fi.wikipedia.org/wiki/Erityinen_suhteellisuusteoria) <!-- red link: aikadilataatio --> maapallolla ([**Hartnett**in](john-hartnettin-kosmologinen-malli.md) ja **Humphreys**in[^25] kosmologiat).[^26]
-| 17–14 miljardia vuotta.
-|-
-| style="background-color:#ddd;" | **Perusteoksia muiden muassa**
-| **Morris** & **Whitcomb**: *The Genesis Flood*, 1961
-| **Ross**: *The Creator and the Cosmos*, 1993
-|-
-| style="background-color:#ddd;" | **Tunnettuja edustajia kirkkohistoriassa**
-| **Origenes**, **Augustinus**, **Tuomas Akvinolainen**, **Luther**, **Calvin** [^27]
-|
-|}
-```
+| \| Kreationismiin[^19] luettavat näkemykset | \| **Äskettäisluomisnäkemys <!-- red link: Äskettäisluomisnäkemys -->**[^20] | \| **Muinaisluomisnäkemys <!-- red link: Muinaisluomisnäkemys -->**[^21] |
+|---|---|---|
+| **Ihminen** | Jumalan kuvakseen luoma maapallon kuudennen vuorokauden[^22] aikana Raamatun kuvauksen mukaisesti: **Aatami** ja **Eeva** luotu erikseen, enintään noin 10.000 vuotta sitten. Historiallinen syntiinlankeemus. | Jumalan luoma noin 100.000 – 20.000 vuotta sitten. Aatami ja Eeva luotu erikseen. |
+| **Biologiset lajit** | <!-- Ei pidä makroevoluutiota uskottavana. -->Kieltää uusien [perusryhmien](https://fi.wikipedia.org/wiki/perusryhmä) synnyn<!--([wp:makroevoluutio](https://fi.wikipedia.org/wiki/makroevoluutio))-->, muuntelusta empiiristä näyttöä: Alkuperäislajit eli heprealaisittain *baramini*t, joiden mahdollisia nykybiologisia vastineita perusryhmät ovat, ovat Jumalan alussa[^23] luomia. Näiden sisäistä muuntelua ja "lajiutumista"[^24] havaitaan (niin sanottu [mikroevoluutio](https://fi.wikipedia.org/wiki/mikroevoluutio)), sen sijaan rajoittamaton [makroevoluutio](https://fi.wikipedia.org/wiki/makroevoluutio) ei ole uskottava. | Tyypillisesti ei kannata [makroevoluutioteoriaa](https://fi.wikipedia.org/wiki/makroevoluutio) (uusien elinten tai muun laadullisesti uuden synty), mutta hyväksyy [mikroevoluution](https://fi.wikipedia.org/wiki/mikroevoluutio) (muuntelu lajien / [perusryhmien](https://fi.wikipedia.org/wiki/perusryhmä) sisällä). Tyypillisesti "pätkittäinen" luominen sopivina pidettyinä ajankohtina. Ei yksittäistä yhteistä esivanhempaa. |
+| **Maapallo** | Ei hyväksy miljardien vuosien [ikää](https://fi.wikipedia.org/wiki/Iänmääritys): maapallo ja aurinkokunta alle 40.000 vuoden ikäisiä, tyypillisesti noin 10.000 vuotta; maan pinta maailmanlaajuisen tulvan muokkaama. | Pitää maapallon suurta ikää luotettavana: 4,3 miljardia vuotta. Tyypillisesti paikallinen Nooan tulva. |
+| **Kaikkeus** | Saattaa hyväksyä miljardien vuosien [iän](https://fi.wikipedia.org/wiki/Iänmääritys) kaikkeuden meistä etäisille osille, mikäli käytetään yleistä suhteellisuusteoriaa ja [aikadilataatiota](https://fi.wikipedia.org/wiki/Erityinen_suhteellisuusteoria) <!-- red link: aikadilataatio --> maapallolla ([**Hartnett**in](john-hartnettin-kosmologinen-malli.md) ja **Humphreys**in[^25] kosmologiat).[^26] | 17–14 miljardia vuotta. |
+| **Perusteoksia muiden muassa** | **Morris** & **Whitcomb**: *The Genesis Flood*, 1961 | **Ross**: *The Creator and the Cosmos*, 1993 |
+| **Tunnettuja edustajia kirkkohistoriassa** | **Origenes**, **Augustinus**, **Tuomas Akvinolainen**, **Luther**, **Calvin** [^27] |  |
 
 <!--
 #### Äskettäisluomisnäkemys[^20]
@@ -229,25 +205,9 @@ Kreationismin ja suunnitteluteorian välisen suhteen voi tiivistää toteamuksee
 
 ### Katso myös
 
-```wikitext
-{|width=100%
-|-valign=top
-|width=33%|
-* [Alkuhistorianäkemykset](alkuhistorianäkemykset.md)
-* [Kelloseppävertaus](https://fi.wikipedia.org/wiki/Kelloseppävertaus) <!-- red link: Kelloseppävertaus -->
-* [Kosmologinen argumentti](kosmologinen-argumentti.md)
-* [Lentävä spagettihirviö](lentävä-spagettihirviö.md)
-* [Luomiskertomus](https://fi.wikipedia.org/wiki/Raamatun_luomiskertomus) <!-- red link: Luomiskertomus -->
-* [Luonnonteologia](https://fi.wikipedia.org/wiki/Luonnollinen_teologia) <!-- red link: Luonnonteologia -->
-|width=33%|
-* [Suunnitteluteoria ja kreationismi](suunnitteluteoria-ja-kreationismi.md)
-* [Teismi](teismi.md)
-* [Teleologinen argumentti](teleologinen-argumentti.md)
-* [Ussherin–Lightfootin kalenteri](https://fi.wikipedia.org/wiki/Ussherin–Lightfootin_kalenteri) <!-- red link: Ussherin–Lightfootin kalenteri -->
-* [Suunnitteluteoria](suunnitteluteoria.md)
-
-|}
-```
+|  |  |
+|---|---|
+| * [Alkuhistorianäkemykset](alkuhistorianäkemykset.md)<br>* [Kelloseppävertaus](https://fi.wikipedia.org/wiki/Kelloseppävertaus) <!-- red link: Kelloseppävertaus --><br>* [Kosmologinen argumentti](kosmologinen-argumentti.md)<br>* [Lentävä spagettihirviö](lentävä-spagettihirviö.md)<br>* [Luomiskertomus](https://fi.wikipedia.org/wiki/Raamatun_luomiskertomus) <!-- red link: Luomiskertomus --><br>* [Luonnonteologia](https://fi.wikipedia.org/wiki/Luonnollinen_teologia) <!-- red link: Luonnonteologia --> | * [Suunnitteluteoria ja kreationismi](suunnitteluteoria-ja-kreationismi.md)<br>* [Teismi](teismi.md)<br>* [Teleologinen argumentti](teleologinen-argumentti.md)<br>* [Ussherin–Lightfootin kalenteri](https://fi.wikipedia.org/wiki/Ussherin–Lightfootin_kalenteri) <!-- red link: Ussherin–Lightfootin kalenteri --><br>* [Suunnitteluteoria](suunnitteluteoria.md) |
 
 ### Aiheesta muualla
 

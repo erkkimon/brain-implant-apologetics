@@ -4,7 +4,7 @@ about: apologetics
 title: "Maailman ikä - tieteellinen näkökulma"
 description: "Tämän sivun tavoite on verrata nuoren (YEC) ja vanhan (OEC) iän kreationistien kantoja tieteellisen aineiston perusteella."
 tags: [apowiki, luomisoppi]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T20:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Maailman ikä - tieteellinen näkökulma".
@@ -25,163 +25,30 @@ Todennäköisyydet tässä ovat henkilökohtaisia arvioita. Niitä muuttavat se,
 ### Taulukko todisteista luonnossa
 Allaoleva taulukko listaa luonnontieteellisiä todisteita ja niiden todennäköisyyttä YEC ja OEC kantojen alla. Mikäli kanta siis selittää hyvin havaitun asiantilan,  Mitä suurempi näiden osatodennäköisyyksien tulo on, sitä todennäköisempi itse kanta on.
 
-```wikitext
-{| class="prettytable"
-| Havainto
-| YEC
-| p<sub>YEC</sub>
-| OEC
-| p<sub>OEC</sub>
-
-|-
-| Geologian radioaktiiviset Mryr isotoopit
-| Vaatii kiihdytetyn hajoamisen, mekanismi (jos ei suora puuttuminen) auki ja kiihdytetystä hajoamisesta seuraa liikaa lämpöä. Toisaalta selittäisi systemaattiset offsetit
-| 0.1
-|
-| 1
-
-|-
-| Radiohiili
-| Selittäisi 14C:n taustanäytteissä. Toisaalta 14C kalibroinnin kronologiat menevät yli yleisen YEC kronologian
-| 0.5
-| Ongelmia selittää 14C:tä taustanäytteissä.
-| 0.5
-
-|-
-| TL/OSL
-| Kiihdytetty hajoaminen selittäisi ehkä suuret säteilymäärät, toisaalta kuumentuminen olisi ehkä nollannut kellot, palataan siis yo. ylilämmitys ongelmaan
-| 0.5
-| Menetelmä ei anna täysin sopivia tuloksia muihin menetelmiin verrattuna. Tulosten hylkäämiseen löytyy hyvä syy tarvittaessa.
-| 0.9
-
-|-
-| Radiohalot
-|
-| 1
-|
-| 0.75
-
-|-
-| He diffuusio
-|
-| 1
-|
-| 0.2
-
-|-
-| Biomolekyylien säilyminen
-|
-| 1
-|
-| 0.1
-
-|-
-| Paleorecordit ja syklit
-| Voidaan selittää tunetuksen ja kalibroinnin avulla riippuvuuksina
-| 0.2
-|
-| 1
-
-|-
-| Suola merissä
-|
-| 1
-|
-| 0.5
-
-|-
-| Kuun loittoneminen
-|
-| 1
-|
-| 1
-
-|-
-| Eroosionopeudet
-|
-| 1
-|
-| 0.5
-
-|-
-| Nukleosynteesi
-| Järkevää tällä hetkellä vain jos WH kosmologia toimii?
-| 0.5
-|
-| 1
-
-|-
-| Meteoriitit
-|
-| ?
-|
-| 1
-
-|-
-| Ihmisten ja eliöiden mutaationopeus
-|
-| 1
-|
-| 0.2
-
-|-
-| Ice cores
-| Kerrokset yksittäisistä myrskyistä
-| 0.5
-|
-| 0.75
-
-|-
-| Jääkausi
-| Jälkikatastrofina mekanismi ok, ajoitus pitäisi ehkä kutistaa
-| 0.5
-| Mekanismi auki
-| 0.5
-
-|-
-| Dinoglyfit
-|
-| 1
-|
-| 0.5
-
-|-
-| Afrikan heimojen ja muiden tahojen sukuluettelot Nooaan asti
-|
-| 1
-|
-| 0.7
-
-|-
-| Kosmologiset kellot
-| WHC ehkä selittää nämä oikein
-| 0.2
-|
-| 1
-
-|-
-| Aurinkokunnan ja linnunradan ikä
-| Pitäisi kai olla pienempi kuin muiden vastaavien systeemien
-| 0.3
-| Toisaalta ei kuulemma ymmärretä OEC puolellakaan kaikkia havaintoja linnunradasta
-| 0.8
-
-|-
-| Nooan tulva: Mahtuivatko maailman eläimet arkkiin?
-| Nooan tarvitsi ottaa mukaan vain perusryhmien(koiraeläimistä yksi pari, kanalinnuista yksi jne.) edustajat.
-| 0.8
-| Nooa otti mukaan vain karjaeläimet.
-| 1
-
-|-
-| Nooan tulva: selviävätkö eläimet vuoden arkissa?
-|
-| 0.8
-|
-| 1
-
-|}
-```
+|  |  |  |  |  |
+|---|---|---|---|---|
+| Havainto | YEC | p<sub>YEC</sub> | OEC | p<sub>OEC</sub> |
+| Geologian radioaktiiviset Mryr isotoopit | Vaatii kiihdytetyn hajoamisen, mekanismi (jos ei suora puuttuminen) auki ja kiihdytetystä hajoamisesta seuraa liikaa lämpöä. Toisaalta selittäisi systemaattiset offsetit | 0.1 |  | 1 |
+| Radiohiili | Selittäisi 14C:n taustanäytteissä. Toisaalta 14C kalibroinnin kronologiat menevät yli yleisen YEC kronologian | 0.5 | Ongelmia selittää 14C:tä taustanäytteissä. | 0.5 |
+| TL/OSL | Kiihdytetty hajoaminen selittäisi ehkä suuret säteilymäärät, toisaalta kuumentuminen olisi ehkä nollannut kellot, palataan siis yo. ylilämmitys ongelmaan | 0.5 | Menetelmä ei anna täysin sopivia tuloksia muihin menetelmiin verrattuna. Tulosten hylkäämiseen löytyy hyvä syy tarvittaessa. | 0.9 |
+| Radiohalot |  | 1 |  | 0.75 |
+| He diffuusio |  | 1 |  | 0.2 |
+| Biomolekyylien säilyminen |  | 1 |  | 0.1 |
+| Paleorecordit ja syklit | Voidaan selittää tunetuksen ja kalibroinnin avulla riippuvuuksina | 0.2 |  | 1 |
+| Suola merissä |  | 1 |  | 0.5 |
+| Kuun loittoneminen |  | 1 |  | 1 |
+| Eroosionopeudet |  | 1 |  | 0.5 |
+| Nukleosynteesi | Järkevää tällä hetkellä vain jos WH kosmologia toimii? | 0.5 |  | 1 |
+| Meteoriitit |  | ? |  | 1 |
+| Ihmisten ja eliöiden mutaationopeus |  | 1 |  | 0.2 |
+| Ice cores | Kerrokset yksittäisistä myrskyistä | 0.5 |  | 0.75 |
+| Jääkausi | Jälkikatastrofina mekanismi ok, ajoitus pitäisi ehkä kutistaa | 0.5 | Mekanismi auki | 0.5 |
+| Dinoglyfit |  | 1 |  | 0.5 |
+| Afrikan heimojen ja muiden tahojen sukuluettelot Nooaan asti |  | 1 |  | 0.7 |
+| Kosmologiset kellot | WHC ehkä selittää nämä oikein | 0.2 |  | 1 |
+| Aurinkokunnan ja linnunradan ikä | Pitäisi kai olla pienempi kuin muiden vastaavien systeemien | 0.3 | Toisaalta ei kuulemma ymmärretä OEC puolellakaan kaikkia havaintoja linnunradasta | 0.8 |
+| Nooan tulva: Mahtuivatko maailman eläimet arkkiin? | Nooan tarvitsi ottaa mukaan vain perusryhmien(koiraeläimistä yksi pari, kanalinnuista yksi jne.) edustajat. | 0.8 | Nooa otti mukaan vain karjaeläimet. | 1 |
+| Nooan tulva: selviävätkö eläimet vuoden arkissa? |  | 0.8 |  | 1 |
 
 Yo. taulukon lisäksi tulee ottaa huomioon, että YEC kannan osa-alueiden kehitystyön resurssit ovat 100-10000 kertaa pienemmät. Tämän perusteella pitäisi ehkä antaa YEC:lle lisäkerroin suuruudeltaan 2-1000 riippuen siitä kuinka suureksi tutkimusmassan vaikutus koetaan. Pieni lisäkerroin edustaa naivia kantaa tieteestä jossa ajatellaan enemmän että totuus löytyy kuin itsestään, mittaukset puhuvat suoraan ilman tulkintaa, eikä teorioita tarvitse keksiä tai kehittää eteenpäin jotta ne sopisivat käsillä olevaan aineistoon. Suurempi lisäkerroin kuvaa käsitystä jossa ymmärretään että mittaukset ovat lukuja joita täytyy tulkita ja ymmärretään että toimivat teoriat tarvitsevat usein tuhansia työtunteja kehitykseen ja lisäksi harva teoria sopii heti kaikkeen aineistoon, usein tarvitaan lisähypoteeseja tai lisätermejä jotta aineisto sopii teoriaan tai jopa osa itse aineistosta täytyy kyseenalaistaa.
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Todennäköisyysrajojen vertailu"
 description: "Suunnitteluteoreettisen tarkoituksellisuuspäättelyn keskeinen, vertaisarvioitu menetelmä on William Dembskin kehittämä, klassisen tilastotieteen lähestymistapaa soveltava suunnittelusignaalien tunnistus."
 tags: [apowiki, suunnitteluteoria]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T20:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Todennäköisyysrajojen vertailu".
@@ -26,619 +26,91 @@ Dembski siis on soveltanut tätä lähestymistapaa tunnettujen[^6] tarkoituksett
 
 Oheisesta taulukosta näemme sekä klassisen tilastotieteen omaksumat että Dembskin suunnittelupäättelyä varten määrittämät yleispätevän hylkäysalueen rajat[^7]. Mitä pienempi todennäköisyys määrätään, sitä tiukemmin hypoteeseista pidetään kiinni[^8]. Vertailun ja havainnollisuuden vuoksi tässä taulukossa on mukana monia muitakin kiinnostaviksi katsottuja todennäköisyyksiä ja todennäköisyysrajoja kuin klassisen tilastotieteen mukaiset ja Dembskin yleispäteväksi[^9] esittämä.
 
-```wikitext
-{|
-|-
-! | Todennäköisyys[^10]
-! | Todennäköisyyden 2-kantaisen logaritmin vastaluku eli informaatioarvo[^11] bitteinä[^12]
-! | Tapahtuman aihepiiri
-! | Tapahtuman kuvaus
-! | Tapahtuman merkitys[^13]
-
-|-
-|
-|
-|
-|
-| *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*</br> **9,999... · 10<sup>-1</sup> <math>\dots</math> 10<sup>-10</sup>**.[^14]
-
-|-
-| 0,166'666'666'7
-| 2,6
-| Nopanheitto[^15]
-| Kuutonen yhdellä heitolla
-|
-
-|-
-| 0,05
-(alitettava tn-raja)
-| 4,3
-| Klassinen tilastotiede
-| Tätä epätodennäköisempiä tapahtumia pidetään klassisessa tilastotieteessä nollahypoteesin hylkäämiseksi *melkein merkitsevinä*.[^16]
-| On syytä epäillä, että oletettu selitys (todennäköisyysjakauma) on väärä. Sitä ei ole osoitettu vääräksi, mutta sen selitysvoima on kyseenalainen.
-
-|-
-| 0,027'777'777'8
-| 5,2
-| Nopanheitto
-| Kaksi noppaa, yksi heitto, kaksi kuutosta
-|
-
-|-
-| 0,01
-(alitettava tn-raja)
-| 6,6
-| Klassinen tilastotiede
-| Tätä epätodennäköisempiä tapahtumia pidetään klassisessa tilastotieteessä nollahypoteesin hylkäämiseksi *merkitsevinä*.[^16]
-| On syytä pitää oletettua selitystä virheellisenä ja pyrkiä etsimään sen tilalle jotakin uskottavampaa.
-
-|-
-| 0,004'629'629'6
-| 7,8
-| Nopanheitto
-| Kolme noppaa, yksi heitto, kolme kuutosta
-|
-
-|-
-| 0,001
-(alitettava tn-raja)
-| 9,97
-| Klassinen tilastotiede
-| Tätä epätodennäköisempiä tapahtumia pidetään klassisessa tilastotieteessä nollahypoteesin hylkäämiseksi *erittäin merkitsevinä*.[^16]
-| Oletettu selitys on ilman muuta hylättävä. Ellei uskottavampaa selitystä ole tarjolla, on rehellisyyden nimissä myönnettävä, ettei tutkimuskohteelle tunneta toimivaa selitystä. Sellaista tietenkin sitäkin aktiivisemmin haetaan.
-
-|-
-| 0,000'976'562'5
-| 10 (tasan)
-| Lantinheitto
-| 10 lanttia, yksi yritys, tulos 10 kruunaa
-|
-
-|-
-| 0,000'771'604'9
-| 10,3
-| Nopanheitto
-| Neljä noppaa, yksi heitto, neljä kuutosta
-|
-
-|-
-| 0,000'128'600'8
-| 12,9
-| Nopanheitto
-| Viisi noppaa, yksi heitto, viisi kuutosta
-|
-
-|-
-| 0,000'021'433'5
-| 15,5
-| Nopanheitto
-| Kuusi noppaa, yksi heitto, kuusi kuutosta
-|
-
-|-
-| 0,000'003'572'2
-| 18,1
-| Nopanheitto
-| Seitsemän noppaa, yksi heitto, seitsemän kuutosta
-|
-
-|-
-| 0,000'001'539'1
-| 19,3
-| Pokeri
-| Hyvin sekoitettu pakka, yksi yritys, sokkona valitut 5 korttia muodostavat kuningasvärisarjan[^17].
-|
-
-|-
-| 0,000'000'595'4
-| 20,7
-| Nopanheitto
-| Kahdeksan noppaa, yksi heitto, kahdeksan kuutosta
-|
-
-|-
-| 0,000'000'099'2
-| 23,3
-| Nopanheitto
-| Yhdeksän noppaa, yksi heitto, yhdeksän kuutosta
-|
-
-|-
-| 0,000'000'065'0
-| 23,9
-| Lottoarvonta[^18]
-| Sama voittorivi *kahdella* peräkkäisellä kierroksella[^19]
-|
-
-|-
-| 0,000'000'016'5
-| 25,8
-| Nopanheitto
-| 10 noppaa, yksi yritys, 10 kuutosta
-|
-
-|-
-|
-|
-|
-|
-| *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*</br> **9,999... · 10<sup>-11</sup> <math>\dots</math> 10<sup>-20</sup>**.
-
-|-
-| 4,227 · 10<sup>-15</sup>
-| 47,7
-| Lottoarvonta
-| Sama voittorivi *kolmella* peräkkäisellä kierroksella
-|
-
-|-
-| 3,517 · 10<sup>-20</sup>
-| 64,6
-| Nopanheitto
-| 25 noppaa, yksi heitto, 25 kuutosta
-|
-
-|-
-| 10<sup>-20</sup>
-(tn-raja)
-| 66,4
-| Evoluutiobiologia
-| 1 *CCC*
-| Biokemisti [Michael Behen](michael-behe.md) [mukaan](the-edge-of-evolution-kirja.md) tämä on probabilistinen vaativuusaste, jonka ohjaamaton mutaatio-luonnonvalintamekanismi voi vielä ylittää melko usein, jos lajin populaatiokoko ja mutaatiotaajuus ovat riittävän suuria.
-
-|-
-|
-|
-|
-|
-| *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*</br> **9,999... · 10<sup>-21</sup> <math>\dots</math> 10<sup>-30</sup>**.
-
-|-
-| 5,862 · 10<sup>-21</sup>
-| 67,2
-| Nopanheitto
-| 26 noppaa, yksi heitto, 26 kuutosta
-|
-
-|-
-| 2,748 · 10<sup>-22</sup>
-| 71,6
-| Lottoarvonta
-| Sama voittorivi *neljällä* peräkkäisellä kierroksella
-|
-
-|-
-| 1,787 · 10<sup>-29</sup>
-| 95,5
-| Lottoarvonta
-| Sama voittorivi *viidellä* peräkkäisellä kierroksella
-|
-
-|-
-|
-|
-|
-|
-| *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*</br> **9,999... · 10<sup>-31</sup> <math>\dots</math> 10<sup>-40</sup>**.
-
-|-
-| 7,889 · 10<sup>-31</sup>
-| 100 (tasan)
-| Lantinheitto
-| 100 lanttia, yksi yritys, tulos 100 kruunaa
-|
-
-|-
-| 1,162 · 10<sup>-36</sup>
-| 119,4
-| Lottoarvonta
-| Sama voittorivi *kuudella* peräkkäisellä kierroksella
-|
-
-|-
-| 2,062 · 10<sup>-40</sup>
-| 131,8
-| Nopanheitto
-| 51 noppaa, yksi heitto, 51 kuutosta
-|
-
-|-
-| 10<sup>-40</sup>
-(tn-raja)
-| 132,9
-| Evoluutiobiologia
-| 2 *CCC*
-| Biokemisti [Michael Behen](michael-behe.md) [mukaan](the-edge-of-evolution-kirja.md) tämä on probabilistinen vaativuusaste, jota ohjaamaton mutaatio-luonnonvalintamekanismi todennäköisesti *ei ole kyennyt ylittämään* teoreettisen tarkastelun sen enempää kuin käytännön havaintojenkaan mukaan *kertaakaan elämän historian aikana*.
-
-|-
-|
-|
-|
-|
-| *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*</br> **9,999... · 10<sup>-41</sup> <math>\dots</math> 10<sup>-50</sup>**.
-
-|-
-| 3,437 · 10<sup>-41</sup>
-| 134,4
-| Nopanheitto
-| 52 noppaa, yksi heitto, 52 kuutosta
-|
-
-|-
-| 7,553 · 10<sup>-44</sup>
-| 143,2
-| Lottoarvonta
-| Sama voittorivi *seitsemällä* peräkkäisellä kierroksella
-|
-
-|-
-| 1,579 · 10<sup>-50</sup>
-| 165,4
-| Nopanheitto
-| 64 noppaa, yksi heitto, 64 kuutosta
-|
-
-|-
-| 10<sup>-50</sup>
-(alitettava tn-raja)
-| 166,1
-| Sovellettu probabilistiikka
-| Matemaatikko [*Emile Borelin*](http://en.wikipedia.org/wiki/Emile_Borel) ehdotus yleiseksi todennäköisyysrajaksi
-| Borelin mukaan tätä epätodennäköisemmät ilmiöt ovat käytännössä mahdottomia.[^20]
-
-|-
-|
-|
-|
-|
-| *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*</br> **9,999... · 10<sup>-51</sup> <math>\dots</math> 10<sup>-60</sup>**.
-
-|-
-| 4,910 · 10<sup>-51</sup>
-| 167,1
-| Lottoarvonta
-| Sama voittorivi *kahdeksalla* peräkkäisellä kierroksella
-|
-
-|-
-| 2,631 · 10<sup>-51</sup>
-| 168,0
-| Nopanheitto
-| 65 noppaa, yksi heitto, 65 kuutosta
-|
-
-|-
-| 3,193 · 10<sup>-58</sup>
-| 191,0 (190,997)
-| Lottoarvonta
-| Sama voittorivi *yhdeksällä* peräkkäisellä kierroksella
-|
-
-|-
-|
-|
-|
-|
-| *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*</br> **9,999... · 10<sup>-61</sup> <math>\dots</math> 10<sup>-70</sup>**.
-
-|-
-| 2,076 · 10<sup>-65</sup>
-| 214,9
-| Lottoarvonta
-| Sama voittorivi *10* peräkkäisellä kierroksella
-|
-
-|-
-|
-|
-|
-|
-| *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*</br> **9,999... · 10<sup>-71</sup> <math>\dots</math> 10<sup>-80</sup>**.
-
-|-
-| 1,349 · 10<sup>-72</sup>
-| 238,7
-| Lottoarvonta
-| Sama voittorivi *11* peräkkäisellä kierroksella
-|
-
-|-
-| 1,531 · 10<sup>-78</sup>
-| 258,5
-| Nopanheitto
-| 100 noppaa, yksi yritys, 100 kuutosta
-|
-
-|-
-| 8,774 · 10<sup>-80</sup>
-| 262,6
-| Lottoarvonta
-| Sama voittorivi *12* peräkkäisellä kierroksella
-|
-
-|-
-|
-|
-|
-|
-| *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*</br> **9,999... · 10<sup>-81</sup> <math>\dots</math> 10<sup>-90</sup>**.
-
-|-
-| 5,704 · 10<sup>-87</sup>
-| 286,5
-| Lottoarvonta
-| Sama voittorivi *13* peräkkäisellä kierroksella
-|
-
-|-
-|
-|
-|
-|
-| *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*</br> **9,999... · 10<sup>-91</sup> <math>\dots</math> 10<sup>-100</sup>**.
-
-|-
-| 3,709 · 10<sup>-94</sup>
-| 310,4
-| Lottoarvonta
-| Sama voittorivi *14* peräkkäisellä kierroksella
-|
-
-|-
-| 2,493 · 10<sup>-100</sup>
-| 330,9
-| Nopanheitto
-| 128 noppaa, yksi heitto, 128 kuutosta
-|
-
-|-
-| 10<sup>-100</sup> (tasan)
-| 332,2
-| Matematiikan opetus
-| Yksi mahdollisuus [googolista](https://fi.wikipedia.org/wiki/googol)
-| "Googol" on otettu käyttöön havainnollistamaan "käsittämättömän suuren luvun" ideaa (erotuksena *äärettömästä*). Niinpä näin epätodennäköisen tapahtuman voi katsoa havainnollistavan "käytännössä mahdottoman" ideaa (erotuksena eksaktista nollatodennäköisyydestä, jota voi pitää *äärettömän käänteislukuna*).
-
-|-
-|
-|
-|
-|
-| *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*</br> **9,999... · 10<sup>-101</sup> <math>\dots</math> 10<sup>-110</sup>**.
-
-|-
-| 4,154 · 10<sup>-101</sup>
-| 333,5
-| Nopanheitto
-| 129 noppaa, yksi heitto, 129 kuutosta
-|
-
-|-
-| 2,411 · 10<sup>-101</sup>
-| 334,2
-| Lottoarvonta
-| Sama voittorivi *15* peräkkäisellä kierroksella
-|
-
-|-
-| 1,568 · 10<sup>-108</sup>
-| 358,1
-| Lottoarvonta
-| Sama voittorivi *16* peräkkäisellä kierroksella
-|
-
-|-
-|
-|
-|
-|
-| *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*</br> **9,999... · 10<sup>-111</sup> <math>\dots</math> 10<sup>-120</sup>**.
-
-|-
-| 1,019 · 10<sup>-115</sup>
-| 382,0 (381,994)
-| Lottoarvonta
-| Sama voittorivi *17* peräkkäisellä kierroksella
-|
-
-|-
-|
-|
-|
-|
-| *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*</br> **9,999... · 10<sup>-121</sup> <math>\dots</math> 10<sup>-130</sup>**.
-
-|-
-| 6,627 · 10<sup>-123</sup>
-| 405,9
-| Lottoarvonta
-| Sama voittorivi *18* peräkkäisellä kierroksella
-|
-
-|-
-| 4,308 · 10<sup>-130</sup>
-| 429,7
-| Lottoarvonta
-| Sama voittorivi *19* peräkkäisellä kierroksella
-|
-
-|-
-|
-|
-|
-|
-| *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*</br> **9,999... · 10<sup>-131</sup> <math>\dots</math> 10<sup>-140</sup>**.
-
-|-
-| 2,801 · 10<sup>-137</sup>
-| 453,6
-| Lottoarvonta
-| Sama voittorivi *20* peräkkäisellä kierroksella
-|
-
-|-
-|
-|
-|
-|
-| *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*</br> **9,999... · 10<sup>-141</sup> <math>\dots</math> 10<sup>-150</sup>**.
-
-|-
-| 1,821 · 10<sup>-144</sup>
-| 477,5
-| Lottoarvonta
-| Sama voittorivi *21* peräkkäisellä kierroksella
-| Tulos ei vielä yllä Dembskin universaaliin todennäköisyysrajaan.
-
-|-
-| 4,803 · 10<sup>-146</sup>
-| 482,7
-| Pokeri
-| 25 hyvin sekoitettua pakkaa, sokkona valitaan kertaalleen 5 korttia pakastaan, saadaan kuningasvärisarja pakkaa kohti, yhteensä siis 25 kuningasvärisarjaa[^17].
-| Tulos ei vielä yllä Dembskin universaaliin todennäköisyysrajaan.
-
-|-
-|
-|
-|
-|
-| *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*</br> **9,999... · 10<sup>-151</sup> <math>\dots</math> 10<sup>-160</sup>**.
-
-|-
-| 6,559 · 10<sup>-151</sup>
-| 498,9
-| Nopanheitto
-| 193 noppaa, yksi heitto, 193 kuutosta
-| Tulos ei vielä yllä Dembskin universaaliin todennäköisyysrajaan.
-
-|-
-| <math>\frac{1}{2} \cdot 10^{-150}</math>
-(alitettava tn-raja)
-| <math>\textstyle500</math>
-(saavutettava tai ylitettävä informaatioraja)
-| Dembskin tarkoituksellisuuspäättely
-| Yleinen todennäköisyysraja (engl. *universal probability bound*)
-| Dembskin mukaan tätä epätodennäköisemmät *määrittyneet* (engl. *specified*, suomennettu m. "täsmennetyt") ilmiöt ovat käytännössä mahdottomia.
-Tämä tarkoittaa klassisen tilastotieteellisen päättelyn logiikan mukaan sitä, että käytetty selitysmalli, tässä tapauksessa oletus ohjaamattomasta, tarkoituksettomasta syntyhistoriasta, on hylättävä. Tällöin siis ilmiö on pääteltävä tarkoituksellisesti aiheutetuksi.
-
-|-
-| 1,184 · 10<sup>-151</sup>
-| 501,4
-| Lottoarvonta
-| Sama voittorivi *22* peräkkäisellä kierroksella
-| Dembskin yleinen todennäköisyysraja alittuu (eli vastaava informaatioraja ylittyy) lottoarvontojen osalta; ilmiö on määrittynyt (saman voittorivin ensimmäinen esiintymä antaa määrityksen muille).</br>On pääteltävä, että tällainen lottoarvonnan voittorivin toistuminen viikosta toiseen ei voi olla sattumanvaraista.[^21]
-
-|-
-| 1,093 · 10<sup>-151</sup>
-| 501,5
-| Nopanheitto
-| 194 noppaa, yksi heitto, 194 kuutosta
-| Dembskin universaali todennäköisyysraja alittuu (eli vastaava informaatioraja ylittyy) nopanheiton osalta; ilmiö on määrittynyt.</br>On pääteltävä, ettei tällaista nopanheittotulosta voi syntyä sattumalta.[^21]
-
-|-
-| 7,392 · 10<sup>-152</sup>
-| 502,0
-| Pokeri
-| 26 hyvin sekoitettua pakkaa, sokkona valitaan kertaalleen 5 korttia pakastaan, saadaan kuningasvärisarja pakkaa kohti, yhteensä siis 26 kuningasvärisarjaa[^17].
-| Dembskin universaali todennäköisyysraja alittuu (eli vastaava informaatioraja ylittyy) pokerikäsien osalta; ilmiö on määrittynyt.</br>On pääteltävä, ettei tällaista kortinvetotulosta voi saada sattumalta.[^21]
-
-<!-- -- >
-|-
-|
-|
-|
-|
-| *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*</br> **9,999... · 10<sup>-161</sup> <math>\dots</math> 10<sup>-1.000</sup>**.
-
-|-
-|
-|
-|
-|
-| *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*</br> **9,999... · 10<sup>-1.001</sup> <math>\dots</math> 10<sup>-10.000</sup>**.
-
-|-
-|
-|
-|
-|
-| *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*</br> **9,999... · 10<sup>-10.001</sup> <math>\dots</math> 10<sup>-100.000</sup>**.
-
-|-
-| 10<sup>-40.000</sup>
- = 10<sup>-(4 · 10.000)</sup>
- = 10<sup>-(4 · 10<sup>4</sup>)</sup>
-| 132.878
-| Abiogeneesi (biologisen elämän satunnaissynty elottomasta aineesta)
-| Sir Fred Hoylen arvio elävän solun satunnaissynnyn epätodennäköisyyden asteesta
-|
-
-|-
-|
-|
-|
-|
-| *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*</br> **9,999... · 10<sup>-100.001</sup> <math>\dots</math> 10<sup>-1.000.000</sup>**.
-
-|-
-|
-|
-|
-|
-| *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*</br> **9,999... · 10<sup>-1.000.001</sup> <math>\dots</math> 10<sup>-10.000.000</sup>**.
-
-|-
-|
-|
-|
-|
-| *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*</br> **9,999... · 10<sup>-10.000.001</sup> <math>\dots</math> 10<sup>-100.000.000</sup>**.
-
-|-
-|
-|
-|
-|
-| *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*</br> **9,999... · 10<sup>-100.000.001</sup> <math>\dots</math> 10<sup>-1.000.000.000</sup>**.
-
-|-
-| < 10<sup>-100.000.000</sup> = 10<sup>-10<sup>8</sup></sup>
-| ≥ 332.192.810
-| Abiogeneesi (biologisen elämän satunnaissynty elottomasta aineesta)
-| biofyysikko Harold Morowitzin arvio elävän solun satunnaissynnyn epätodennäköisyyden asteesta, kun tarvittava systeemin vapaan energian muutos otetaan huomioon satunnaislämpöliikkeen aikaansaamaksi ajatellun abiogeneesin mahdollisuutta arvioitaessa; tulos riippuu biologisen elämän vapaan energian määrästä ja on siksi olennaisesti riippumaton siitä, mitä reittiä abiogeneesin ajatellaan toteutuneen eli missä järjestyksessä tarvittavat välivaiheet olisivat toteutuneet
-|
-
-|-
-|
-|
-|
-|
-| *Tästä alkavan jakson tapahtumien todennäköisyys:*</br> **< 9,999... · 10<sup>-1.000.000.001</sup>**.
-
-|-
-| 10<sup>-10<sup>100</sup></sup>
-| noin 33.219.280.948.873.623,50 · 10<sup>84</sup> eli yli 33.219 · 10<sup>96</sup> eli yli 33.219 [sedekiljoonaa](https://fi.wikipedia.org/wiki/Suurten_lukujen_nimet)
-| Matematiikan opetus
-| Yksi mahdollisuus 10<sup>[wp:googol](https://fi.wikipedia.org/wiki/googol)</sup>:sta eli yksi mahdollisuus [ista](https://fi.wikipedia.org/wiki/googolplex)
-| "Googolplex" on otettu käyttöön havainnollistamaan "aukikirjoitettavaksikin ylivoimaisen suuren luvun" ideaa.
-
-|-
-|
-|
-|
-|
-|
-
--->
-
-|-
-|
-|
-|
-|
-|
-
-|}
-```
+| \| Todennäköisyys[^10] | \| Todennäköisyyden 2-kantaisen logaritmin vastaluku eli informaatioarvo[^11] bitteinä[^12] | \| Tapahtuman aihepiiri | \| Tapahtuman kuvaus | \| Tapahtuman merkitys[^13] |
+|---|---|---|---|---|
+|  |  |  |  | *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*<br> **9,999... · 10<sup>-1</sup> <math>\dots</math> 10<sup>-10</sup>**.[^14] |
+| 0,166'666'666'7 | 2,6 | Nopanheitto[^15] | Kuutonen yhdellä heitolla |  |
+| 0,05<br>(alitettava tn-raja) | 4,3 | Klassinen tilastotiede | Tätä epätodennäköisempiä tapahtumia pidetään klassisessa tilastotieteessä nollahypoteesin hylkäämiseksi *melkein merkitsevinä*.[^16] | On syytä epäillä, että oletettu selitys (todennäköisyysjakauma) on väärä. Sitä ei ole osoitettu vääräksi, mutta sen selitysvoima on kyseenalainen. |
+| 0,027'777'777'8 | 5,2 | Nopanheitto | Kaksi noppaa, yksi heitto, kaksi kuutosta |  |
+| 0,01<br>(alitettava tn-raja) | 6,6 | Klassinen tilastotiede | Tätä epätodennäköisempiä tapahtumia pidetään klassisessa tilastotieteessä nollahypoteesin hylkäämiseksi *merkitsevinä*.[^16] | On syytä pitää oletettua selitystä virheellisenä ja pyrkiä etsimään sen tilalle jotakin uskottavampaa. |
+| 0,004'629'629'6 | 7,8 | Nopanheitto | Kolme noppaa, yksi heitto, kolme kuutosta |  |
+| 0,001<br>(alitettava tn-raja) | 9,97 | Klassinen tilastotiede | Tätä epätodennäköisempiä tapahtumia pidetään klassisessa tilastotieteessä nollahypoteesin hylkäämiseksi *erittäin merkitsevinä*.[^16] | Oletettu selitys on ilman muuta hylättävä. Ellei uskottavampaa selitystä ole tarjolla, on rehellisyyden nimissä myönnettävä, ettei tutkimuskohteelle tunneta toimivaa selitystä. Sellaista tietenkin sitäkin aktiivisemmin haetaan. |
+| 0,000'976'562'5 | 10 (tasan) | Lantinheitto | 10 lanttia, yksi yritys, tulos 10 kruunaa |  |
+| 0,000'771'604'9 | 10,3 | Nopanheitto | Neljä noppaa, yksi heitto, neljä kuutosta |  |
+| 0,000'128'600'8 | 12,9 | Nopanheitto | Viisi noppaa, yksi heitto, viisi kuutosta |  |
+| 0,000'021'433'5 | 15,5 | Nopanheitto | Kuusi noppaa, yksi heitto, kuusi kuutosta |  |
+| 0,000'003'572'2 | 18,1 | Nopanheitto | Seitsemän noppaa, yksi heitto, seitsemän kuutosta |  |
+| 0,000'001'539'1 | 19,3 | Pokeri | Hyvin sekoitettu pakka, yksi yritys, sokkona valitut 5 korttia muodostavat kuningasvärisarjan[^17]. |  |
+| 0,000'000'595'4 | 20,7 | Nopanheitto | Kahdeksan noppaa, yksi heitto, kahdeksan kuutosta |  |
+| 0,000'000'099'2 | 23,3 | Nopanheitto | Yhdeksän noppaa, yksi heitto, yhdeksän kuutosta |  |
+| 0,000'000'065'0 | 23,9 | Lottoarvonta[^18] | Sama voittorivi *kahdella* peräkkäisellä kierroksella[^19] |  |
+| 0,000'000'016'5 | 25,8 | Nopanheitto | 10 noppaa, yksi yritys, 10 kuutosta |  |
+|  |  |  |  | *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*<br> **9,999... · 10<sup>-11</sup> <math>\dots</math> 10<sup>-20</sup>**. |
+| 4,227 · 10<sup>-15</sup> | 47,7 | Lottoarvonta | Sama voittorivi *kolmella* peräkkäisellä kierroksella |  |
+| 3,517 · 10<sup>-20</sup> | 64,6 | Nopanheitto | 25 noppaa, yksi heitto, 25 kuutosta |  |
+| 10<sup>-20</sup><br>(tn-raja) | 66,4 | Evoluutiobiologia | 1 *CCC* | Biokemisti [Michael Behen](michael-behe.md) [mukaan](the-edge-of-evolution-kirja.md) tämä on probabilistinen vaativuusaste, jonka ohjaamaton mutaatio-luonnonvalintamekanismi voi vielä ylittää melko usein, jos lajin populaatiokoko ja mutaatiotaajuus ovat riittävän suuria. |
+|  |  |  |  | *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*<br> **9,999... · 10<sup>-21</sup> <math>\dots</math> 10<sup>-30</sup>**. |
+| 5,862 · 10<sup>-21</sup> | 67,2 | Nopanheitto | 26 noppaa, yksi heitto, 26 kuutosta |  |
+| 2,748 · 10<sup>-22</sup> | 71,6 | Lottoarvonta | Sama voittorivi *neljällä* peräkkäisellä kierroksella |  |
+| 1,787 · 10<sup>-29</sup> | 95,5 | Lottoarvonta | Sama voittorivi *viidellä* peräkkäisellä kierroksella |  |
+|  |  |  |  | *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*<br> **9,999... · 10<sup>-31</sup> <math>\dots</math> 10<sup>-40</sup>**. |
+| 7,889 · 10<sup>-31</sup> | 100 (tasan) | Lantinheitto | 100 lanttia, yksi yritys, tulos 100 kruunaa |  |
+| 1,162 · 10<sup>-36</sup> | 119,4 | Lottoarvonta | Sama voittorivi *kuudella* peräkkäisellä kierroksella |  |
+| 2,062 · 10<sup>-40</sup> | 131,8 | Nopanheitto | 51 noppaa, yksi heitto, 51 kuutosta |  |
+| 10<sup>-40</sup><br>(tn-raja) | 132,9 | Evoluutiobiologia | 2 *CCC* | Biokemisti [Michael Behen](michael-behe.md) [mukaan](the-edge-of-evolution-kirja.md) tämä on probabilistinen vaativuusaste, jota ohjaamaton mutaatio-luonnonvalintamekanismi todennäköisesti *ei ole kyennyt ylittämään* teoreettisen tarkastelun sen enempää kuin käytännön havaintojenkaan mukaan *kertaakaan elämän historian aikana*. |
+|  |  |  |  | *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*<br> **9,999... · 10<sup>-41</sup> <math>\dots</math> 10<sup>-50</sup>**. |
+| 3,437 · 10<sup>-41</sup> | 134,4 | Nopanheitto | 52 noppaa, yksi heitto, 52 kuutosta |  |
+| 7,553 · 10<sup>-44</sup> | 143,2 | Lottoarvonta | Sama voittorivi *seitsemällä* peräkkäisellä kierroksella |  |
+| 1,579 · 10<sup>-50</sup> | 165,4 | Nopanheitto | 64 noppaa, yksi heitto, 64 kuutosta |  |
+| 10<sup>-50</sup><br>(alitettava tn-raja) | 166,1 | Sovellettu probabilistiikka | Matemaatikko [*Emile Borelin*](http://en.wikipedia.org/wiki/Emile_Borel) ehdotus yleiseksi todennäköisyysrajaksi | Borelin mukaan tätä epätodennäköisemmät ilmiöt ovat käytännössä mahdottomia.[^20] |
+|  |  |  |  | *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*<br> **9,999... · 10<sup>-51</sup> <math>\dots</math> 10<sup>-60</sup>**. |
+| 4,910 · 10<sup>-51</sup> | 167,1 | Lottoarvonta | Sama voittorivi *kahdeksalla* peräkkäisellä kierroksella |  |
+| 2,631 · 10<sup>-51</sup> | 168,0 | Nopanheitto | 65 noppaa, yksi heitto, 65 kuutosta |  |
+| 3,193 · 10<sup>-58</sup> | 191,0 (190,997) | Lottoarvonta | Sama voittorivi *yhdeksällä* peräkkäisellä kierroksella |  |
+|  |  |  |  | *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*<br> **9,999... · 10<sup>-61</sup> <math>\dots</math> 10<sup>-70</sup>**. |
+| 2,076 · 10<sup>-65</sup> | 214,9 | Lottoarvonta | Sama voittorivi *10* peräkkäisellä kierroksella |  |
+|  |  |  |  | *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*<br> **9,999... · 10<sup>-71</sup> <math>\dots</math> 10<sup>-80</sup>**. |
+| 1,349 · 10<sup>-72</sup> | 238,7 | Lottoarvonta | Sama voittorivi *11* peräkkäisellä kierroksella |  |
+| 1,531 · 10<sup>-78</sup> | 258,5 | Nopanheitto | 100 noppaa, yksi yritys, 100 kuutosta |  |
+| 8,774 · 10<sup>-80</sup> | 262,6 | Lottoarvonta | Sama voittorivi *12* peräkkäisellä kierroksella |  |
+|  |  |  |  | *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*<br> **9,999... · 10<sup>-81</sup> <math>\dots</math> 10<sup>-90</sup>**. |
+| 5,704 · 10<sup>-87</sup> | 286,5 | Lottoarvonta | Sama voittorivi *13* peräkkäisellä kierroksella |  |
+|  |  |  |  | *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*<br> **9,999... · 10<sup>-91</sup> <math>\dots</math> 10<sup>-100</sup>**. |
+| 3,709 · 10<sup>-94</sup> | 310,4 | Lottoarvonta | Sama voittorivi *14* peräkkäisellä kierroksella |  |
+| 2,493 · 10<sup>-100</sup> | 330,9 | Nopanheitto | 128 noppaa, yksi heitto, 128 kuutosta |  |
+| 10<sup>-100</sup> (tasan) | 332,2 | Matematiikan opetus | Yksi mahdollisuus [googolista](https://fi.wikipedia.org/wiki/googol) | "Googol" on otettu käyttöön havainnollistamaan "käsittämättömän suuren luvun" ideaa (erotuksena *äärettömästä*). Niinpä näin epätodennäköisen tapahtuman voi katsoa havainnollistavan "käytännössä mahdottoman" ideaa (erotuksena eksaktista nollatodennäköisyydestä, jota voi pitää *äärettömän käänteislukuna*). |
+|  |  |  |  | *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*<br> **9,999... · 10<sup>-101</sup> <math>\dots</math> 10<sup>-110</sup>**. |
+| 4,154 · 10<sup>-101</sup> | 333,5 | Nopanheitto | 129 noppaa, yksi heitto, 129 kuutosta |  |
+| 2,411 · 10<sup>-101</sup> | 334,2 | Lottoarvonta | Sama voittorivi *15* peräkkäisellä kierroksella |  |
+| 1,568 · 10<sup>-108</sup> | 358,1 | Lottoarvonta | Sama voittorivi *16* peräkkäisellä kierroksella |  |
+|  |  |  |  | *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*<br> **9,999... · 10<sup>-111</sup> <math>\dots</math> 10<sup>-120</sup>**. |
+| 1,019 · 10<sup>-115</sup> | 382,0 (381,994) | Lottoarvonta | Sama voittorivi *17* peräkkäisellä kierroksella |  |
+|  |  |  |  | *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*<br> **9,999... · 10<sup>-121</sup> <math>\dots</math> 10<sup>-130</sup>**. |
+| 6,627 · 10<sup>-123</sup> | 405,9 | Lottoarvonta | Sama voittorivi *18* peräkkäisellä kierroksella |  |
+| 4,308 · 10<sup>-130</sup> | 429,7 | Lottoarvonta | Sama voittorivi *19* peräkkäisellä kierroksella |  |
+|  |  |  |  | *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*<br> **9,999... · 10<sup>-131</sup> <math>\dots</math> 10<sup>-140</sup>**. |
+| 2,801 · 10<sup>-137</sup> | 453,6 | Lottoarvonta | Sama voittorivi *20* peräkkäisellä kierroksella |  |
+|  |  |  |  | *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*<br> **9,999... · 10<sup>-141</sup> <math>\dots</math> 10<sup>-150</sup>**. |
+| 1,821 · 10<sup>-144</sup> | 477,5 | Lottoarvonta | Sama voittorivi *21* peräkkäisellä kierroksella | Tulos ei vielä yllä Dembskin universaaliin todennäköisyysrajaan. |
+| 4,803 · 10<sup>-146</sup> | 482,7 | Pokeri | 25 hyvin sekoitettua pakkaa, sokkona valitaan kertaalleen 5 korttia pakastaan, saadaan kuningasvärisarja pakkaa kohti, yhteensä siis 25 kuningasvärisarjaa[^17]. | Tulos ei vielä yllä Dembskin universaaliin todennäköisyysrajaan. |
+|  |  |  |  | *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*<br> **9,999... · 10<sup>-151</sup> <math>\dots</math> 10<sup>-160</sup>**. |
+| 6,559 · 10<sup>-151</sup> | 498,9 | Nopanheitto | 193 noppaa, yksi heitto, 193 kuutosta | Tulos ei vielä yllä Dembskin universaaliin todennäköisyysrajaan. |
+| <math>\frac{1}{2} \cdot 10^{-150}</math><br>(alitettava tn-raja) | <math>\textstyle500</math><br>(saavutettava tai ylitettävä informaatioraja) | Dembskin tarkoituksellisuuspäättely | Yleinen todennäköisyysraja (engl. *universal probability bound*) | Dembskin mukaan tätä epätodennäköisemmät *määrittyneet* (engl. *specified*, suomennettu m. "täsmennetyt") ilmiöt ovat käytännössä mahdottomia.<br>Tämä tarkoittaa klassisen tilastotieteellisen päättelyn logiikan mukaan sitä, että käytetty selitysmalli, tässä tapauksessa oletus ohjaamattomasta, tarkoituksettomasta syntyhistoriasta, on hylättävä. Tällöin siis ilmiö on pääteltävä tarkoituksellisesti aiheutetuksi. |
+| 1,184 · 10<sup>-151</sup> | 501,4 | Lottoarvonta | Sama voittorivi *22* peräkkäisellä kierroksella | Dembskin yleinen todennäköisyysraja alittuu (eli vastaava informaatioraja ylittyy) lottoarvontojen osalta; ilmiö on määrittynyt (saman voittorivin ensimmäinen esiintymä antaa määrityksen muille).<br>On pääteltävä, että tällainen lottoarvonnan voittorivin toistuminen viikosta toiseen ei voi olla sattumanvaraista.[^21] |
+| 1,093 · 10<sup>-151</sup> | 501,5 | Nopanheitto | 194 noppaa, yksi heitto, 194 kuutosta | Dembskin universaali todennäköisyysraja alittuu (eli vastaava informaatioraja ylittyy) nopanheiton osalta; ilmiö on määrittynyt.<br>On pääteltävä, ettei tällaista nopanheittotulosta voi syntyä sattumalta.[^21] |
+| 7,392 · 10<sup>-152</sup> | 502,0 | Pokeri | 26 hyvin sekoitettua pakkaa, sokkona valitaan kertaalleen 5 korttia pakastaan, saadaan kuningasvärisarja pakkaa kohti, yhteensä siis 26 kuningasvärisarjaa[^17]. | Dembskin universaali todennäköisyysraja alittuu (eli vastaava informaatioraja ylittyy) pokerikäsien osalta; ilmiö on määrittynyt.<br>On pääteltävä, ettei tällaista kortinvetotulosta voi saada sattumalta.[^21]<br><!-- -- > |
+|  |  |  |  | *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*<br> **9,999... · 10<sup>-161</sup> <math>\dots</math> 10<sup>-1.000</sup>**. |
+|  |  |  |  | *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*<br> **9,999... · 10<sup>-1.001</sup> <math>\dots</math> 10<sup>-10.000</sup>**. |
+|  |  |  |  | *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*<br> **9,999... · 10<sup>-10.001</sup> <math>\dots</math> 10<sup>-100.000</sup>**. |
+| 10<sup>-40.000</sup><br>= 10<sup>-(4 · 10.000)</sup><br>= 10<sup>-(4 · 10<sup>4</sup>)</sup> | 132.878 | Abiogeneesi (biologisen elämän satunnaissynty elottomasta aineesta) | Sir Fred Hoylen arvio elävän solun satunnaissynnyn epätodennäköisyyden asteesta |  |
+|  |  |  |  | *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*<br> **9,999... · 10<sup>-100.001</sup> <math>\dots</math> 10<sup>-1.000.000</sup>**. |
+|  |  |  |  | *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*<br> **9,999... · 10<sup>-1.000.001</sup> <math>\dots</math> 10<sup>-10.000.000</sup>**. |
+|  |  |  |  | *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*<br> **9,999... · 10<sup>-10.000.001</sup> <math>\dots</math> 10<sup>-100.000.000</sup>**. |
+|  |  |  |  | *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*<br> **9,999... · 10<sup>-100.000.001</sup> <math>\dots</math> 10<sup>-1.000.000.000</sup>**. |
+| < 10<sup>-100.000.000</sup> = 10<sup>-10<sup>8</sup></sup> | ≥ 332.192.810 | Abiogeneesi (biologisen elämän satunnaissynty elottomasta aineesta) | biofyysikko Harold Morowitzin arvio elävän solun satunnaissynnyn epätodennäköisyyden asteesta, kun tarvittava systeemin vapaan energian muutos otetaan huomioon satunnaislämpöliikkeen aikaansaamaksi ajatellun abiogeneesin mahdollisuutta arvioitaessa; tulos riippuu biologisen elämän vapaan energian määrästä ja on siksi olennaisesti riippumaton siitä, mitä reittiä abiogeneesin ajatellaan toteutuneen eli missä järjestyksessä tarvittavat välivaiheet olisivat toteutuneet |  |
+|  |  |  |  | *Tästä alkavan jakson tapahtumien todennäköisyys:*<br> **< 9,999... · 10<sup>-1.000.000.001</sup>**. |
+| 10<sup>-10<sup>100</sup></sup> | noin 33.219.280.948.873.623,50 · 10<sup>84</sup> eli yli 33.219 · 10<sup>96</sup> eli yli 33.219 [sedekiljoonaa](https://fi.wikipedia.org/wiki/Suurten_lukujen_nimet) | Matematiikan opetus | Yksi mahdollisuus 10<sup>[wp:googol](https://fi.wikipedia.org/wiki/googol)</sup>:sta eli yksi mahdollisuus [ista](https://fi.wikipedia.org/wiki/googolplex) | "Googolplex" on otettu käyttöön havainnollistamaan "aukikirjoitettavaksikin ylivoimaisen suuren luvun" ideaa. |
+|  |  |  |  | --> |
 
 [^22]
 

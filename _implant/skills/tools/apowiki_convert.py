@@ -728,6 +728,106 @@ class Converter:
             return "\n\n```wikitext\n" + m.group(0).strip() + "\n```\n\n"
         return re.sub(r"^\{\|.*?^\|\}", repl, text, flags=re.S | re.M)
 
+    # A cell's attribute prefix: `style="…" |`, `colspan=2|`, `align=left |`.
+    _ATTR = re.compile(r"^\s*((?:[a-z-]+\s*=\s*(?:\"[^\"]*\"|'[^']*'|[^\s|]+)\s*)+)\|(?!\|)(.*)$",
+                       re.I | re.S)
+
+    def gfm_tables(self, text: str) -> str:
+        """Turn the fenced wiki tables into GitHub-flavoured markdown tables.
+
+        tables() fences each table early so later passes cannot mangle it;
+        those passes still convert the cells (links, footnotes, bold), so
+        here only the table syntax is left. colspan pads with empty cells and
+        a caption becomes an italic line above the table. A table markdown
+        cannot express (rowspan above 1, a nested table) stays fenced, so its
+        degradation stays visible and counted.
+        """
+        def repl(m: re.Match) -> str:
+            md = self._wiki_table_to_gfm(m.group(1))
+            if md is None:
+                self.stats["table_kept_fenced"] += 1
+                return m.group(0)
+            self.stats["table_converted"] += 1
+            return md
+        return re.sub(r"```wikitext\n(\{\|.*?\n\|\})\n```", repl, text,
+                      flags=re.S)
+
+    def _wiki_table_to_gfm(self, src: str) -> str | None:
+        lines = src.split("\n")[1:-1]          # drop `{| …` and `|}`
+        if any(l.lstrip().startswith("{|") for l in lines):
+            return None
+        caption = ""
+        rows: list[list[tuple[bool, str, int]]] = []
+        cur: list[tuple[bool, str, int]] | None = None
+
+        def cell(raw: str, head: bool) -> tuple[bool, str, int] | None:
+            span = 1
+            am = self._ATTR.match(raw)
+            if am:
+                attrs, raw = am.group(1), am.group(2)
+                rs = re.search(r"rowspan\s*=\s*\"?(\d+)", attrs, re.I)
+                if rs and int(rs.group(1)) > 1:
+                    return None
+                cs = re.search(r"colspan\s*=\s*\"?(\d+)", attrs, re.I)
+                if cs:
+                    span = max(1, int(cs.group(1)))
+            return (head, raw.strip(), span)
+
+        for line in lines:
+            st = line.strip()
+            if st.startswith("|+"):
+                c = cell(st[2:], False)
+                caption = c[1] if c else st[2:].strip()
+                continue
+            if st.startswith("|-"):
+                cur = None
+                continue
+            if st.startswith("!") or (st.startswith("|") and not st.startswith("|}")):
+                head = st.startswith("!")
+                body = st[1:]
+                parts = re.split(r"!!|\|\|", body) if head else body.split("||")
+                if cur is None:
+                    cur = []
+                    rows.append(cur)
+                for part in parts:
+                    c = cell(part, head)
+                    if c is None:
+                        return None
+                    cur.append(c)
+                continue
+            # A continuation line belongs to the last cell.
+            if cur and st:
+                h, t, sp = cur[-1]
+                cur[-1] = (h, (t + "<br>" + st) if t else st, sp)
+        rows = [r for r in rows if r]
+        if not rows:
+            return None
+
+        def esc(t: str) -> str:
+            t = re.sub(r"</?br\s*/?>", "<br>", t)
+            return t.replace("|", "\\|").replace("\n", "<br>")
+
+        grid = []
+        for r in rows:
+            out = []
+            for _h, t, sp in r:
+                out.append(esc(t))
+                out.extend([""] * (sp - 1))
+            grid.append(out)
+        grid = [r for r in grid if any(c.strip() for c in r)] or grid
+        width = max(len(r) for r in grid)
+        grid = [r + [""] * (width - len(r)) for r in grid]
+        header_row = all(h for h, _t, _s in rows[0])
+        head = grid[0] if header_row else [""] * width
+        body = grid[1:] if header_row else grid
+        out = []
+        if caption:
+            out.append(f"*{caption.strip('*')}*\n")
+        out.append("| " + " | ".join(head) + " |")
+        out.append("|" + "---|" * width)
+        out += ["| " + " | ".join(r) + " |" for r in body]
+        return "\n\n" + "\n".join(out) + "\n\n"
+
     # -- whole document ----------------------------------------------------
 
     def categories(self, text: str) -> tuple[str, list[str]]:
@@ -750,6 +850,7 @@ class Converter:
         body = self.expand_templates(body)
         body = self.inline_markup(body)
         body = self.blocks(body)
+        body = self.gfm_tables(body)
         body = re.sub(r"<!--\s*red link:", "<!-- red link:", body)
         body = re.sub(r"\n{3,}", "\n\n", body).strip()
 
@@ -796,6 +897,9 @@ class Converter:
         """First real sentence, trimmed — the description is what search and
         the index show, so an empty one makes a page effectively invisible."""
         text = re.sub(r"^#.*$", "", body, flags=re.M)
+        # Tables (and their captions) are not prose.
+        text = re.sub(r"^\*[^\n]*\*\n\n(?=\|)", "", text, flags=re.M)
+        text = re.sub(r"^\|.*$", "", text, flags=re.M)
         text = re.sub(r"```wikitext.*?```", "", text, flags=re.S)
         text = re.sub(r"<!--.*?-->", "", text, flags=re.S)
         text = re.sub(r"\[\^?\d+\]:?", "", text)

@@ -4,7 +4,7 @@ about: apologetics
 title: "Larry Laudan"
 description: "Larry Laudan (s. 1941 Austin, Texas) on yhdysvaltalainen filosofi, jonka erikoisaloja ovat tieteenfilosofia ja tietoteoria."
 tags: [apowiki, henkilöt, filosofia]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T20:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Larry Laudan".
@@ -52,18 +52,9 @@ Keskitymme tässä yhteydessä tarkastelemaan käsitystä, jonka mukaan kriteeri
 
 Pyrkimys löytää rajanvetokriteeri tieteen metodista luonnehti 1800-lukua. Silloin yleisen oletuksen mukaan on olemassa erityinen ”tieteellinen metodi”, joka on kaikkia muita tapoja parempi tapa testata empiirisiä väitteitä, vaikka se ei tuotakaan erehtymättömiä tuloksia. Ja vaikka tieteellinen menetelmä tuottaisi ajoittain virheellisiä tuloksia, tieteellisen menetelmän johdonmukainen soveltaminen takaa sen, että kyseiset virheet pian huomataan ja ne voidaan korjata. Jos tiede joskus johtaakin meitä harhaan, tieteellisen tutkimuksen jatkaminen lopulta palauttaa meidät oikealle tielle.[^4]
 
-```wikitext
-{|
-|-
-! | EI-TIETEELLISET TIEDON HANKKIMISEN TAVAT
-! | TIETEEN METODI
-
-|-valign="top"
-| "epäluotettavia"
-| "yksi yhtenäinen menetelmä luotettavan tiedon hankkimiseksi"
-
-|}
-```
+| \| EI-TIETEELLISET TIEDON HANKKIMISEN TAVAT | \| TIETEEN METODI |
+|---|---|
+| "epäluotettavia" | "yksi yhtenäinen menetelmä luotettavan tiedon hankkimiseksi" |
 
 #### Metodivetoisen tieteen jäljillä
 
@@ -122,18 +113,9 @@ Laudan huomauttaa ensinnäkin, että *tieteenfilosofit ovat yleisesti luopuneet 
 
 Voimme ensin pohtia kriteerejä (4) ja (5): tieteelliset teoriat ovat falsifioitavissa (osoitettavissa epätosiksi empiirisen kokemuksen valossa) ja niistä pidetään kiinni ehdollisesti.
 
-```wikitext
-{|
-|-
-! | EI-TIETEELLISET KÄSITYKSET
-! | TIETEELLISET KÄSITYKSET
-
-|-valign="top"
-| "sellaisia, joita ei ole testattu tai joita ei voida testata"
-| "sellaisia, joita voidaan testata ja joita on testattu"
-
-|}
-```
+| \| EI-TIETEELLISET KÄSITYKSET | \| TIETEELLISET KÄSITYKSET |
+|---|---|
+| "sellaisia, joita ei ole testattu tai joita ei voida testata" | "sellaisia, joita voidaan testata ja joita on testattu" |
 
 Laudan[^9] kritisoi väitettä, ettei luomisteoria ole empiirisesti testattavissa ja ettei ole mitään tapaa osoittaa sitä epätodeksi empiirisen kokemuksen pohjalta eli falsifioida sitä. Laudanin mielestä *luomisteoria tekee useita empiirisiä väitteitä, joita voidaan arvioida empiirisen aineiston valossa*. Laudan myöntää, että joitakin luomisteorian väitteitä ei voida testata irrallisina väitteinä, esimerkiksi väitettä, että Jumala loi ihmisen yliluonnollisesti. Tämä ei kuitenkaan tee luomisteoriasta epätieteellistä, koska nykyään yleisesti tunnustetaan, ettei *monia tieteellisiä väitteitä* voida testata irrallisina väitteinä. Ne *voidaan testata vain laajemman väitteiden järjestelmän osina*, joista joillakin on testattavia seuraamuksia.
 
@@ -169,18 +151,9 @@ Tähän erityiseen luomisteorian kritiikkiin liittyy mielenkiintoinen lisähuoma
 > (b) evoluution perusideaa ei saa enää kyseenalaistaa, ja
 > (c) evoluutioteorian tieteellisyys ei ole uhattuna, vaikka sitä ei olla valmiita kyseenalaistamaan?
 
-```wikitext
-{|
-|-
-! | DARVINISTISTA EVOLUUTIOTEORIAA
-! | TIETEELLISYYS
-
-|-valign="top"
-| "ei saa kyseenalaistaa"
-| "edellyttää avointa ja kyseenalaistavaa asennetta"
-
-|}
-```
+| \| DARVINISTISTA EVOLUUTIOTEORIAA | \| TIETEELLISYYS |
+|---|---|
+| "ei saa kyseenalaistaa" | "edellyttää avointa ja kyseenalaistavaa asennetta" |
 
 **James Skehan**in ratkaisuna tähän ongelmaan on julistaa, että evoluution ”yleinen pätevyys” voidaan ”osoittaa loogisesti” – niin että evoluution perusidea säilytetään immuunina haasteilta – samalla kun ”ymmärryksemme teoriasta kehittyy”[^14]. Näin hän katsoo voivansa perustella sen, että evolutionistit ovat edelleen tieteen sisällä, koska heidän ymmärryksensä evoluutioteoriasta ovat ehdollisia ja muutoksen alaisia. Mutta jos tämä on hyväksyttävä keino, silloin *luomisteorian kannattajat voivat käyttää samaa keinoa*.[^15]
 
@@ -188,18 +161,9 @@ Tähän erityiseen luomisteorian kritiikkiin liittyy mielenkiintoinen lisähuoma
 
 Edellä mainitun luomisteoriaa koskevan oikeuden päätöksen kaksi ensimmäistä kriteeriä sisälsivät väitteen, että on epätieteellistä ja sopimatonta olettaa sellaisten prosessien tai tosiasioiden olemassaolo, joita ei voida selittää jonkin tunnetun tieteellisen lain pohjalta.
 
-```wikitext
-{|
-|-
-! | "EI-TIETEELLISIÄ"
-! | "TIETEELLISET SELITYKSET"
-
-|-valign="top"
-| ovat selitykset, jotka eivät perustu luonnonlakiin
-| perustuvat luonnonlakiin
-
-|}
-```
+| \| "EI-TIETEELLISIÄ" | \| "TIETEELLISET SELITYKSET" |
+|---|---|
+| ovat selitykset, jotka eivät perustu luonnonlakiin | perustuvat luonnonlakiin |
 
 #### Kriteerin soveltaminen Arkansasin oikeudenkäynnissä
 
@@ -213,18 +177,9 @@ Laudan[^16] ihmettelee sitä, miten tuomari tietää, ettei maailmanlaajuista tu
 
 On lisäksi huomattava, että *evoluutioteoreettista väitettä, jonka mukaan kaikki eliöt polveutuvat yhteisestä kantaisästä, ei pystytä todistamaan luonnonlain avulla*. Teoria yhteisestä kantaisästä tekee oletuksia hypoteettisista historiallisista tapahtumista ja tapahtumien mallista, jonka on tarkoitus selittää monia nykyisin havaittavia ilmiöitä. Teoria yhteisestä kantaisästä esittää väitteitä siitä, mitä tapahtui menneisyydessä. Se olettaa, että oli olemassa organismeja, jotka ovat välittäviä muotoja nykyisin elävien eliölajien välillä. Meillä *ei kuitenkaan ole mitään havaintoja näistä oletetuista välittävistä eliölajeista. Selittävän työn tässä teoriassa tekee oletettu tapahtumasarja, ei luonnonlaki.*[^17] *Jos siis tätä Rusen toista kriteeriä sovellettaisiin johdonmukaisesti, se vaatisi myös evoluutioteorian määrittelemistä ei-tieteelliseksi.*
 
-```wikitext
-{|
-|-
-! | TEORIA YHTEISESTÄ KANTAISÄSTÄ
-! | "TIETEELLISET SELITYKSET"
-
-|-valign="top"
-| ei perustu luonnonlakiin
-| perustuvat luonnonlakiin
-
-|}
-```
+| \| TEORIA YHTEISESTÄ KANTAISÄSTÄ | \| "TIETEELLISET SELITYKSET" |
+|---|---|
+| ei perustu luonnonlakiin | perustuvat luonnonlakiin |
 
 ### Kriteerien riittämättömyys
 

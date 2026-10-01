@@ -4,7 +4,7 @@ about: apologetics
 title: "Jehovan todistajat"
 description: "Jehovan todistajat on lopun ajan odotusta ja kristinuskon juurille palaamista korostava uskonnollinen liike, joka eroaa kristinuskosta monin tavoin kuten hylkäämällä kolminaisuusopin ."
 tags: [apowiki, teismi]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T20:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jehovan todistajat".
@@ -40,18 +40,10 @@ Kohdan  ([Apt. 7:55-56](../books/act.md)) perusteella todetaan, ettei Stefanos m
 
 Viimeisenä lainataan **New Catholic Encyclopedia** -teosta:
 
-```wikitext
-{| class="wikitable"
-|-
-! Puhu perustellen Raamatulla -kirja !! Kritiikki
-|-
-|"Suurimmalta osaltaan U[uden] T[estamentin] jakeet ilmaisevat Jumalan hengen olevan jokin eikä joku; tämä näkyy erityisesti siitä, että Jumalan henki ja voima rinnastetaan toisiinsa. (1967, XIII osa, s. 575.)"[^2] ||
-Tätä lainausta edeltävä lause kuuluu: ”Vaikka UT:n Jumalan Henki -käsitys on pitkälti jatkumoa VT:sta, UT:ssa paljastuu vähitellen, että Jumalan Henki on Persoona.” Nämä ovat peräisin kappaleesta, jossa käsitellään Uuden testamentin Jumalan henkeä persoonana ja tämän näkemyksen tueksi esitetään useita esimerkkejä eri Uuden testamentin kirjoista.[^7]
-|-
-| ”Apologeetat [toisella vuosisadalla eläneet kreikkalaiset kristityt kirjoittajat] puhuivat Hengestä liian epävarmasti; kirkon myöhempien opetusten valossa voisi sanoa: liian persoonattomasti. (XIV osa, s. 296.)"[^2] ||
-Tätä lainausta edeltävä lause kuuluu: ”Kolminaisuuden ongelma näyttää olleen selvä: Pojan ja (ainakin hämärästi) Pyhän Hengen suhde Jumaluuteen. Kominaisuus-ratkaisu oli kuitenkin vasta tulevaisuutta.” Apologeetat yrittivätkin ymmärtää, miten Jumalan kolme eri persoonaa toimivat yhdessä, mutta erikseen. Kyse ei näin ollen ole ihmistekoisista opeista, vaan pyrkimyksestä ymmärtää Raamatun tekstejä.[^8]
-|}
-```
+| Puhu perustellen Raamatulla -kirja | Kritiikki |
+|---|---|
+| "Suurimmalta osaltaan U[uden] T[estamentin] jakeet ilmaisevat Jumalan hengen olevan jokin eikä joku; tämä näkyy erityisesti siitä, että Jumalan henki ja voima rinnastetaan toisiinsa. (1967, XIII osa, s. 575.)"[^2] | Tätä lainausta edeltävä lause kuuluu: ”Vaikka UT:n Jumalan Henki -käsitys on pitkälti jatkumoa VT:sta, UT:ssa paljastuu vähitellen, että Jumalan Henki on Persoona.” Nämä ovat peräisin kappaleesta, jossa käsitellään Uuden testamentin Jumalan henkeä persoonana ja tämän näkemyksen tueksi esitetään useita esimerkkejä eri Uuden testamentin kirjoista.[^7] |
+| ”Apologeetat [toisella vuosisadalla eläneet kreikkalaiset kristityt kirjoittajat] puhuivat Hengestä liian epävarmasti; kirkon myöhempien opetusten valossa voisi sanoa: liian persoonattomasti. (XIV osa, s. 296.)"[^2] | Tätä lainausta edeltävä lause kuuluu: ”Kolminaisuuden ongelma näyttää olleen selvä: Pojan ja (ainakin hämärästi) Pyhän Hengen suhde Jumaluuteen. Kominaisuus-ratkaisu oli kuitenkin vasta tulevaisuutta.” Apologeetat yrittivätkin ymmärtää, miten Jumalan kolme eri persoonaa toimivat yhdessä, mutta erikseen. Kyse ei näin ollen ole ihmistekoisista opeista, vaan pyrkimyksestä ymmärtää Raamatun tekstejä.[^8] |
 
 #### Sitaatit
 Juutalainen Rabbi [Joseph Hertz](https://en.wikipedia.org/wiki/Joseph_Hertz) on todennut  ([5. Moos. 6:4](../books/deu.md)) jakeesta seuraavaa:
@@ -126,56 +118,29 @@ Käännöstä voi verrata suomalaisten kirkkoraamattujen käännösten kanssa. M
 
 The Kingdom Interlinear Translation of the Greek Scriptures[^16] -rivien välinen englanninnos uudesta testamentista:
 
-```wikitext
-{| class="wikitable"
-|-
-! Englanti: || Not || you are believing || that || I
-|-
-| Kreikka: || οὐ || πιστεύεις || ὅτι || ἐγὼ
-|-
-! Englanti: || in || the || Father || and
-|-
-| Kreikka: || ἐν || τῷ || πατρὶ || καὶ
-|-
-! Englanti: || the || Father || in || me
-|-
-| Kreikka: || ὁ || πατὴρ || ἐν || ἐμοί
-|-
-! Englanti: || is? || The || sayings || which
-|-
-| Kreikka: || ἐστιν || τὰ || ῥήματα || ἃ
-|-
-! Englanti: || I || am saying || to you || from
-|-
-| Kreikka: || ἐγὼ || λέγω || ὑμῖν || ἀπ’
-|-
-! Englanti: || myself || not || I am speaking; || the
-|-
-| Kreikka: || ἐμαυτοῦ || οὐ || λαλῶ· || ὁ
-|-
-! Englanti: || but || Father || in || me
-|-
-| Kreikka: || δὲ || πατὴρ || ἐν || ἐμοὶ
-|-
-! Englanti: || remaining || is doing || the || works
-|-
-| Kreikka: || μένων || ποιεῖ || τὰ || ἔργα
-|-
-! Englanti: || of him. ||  ||  ||
-|-
-| Kreikka: || αὐτοῦ. ||  ||  ||
-|}
-```
+| Englanti: | Not | you are believing | that | I |
+|---|---|---|---|---|
+| Kreikka: | οὐ | πιστεύεις | ὅτι | ἐγὼ |
+| Englanti: | in | the | Father | and |
+| Kreikka: | ἐν | τῷ | πατρὶ | καὶ |
+| Englanti: | the | Father | in | me |
+| Kreikka: | ὁ | πατὴρ | ἐν | ἐμοί |
+| Englanti: | is? | The | sayings | which |
+| Kreikka: | ἐστιν | τὰ | ῥήματα | ἃ |
+| Englanti: | I | am saying | to you | from |
+| Kreikka: | ἐγὼ | λέγω | ὑμῖν | ἀπ’ |
+| Englanti: | myself | not | I am speaking; | the |
+| Kreikka: | ἐμαυτοῦ | οὐ | λαλῶ· | ὁ |
+| Englanti: | but | Father | in | me |
+| Kreikka: | δὲ | πατὴρ | ἐν | ἐμοὶ |
+| Englanti: | remaining | is doing | the | works |
+| Kreikka: | μένων | ποιεῖ | τὰ | ἔργα |
+| Englanti: | of him. |  |  |  |
+| Kreikka: | αὐτοῦ. |  |  |  |
 
-```wikitext
-{| class="wikitable"
-|-
-! Uuden maailman käännös !! Vuoden 1938 kirkkoraamattu
-|-
-|Etkö usko, että minä olen Isän yhteydessä ja Isä on minun yhteydessäni? Niitä asioita, jotka minä sanon teille, en puhu omasta aloitteestani, vaan Isä, joka pysyy minun yhteydessäni, tekee tekojaan. ||
-Etkö usko, että minä olen Isässä, ja että Isä on minussa? Niitä sanoja, jotka minä teille puhun, minä en puhu itsestäni; ja Isä, joka minussa asuu, tekee teot, jotka ovat hänen.
-|}
-```
+| Uuden maailman käännös | Vuoden 1938 kirkkoraamattu |
+|---|---|
+| Etkö usko, että minä olen Isän yhteydessä ja Isä on minun yhteydessäni? Niitä asioita, jotka minä sanon teille, en puhu omasta aloitteestani, vaan Isä, joka pysyy minun yhteydessäni, tekee tekojaan. | Etkö usko, että minä olen Isässä, ja että Isä on minussa? Niitä sanoja, jotka minä teille puhun, minä en puhu itsestäni; ja Isä, joka minussa asuu, tekee teot, jotka ovat hänen. |
 
 Rivienvälisestä englanninnoksesta voidaan nähdä, että merkityksellä "olla yhteydessä" on käännetty prepositio ἐν. Sillä on Gyllenbergin UT:n sanakirjan mukaan monia merkitysvivahteita, kuten yhteen kuuluminen, mutta myös mainitaan yhteydessä ja jonkun voimassa toimimista ilmaisevat käyttötavat. Viimeksi mainituista mainitaan esimerkkeinä kirjeissä esiintyvät fraasit Kristuksessa, Herrassa, Jumalassa jne. Lisäksi erikseen  mainitaan laajemmin *en pneúmati* 'hengessä', joka esiintyy myös senkaltaisessa fraasissa kuin *en pneúmati akathártooi* 'epäpuhtaassa hengessä'.
 

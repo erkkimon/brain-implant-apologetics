@@ -4,7 +4,7 @@ about: apologetics
 title: "Entropian lain evoluutioteoreettinen merkitys"
 description: "Ohjaamattoman evoluution mahdollisuuteen tai mahdottomuuteen liittyvissä väittelyissä tulee usein esille termodynamiikan toinen pääsääntö eli entropian laki."
 tags: [apowiki, evoluutioteoria]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T20:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Entropian lain evoluutioteoreettinen merkitys".
@@ -47,19 +47,10 @@ On välittömästi selvää, ettei entropian laki ole elollisen luonnon tarkoitu
 
 Uusdarvinistien retoriikkaa analysoiden syntyy vaikutelma, että he mieltävät tilanteen seuraavalla tavalla:
 
-```wikitext
-{| class="wikitable"
-!colspan="3"|Entropian laki: evolutionistinen virhetulkinta
-|-
-|*eristetty systeemi*
-|*suljettu systeemi*
-|*avoin systeemi*
-|-
-|Entropian laki estää entropian vähenemisen.
-|Entropian laki ei ole voimassa.
-|Entropian laki ei ole voimassa.
-|}
-```
+| Entropian laki: evolutionistinen virhetulkinta |  |  |
+|---|---|---|
+| *eristetty systeemi* | *suljettu systeemi* | *avoin systeemi* |
+| Entropian laki estää entropian vähenemisen. | Entropian laki ei ole voimassa. | Entropian laki ei ole voimassa. |
 
 Tuo on kuitenkin väärä käsitys: todellisuudessa entropian laki on voimassa aina ja kaikkialla.
 
@@ -71,19 +62,10 @@ Eristetyt ja suljetut systeemit ovat kuitenkin fysikaalisesti jokseenkin hyvin m
 
 Tässä korjattu käsitys:
 
-```wikitext
-{| class="wikitable"
-!colspan="3"|Entropian laki: todellinen merkitys
-|-
-|*eristetty systeemi*
-|*suljettu systeemi*
-|*avoin systeemi*
-|-
-|Entropian lain mukaan entropia kasvaa stokastis-maksimaalisesti. Eristys estää ulkopuolisten tekijöiden vaikutuksen tarkasteltavaan systeemiin, joten sen kokonaisentropia ei voi ainakaan vähetä vaan joko on jo maksimaalinen tai sitten yhä kaiken aikaa kasvamassa.
-|Entropian lain mukaan entropia kasvaa stokastis-maksimaalisesti. Entropian lain lisäksi myös energianvaihto ympäristön kanssa vaikuttaa systeemin tilaan.
-|Entropian lain mukaan entropia kasvaa stokastis-maksimaalisesti. Entropian lain lisäksi myös aineen (ja energiankin) vaihto ympäristön kanssa vaikuttaa systeemin tilaan.
-|}
-```
+| Entropian laki: todellinen merkitys |  |  |
+|---|---|---|
+| *eristetty systeemi* | *suljettu systeemi* | *avoin systeemi* |
+| Entropian lain mukaan entropia kasvaa stokastis-maksimaalisesti. Eristys estää ulkopuolisten tekijöiden vaikutuksen tarkasteltavaan systeemiin, joten sen kokonaisentropia ei voi ainakaan vähetä vaan joko on jo maksimaalinen tai sitten yhä kaiken aikaa kasvamassa. | Entropian lain mukaan entropia kasvaa stokastis-maksimaalisesti. Entropian lain lisäksi myös energianvaihto ympäristön kanssa vaikuttaa systeemin tilaan. | Entropian lain mukaan entropia kasvaa stokastis-maksimaalisesti. Entropian lain lisäksi myös aineen (ja energiankin) vaihto ympäristön kanssa vaikuttaa systeemin tilaan. |
 
 Tässä korjauksessa ei ole kysymys ainoastaan siitä, että "entropian laki" on ymmärretty evolutionisteista poikkeavalla tavalla: he ajattelevat sitä ainoastaan matemaattisena kaavana, joka on fysikaalisesti voimassa ainoastaan tietynlaisten, varsin vaativien reunaehtojen vallitessa, nimittäin eristetyissä termodynaamisissa systeemeissä; tässä taas "entropian laki" on kaikkialla elottomassa luonnossa vallitseva tapahtumisen luonnollinen suunta maksimaalista epäjärjestystä (universumin kokonaisenergian maksimaalista hyödyttömyyttä, "lämpökuolemaa") kohti.
 

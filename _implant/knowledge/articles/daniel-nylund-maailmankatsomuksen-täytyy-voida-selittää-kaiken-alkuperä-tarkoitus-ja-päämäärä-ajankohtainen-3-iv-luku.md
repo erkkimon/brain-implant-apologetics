@@ -4,7 +4,7 @@ about: apologetics
 title: "Daniel Nylund: Maailmankatsomuksen täytyy voida selittää kaiken alkuperä, tarkoitus ja päämäärä (Ajankohtainen 3, IV luku)"
 description: "Modernin taiteen edelläkävijä Paul Gauguin (1848-1903) kirjoitti viimeiseen maalaukseensa ennen epäonnistunutta itsemurhayritystään: \"Mistä tulemme?"
 tags: [apowiki, maailmankatsomus, tekijänoikeuden-alaiset-artikkelit]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T20:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Daniel Nylund: Maailmankatsomuksen täytyy voida selittää kaiken alkuperä, tarkoitus ja päämäärä (Ajankohtainen 3, IV luku)".
@@ -68,50 +68,15 @@ Niinkuin Sartre sanoi, suurin filosofinen ongelma on se, että ylipäänsä jota
 
 Seuraavassa on piirretty kaavion muotoon ne vastausvaihtoehdot, jotka alkuperäkysymykselle on esitetty: (piirros yritetty tässä kuvata sanallisesti)
 
-```wikitext
-{|
-|- align="center" valign="bottom"
-|-
-! colspan="4" style="font-size: 130%;" | Luomakunta, kosmos
-
-|-
-! style="font-size: 110%;" | Ominaisuus
-! colspan="3" style="font-size: 110%;" | Vaihtoehdot
-
-|- align="center"
-
-|Jos luomakuntaa ei ole olemassa
-|| Kaikki on vain harhaa
-|| tai
-|| illuusiota
-|- align="center" valign="bottom"
-|Jos luomakunta on olemassa
-|| Se on saanut alkunsa eikä ole ikuinen
-|| tai
-|| Se ei ole saanut alkuaan ja on ikuinen
-|- align="center" valign="bottom"
-|Ellei se ole ikuinen ja on saanut alkunsa
-|| Alkuperälle on jokin syy
-|| tai
-|| Alkuperälle ei ole mitään syytä
-|- align="center" valign="bottom"
-|Jos alkuperälle on syy
-|| Se on persoonallinen
-|| tai
-|| Se on persoonaton
-|- align="center" valign="bottom"
-|Jos syy on persoonallinen
-|| Se on persoonallinen hyvä
-|| tai
-|| Se on persoonallinen paha
-|- align="center" valign="bottom"
-|Jos syy on persoonallinen hyvä
-|| Hän on Raamatun kolmiyhteinen Jumala
-|| tai
-|| Kyseessä on joku muu jumaluus, esim. Koraanin Allah
-|-
-|}
-```
+| Luomakunta, kosmos |  |  |  |
+|---|---|---|---|
+| Ominaisuus | Vaihtoehdot |  |  |
+| Jos luomakuntaa ei ole olemassa | \| Kaikki on vain harhaa | \| tai | \| illuusiota |
+| Jos luomakunta on olemassa | \| Se on saanut alkunsa eikä ole ikuinen | \| tai | \| Se ei ole saanut alkuaan ja on ikuinen |
+| Ellei se ole ikuinen ja on saanut alkunsa | \| Alkuperälle on jokin syy | \| tai | \| Alkuperälle ei ole mitään syytä |
+| Jos alkuperälle on syy | \| Se on persoonallinen | \| tai | \| Se on persoonaton |
+| Jos syy on persoonallinen | \| Se on persoonallinen hyvä | \| tai | \| Se on persoonallinen paha |
+| Jos syy on persoonallinen hyvä | \| Hän on Raamatun kolmiyhteinen Jumala | \| tai | \| Kyseessä on joku muu jumaluus, esim. Koraanin Allah |
 
 Kaiken olemassaolon kieltäminen on mahdotonta, koska täytyy ensin olla olemassa joku, joka kieltää. Jos kieltäjä on olemassa, niin hänen kieltonsa on pätemätön.
 

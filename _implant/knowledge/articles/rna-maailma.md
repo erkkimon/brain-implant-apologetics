@@ -4,7 +4,7 @@ about: apologetics
 title: "RNA-maailma"
 description: "Kuva: katalyyttejä; näiden ribotsyymien joukossa olisi sitten päälle päätteeksi ollut sellainenkin, joka sopivasta nukleotidien yhdistelmästä muodostuneena olisi alkanut kopioida itseään."
 tags: [apowiki, abiogeneesi]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T20:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "RNA-maailma".
@@ -68,58 +68,10 @@ Riboosi voi esiintyä useissa eri muodoissa, ja sattumakemia tuottaa näitä kai
 
 [Adeniinin](https://fi.wikipedia.org/wiki/Adeniini) tuotanto [syaanivedystä](https://fi.wikipedia.org/wiki/syaanivety) (HCN) on optimiolosuhteissakin vain 1 %:n luokkaa. Sitä paitsi HCN reagoi riboosin tuottamiseksi tarvittavan formaldehydin kanssa, joten näiden esiintyminen samassa liemessä vähentäisi sekä riboosin että typpiemästen tuottoa. Vaihtoehtoisesti riboosin täytyisi syntyä yhdessä liemessä ja typpiemästen toisessa, minkä jälkeen nämä seokset sekoittuisivat sopivalla tavalla. Tällainen tapahtuma olisi alkumaapallollakin ymmärrettävästi harvinainen.
 
-```wikitext
-{|
-|- align="center" valign="center"
-| **Emäs**||
-
-*Kuva: Adeniinin kemiallinen rakenne. Atomit on värjätty seuraavasti: hiili harmaa, typpi sininen, vety valkoinen*
-
-Adeniini
-||
-
-*Kuva: Guaniinin kemiallinen rakenne. Atomit on värjätty seuraavasti:happi punainen, hiili harmaa, typpi sininen, vety valkoinen*
-
-Guaniini
-||
-
-*Kuva: Sytosiinin kemiallinen rakenne. Atomit on värjätty seuraavasti:happi punainen, hiili harmaa, typpi sininen, vety valkoinen*
-
-Sytosiini
-||
-
-*Kuva: Urasiilin kemiallinen rakenne. Atomit on värjätty seuraavasti:happi punainen, hiili harmaa, typpi sininen, vety valkoinen*
-
-Urasiili
-|- align="center" valign="center"
-| **Nukleotidi**
-||
-
-*Kuva: AMP kemiallinen rakenne viivakaavana*
-
-Adenosiinimonofosfaatti
-A
-||
-
-*Kuva: GMP kemiallinen rakenne viivakaavana*
-
-Guanosiinimonofosfaatti
-G
-||
-
-*Kuva: CMP kemiallinen rakenne viivakaavana*
-
-Sytidiinimonofosfaatti
-C
-||
-
-*Kuva: UMP kemiallinen rakenne viivakaavana*
-
-Uridiinimonofosfaatti
-U
-|-
-|}
-```
+|  |  |  |  |  |
+|---|---|---|---|---|
+| **Emäs** | *Kuva: Adeniinin kemiallinen rakenne. Atomit on värjätty seuraavasti: hiili harmaa, typpi sininen, vety valkoinen*<br>Adeniini | \|<br>*Kuva: Guaniinin kemiallinen rakenne. Atomit on värjätty seuraavasti:happi punainen, hiili harmaa, typpi sininen, vety valkoinen*<br>Guaniini | \|<br>*Kuva: Sytosiinin kemiallinen rakenne. Atomit on värjätty seuraavasti:happi punainen, hiili harmaa, typpi sininen, vety valkoinen*<br>Sytosiini | \|<br>*Kuva: Urasiilin kemiallinen rakenne. Atomit on värjätty seuraavasti:happi punainen, hiili harmaa, typpi sininen, vety valkoinen*<br>Urasiili |
+| **Nukleotidi** | \|<br>*Kuva: AMP kemiallinen rakenne viivakaavana*<br>Adenosiinimonofosfaatti<br>A | \|<br>*Kuva: GMP kemiallinen rakenne viivakaavana*<br>Guanosiinimonofosfaatti<br>G | \|<br>*Kuva: CMP kemiallinen rakenne viivakaavana*<br>Sytidiinimonofosfaatti<br>C | \|<br>*Kuva: UMP kemiallinen rakenne viivakaavana*<br>Uridiinimonofosfaatti<br>U |
 
 [Sytosiinille](https://fi.wikipedia.org/wiki/sytosiini) ja [urasiilille](https://fi.wikipedia.org/wiki/urasiili) ei tunneta mitään abioottista syntymekanismia, joten alku-RNA:n olisi ilmeisesti täytynyt käyttää joitakin muita typpiemäksiä näiden tilalla.[^2] Sopivien raaka-aineiden ja niiden syntytodennäköisyyksien tuntemattomuus heikentää tietenkin RNA-maailma-hypoteesin uskottavuutta. [Guaniinille](https://fi.wikipedia.org/wiki/Guaniini) tunnetaan syntymekanismi, mutta sen syntyminen on adeniiniakin huomattavasti epätodennäköisempää. Se vaatii myös niin korkean HCN-pitoisuuden, ettei riboosia voida synnyttää samassa liemessä, koska sen vaatima formaldehydi reagoisi syaanivedyn kanssa ja estäisi guaniinin synteesin. Guaniinin synteesi olisi optimioloissakin alle 0,1 %.
 
@@ -163,66 +115,21 @@ Seuraavaksi pyritään arvioimaan RNA-maailma-hypoteesin uskottavuutta numeerise
    * Oletetaan sama todennäköisyys adeniinin lisäksi myös muille typpiemäksille: 2p(X)/3 ≈ 0,67 * 0,04 ≈ 0,02667.
 1. Oletetaan vielä fosfaattien aina tarvittaessa sopivasti syntyvän, ilmaantuvan paikalle ja liittyvän riboosimolekyyleihin asianmukaisesti, niin että RNA-runko syntyy siltä osin varmasti.[^7]
 
-```wikitext
-{|  align=right
-|-
-! | n
-! | p(RNA)
-|-
-
-|-
-| 1
-| 4,7 * 10<sup>-4</sup>
-
-|-
-| 5
-| 2,2 * 10<sup>-17</sup>
-
-|-
-| 10
-| 4,9 * 10<sup>-34 </sup>
-
-|-
-| 15
-| 1,1 * 10<sup>-50</sup>
-
-|-
-|20
-| 2,4 * 10<sup>-67</sup>
-
-|-
-|25
-| 5,3 * 10<sup>-84</sup>
-
-|-
-|30
-| 1,2 * 10<sup>-100</sup>
-
-|-
-|35
-| 2,6 * 10<sup>-117</sup>
-
-|-
-|40
-| 5,8 * 10<sup>-134</sup>
-
-|-
-|45
-| 1,3 * 10<sup>-150</sup>
-
-|-
-|50
-| 2,8 * 10<sup>-167</sup>
-
-|-
-|75
-| 1,5 * 10<sup>-250</sup>
-
-|-
-|90
-| 1,6 * 10<sup>-300</sup>
-|}
-```
+| \| n | \| p(RNA) |
+|---|---|
+| 1 | 4,7 * 10<sup>-4</sup> |
+| 5 | 2,2 * 10<sup>-17</sup> |
+| 10 | 4,9 * 10<sup>-34 </sup> |
+| 15 | 1,1 * 10<sup>-50</sup> |
+| 20 | 2,4 * 10<sup>-67</sup> |
+| 25 | 5,3 * 10<sup>-84</sup> |
+| 30 | 1,2 * 10<sup>-100</sup> |
+| 35 | 2,6 * 10<sup>-117</sup> |
+| 40 | 5,8 * 10<sup>-134</sup> |
+| 45 | 1,3 * 10<sup>-150</sup> |
+| 50 | 2,8 * 10<sup>-167</sup> |
+| 75 | 1,5 * 10<sup>-250</sup> |
+| 90 | 1,6 * 10<sup>-300</sup> |
 
 Matematiikkaa hyödyntäen nämä oletukset johtavat seuraaviin tuloksiin:
 *Kunkin soveliaan nukleotidin muodostumismahdollisuudeksi saadaan yhden typpiemäksen ja yhden riboosimolekyylin suotuisan keskinäiskiinnittymisen todennäköisyys: p(Nukl) = 2p(X)/3 * p(R)/2 ≈ 0,02667 * 0,035 ≈ 9,33 * 10<sup>-4</sup>

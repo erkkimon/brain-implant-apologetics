@@ -4,7 +4,7 @@ about: apologetics
 title: "Islam"
 description: "Islam on maahanmuuttajien uskonnoista läntisen maailman kannalta hankalin."
 tags: [apowiki, teismi, islam]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T20:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Islam".
@@ -65,26 +65,11 @@ On siis tärkeää katsoa, mitä itse uskonto väittää ja miten sen perustaja 
 
 Alla on lyhyt vertailu Jeesuksen ja Muhammadin toiminnan välillä.
 
-```wikitext
-{|
-|-
-! | Jeesus
-! | Muhammed
-|-
-
-| Kieltäytyi maallisesta vallasta.[^17]
-| Kävi valloitussotia, salamurhautti ihmisiä ja ryösteli karavaaneja[^18].
-
-|-
-| Nuhteli opetuslapsia, jotka halusivat kostaa kovakorvaisille ihmisille.[^19]
-| Tapatti vääräuskoiset.
-
-|-
-| Kehoitti rakastamaan vihollista[^20] ja pesi opetuslastensa jalat[^21].
-| Tappoi vihollisensa, ja häntä palveltiin.
-
-|}
-```
+| \| Jeesus | \| Muhammed |
+|---|---|
+| Kieltäytyi maallisesta vallasta.[^17] | Kävi valloitussotia, salamurhautti ihmisiä ja ryösteli karavaaneja[^18]. |
+| Nuhteli opetuslapsia, jotka halusivat kostaa kovakorvaisille ihmisille.[^19] | Tapatti vääräuskoiset. |
+| Kehoitti rakastamaan vihollista[^20] ja pesi opetuslastensa jalat[^21]. | Tappoi vihollisensa, ja häntä palveltiin. |
 
 On tietenkin mustavalkoista väittää, että Muhammad olisi ollut vain verenhimoinen tyranni. Hän oli myös yhteiskunnallinen hyväntekijä, köyhien (muslimien) auttaja. Hän myös antoi monille vihollisilleen anteeksi ja vapautti heitä, kehotti käymään katsomassa sairaita, köyhiä ja vanhuksia. Valitettavasti kuitenkin usein Muhammadista esitettävässä kokonaiskuvassa hänen synkkä puolensa pyritään häivyttämään kokonaan. Vaikka hän olikin monessa mielessä varmasti hyvä, esimerkillinen ja kunnioitettava islamin keulakuva, hän oli samalla kostonhimoinen, arvostelua sietämätön, julma ja arvaamaton (tyypillisiä piirteitä myös monelle muullekin itsevaltiaalle)[^22].
 

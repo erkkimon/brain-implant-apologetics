@@ -2,7 +2,7 @@
 type: skill
 title: Convert ApoWiki wikitext into implant articles
 description: Use when turning the ApoWiki export in raw/apowiki-export/ into searchable articles under knowledge/ — the deterministic, token-free conversion that produces the MVP, including wiki-link resolution, citation footnotes and the topic spine that grounds every page.
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T20:00:00Z
 depends_on: [skills/using-the-brain-implant.md]
 tools:
   - skills/tools/apowiki_convert.py
@@ -72,9 +72,13 @@ references linked to their book pages, zero ghosts.
   `{{Verkkoviite}}` keeps its URL and access date. This is the corpus's main
   value under [every claim carries its receipt](../conventions/every-claim-carries-its-receipt.md).
 * **Degradation is visible, never silent.** An unknown template is emitted as
-  a fenced `wikitext` block and counted in the report; the 41 wiki tables are
-  preserved the same way rather than half-converted. A converter that drops
-  what it cannot parse looks successful while destroying the archive.
+  a fenced `wikitext` block and counted in the report (none are left in
+  revision 11402). Wiki tables become markdown tables, with colspan padded
+  and a caption as an italic line; a table markdown cannot express (rowspan
+  above 1, a nested table) stays fenced and counts as `table_kept_fenced`.
+  All 41 converted on 2026-10-01 ([journal](../journals/2026-10-01.md)). A
+  converter that drops what it cannot parse looks successful while
+  destroying the archive.
 * **Red links are honest.** A wiki link whose target does not exist becomes
   plain text plus an HTML comment (`<!-- red link: Target -->`), so it is
   greppable and reported, never a path that merely looks plausible.

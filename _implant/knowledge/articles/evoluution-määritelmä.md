@@ -4,7 +4,7 @@ about: apologetics
 title: "Evoluution määritelmä"
 description: "Tämä artikkeli käsittelee \"evoluutio\"-termin erilaisia määritelmiä."
 tags: [apowiki, evoluutioteoria]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T20:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Evoluution määritelmä".
@@ -39,19 +39,9 @@ Evoluution todisteita arvioitaessa on tärkeätä varoa syyllistymästä [virhee
 
 Ohessa on listattu neljä eniten käytettyä evoluution määritelmää:[^1][^5]
 
-```wikitext
-{|style="padding: 0.2em; margin-left:40px; border: 1px solid #B8C7D9; background:#f5faff; font-size: 95%"
-|
-***Evoluutio #1** *Muutoksia ajan saatossa; Luonnonhistoria; mikä tahansa tapahtumasarja luonnossa.*
-> Luonnonhistoria ei ole staattinen. Ne luonnontieteen alat, jotka pyrkivät ymmärtämään luonnonhistoriaa, käsittelevät evoluutiota #1. merkityksessä - luonnon muuttumisena ajan saatossa. Astronomit tutkivat tähtien elämänkaaria, geologit Maapallon pinnan muutoksia, paleontologit tarkastelevat maakerrostumista lajityyppien muutoksia ajan saatossa, biologit huomioivat ekologista kehittymistä kirjoitetun historian saatossa, esimerkiksi sellaista, jossa karu saari peittyy rehevään metsikköön. Vaikka viimeisellä esimerkillä ei ole paljoakaan tekemistä uusdarwinistisen evoluutioteorian kanssa, se kuitenkin sopii #1. määritelmään evoluutiosta tapahtumasarjana luonnonhistoriassa.
-***Evoluutio #2**
-> Evoluutiolla voidaan tarkoittaa, että nykyiset eliöt ovat erilaisia kuin eliöt kaukaisessa menneisyydessä. Tarkemmin ottaen tällaisella evoluutiolla viitataan luonnollisten prosessien tuottamaan [perinnölliseen muunteluun](perinnöllisen-muuntelun-mekanismit.md). Jopa kreationistit hyväksyvät, että tällaista "muuntelua populaation geenipoolissa" tapahtuu.
-***Evoluutio #3**
-> Jotkin tiedemiehet assosioivat sanan "evoluutio" ideaan, jonka mukaan kaikki nykyiset eliöt polveutuvat yhdestä yhteisestä esi-isästä. Väite tunnetaan nykyään [polveutumisoppina](polveutumisoppi.md). Tämä teoria kuvaa elämän historian haarautuvana puuna.
-***Evoluutio #4**
-> Toiset ihmiset viittaavat *evoluutio* -termillä kehityksen syyhyn tai mekanismiin, eli biologiseen prosessiin, joka johtaa [kehitysopin](evoluutioteoria.md) mukaiseen eliölajien kehitykseen yhteisestä kantamuodosta nykyiseen lajien monimuotoisuuteen. Oppi universaalista yhteisestä esi-isästä (evoluutio #3) muodostaa yhdessä perinnöllisen muuntelun (evoluutio #2) tuottaman kehityksen (evoluutio #4) kanssa ytimen uusdarvinistiselle evoluutioteorialle.
-|}
-```
+|  |
+|---|
+| ***Evoluutio #1** *Muutoksia ajan saatossa; Luonnonhistoria; mikä tahansa tapahtumasarja luonnossa.*<br>> Luonnonhistoria ei ole staattinen. Ne luonnontieteen alat, jotka pyrkivät ymmärtämään luonnonhistoriaa, käsittelevät evoluutiota #1. merkityksessä - luonnon muuttumisena ajan saatossa. Astronomit tutkivat tähtien elämänkaaria, geologit Maapallon pinnan muutoksia, paleontologit tarkastelevat maakerrostumista lajityyppien muutoksia ajan saatossa, biologit huomioivat ekologista kehittymistä kirjoitetun historian saatossa, esimerkiksi sellaista, jossa karu saari peittyy rehevään metsikköön. Vaikka viimeisellä esimerkillä ei ole paljoakaan tekemistä uusdarwinistisen evoluutioteorian kanssa, se kuitenkin sopii #1. määritelmään evoluutiosta tapahtumasarjana luonnonhistoriassa.<br>***Evoluutio #2**<br>> Evoluutiolla voidaan tarkoittaa, että nykyiset eliöt ovat erilaisia kuin eliöt kaukaisessa menneisyydessä. Tarkemmin ottaen tällaisella evoluutiolla viitataan luonnollisten prosessien tuottamaan [perinnölliseen muunteluun](perinnöllisen-muuntelun-mekanismit.md). Jopa kreationistit hyväksyvät, että tällaista "muuntelua populaation geenipoolissa" tapahtuu.<br>***Evoluutio #3**<br>> Jotkin tiedemiehet assosioivat sanan "evoluutio" ideaan, jonka mukaan kaikki nykyiset eliöt polveutuvat yhdestä yhteisestä esi-isästä. Väite tunnetaan nykyään [polveutumisoppina](polveutumisoppi.md). Tämä teoria kuvaa elämän historian haarautuvana puuna.<br>***Evoluutio #4**<br>> Toiset ihmiset viittaavat *evoluutio* -termillä kehityksen syyhyn tai mekanismiin, eli biologiseen prosessiin, joka johtaa [kehitysopin](evoluutioteoria.md) mukaiseen eliölajien kehitykseen yhteisestä kantamuodosta nykyiseen lajien monimuotoisuuteen. Oppi universaalista yhteisestä esi-isästä (evoluutio #3) muodostaa yhdessä perinnöllisen muuntelun (evoluutio #2) tuottaman kehityksen (evoluutio #4) kanssa ytimen uusdarvinistiselle evoluutioteorialle. |
 
 Kun lukija kohtaa termin "evoluutio" hänen olisikin syytä kysyä itseltään, mitä yllä mainituista määritelmistä käytetään (vai käytetäänkö mahdollisesti jotakin muuta?). Suuri osa [uusdarvinismin](evoluutioteoria.md) kriitikoista keskittyy määritelmiin #3 ja #4. Keskustelu muuttuu kuitenkin sekavaksi, kun joku esittää Evoluutio #2:n todistavia seikkoja, pyrkien näin todistamaan Evoluutio #3:n ja #4:n. Vastaavasti toiset taas saattavat käsitellä Evoluutio #3:n ja Evoluutio #4:n ongelmia, minkä vuoksi heitä syytetään Evoluutio #2 torjumisesta. Tämä ei ole totta, sillä myös ne biologit, jotka kyseenalaistavat uusdarvinistisen [evoluutioteorian](evoluutioteoria.md), hyväksyvät Evoluutio #2:n.[^5]
 
@@ -59,13 +49,9 @@ Kun lukija kohtaa termin "evoluutio" hänen olisikin syytä kysyä itseltään, 
 
 Evoluutioteorian kritiikissä on monesti tehty käsitteellinen jako mikro- ja markoevoluutioon. Näiden käsitteiden käyttö keskustelussa on käytännössä kuitenkin ongelmallista, koska yleensä on vaikea saavuttaa yksimielisyyttä näiden [termien](../glossary/sanasto.md#termi) määritelmistä. Mikroevoluutiolla tarkoitetaan pientä muuntelua, kun taas makroevoluutiolla jotakin suurempaa. Termien tarkoituksena on määrittää muuntelun mahdollisuudet ja rajat. Esimerkiksi Evoluutio – kriittinen analyysi <!-- red link: Evoluutio – kriittinen analyysi (kirja) --> (myöhemmin: "E-ka") antaa termeille määritelmät:
 
-```wikitext
-{|style="padding: 0.2em; margin-left:40px; border: 1px solid #B8C7D9; background:#f5faff; font-size: 95%"
-|
-***Mikroevoluutio**: Evoluutio olemassa olevien rakennetuntomerkkien sisällä; määrällinen muutos jo olemassa olevissa elimissä, rakenteissa tai rakennesuunnitelmissa.
-***Makroevoluutio**: Täysin uusien elimien, rakenteiden ja rakennesuunnitelmien synty ja niihin liittyvä kvalitatiivisesti uusi geneettinen materiaali. Tässä merkityksessä käytetään termiä korkeammalle kehittyminen.[^6]
-|}
-```
+|  |
+|---|
+| ***Mikroevoluutio**: Evoluutio olemassa olevien rakennetuntomerkkien sisällä; määrällinen muutos jo olemassa olevissa elimissä, rakenteissa tai rakennesuunnitelmissa.<br>***Makroevoluutio**: Täysin uusien elimien, rakenteiden ja rakennesuunnitelmien synty ja niihin liittyvä kvalitatiivisesti uusi geneettinen materiaali. Tässä merkityksessä käytetään termiä korkeammalle kehittyminen.[^6] |
 
 Kuten E-ka:ssa tämän jälkeen todetaankin, näiden määritelmien mukaan mikro- ja makroevoluution ero ei ole määrällinen vaan laadullinen. Yleensä näitä termejä käytetään kuitenkin liitettynä taksonomisiin ryhmiin, niin että mikroevoluutio tarkoittaa lajin sisäistä muuntelua[^7], kun taas makroevoluutio tarkoittaa lajirajan ylittävää muuntelua ja uusien taksonomisten ryhmien syntymistä.[^8] E-ka mukaileekin termien taksonomisia määritelmiä liittämällä termit [perusryhmän](https://fi.wikipedia.org/wiki/perusryhmä) käsitteeseen. Tällöin "mikroevoluutiota ovat kaikki muuntelutapahtumat, jotka jäävät perusryhmän rajojen sisälle. Makroevoluutiota olisi uuden perusryhmän syntyminen toisesta."[^9]
 

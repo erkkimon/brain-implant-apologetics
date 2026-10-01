@@ -4,7 +4,7 @@ about: apologetics
 title: "Onko moraaliopetus indoktrinaatiota?"
 description: "Indoktrinaation sisältökriteerin tavanomainen tulkinta on sikäli ongelmallinen, että kukaan ei ole onnistunut määrittelemään opillisen uskomuksen käsitettä siten, että olisi mahdollista erottaa opilliset uskomukset tiedollisesti hyväksyttävistä, erityisesti tieteellisistä uskomuksista."
 tags: [apowiki, etiikka, kasvatusfilosofia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T20:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Onko moraaliopetus indoktrinaatiota?".
@@ -53,20 +53,10 @@ Moraalisen tiedon osalta mielipiteet eroavat yhtä jyrkästi. Useat antirealisti
 
 Moraalirealistit ovat poikkeuksetta kognitivisteja ja olettavat, että moraalisesta todellisuudesta on mahdollista saada tietoa. Moraalilauseet ovat tietoväitteitä, joko tosia tai epätosia. Moraalinen keskustelu ja argumentointi on mielekästä, koska kriittinen keskustelu auttaa meitä lähestymään oikeaa käsitystä moraalisesta todellisuudesta.
 
-```wikitext
-{| class="wikitable"
-|-
-! Moraalirealismi !! colspan="2" | Moraalinen antirealismi
-|-
-! Kognitivismi (A)
-! Kognitivismi (B)
-! Ei-kognitivismi
-|-
-| On olemassa moraalista tietoa
-| Ihmiset toimivat ikään kuin olisi olemassa moraalista tietoa
-| (subjektivismi, emotivismi)
-|}
-```
+| Moraalirealismi | Moraalinen antirealismi |  |
+|---|---|---|
+| Kognitivismi (A) | Kognitivismi (B) | Ei-kognitivismi |
+| On olemassa moraalista tietoa | Ihmiset toimivat ikään kuin olisi olemassa moraalista tietoa | (subjektivismi, emotivismi) |
 
 Voitaisiin antaa lukuisia esimerkkejä moraalin tiedollista ja todellisuuspohjaista luonnetta puoltavista teorioista, mutta se ei ole välttämätöntä tämän luvun keskeisen argumentin kehittämisen kannalta. Tarkoituksena on tässä yhteydessä ainoastaan luoda kuvaa perustavasta ongelmasta sisältökriteerin soveltamisessa moraaliopetukseen. Sisältökriteerin kannattajat olettavat toteen näytetyksi, että moraalilla ei ole todellisuuspohjaa eivätkä moraaliset väitteet siksi ole tietoväitteitä. Ilman tätä antirealistista oletusta ei sisältökriteeriä voida käyttää ongelmattomasti luonnehtimaan moraalisten periaatteiden opettamista indoktrinaatioksi. Nykyisessä moraalifilosofisessa keskustelussa ei antirealismia kuitenkaan pidetä kiistämättömänä totuutena. Vaikka sisältökriteerin perinteinen sovellus edellyttääkin moraalisen antirealismin kiistämätöntä totuutta, näyttää sen osoittaminen nyt olevan paljon kauempana kuin 1900-luvun alkupuoliskolla. Viime vuosikymmeninä on virinnyt keskustelu, jossa moraalirealismin puolesta on esitetty uutta argumentaatiota.
 

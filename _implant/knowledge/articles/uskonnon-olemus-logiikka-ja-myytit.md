@@ -4,7 +4,7 @@ about: apologetics
 title: "Uskonnon olemus, logiikka ja myytit"
 description: "Erästä viimeaikaista uskonrauhan rikkomissyytettä käsitelleeseen juttuun antamassaan ratkaisussa Helsingin käräjäoikeus oli lausunut mm."
 tags: [apowiki, media, maailmankatsomus]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T20:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Uskonnon olemus, logiikka ja myytit".
@@ -30,45 +30,12 @@ Koska tämä nimenomainen perustelutapa on ollut välitön syy käsillä olevan 
 
 Seuraava taulukko tiivistää sen, mitä Helsingin käräjäoikeuden kyseisestä lausumasta voi välittömästi todeta:
 
-```wikitext
-{|
-|-
-! | Helsingin KO:n tekstikohta[^1]
-! | tulkinta
-! | kommentti
-! | kritiikki
-! | johtopäätös
-
-|-
-| *"objektiivisesti arvioiden ..."*
-| julistautuminen objektiivisen totuuden haltijaksi käsiteltävässä asiassa
-| pelkkä perustelematon julistus
-| filosofisesti kestämätöntä isottelua
-| oletettu yleisesti hyväksytyksi näkemykseksi
-
-|-
-| *"... jo minkä tahansa uskonnon olemukseen kuuluu ..."*
-| väittämän yleistäminen kaikkia uskontoja koskevaksi
-| perustuu edeltävään objektiivisuusväittämään, joka puolestaan on luulonvarainen julistus
-| naturalistisen ontologian varainen johtopäätös
-| oletettu yleisesti hyväksytyksi näkemykseksi
-
-|-
-| *"sen ["minkä hyvänsä uskonnon"] käsitteisiin liittyvä totuus oli suhteellista"*
-| oman oletetun objektiivisuuden varaan rakennettu toisten subjektiivisuuden julistus
-| perustuu filosofisesti kestämättömän luulon varaan
-| loukkaa kokemustasolla kenen hyvänsä uskonrauhaa, joka ei pidä "omaa uskontoaan" tällaisena
-| oletettu yleisesti hyväksytyksi tai "kunnon kansalaisilta" nyky-Suomessa vaadituksi näkemykseksi
-
-|-
-| *"Logiikalla tai niin sanotuilla järkiperusteluilla ei tämän vuoksi ollut todellista merkitystä uskonnollisista kysymyksistä käytävässä keskustelussa."*
-| pääväite
-| ei tosiasiallisesti edes perustu pelkkien edellisluulojen varaan vaan sisältää uusiakin: oletettu "suhteellinen totuus" ei vielä riittäisi tekemään logiikkaa ja "ns." järkiperusteluja tykkänään merkityksettömiksi
-| siirtää oikeudenkäytön suorastaan kafkamaiseen "syytetty tiesi tai olisi ainakin pitänyt tietää, ettei logiikka tässä tapauksessa pätenyt eikä järkiperusteluja saanut käyttää" -tilaan
-| oikeusjutun ratkaisun perusteluna suoranaisesti väitetty yleisesti hyväksytyksi tai "kunnon kansalaisilta" nyky-Suomessa vaadituksi näkemykseksi, josta poikkeamisesta saa muiden edellytysten täyttyessä rikosoikeudellisesti rangaistakin
-
-|}
-```
+| \| Helsingin KO:n tekstikohta[^1] | \| tulkinta | \| kommentti | \| kritiikki | \| johtopäätös |
+|---|---|---|---|---|
+| *"objektiivisesti arvioiden ..."* | julistautuminen objektiivisen totuuden haltijaksi käsiteltävässä asiassa | pelkkä perustelematon julistus | filosofisesti kestämätöntä isottelua | oletettu yleisesti hyväksytyksi näkemykseksi |
+| *"... jo minkä tahansa uskonnon olemukseen kuuluu ..."* | väittämän yleistäminen kaikkia uskontoja koskevaksi | perustuu edeltävään objektiivisuusväittämään, joka puolestaan on luulonvarainen julistus | naturalistisen ontologian varainen johtopäätös | oletettu yleisesti hyväksytyksi näkemykseksi |
+| *"sen ["minkä hyvänsä uskonnon"] käsitteisiin liittyvä totuus oli suhteellista"* | oman oletetun objektiivisuuden varaan rakennettu toisten subjektiivisuuden julistus | perustuu filosofisesti kestämättömän luulon varaan | loukkaa kokemustasolla kenen hyvänsä uskonrauhaa, joka ei pidä "omaa uskontoaan" tällaisena | oletettu yleisesti hyväksytyksi tai "kunnon kansalaisilta" nyky-Suomessa vaadituksi näkemykseksi |
+| *"Logiikalla tai niin sanotuilla järkiperusteluilla ei tämän vuoksi ollut todellista merkitystä uskonnollisista kysymyksistä käytävässä keskustelussa."* | pääväite | ei tosiasiallisesti edes perustu pelkkien edellisluulojen varaan vaan sisältää uusiakin: oletettu "suhteellinen totuus" ei vielä riittäisi tekemään logiikkaa ja "ns." järkiperusteluja tykkänään merkityksettömiksi | siirtää oikeudenkäytön suorastaan kafkamaiseen "syytetty tiesi tai olisi ainakin pitänyt tietää, ettei logiikka tässä tapauksessa pätenyt eikä järkiperusteluja saanut käyttää" -tilaan | oikeusjutun ratkaisun perusteluna suoranaisesti väitetty yleisesti hyväksytyksi tai "kunnon kansalaisilta" nyky-Suomessa vaadituksi näkemykseksi, josta poikkeamisesta saa muiden edellytysten täyttyessä rikosoikeudellisesti rangaistakin |
 
 Tutkistelun tulos on näin ollen se, että tällaisilla päätösperusteilla ja -perusteluilla maamme oikeuslaitos on ainakin joiltain osin jo "maalannut itsensä nurkkaan" eli päätynyt *loogiseen umpikujaan*: jos virallisesti ajatellaan olevan olemassa elämänalueita, joilla logiikka ja järkiperustelut ovat asiaankuulumattomia, ja jos oikeuslaitos katsoo voivansa käyttää tällaista kantaa ratkaisuperusteenaan, koko oikeusvaltion perusidea on menetetty: kun oikeusistuin niin halutessaan irtautuu ratkaisuissaan logiikan ja järkiperusteiden asettamista rajoista, ratkaisuja ei enää voi ennakoida järjellä eikä niistä voi jälkikäteenkään vakuuttua niiden järkiperusteluihin tutustumalla, vaan eletään oikeudellisen mielivallan alaisuudessa – jos nyt logiikka ja järkiperusteet ovat muutoin "tarkoituksenmukaiseksi" harkitun oikeusistuinratkaisun tiellä, sen pahempi logiikalle ja järkiperusteille: "oikeushan" voi pelkällä omalla julistuksellaan niistä vapaasti irtisanoutuakin.
 
@@ -104,45 +71,8 @@ Kaiken kaikkiaan näyttäisikin siis siltä kuin Helsingin käräjäoikeus olisi
 
 <!--
 
-```wikitext
-{|
-|-
-! | Helsingin KO:n tekstikohta
-! | tulkinta
-! | kommentti
-! | kritiikki
-! | johtopäätös
-
-|-
-|
-|
-|
-|
-|
-
-|-
-|
-|
-|
-|
-|
-
-|-
-|
-|
-|
-|
-|
-
-|-
-|
-|
-|
-|
-|
-
-|}
-```
+| \| Helsingin KO:n tekstikohta | \| tulkinta | \| kommentti | \| kritiikki | \| johtopäätös |
+|---|---|---|---|---|
 
 -->
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Tarkoituksellisuuspäättelyn logiikka"
 description: "Tarkoituksellisuuspäättely on suunnitteluteoreettinen päättely, joka johtaa tutkittavaan kohteeseen liittyvän suunnitteluhypoteesin vahvistamiseen tai hylkäämiseen."
 tags: [apowiki, suunnitteluteoria]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T20:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tarkoituksellisuuspäättelyn logiikka".
@@ -77,95 +77,17 @@ Kuten sanottu, tarkoituksellisuuspäättely on valmis hylkäämään suunnittelu
 
 Yksityiskohtaisempi vertailutaulukko on [Todennäköisyysrajojen vertailu](todennäköisyysrajojen-vertailu.md) -artikkelissa.
 
-```wikitext
-{|
-|-
-! | Todennäköisyys[^9]
-! | Todennäköisyyden 2-kantaisen logaritmin vastaluku eli informaatioarvo[^10] bitteinä[^11]
-! | Tapahtuman aihepiiri
-! | Tapahtuman kuvaus
-! | Tapahtuman merkitys[^12]
-|-
-
-| 0,05
-(alitettava tn-raja)
-| 4,3
-| Klassinen tilastotiede
-| Tätä epätodennäköisempiä tapahtumia pidetään klassisessa tilastotieteessä nollahypoteesin hylkäämiseksi *melkein merkitsevinä*.
-| On syytä epäillä, että oletettu selitys (todennäköisyysjakauma) on väärä. Sitä ei ole osoitettu vääräksi, mutta sen selitysvoima on kyseenalainen.
-
-|-
-| 0,01
-(alitettava tn-raja)
-| 6,6
-| Klassinen tilastotiede
-| Tätä epätodennäköisempiä tapahtumia pidetään klassisessa tilastotieteessä nollahypoteesin hylkäämiseksi *merkitsevinä*.
-| On syytä pitää oletettua selitystä virheellisenä ja pyrkiä etsimään sen tilalle jotakin uskottavampaa.
-
-|-
-| 0,001
-(alitettava tn-raja)
-| 9,97
-| Klassinen tilastotiede
-| Tätä epätodennäköisempiä tapahtumia pidetään klassisessa tilastotieteessä nollahypoteesin hylkäämiseksi *erittäin merkitsevinä*.
-| Oletettu selitys on ilman muuta hylättävä. Ellei uskottavampaa selitystä ole tarjolla, on rehellisyyden nimissä myönnettävä, ettei tutkimuskohteelle tunneta toimivaa selitystä. Sellaista tietenkin sitäkin aktiivisemmin haetaan.
-
-|-
-| 0,000'001'539'1
-| 19,3
-| Pokeri
-| Hyvin sekoitettu pakka, yksi yritys, sokkona valitut 5 korttia muodostavat kuningasvärisarjan.
-| Kuningasvärisarja (l. "kuningasvärisuora", engl. *royal flush*) on paras pokerikäsi; sen muodostavat ässä, kuvakortit ja kymppi, jotka ovat kaikki samaa maata.[^13]
-
-|-
-| 10<sup>-20</sup>
-(tn-raja)
-| 66,4
-| Evoluutiobiologia
-| 1 *CCC*
-| Biokemisti [Michael Behen](michael-behe.md) [mukaan](the-edge-of-evolution-kirja.md) tämä on probabilistinen vaativuusaste, jonka ohjaamaton mutaatio-luonnonvalintamekanismi voi vielä ylittää melko usein jos lajin populaatiokoko ja mutaatiotaajuus ovat riittävän suuria.
-
-|-
-| 10<sup>-40</sup>
-(tn-raja)
-| 132,9
-| Evoluutiobiologia
-| 2 *CCC*
-| Biokemisti [Michael Behen](michael-behe.md) [mukaan](the-edge-of-evolution-kirja.md) tämä on probabilistinen vaativuusaste, jota ohjaamaton mutaatio-luonnonvalintamekanismi todennäköisesti *ei ole kyennyt ylittämään* teoreettisen tarkastelun sen enempää kuin käytännön havaintojenkaan mukaan *kertaakaan elämän historian aikana*.
-
-|-
-| 10<sup>-50</sup>
-(alitettava tn-raja)
-| 166,1
-| Sovellettu probabilistiikka
-| Matemaatikko [*Emile Borel*in](http://en.wikipedia.org/wiki/Emile_Borel) ehdotus yleiseksi todennäköisyysrajaksi
-| Borelin mukaan tätä epätodennäköisemmät ilmiöt ovat käytännössä mahdottomia.[^14]
-
-|-
-| 10<sup>-100</sup> (tasan)
-| 332,2
-| Matematiikan opetus
-| Yksi mahdollisuus [googolista](https://fi.wikipedia.org/wiki/googol)
-| "Googol" on otettu käyttöön havainnollistamaan "käsittämättömän suuren luvun" ideaa (erotuksena *äärettömästä*). Niinpä näin epätodennäköisen tapahtuman voi katsoa havainnollistavan "käytännössä mahdottoman" ideaa (erotuksena eksaktista nollatodennäköisyydestä, jota voi pitää *äärettömän käänteislukuna*).
-
-|-
-| <math>\frac{1}{2} \cdot 10^{-150}</math>
-(alitettava tn-raja)
-| <math>\textstyle500</math>
-(saavutettava tai ylitettävä informaatioraja)
-| Dembskin tarkoituksellisuuspäättely
-| Yleinen todennäköisyysraja (engl. *universal probability bound*)
-| Dembskin mukaan tätä epätodennäköisemmät *määrittyneet* (engl. *specified*, suomennettu m. "täsmennetyt") ilmiöt ovat käytännössä mahdottomia. Tämä tarkoittaa klassisen tilastotieteellisen päättelyn logiikan mukaan sitä, että käytetty selitysmalli, tässä tapauksessa oletus ohjaamattomasta, tarkoituksettomasta syntyhistoriasta, on hylättävä. Tällöin siis ilmiö on pääteltävä tarkoituksellisesti aiheutetuksi.
-
-|-
-|
-|
-|
-|
-|
-
-|}
-```
+| \| Todennäköisyys[^9] | \| Todennäköisyyden 2-kantaisen logaritmin vastaluku eli informaatioarvo[^10] bitteinä[^11] | \| Tapahtuman aihepiiri | \| Tapahtuman kuvaus | \| Tapahtuman merkitys[^12] |
+|---|---|---|---|---|
+| 0,05<br>(alitettava tn-raja) | 4,3 | Klassinen tilastotiede | Tätä epätodennäköisempiä tapahtumia pidetään klassisessa tilastotieteessä nollahypoteesin hylkäämiseksi *melkein merkitsevinä*. | On syytä epäillä, että oletettu selitys (todennäköisyysjakauma) on väärä. Sitä ei ole osoitettu vääräksi, mutta sen selitysvoima on kyseenalainen. |
+| 0,01<br>(alitettava tn-raja) | 6,6 | Klassinen tilastotiede | Tätä epätodennäköisempiä tapahtumia pidetään klassisessa tilastotieteessä nollahypoteesin hylkäämiseksi *merkitsevinä*. | On syytä pitää oletettua selitystä virheellisenä ja pyrkiä etsimään sen tilalle jotakin uskottavampaa. |
+| 0,001<br>(alitettava tn-raja) | 9,97 | Klassinen tilastotiede | Tätä epätodennäköisempiä tapahtumia pidetään klassisessa tilastotieteessä nollahypoteesin hylkäämiseksi *erittäin merkitsevinä*. | Oletettu selitys on ilman muuta hylättävä. Ellei uskottavampaa selitystä ole tarjolla, on rehellisyyden nimissä myönnettävä, ettei tutkimuskohteelle tunneta toimivaa selitystä. Sellaista tietenkin sitäkin aktiivisemmin haetaan. |
+| 0,000'001'539'1 | 19,3 | Pokeri | Hyvin sekoitettu pakka, yksi yritys, sokkona valitut 5 korttia muodostavat kuningasvärisarjan. | Kuningasvärisarja (l. "kuningasvärisuora", engl. *royal flush*) on paras pokerikäsi; sen muodostavat ässä, kuvakortit ja kymppi, jotka ovat kaikki samaa maata.[^13] |
+| 10<sup>-20</sup><br>(tn-raja) | 66,4 | Evoluutiobiologia | 1 *CCC* | Biokemisti [Michael Behen](michael-behe.md) [mukaan](the-edge-of-evolution-kirja.md) tämä on probabilistinen vaativuusaste, jonka ohjaamaton mutaatio-luonnonvalintamekanismi voi vielä ylittää melko usein jos lajin populaatiokoko ja mutaatiotaajuus ovat riittävän suuria. |
+| 10<sup>-40</sup><br>(tn-raja) | 132,9 | Evoluutiobiologia | 2 *CCC* | Biokemisti [Michael Behen](michael-behe.md) [mukaan](the-edge-of-evolution-kirja.md) tämä on probabilistinen vaativuusaste, jota ohjaamaton mutaatio-luonnonvalintamekanismi todennäköisesti *ei ole kyennyt ylittämään* teoreettisen tarkastelun sen enempää kuin käytännön havaintojenkaan mukaan *kertaakaan elämän historian aikana*. |
+| 10<sup>-50</sup><br>(alitettava tn-raja) | 166,1 | Sovellettu probabilistiikka | Matemaatikko [*Emile Borel*in](http://en.wikipedia.org/wiki/Emile_Borel) ehdotus yleiseksi todennäköisyysrajaksi | Borelin mukaan tätä epätodennäköisemmät ilmiöt ovat käytännössä mahdottomia.[^14] |
+| 10<sup>-100</sup> (tasan) | 332,2 | Matematiikan opetus | Yksi mahdollisuus [googolista](https://fi.wikipedia.org/wiki/googol) | "Googol" on otettu käyttöön havainnollistamaan "käsittämättömän suuren luvun" ideaa (erotuksena *äärettömästä*). Niinpä näin epätodennäköisen tapahtuman voi katsoa havainnollistavan "käytännössä mahdottoman" ideaa (erotuksena eksaktista nollatodennäköisyydestä, jota voi pitää *äärettömän käänteislukuna*). |
+| <math>\frac{1}{2} \cdot 10^{-150}</math><br>(alitettava tn-raja) | <math>\textstyle500</math><br>(saavutettava tai ylitettävä informaatioraja) | Dembskin tarkoituksellisuuspäättely | Yleinen todennäköisyysraja (engl. *universal probability bound*) | Dembskin mukaan tätä epätodennäköisemmät *määrittyneet* (engl. *specified*, suomennettu m. "täsmennetyt") ilmiöt ovat käytännössä mahdottomia. Tämä tarkoittaa klassisen tilastotieteellisen päättelyn logiikan mukaan sitä, että käytetty selitysmalli, tässä tapauksessa oletus ohjaamattomasta, tarkoituksettomasta syntyhistoriasta, on hylättävä. Tällöin siis ilmiö on pääteltävä tarkoituksellisesti aiheutetuksi. |
 
 ### Tarkoituksellisuuspäättelyn luotettavuuteen kohdistettu kritiikki
 

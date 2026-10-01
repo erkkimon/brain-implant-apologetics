@@ -4,7 +4,7 @@ about: apologetics
 title: "Rekapitulaatioteoria"
 description: "Kuva: Ernst Haeckelin väärentämät kuvat selkärankaisten alkioista."
 tags: [apowiki, evoluutiokritiikki, lukusuositukset, haeckel, ernst, sikiöväärennökset, sikiöpiirros, sikiöpiirrokset, sikiöpiirroskiista, sikiökuva, sikiökuvat, alkio, kidukset, häntä, lapsivesi]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T20:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Rekapitulaatioteoria".
@@ -103,43 +103,18 @@ On valitettavaa, että suomalainen tiedepopulismi on näinkin rähmällään.
 ##### Yhdysvallat
 Huolimatta siitä, että Haeckelin sikiösarjojen väärennösluonne tiedettiin jo tämän elinaikana, "taideteos" on säilyttänyt sitkeästi asemansa biologian oppikirjoissa. Amerikkalainen embryologi [Jonathan Wells](https://fi.wikipedia.org/wiki/John_Corrigan_Wells) <!-- red link: Jonathan Wells --> tutki kymmenen amerikkalaisen biologian oppikirjan esittämiä todisteita evoluutioteorian puolesta ja julkaisi tutkimuksensa kirjassa [Icons of Evolution](icons-of-evolution-kirja.md).[^5] Kymmenestä tutkitusta kirjasta kahdeksan käytti Haeckelin piirrustukseen perustuvaa kuvasarjaa. Jokainen kirjoista oli kirjoitettu (copyright-vuodesta päätellen) vuonna 1998 tai myöhemmin. Ehkä eniten keskustelua on herättänyt evoluutiobiologi Douglas Futuyman kirjoittama kirja Evolutionary Biology, jossa tämä Haeckelin piirros oli sovellettuna evoluutioteorian todisteeksi.
 
-```wikitext
-{|
-|-
-! | Oppikirja
-! | Julkaistu
-|-
-| Joseph Raver, Biology: Patterns and Processes of Life
-| 2003
-|-
-| Cecie Starr and Ralph Taggart, Biology: The Unity and Diversity of Life (proposed version)
-| 2003
-|-
-| Peter H Raven & George B Johnson, Biology
-| 2002
-|-
-| Michael Padilla et al., Focus on Life Science (California Edition)
-| 2001
-|-
-| Peter H Raven & George B Johnson, Biology
-| 1999
-|-
-| William D. Schraer and Herbert J. Stoltze, Biology: The Study of Life
-| 1999
-|-
-| Douglas J. Futuyma, Evolutionary Biology
-| 1998
-|-
-| Cecie Starr and Ralph Taggart, Biology: The Unity and Diversity of Life
-| 1998
-|-
-| Kenneth R Miller & Joseph Levine, Biology: The Living Science
-| 1998
-|-
-| Kenneth R Miller & Joseph Levine, Biology
-| 1998
-|}
-```
+| \| Oppikirja | \| Julkaistu |
+|---|---|
+| Joseph Raver, Biology: Patterns and Processes of Life | 2003 |
+| Cecie Starr and Ralph Taggart, Biology: The Unity and Diversity of Life (proposed version) | 2003 |
+| Peter H Raven & George B Johnson, Biology | 2002 |
+| Michael Padilla et al., Focus on Life Science (California Edition) | 2001 |
+| Peter H Raven & George B Johnson, Biology | 1999 |
+| William D. Schraer and Herbert J. Stoltze, Biology: The Study of Life | 1999 |
+| Douglas J. Futuyma, Evolutionary Biology | 1998 |
+| Cecie Starr and Ralph Taggart, Biology: The Unity and Diversity of Life | 1998 |
+| Kenneth R Miller & Joseph Levine, Biology: The Living Science | 1998 |
+| Kenneth R Miller & Joseph Levine, Biology | 1998 |
 
 Kansallinen tiedekasvatuskeskus (National Center for Science Education – NSCE) on sittemmin yrittänyt väittää, että väärennöksiä käytettiin oppikirjoissa 20 vuotta sitten. Discovery Institute listaa joukon biologian oppikirjoja, jotka ovat käyttäneet viimeisen 10 vuoden aikana Haeckelin alkiopiirroksia (tai lähes identtisiä värikopiota) evoluutioteorian tukemiseen.[^26]
 

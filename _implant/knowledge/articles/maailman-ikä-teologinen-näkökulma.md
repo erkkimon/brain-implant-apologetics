@@ -4,7 +4,7 @@ about: apologetics
 title: "Maailman ikä – teologinen näkökulma"
 description: "Tämän tekstin tavoite on esitellä ja verrata näkyvän universumin (maailmankaikkeuden) ja maapallon ikää koskevia erilaisia raamatuntulkintoja."
 tags: [apowiki, raamattu, luomisoppi]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T20:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Maailman ikä – teologinen näkökulma".
@@ -170,368 +170,62 @@ Concordia-teologinen kritiikki on taulukoitu erikseen tuonnempana.
 
 Molemmille kannoille annetaan todennäköisyyksiä asiakohtaisesti ja nämä yhdistetään kokonaiskuvaksi. Asia voidaan jättää todennäköisyyksien perusteella auki, koska kyseessä ei ole pelastuskysymys eli ei ole suurta riskiä, mikäli päätöstä ei tehdä välittömästi. Raamattuhan antaa meille ”kaiken mitä elämään ja jumalisuuteen tarvitaan” ja tietysti muutakin. Kysymys maapallon iästä kuuluu tuohon muut-ryhmään, ellei siitä tehdä pelastuskysymystä. Todennäköisyydet perustuvat kannan sisäiseen ennusteeseen eli siihen, miten todennäköistä kannan perusteella kyseinen havainto Raamatusta tai luonnosta on. Todennäköisyydet tässä ovat suuntaa antavia arvioita ja henkilön taustaymmärryksestä riippuvaisia. Niitä muuttavat se, kuinka varmana henkilö pitää tämän hetken tietämystämme. Jos esimerkiksi ajattelemme, että tällä hetkellä tiedämme 80% kaikesta tieteellisestä tiedosta, voimme pitää sitä, ettei kanta pysty selittämään mittaustulosta, suurena ongelmana ja siten todennäköisyyttä pienenä. Mikäli ajattelemme, että tiedämme 20% kaikesta tiedosta, kannan ongelma nykytietämyksen kanssa ei tee kannasta kovin epätodennäköistä. Asia ei ole kovin yksinkertainen, voidaan toki olettaa, että jatkotutkimus ei tule olemaan paljonkaan ristiriidassa nykyisten teorioiden kanssa, jolloin nykytietämykseen voitaisiin luottaa aika paljonkin. Mutta tämä on vain oletus ja hyvinkin tapauskohtainen, riippuen siitä, kuinka paljon ja kuinka välitöntä tietoa tapauksessa käytetään ja kuinka paljon teoreettisempaa tietoa ja taustaoletuksia tapaus käyttää.
 
-```wikitext
-{|
-|-
-! | Raamatun kohta
-! | YEC
-! | p<sub>YEC</sub>
-! | OEC
-! | p<sub>OEC</sub>
-|-
-
-| 1.Moos. 1 Päivä
-|
-| 1
-| Raamattu käyttää sanaa kuvaamaan myös ajanjaksoa. Saarn.
-| 0.7
-
-|-
-| 1.Moos. 1 ”Tuli ehtoo, tuli aamu, n:näs päivä”
-|
-| 1
-|
-| 0.5
-
-|-
-| 1.Moos. 1 Päivästä puhutaan ennen kuin aurinko ja kuu tehty tai näkyvissä.
-| Kirjaimellinen ehtoo ja aamu, auringon merkitsemä tulkinta päivälle ehkä hankala. Toisaalta ”Jumalan henki valaisi”.
-| 0.9
-| Auringon et al tekoa tarkoittava hebrean sana voidaan kääntää myös esiin tuomisena. Alkoivat näkyä 4. Päivänä.
-| 0.9
-
-|-
-| 1.Moos. 2 6. Päivä Aatami tekee paljon hommia
-|
-| 0.2
-|
-| 1
-
-|-
-| 1.Moos. 1 Sukuluetteloiden pituus
-|
-| 1
-| Yleensä OEC laittavat pitkät iät 1.Moos. 1 yhteyteen, eivät sukuluett. Aukkoihin, mutta taipumusta on venyttää sukuluetteloitakin. Toisaalta tekstin mukaankin luetteloissa on aukkoja.
-| 0.75
-
-|-
-| Nooan tulva:
-
-vedet kaikkien vuorien yli
-|
-| 1
-| Tulkitaan paikallisena tulvana, koskien sitä aluetta jolle ihmiset olivat levittäytyneet. Vrt. ”kaikki maa verolle”
-| 0.75
-
-|-
-| Nooan tulva:
-
-Arkkiin kaikkia eläimiä
-|
-| 1
-| Vain karjaeläimiä tai paikallisia lajeja
-| 0.7
-
-|-
-| Kuolema ennen lankeemusta?
-| Kuoleman tulo lankeemuksessa ei ratkaise pahan ongelmaa mutta tekee free will puolustuksen konkreettisemmaksi.
-| 1
-| Adam tiesi mitä kuolema tarkoittaa ja varmaankin kasveja, viruksia ja bakteereja kuoli paratiisissa, ehkä isompiakin eliöitä. Luomakunta kirottiin lankeemuksessa mutta teksti ei sano että kuolema tuli koko luomakunnalle lankeemuksen yhteydessä, ihmiselle tuli.
-| 1
-
-|-
-| Matt ”alussa Jumala loi heidät mieheksi ja naiseksi.”
-|
-| 1
-| ”Alussa” voi viitata ihmiskunnan alkuun.
-| 0.5
-
-|-
-| 7. päivä ei ole päättynyt? Hebr 4
-|
-| 0.5
-|
-| 1
-
-|-
-| Ps 90:4 Jumalan päivä eri kuin meidän.
-|
-| 0.9
-|
-| 1
-
-|}
-```
+| \| Raamatun kohta | \| YEC | \| p<sub>YEC</sub> | \| OEC | \| p<sub>OEC</sub> |
+|---|---|---|---|---|
+| 1.Moos. 1 Päivä |  | 1 | Raamattu käyttää sanaa kuvaamaan myös ajanjaksoa. Saarn. | 0.7 |
+| 1.Moos. 1 ”Tuli ehtoo, tuli aamu, n:näs päivä” |  | 1 |  | 0.5 |
+| 1.Moos. 1 Päivästä puhutaan ennen kuin aurinko ja kuu tehty tai näkyvissä. | Kirjaimellinen ehtoo ja aamu, auringon merkitsemä tulkinta päivälle ehkä hankala. Toisaalta ”Jumalan henki valaisi”. | 0.9 | Auringon et al tekoa tarkoittava hebrean sana voidaan kääntää myös esiin tuomisena. Alkoivat näkyä 4. Päivänä. | 0.9 |
+| 1.Moos. 2 6. Päivä Aatami tekee paljon hommia |  | 0.2 |  | 1 |
+| 1.Moos. 1 Sukuluetteloiden pituus |  | 1 | Yleensä OEC laittavat pitkät iät 1.Moos. 1 yhteyteen, eivät sukuluett. Aukkoihin, mutta taipumusta on venyttää sukuluetteloitakin. Toisaalta tekstin mukaankin luetteloissa on aukkoja. | 0.75 |
+| Nooan tulva:<br>vedet kaikkien vuorien yli |  | 1 | Tulkitaan paikallisena tulvana, koskien sitä aluetta jolle ihmiset olivat levittäytyneet. Vrt. ”kaikki maa verolle” | 0.75 |
+| Nooan tulva:<br>Arkkiin kaikkia eläimiä |  | 1 | Vain karjaeläimiä tai paikallisia lajeja | 0.7 |
+| Kuolema ennen lankeemusta? | Kuoleman tulo lankeemuksessa ei ratkaise pahan ongelmaa mutta tekee free will puolustuksen konkreettisemmaksi. | 1 | Adam tiesi mitä kuolema tarkoittaa ja varmaankin kasveja, viruksia ja bakteereja kuoli paratiisissa, ehkä isompiakin eliöitä. Luomakunta kirottiin lankeemuksessa mutta teksti ei sano että kuolema tuli koko luomakunnalle lankeemuksen yhteydessä, ihmiselle tuli. | 1 |
+| Matt ”alussa Jumala loi heidät mieheksi ja naiseksi.” |  | 1 | ”Alussa” voi viitata ihmiskunnan alkuun. | 0.5 |
+| 7. päivä ei ole päättynyt? Hebr 4 |  | 0.5 |  | 1 |
+| Ps 90:4 Jumalan päivä eri kuin meidän. |  | 0.9 |  | 1 |
 
 ### Concordia-teologinen näkökulma tulkintoihin
 
 [Concordia-teologia](concordia-teologian-periaatteet.md) (*ct*) muodostaa elimellisen kokonaisuuden, mistä syystä paras tapa saada siihen otetta on ko. kannan mukaisen näkemyksen koottu esittäminen. Taulukkoa voi haluttaessa myös laajentaa kattamaan omissa sarakkeissaan muitakin teologisia kokonaisajattelutapoja; siinä yhteydessä myös väliotsikkoa on syytä päivittää vastaavasti (esim. **Teologisia näkökulmia tulkintoihin**).
 
-```wikitext
-{|
-|-
-! | Näkökohta
-! | *Ct*-kommentti
-! | [Tilaa vaihtoehdoille]
-! | [Tilaa vaihtoehdoille]
-! | [Tilaa vaihtoehdoille]
-|-
-
-| Ajatus, jonka mukaan Raamatun luomiskertomus on kovin tulkinnanvarainen ja erilaisille tulkinnoille pitäisi siksi olla tilaa, ilman että asiasta tehdään pelastuskysymystä.
-| Pelastuskysymyksenä[^5] on lähtökohtaisesti raamattunäkemys sinänsä, ei jonkin tietyn osan tulkinta erikseen[^6]. Jos Raamattua pidetään vapaan tulkinnan varaisena, se ei voi olla perimmäinen opillinen auktoriteetti, vaan auktoriteetti on siirretty selittäjille, joiden edesottamukset ovat suureksi osaksi kontrolloimattomissa. *Ct*:n mukaan Raamattu on omien selitystensä tuomari, ts. mikään selitys ei ole hyväksyttävä, ellei se osoittaudu Raamatun tekstin kanssa tarkasti yhteensopivaksi, ja vain tekstiuskollisinta selitystä voi kussakin kohdassa turvallisesti ja hyvällä omallatunnolla seurata.
-|
-|
-|
-|-
-
-| Määräämättömän pitkä päivä (*mpp*) -tulkinta kokonaisuutena
-| Kirjaimellisesti ottaen säilyttäisi tapahtumajärjestyksen; silloin esim. kasvikunnan hidas kehkeyttäminen päättyisi ennen ensimmäisen siivekkään eläimen olemassaoloa. Miten pölytys olisi tapahtunut? Onko kukaan tosissaan yrittänytkään yksityiskohtaista selitystä tällaisesta näkökulmasta?
-|
-|
-|
-|-
-
-| *Mpp*-perustelu: "Maa tuottaa – vaikuttaa pitemmältä kuin yksi päivä."
-| Näin ainoastaan, jos on jo etukäteen omaksuttu jonkinlainen evolutiivinen tulkinta; teksti nimenomaan sanoo Jumalan saattaneen tämän tapahtumaan yhtenä tiettynä päivänä. – Vrt. ruokkimisihmeen "tulkinta", jonka mukaan kansan asettaminen ryhmiin "vaikuttaisi" kestäneen niin kauan, että opetuslapset ehtivät sillävälin "kerätä kolehdin" ja käydä ostamassa leipää lähimmästä kylästä.
-|
-|
-|
-|-
-
-| *Mpp*-perustelu: "'Siihen aikaan' on sama sana kuin 'päivä', joka tässä siis viittaa pitempään ajanjaksoon."
-| Tahdottaneen sanoa, että sanonta, jonka merkitys hepreassa on 'siihen aikaan', olisi sananmukaisesti käännettynä 'sinä päivänä'. – Tällaisia idiomeja on kielessä kuin kielessä, ja juuri siksi, että ne ovat idiomeja (kirjaimellisesta merkityksestään jossain määrin poikkeavia vakiintuneita ilmaisuja), niistä ei voi päätellä niissä esiintyvien sanojen merkitystä ko. idiomien ulkopuolisissa käyttöyhteyksissä. – Ellei ko. ilmausta jo valmiiksi tiedettäisi idiomiksi, tekstiyhteys sallisi tässä kirjaimellisenkin tulkinnan: "ensimmäisenä luomispäivänä ei vielä ollut ihmistä" jne.
-|
-|
-|
-|-
-
-| *Mpp*-perustelu: "Samoin ilmeisesti Hesekiel 30:3 – – [käyttää] päivä-sanaa pitemmässä mielessä – –."
-| "Ilmeisesti"??? – Uuden testamentin mukaan Herran tulemus tapahtuu yllättäen ja yhdessä hetkessä; kyseinen ajankohta on siis *jonkin* vuoden *jonkin* kuukauden *jonakin päivänä*, emme vain etukäteen tiedä, milloin.
-|
-|
-|
-|-
-
-| *Mpp*-perustelu: "Samoin ilmeisesti – – Hoosea 6:2 [käyttää] päivä-sanaa pitemmässä mielessä, Hoos 6:2 liittää sanaan myös numeron."
-| Niin, siis tässä profetiassahan ennustetaan Herran ylösnousemus kolmantena päivänä ja se, että koska Hän elää, myös hänen seurakuntansa saa elää. Mitä ihmeen vertauskuvallisia ajanjaksopäiviä tästä muka on löytyvinään?
-|
-|
-|
-|-
-
-| *Mpp*-perustelu: "Seitsemäs päivä ei ilmeisesti pääty, sen päättymisestä ei käytetä samaa 'Ja tuli ehtoo, ja tuli aamu, N:nnäs päivä' -rakennetta[.]"
-| Tekstissä luomistyö nimenomaan todetaan päättyneeksi, ja luomispäiviähän oli *kuusi, **ei** seitsemän*. – Tässä perusteluyrityksessä käytetty logiikka on täysin absurdia: jos seitsemäs päivä olisi erikseen todettu päättyneeksi, olisi aina voitu väittää, että kahdeksas jatkuu yhä, tai yleisessä tapauksessa, että jos ***n.*** päivä on erikseen todettu päättyneeksi, niin ***n+1.*** päivä jatkuu yhä;[^7] mikään teksti ei siis pystyisi vakuuttamaan näitä selittelijöitä siitä, että päivät ovat siinä kirjaimellisia. – Varsinainen "päivänvaihtumispäättelysääntöhän" on kyllä annettu itse tekstissä: aina kun pimeän ja valoisan jakson muodostama kokonaisuus on vuorokausirytmissä päättynyt uuden pimeän jakson alkaessa, tekstin määrittelemä "päivä" on päättynyt ja uusi alkanut; se, että näin on jo monen monta kertaa tapahtunut omanakin elinaikanamme eikä "luomisen seitsemäs päivä" siis suinkaan enää jatku, on siis selvää suoraan yleisen ilmoituksen perusteella.
-|
-|
-|
-|-
-
-| *Mpp*-perustelu: "– – myös Uuden testamentin mukaan Jumalan lepopäivä jatkuu ( ([Hebr. 4:1-5](../books/heb.md)))."
-| Tässä tekstikohdassahan Jumalan lepo luomistöistään rinnastetaan eräänlaisena ennakkokuvana siihen lepoon, joka hänen omilleen on luvassa tämän elämän tekojensa perästä; kummassakin tapauksessa kysymys on tietyssä mielessä lopullisesta irrottautumisesta[^8] jo valmiiksi tulleesta työstä ja kaikesta siihen liittyneestä keskeneräisyydestä, ja heti luomistyön päätyttyä ihmistenkin tietoon annettu "sapattisiunaus" ymmärretään[^9] lupauksena Jumalan kansalle tulevasta iankaikkisesta levosta. Mikä itse tekstissä mahdollisesti edellyttäisi jotain muuta, pitemmälle menevää tulkintaa? – Eihän *Jumalan luona* Raamatun mukaan edes ole päivän ja yön vaihtelua, joten koko idea yrittää mitata Jumalan omaa olemista ajallisilla käsitteillä ("nyt Jumala elää seitsemättä päiväänsä") olisi lievästi sanoen omituinen. – Totta sen sijaan on se, että nimenomaan täältä ajasta katsoen Jumala joko jatkaa yhä alun luomistyötään tai on jo päättänyt sen, ja *tähän kysymykseen* Raamattu selvästi vastaa, että tämä työ on päättynyt kuudennen päivän myötä, joten siitä eteenpäin Jumala luomistyön osalta yhä edelleen "lepää", vaikka ajalliset päivät yhä uudestaan vaihtuvatkin. Jo siksikin rajoittamaton uniformitarianistinen ekstrapolaatio on ehdottoman epäraamatullista: luomisviikolla tapahtui Raamatun selvän ilmoituksen mukaan paljonkin sellaista, mitä sittemmin ei ole enää tapahtunut.
-|
-|
-|
-|-
-
-| *Mpp*-perustelu: "Lisäksi Jeesus totesi 'Minä ja Isäni teemme yhäti työtä' vastineena sapattikielloille, viitaten ilmeisesti siihen että Jumala tekee laupeuteen liittyvää työtä lepopäivänään. (Tämä selittäisi myös, miksi Jumala ei koko ajan ja näkyvästi ole vuorovaikutuksessa luomakuntaansa.)"
-| "Ilmeisesti" ei riitä eksegeesiksi (Raamatunkohdan yksityiskohtaisesti perustelluksi selitykseksi). – Näissä kohdissa on tyypillisesti kyse siitä, että Jeesus oli tehnyt jotain merkittävää aivan konkreettisena sapattipäivänä (viikon seitsemäntenä päivänä) ja joutui siksi vastaamaan syytöksiin Jumalan kieltämäksi tulkitusta toiminnastaan. Olennaista vastauksessa on se, että jos se, mitä Jeesus teki sapattipäivänä, ei ollut ihmisen vaan Jumalan työtä (vrt. Nikodemos-keskustelun alku, Joh.3), niin Jumala itse siis teki työtä sapattipäivänä, ja tämä juuri todisti Jeesuksen toiminnan alkuperän olevan Jumalassa, joten siitä syyttäminen ei ollut Jumalan tahdon puolustamista vaan päinvastoin sen vastustamista.
-|
-|
-|
-|-
-
-| *Mpp*-perustelu: "Aatami tekee melko paljon hommia 6. päivänä, hän mm. nimeää kaikki eläimet. – – Tämä viittaa pitempään aikaan kuin päivä."
-| Perusryhmäbiologian mukaan eri eläinlajeja on myöhemmät sukupuutot huomioonottaenkin siinä vaiheessa ilmeisesti ollut olennaisesti vähemmän kuin nykyään, eikä nimentä suomennoksen sanamuodon mukaan välttämättä koskenut pikkueläimiä saati vesieläimiä; sitä paitsi Aadamin suorituskyky oli ilmeisesti meihin nähden ylivertainen.
-|
-|
-|
-|-
-
-| *Mpp*-perustelu: "Kun Eeva herää, Aatami toteaa 'vihdoin'. Tämä viittaa pitempään aikaan kuin päivä."
-| Minkä käännösten mukaan Aadam toteaa: "vihdoin" (ja kumpi siinä vaiheessa oikeastaan oli juuri herännyt, Eeva vaiko Aadam itse)? – Joka tapauksessa tämänsuuntainen mahdollinen ilmaus jatkaa edellä todetun Aadamin yksinäänolon ongelman historiaa: kullakin eläimellä oli parinsa, mutta mistään niistä ei sen sijaan Jumalan havainto-opetuksen mukaisesti olisi ollut kumppaniksi Aadamille, mikä "eksistentiaalinen parittomuus" oli tullut miehelle nimentätoimensa mittaan yhä polttavammin ilmeiseksi, mutta nyt, Jumalan uuden luomisteon[^10] myötä, tämä ongelma oli "lopultakin" ratkennut. – Ei liene ainoatakaan kieltä, jonka puhujilla olisi jokin monta päivää kestävä vähimmäisodotusaika ennen kuin he voivat luontevasti käyttää vihdoin-sanaa, joka siis sitä paitsi ei edes ole ainut mahdollinen Aadamin huudahduksen käännösvastine.
-|
-|
-|
-|-
-
-| *Mpp*-kanta ja vedenpaisumus: "[M]ahdollisia ongelmia Nooan tulvan kanssa, se tulkitaan paikalliseksi (josta on kyllä näyttöä), eli se, että teksti sanoo vetten olleen kaikkien vuorten yllä, tulkitaan että vesi oli paikallisesti kaikkien näkyvien vuorten yläpuolella."
-| Totta kai paikallisia tulvia on eri aikoina ollut useitakin, myös Lähi-idässä, ja juuri siksi tällainen selitys antaisikin ymmärtää Pyhän Hengen tehneen vedenpaisumuskuvauksessaan "kärpäsestä härkäsen". – Fossiilien kanssahan *mpp*-tulkinta itse asiassa suurempia ongelmia kohtaa, jos tekstiin sen jäljiltä vielä jäänyt sisältö nimittäin otetaan vakavasti ja ajatellaan, että ennen Aadamin aikaa oli ollut vain epämääräisen hidas luomisvaihe, johon ei kuulunut katastrofeja (toistuvastihan tekstissä korostetaan Jumalan luomistyön hyvyyttä). – Vesi ei muuten vallitsevien luonnonlakien puitteissa voi paikallisesti kovinkaan kauaa olla kovinkaan paljon ylempänä kuin maailmanlaajuisesti, ja tulva toisaalta kesti Raamatun mukaan kuukausimääriä. Onkohan kukaan tosissaan yrittänytkään konkretisoida *mpp*-tulvaskenaariota edes tekstin antaman *aikainformaation* vakavasti ottaen?
-|
-|
-|
-|-
-
-| *Mpp*-kanta ja vedenpaisumus: "– – Toisaalta vastaavalla tavalla 'kaikki maailman verollepantava' tulkitaan silloiseksi Rooman valtakunnaksi eikä tässä ole ongelmaa, kaikki-termi on ollut tuolloin joustavampi."
-| Väittämä kaikki-termin "antiikinaikaisesta joustavuudesta" vaikuttaa järjenvastaiselta: *maailma*-termin intensiohan[^11] se Augustuksen aikana oli erilainen kuin nyt (ei ollut pallokarttoja, jotka olisivat voineet piirtyä "sielun silmien eteen") eikä *kaikki*-termin intensio[^12]. Voiko edes kuvitella kieltä, jossa ei olisi (ollut) nykymerkityksistä kaikki-sanaa, siis kulttuurimuotoa, jossa sen tarkoittamalle merkitykselle ei olisi ollut mitään ilmaisutarvetta? – Toinen asia on vielä sekin, että samalla sanalla on voinut olla muitakin merkityksiä, jolloin kääntäjän tehtävä on tekstiyhteyden pohjalta ratkaista, mikä on kulloinkin täsmällisin käännösvastine. – Luomiskertomus on muuten hepreaa, evankeliumit taas kreikkaa ja vuosituhansia myöhemmältä ajalta peräisin (ja keisari Augustuksen käskyhän kaiketi annettiin alun pitäen latinaksi ja heijasteli paitsi ajankohtansa kieltä myös antajansa isottelevaa mieltä – "minä poikahan se hallitsen kaikkea, mikä koko maailmassa on hallitsemisen arvoista"), joten näiden "tuosta vain" -rinnastamiseen perustuvan argumentoinnin todistusvoimalla on ilmeiset rajoitteensa.
-|
-|
-|
-|-
-
-| Tekstikehys ja analogiset päivät (*tjap*) -tulkinnat kokonaisuutena
-| **Luther** tunsi ja nimenomaisesti hylkäsi aikaisemmat epäkirjaimelliset tulkinnat.
-|
-|
-|
-|-
-
-| *Tjap*-perustelu: "tekstin rakenne, jossa asetetaan asujat yhtenä päivänä tehtyyn ympäristöön kolme päivää myöhemmin. 1. ja 4. päivät vastaavat toisiaan, samoin 2. ja 5. sekä 3. ja 6. päivät pareittain".
-| Jos teksti siis tälläkin tavoin osoittaa Jumalan luoneen Viisautensa kanssa ja kautta (vrt. Sananl. 8 ja Joh. 1), noudattaen tiettyä kokonaissuunnitelmaa, niin mikä sitten olikaan varsinainen syy olettaa tässä puhuttavan luomisesta jollain muulla kuin nimenomaan konkreettisella tavalla?
-|
-|
-|
-|-
-
-| *Tjap*-vastaperustelu: "Lähtökohtaisesti tekstin symbolinen tulkinta on arveluttavaa, ainakin mikäli tekstilaji ei itse viittaa symbolisen tulkinnan tarpeellisuuteen."
-| [*Ct*:n](concordia-teologian-periaatteet.md) puitteissa se ei ole ainoastaan arveluttavaa vaan kokonaan kiellettyäkin.
-|
-|
-|
-|-
-
-| *Tjap*-perustelu: "Mutta kanta on mahdollinen."
-| Vrt. **Luther** (teologisia vastustajiaan ironisoiden):
-*Minäkin voin todistaa Raamatulla, että käki söi lepinkäisen sulkineen päivineen: "alussa" = 'käki'; "loi" = 'söi'; "Jumala taivaan ja maan" = 'lepinkäisen sulkineen päivineen'.*
-Ts. tulkinnallinen mielivaltaisuus voi lopultakin peittää minkä hyvänsä Raamatun tekstinkohdan selvän merkityksen täysin ja korvata sen millaisella ajatuksella hyvänsä. – Oikean selityksen tarkoitus ei missään tapauksessa voi olla Sanan "venyttäminen" haluttuun suuntaan tai kaiken jättäminen avoimeksi mielipiteiden temmellyskentäksi vaan päinvastoin mahdollisimman täydellinen eroon pääseminen kaikista tekstin oman aidon merkityksen ihmismielessä hämmentävistä epäselvyyksistä, epävarmuuksista ja virhekäsityksistä.
-|
-|
-|
-|-
-
-| Puutarha (*pt*) -tulkinta kokonaisuutena
-| Jo **Tertullianus** totesi, että hereetikot[^13] ovat uutuuksien rakastajia. – Kuka nyt oikeasti tosissaan uskoisi, että joku aikalaisemme ensimmäisenä kirkon historiassa olisi löytänyt Raamatun ensimmäisten lukujen oikean tulkinnan? Mutta jos ajatuksena ei olekaan löytää ainoaa oikeaa tulkintaa vaan vain lisätä selityssekametelisoppaan vielä yksi "mahdollinen" tulkinta, niin markkinat ovat toki avoimet.
-|
-|
-|
-|-
-
-| *Pt*-referaatti: "Tässä **J. Salehammer**in, huomattavan evankelikaalisen Vanhan testamentin tutkijan, esiin tuomassa kannassa ajatellaan, että  ([1. Moos. 1:1](../books/gen.md)) kertoo maailman luomisesta ja  ([1. Moos.  1:2-2:4a](../books/gen.md)) maan valmistamisesta (Eedenin puutarha/luvattu maa) [^4]."
-| Onko tässä nyt muuta omaperäistä ajatusta kuin aukkotulkinnan kutistaminen siihen, että toisen jakeen "autio ja tyhjä" ei olisikaan koskenut muuta kuin tulevaa Eedenin aluetta? Kannattaako joka kirjan sisällöstä tehdä oma vaihtoehtoinen tulkintamallinsa?
-|
-|
-|
-
-|-
-| 1.Moos. 1 Raamattu käyttää päivä-sanaa kuvaamaan myös ajanjaksoa. Saarn.
-| Tarkempi viite puuttuu. – Juuri siksi, että samalla ilmaisulla on useinkin monia merkityksiä ja merkitysvivahteita, sanat olisi aina tulkittava ja käännettävä *asiayhteydessään*. Ajatus, että kääntäjällä/selittäjällä olisi vapaa valta valita sanakirjasta kussakin kohdassa, mikä merkitys vain itseä eniten sattuu miellyttämään, on tuttu Jehovan todistajien toiminnasta ja sopisi minusta jättääkin sinne.
-|
-|
-|
-
-|-
-| 1.Moos. 1 ”Tuli ehtoo, tuli aamu, n:nnäs päivä”
-| Tämän ilmaisun mahdollinen epäkonkreettinen käyttöesiintymä on yhä Raamatusta löytämättä, vrt. Hoos.6:2:een liittyvä aiempi kommentti.
-|
-|
-|
-
-|-
-| 1.Moos. 1 Päivästä puhutaan ennen kuin aurinko ja kuu tehty tai näkyvissä.
-| Tätä voi verrata Ilmestyskirjaan, jossa taaskin puhutaan valosta, vaikka meidän fyysistä aurinkoamme ei enää ole.
-|
-|
-|
-
-|-
-| Kirjaimellinen ehtoo ja aamu, auringon merkitsemä tulkinta päivälle ehkä hankala. Toisaalta ”Jumalan henki valaisi”.
-| Heti löytyi mahdollinen selitys, itse teksti ei siis vaadi kuvaannollista tulkintaa.
-|
-|
-|
-
-|-
-| Auringon *et al.* tekoa tarkoittava hebrean sana voidaan kääntää myös esiin tuomisena. Alkoivat näkyä 4. päivänä.
-| Vertaa tätä siihen, että Jumala lepäsi teoistaan 7. päivänä. Mikä tässä tapauksessa olisi ollut 4. päivän suuri Jumalan teko, johon lepo vertautuu; ja mistä nämä taivaankappaleet olisivat alun perin saaneet syntynsä, ja miksi ne eivät olisi sitä ennen näkyneet maahan?
-|
-|
-|
-
-|-
-| 1.Moos. 2 6. päivä Aatami tekee paljon hommia
-| Tosi on. "Uudet luudat lakaisevat hyvin."
-|
-|
-|
-
-|-
-| 1.Moos. 1 Sukuluetteloiden pituus: Yleensä OEC laittavat pitkät iät 1.Moos. 1 yhteyteen, eivät sukuluetteloiden aukkoihin, mutta taipumusta on venyttää sukuluetteloitakin.
-| Tämän voisi lukea synnintunnustuksena: tendenssi näkyy kauttaaltaan – Jumalan voimaa vaihdetaan ihmisten viisauteen, aina kun tilaisuus äkätään ja minkä verran vain ehditään.
-|
-|
-|
-
-|-
-| Toisaalta tekstin mukaankin luetteloissa on aukkoja.
-| Minkä tekstin mukaan? – Jos nimenomaan 1.Moos:n sukuluettelot ovat totta, ne antavat myös kuluneen kokonaisajan: Jos on *totta*, että "MM:lle syntyi" NN MM:n ollessa ***k***:n vuoden ikäinen, on *kuluneen kokonaisajan kannalta* aivan samantekevää, oliko MM NN:n isä, isoisä vaiko muu esi-isä suoraan ylenevässä polvessa.
-|
-|
-|
-
-|-
-| Nooan tulva: vedet kaikkien vuorien yli tulkitaan paikallisena tulvana, koskien sitä aluetta jolle ihmiset olivat levittäytyneet. Vrt. ”kaikki maa verolle”
-| Tulkinta vaikuttaa sekä tekstiyhteyteen että fysiikan lakeihin nähden mahdottomalta. Jos Jumala olisi tyytynyt pelkkään paikallistulvaan, koko arkki-idea yksityiskohtaisine rakennusohjeineen ja eläinten sinne kaksittain johdattamisineen olisi ollut turhan työn tekemistä ja teettämistä, kun Nooa perhekuntineen olisi hyvin voinut pelastautua jalkapatikassakin[^14]. – Mitä veronkannon alaan tulee, niin sen voi käsittää niinkin, että Augustus kyllä *halusi* panna verolle *kaiken maanpiirin* ihan nykyaikaisessakin merkityksessä, mutta *onnistui* toteuttamaan aikeensa vain niiltä osin kuin pystyi käyttämään siihen voimakeinoja, ts. vain Rooman valtakunnan alueella. Toinen käsitystapa on se, että Augustus oli ylpeydessään sitä mieltä, että Rooma oli jo valloittanut kaiken valloittamisen arvoisen, niin ettei ulkopuolelle jäänyt käytännössä mitään mainittavaa; tai sitten ideana saattoi olla, että valloitetaan ja verotetaan aivan kaikki, mutta aloitetaan veronkanto jo valmiiksi valloitetuilta alueilta. Joka tapauksessahan kyseessä on Augustuksen käskyn referointi: teksti kertoo, mitä Augustus *määräsi*, ei sitä, mitä hän *sai aikaan* (paitsi Palestiinan provinssissa). Kaikki-sanan normaalimerkityksestä ei tässäkään siis tarvitse katsoa tingityn.
-|
-|
-|
-
-|-
-| Nooan tulva: Arkkiin "kaikkia eläimiä": 'vain karjaeläimiä tai paikallisia lajeja'
-| Tyypillistä, ettei edes osata sanoa, kumpia. Kun tulkinta irtoaa tekstistä, kysymykset jäävät ilmaan. Karjaeläimet tai paikalliset lajit olisi kaiketi voitu kuljettaa Nooan mukana pakoon maata myöten hyvissä ajoin etukäteen. Siksi toisekseen maapallolla on joka tapauksessa ehtinyt tapahtua lukuisia sukupuuttoja, joten jonkin paikallisfaunan keräily Jumalan erityiskäskystä jonkin yhden paikallistulvan yhteydessä ja sitä koskevan kertomuksen tallettaminen kaikkia tulevia sukupolvia varten vaikuttaisi varsin oudolta sekin. – Linnut muuten mainitaan tekstissä erikseen ja kaikkien lajien mukaantuloa aivan erityisesti toistoilla korostetaan, joten jos tällainen "selitys" hyväksytään, niin ovet avataan jokseenkin täydelliselle tulkintamielivallalle kautta koko Raamatun. Liekö tarkoituskin?
-|
-|
-|
-
-|-
-| Kuolema ennen lankeemusta? Kuoleman tulo lankeemuksessa ei ratkaise pahan ongelmaa mutta tekee *free will* -puolustuksen konkreettisemmaksi.
-| Jos mitään isompaa ei ole tapahtunut sitten luomisen, niin koko evankeliumi on turha[^15] ja islam on kokonaisuutena katsoen kristinuskoa järkevämpi vaihtoehto: Allahhan se juuri halusikin olennaisesti sitä, mitä me nyt itsessämme ja ympärillämme näemme[^16], Raamatun Jumalalle sen sietäminenkin, hyväksymisestä puhumattakaan, sitä vastoin tuntuu olevan kovin vaikeaa, jopa mahdotonta, ja juuri tähän koko kärsimyksen ongelma *teoreettisesti* perustuukin: Miten voi tai voisi olla olemassa sekä Raamatun täydellisen hyvä, pyhä ja kaikkivaltias Jumala että tällainen viheliäinen maailma? – Sekä naturalismin että islamin vastaus tähän kysymykseen onkin, ettei mitenkään.
-|
-|
-|
-
-|-
-| Adam tiesi mitä kuolema tarkoittaa ja varmaankin kasveja, viruksia ja bakteereja kuoli paratiisissa, ehkä isompiakin eliöitä. Luomakunta kirottiin lankeemuksessa mutta teksti ei sano, että kuolema tuli koko luomakunnalle lankeemuksen yhteydessä, ihmiselle tuli.
-| Mekin tiedämme ihan riittävän hyvin, mitä helvetti[^17] tarkoittaa, vaikkemme ole sitä nähneet emmekä kokeneet – ja juuri siksihän toivomme vastakin siltä välttyvämme. – Moraalisessa mielessä ongelmana ei ole solujen tai kasvien[^18] vaan *tajuisten elämänmuotojen*[^19] kärsimys ja kuolema, joskaan itse tekstissä ei ole mitään, mikä antaisi ymmärtää, etteikö lankeemuksella ja siitä aiheutuneella kirouksella olisi ollut vaikutusta myös kasveihin ja yksisoluisiin. – Löytyykö tekstistä kuvaus jonkin tajuisen eliön kuolemasta ennen kirousta? Miksi teksti korostaa kasvissyönnin olleen alun perin yksinomainen ravintoratkaisu? Miksi samaan asiaan palataan Raamatussa tuonnempanakin, esim. Jesajan kirjan kuvauksessa Jumalan pyhästä vuoresta, jossa ei tehdä pahaa eikä vahinkoa, eläintenkään kesken?[^20] – Kun Raamattua tahdotaan oikeasti ymmärtää, tulee antaa tajuntansa avartua niihin suuntiin, joihin teksti näkyy viittaavan, vaikka jo etukäteen onkin selvää ja ilmeistä, ettemme tässä elämässä voi läheskään kaikkea käsittää. – Keskeisimpänä tässä kohdin voi silti kyllä pitääkin sen myöntämistä, että *ainakin* ihmiselle kuolema tuli lankeemuksen yhteydessä ja lisäksi koko luomakunnalle *jokin* siihen liittyvä olennainen, yhä jatkuva kirous. Näitä seikkoja voi sitten tältä pohjalta jatkotutkia Raamatun valossa ja sikäli oikealla tiellä kulkien, ettei *jo tehtyihin* tulkintalinjauksiin pitäytyminen estä oppimista Jumalan Hengen johdossa "kaikkeen totuuteen". Tässä mielessä onkin parempi olla "rehellisesti epävarma" kuin "epärehellisesti tai ennenaikaisesti varma", mutta yhtä kaikki oikea kristitty nimenomaan *pyrkii varmuuteen*, sillä "Pyhä Henki ei ole skeptikko" (**Luther**).
-|
-|
-|
-
-|-
-| Matt ”alussa Jumala loi heidät mieheksi ja naiseksi.”: ”Alussa” voi viitata ihmiskunnan alkuun.
-| Nämä selitykset ovat kohta kohdalta informaatiota tuhoavia: Jos esim. "alussa" tässä yhteydessä viittaisi (vain) ihmiskunnan alkuun, se olisi täysin tyhjänpäiväinen lisäys tekstiin – ei kai kukaan olisi voinut luulla, että ihminen luotiin vasta olemassaolonsa keskivaiheilla tai loppupuolella! Samalla menetetään konkreettinen yhteys Vanhan testamentin ja koko Raamatun avaavaan alussa-sanaan ikään kuin Jeesus ei olisi selittänyt ja soveltanut konkreettista luomiskertomusta vaan "jotain muuta erilaisiin ja eriaikaisiin alkuihin liittyvää näkemystä". Lisäksi "voi viitata" tekee asian vieläkin sotkuisemmaksi: ensin oli poistettu informaatio ja nyt sitten vielä metainformaatiokin. Loppujen lopuksi tämä selitys sanoo siis suurin piirtein seuraavan: "*Ehkä* tässä ei olekaan kysymys luomakunnan alusta vaan jostain muusta." Kun tällainen väittämä ei sulje mitään mahdollisuutta pois, siitä ei voi oppiakaan yhtään mitään, ts. *käsiteltävän tekstin sisältämä informaatio* on täysin kadonnut matkan varrelle, ja jäljellä oleva informaatio kertoo vain *selittäjien epävarmoista mietteistä*, **ei** tekstin sisällöstä.
-|
-|
-|
-
-|-
-| 7. päivä ei ole päättynyt? Hebr 4
-| Niin: "?"! – Mikä kohta tekstissä sanoo, ettei se olisi päättynyt? Mikä kohta tekstissä edes ottaa esille kysymyksen siitä, josko se ehkei olisikaan päättynyt? – Tekstihän systemaattisilla toistoilla päinvastoin oikein erityisesti korostaa, että sen tarkoittama "päivä" on nimenomaan yhden pimeän ja sitä välittömästi seuraavan valoisan aikajakson muodostama kokonaisuus, ihan niin kuin heprean *jom*-sana normaalimerkityksessään muutoinkin edellyttää. Tämän "rautalangasta väännetyn" tulkinta-avaimen "unohtuminen" erinäisiltä selittäjiltä ei tosiaankaan ole tekstin vika.
-|
-|
-|
-
-|-
-| Ps 90:4 Jumalan päivä eri kuin meidän.
-| ***Non sequitur!*** Tekstissä ei ole sentapaisen ajatuksen häivääkään! Taas yritetään käyttää Raamattua hävittämään Raamatun sisältämä informaatio! Jos tämä olisi totta, mikään Raamatun ajanmäärityksistä ei antaisi mitään tietoa "meidän" aikamääristämme. – Tosiasiassahan teksti **ei** sano, että Jumalan päivä on tuhat vuotta, vaan välissä on aivan olennaisen tärkeä ja informatiivinen **kuin**-sana. – Ajatus ei siis ole ollenkaan vaikeatajuinen: Jumalan iankaikkisuus konkretisoituu siinä, että meidän kannaltamme pitkä aika on hänen mittakaavassaan lyhyt – ei siinä mielessä, että siinä olisi eri määrä päiviä tai vuosia, vaan että tuhansien vuosien kuluminen vaikuttaa Jumalan toimintamahdollisuuksiin yhtä vähän kuin muutaman päivän ajanjakso ihmisen. Tätä voisi verrata siihen, jos otetaan vaikkapa jokin päivänkorento, joka elää vain päivän sukukypsänä, lentokykyisenä korentona eikä edes syö sinä aikana mitään. Voisimme nyt verrata tätä ihmisen täysi-ikäisenä elämään aikaan, pyöreästi 60 vuoteen, ja sanoa vaikkapa, että ihmiselle 60 vuotta on kuin päivänkorennolle yksi päivä, siis koko aikuinen elinikä. Tässä ei ole mitään ajatusta siitä, että "päivänkorennon päivät" olisivat eripituisia kuin "ihmisen päivät", vaan että päivänkorennon on ehdittävä koko aikuinen elämänsä yhdessä päivässä, kun taas ihminen voi suunnitella viikon, kuukauden tai vuoden päähän. Jumalalla on ihmisen ajalliseen elämään nähden vielä suurempi pitkäjänteisyys kuin ihmisellä päivänkorentoon verrattuna. Jokainen kielitajuinen lukija ymmärtää tämän, mutta tarpeeksi vahvat teologiset tendenssit sokaisevat näemmä kielitajunkin.
-|
-|
-|
-
-|-
-| Asia voidaan jättää todennäköisyyksien perusteella auki, koska kyseessä ei ole pelastuskysymys eli ei ole suurta riskiä, mikäli päätöstä ei tehdä välittömästi. Raamattuhan antaa meille ”kaiken mitä elämään ja jumalisuuteen tarvitaan” ja tietysti muutakin. Kysymys maapallon iästä kuuluu tuohon muut-ryhmään, ellei siitä tehdä pelastuskysymystä.
-| "Joka rikkoo yhtä kohtaa vastaan, on syypää kaikissa kohdin." – *Ct*:n mukaan Raamatun totuutta on puolustettava aina ja kaikissa kohdissa, ja innokkaimmin juuri siinä kohdassa, johon epäilys kulloinkin kohdistetaan. Tämä johtuu mm. siitä, että ihmisjärki on langenneena aina lähdössä Raamatun tekstin antamasta informaatiosta seuraamaan "ei suinkaan Jumala ole todella sanonut/tarkoittanut näin" -houkutusta. Tätä tapahtuu itse kullekin toistuvasti, mutta *ct* auttaa tunnistamaan ja korjaamaan tilanteen.
-|
-|
-|
-
-|-
-| Todennäköisyydet[^21] perustuvat kannan sisäiseen ennusteeseen eli siihen, miten todennäköistä kannan perusteella kyseinen havainto Raamatusta tai luonnosta on. Todennäköisyydet tässä ovat suuntaa antavia arvioita ja henkilön taustaymmärryksestä riippuvaisia. Niitä muuttavat se, kuinka varmana henkilö pitää tämän hetken tietämystämme. Jos esimerkiksi ajattelemme, että tällä hetkellä tiedämme 80% kaikesta tieteellisestä tiedosta, voimme pitää sitä, ettei kanta pysty selittämään mittaustulosta, suurena ongelmana ja siten todennäköisyyttä pienenä. Mikäli ajattelemme, että tiedämme 20% kaikesta tiedosta, kannan ongelma nykytietämyksen kanssa ei tee kannasta kovin epätodennäköistä. Asia ei ole kovin yksinkertainen, voidaan toki olettaa, että jatkotutkimus ei tule olemaan paljonkaan ristiriidassa nykyisten teorioiden kanssa, jolloin nykytietämykseen voitaisiin luottaa aika paljonkin. Mutta tämä on vain oletus ja hyvinkin tapauskohtainen, riippuen siitä, kuinka paljon ja kuinka välitöntä tietoa tapauksessa käytetään ja kuinka paljon teoreettisempaa tietoa ja taustaoletuksia tapaus käyttää.
-| Perususkomusnäkökulmasta kysymystä ei voine paketoida noin yksinkertaisiin prosentteihin, vaan on syytä analysoida, mitä uskomusjärjestelmää seuraten johonkin käsitykseen on tultu. Vaikka meillä olisi koko maailmankaikkeuden nykytilaa koskeva kattava data-aineisto (mikä tietenkin on mahdotonta), emme ilman ulkopuolisia uskomuksia ja oletuksia saisi siitä vielä minkäänlaista arviota siitä, mikä on tämän systeemin tai sen osien ikä. Perususkomuksia taas ei voi jälkikäteenkään oikeiksi todistaa, vaan ne ovat mukana jo tutkimusta suunniteltaessa, sitten sitä suoritettaessa ja jäävät vielä pysyvästi tutkimustuloksiinkin. Jotta niitä ylipäänsä voisi jotenkin järkevästi kontrolloida ja perustella, on oltava jokin sellainen kriteeri, jonka katsotaan pysyvän luotettavana tutkimustiedosta riippumatta. Naturalisteille se on "tieteen metodi" eli itse (metodologinen) naturalismi, *ct*:lle Raamattu sellaisenaan, siis järjen näpelöimättömänä kaikkitietävän, kaikkivaltiaan ja ehdottoman luotettavan Jumalan sanallisena ilmoituksena, jota ilman olemme ja pysymme hengellisessä pimeydessä. – *Ct*-kanta ei sinänsä selitä havaintoja. Sen sijaan se asettaa kyseisen uskomusjärjestelmän puitteissa sallituille selityksille normatiiviset reunaehdot. Selityksessä on näet aina käytettävä joitain muitakin perususkomuksia kuin pelkkä *ct*, ellei sitten tahdota tyytyä ns. "*God did it*" -selitykseen. Tämähän on kyllä perimmältään oikea selitys,[^22] mutta lisäoletukset voivat antaa mahdollisuuden [yksityiskohtaisempaan mallinrakenteluun](john-hartnettin-kosmologinen-malli.md), mitä luonnontieteissä yleensä nimenomaan syystäkin tavoitellaan. – Aivan vastaavasti toimii muuten myös metodologinen naturalismi: sehän ei sinänsä selitä mitään [^23], mutta antaa selittäjille periaatteessa täysin joustamattomia reunaehtoja, joiden ulkopuolella toimimista ei hyväksytä oikeaksi tutkimukseksi.
-|
-|
-|
-
-|}
-```
+| \| Näkökohta | \| *Ct*-kommentti | \| [Tilaa vaihtoehdoille] | \| [Tilaa vaihtoehdoille] | \| [Tilaa vaihtoehdoille] |
+|---|---|---|---|---|
+| Ajatus, jonka mukaan Raamatun luomiskertomus on kovin tulkinnanvarainen ja erilaisille tulkinnoille pitäisi siksi olla tilaa, ilman että asiasta tehdään pelastuskysymystä. | Pelastuskysymyksenä[^5] on lähtökohtaisesti raamattunäkemys sinänsä, ei jonkin tietyn osan tulkinta erikseen[^6]. Jos Raamattua pidetään vapaan tulkinnan varaisena, se ei voi olla perimmäinen opillinen auktoriteetti, vaan auktoriteetti on siirretty selittäjille, joiden edesottamukset ovat suureksi osaksi kontrolloimattomissa. *Ct*:n mukaan Raamattu on omien selitystensä tuomari, ts. mikään selitys ei ole hyväksyttävä, ellei se osoittaudu Raamatun tekstin kanssa tarkasti yhteensopivaksi, ja vain tekstiuskollisinta selitystä voi kussakin kohdassa turvallisesti ja hyvällä omallatunnolla seurata. |  |  |  |
+| Määräämättömän pitkä päivä (*mpp*) -tulkinta kokonaisuutena | Kirjaimellisesti ottaen säilyttäisi tapahtumajärjestyksen; silloin esim. kasvikunnan hidas kehkeyttäminen päättyisi ennen ensimmäisen siivekkään eläimen olemassaoloa. Miten pölytys olisi tapahtunut? Onko kukaan tosissaan yrittänytkään yksityiskohtaista selitystä tällaisesta näkökulmasta? |  |  |  |
+| *Mpp*-perustelu: "Maa tuottaa – vaikuttaa pitemmältä kuin yksi päivä." | Näin ainoastaan, jos on jo etukäteen omaksuttu jonkinlainen evolutiivinen tulkinta; teksti nimenomaan sanoo Jumalan saattaneen tämän tapahtumaan yhtenä tiettynä päivänä. – Vrt. ruokkimisihmeen "tulkinta", jonka mukaan kansan asettaminen ryhmiin "vaikuttaisi" kestäneen niin kauan, että opetuslapset ehtivät sillävälin "kerätä kolehdin" ja käydä ostamassa leipää lähimmästä kylästä. |  |  |  |
+| *Mpp*-perustelu: "'Siihen aikaan' on sama sana kuin 'päivä', joka tässä siis viittaa pitempään ajanjaksoon." | Tahdottaneen sanoa, että sanonta, jonka merkitys hepreassa on 'siihen aikaan', olisi sananmukaisesti käännettynä 'sinä päivänä'. – Tällaisia idiomeja on kielessä kuin kielessä, ja juuri siksi, että ne ovat idiomeja (kirjaimellisesta merkityksestään jossain määrin poikkeavia vakiintuneita ilmaisuja), niistä ei voi päätellä niissä esiintyvien sanojen merkitystä ko. idiomien ulkopuolisissa käyttöyhteyksissä. – Ellei ko. ilmausta jo valmiiksi tiedettäisi idiomiksi, tekstiyhteys sallisi tässä kirjaimellisenkin tulkinnan: "ensimmäisenä luomispäivänä ei vielä ollut ihmistä" jne. |  |  |  |
+| *Mpp*-perustelu: "Samoin ilmeisesti Hesekiel 30:3 – – [käyttää] päivä-sanaa pitemmässä mielessä – –." | "Ilmeisesti"??? – Uuden testamentin mukaan Herran tulemus tapahtuu yllättäen ja yhdessä hetkessä; kyseinen ajankohta on siis *jonkin* vuoden *jonkin* kuukauden *jonakin päivänä*, emme vain etukäteen tiedä, milloin. |  |  |  |
+| *Mpp*-perustelu: "Samoin ilmeisesti – – Hoosea 6:2 [käyttää] päivä-sanaa pitemmässä mielessä, Hoos 6:2 liittää sanaan myös numeron." | Niin, siis tässä profetiassahan ennustetaan Herran ylösnousemus kolmantena päivänä ja se, että koska Hän elää, myös hänen seurakuntansa saa elää. Mitä ihmeen vertauskuvallisia ajanjaksopäiviä tästä muka on löytyvinään? |  |  |  |
+| *Mpp*-perustelu: "Seitsemäs päivä ei ilmeisesti pääty, sen päättymisestä ei käytetä samaa 'Ja tuli ehtoo, ja tuli aamu, N:nnäs päivä' -rakennetta[.]" | Tekstissä luomistyö nimenomaan todetaan päättyneeksi, ja luomispäiviähän oli *kuusi, **ei** seitsemän*. – Tässä perusteluyrityksessä käytetty logiikka on täysin absurdia: jos seitsemäs päivä olisi erikseen todettu päättyneeksi, olisi aina voitu väittää, että kahdeksas jatkuu yhä, tai yleisessä tapauksessa, että jos ***n.*** päivä on erikseen todettu päättyneeksi, niin ***n+1.*** päivä jatkuu yhä;[^7] mikään teksti ei siis pystyisi vakuuttamaan näitä selittelijöitä siitä, että päivät ovat siinä kirjaimellisia. – Varsinainen "päivänvaihtumispäättelysääntöhän" on kyllä annettu itse tekstissä: aina kun pimeän ja valoisan jakson muodostama kokonaisuus on vuorokausirytmissä päättynyt uuden pimeän jakson alkaessa, tekstin määrittelemä "päivä" on päättynyt ja uusi alkanut; se, että näin on jo monen monta kertaa tapahtunut omanakin elinaikanamme eikä "luomisen seitsemäs päivä" siis suinkaan enää jatku, on siis selvää suoraan yleisen ilmoituksen perusteella. |  |  |  |
+| *Mpp*-perustelu: "– – myös Uuden testamentin mukaan Jumalan lepopäivä jatkuu ( ([Hebr. 4:1-5](../books/heb.md)))." | Tässä tekstikohdassahan Jumalan lepo luomistöistään rinnastetaan eräänlaisena ennakkokuvana siihen lepoon, joka hänen omilleen on luvassa tämän elämän tekojensa perästä; kummassakin tapauksessa kysymys on tietyssä mielessä lopullisesta irrottautumisesta[^8] jo valmiiksi tulleesta työstä ja kaikesta siihen liittyneestä keskeneräisyydestä, ja heti luomistyön päätyttyä ihmistenkin tietoon annettu "sapattisiunaus" ymmärretään[^9] lupauksena Jumalan kansalle tulevasta iankaikkisesta levosta. Mikä itse tekstissä mahdollisesti edellyttäisi jotain muuta, pitemmälle menevää tulkintaa? – Eihän *Jumalan luona* Raamatun mukaan edes ole päivän ja yön vaihtelua, joten koko idea yrittää mitata Jumalan omaa olemista ajallisilla käsitteillä ("nyt Jumala elää seitsemättä päiväänsä") olisi lievästi sanoen omituinen. – Totta sen sijaan on se, että nimenomaan täältä ajasta katsoen Jumala joko jatkaa yhä alun luomistyötään tai on jo päättänyt sen, ja *tähän kysymykseen* Raamattu selvästi vastaa, että tämä työ on päättynyt kuudennen päivän myötä, joten siitä eteenpäin Jumala luomistyön osalta yhä edelleen "lepää", vaikka ajalliset päivät yhä uudestaan vaihtuvatkin. Jo siksikin rajoittamaton uniformitarianistinen ekstrapolaatio on ehdottoman epäraamatullista: luomisviikolla tapahtui Raamatun selvän ilmoituksen mukaan paljonkin sellaista, mitä sittemmin ei ole enää tapahtunut. |  |  |  |
+| *Mpp*-perustelu: "Lisäksi Jeesus totesi 'Minä ja Isäni teemme yhäti työtä' vastineena sapattikielloille, viitaten ilmeisesti siihen että Jumala tekee laupeuteen liittyvää työtä lepopäivänään. (Tämä selittäisi myös, miksi Jumala ei koko ajan ja näkyvästi ole vuorovaikutuksessa luomakuntaansa.)" | "Ilmeisesti" ei riitä eksegeesiksi (Raamatunkohdan yksityiskohtaisesti perustelluksi selitykseksi). – Näissä kohdissa on tyypillisesti kyse siitä, että Jeesus oli tehnyt jotain merkittävää aivan konkreettisena sapattipäivänä (viikon seitsemäntenä päivänä) ja joutui siksi vastaamaan syytöksiin Jumalan kieltämäksi tulkitusta toiminnastaan. Olennaista vastauksessa on se, että jos se, mitä Jeesus teki sapattipäivänä, ei ollut ihmisen vaan Jumalan työtä (vrt. Nikodemos-keskustelun alku, Joh.3), niin Jumala itse siis teki työtä sapattipäivänä, ja tämä juuri todisti Jeesuksen toiminnan alkuperän olevan Jumalassa, joten siitä syyttäminen ei ollut Jumalan tahdon puolustamista vaan päinvastoin sen vastustamista. |  |  |  |
+| *Mpp*-perustelu: "Aatami tekee melko paljon hommia 6. päivänä, hän mm. nimeää kaikki eläimet. – – Tämä viittaa pitempään aikaan kuin päivä." | Perusryhmäbiologian mukaan eri eläinlajeja on myöhemmät sukupuutot huomioonottaenkin siinä vaiheessa ilmeisesti ollut olennaisesti vähemmän kuin nykyään, eikä nimentä suomennoksen sanamuodon mukaan välttämättä koskenut pikkueläimiä saati vesieläimiä; sitä paitsi Aadamin suorituskyky oli ilmeisesti meihin nähden ylivertainen. |  |  |  |
+| *Mpp*-perustelu: "Kun Eeva herää, Aatami toteaa 'vihdoin'. Tämä viittaa pitempään aikaan kuin päivä." | Minkä käännösten mukaan Aadam toteaa: "vihdoin" (ja kumpi siinä vaiheessa oikeastaan oli juuri herännyt, Eeva vaiko Aadam itse)? – Joka tapauksessa tämänsuuntainen mahdollinen ilmaus jatkaa edellä todetun Aadamin yksinäänolon ongelman historiaa: kullakin eläimellä oli parinsa, mutta mistään niistä ei sen sijaan Jumalan havainto-opetuksen mukaisesti olisi ollut kumppaniksi Aadamille, mikä "eksistentiaalinen parittomuus" oli tullut miehelle nimentätoimensa mittaan yhä polttavammin ilmeiseksi, mutta nyt, Jumalan uuden luomisteon[^10] myötä, tämä ongelma oli "lopultakin" ratkennut. – Ei liene ainoatakaan kieltä, jonka puhujilla olisi jokin monta päivää kestävä vähimmäisodotusaika ennen kuin he voivat luontevasti käyttää vihdoin-sanaa, joka siis sitä paitsi ei edes ole ainut mahdollinen Aadamin huudahduksen käännösvastine. |  |  |  |
+| *Mpp*-kanta ja vedenpaisumus: "[M]ahdollisia ongelmia Nooan tulvan kanssa, se tulkitaan paikalliseksi (josta on kyllä näyttöä), eli se, että teksti sanoo vetten olleen kaikkien vuorten yllä, tulkitaan että vesi oli paikallisesti kaikkien näkyvien vuorten yläpuolella." | Totta kai paikallisia tulvia on eri aikoina ollut useitakin, myös Lähi-idässä, ja juuri siksi tällainen selitys antaisikin ymmärtää Pyhän Hengen tehneen vedenpaisumuskuvauksessaan "kärpäsestä härkäsen". – Fossiilien kanssahan *mpp*-tulkinta itse asiassa suurempia ongelmia kohtaa, jos tekstiin sen jäljiltä vielä jäänyt sisältö nimittäin otetaan vakavasti ja ajatellaan, että ennen Aadamin aikaa oli ollut vain epämääräisen hidas luomisvaihe, johon ei kuulunut katastrofeja (toistuvastihan tekstissä korostetaan Jumalan luomistyön hyvyyttä). – Vesi ei muuten vallitsevien luonnonlakien puitteissa voi paikallisesti kovinkaan kauaa olla kovinkaan paljon ylempänä kuin maailmanlaajuisesti, ja tulva toisaalta kesti Raamatun mukaan kuukausimääriä. Onkohan kukaan tosissaan yrittänytkään konkretisoida *mpp*-tulvaskenaariota edes tekstin antaman *aikainformaation* vakavasti ottaen? |  |  |  |
+| *Mpp*-kanta ja vedenpaisumus: "– – Toisaalta vastaavalla tavalla 'kaikki maailman verollepantava' tulkitaan silloiseksi Rooman valtakunnaksi eikä tässä ole ongelmaa, kaikki-termi on ollut tuolloin joustavampi." | Väittämä kaikki-termin "antiikinaikaisesta joustavuudesta" vaikuttaa järjenvastaiselta: *maailma*-termin intensiohan[^11] se Augustuksen aikana oli erilainen kuin nyt (ei ollut pallokarttoja, jotka olisivat voineet piirtyä "sielun silmien eteen") eikä *kaikki*-termin intensio[^12]. Voiko edes kuvitella kieltä, jossa ei olisi (ollut) nykymerkityksistä kaikki-sanaa, siis kulttuurimuotoa, jossa sen tarkoittamalle merkitykselle ei olisi ollut mitään ilmaisutarvetta? – Toinen asia on vielä sekin, että samalla sanalla on voinut olla muitakin merkityksiä, jolloin kääntäjän tehtävä on tekstiyhteyden pohjalta ratkaista, mikä on kulloinkin täsmällisin käännösvastine. – Luomiskertomus on muuten hepreaa, evankeliumit taas kreikkaa ja vuosituhansia myöhemmältä ajalta peräisin (ja keisari Augustuksen käskyhän kaiketi annettiin alun pitäen latinaksi ja heijasteli paitsi ajankohtansa kieltä myös antajansa isottelevaa mieltä – "minä poikahan se hallitsen kaikkea, mikä koko maailmassa on hallitsemisen arvoista"), joten näiden "tuosta vain" -rinnastamiseen perustuvan argumentoinnin todistusvoimalla on ilmeiset rajoitteensa. |  |  |  |
+| Tekstikehys ja analogiset päivät (*tjap*) -tulkinnat kokonaisuutena | **Luther** tunsi ja nimenomaisesti hylkäsi aikaisemmat epäkirjaimelliset tulkinnat. |  |  |  |
+| *Tjap*-perustelu: "tekstin rakenne, jossa asetetaan asujat yhtenä päivänä tehtyyn ympäristöön kolme päivää myöhemmin. 1. ja 4. päivät vastaavat toisiaan, samoin 2. ja 5. sekä 3. ja 6. päivät pareittain". | Jos teksti siis tälläkin tavoin osoittaa Jumalan luoneen Viisautensa kanssa ja kautta (vrt. Sananl. 8 ja Joh. 1), noudattaen tiettyä kokonaissuunnitelmaa, niin mikä sitten olikaan varsinainen syy olettaa tässä puhuttavan luomisesta jollain muulla kuin nimenomaan konkreettisella tavalla? |  |  |  |
+| *Tjap*-vastaperustelu: "Lähtökohtaisesti tekstin symbolinen tulkinta on arveluttavaa, ainakin mikäli tekstilaji ei itse viittaa symbolisen tulkinnan tarpeellisuuteen." | [*Ct*:n](concordia-teologian-periaatteet.md) puitteissa se ei ole ainoastaan arveluttavaa vaan kokonaan kiellettyäkin. |  |  |  |
+| *Tjap*-perustelu: "Mutta kanta on mahdollinen." | Vrt. **Luther** (teologisia vastustajiaan ironisoiden):<br>*Minäkin voin todistaa Raamatulla, että käki söi lepinkäisen sulkineen päivineen: "alussa" = 'käki'; "loi" = 'söi'; "Jumala taivaan ja maan" = 'lepinkäisen sulkineen päivineen'.*<br>Ts. tulkinnallinen mielivaltaisuus voi lopultakin peittää minkä hyvänsä Raamatun tekstinkohdan selvän merkityksen täysin ja korvata sen millaisella ajatuksella hyvänsä. – Oikean selityksen tarkoitus ei missään tapauksessa voi olla Sanan "venyttäminen" haluttuun suuntaan tai kaiken jättäminen avoimeksi mielipiteiden temmellyskentäksi vaan päinvastoin mahdollisimman täydellinen eroon pääseminen kaikista tekstin oman aidon merkityksen ihmismielessä hämmentävistä epäselvyyksistä, epävarmuuksista ja virhekäsityksistä. |  |  |  |
+| Puutarha (*pt*) -tulkinta kokonaisuutena | Jo **Tertullianus** totesi, että hereetikot[^13] ovat uutuuksien rakastajia. – Kuka nyt oikeasti tosissaan uskoisi, että joku aikalaisemme ensimmäisenä kirkon historiassa olisi löytänyt Raamatun ensimmäisten lukujen oikean tulkinnan? Mutta jos ajatuksena ei olekaan löytää ainoaa oikeaa tulkintaa vaan vain lisätä selityssekametelisoppaan vielä yksi "mahdollinen" tulkinta, niin markkinat ovat toki avoimet. |  |  |  |
+| *Pt*-referaatti: "Tässä **J. Salehammer**in, huomattavan evankelikaalisen Vanhan testamentin tutkijan, esiin tuomassa kannassa ajatellaan, että  ([1. Moos. 1:1](../books/gen.md)) kertoo maailman luomisesta ja  ([1. Moos.  1:2-2:4a](../books/gen.md)) maan valmistamisesta (Eedenin puutarha/luvattu maa) [^4]." | Onko tässä nyt muuta omaperäistä ajatusta kuin aukkotulkinnan kutistaminen siihen, että toisen jakeen "autio ja tyhjä" ei olisikaan koskenut muuta kuin tulevaa Eedenin aluetta? Kannattaako joka kirjan sisällöstä tehdä oma vaihtoehtoinen tulkintamallinsa? |  |  |  |
+| 1.Moos. 1 Raamattu käyttää päivä-sanaa kuvaamaan myös ajanjaksoa. Saarn. | Tarkempi viite puuttuu. – Juuri siksi, että samalla ilmaisulla on useinkin monia merkityksiä ja merkitysvivahteita, sanat olisi aina tulkittava ja käännettävä *asiayhteydessään*. Ajatus, että kääntäjällä/selittäjällä olisi vapaa valta valita sanakirjasta kussakin kohdassa, mikä merkitys vain itseä eniten sattuu miellyttämään, on tuttu Jehovan todistajien toiminnasta ja sopisi minusta jättääkin sinne. |  |  |  |
+| 1.Moos. 1 ”Tuli ehtoo, tuli aamu, n:nnäs päivä” | Tämän ilmaisun mahdollinen epäkonkreettinen käyttöesiintymä on yhä Raamatusta löytämättä, vrt. Hoos.6:2:een liittyvä aiempi kommentti. |  |  |  |
+| 1.Moos. 1 Päivästä puhutaan ennen kuin aurinko ja kuu tehty tai näkyvissä. | Tätä voi verrata Ilmestyskirjaan, jossa taaskin puhutaan valosta, vaikka meidän fyysistä aurinkoamme ei enää ole. |  |  |  |
+| Kirjaimellinen ehtoo ja aamu, auringon merkitsemä tulkinta päivälle ehkä hankala. Toisaalta ”Jumalan henki valaisi”. | Heti löytyi mahdollinen selitys, itse teksti ei siis vaadi kuvaannollista tulkintaa. |  |  |  |
+| Auringon *et al.* tekoa tarkoittava hebrean sana voidaan kääntää myös esiin tuomisena. Alkoivat näkyä 4. päivänä. | Vertaa tätä siihen, että Jumala lepäsi teoistaan 7. päivänä. Mikä tässä tapauksessa olisi ollut 4. päivän suuri Jumalan teko, johon lepo vertautuu; ja mistä nämä taivaankappaleet olisivat alun perin saaneet syntynsä, ja miksi ne eivät olisi sitä ennen näkyneet maahan? |  |  |  |
+| 1.Moos. 2 6. päivä Aatami tekee paljon hommia | Tosi on. "Uudet luudat lakaisevat hyvin." |  |  |  |
+| 1.Moos. 1 Sukuluetteloiden pituus: Yleensä OEC laittavat pitkät iät 1.Moos. 1 yhteyteen, eivät sukuluetteloiden aukkoihin, mutta taipumusta on venyttää sukuluetteloitakin. | Tämän voisi lukea synnintunnustuksena: tendenssi näkyy kauttaaltaan – Jumalan voimaa vaihdetaan ihmisten viisauteen, aina kun tilaisuus äkätään ja minkä verran vain ehditään. |  |  |  |
+| Toisaalta tekstin mukaankin luetteloissa on aukkoja. | Minkä tekstin mukaan? – Jos nimenomaan 1.Moos:n sukuluettelot ovat totta, ne antavat myös kuluneen kokonaisajan: Jos on *totta*, että "MM:lle syntyi" NN MM:n ollessa ***k***:n vuoden ikäinen, on *kuluneen kokonaisajan kannalta* aivan samantekevää, oliko MM NN:n isä, isoisä vaiko muu esi-isä suoraan ylenevässä polvessa. |  |  |  |
+| Nooan tulva: vedet kaikkien vuorien yli tulkitaan paikallisena tulvana, koskien sitä aluetta jolle ihmiset olivat levittäytyneet. Vrt. ”kaikki maa verolle” | Tulkinta vaikuttaa sekä tekstiyhteyteen että fysiikan lakeihin nähden mahdottomalta. Jos Jumala olisi tyytynyt pelkkään paikallistulvaan, koko arkki-idea yksityiskohtaisine rakennusohjeineen ja eläinten sinne kaksittain johdattamisineen olisi ollut turhan työn tekemistä ja teettämistä, kun Nooa perhekuntineen olisi hyvin voinut pelastautua jalkapatikassakin[^14]. – Mitä veronkannon alaan tulee, niin sen voi käsittää niinkin, että Augustus kyllä *halusi* panna verolle *kaiken maanpiirin* ihan nykyaikaisessakin merkityksessä, mutta *onnistui* toteuttamaan aikeensa vain niiltä osin kuin pystyi käyttämään siihen voimakeinoja, ts. vain Rooman valtakunnan alueella. Toinen käsitystapa on se, että Augustus oli ylpeydessään sitä mieltä, että Rooma oli jo valloittanut kaiken valloittamisen arvoisen, niin ettei ulkopuolelle jäänyt käytännössä mitään mainittavaa; tai sitten ideana saattoi olla, että valloitetaan ja verotetaan aivan kaikki, mutta aloitetaan veronkanto jo valmiiksi valloitetuilta alueilta. Joka tapauksessahan kyseessä on Augustuksen käskyn referointi: teksti kertoo, mitä Augustus *määräsi*, ei sitä, mitä hän *sai aikaan* (paitsi Palestiinan provinssissa). Kaikki-sanan normaalimerkityksestä ei tässäkään siis tarvitse katsoa tingityn. |  |  |  |
+| Nooan tulva: Arkkiin "kaikkia eläimiä": 'vain karjaeläimiä tai paikallisia lajeja' | Tyypillistä, ettei edes osata sanoa, kumpia. Kun tulkinta irtoaa tekstistä, kysymykset jäävät ilmaan. Karjaeläimet tai paikalliset lajit olisi kaiketi voitu kuljettaa Nooan mukana pakoon maata myöten hyvissä ajoin etukäteen. Siksi toisekseen maapallolla on joka tapauksessa ehtinyt tapahtua lukuisia sukupuuttoja, joten jonkin paikallisfaunan keräily Jumalan erityiskäskystä jonkin yhden paikallistulvan yhteydessä ja sitä koskevan kertomuksen tallettaminen kaikkia tulevia sukupolvia varten vaikuttaisi varsin oudolta sekin. – Linnut muuten mainitaan tekstissä erikseen ja kaikkien lajien mukaantuloa aivan erityisesti toistoilla korostetaan, joten jos tällainen "selitys" hyväksytään, niin ovet avataan jokseenkin täydelliselle tulkintamielivallalle kautta koko Raamatun. Liekö tarkoituskin? |  |  |  |
+| Kuolema ennen lankeemusta? Kuoleman tulo lankeemuksessa ei ratkaise pahan ongelmaa mutta tekee *free will* -puolustuksen konkreettisemmaksi. | Jos mitään isompaa ei ole tapahtunut sitten luomisen, niin koko evankeliumi on turha[^15] ja islam on kokonaisuutena katsoen kristinuskoa järkevämpi vaihtoehto: Allahhan se juuri halusikin olennaisesti sitä, mitä me nyt itsessämme ja ympärillämme näemme[^16], Raamatun Jumalalle sen sietäminenkin, hyväksymisestä puhumattakaan, sitä vastoin tuntuu olevan kovin vaikeaa, jopa mahdotonta, ja juuri tähän koko kärsimyksen ongelma *teoreettisesti* perustuukin: Miten voi tai voisi olla olemassa sekä Raamatun täydellisen hyvä, pyhä ja kaikkivaltias Jumala että tällainen viheliäinen maailma? – Sekä naturalismin että islamin vastaus tähän kysymykseen onkin, ettei mitenkään. |  |  |  |
+| Adam tiesi mitä kuolema tarkoittaa ja varmaankin kasveja, viruksia ja bakteereja kuoli paratiisissa, ehkä isompiakin eliöitä. Luomakunta kirottiin lankeemuksessa mutta teksti ei sano, että kuolema tuli koko luomakunnalle lankeemuksen yhteydessä, ihmiselle tuli. | Mekin tiedämme ihan riittävän hyvin, mitä helvetti[^17] tarkoittaa, vaikkemme ole sitä nähneet emmekä kokeneet – ja juuri siksihän toivomme vastakin siltä välttyvämme. – Moraalisessa mielessä ongelmana ei ole solujen tai kasvien[^18] vaan *tajuisten elämänmuotojen*[^19] kärsimys ja kuolema, joskaan itse tekstissä ei ole mitään, mikä antaisi ymmärtää, etteikö lankeemuksella ja siitä aiheutuneella kirouksella olisi ollut vaikutusta myös kasveihin ja yksisoluisiin. – Löytyykö tekstistä kuvaus jonkin tajuisen eliön kuolemasta ennen kirousta? Miksi teksti korostaa kasvissyönnin olleen alun perin yksinomainen ravintoratkaisu? Miksi samaan asiaan palataan Raamatussa tuonnempanakin, esim. Jesajan kirjan kuvauksessa Jumalan pyhästä vuoresta, jossa ei tehdä pahaa eikä vahinkoa, eläintenkään kesken?[^20] – Kun Raamattua tahdotaan oikeasti ymmärtää, tulee antaa tajuntansa avartua niihin suuntiin, joihin teksti näkyy viittaavan, vaikka jo etukäteen onkin selvää ja ilmeistä, ettemme tässä elämässä voi läheskään kaikkea käsittää. – Keskeisimpänä tässä kohdin voi silti kyllä pitääkin sen myöntämistä, että *ainakin* ihmiselle kuolema tuli lankeemuksen yhteydessä ja lisäksi koko luomakunnalle *jokin* siihen liittyvä olennainen, yhä jatkuva kirous. Näitä seikkoja voi sitten tältä pohjalta jatkotutkia Raamatun valossa ja sikäli oikealla tiellä kulkien, ettei *jo tehtyihin* tulkintalinjauksiin pitäytyminen estä oppimista Jumalan Hengen johdossa "kaikkeen totuuteen". Tässä mielessä onkin parempi olla "rehellisesti epävarma" kuin "epärehellisesti tai ennenaikaisesti varma", mutta yhtä kaikki oikea kristitty nimenomaan *pyrkii varmuuteen*, sillä "Pyhä Henki ei ole skeptikko" (**Luther**). |  |  |  |
+| Matt ”alussa Jumala loi heidät mieheksi ja naiseksi.”: ”Alussa” voi viitata ihmiskunnan alkuun. | Nämä selitykset ovat kohta kohdalta informaatiota tuhoavia: Jos esim. "alussa" tässä yhteydessä viittaisi (vain) ihmiskunnan alkuun, se olisi täysin tyhjänpäiväinen lisäys tekstiin – ei kai kukaan olisi voinut luulla, että ihminen luotiin vasta olemassaolonsa keskivaiheilla tai loppupuolella! Samalla menetetään konkreettinen yhteys Vanhan testamentin ja koko Raamatun avaavaan alussa-sanaan ikään kuin Jeesus ei olisi selittänyt ja soveltanut konkreettista luomiskertomusta vaan "jotain muuta erilaisiin ja eriaikaisiin alkuihin liittyvää näkemystä". Lisäksi "voi viitata" tekee asian vieläkin sotkuisemmaksi: ensin oli poistettu informaatio ja nyt sitten vielä metainformaatiokin. Loppujen lopuksi tämä selitys sanoo siis suurin piirtein seuraavan: "*Ehkä* tässä ei olekaan kysymys luomakunnan alusta vaan jostain muusta." Kun tällainen väittämä ei sulje mitään mahdollisuutta pois, siitä ei voi oppiakaan yhtään mitään, ts. *käsiteltävän tekstin sisältämä informaatio* on täysin kadonnut matkan varrelle, ja jäljellä oleva informaatio kertoo vain *selittäjien epävarmoista mietteistä*, **ei** tekstin sisällöstä. |  |  |  |
+| 7. päivä ei ole päättynyt? Hebr 4 | Niin: "?"! – Mikä kohta tekstissä sanoo, ettei se olisi päättynyt? Mikä kohta tekstissä edes ottaa esille kysymyksen siitä, josko se ehkei olisikaan päättynyt? – Tekstihän systemaattisilla toistoilla päinvastoin oikein erityisesti korostaa, että sen tarkoittama "päivä" on nimenomaan yhden pimeän ja sitä välittömästi seuraavan valoisan aikajakson muodostama kokonaisuus, ihan niin kuin heprean *jom*-sana normaalimerkityksessään muutoinkin edellyttää. Tämän "rautalangasta väännetyn" tulkinta-avaimen "unohtuminen" erinäisiltä selittäjiltä ei tosiaankaan ole tekstin vika. |  |  |  |
+| Ps 90:4 Jumalan päivä eri kuin meidän. | ***Non sequitur!*** Tekstissä ei ole sentapaisen ajatuksen häivääkään! Taas yritetään käyttää Raamattua hävittämään Raamatun sisältämä informaatio! Jos tämä olisi totta, mikään Raamatun ajanmäärityksistä ei antaisi mitään tietoa "meidän" aikamääristämme. – Tosiasiassahan teksti **ei** sano, että Jumalan päivä on tuhat vuotta, vaan välissä on aivan olennaisen tärkeä ja informatiivinen **kuin**-sana. – Ajatus ei siis ole ollenkaan vaikeatajuinen: Jumalan iankaikkisuus konkretisoituu siinä, että meidän kannaltamme pitkä aika on hänen mittakaavassaan lyhyt – ei siinä mielessä, että siinä olisi eri määrä päiviä tai vuosia, vaan että tuhansien vuosien kuluminen vaikuttaa Jumalan toimintamahdollisuuksiin yhtä vähän kuin muutaman päivän ajanjakso ihmisen. Tätä voisi verrata siihen, jos otetaan vaikkapa jokin päivänkorento, joka elää vain päivän sukukypsänä, lentokykyisenä korentona eikä edes syö sinä aikana mitään. Voisimme nyt verrata tätä ihmisen täysi-ikäisenä elämään aikaan, pyöreästi 60 vuoteen, ja sanoa vaikkapa, että ihmiselle 60 vuotta on kuin päivänkorennolle yksi päivä, siis koko aikuinen elinikä. Tässä ei ole mitään ajatusta siitä, että "päivänkorennon päivät" olisivat eripituisia kuin "ihmisen päivät", vaan että päivänkorennon on ehdittävä koko aikuinen elämänsä yhdessä päivässä, kun taas ihminen voi suunnitella viikon, kuukauden tai vuoden päähän. Jumalalla on ihmisen ajalliseen elämään nähden vielä suurempi pitkäjänteisyys kuin ihmisellä päivänkorentoon verrattuna. Jokainen kielitajuinen lukija ymmärtää tämän, mutta tarpeeksi vahvat teologiset tendenssit sokaisevat näemmä kielitajunkin. |  |  |  |
+| Asia voidaan jättää todennäköisyyksien perusteella auki, koska kyseessä ei ole pelastuskysymys eli ei ole suurta riskiä, mikäli päätöstä ei tehdä välittömästi. Raamattuhan antaa meille ”kaiken mitä elämään ja jumalisuuteen tarvitaan” ja tietysti muutakin. Kysymys maapallon iästä kuuluu tuohon muut-ryhmään, ellei siitä tehdä pelastuskysymystä. | "Joka rikkoo yhtä kohtaa vastaan, on syypää kaikissa kohdin." – *Ct*:n mukaan Raamatun totuutta on puolustettava aina ja kaikissa kohdissa, ja innokkaimmin juuri siinä kohdassa, johon epäilys kulloinkin kohdistetaan. Tämä johtuu mm. siitä, että ihmisjärki on langenneena aina lähdössä Raamatun tekstin antamasta informaatiosta seuraamaan "ei suinkaan Jumala ole todella sanonut/tarkoittanut näin" -houkutusta. Tätä tapahtuu itse kullekin toistuvasti, mutta *ct* auttaa tunnistamaan ja korjaamaan tilanteen. |  |  |  |
+| Todennäköisyydet[^21] perustuvat kannan sisäiseen ennusteeseen eli siihen, miten todennäköistä kannan perusteella kyseinen havainto Raamatusta tai luonnosta on. Todennäköisyydet tässä ovat suuntaa antavia arvioita ja henkilön taustaymmärryksestä riippuvaisia. Niitä muuttavat se, kuinka varmana henkilö pitää tämän hetken tietämystämme. Jos esimerkiksi ajattelemme, että tällä hetkellä tiedämme 80% kaikesta tieteellisestä tiedosta, voimme pitää sitä, ettei kanta pysty selittämään mittaustulosta, suurena ongelmana ja siten todennäköisyyttä pienenä. Mikäli ajattelemme, että tiedämme 20% kaikesta tiedosta, kannan ongelma nykytietämyksen kanssa ei tee kannasta kovin epätodennäköistä. Asia ei ole kovin yksinkertainen, voidaan toki olettaa, että jatkotutkimus ei tule olemaan paljonkaan ristiriidassa nykyisten teorioiden kanssa, jolloin nykytietämykseen voitaisiin luottaa aika paljonkin. Mutta tämä on vain oletus ja hyvinkin tapauskohtainen, riippuen siitä, kuinka paljon ja kuinka välitöntä tietoa tapauksessa käytetään ja kuinka paljon teoreettisempaa tietoa ja taustaoletuksia tapaus käyttää. | Perususkomusnäkökulmasta kysymystä ei voine paketoida noin yksinkertaisiin prosentteihin, vaan on syytä analysoida, mitä uskomusjärjestelmää seuraten johonkin käsitykseen on tultu. Vaikka meillä olisi koko maailmankaikkeuden nykytilaa koskeva kattava data-aineisto (mikä tietenkin on mahdotonta), emme ilman ulkopuolisia uskomuksia ja oletuksia saisi siitä vielä minkäänlaista arviota siitä, mikä on tämän systeemin tai sen osien ikä. Perususkomuksia taas ei voi jälkikäteenkään oikeiksi todistaa, vaan ne ovat mukana jo tutkimusta suunniteltaessa, sitten sitä suoritettaessa ja jäävät vielä pysyvästi tutkimustuloksiinkin. Jotta niitä ylipäänsä voisi jotenkin järkevästi kontrolloida ja perustella, on oltava jokin sellainen kriteeri, jonka katsotaan pysyvän luotettavana tutkimustiedosta riippumatta. Naturalisteille se on "tieteen metodi" eli itse (metodologinen) naturalismi, *ct*:lle Raamattu sellaisenaan, siis järjen näpelöimättömänä kaikkitietävän, kaikkivaltiaan ja ehdottoman luotettavan Jumalan sanallisena ilmoituksena, jota ilman olemme ja pysymme hengellisessä pimeydessä. – *Ct*-kanta ei sinänsä selitä havaintoja. Sen sijaan se asettaa kyseisen uskomusjärjestelmän puitteissa sallituille selityksille normatiiviset reunaehdot. Selityksessä on näet aina käytettävä joitain muitakin perususkomuksia kuin pelkkä *ct*, ellei sitten tahdota tyytyä ns. "*God did it*" -selitykseen. Tämähän on kyllä perimmältään oikea selitys,[^22] mutta lisäoletukset voivat antaa mahdollisuuden [yksityiskohtaisempaan mallinrakenteluun](john-hartnettin-kosmologinen-malli.md), mitä luonnontieteissä yleensä nimenomaan syystäkin tavoitellaan. – Aivan vastaavasti toimii muuten myös metodologinen naturalismi: sehän ei sinänsä selitä mitään [^23], mutta antaa selittäjille periaatteessa täysin joustamattomia reunaehtoja, joiden ulkopuolella toimimista ei hyväksytä oikeaksi tutkimukseksi. |  |  |  |
 
 ### Viitteet
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Ateismin määritelmä"
 description: "Kuvittele, että sinulta kysyttäisiin, uskotko hattivattien olemassaoloon."
 tags: [apowiki, ateismi]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T20:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ateismin määritelmä".
@@ -61,27 +61,15 @@ Kun ateismilla tarkoitetaan tiedollista asennetta (joku henkilö X on sitä miel
 
 Filosofi Michael Scriven <!-- red link: Michael Scriven --> on muotoillut ateistin, [agnostikon](agnostisismi.md) ja teistin määritelmän [tietoteoreettisena](../glossary/sanasto.md#tietoteoria) käsityksenä, jolloin käsitys ateismin, agnostisismin ja teismin suhteen voi olla eriasteinen.[^13]
 
-```wikitext
-{|
-|-
-! | Käsitys jumalan olemassaolosta
-! | Nimitys
-|-
-| 1. Vahvoja todisteita olemassaoloa vastaan, ei mitään todisteita puolesta || [Positiivinen ateisti](../glossary/sanasto.md#positiivinen-ateismi)
-|-
-| 2. Ei mitään yleisiä tai erityisiä perusteita tai todisteita puolesta || [Negatiivinen ateisti](../glossary/sanasto.md#negatiivinen-ateismi)
-|-
-| 3. Joitakin yleisiä tai erityisiä perusteita puolesta, silti epätodennäköinen || Skeptikko, agnostikko laajassa merkityksessä, vaikka pitää jumalan olemassaoloa epätodennäköisenä, pitää sitä mahdollisena
-|-
-| 4. Todisteita puolesta ja vastaan yhtä paljon, todennäköisyys 50 % || [Agnostikko](agnostisismi.md) kapeassa merkityksessä, ei ota mitään kantaa kummankaan puolesta
-|-
-| 5. Vahvoja todisteita puolesta, silti ristiriitaisuuksia ja todisteita vastaan || Käytännön [teisti](teismi.md), agnostikko laajassa merkityksessä
-|-
-| 6. Vahvoja todisteita puolesta eikä mitään todisteita vastaan. Todistuva tavanomaisessa mielessä || Moderni teisti
-|-
-| 7. Suoraan todistuva vastaansanomattomilla tosiasioilla || Vanhakantainen teisti
-|}
-```
+| \| Käsitys jumalan olemassaolosta | \| Nimitys |
+|---|---|
+| 1. Vahvoja todisteita olemassaoloa vastaan, ei mitään todisteita puolesta | [Positiivinen ateisti](../glossary/sanasto.md#positiivinen-ateismi) |
+| 2. Ei mitään yleisiä tai erityisiä perusteita tai todisteita puolesta | [Negatiivinen ateisti](../glossary/sanasto.md#negatiivinen-ateismi) |
+| 3. Joitakin yleisiä tai erityisiä perusteita puolesta, silti epätodennäköinen | Skeptikko, agnostikko laajassa merkityksessä, vaikka pitää jumalan olemassaoloa epätodennäköisenä, pitää sitä mahdollisena |
+| 4. Todisteita puolesta ja vastaan yhtä paljon, todennäköisyys 50 % | [Agnostikko](agnostisismi.md) kapeassa merkityksessä, ei ota mitään kantaa kummankaan puolesta |
+| 5. Vahvoja todisteita puolesta, silti ristiriitaisuuksia ja todisteita vastaan | Käytännön [teisti](teismi.md), agnostikko laajassa merkityksessä |
+| 6. Vahvoja todisteita puolesta eikä mitään todisteita vastaan. Todistuva tavanomaisessa mielessä | Moderni teisti |
+| 7. Suoraan todistuva vastaansanomattomilla tosiasioilla | Vanhakantainen teisti |
 
 Michael Martinin tavoin myös filosofi Paul Edwards <!-- red link: Paul Edwards --> on tietoisesti poikennut määritelmästä, jonka mukaan ateisti pitää jumalan olemassaoloa koskevaa lausetta J epätotena. Hän määrittelee ateistin henkilönä, joka hylkää jumalauskon. Tällöin hylkäyksellä voi olla muitakin perusteita kuin J:n epätotena pitäminen. Michael Martin toteaa, että negatiivisen ateismin käsite on laajempi kuin Edwardsin ateismin käsite, sillä negatiivisen ateismin käsite lukee ateisteiksi myös henkilöt, joita yksinkertaisesti puuttuu usko jumalaan, eikä tämän uskon puuttumisen tarvitse olla tulosta uskon hylkäämisestä. Ilkka Niiniluodon mukaan tässä suhteessa Kari Saaren ateismin määritelmä näytön puuttumisesta seuraavana uskon puuttumisena on lähempänä Edwardsia kuin Martinia.
 

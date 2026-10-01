@@ -4,7 +4,7 @@ about: apologetics
 title: "Uusi testamentti"
 description: "Uusi testamentti (lyh. UT) on Raamatun, kristinuskon peruskirjan, jälkimmäinen osa."
 tags: [apowiki, raamatun-tekstit]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T20:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Uusi testamentti".
@@ -26,55 +26,14 @@ UT:n tekstien luotettavuus pyritään usein arkipäiväisissä keskusteluissa mi
 
 Seuraavassa taulukossa on vertailtu merkittäviä antiikin ajan tekstejä:
 
-```wikitext
-{|
-|-
-! | Teos[^6]
-! | Kirjoitettu
-! | Vanhin säilynyt kopio
-! | Säilyneitä tekstilöytöjä kaikkiaan
-|-align="right"
-
-|align="left" | **[Herodotos](https://fi.wikipedia.org/wiki/Herodotos)**
-| 488-428 eKr.
-| 900 jKr.
-| 8
-
-|-align="right"
-|align="left" | **[Thukydides](https://fi.wikipedia.org/wiki/Thukydides)**
-| n. 460-400 eKr.
-| n. 900 jKr.
-| 8
-
-|-align="right"
-|align="left" | **[Tacitus](https://fi.wikipedia.org/wiki/Tacitus)**
-| 100 jKr.
-| 1100 jKr.
-| 20
-
-|-align="right"
-|align="left" | **[Caesar](https://fi.wikipedia.org/wiki/Julius_Caesar)**: *[Gallian sota](https://fi.wikipedia.org/wiki/Commentarii_de_bello_Gallico)*
-| 58-50 eKr.
-| 900 jKr.
-| 9-10
-
-|-align="right"
-|align="left" | **[Livius](https://fi.wikipedia.org/wiki/Livius)**: *[Rooman synty](https://fi.wikipedia.org/wiki/Ab_urbe_condita_(kirja))*[^10]
-| 59-17 jKr.
-| 900 jKr.
-| 20
-
-|-align="right"
-|align="left" | UT
-|  40-100 jKr.
-|rowspan="1"| n. 130 jKr. </br> kok. 350 jKr.
-| yli 5000
-
-|-
-|colspan="2"|
-|
-|}
-```
+| \| Teos[^6] | \| Kirjoitettu | \| Vanhin säilynyt kopio | \| Säilyneitä tekstilöytöjä kaikkiaan |
+|---|---|---|---|
+| **[Herodotos](https://fi.wikipedia.org/wiki/Herodotos)** | 488-428 eKr. | 900 jKr. | 8 |
+| **[Thukydides](https://fi.wikipedia.org/wiki/Thukydides)** | n. 460-400 eKr. | n. 900 jKr. | 8 |
+| **[Tacitus](https://fi.wikipedia.org/wiki/Tacitus)** | 100 jKr. | 1100 jKr. | 20 |
+| **[Caesar](https://fi.wikipedia.org/wiki/Julius_Caesar)**: *[Gallian sota](https://fi.wikipedia.org/wiki/Commentarii_de_bello_Gallico)* | 58-50 eKr. | 900 jKr. | 9-10 |
+| **[Livius](https://fi.wikipedia.org/wiki/Livius)**: *[Rooman synty](https://fi.wikipedia.org/wiki/Ab_urbe_condita_(kirja))*[^10] | 59-17 jKr. | 900 jKr. | 20 |
+| UT | 40-100 jKr. | n. 130 jKr. <br> kok. 350 jKr. | yli 5000 |
 
 ### Viitteet
 

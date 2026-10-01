@@ -4,7 +4,7 @@ about: apologetics
 title: "Todistuksen taakka"
 description: "Usein kuulee sanottavan, ettei olematonta voi todistaa olemattomaksi."
 tags: [apowiki, tieteenfilosofia, maailmankatsomus, argumentointi]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T20:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Todistuksen taakka".
@@ -58,33 +58,20 @@ Myös asioista, joista on vaikeaa saada yksiselitteistä tietoa, voidaan saada t
 
 Metodia, jossa arvioidaan väitettä ja väitteen negaatiota puoltavia argumentteja, kritisoidaan joskus siitä, että se mahdollistaa olemattomien asioiden olettamisen. Näin ei kuitenkaan ole, sillä kuka tahansa voi väittää Joulupukin olevan olemassa, mutta kukaan tuskin olettaa sen olevan olemassa, jos yksikään todiste ei puolla väitettä. Jokaisen väitteen totuudellisuutta voidaan luonnollisesti tutkia - väitteen tutkiminen ei edellytä väitteeseen uskomista. Kyseinen metodi ei esimerkiksi aiheuta kenellekään uskoa pyöreiden neliöiden olemassaoloon, jos oletetaan, että argumentteja tulkitsevalla henkilöllä on jonkinlaisia kognitiivisia kykyjä.
 
-```wikitext
-{|  width=100%
-|-
-|Pyöreitä neliöitä on olemassa.||Kielen ja logiikan säännöt eivät ole sitovia, jolloin sisäisesti ristiriitaisten asioiden olemassaoloa ei voida kieltää. Mistään ei voida tietää mitään. Nämäkään väitteet eivät siis tarkoita mitään.
-|-
-|Pyöreitä neliöitä ei ole olemassa.||Pyöreitä neliöitä ei ole havaittu.
-Neliö ei voi olla pyöreä.
-|}
-```
+|  |  |
+|---|---|
+| Pyöreitä neliöitä on olemassa. | Kielen ja logiikan säännöt eivät ole sitovia, jolloin sisäisesti ristiriitaisten asioiden olemassaoloa ei voida kieltää. Mistään ei voida tietää mitään. Nämäkään väitteet eivät siis tarkoita mitään. |
+| Pyöreitä neliöitä ei ole olemassa. | Pyöreitä neliöitä ei ole havaittu.<br>Neliö ei voi olla pyöreä. |
 
-```wikitext
-{|  width=100%
-|-
-|Vaaleanpunaisia yksisarvisia on olemassa.||Mauri haisteli liimaa ja näki sellaisen.
-|-
-|Vaaleanpunaisia yksisarvisia ei ole olemassa.||Kukaan Maurin lisäksi ei ole nähnyt sellaisia.
-|}
-```
+|  |  |
+|---|---|
+| Vaaleanpunaisia yksisarvisia on olemassa. | Mauri haisteli liimaa ja näki sellaisen. |
+| Vaaleanpunaisia yksisarvisia ei ole olemassa. | Kukaan Maurin lisäksi ei ole nähnyt sellaisia. |
 
-```wikitext
-{|  width=100%
-|-
-|Tuoleja on olemassa.||Ihmiset voivat tuntea ne esim. potkimalla jalkojaan niihin.
-|-
-|Tuoleja ei ole olemassa.||Mauri haisteli liimaa, eikä tunne kipua potkiessaan jalkojaan tuoleihin, joten ne ovat ehkä illuusioita.
-|}
-```
+|  |  |
+|---|---|
+| Tuoleja on olemassa. | Ihmiset voivat tuntea ne esim. potkimalla jalkojaan niihin. |
+| Tuoleja ei ole olemassa. | Mauri haisteli liimaa, eikä tunne kipua potkiessaan jalkojaan tuoleihin, joten ne ovat ehkä illuusioita. |
 
 ### Katso myös
 #### ApologetiikkaWiki
