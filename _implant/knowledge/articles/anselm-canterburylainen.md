@@ -4,7 +4,7 @@ about: apologetics
 title: "Anselm Canterburylainen"
 description: "Pyhä Anselm Canterburylainen (1033 tai 1034 – 21. huhtikuuta 1109) oli keskiaikainen filosofi ja teologi."
 tags: [apowiki, henkilöt]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Anselm Canterburylainen".
@@ -56,7 +56,7 @@ Anselmia on pidetty ensimmäisenä tieteellisenä kristittynä [teologina](https
 
 #### Perusteet
 
-Anselmin jatkuvana pyrkimyksenä oli tulkita kristillisen uskon sisältö järjellä ymmärrettäväksi ja kehittää järkeenkäypiä totuuksia jotka olivat kietoutuneet uskon sisälle. Ennakkovaatimuksena tällaiselle työlle oli kristillinen tietoisuus, vakaa usko. Anselm kirjoitti: *”Neque enim quaero intelligere ut credam, sed credo ut intelligam. Nam et hoc credo, quia, nisi credidero, non intelligam.”* (”En pyri ymmärtämään että uskoisin, vaan uskon että voisin ymmärtää. Sillä tästäkin uskon, että jos en ensin usko, en voi ymmärtääkään”). Mutta kun [usko](../glossary/sanasto.md) on saavutettu, on pyrittävä perustelemaan järjellä se, mitä uskomme. Olisi väärin olla tekemättä niin: *”Negligentiae mihi esse videtur, si, postquam confirmati sumus in fide, non studemus quod credimus, intelligere.”* (”Katson sen epäonnistumiseksi velvollisuuksiamme kohtaan, jos sen jälkeen kun olemme saavuttaneet vankan uskon, emme pyrkisi ymmärtämään mitä uskomme”).
+Anselmin jatkuvana pyrkimyksenä oli tulkita kristillisen uskon sisältö järjellä ymmärrettäväksi ja kehittää järkeenkäypiä totuuksia jotka olivat kietoutuneet uskon sisälle. Ennakkovaatimuksena tällaiselle työlle oli kristillinen tietoisuus, vakaa usko. Anselm kirjoitti: *”Neque enim quaero intelligere ut credam, sed credo ut intelligam. Nam et hoc credo, quia, nisi credidero, non intelligam.”* (”En pyri ymmärtämään että uskoisin, vaan uskon että voisin ymmärtää. Sillä tästäkin uskon, että jos en ensin usko, en voi ymmärtääkään”). Mutta kun [usko](https://fi.wikipedia.org/wiki/Usko) on saavutettu, on pyrittävä perustelemaan järjellä se, mitä uskomme. Olisi väärin olla tekemättä niin: *”Negligentiae mihi esse videtur, si, postquam confirmati sumus in fide, non studemus quod credimus, intelligere.”* (”Katson sen epäonnistumiseksi velvollisuuksiamme kohtaan, jos sen jälkeen kun olemme saavuttaneet vankan uskon, emme pyrkisi ymmärtämään mitä uskomme”).
 
 Anselmin tietoteorian perusteet sisältyvät hänen teokseensa *De Veritate*, jossa hän käsittelee totuutta tietona, tahtomisena ja asioissa, ja kohoaa ajatukseen absoluuttisesta totuudesta, jossa kaikki muut totuudet ovat osallisina. Tämä absoluuttinen totuus on [Jumala](jumala.md) itse, joka on samalla lopullinen perusta tai prinsiippi sekä asioille että ajattelulle. Jumalan käsite tulee siis järjestelmän etualalle – ennen kaikkea muuta järjelle on tehtävä selväksi, että Jumalalla voidaan todistaa olevan selkeä, todellinen olemassaolo.
 

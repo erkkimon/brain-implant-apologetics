@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to be done — the implant's live work queue.
-timestamp: 2026-10-01T18:30:00Z
+timestamp: 2026-10-01T19:00:00Z
 ---
 
 # Open
@@ -23,9 +23,7 @@ cooldown burst.
 
 ## Phase 1 — Algorithmic conversion (machine time)
 
-Done 2026-09-25 — see [archive/2026-09-25.md](archive/2026-09-25.md). Left over:
-
-- [ ] Glossary links to terms the Sanasto page does not define (41 distinct, e.g. *usko*, *looginen*, *monoteismi*; listed under `missing_glossary_terms` in `_temp/convert-report.json`) land on the glossary page itself. Decide per term whether a Wikipedia link or a new glossary-style page serves better
+Done 2026-09-25 — see [archive/2026-09-25.md](archive/2026-09-25.md). Nothing left over.
 
 ## Phase 2 — The book spine (machine time)
 

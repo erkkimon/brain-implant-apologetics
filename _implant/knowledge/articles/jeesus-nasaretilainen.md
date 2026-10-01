@@ -4,7 +4,7 @@ about: apologetics
 title: "Jeesus Nasaretilainen"
 description: "Jeesus Nasaretilainen on kristinuskon keskushenkilö. Kristityt uskovat, että Jeesuksessa Jumalan toinen persoona tuli lihaksi (\"sikisi Pyhästä Hengestä , syntyi neitsyt Mariasta\") ja ilmoitti Isän ."
 tags: [apowiki, jeesus]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jeesus Nasaretilainen".
@@ -115,7 +115,7 @@ Matteus ja Luukas kertovat Jeesuksen sukuluettelot ( ([Matt. 1:1-17](../books/ma
 
 ###### Syntymätapahtumien kronologia Matteuksen evankeliumin mukaan täydennettynä Luukkaan evankeliumin tiedoilla
 
-1. Enkeli Gabrielin ilmestyminen ja lupaus [Messiaan](../glossary/sanasto.md) airueen - Johannes Kastajan <!-- red link: Johannes Kastaja --> - syntymästä betlehemiläiselle pappi Sakarialle, Abian pappisosastoon kuuluvalle miehelle hänen suorittaessaan suitsutusta temppelissä Jerusalemissa ( ([Luuk. 1:5-25](../books/luk.md)))
+1. Enkeli Gabrielin ilmestyminen ja lupaus [Messiaan](https://fi.wikipedia.org/wiki/Messias) airueen - Johannes Kastajan <!-- red link: Johannes Kastaja --> - syntymästä betlehemiläiselle pappi Sakarialle, Abian pappisosastoon kuuluvalle miehelle hänen suorittaessaan suitsutusta temppelissä Jerusalemissa ( ([Luuk. 1:5-25](../books/luk.md)))
 1. Enkeli Gabrielin ilmestyminen Marialle Nasaretissa ( ([Luuk. 1:26-38](../books/luk.md)))
 1. Marian vierailu Elisabetin ja Sakarian luona Betlehemissä 3 kk:n ajan ( ([Luuk. 1:39-56](../books/luk.md)))
 1. Marian paluu Nasaretiin

@@ -60,6 +60,59 @@ try:
 except FileNotFoundError:  # glossary not generated yet
     GLOSSARY_TERMS = set()
 
+# Glossary links (AW:S#term) to terms ApoWiki's glossary does not define:
+# 41 distinct in revision 11402. Each was decided by hand on 2026-10-01
+# against three candidates, in this order: a near-variant the glossary does
+# define ("glossary:<term>"), an ApoWiki article ("article:<stem>"), or a
+# Finnish Wikipedia page that is about the term in the sense used
+# ("wp:<title>", checked to exist and not to be a disambiguation page). A term
+# mapped to None has no fitting target and becomes plain text, because a link
+# to the top of a 400-term glossary tells the reader nothing.
+GLOSSARY_FALLBACKS: dict[str, str | None] = {
+    "usko": "wp:Usko",
+    "looginen": "wp:Logiikka",
+    "idealismi": "wp:Idealismi",
+    "argumentoida": "glossary:argumentointi",
+    "nollahypoteesi": "wp:Nollahypoteesi",
+    "kanoniset evankeliumit": "article:evankeliumit",
+    "monoteismi": "wp:Monoteismi",
+    "aktuaalisesti": "glossary:aktuaalinen",
+    "konservatiivinen": None,
+    "leegio": None,
+    "teologinen": "wp:Teologia",
+    "traditio": "wp:Perinne",
+    "kompromettoida": None,
+    "potentiaali": "glossary:potentiaalinen",
+    "visuaalinen": None,
+    "kvantitatiivinen": None,
+    "ontologinen": "glossary:ontologia",
+    "skeptinen": "glossary:skeptisismi",
+    "karikatyyri": "wp:Karikatyyri",
+    "evolutionisti": "article:evoluutioteoria",
+    "darvinisti": "wp:Darvinismi",
+    "messias": "wp:Messias",
+    "teoreettinen": None,
+    "dimensio": "wp:Ulottuvuus",
+    "luonnonlaki": "article:luonnonlaki",
+    "attribuutti": None,
+    "hermeneutiikka": "article:hermeneutiikka",
+    "syklinen": None,
+    "itseisarvo": "wp:Itseisarvo",
+    "praktiikka": None,
+    "riivaustila": "wp:Riivaus",
+    "homologinen": "glossary:homologia",
+    "teisti": "article:teismi",
+    "morfologia": "wp:Morfologia (biologia)",
+    "embryologia": "wp:Embryologia",
+    "suunnittelija": "glossary:suunnittelu",
+    "falsifioitavuus": "glossary:falsifikaatio",
+    "identifioida": None,
+    "väitelause": "glossary:propositio",
+    "unitarismi": "wp:Unitarismi",
+    "trinitarismi": "wp:Kolminaisuusoppi",
+}
+
+
 # ---------------------------------------------------------------------------
 # Slug — byte-identical to apowiki_import.slug(). Do not "improve" it here:
 # the two must agree or the links this tool writes will not match the files
@@ -246,8 +299,27 @@ class Converter:
             self.stats["link_glossary"] += 1
             if a and a not in GLOSSARY_TERMS:
                 self.stats["link_glossary_term_missing"] += 1
-                self.missing_glossary_terms[frag] += 1
-                a = ""
+                key = frag.lower()
+                if key not in GLOSSARY_FALLBACKS:
+                    # Undecided: report it, and land on the page itself.
+                    self.missing_glossary_terms[frag] += 1
+                    a = ""
+                else:
+                    fb = GLOSSARY_FALLBACKS[key]
+                    kind, _, val = (fb or "").partition(":")
+                    if kind == "glossary":
+                        a = glossary_anchor(val)
+                    elif kind == "article":
+                        self.stats["link_glossary_fallback"] += 1
+                        return f"[{label}]({val}.md)"
+                    elif kind == "wp":
+                        self.stats["link_glossary_fallback"] += 1
+                        url = ("https://fi.wikipedia.org/wiki/"
+                               + val.replace(" ", "_"))
+                        return f"[{label}]({url})"
+                    else:
+                        self.stats["link_glossary_plain"] += 1
+                        return label
             href = "../glossary/sanasto.md" + (f"#{a}" if a else "")
             return f"[{label}]({href})"
 

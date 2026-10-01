@@ -4,7 +4,7 @@ about: apologetics
 title: "Okkultismi"
 description: "Sana okkultismi juontaa juurensa latinankielisestä sanasta occultus, joka tarkoittaa kätkettyä."
 tags: [apowiki, paranormaalit-ilmiöt]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Okkultismi".
@@ -53,7 +53,7 @@ Kirkon tutkimuskeskuksen tekemän tutkimuksen mukaan noin viidennes suomalaisist
 
 ##### Osittaisokkultistit
 
-Moniin harrastuksiin okkultismi liittyy osana suurempaa toimintakokonaisuutta. Tällaisia harrastuksia ovat esimerkiksi jotkut [budo-lajit](https://fi.wikipedia.org/wiki/budo-lajit), joissa okkultismi tulee mukaan vasta verrattain myöhään harrastajan edettyä pitkälle lajissaan.[^6] Myös monet [joogan](https://fi.wikipedia.org/wiki/jooga) harrastajat pyrkivät harrastuksellaan parantamaan fyysistä kuntoaan tai keskittymiskykyään. Näiden päämäärien saavuttamiseksi harrastaja käyttää hindulaisen okkultismin keinoja erilaisten joogatekniikoiden muodossa. Erilaiset parannustekniikat kuuluvat myös okkultististen harrastusten kirjoon. Tarkoituksena on eettisesti hyvä periaate parantaa sairauksia ja tätä kategoriaa kuvaakin okkultististen keinojen käyttäminen ilmeisen hyviä tarkoitusperiä varten. [Homeopaattiseksi lääketieteeksi](https://fi.wikipedia.org/wiki/homeopaattinen_lääketiede) luettujen tekniikoiden ja [praktiikkojen](../glossary/sanasto.md) määrä on suuri. Yleensä ne vielä ovat ainakin jossain määrin räätälöityjä siten, että eri "lajeista" on otettu vaikutteita parantavaan kokonaisuuteen. Melko laajalle levinnyt okkultistinen harrastus, joka kuuluu nimenomaan tähän luokkaan, on vesisuonien etsiminen taikavarvun tai sormuksen avulla. Motiivinahan kyseisessä toiminnassa on niinkin hyvä asia kuin kaivonpaikan löytäminen. Laajennettuna kyseinen harrastus käsittää myös parantamisen, selvännäkemisen, ennustamisen ja muita yleensä psyykkisiksi ilmiöiksi luokiteltavia asioita.[^7]
+Moniin harrastuksiin okkultismi liittyy osana suurempaa toimintakokonaisuutta. Tällaisia harrastuksia ovat esimerkiksi jotkut [budo-lajit](https://fi.wikipedia.org/wiki/budo-lajit), joissa okkultismi tulee mukaan vasta verrattain myöhään harrastajan edettyä pitkälle lajissaan.[^6] Myös monet [joogan](https://fi.wikipedia.org/wiki/jooga) harrastajat pyrkivät harrastuksellaan parantamaan fyysistä kuntoaan tai keskittymiskykyään. Näiden päämäärien saavuttamiseksi harrastaja käyttää hindulaisen okkultismin keinoja erilaisten joogatekniikoiden muodossa. Erilaiset parannustekniikat kuuluvat myös okkultististen harrastusten kirjoon. Tarkoituksena on eettisesti hyvä periaate parantaa sairauksia ja tätä kategoriaa kuvaakin okkultististen keinojen käyttäminen ilmeisen hyviä tarkoitusperiä varten. [Homeopaattiseksi lääketieteeksi](https://fi.wikipedia.org/wiki/homeopaattinen_lääketiede) luettujen tekniikoiden ja praktiikkojen määrä on suuri. Yleensä ne vielä ovat ainakin jossain määrin räätälöityjä siten, että eri "lajeista" on otettu vaikutteita parantavaan kokonaisuuteen. Melko laajalle levinnyt okkultistinen harrastus, joka kuuluu nimenomaan tähän luokkaan, on vesisuonien etsiminen taikavarvun tai sormuksen avulla. Motiivinahan kyseisessä toiminnassa on niinkin hyvä asia kuin kaivonpaikan löytäminen. Laajennettuna kyseinen harrastus käsittää myös parantamisen, selvännäkemisen, ennustamisen ja muita yleensä psyykkisiksi ilmiöiksi luokiteltavia asioita.[^7]
 
 #### Motiivit ja ajautuminen okkultismiin
 
@@ -79,7 +79,7 @@ Myös itsensä viilteleminen näyttää kuuluvan moniin okkultistisiin palvontam
 
 #### Possessiotila ja okkultismi
 
-Satanistien, rajatiedon etsijöiden ja parantajien kokemukset yliluonnollisesta maailmasta ovat monessa suhteessa samankaltaisia. Samaa voidaan sanoa niistä johtuvista mielenterveysongelmista. Vaikka esimerkiksi [riivaustilan](../glossary/sanasto.md), jota kutsumme jatkossa *possessio*-tilaksi, määrittelystä ja tarkasta luonteesta voidaan esittää erilaisia näkemyksiä, siihen johtavat syyt ovat yksiselitteisempiä. Oli kysymyksessä sitten outo ja puhtaasti psykologinen mielenterveysongelma tai todella [demonin](https://fi.wikipedia.org/wiki/demoni) vaikutus ihmisessä, tulos on ihmiselle tuhoisa. Näin ollen possessioiden tutkimisessa tulisi ennaltaehkäisyn mahdollistamiseksi kiinnittää huomiota kyseisten tilojen synnyn syihin.
+Satanistien, rajatiedon etsijöiden ja parantajien kokemukset yliluonnollisesta maailmasta ovat monessa suhteessa samankaltaisia. Samaa voidaan sanoa niistä johtuvista mielenterveysongelmista. Vaikka esimerkiksi [riivaustilan](https://fi.wikipedia.org/wiki/Riivaus), jota kutsumme jatkossa *possessio*-tilaksi, määrittelystä ja tarkasta luonteesta voidaan esittää erilaisia näkemyksiä, siihen johtavat syyt ovat yksiselitteisempiä. Oli kysymyksessä sitten outo ja puhtaasti psykologinen mielenterveysongelma tai todella [demonin](https://fi.wikipedia.org/wiki/demoni) vaikutus ihmisessä, tulos on ihmiselle tuhoisa. Näin ollen possessioiden tutkimisessa tulisi ennaltaehkäisyn mahdollistamiseksi kiinnittää huomiota kyseisten tilojen synnyn syihin.
 
 Possessio-tilojen ja okkultismin harrastamisen välillä on lukuisien [eksorkismia](../glossary/sanasto.md#eksorkismi) harjoittavien pastorien ja muiden kristittyjen työntekijöiden kokemusten mukaan selvä yhteys. Kuuluisa amerikkalainen psykiatri M. Scott Peck toteaa:
 

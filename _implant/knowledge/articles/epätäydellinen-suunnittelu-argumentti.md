@@ -4,7 +4,7 @@ about: apologetics
 title: "Epätäydellinen suunnittelu (argumentti)"
 description: "Useat biologit antavat ymmärtää, ettei suunnitteluteorian puolesta voida esittää mitään empiiristä näyttöä, mutta voivat jopa samaan hengenvetoon todeta, että biologiassa havaitut epätäydelliset rakenteet tarjoavat suoranaista empiiristä näyttöä suunnittelua vastaan."
 tags: [apowiki, suunnitteluteoria, lukusuositukset]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Epätäydellinen suunnittelu (argumentti)".
@@ -23,7 +23,7 @@ Suunnitteluteoria ei kuitenkaan ennusta suunnittelijan älykkyyden vähimmäista
 
 **Epätäydellinen suunnittelu** on argumentti, jonka mukaan biologisten rakenteiden epätäydellisyys todistaa, ettei näillä rakenteilla ole suunnittelijaa, vaan ne ovat päämäärättömien prosessien seurausta.
 
-Epätäydellinen suunnittelu on argumenttina siinä mielessä kestämätön, että vaikka olettaisimme eliöiden olevan epätäydellisesti suunniteltuja, niin epätäydellisestikin suunnitellut asiat ovat suunniteltuja (mm. [BMW M3](https://fi.wikipedia.org/wiki/BMW_M3)). Epätäydellisiä rakenteita voidaan kuitenkin pitää jonkinlaisena argumenttina *älykkyydeltään täydellisen* suunnittelijan olemassaoloa vastaan; tällöinkin argumentti sisältää oletuksen, että suunnittelija käyttää kaiken [potentiaalinsa](../glossary/sanasto.md) suunnitteluun. Mikäli rakenteiden epäoptimaalisuus tarjoaa näyttöä täydellisen älykästä suunnittelijaa vastaan, vastaavasti optimaalisuus tarjoaa näyttöä älykkyydeltään täydellisen suunnittelijan puolesta. Tämä viitekehys siis itse asiassa tarjoaa empiirisen keinon [verifioida](../glossary/sanasto.md#verifioida) [teleologinen argumentti](teleologinen-argumentti.md).
+Epätäydellinen suunnittelu on argumenttina siinä mielessä kestämätön, että vaikka olettaisimme eliöiden olevan epätäydellisesti suunniteltuja, niin epätäydellisestikin suunnitellut asiat ovat suunniteltuja (mm. [BMW M3](https://fi.wikipedia.org/wiki/BMW_M3)). Epätäydellisiä rakenteita voidaan kuitenkin pitää jonkinlaisena argumenttina *älykkyydeltään täydellisen* suunnittelijan olemassaoloa vastaan; tällöinkin argumentti sisältää oletuksen, että suunnittelija käyttää kaiken [potentiaalinsa](../glossary/sanasto.md#potentiaalinen) suunnitteluun. Mikäli rakenteiden epäoptimaalisuus tarjoaa näyttöä täydellisen älykästä suunnittelijaa vastaan, vastaavasti optimaalisuus tarjoaa näyttöä älykkyydeltään täydellisen suunnittelijan puolesta. Tämä viitekehys siis itse asiassa tarjoaa empiirisen keinon [verifioida](../glossary/sanasto.md#verifioida) [teleologinen argumentti](teleologinen-argumentti.md).
 
 ## Argumentin looginen muoto
 

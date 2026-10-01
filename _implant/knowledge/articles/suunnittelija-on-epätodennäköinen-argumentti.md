@@ -4,7 +4,7 @@ about: apologetics
 title: "\"Suunnittelija on epätodennäköinen\" (argumentti)"
 description: "Jumalharha-kirjassaan evoluutiobiologi Richard Dawkins esittää pääargumenttinaan Jumalan olemassaoloa vastaan väitteen, jonka mukaan Jumala on epätodennäköinen."
 tags: [apowiki, jumala, argumentit, richard-dawkins, lukusuositukset]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article ""Suunnittelija on epätodennäköinen" (argumentti)".
@@ -124,7 +124,7 @@ On huomionarvoista, ettei *suunnitellun asian* **sattumalta syntymisen** *epäto
 
 #### Suunnittelupäättely ja todennäköisyydet
 
-Itse asiassa asia onkin niin, että jos meillä on joitakin perusteita olettaa potentiaalisen suunnittelijan tuottavan mielekkäällä todennäköisyydellä jonkun asian, niin *mitä epätodennäköisempää jonkin (havaitun) asian sattumalta syntyminen on, sitä todennäköisemmin se on suunniteltu*. Ja jos jokin asia on [aktuaalisesti](../glossary/sanasto.md) suunniteltu, niin silloin sillä täytyy olla ainakin joskus ollut suunnittelija, eli sen suunnittelijan olemassaolon todennäköisyys suunnittelun hetkellä on 100 %.
+Itse asiassa asia onkin niin, että jos meillä on joitakin perusteita olettaa potentiaalisen suunnittelijan tuottavan mielekkäällä todennäköisyydellä jonkun asian, niin *mitä epätodennäköisempää jonkin (havaitun) asian sattumalta syntyminen on, sitä todennäköisemmin se on suunniteltu*. Ja jos jokin asia on [aktuaalisesti](../glossary/sanasto.md#aktuaalinen) suunniteltu, niin silloin sillä täytyy olla ainakin joskus ollut suunnittelija, eli sen suunnittelijan olemassaolon todennäköisyys suunnittelun hetkellä on 100 %.
 
 Mitä monimutkaisempia suunnitellulta näyttäviä asioita löydämme, sitä epätodennäköisempää niiden sattumalta syntyminen on, sitä varmemmin ne ovat suunniteltuja ja sitä varmemmin niillä on suunnittelija. Asioiden sattumalta syntymisen epätodennäköisyys *ei* suinkaan *laske* suunnittelijan olemassaolon todennäköisyyttä, *vaan kasvattaa* sitä entisestään.
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Kirkkohistoria"
 description: "Kirkkohistoria on tutkimusala, jonka tehtävänä on kristinuskon, kirkon ja kristillisten liikkeiden menneisyyden selvittely ja saatujen tulosten tunnetuksi tekeminen."
 tags: [apowiki, historia, keskeneräiset-artikkelit]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kirkkohistoria".
@@ -102,7 +102,7 @@ Merkittävin muutos pakkosiirtolaisuutta edeltävään temppelijärjestelmään 
 * [Synagoga](https://fi.wikipedia.org/wiki/Synagoga)-järjestelmä, joka mahdollisti uskonnollisen toimen kaikkialla maailmassa riippumattomana temppelistä.
 * Voimistunut profetioihin perustunut Messias <!-- red link: Messias -->-odotus, jonka odotettiin täyttyvän tietyntyyppisenä.
 
-Muut tutut kristillisen seurakunnuan synnylle kontekstina toimineet uskonnolliset puitteet, jotka liittyivät kiinteästi Jeesuksen ja apostolien elämään, olivat [monoteismi](../glossary/sanasto.md), Mooseksen laki <!-- red link: Mooseksen laki -->, eettinen järjestelmä ja muut Vanhan Testamentin kirjoitukset osana historian kirjoitusta.
+Muut tutut kristillisen seurakunnuan synnylle kontekstina toimineet uskonnolliset puitteet, jotka liittyivät kiinteästi Jeesuksen ja apostolien elämään, olivat [monoteismi](https://fi.wikipedia.org/wiki/Monoteismi), Mooseksen laki <!-- red link: Mooseksen laki -->, eettinen järjestelmä ja muut Vanhan Testamentin kirjoitukset osana historian kirjoitusta.
 
 ### Ajanlaskun alusta eteenpäin
 

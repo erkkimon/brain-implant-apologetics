@@ -4,7 +4,7 @@ about: apologetics
 title: "Rekapitulaatioteoria"
 description: "Kuva: Ernst Haeckelin väärentämät kuvat selkärankaisten alkioista."
 tags: [apowiki, evoluutiokritiikki, lukusuositukset, haeckel, ernst, sikiöväärennökset, sikiöpiirros, sikiöpiirrokset, sikiöpiirroskiista, sikiökuva, sikiökuvat, alkio, kidukset, häntä, lapsivesi]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Rekapitulaatioteoria".
@@ -34,7 +34,7 @@ Charles Darwin piti selkärankaisten sikiönkehityksen yhtäläisyyksiä yhtenä
 
 Saksalainen evolutionisti [Ernst Haeckel](https://fi.wikipedia.org/wiki/Ernst_Haeckel) (1834-1919) piirsi kuuluisaksi tulleen version näiden sikiöiden yhtäläisyyksistä. Haeckel valitsi kuvasarjaan teoriaan sopivimpia esimerkkieläimiä jättäen vaikeammin siihen sopivat "kuvan ulkopuolelle". Edustajiksi hän valitsi kalan, salamanterin, kilpikonnan, kanan, sian, lehmän, jäniksen ja ihmisen.[^5] Lisäksi Haeckel väärensi valitsemiensakin sikiöiden rakenteen piirroksissaan muistuttamaan enemmän toisiaan. Piirros tiedettiin väärennökseksi jo Haeckelin elinaikana[^6] ja mm. Assmuth ja Hull käsittelivät aihetta perusteellisesti 1915 ilmestyneessä teoksessaan Haeckel´s Fraud and Forgeries,[^7] jossa käsiteltiin kymmeniä professori Haeckelin huijauksia.
 
-Haeckel hävitti kuvista mittakaavan ja normalisoi pois noin kymmenkertaisen kokovariaation selkärankaissikiöissä[^2]. Tämän ohella hän nimesi malliorganismeja tahallisesti väärin, editoi samaa leimasinta ainakin kahteen eri lajiin, sekä hävitti lähdeviitteet käyttämiinsä muiden eläintieteilijöiden alkuperäislähteisiin. Valitettavasti polveutumisopin voittokulun samaistaminen Haeckelin persoonan ja hänen teeseihinsä varjeli, vastuksesta huolimatta, näiden oppien vaikutuksen [morfologiaan](../glossary/sanasto.md) ja [embryologiaan](../glossary/sanasto.md) näihin päiviin saakka. Haeckeliltä ovat peräisin muun muassa embryologian termit ontogenia, granula, blastula, morula, sekä yleistermit ekologia, fylogenetiikka ja fyla/fylum (pääjakso).
+Haeckel hävitti kuvista mittakaavan ja normalisoi pois noin kymmenkertaisen kokovariaation selkärankaissikiöissä[^2]. Tämän ohella hän nimesi malliorganismeja tahallisesti väärin, editoi samaa leimasinta ainakin kahteen eri lajiin, sekä hävitti lähdeviitteet käyttämiinsä muiden eläintieteilijöiden alkuperäislähteisiin. Valitettavasti polveutumisopin voittokulun samaistaminen Haeckelin persoonan ja hänen teeseihinsä varjeli, vastuksesta huolimatta, näiden oppien vaikutuksen [morfologiaan](https://fi.wikipedia.org/wiki/Morfologia_(biologia)) ja [embryologiaan](https://fi.wikipedia.org/wiki/Embryologia) näihin päiviin saakka. Haeckeliltä ovat peräisin muun muassa embryologian termit ontogenia, granula, blastula, morula, sekä yleistermit ekologia, fylogenetiikka ja fyla/fylum (pääjakso).
 
 Teoriaa, jonka mukaan sikiö käy yksilönkehityksensä aikana koko evolutiivisen historian läpi, ikään kuin kiiveten oman kehityspuunsa tyvestä latvaan, alettiin kutsua rekapitulaatioteoriaksi. Vaikka rekapitulaatioteoria usein mainitaan virheelliseksi, monia sen pohjalta tehtyjä johtopäätöksiä vaalitaan edelleen. Rekapitulaatioteoria hylättiin 1900-luvun alussa ja embryologia (sikiötutkimus) jäi käytännössä neodarwinistisen synteesin ulkopuolelle.
 

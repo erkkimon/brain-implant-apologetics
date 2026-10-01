@@ -4,7 +4,7 @@ about: apologetics
 title: "Huuhaa-palkinto 2008"
 description: "Kuva: Vuoden 2008 Huuhaa-palkinto Skepsis ry antoi vuoden 2008 Huuhaa-palkintonsa Kustannus Oy Uudelle Tielle kasvatustieteen professori Tapio Puolimatkan Usko, tiede ja Raamattu sekä Usko, tiede ja evoluutio -kirjojen julkaisemisesta."
 tags: [apowiki, tapio-puolimatka, media, lukusuositukset]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Huuhaa-palkinto 2008".
@@ -49,11 +49,11 @@ Skepsis ry perusteli "Huuhaa-palkintoa" seuraavasti
 >
 > — 3.12.2008
 
-Perustelut vaikuttavat olevan sikäli ongelmallisia, että ne rikkovat Skepsiksen omia periaatteita.[^5] Skepsis ry:n mukaan [skeptiseen](../glossary/sanasto.md) keskusteluun *"kuuluu argumentointi eli väitteiden perusteleminen"*. Skepsiksen sivuilla listataan mm. seuraavia argumentointivirheitä:[^6]
+Perustelut vaikuttavat olevan sikäli ongelmallisia, että ne rikkovat Skepsiksen omia periaatteita.[^5] Skepsis ry:n mukaan [skeptiseen](../glossary/sanasto.md#skeptisismi) keskusteluun *"kuuluu argumentointi eli väitteiden perusteleminen"*. Skepsiksen sivuilla listataan mm. seuraavia argumentointivirheitä:[^6]
 
 > *1) [Henkilöä vastaan hyökkääminen](argumentum-ad-hominem.md) – Hyökätään väitteen esittäjää eikä itse väitettä vastaan.*
 
-> *2) *"Straw man"* eli olkinukke <!-- red link: olkinukke --> – Ohitetaan vastustettava väite tekemällä siitä [karikatyyri](../glossary/sanasto.md), olkinukke.*
+> *2) *"Straw man"* eli olkinukke <!-- red link: olkinukke --> – Ohitetaan vastustettava väite tekemällä siitä [karikatyyri](https://fi.wikipedia.org/wiki/Karikatyyri), olkinukke.*
 > *Sitä vastaan hyökkäämällä ja naurettavaksi tekemällä pyritään mitätöimään vastustajan väite.*
 
 "Huuhaa-palkinnon" perusteluissa Skepsis aloittaa

@@ -4,7 +4,7 @@ about: apologetics
 title: "C. S. Lewis"
 description: "Clive Staples Lewis (29. marraskuuta 1898 – 22. marraskuuta 1963) on legendaarisimmaksi tituleerattu kristitty apologeetta."
 tags: [apowiki, henkilöt]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "C. S. Lewis".
@@ -73,7 +73,7 @@ Lewisin mukaan "jokainen ajatus, joka voidaan tyhjentävästi selittää ei-jär
 
 #### Kääntyminen kristinuskoon ja kristillinen tuotanto
 
-Lewis kääntyi kristinuskoon asteittain. Ensin hän omaksui materialisminsa sijalle [idealismin](../glossary/sanasto.md), jossa absoluutti sai monia [teistisen](../glossary/sanasto.md#teismi) jumalan piirteitä. Lopulta hän siirtyi idealismista teismiin, mutta ei vielä ollut omien sanojensa mukaan kristitty. Lewis hyväksyi Jumalan olemassaolon, mutta kristillinen käsitys Jeesuksesta ja Raamatusta ei vielä kuulunut hänen uskonnäkemykseensä.
+Lewis kääntyi kristinuskoon asteittain. Ensin hän omaksui materialisminsa sijalle [idealismin](https://fi.wikipedia.org/wiki/Idealismi), jossa absoluutti sai monia [teistisen](../glossary/sanasto.md#teismi) jumalan piirteitä. Lopulta hän siirtyi idealismista teismiin, mutta ei vielä ollut omien sanojensa mukaan kristitty. Lewis hyväksyi Jumalan olemassaolon, mutta kristillinen käsitys Jeesuksesta ja Raamatusta ei vielä kuulunut hänen uskonnäkemykseensä.
 
 Keskustelu [J. R. R. Tolkienin](https://fi.wikipedia.org/wiki/J._R._R._Tolkien) ja Hugo Dysonin kanssa sai Lewisin vakuuttumaan siitä, että Kristus oli "todeksi tullut [myytti](../glossary/sanasto.md#myytti)". Lewis käsitti tämän tarkoittavan sitä, että kaikki hänen rakastamissaan pakanamytologioissa esiintyvät hyvät piirteet olivat toteutuneet täydellistettyinä Kristuksessa.
 

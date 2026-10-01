@@ -4,7 +4,7 @@ about: apologetics
 title: "Evoluutioteorian vastaiset argumentit"
 description: "Skepsis-lehden verkkoversiossa ilmestyneen artikkelin mukaan ApoWiki-hankkeemme keskittyisi \"evoluution vastaisten argumenttien esittelyyn\"."
 tags: [apowiki, evoluutiokritiikki]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Evoluutioteorian vastaiset argumentit".
@@ -173,7 +173,7 @@ Näiden väitettyjen välimuotojen käyttäminen "evoluutioteorian todisteina" p
 ##### Sukupuutot
 **Sukupuuttoon kuolleiden lajien** määrä on fossiiliaineiston perusteella suunnaton. Tämä siis toisaalta sopii evoluutioteorian yleiskuvaan: menneisyydessä oli toisenlaisia elämänmuotoja kuin nyt. Tarkemmin ajatellen asiaan kuitenkin liittyy iso ongelma: jokaisen esiintyneen elämänmuodon tarkoitukseton synty olisi pystyttävä selittämään erikseen – mitä enemmän eri eliölajeja maa on historiansa aikana päällään kantanut, sitä työläämpää on järkevästi ajatellen uskotella, että tarkoituksettomat prosessit olisivat kyenneet tuottamaan ne kaikki.
 
-Tämä selityspohjan riittävyysongelma ei käytännössä ole heikentänyt evoluutioteoriaa niin kauan, kun näiden selitystarpeiden arvioimiseen ei ole ollut käytettävissä mitään [kvantitatiivisia](../glossary/sanasto.md) menetelmiä. Esimerkiksi kosmologian ja toisaalta tietotekniikan kehitys kuitenkin antaa tällaisellekin tutkimukselle uusia välineitä, ja ainakin [William Dembski](william-dembski.md) on osoittanut, että satunnaisten[^41] prosessien reaalisella selitysvoimalla on selvästi määrittyvät luonteenomaiset ylärajansa. Yhden maailmankaikkeuden mallissa perinnäiset tarkoituksettomuuteen vetoavat selitykset eivät siksi enää oikein toimi, ja [multiversumimallissa](multiversumi-hypoteesi.md) taas ei oikeastaan voi sanoa mitään varmaa juuri tästä "meidän universumistamme" – [Occamin partaveitsen](https://fi.wikipedia.org/wiki/Occamin_partaveitsi) hukkaamisesta nyt puhumattakaan.
+Tämä selityspohjan riittävyysongelma ei käytännössä ole heikentänyt evoluutioteoriaa niin kauan, kun näiden selitystarpeiden arvioimiseen ei ole ollut käytettävissä mitään kvantitatiivisia menetelmiä. Esimerkiksi kosmologian ja toisaalta tietotekniikan kehitys kuitenkin antaa tällaisellekin tutkimukselle uusia välineitä, ja ainakin [William Dembski](william-dembski.md) on osoittanut, että satunnaisten[^41] prosessien reaalisella selitysvoimalla on selvästi määrittyvät luonteenomaiset ylärajansa. Yhden maailmankaikkeuden mallissa perinnäiset tarkoituksettomuuteen vetoavat selitykset eivät siksi enää oikein toimi, ja [multiversumimallissa](multiversumi-hypoteesi.md) taas ei oikeastaan voi sanoa mitään varmaa juuri tästä "meidän universumistamme" – [Occamin partaveitsen](https://fi.wikipedia.org/wiki/Occamin_partaveitsi) hukkaamisesta nyt puhumattakaan.
 
 ##### "Elävät fossiilit"
 Sukupuuttojen "vastapainoksi" tunnetaan myös päinvastaisia yllätyksiä: ensin vain fossiloituneina tunnettuja lajeja on sittemmin löydetty myös ilmielävinä.[^42] Tunnettuja esimerkkejä tästä ovat [tuatara](https://fi.wikipedia.org/wiki/tuatara)-lisko ja [varsieväkala](https://fi.wikipedia.org/wiki/varsieväkala). Evoluutioteorian ongelmana on se, että nämä lajit ovat todella säilyneet miljoonien vuosien myrskyisen historiansa läpi tunnistettavasti samoina kuin millaisia ovat olleetkin. Tilanne on epäsuhtainen, eivätkä "se nyt vain sattui sopimaan eri aikakausien elinympäristöihinsä ilman valintapaineita" -tyyppiset rutiiniselitykset luo mitään valoa näihin havaintoihin.

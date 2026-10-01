@@ -4,7 +4,7 @@ about: apologetics
 title: "Moraalinen argumentti"
 description: "Moraalinen argumentti on aksiologisen argumentin yksi muoto. Aksiologia tarkoittaa oppia arvoista eli teoriaa siitä, mikä on arvokasta ja miten arvostuksia voidaan perustella."
 tags: [apowiki, argumentit, etiikka]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Moraalinen argumentti".
@@ -38,7 +38,7 @@ Kun on ensin annettu perusteita pitää moraalisia arvoja ja normeja objektiivis
 
 #### Selitysperustan ja selitettävän luonteva yhteensopivuus
 
-Copan argumentoi, että teismi sopii paremmin yhteen objektiivisen moraalin kanssa kuin ateismi. Jos on olemassa täydellisen hyvä Jumala, silloin on luonnollista, että hänen olemuksensa määrittelee sen, mikä on hyvää ja arvokasta. Jos taas elämän synnyn selitykseksi oletetaan pelkän luonnonvalinnan ja sattuman pohjalta etenevä evoluutioteoria, on kyseessä prosessi, joka toteutuu luonnontilassa ilman arvoja, merkitystä tai tarkoitusta. Kyse on vain eloonjäämisestä ja luonnonvalinnasta. Tästä käsin on vaikea perustella objektiivista moraalia ja ihmisen [itseisarvoa](../glossary/sanasto.md). Evoluutioteorian pohjalta tulee myös vaikeaksi olettaa, että moraaliset intuitiomme antaisivat meille luotettavaa tietoa siitä, mikä on moraalisesti oikein tai väärin, hyvää tai pahaa, koska nämä intuitiot ovat oletettavasti kehittyneet vain siksi, että ne ovat auttaneet ihmislajia säilymään hengissä. Hengissä säilymisen kannalta tarkoituksenmukainen toiminta on eri asia kuin moraalinen toiminta.
+Copan argumentoi, että teismi sopii paremmin yhteen objektiivisen moraalin kanssa kuin ateismi. Jos on olemassa täydellisen hyvä Jumala, silloin on luonnollista, että hänen olemuksensa määrittelee sen, mikä on hyvää ja arvokasta. Jos taas elämän synnyn selitykseksi oletetaan pelkän luonnonvalinnan ja sattuman pohjalta etenevä evoluutioteoria, on kyseessä prosessi, joka toteutuu luonnontilassa ilman arvoja, merkitystä tai tarkoitusta. Kyse on vain eloonjäämisestä ja luonnonvalinnasta. Tästä käsin on vaikea perustella objektiivista moraalia ja ihmisen [itseisarvoa](https://fi.wikipedia.org/wiki/Itseisarvo). Evoluutioteorian pohjalta tulee myös vaikeaksi olettaa, että moraaliset intuitiomme antaisivat meille luotettavaa tietoa siitä, mikä on moraalisesti oikein tai väärin, hyvää tai pahaa, koska nämä intuitiot ovat oletettavasti kehittyneet vain siksi, että ne ovat auttaneet ihmislajia säilymään hengissä. Hengissä säilymisen kannalta tarkoituksenmukainen toiminta on eri asia kuin moraalinen toiminta.
 
 #### Selitysperustan ja selitettävän muodostaman kokonaisuuden yhtenäisyys
 

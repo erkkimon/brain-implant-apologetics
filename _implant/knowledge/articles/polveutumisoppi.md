@@ -4,7 +4,7 @@ about: apologetics
 title: "Polveutumisoppi"
 description: "Polveutumisopin mukaan kaikki eliöt ovat polveutuneet yhteisestä kantamuodostaan ohjatusti tai ohjaamattomasti."
 tags: [apowiki, evoluutioteoria]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Polveutumisoppi".
@@ -67,7 +67,7 @@ Esimerkiksi ihmisen häntäluu on elintärkeä lantiolihasten kiinnityskohta. Sa
 
 *Kuva: Sytokromi c:n kaltaisia proteiineja voidaan käyttää proteiinisukupuiden laatimiseen. Tällaisten sukupuiden rakentaminen käy kuitenkin sitä vaikeammaksi ja ristiriitaiseksi mitä enemmän eliöitä ja proteiineja vertaillaan.*
 
-[Molekyylibiologia](https://fi.wikipedia.org/wiki/molekyylibiologia) on biologian osa-alue, jonka avulla pyritään esimerkiksi päättelemään eri eliöiden sukulaissuhteita sekä kehityshistoriaa vertailemalla [homologisia](../glossary/sanasto.md) geenejä tai homologisia molekyylejä eliöiden välillä. Elollisten olentojen samankaltaisuudet ulottuvat molekyylitasolle asti. Kaikki eliöt käyttävät aineenvaihdunnassaan samoja kemiallisia perusrakenteita. Tämä mahdollistaa esim. proteinien- ja DNA/RNA sekvenssien analysoimisen, joiden pohjalta voidaan laatia molekyylisukupuita. On kuitenkin huomattu, että mitä enemmän eri proteiini- ja geenisekvenssejä on analysoitu, sitä vaikeammaksi ristiriidattomien molekyylisukupuiden rakentaminen käy. Eri molekyylejä vertailemalla päädytään erilaisiin päätelmiin. Lisäksi vertailtavien molekyylien erojen kasvaessa tulkinnanvaraisuus kasvaa nopeasti.[^1]
+[Molekyylibiologia](https://fi.wikipedia.org/wiki/molekyylibiologia) on biologian osa-alue, jonka avulla pyritään esimerkiksi päättelemään eri eliöiden sukulaissuhteita sekä kehityshistoriaa vertailemalla [homologisia](../glossary/sanasto.md#homologia) geenejä tai homologisia molekyylejä eliöiden välillä. Elollisten olentojen samankaltaisuudet ulottuvat molekyylitasolle asti. Kaikki eliöt käyttävät aineenvaihdunnassaan samoja kemiallisia perusrakenteita. Tämä mahdollistaa esim. proteinien- ja DNA/RNA sekvenssien analysoimisen, joiden pohjalta voidaan laatia molekyylisukupuita. On kuitenkin huomattu, että mitä enemmän eri proteiini- ja geenisekvenssejä on analysoitu, sitä vaikeammaksi ristiriidattomien molekyylisukupuiden rakentaminen käy. Eri molekyylejä vertailemalla päädytään erilaisiin päätelmiin. Lisäksi vertailtavien molekyylien erojen kasvaessa tulkinnanvaraisuus kasvaa nopeasti.[^1]
 
 Kun molekyylibiologisia homologioita käytetään todistamaan polveutumisoppia, vedotaan useimmiten niin sanottuihin pseudogeeneihin, eli varsinaisten geenien kopioihin, joilla ei tunnu olevan mitään toiminnallista vaikutusta. Esimerkiksi [suunnitteluteoreetikko](suunnitteluteoria.md) Michael Behe <!-- red link: Michael Behe --> esittää pseudogeenien homologiat polveutumisopin todisteena kirjassaan [The Edge of Evolution](the-edge-of-evolution-kirja.md):
 
