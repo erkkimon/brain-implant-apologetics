@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to be done — the implant's live work queue.
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T00:00:00Z
 ---
 
 # Open
@@ -42,7 +42,7 @@ testaments in `knowledge/books/`, each pointing at the theology spine.
 ## Phase 5+ — Daily iteration (token work, one batch per cooldown burst)
 
 - [ ] Before each translation batch, fill `knowledge/glossary/english.md` rows for the glossary terms that batch uses (321 of 413 terms still lack one; `apowiki_translate.py --dry-run` lists them per chunk). Batch 1's rows are in
-- [ ] Batch 1 (design theory, 6 articles; william-dembski landed and reviewed 2026-10-01, the rest running as `_temp/run-batch1.sh`, log in `_temp/batch1.log`; re-run the script if it died, it skips finished ones: suunnitteluteoria, william-dembski, kosminen-hienosäätö, teleologinen-argumentti, the-edge-of-evolution-kirja, tarkoituksellisuuspäättelyn-logiikka): machine run → review against the Finnish (translate title and description, fix failed chunks, set `translation_status: reviewed`) → `apowiki_land.py` → commit
+- [ ] Batch 1 (design theory, 6 articles; william-dembski landed and reviewed 2026-10-01, the rest running as `_temp/run-batch1.sh`, then a retry pass `_temp/run-batch1b.sh`, log in `_temp/batch1.log`; re-run `run-batch1.sh` if both died, it skips finished ones. Throughput depends on how busy the shared CPU host is: on 2026-10-01/02 two articles timed out while the host was saturated: suunnitteluteoria, william-dembski, kosminen-hienosäätö, teleologinen-argumentti, the-edge-of-evolution-kirja, tarkoituksellisuuspäättelyn-logiikka): machine run → review against the Finnish (translate title and description, fix failed chunks, set `translation_status: reviewed`) → `apowiki_land.py` → commit
 - [ ] Per batch: machine-translate one themed slice to English → improve that slice (ground claims, close its red links, enrich links) → commit. Themed, not alphabetical.
 - [ ] Create the pages the graph asks for. 254 red-link targets (273 links) still have no target at all; the most wanted are *Nasaretilaisen haaste* (5), *Paul Nelson* (3) and a run of ID-movement people and books (Denton, Jaki, Gonzalez, Richards, Discovery Institute). The 330 others link to Finnish Wikipedia but stay wanted. Do it with the translation batch that touches the theme, since a new page is token work
 
