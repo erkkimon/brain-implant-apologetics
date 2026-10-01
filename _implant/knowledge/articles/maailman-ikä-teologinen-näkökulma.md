@@ -4,7 +4,7 @@ about: apologetics
 title: "Maailman ikä – teologinen näkökulma"
 description: "Tämän tekstin tavoite on esitellä ja verrata näkyvän universumin (maailmankaikkeuden) ja maapallon ikää koskevia erilaisia raamatuntulkintoja."
 tags: [apowiki, raamattu, luomisoppi]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T05:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Maailman ikä – teologinen näkökulma".
@@ -170,7 +170,7 @@ Concordia-teologinen kritiikki on taulukoitu erikseen tuonnempana.
 
 Molemmille kannoille annetaan todennäköisyyksiä asiakohtaisesti ja nämä yhdistetään kokonaiskuvaksi. Asia voidaan jättää todennäköisyyksien perusteella auki, koska kyseessä ei ole pelastuskysymys eli ei ole suurta riskiä, mikäli päätöstä ei tehdä välittömästi. Raamattuhan antaa meille ”kaiken mitä elämään ja jumalisuuteen tarvitaan” ja tietysti muutakin. Kysymys maapallon iästä kuuluu tuohon muut-ryhmään, ellei siitä tehdä pelastuskysymystä. Todennäköisyydet perustuvat kannan sisäiseen ennusteeseen eli siihen, miten todennäköistä kannan perusteella kyseinen havainto Raamatusta tai luonnosta on. Todennäköisyydet tässä ovat suuntaa antavia arvioita ja henkilön taustaymmärryksestä riippuvaisia. Niitä muuttavat se, kuinka varmana henkilö pitää tämän hetken tietämystämme. Jos esimerkiksi ajattelemme, että tällä hetkellä tiedämme 80% kaikesta tieteellisestä tiedosta, voimme pitää sitä, ettei kanta pysty selittämään mittaustulosta, suurena ongelmana ja siten todennäköisyyttä pienenä. Mikäli ajattelemme, että tiedämme 20% kaikesta tiedosta, kannan ongelma nykytietämyksen kanssa ei tee kannasta kovin epätodennäköistä. Asia ei ole kovin yksinkertainen, voidaan toki olettaa, että jatkotutkimus ei tule olemaan paljonkaan ristiriidassa nykyisten teorioiden kanssa, jolloin nykytietämykseen voitaisiin luottaa aika paljonkin. Mutta tämä on vain oletus ja hyvinkin tapauskohtainen, riippuen siitä, kuinka paljon ja kuinka välitöntä tietoa tapauksessa käytetään ja kuinka paljon teoreettisempaa tietoa ja taustaoletuksia tapaus käyttää.
 
-| \| Raamatun kohta | \| YEC | \| p<sub>YEC</sub> | \| OEC | \| p<sub>OEC</sub> |
+| Raamatun kohta | YEC | p<sub>YEC</sub> | OEC | p<sub>OEC</sub> |
 |---|---|---|---|---|
 | 1.Moos. 1 Päivä |  | 1 | Raamattu käyttää sanaa kuvaamaan myös ajanjaksoa. Saarn. | 0.7 |
 | 1.Moos. 1 ”Tuli ehtoo, tuli aamu, n:näs päivä” |  | 1 |  | 0.5 |
@@ -188,7 +188,7 @@ Molemmille kannoille annetaan todennäköisyyksiä asiakohtaisesti ja nämä yhd
 
 [Concordia-teologia](concordia-teologian-periaatteet.md) (*ct*) muodostaa elimellisen kokonaisuuden, mistä syystä paras tapa saada siihen otetta on ko. kannan mukaisen näkemyksen koottu esittäminen. Taulukkoa voi haluttaessa myös laajentaa kattamaan omissa sarakkeissaan muitakin teologisia kokonaisajattelutapoja; siinä yhteydessä myös väliotsikkoa on syytä päivittää vastaavasti (esim. **Teologisia näkökulmia tulkintoihin**).
 
-| \| Näkökohta | \| *Ct*-kommentti | \| [Tilaa vaihtoehdoille] | \| [Tilaa vaihtoehdoille] | \| [Tilaa vaihtoehdoille] |
+| Näkökohta | *Ct*-kommentti | [Tilaa vaihtoehdoille] | [Tilaa vaihtoehdoille] | [Tilaa vaihtoehdoille] |
 |---|---|---|---|---|
 | Ajatus, jonka mukaan Raamatun luomiskertomus on kovin tulkinnanvarainen ja erilaisille tulkinnoille pitäisi siksi olla tilaa, ilman että asiasta tehdään pelastuskysymystä. | Pelastuskysymyksenä[^5] on lähtökohtaisesti raamattunäkemys sinänsä, ei jonkin tietyn osan tulkinta erikseen[^6]. Jos Raamattua pidetään vapaan tulkinnan varaisena, se ei voi olla perimmäinen opillinen auktoriteetti, vaan auktoriteetti on siirretty selittäjille, joiden edesottamukset ovat suureksi osaksi kontrolloimattomissa. *Ct*:n mukaan Raamattu on omien selitystensä tuomari, ts. mikään selitys ei ole hyväksyttävä, ellei se osoittaudu Raamatun tekstin kanssa tarkasti yhteensopivaksi, ja vain tekstiuskollisinta selitystä voi kussakin kohdassa turvallisesti ja hyvällä omallatunnolla seurata. |  |  |  |
 | Määräämättömän pitkä päivä (*mpp*) -tulkinta kokonaisuutena | Kirjaimellisesti ottaen säilyttäisi tapahtumajärjestyksen; silloin esim. kasvikunnan hidas kehkeyttäminen päättyisi ennen ensimmäisen siivekkään eläimen olemassaoloa. Miten pölytys olisi tapahtunut? Onko kukaan tosissaan yrittänytkään yksityiskohtaista selitystä tällaisesta näkökulmasta? |  |  |  |

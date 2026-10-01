@@ -4,7 +4,7 @@ about: apologetics
 title: "Uusi testamentti"
 description: "Uusi testamentti (lyh. UT) on Raamatun, kristinuskon peruskirjan, jälkimmäinen osa."
 tags: [apowiki, raamatun-tekstit]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T05:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Uusi testamentti".
@@ -26,7 +26,7 @@ UT:n tekstien luotettavuus pyritään usein arkipäiväisissä keskusteluissa mi
 
 Seuraavassa taulukossa on vertailtu merkittäviä antiikin ajan tekstejä:
 
-| \| Teos[^6] | \| Kirjoitettu | \| Vanhin säilynyt kopio | \| Säilyneitä tekstilöytöjä kaikkiaan |
+| Teos[^6] | Kirjoitettu | Vanhin säilynyt kopio | Säilyneitä tekstilöytöjä kaikkiaan |
 |---|---|---|---|
 | **[Herodotos](https://fi.wikipedia.org/wiki/Herodotos)** | 488-428 eKr. | 900 jKr. | 8 |
 | **[Thukydides](https://fi.wikipedia.org/wiki/Thukydides)** | n. 460-400 eKr. | n. 900 jKr. | 8 |

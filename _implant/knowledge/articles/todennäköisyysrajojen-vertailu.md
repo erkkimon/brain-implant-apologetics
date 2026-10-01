@@ -4,7 +4,7 @@ about: apologetics
 title: "Todennäköisyysrajojen vertailu"
 description: "Suunnitteluteoreettisen tarkoituksellisuuspäättelyn keskeinen, vertaisarvioitu menetelmä on William Dembskin kehittämä, klassisen tilastotieteen lähestymistapaa soveltava suunnittelusignaalien tunnistus."
 tags: [apowiki, suunnitteluteoria]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T05:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Todennäköisyysrajojen vertailu".
@@ -26,7 +26,7 @@ Dembski siis on soveltanut tätä lähestymistapaa tunnettujen[^6] tarkoituksett
 
 Oheisesta taulukosta näemme sekä klassisen tilastotieteen omaksumat että Dembskin suunnittelupäättelyä varten määrittämät yleispätevän hylkäysalueen rajat[^7]. Mitä pienempi todennäköisyys määrätään, sitä tiukemmin hypoteeseista pidetään kiinni[^8]. Vertailun ja havainnollisuuden vuoksi tässä taulukossa on mukana monia muitakin kiinnostaviksi katsottuja todennäköisyyksiä ja todennäköisyysrajoja kuin klassisen tilastotieteen mukaiset ja Dembskin yleispäteväksi[^9] esittämä.
 
-| \| Todennäköisyys[^10] | \| Todennäköisyyden 2-kantaisen logaritmin vastaluku eli informaatioarvo[^11] bitteinä[^12] | \| Tapahtuman aihepiiri | \| Tapahtuman kuvaus | \| Tapahtuman merkitys[^13] |
+| Todennäköisyys[^10] | Todennäköisyyden 2-kantaisen logaritmin vastaluku eli informaatioarvo[^11] bitteinä[^12] | Tapahtuman aihepiiri | Tapahtuman kuvaus | Tapahtuman merkitys[^13] |
 |---|---|---|---|---|
 |  |  |  |  | *Tästä alkavan jakson tapahtumien todennäköisyys sijoittuu välille*<br> **9,999... · 10<sup>-1</sup> <math>\dots</math> 10<sup>-10</sup>**.[^14] |
 | 0,166'666'666'7 | 2,6 | Nopanheitto[^15] | Kuutonen yhdellä heitolla |  |

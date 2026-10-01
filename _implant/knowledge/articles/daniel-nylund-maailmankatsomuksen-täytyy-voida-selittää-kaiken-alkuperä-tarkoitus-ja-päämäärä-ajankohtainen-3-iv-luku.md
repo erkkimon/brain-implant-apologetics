@@ -4,7 +4,7 @@ about: apologetics
 title: "Daniel Nylund: Maailmankatsomuksen täytyy voida selittää kaiken alkuperä, tarkoitus ja päämäärä (Ajankohtainen 3, IV luku)"
 description: "Modernin taiteen edelläkävijä Paul Gauguin (1848-1903) kirjoitti viimeiseen maalaukseensa ennen epäonnistunutta itsemurhayritystään: \"Mistä tulemme?"
 tags: [apowiki, maailmankatsomus, tekijänoikeuden-alaiset-artikkelit]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T05:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Daniel Nylund: Maailmankatsomuksen täytyy voida selittää kaiken alkuperä, tarkoitus ja päämäärä (Ajankohtainen 3, IV luku)".
@@ -71,12 +71,12 @@ Seuraavassa on piirretty kaavion muotoon ne vastausvaihtoehdot, jotka alkuperäk
 | Luomakunta, kosmos |  |  |  |
 |---|---|---|---|
 | Ominaisuus | Vaihtoehdot |  |  |
-| Jos luomakuntaa ei ole olemassa | \| Kaikki on vain harhaa | \| tai | \| illuusiota |
-| Jos luomakunta on olemassa | \| Se on saanut alkunsa eikä ole ikuinen | \| tai | \| Se ei ole saanut alkuaan ja on ikuinen |
-| Ellei se ole ikuinen ja on saanut alkunsa | \| Alkuperälle on jokin syy | \| tai | \| Alkuperälle ei ole mitään syytä |
-| Jos alkuperälle on syy | \| Se on persoonallinen | \| tai | \| Se on persoonaton |
-| Jos syy on persoonallinen | \| Se on persoonallinen hyvä | \| tai | \| Se on persoonallinen paha |
-| Jos syy on persoonallinen hyvä | \| Hän on Raamatun kolmiyhteinen Jumala | \| tai | \| Kyseessä on joku muu jumaluus, esim. Koraanin Allah |
+| Jos luomakuntaa ei ole olemassa | Kaikki on vain harhaa | tai | illuusiota |
+| Jos luomakunta on olemassa | Se on saanut alkunsa eikä ole ikuinen | tai | Se ei ole saanut alkuaan ja on ikuinen |
+| Ellei se ole ikuinen ja on saanut alkunsa | Alkuperälle on jokin syy | tai | Alkuperälle ei ole mitään syytä |
+| Jos alkuperälle on syy | Se on persoonallinen | tai | Se on persoonaton |
+| Jos syy on persoonallinen | Se on persoonallinen hyvä | tai | Se on persoonallinen paha |
+| Jos syy on persoonallinen hyvä | Hän on Raamatun kolmiyhteinen Jumala | tai | Kyseessä on joku muu jumaluus, esim. Koraanin Allah |
 
 Kaiken olemassaolon kieltäminen on mahdotonta, koska täytyy ensin olla olemassa joku, joka kieltää. Jos kieltäjä on olemassa, niin hänen kieltonsa on pätemätön.
 

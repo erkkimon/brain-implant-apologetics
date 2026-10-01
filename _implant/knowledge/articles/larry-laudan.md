@@ -4,7 +4,7 @@ about: apologetics
 title: "Larry Laudan"
 description: "Larry Laudan (s. 1941 Austin, Texas) on yhdysvaltalainen filosofi, jonka erikoisaloja ovat tieteenfilosofia ja tietoteoria."
 tags: [apowiki, henkilöt, filosofia]
-timestamp: 2026-10-01T21:30:00Z
+timestamp: 2026-10-02T05:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Larry Laudan".
@@ -52,7 +52,7 @@ Keskitymme tässä yhteydessä tarkastelemaan käsitystä, jonka mukaan kriteeri
 
 Pyrkimys löytää rajanvetokriteeri tieteen metodista luonnehti 1800-lukua. Silloin yleisen oletuksen mukaan on olemassa erityinen ”tieteellinen metodi”, joka on kaikkia muita tapoja parempi tapa testata empiirisiä väitteitä, vaikka se ei tuotakaan erehtymättömiä tuloksia. Ja vaikka tieteellinen menetelmä tuottaisi ajoittain virheellisiä tuloksia, tieteellisen menetelmän johdonmukainen soveltaminen takaa sen, että kyseiset virheet pian huomataan ja ne voidaan korjata. Jos tiede joskus johtaakin meitä harhaan, tieteellisen tutkimuksen jatkaminen lopulta palauttaa meidät oikealle tielle.[^4]
 
-| \| EI-TIETEELLISET TIEDON HANKKIMISEN TAVAT | \| TIETEEN METODI |
+| EI-TIETEELLISET TIEDON HANKKIMISEN TAVAT | TIETEEN METODI |
 |---|---|
 | "epäluotettavia" | "yksi yhtenäinen menetelmä luotettavan tiedon hankkimiseksi" |
 
@@ -113,7 +113,7 @@ Laudan huomauttaa ensinnäkin, että *tieteenfilosofit ovat yleisesti luopuneet 
 
 Voimme ensin pohtia kriteerejä (4) ja (5): tieteelliset teoriat ovat falsifioitavissa (osoitettavissa epätosiksi empiirisen kokemuksen valossa) ja niistä pidetään kiinni ehdollisesti.
 
-| \| EI-TIETEELLISET KÄSITYKSET | \| TIETEELLISET KÄSITYKSET |
+| EI-TIETEELLISET KÄSITYKSET | TIETEELLISET KÄSITYKSET |
 |---|---|
 | "sellaisia, joita ei ole testattu tai joita ei voida testata" | "sellaisia, joita voidaan testata ja joita on testattu" |
 
@@ -151,7 +151,7 @@ Tähän erityiseen luomisteorian kritiikkiin liittyy mielenkiintoinen lisähuoma
 > (b) evoluution perusideaa ei saa enää kyseenalaistaa, ja
 > (c) evoluutioteorian tieteellisyys ei ole uhattuna, vaikka sitä ei olla valmiita kyseenalaistamaan?
 
-| \| DARVINISTISTA EVOLUUTIOTEORIAA | \| TIETEELLISYYS |
+| DARVINISTISTA EVOLUUTIOTEORIAA | TIETEELLISYYS |
 |---|---|
 | "ei saa kyseenalaistaa" | "edellyttää avointa ja kyseenalaistavaa asennetta" |
 
@@ -161,7 +161,7 @@ Tähän erityiseen luomisteorian kritiikkiin liittyy mielenkiintoinen lisähuoma
 
 Edellä mainitun luomisteoriaa koskevan oikeuden päätöksen kaksi ensimmäistä kriteeriä sisälsivät väitteen, että on epätieteellistä ja sopimatonta olettaa sellaisten prosessien tai tosiasioiden olemassaolo, joita ei voida selittää jonkin tunnetun tieteellisen lain pohjalta.
 
-| \| "EI-TIETEELLISIÄ" | \| "TIETEELLISET SELITYKSET" |
+| "EI-TIETEELLISIÄ" | "TIETEELLISET SELITYKSET" |
 |---|---|
 | ovat selitykset, jotka eivät perustu luonnonlakiin | perustuvat luonnonlakiin |
 
@@ -177,7 +177,7 @@ Laudan[^16] ihmettelee sitä, miten tuomari tietää, ettei maailmanlaajuista tu
 
 On lisäksi huomattava, että *evoluutioteoreettista väitettä, jonka mukaan kaikki eliöt polveutuvat yhteisestä kantaisästä, ei pystytä todistamaan luonnonlain avulla*. Teoria yhteisestä kantaisästä tekee oletuksia hypoteettisista historiallisista tapahtumista ja tapahtumien mallista, jonka on tarkoitus selittää monia nykyisin havaittavia ilmiöitä. Teoria yhteisestä kantaisästä esittää väitteitä siitä, mitä tapahtui menneisyydessä. Se olettaa, että oli olemassa organismeja, jotka ovat välittäviä muotoja nykyisin elävien eliölajien välillä. Meillä *ei kuitenkaan ole mitään havaintoja näistä oletetuista välittävistä eliölajeista. Selittävän työn tässä teoriassa tekee oletettu tapahtumasarja, ei luonnonlaki.*[^17] *Jos siis tätä Rusen toista kriteeriä sovellettaisiin johdonmukaisesti, se vaatisi myös evoluutioteorian määrittelemistä ei-tieteelliseksi.*
 
-| \| TEORIA YHTEISESTÄ KANTAISÄSTÄ | \| "TIETEELLISET SELITYKSET" |
+| TEORIA YHTEISESTÄ KANTAISÄSTÄ | "TIETEELLISET SELITYKSET" |
 |---|---|
 | ei perustu luonnonlakiin | perustuvat luonnonlakiin |
 

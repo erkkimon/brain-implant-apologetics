@@ -4,7 +4,7 @@ about: apologetics
 title: "Tarkoituksellisuuspäättelyn logiikka"
 description: "Tarkoituksellisuuspäättely on suunnitteluteoreettinen päättely, joka johtaa tutkittavaan kohteeseen liittyvän suunnitteluhypoteesin vahvistamiseen tai hylkäämiseen."
 tags: [apowiki, suunnitteluteoria]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T05:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tarkoituksellisuuspäättelyn logiikka".
@@ -77,7 +77,7 @@ Kuten sanottu, tarkoituksellisuuspäättely on valmis hylkäämään suunnittelu
 
 Yksityiskohtaisempi vertailutaulukko on [Todennäköisyysrajojen vertailu](todennäköisyysrajojen-vertailu.md) -artikkelissa.
 
-| \| Todennäköisyys[^9] | \| Todennäköisyyden 2-kantaisen logaritmin vastaluku eli informaatioarvo[^10] bitteinä[^11] | \| Tapahtuman aihepiiri | \| Tapahtuman kuvaus | \| Tapahtuman merkitys[^12] |
+| Todennäköisyys[^9] | Todennäköisyyden 2-kantaisen logaritmin vastaluku eli informaatioarvo[^10] bitteinä[^11] | Tapahtuman aihepiiri | Tapahtuman kuvaus | Tapahtuman merkitys[^12] |
 |---|---|---|---|---|
 | 0,05<br>(alitettava tn-raja) | 4,3 | Klassinen tilastotiede | Tätä epätodennäköisempiä tapahtumia pidetään klassisessa tilastotieteessä nollahypoteesin hylkäämiseksi *melkein merkitsevinä*. | On syytä epäillä, että oletettu selitys (todennäköisyysjakauma) on väärä. Sitä ei ole osoitettu vääräksi, mutta sen selitysvoima on kyseenalainen. |
 | 0,01<br>(alitettava tn-raja) | 6,6 | Klassinen tilastotiede | Tätä epätodennäköisempiä tapahtumia pidetään klassisessa tilastotieteessä nollahypoteesin hylkäämiseksi *merkitsevinä*. | On syytä pitää oletettua selitystä virheellisenä ja pyrkiä etsimään sen tilalle jotakin uskottavampaa. |

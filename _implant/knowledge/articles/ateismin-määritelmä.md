@@ -4,7 +4,7 @@ about: apologetics
 title: "Ateismin määritelmä"
 description: "Kuvittele, että sinulta kysyttäisiin, uskotko hattivattien olemassaoloon."
 tags: [apowiki, ateismi]
-timestamp: 2026-10-02T03:00:00Z
+timestamp: 2026-10-02T05:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ateismin määritelmä".
@@ -61,7 +61,7 @@ Kun ateismilla tarkoitetaan tiedollista asennetta (joku henkilö X on sitä miel
 
 Filosofi [Michael Scriven](https://en.wikipedia.org/wiki/Michael_Scriven) <!-- red link: Michael Scriven --> on muotoillut ateistin, [agnostikon](agnostisismi.md) ja teistin määritelmän [tietoteoreettisena](../glossary/sanasto.md#tietoteoria) käsityksenä, jolloin käsitys ateismin, agnostisismin ja teismin suhteen voi olla eriasteinen.[^13]
 
-| \| Käsitys jumalan olemassaolosta | \| Nimitys |
+| Käsitys jumalan olemassaolosta | Nimitys |
 |---|---|
 | 1. Vahvoja todisteita olemassaoloa vastaan, ei mitään todisteita puolesta | [Positiivinen ateisti](../glossary/sanasto.md#positiivinen-ateismi) |
 | 2. Ei mitään yleisiä tai erityisiä perusteita tai todisteita puolesta | [Negatiivinen ateisti](../glossary/sanasto.md#negatiivinen-ateismi) |

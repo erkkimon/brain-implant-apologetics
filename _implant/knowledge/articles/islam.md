@@ -4,7 +4,7 @@ about: apologetics
 title: "Islam"
 description: "Islam on maahanmuuttajien uskonnoista läntisen maailman kannalta hankalin."
 tags: [apowiki, teismi, islam]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T05:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Islam".
@@ -65,7 +65,7 @@ On siis tärkeää katsoa, mitä itse uskonto väittää ja miten sen perustaja 
 
 Alla on lyhyt vertailu Jeesuksen ja Muhammadin toiminnan välillä.
 
-| \| Jeesus | \| Muhammed |
+| Jeesus | Muhammed |
 |---|---|
 | Kieltäytyi maallisesta vallasta.[^17] | Kävi valloitussotia, salamurhautti ihmisiä ja ryösteli karavaaneja[^18]. |
 | Nuhteli opetuslapsia, jotka halusivat kostaa kovakorvaisille ihmisille.[^19] | Tapatti vääräuskoiset. |

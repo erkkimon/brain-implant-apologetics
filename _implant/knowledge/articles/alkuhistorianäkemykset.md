@@ -4,7 +4,7 @@ about: apologetics
 title: "Alkuhistorianäkemykset"
 description: "Alkuhistorianäkemykset ovat käsityksiä siitä, mitä on tapahtunut ennen kuin kukaan meistä ihmisistä oli tarkkailemassa tapahtumia."
 tags: [apowiki, alkuperähypoteesit]
-timestamp: 2026-10-01T21:30:00Z
+timestamp: 2026-10-02T05:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Alkuhistorianäkemykset".
@@ -38,14 +38,14 @@ Näin ollen on luontevaa esittää [kreationististen](kreationismi.md), muiden t
 
 Alla olevaan taulukkoon on tiivistetty päänäkemykset:
 
-| \| Kreationismiin[^6] luettavat näkemykset | \| **Ihminen** | \| **Biologiset lajit** | \| **Maapallo** | \| **Kaikkeus** |
+| Kreationismiin[^6] luettavat näkemykset | **Ihminen** | **Biologiset lajit** | **Maapallo** | **Kaikkeus** |
 |---|---|---|---|---|
 | **[Äskettäisluomisnäkemys](../glossary/sanasto.md#äskettäisluomisnäkemys) <!-- red link: Äskettäisluomisnäkemys -->[^7] | Jumalan erikseen luoma maapallon kuudennen vuorokauden[^8] aikana Raamatun kuvauksen mukaisesti. | Alkuperäislajit[^9] Jumalan luomia. Näiden sisäistä muuntelua ja "lajiutumista"[^10] havaitaan, rajoittamaton [makroevoluutio](https://fi.wikipedia.org/wiki/makroevoluutio) ei ole uskottava. | Alle 40 000 vuoden ikäinen, tyypillisesti 10 000. Maailmanlaajuisen tulvan muokkaama. | Aurinkokunta kuten maakin alle 40 000 vuoden ikäinen; mahdollisuus, että kaikkeuden etäosat ovat [aikadilataation](https://fi.wikipedia.org/wiki/Erityinen_suhteellisuusteoria) <!-- red link: aikadilataatio --> vaikutuksesta ehtineet olla paikallisesti olemassa huomattavasti kauemmin, vaikkapa miljardejakin vuosia, on avoin tutkimusongelma.[^11] |
 | **[Muinaisluomisnäkemys](../glossary/sanasto.md#muinaisluomisnäkemys) <!-- red link: Muinaisluomisnäkemys -->**[^12] | Jumalan luoma, noin 100 000 - 20 000 vuotta sitten. | Tyypillisesti "pätkittäisluominen" sopivissa kohdissa. Ei yksittäistä yhteistä esivanhempaa. | 4,3 miljardia vuotta. Tyypillisesti paikallinen Nooan tulva. | 17-14 miljardia vuotta. |
-| \| Muut teistiset[^13] näkemykset | \| **Ihminen** | \| **Biologiset lajit** | \| **Maapallo** | \| **Kaikkeus** |
+| Muut teistiset[^13] näkemykset | **Ihminen** | **Biologiset lajit** | **Maapallo** | **Kaikkeus** |
 | **[Suunnitteluteoria](suunnitteluteoria.md)**[^14] | Ei ota erityistä kantaa ikäkysymyksiin.[^15] Useimpien kannattajien mukaan ihminen on erikseen suunniteltu (henkiset kyvyt, hyppäys eteenpän mm. motoriikassa ja kasvojen ilmeissä, moraali). | Mahdollisesti kehittyneet yhteisestä esivanhemmasta.[^16] Suunnittelu nähtävissä useissa kohdin, todisteena mm. [palautumaton monimutkaisuus](palautumaton-monimutkaisuus.md). | Ei ota kantaa ikäkysymyksiin.[^15] Joidenkin kannattajien mukaan maapallo on suunnittelun tulosta. | Ei ota kantaa ikäkysymyksiin.[^15] Useimpien kannattajien mukaan kaikkeus on suunnittelun tulosta ([kosminen hienosäätö](kosminen-hienosäätö.md)). |
 | **[Teistinen evolutionismi](https://fi.wikipedia.org/wiki/Teistinen_evolutionismi)** | Kehittynyt muista kädellisistä. | Kehittyneet yhteisestä esivanhemmasta. | Koulukirja-ajoitus. Ei maailmanlaajuista tulvaa. | Koulukirja-ajoitus. |
-| \| Ateistinen[^17] näkemys | \| **Ihminen** | \| **Biologiset lajit** | \| **Maapallo** | \| **Kaikkeus** |
+| Ateistinen[^17] näkemys | **Ihminen** | **Biologiset lajit** | **Maapallo** | **Kaikkeus** |
 | **Naturalistinen tieteisusko'''[^18] | Kehittynyt pitkien ajanjaksojen kuluessa vähitellen ohjaamattomasti ja tarkoituksettomasti muista kädellisistä. | Kehittyneet pitkien ajanjaksojen kuluessa vähitellen ohjaamattomasti ja tarkoituksettomasti yhteisestä esivanhemmasta. | Koulukirja-ajoitus. Ihmisen olemassaolon aikana ei maailmanlaajuista tulvaa, aikaisemmin voinut olla monia globaalejakin katastrofeja: esim. monet nykyiset vuoristot ovat fossiililöydösten perusteella entistä merenpohjaa, eivätkä niihin fossiloituneet kalat olleet ehtineet uida pois. | Syntynyt ja kehittynyt ohjaamattomasti ja tarkoituksettomasti itsestään. Koulukirja-ajoitus. |
 
 ### Viitteet

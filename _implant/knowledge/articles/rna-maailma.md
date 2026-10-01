@@ -4,7 +4,7 @@ about: apologetics
 title: "RNA-maailma"
 description: "Kuva: katalyyttejä; näiden ribotsyymien joukossa olisi sitten päälle päätteeksi ollut sellainenkin, joka sopivasta nukleotidien yhdistelmästä muodostuneena olisi alkanut kopioida itseään."
 tags: [apowiki, abiogeneesi]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T05:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "RNA-maailma".
@@ -70,8 +70,8 @@ Riboosi voi esiintyä useissa eri muodoissa, ja sattumakemia tuottaa näitä kai
 
 |  |  |  |  |  |
 |---|---|---|---|---|
-| **Emäs** | *Kuva: Adeniinin kemiallinen rakenne. Atomit on värjätty seuraavasti: hiili harmaa, typpi sininen, vety valkoinen*<br>Adeniini | \|<br>*Kuva: Guaniinin kemiallinen rakenne. Atomit on värjätty seuraavasti:happi punainen, hiili harmaa, typpi sininen, vety valkoinen*<br>Guaniini | \|<br>*Kuva: Sytosiinin kemiallinen rakenne. Atomit on värjätty seuraavasti:happi punainen, hiili harmaa, typpi sininen, vety valkoinen*<br>Sytosiini | \|<br>*Kuva: Urasiilin kemiallinen rakenne. Atomit on värjätty seuraavasti:happi punainen, hiili harmaa, typpi sininen, vety valkoinen*<br>Urasiili |
-| **Nukleotidi** | \|<br>*Kuva: AMP kemiallinen rakenne viivakaavana*<br>Adenosiinimonofosfaatti<br>A | \|<br>*Kuva: GMP kemiallinen rakenne viivakaavana*<br>Guanosiinimonofosfaatti<br>G | \|<br>*Kuva: CMP kemiallinen rakenne viivakaavana*<br>Sytidiinimonofosfaatti<br>C | \|<br>*Kuva: UMP kemiallinen rakenne viivakaavana*<br>Uridiinimonofosfaatti<br>U |
+| **Emäs** | *Kuva: Adeniinin kemiallinen rakenne. Atomit on värjätty seuraavasti: hiili harmaa, typpi sininen, vety valkoinen*<br>Adeniini | *Kuva: Guaniinin kemiallinen rakenne. Atomit on värjätty seuraavasti:happi punainen, hiili harmaa, typpi sininen, vety valkoinen*<br>Guaniini | *Kuva: Sytosiinin kemiallinen rakenne. Atomit on värjätty seuraavasti:happi punainen, hiili harmaa, typpi sininen, vety valkoinen*<br>Sytosiini | *Kuva: Urasiilin kemiallinen rakenne. Atomit on värjätty seuraavasti:happi punainen, hiili harmaa, typpi sininen, vety valkoinen*<br>Urasiili |
+| **Nukleotidi** | *Kuva: AMP kemiallinen rakenne viivakaavana*<br>Adenosiinimonofosfaatti<br>A | *Kuva: GMP kemiallinen rakenne viivakaavana*<br>Guanosiinimonofosfaatti<br>G | *Kuva: CMP kemiallinen rakenne viivakaavana*<br>Sytidiinimonofosfaatti<br>C | *Kuva: UMP kemiallinen rakenne viivakaavana*<br>Uridiinimonofosfaatti<br>U |
 
 [Sytosiinille](https://fi.wikipedia.org/wiki/sytosiini) ja [urasiilille](https://fi.wikipedia.org/wiki/urasiili) ei tunneta mitään abioottista syntymekanismia, joten alku-RNA:n olisi ilmeisesti täytynyt käyttää joitakin muita typpiemäksiä näiden tilalla.[^2] Sopivien raaka-aineiden ja niiden syntytodennäköisyyksien tuntemattomuus heikentää tietenkin RNA-maailma-hypoteesin uskottavuutta. [Guaniinille](https://fi.wikipedia.org/wiki/Guaniini) tunnetaan syntymekanismi, mutta sen syntyminen on adeniiniakin huomattavasti epätodennäköisempää. Se vaatii myös niin korkean HCN-pitoisuuden, ettei riboosia voida synnyttää samassa liemessä, koska sen vaatima formaldehydi reagoisi syaanivedyn kanssa ja estäisi guaniinin synteesin. Guaniinin synteesi olisi optimioloissakin alle 0,1 %.
 
@@ -115,7 +115,7 @@ Seuraavaksi pyritään arvioimaan RNA-maailma-hypoteesin uskottavuutta numeerise
    * Oletetaan sama todennäköisyys adeniinin lisäksi myös muille typpiemäksille: 2p(X)/3 ≈ 0,67 * 0,04 ≈ 0,02667.
 1. Oletetaan vielä fosfaattien aina tarvittaessa sopivasti syntyvän, ilmaantuvan paikalle ja liittyvän riboosimolekyyleihin asianmukaisesti, niin että RNA-runko syntyy siltä osin varmasti.[^7]
 
-| \| n | \| p(RNA) |
+| n | p(RNA) |
 |---|---|
 | 1 | 4,7 * 10<sup>-4</sup> |
 | 5 | 2,2 * 10<sup>-17</sup> |

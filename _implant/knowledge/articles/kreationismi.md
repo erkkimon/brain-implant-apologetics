@@ -4,7 +4,7 @@ about: apologetics
 title: "Kreationismi"
 description: "\"Kreationismi\" on yleisnimitys käsityksille, joiden mukaan havaintotodellisuus (kaikkeus ja sen elolliset olennot) ovat olemassa tarkoituksellisesti luotuina."
 tags: [apowiki, luomisoppi]
-timestamp: 2026-10-02T03:00:00Z
+timestamp: 2026-10-02T05:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kreationismi".
@@ -67,7 +67,7 @@ On myös kreationisteja, jotka kannattavat käsitystä vanhasta maapallosta; tä
 
 Kuten evoluutioteorian eri suuntausten lajittelemiseksi, myös kreationismin eri lajien luokittelemiseksi on tehty useita yrityksiä. Vakiintunein niistä lienee jo edellä todettu jako kahteen sen perusteella, mitä maapallon geologisen historian keston suuruusluokasta ajatellaan.
 
-| \| Kreationismiin[^19] luettavat näkemykset | \| **[Äskettäisluomisnäkemys](../glossary/sanasto.md#äskettäisluomisnäkemys) <!-- red link: Äskettäisluomisnäkemys -->**[^20] | \| **[Muinaisluomisnäkemys](../glossary/sanasto.md#muinaisluomisnäkemys) <!-- red link: Muinaisluomisnäkemys -->**[^21] |
+| Kreationismiin[^19] luettavat näkemykset | **[Äskettäisluomisnäkemys](../glossary/sanasto.md#äskettäisluomisnäkemys) <!-- red link: Äskettäisluomisnäkemys -->**[^20] | **[Muinaisluomisnäkemys](../glossary/sanasto.md#muinaisluomisnäkemys) <!-- red link: Muinaisluomisnäkemys -->**[^21] |
 |---|---|---|
 | **Ihminen** | Jumalan kuvakseen luoma maapallon kuudennen vuorokauden[^22] aikana Raamatun kuvauksen mukaisesti: **Aatami** ja **Eeva** luotu erikseen, enintään noin 10.000 vuotta sitten. Historiallinen syntiinlankeemus. | Jumalan luoma noin 100.000 – 20.000 vuotta sitten. Aatami ja Eeva luotu erikseen. |
 | **Biologiset lajit** | <!-- Ei pidä makroevoluutiota uskottavana. -->Kieltää uusien [perusryhmien](https://fi.wikipedia.org/wiki/perusryhmä) synnyn<!--([wp:makroevoluutio](https://fi.wikipedia.org/wiki/makroevoluutio))-->, muuntelusta empiiristä näyttöä: Alkuperäislajit eli heprealaisittain *baramini*t, joiden mahdollisia nykybiologisia vastineita perusryhmät ovat, ovat Jumalan alussa[^23] luomia. Näiden sisäistä muuntelua ja "lajiutumista"[^24] havaitaan (niin sanottu [mikroevoluutio](https://fi.wikipedia.org/wiki/mikroevoluutio)), sen sijaan rajoittamaton [makroevoluutio](https://fi.wikipedia.org/wiki/makroevoluutio) ei ole uskottava. | Tyypillisesti ei kannata [makroevoluutioteoriaa](https://fi.wikipedia.org/wiki/makroevoluutio) (uusien elinten tai muun laadullisesti uuden synty), mutta hyväksyy [mikroevoluution](https://fi.wikipedia.org/wiki/mikroevoluutio) (muuntelu lajien / [perusryhmien](https://fi.wikipedia.org/wiki/perusryhmä) sisällä). Tyypillisesti "pätkittäinen" luominen sopivina pidettyinä ajankohtina. Ei yksittäistä yhteistä esivanhempaa. |

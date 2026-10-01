@@ -4,7 +4,7 @@ about: apologetics
 title: "Uskonnon olemus, logiikka ja myytit"
 description: "Erästä viimeaikaista uskonrauhan rikkomissyytettä käsitelleeseen juttuun antamassaan ratkaisussa Helsingin käräjäoikeus oli lausunut mm."
 tags: [apowiki, media, maailmankatsomus]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T05:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Uskonnon olemus, logiikka ja myytit".
@@ -30,7 +30,7 @@ Koska tämä nimenomainen perustelutapa on ollut välitön syy käsillä olevan 
 
 Seuraava taulukko tiivistää sen, mitä Helsingin käräjäoikeuden kyseisestä lausumasta voi välittömästi todeta:
 
-| \| Helsingin KO:n tekstikohta[^1] | \| tulkinta | \| kommentti | \| kritiikki | \| johtopäätös |
+| Helsingin KO:n tekstikohta[^1] | tulkinta | kommentti | kritiikki | johtopäätös |
 |---|---|---|---|---|
 | *"objektiivisesti arvioiden ..."* | julistautuminen objektiivisen totuuden haltijaksi käsiteltävässä asiassa | pelkkä perustelematon julistus | filosofisesti kestämätöntä isottelua | oletettu yleisesti hyväksytyksi näkemykseksi |
 | *"... jo minkä tahansa uskonnon olemukseen kuuluu ..."* | väittämän yleistäminen kaikkia uskontoja koskevaksi | perustuu edeltävään objektiivisuusväittämään, joka puolestaan on luulonvarainen julistus | naturalistisen ontologian varainen johtopäätös | oletettu yleisesti hyväksytyksi näkemykseksi |
@@ -71,7 +71,7 @@ Kaiken kaikkiaan näyttäisikin siis siltä kuin Helsingin käräjäoikeus olisi
 
 <!--
 
-| \| Helsingin KO:n tekstikohta | \| tulkinta | \| kommentti | \| kritiikki | \| johtopäätös |
+| Helsingin KO:n tekstikohta | tulkinta | kommentti | kritiikki | johtopäätös |
 |---|---|---|---|---|
 
 -->

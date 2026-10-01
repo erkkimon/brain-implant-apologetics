@@ -4,7 +4,7 @@ about: apologetics
 title: "Kristityt luonnontieteilijät"
 description: "Oxfordin yliopiston tieteen ja uskonnon professori Peter Harrison kiinnittää huomiota siihen, että monet merkittävistä luonnontieteilijöistä tieteen historiassa ovat olleet kristittyjä."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-02T03:00:00Z
+timestamp: 2026-10-02T05:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kristityt luonnontieteilijät".
@@ -28,7 +28,7 @@ Raamatullinen maailmankatsomus on ohjannut tieteellistä tutkimusta myös korost
 
 ### Kristittyjä luonnontieteilijöitä
 
-| \| Nimi | \| Kuva | \| Täsmennys | \| Lähteet |
+| Nimi | Kuva | Täsmennys | Lähteet |
 |---|---|---|---|
 | [Nikolai Kopernikus](https://fi.wikipedia.org/wiki/Nikolaus_Kopernikus) <!-- red link: Nikolai Kopernikus --> (1473–1543) | *Kuva: Copernicus.jpg* | Katolinen pappi, joka loi pohjan aurinkokeskeiselle näkemykselle. | Catholic Encyclopedia [http://www.newadvent.org/cathen/04352b.htm](http://www.newadvent.org/cathen/04352b.htm), |
 | [Michael Stifel](https://en.wikipedia.org/wiki/Michael_Stifel) <!-- red link: Michael Stifel --> (c. 1486–1567) | *Kuva: Logarithms.png* | Loi pohjaa logaritmien kehittämiselle. Hän kuului Martti Lutherin varhaisimpiin seuraajiin ja kirjoitti raamatullisista profetioista. | [University of Florida](http://64.233.167.104/search?q=cache:pZZK3K6awTwJ:web.clas.ufl.edu/users/rhatch/pages/03-Sci-Rev/SCI-REV-Home/resource-ref-read/major-minor-ind/westfall-dsb/SAM-S.htm+%22Paolo+Boccone%22+%22biography%22+-wikipedia&hl=en), [Galileo Project at Rice University](http://galileo.rice.edu/Catalog/NewFiles/stifel.html), and [McTutor](http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Stifel.html) |

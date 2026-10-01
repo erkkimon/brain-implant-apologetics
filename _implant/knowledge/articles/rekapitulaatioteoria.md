@@ -4,7 +4,7 @@ about: apologetics
 title: "Rekapitulaatioteoria"
 description: "Kuva: Ernst Haeckelin väärentämät kuvat selkärankaisten alkioista."
 tags: [apowiki, evoluutiokritiikki, lukusuositukset, haeckel, ernst, sikiöväärennökset, sikiöpiirros, sikiöpiirrokset, sikiöpiirroskiista, sikiökuva, sikiökuvat, alkio, kidukset, häntä, lapsivesi]
-timestamp: 2026-10-02T04:00:00Z
+timestamp: 2026-10-02T05:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Rekapitulaatioteoria".
@@ -101,7 +101,7 @@ On valitettavaa, että suomalainen tiedepopulismi on näinkin rähmällään.
 ##### Yhdysvallat
 Huolimatta siitä, että Haeckelin sikiösarjojen väärennösluonne tiedettiin jo tämän elinaikana, "taideteos" on säilyttänyt sitkeästi asemansa biologian oppikirjoissa. Amerikkalainen embryologi [Jonathan Wells](https://fi.wikipedia.org/wiki/John_Corrigan_Wells) <!-- red link: Jonathan Wells --> tutki kymmenen amerikkalaisen biologian oppikirjan esittämiä todisteita evoluutioteorian puolesta ja julkaisi tutkimuksensa kirjassa [Icons of Evolution](icons-of-evolution-kirja.md).[^5] Kymmenestä tutkitusta kirjasta kahdeksan käytti Haeckelin piirrustukseen perustuvaa kuvasarjaa. Jokainen kirjoista oli kirjoitettu (copyright-vuodesta päätellen) vuonna 1998 tai myöhemmin. Ehkä eniten keskustelua on herättänyt evoluutiobiologi Douglas Futuyman kirjoittama kirja Evolutionary Biology, jossa tämä Haeckelin piirros oli sovellettuna evoluutioteorian todisteeksi.
 
-| \| Oppikirja | \| Julkaistu |
+| Oppikirja | Julkaistu |
 |---|---|
 | Joseph Raver, Biology: Patterns and Processes of Life | 2003 |
 | Cecie Starr and Ralph Taggart, Biology: The Unity and Diversity of Life (proposed version) | 2003 |

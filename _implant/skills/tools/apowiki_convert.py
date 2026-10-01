@@ -862,6 +862,11 @@ class Converter:
                 cs = re.search(r"colspan\s*=\s*\"?(\d+)", attrs, re.I)
                 if cs:
                     span = max(1, int(cs.group(1)))
+            elif re.match(r"^\s*\|(?!\|)", raw):
+                # An attribute prefix that was only a dropped template
+                # (`!{{hl2}} | text`): the pipe is a separator, not content
+                # (kreationismi rendered "\| text" until 2026-10-02).
+                raw = re.sub(r"^\s*\|", "", raw, count=1)
             return (head, raw.strip(), span)
 
         for line in lines:
