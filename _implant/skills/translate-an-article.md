@@ -2,19 +2,19 @@
 type: skill
 title: Translate an article into English
 description: "Use when translating a converted Finnish ApoWiki article into English: a small local model does the prose, ApoWiki's own glossary (Sanasto) fixes the terminology, and deterministic checks (links, footnotes, glossary terms) decide whether a chunk is accepted. Frontier-model tokens are spent only on review."
-timestamp: 2026-10-01T18:00:00Z
+timestamp: 2026-10-01T20:30:00Z
 depends_on: [skills/convert-apowiki-to-articles.md]
 tools:
   - skills/tools/apowiki_glossary.py
   - skills/tools/apowiki_translate.py
+  - skills/tools/apowiki_land.py
 ---
 
 # Translate an article into English
 
-**Not before the gate.** Translation starts only after Tom has used the
-implant and called it lovable
-([the plan](../plans/mvp-then-iteration.md), phase 4). The Finnish pages are
-already searchable in English because the embeddings are multilingual, so
+Tom dropped the gate on 2026-10-01 and dogfoods the implant in parallel
+([the plan](../plans/mvp-then-iteration.md)). The Finnish pages are already
+searchable in English because the embeddings are multilingual, so
 translation improves reading, not finding.
 
 ## Why a small model is enough, and where it is not
@@ -85,11 +85,16 @@ of them. Finnish is matched by word stem, so inflected forms (*naturalismin*,
    `translation failed its checks` are translated by the reviewer. This is
    the only step that spends frontier tokens, and it reads rather than
    writes, which is cheaper.
-6. **Land it** in the English page's folder with the frontmatter the tool
-   writes (`lang: en`, `translated_from`, `translated_by`,
-   `translation_status: machine`, which becomes `reviewed` after step 5).
-   Where the English pages live is decided with the first batch and
-   recorded in the plan. Commit through the contract like any other change.
+6. **Land it:** `python3 skills/tools/apowiki_land.py _temp/translations/X.md …`.
+   It copies the pages to `knowledge/en/` under the Finnish file name. It
+   points article links at English pages where they exist and at
+   `../articles/` where they do not, and it regenerates `en/index.md`.
+   It is idempotent, so run it with no arguments to re-link after any change.
+   The tool writes `lang: en`, `translated_from`, `translated_by` and
+   `translation_status: machine` into the frontmatter, but leaves `title` and
+   `description` in Finnish. The reviewer translates both and sets
+   `translation_status: reviewed`. Commit through the contract like any
+   other change. Why this layout: [the plan](../plans/mvp-then-iteration.md).
 
 ## What stays Finnish on purpose
 

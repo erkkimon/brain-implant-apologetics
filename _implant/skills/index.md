@@ -31,6 +31,9 @@ the tree.
   timestamp on every page that did not change and bump the rest.
 * `tools/apowiki_translate.py` — translate one article with a small local
   model, checking links, footnotes and glossary terms chunk by chunk.
+* `tools/apowiki_land.py` — land translated pages in `knowledge/en/`,
+  point their article links at English or Finnish pages, regenerate
+  `en/index.md`.
 * `tools/apowiki_books.py` — the book spine: 66 book pages and two testament
   pages in `knowledge/books/`, bound to the theology implant's spine.
 

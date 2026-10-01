@@ -4,7 +4,7 @@ about: apologetics
 title: "Sanasto — ApoWikin virallinen sanasto"
 description: "ApoWiki's official Finnish glossary: 413 terms with the definitions ApoWiki articles use them in, struck-through senses marked as usage ApoWiki avoids. The fixed term list for translation."
 tags: [apowiki, glossary, sanasto, terminology, translation]
-timestamp: 2026-09-27T12:00:00Z
+timestamp: 2026-10-01T20:30:00Z
 half_life: 0
 ---
 <!--
@@ -227,11 +227,15 @@ English: **circumstantial evidence**
 
 ### aminohappo
 
+English: **amino acid**
+
 - [orgaaninen yhdiste](#orgaaninen-yhdiste), jossa on sekä amino- (-NH2) että karboksyyliryhmä (-COOH) liittyneenä samaan [molekyyliin](#molekyyli)
 
 <a id="analogia"></a>
 
 ### analogia
+
+English: **analogy**
 
 - vastaavuus, samankaltaisuus, verrattavuus
 - rinnastus
@@ -486,6 +490,8 @@ English: **atheism**
 
 ### degeneroitua
 
+English: **degenerate**
+
 - rappeutua
 - huonontua
 - heikentyä – erityisesti sellaisella tavalla, että vaikka degeneroituma yhä muistuttaakin tervettä muotoa, se on menettänyt tämän keskeisiä ominaisuuksia siinä määrin, että näiden pitäminen olennaisesti samana asiana olisi harhaanjohtavaa
@@ -527,6 +533,8 @@ English: **deism**
 <a id="determinismi"></a>
 
 ### determinismi
+
+English: **determinism**
 
 - lainalaisuusoppi
 - oppi jonka mukaan kaikilla asioilla on syynsä
@@ -684,6 +692,8 @@ English: **exorcism**
 
 ### ekstensio
 
+English: **extension**
+
 - käsitteen ala; esim. koira-sanan ekstensio on "kaikkien koirien joukko" eli kaikki ne ja vain ne oliot, joilla on "koiruus"-ominaisuus
 
 <a id="ekvivalenssi"></a>
@@ -826,6 +836,8 @@ English: **epistemology**
 
 ### evoluutio
 
+English: **evolution**
+
 - [luonnollisten](#luonnollinen) prosessien aikaansaama muutos [populaation](#populaatio) [geenipoolissa](#geenipooli).
 - perinnöllinen muuntelu
 - ~~kehitys~~ *(ApoWiki avoids this sense)*
@@ -836,6 +848,8 @@ English: **epistemology**
 <a id="evoluutioteoria"></a>
 
 ### evoluutioteoria
+
+English: **theory of evolution**
 
 - teoria, jonka mukaan nykyiset lajit ovat kehittyneet yhteisestä kantaisästä ohjaamattomien prosessien, kuten [mutaatioiden](#mutaatio) ja [luonnonvalinnan](#luonnonvalinta) avulla
 - teoria, jonka mukaan nykyiset lajit ovat kehittyneet yhteisestä kantaisästä [evoluution](#evoluutio) kautta
@@ -873,6 +887,8 @@ English: **epistemology**
 
 ### falsifikaatiokriteeri
 
+English: **falsification criterion**
+
 - ehto, jolla väite, hypoteesi tai teoria on [falsifikaatioperiaatteen](#falsifikaatioperiaate) mukaisesti osoitettavissa vääräksi, mikäli se on väärä
 
 <a id="falsifikaatioperiaate"></a>
@@ -884,6 +900,8 @@ English: **epistemology**
 <a id="falsifioida"></a>
 
 ### falsifioida
+
+English: **falsify**
 
 - [falsifikaatio](#falsifikaatio)
 
@@ -1069,11 +1087,15 @@ English: **hypothesis**
 
 ### ID-teoreetikko
 
+English: **ID theorist**
+
 - *[suunnitteluteoreetikko](#suunnitteluteoreetikko)*
 
 <a id="id-teoria"></a>
 
 ### ID-teoria
+
+English: **ID theory**
 
 - *[suunnitteluteoria](#suunnitteluteoria)*
 
@@ -1176,6 +1198,8 @@ English: **ideology**
 <a id="intensio"></a>
 
 ### intensio
+
+English: **intension**
 
 - käsitteen merkitys; esim. koira-sanan intensio on "koiruus", siis kaikki se ja vain se, mikä on ominaista juuri koirille
 
@@ -1451,6 +1475,8 @@ English: **consensus**
 
 ### korrelaatio
 
+English: **correlation**
+
 - todennäköisyyslaskennassa ja tilastotieteessä käytetty käsite, joka kuvaa kahden muuttujan välistä riippuvuutta
 
 <a id="korrespondenssi"></a>
@@ -1463,6 +1489,8 @@ English: **consensus**
 <a id="kosminen"></a>
 
 ### kosminen
+
+English: **cosmic**
 
 - maailmankaikkeutta ja avaruutta koskeva
 - [kosmokseen](#kosmos) liittyvä
@@ -1503,6 +1531,8 @@ English: **creationism**
 <a id="kriteeri"></a>
 
 ### kriteeri
+
+English: **criterion**
 
 - erottava tunnusmerkki
 - tuntomerkki
@@ -1636,6 +1666,8 @@ English: **natural selection**
 
 ### maailmankatsomus
 
+English: **worldview**
+
 - sarja ennakko-oletuksia maailmasta jossa elämme ja jota katselemme
 - arvoja sisältävä yksilön tai yhteisön kokonaiskäsitys maailmasta ja ihmisistä
 - *[elämänkatsomus](#elämänkatsomus)*
@@ -1644,6 +1676,8 @@ English: **natural selection**
 <a id="maailmankuva"></a>
 
 ### maailmankuva
+
+English: **world picture**
 
 - kokonaiskäsitys maailmasta
 - todellisuuskäsitys
@@ -1677,12 +1711,16 @@ English: **natural selection**
 
 ### materialismi
 
+English: **materialism**
+
 - maailmankatsomus jonka mukaan kaikki oleva on aineellista
 - asenne, jossa esineitä itseisarvoistettaan, eli materiaa ja omaisuutta arvostetaan sen itsensä vuoksi
 
 <a id="mekanismi"></a>
 
 ### mekanismi
+
+English: **mechanism**
 
 - koneellinen rakenne
 - käsitys jonka mukaan kaikki tapahtuu konemaisesti
@@ -1736,6 +1774,8 @@ English: **methodological naturalism**
 
 ### molekyyli
 
+English: **molecule**
+
 - kahden tai useamman toisiinsa [kovalenttisesti sitoutuneen](#kovalenttinen-sidos) atomin muodostama sähköisesti neutraali ryhmä
 
 <a id="monismi"></a>
@@ -1767,6 +1807,8 @@ English: **methodological naturalism**
 <a id="mutaatio"></a>
 
 ### mutaatio
+
+English: **mutation**
 
 - muutos [DNA-sekvenssissä](#dna-sekvenssi); mutaatio voi johtua ulkoisten tekijöiden eli mutageenien aiheuttamasta vauriosta tai DNA:n kopioinnin aikana tapahtuvista spontaaneista virheistä
 
@@ -2025,6 +2067,8 @@ English: **properly basic belief**
 
 ### polveutumisoppi
 
+English: **common descent**
+
 - näkemys, jonka mukaan kaikella biologisella elämällä on (ollut) yhteinen kantamuoto, josta myöhempi [biodiversiteetti](#biodiversiteetti) on vähitellen (joko ohjatusti tai ohjaamattomasti) kehittynyt
 - näkemys, jonka mukaan kaikki eliöt ovat polveutuneet yhteisestä kantamuodostaan ohjatusti tai ohjaamattomasti
 
@@ -2043,6 +2087,8 @@ English: **properly basic belief**
 <a id="populaatio"></a>
 
 ### populaatio
+
+English: **population**
 
 - niiden yksilöiden joukko, jotka elävät samanaikaisesti samalla alueella ja kykenevät lisääntymään keskenään
 
@@ -2172,6 +2218,8 @@ English: **premise**
 <a id="proteiini"></a>
 
 ### proteiini
+
+English: **protein**
 
 - valkuaisaine
 - [aminohappoketjusta](#aminohappo) koostuva toiminnallinen [orgaaninen yhdiste](#orgaaninen-yhdiste) tai usein monen toisiinsa liittyneen aminohappoketjun muodostama kompleksi
@@ -2342,6 +2390,8 @@ English: **relativism**
 
 ### satunnaissynty
 
+English: **chance origin**
+
 - objektin syntyminen tarkoituksettomasti luonnonlakien mukaisesti tilastollisen [satunnaisuuden](#satunnaisuus) mukaisella [frekvenssillä](#frekvenssi)
 
 <a id="satunnaisuus"></a>
@@ -2375,6 +2425,8 @@ English: **relativism**
 <a id="selityssuodatin"></a>
 
 ### selityssuodatin
+
+English: **explanatory filter**
 
 - William Dembskin kehittämä matemaattis-looginen eliminatiivinen teoria suunnittelun havaitsemiseksi
 
@@ -2449,6 +2501,8 @@ English: **supernaturalism**
 
 ### suunnittelu
 
+English: **design**
+
 - ominaisuus, jolla on tarkoituksellinen syy, joka siis ei ole syntynyt ohjaamattomalla tapahtumalla, kuten luonnonvalinnalla
 - tarkoituksellisuus
 - prosessi, jossa [älyllinen toimija](#älyllinen-toimija) tuottaa tarkoituksellisesti haluamansa lopputuloksen
@@ -2472,11 +2526,15 @@ English: **design argument**
 
 ### suunnitteluhypoteesi
 
+English: **design hypothesis**
+
 - [hypoteesi](#hypoteesi), jonka mukaan ko. kohteen synty on parhaiten selitettävissä tarkoituksellisuudella eli älykkäällä suunnittelulla
 
 <a id="suunnittelusignaali"></a>
 
 ### suunnittelusignaali
+
+English: **design signal**
 
 - [suunnitteluteoreettisilla](#suunnitteluteoria) menetelmillä havaittavissa oleva tutkittavien kohteiden mahdollinen ominaisuus, jonka havaitseminen mahdollistaa positiivisen tuloksen antavan suunnittelupäättelyn
 
@@ -2492,6 +2550,8 @@ English: **design filter**
 
 ### suunnitteluteoreetikko
 
+English: **design theorist**
+
 - [suunnitteluteorian](#suunnitteluteoria) kannattaja
 
 <a id="suunnitteluteoreettinen-abduktio"></a>
@@ -2503,6 +2563,8 @@ English: **design filter**
 <a id="suunnitteluteoria"></a>
 
 ### suunnitteluteoria
+
+English: **design theory**
 
 - väite, jonka mukaan tietyt kaikkeuden ja elollisten olentojen ominaisuudet ovat parhaiten selitettävissä tarkoituksellisuudella, ei ohjaamattomalla tapahtumasarjalla kuten luonnonvalinnalla ::*Älykkään suunnittelun teorian väite on älykäs suunnittelu.*
 
@@ -2580,6 +2642,8 @@ English: **Synoptic Gospels**
 <a id="tarkoituksenmukaisuus"></a>
 
 ### tarkoituksenmukaisuus
+
+English: **purposiveness**
 
 - rakenteen, organismin tai elimen tarkoituksenmukaisella toiminnalla tarkoitetaan sitä, minkälaista toimintaa varten se on [suunniteltu](#suunnittelu), tai vaihtoehtoisesti sitä minkälaiseen toimintaan se on kehityshistoriansa aikana sopeutunut.
 
@@ -2871,6 +2935,8 @@ English: **free will**
 
 ### viitekehys
 
+English: **frame of reference**
+
 - *[konteksti](#konteksti)*
 - asioiden tutkimisen ja esittelemisen perustana oleva ajattelutapa ja sen mukainen käsitejärjestelmä
 
@@ -2930,6 +2996,8 @@ English: **supernatural**
 
 ### älykkään suunnittelun teoria
 
+English: **intelligent design theory**
+
 - *[suunnitteluteoria](#suunnitteluteoria)*
 
 <a id="älykäs-suunnittelu"></a>
@@ -2944,6 +3012,8 @@ English: **intelligent design**
 <a id="älyllinen-suunnittelu"></a>
 
 ### älyllinen suunnittelu
+
+English: **intelligent design**
 
 - *[suunnittelu](#suunnittelu)*
 
@@ -2963,11 +3033,15 @@ English: **intelligent design**
 
 ### älyllisen suunnittelun teoria
 
+English: **intelligent design theory**
+
 - *[suunnitteluteoria](#suunnitteluteoria)*
 
 <a id="äskettäisluomisnäkemys"></a>
 
 ### äskettäisluomisnäkemys
+
+English: **young-earth creationism**
 
 - (engl. *young earth creationism*) näkemys, jonka mukaan havaittava maailma on Raamatun Jumalan [luoma](#luomisnäkemys) eikä Raamatun luomiskertomuksessa ole aukkoja eikä viittauksia epämääräisen pituisiin aikajaksoihin tai muuta sellaista tulkinnanvaraisuutta, jonka perusteella voisi sanoa Raamatun antavan luvan muuhun tulkintaan kuin että maapallon ikä todella on 10^4 a:n eli 10.000 vuoden kertaluokkaa
 

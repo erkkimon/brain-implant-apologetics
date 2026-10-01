@@ -4,7 +4,7 @@ about: apologetics
 title: "English renderings of ApoWiki's glossary terms"
 description: "The translation contract: the one fixed English rendering of each ApoWiki glossary (Sanasto) term, so every translated article says the same thing the same way. Edited by hand, read by apowiki_glossary.py and by the translation check."
 tags: [glossary, sanasto, translation, terminology, english]
-timestamp: 2026-09-27T12:00:00Z
+timestamp: 2026-10-01T20:30:00Z
 half_life: 0
 ---
 
@@ -90,3 +90,40 @@ and the next translation batch picks the correction up.
 | Q-lähde | Q source | |
 | eksegeesi | exegesis | |
 | luonnollinen teologia | natural theology | |
+| suunnittelu | design | the intended-cause sense; *suunnitella* in everyday text is "plan" and the check accepts "design" only where the term is meant |
+| suunnitteluteoria | design theory | ApoWiki's name for intelligent design theory (ID); keep "design theory" so the wiki's own term stays visible |
+| ID-teoria | ID theory | |
+| älyllinen suunnittelu | intelligent design | |
+| älykkään suunnittelun teoria | intelligent design theory | |
+| älyllisen suunnittelun teoria | intelligent design theory | |
+| suunnitteluteoreetikko | design theorist | |
+| ID-teoreetikko | ID theorist | |
+| suunnitteluhypoteesi | design hypothesis | |
+| suunnittelusignaali | design signal | |
+| selityssuodatin | explanatory filter | Dembski's term |
+| satunnaissynty | chance origin | |
+| kosminen | cosmic | |
+| mutaatio | mutation | |
+| evoluutio | evolution | |
+| evoluutioteoria | theory of evolution | |
+| polveutumisoppi | common descent | the claim of common ancestry, not the mechanism |
+| materialismi | materialism | |
+| determinismi | determinism | |
+| falsifioida | falsify | |
+| falsifikaatiokriteeri | falsification criterion | Popper's |
+| ekstensio | extension | logic: the class a concept applies to |
+| intensio | intension | logic: the meaning of a concept |
+| maailmankatsomus | worldview | |
+| maailmankuva | world picture | narrower than worldview: the picture of what exists, without values |
+| äskettäisluomisnäkemys | young-earth creationism | same as YEC-näkemys |
+| degeneroitua | degenerate | |
+| tarkoituksenmukaisuus | purposiveness | |
+| populaatio | population | |
+| proteiini | protein | |
+| aminohappo | amino acid | |
+| molekyyli | molecule | |
+| korrelaatio | correlation | |
+| viitekehys | frame of reference | |
+| kriteeri | criterion | |
+| mekanismi | mechanism | |
+| analogia | analogy | |

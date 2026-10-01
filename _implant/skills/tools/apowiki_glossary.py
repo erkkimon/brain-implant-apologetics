@@ -49,6 +49,9 @@ from pathlib import Path
 API = "https://apowiki.fi/api.php"
 UA = "brain-implant-apologetics/0.1 (faithful GFDL history import; contact via repository)"
 TITLE = "ApoWiki:Sanasto"
+# The generated pages change when the raw glossary or english.md changes.
+# english.md is edited by hand and bumped by its editor, so the generated
+# pages take the later of its timestamp and the raw import's.
 TIMESTAMP = "2026-09-27T12:00:00Z"
 
 CACHE = Path("_temp/apowiki-project/sanasto.json")
@@ -181,6 +184,12 @@ def inline(text: str, terms: set[str]) -> str:
 # Output
 # ---------------------------------------------------------------------------
 
+def stamp() -> str:
+    m = re.search(r"^timestamp: (\S+)", ENGLISH.read_text(encoding="utf-8")
+                  if ENGLISH.exists() else "", re.M)
+    return max(TIMESTAMP, m.group(1)) if m else TIMESTAMP
+
+
 def load_english() -> dict[str, str]:
     """anchor -> English, from the `| term | English | note |` table in
     english.md. That page is edited by hand (it records decisions), so this
@@ -212,7 +221,7 @@ def render(ents: list[tuple[str, list[str]]], revid: str) -> str:
         "struck-through senses marked as usage ApoWiki avoids. The fixed term "
         'list for translation."',
         "tags: [apowiki, glossary, sanasto, terminology, translation]",
-        f"timestamp: {TIMESTAMP}",
+        f"timestamp: {stamp()}",
         "half_life: 0",
         "---",
         NOTICE.format(title=TITLE, revid=revid).replace(

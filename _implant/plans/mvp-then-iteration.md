@@ -3,7 +3,7 @@ type: plan
 title: "MVP first, then daily iteration (apologetics)"
 description: "The apologetics half of the shared plan: convert ApoWiki's wikitext to Finnish markdown pages with parsed implant links, hang the book corpus on the shared book spine, compile with multilingual embeddings, and only then start cooldown-batched translation and improvement."
 tags: [plan, mvp, roadmap]
-timestamp: 2026-10-01T18:30:00Z
+timestamp: 2026-10-01T20:30:00Z
 ---
 
 # MVP first, then daily iteration (apologetics)
@@ -94,6 +94,37 @@ procedure and its reasoning are in
   instead of writing it. That changes what a cooldown burst is for: it
   covers several machine-translated slices instead of one.
 
+## Where English pages live, and in what order
+
+Decided on 2026-10-01 ([journal](../journals/2026-10-01.md)):
+
+* **knowledge/en/, under the Finnish file name.** `articles/x.md` becomes
+  `en/x.md`. The folder sits at the same depth as `articles/`, so links to
+  topics, books and the glossary need no change. Article links point at the
+  English page when there is one and at `../articles/x.md` until then;
+  `skills/tools/apowiki_land.py` rewrites them after every batch and
+  generates `en/index.md`. The Finnish page stays the source of truth, and
+  the English page names it in `translated_from:`. Slugs stay Finnish because
+  every inbound link, citation and theology annotation uses them.
+* **Theme order: most-linked first.** A theme's weight is the number of
+  inbound links to its member articles (measured 2026-10-01). Batches go:
+  1. *suunnitteluteoria* (design theory): 39 articles, 217 inbound links,
+     and the corpus's most-linked page
+  2. *jumala* and *teismi* with the *argumentit*: God and the arguments
+     for his existence
+  3. *ateismi*
+  4. *evoluutioteoria*, with abiogenesis and common descent
+  5. *jeesus* and *raamattu*: the resurrection and the reliability of the
+     New Testament
+  6. *filosofia* and *maailmankatsomus*
+  7. *seksuaalietiikka*
+  8. the rest by the same measure
+
+  *henkilöt* and *kirjat* are not batches of their own: a person or a book
+  goes with the theme that links to it most. The first batch is the six
+  most-linked design-theory articles (about 16 000 words), sized for one
+  overnight run of the local model.
+
 ## Status and how to resume
 
 Kept current so that work can pick up from the repository alone, without
@@ -119,11 +150,10 @@ happened last.
 
 **Next, in order:**
 
-1. Machine-time polish, top to bottom in todo/open.md: the missing
-   glossary terms, the most-wanted red links, the wiki tables.
-2. Translation setup (where English pages live, theme order, glossary rows
-   for the batch), then translation batches one theme at a time, per the
-   skill.
+1. Machine-time polish is done (glossary terms, red links, tables;
+   2026-10-01). So is the translation setup (above).
+2. Translation batches one theme at a time, per the skill, starting with
+   batch 1. Its state is in todo/open.md.
 
 Tom dogfoods in parallel and is not a gate (decided 2026-10-01). His bug
 reports go to the top of todo/open.md and take priority over polish.

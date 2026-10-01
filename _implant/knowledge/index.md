@@ -15,5 +15,8 @@ and point here to the skill.
   categories; every article links back to its topics.
 * `articles/` — the 471 ApoWiki articles, converted mechanically from the
   wikitext in `../raw/apowiki-export/` by the
-  [convert skill](../skills/convert-apowiki-to-articles.md). They are still
-  Finnish; translation follows the MVP gate.
+  [convert skill](../skills/convert-apowiki-to-articles.md). They are the
+  Finnish source of truth.
+* `en/` (from the first batch on) — translated articles, one per Finnish page under
+  the same file name, added batch by batch per the
+  [translation skill](../skills/translate-an-article.md).
