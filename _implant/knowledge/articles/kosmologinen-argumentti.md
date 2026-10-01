@@ -4,7 +4,7 @@ about: apologetics
 title: "Kosmologinen argumentti"
 description: "Kosmologinen argumentti on Immanuel Kantin määritelmän mukaan sellainen Jumalan olemassaolon puolesta esitetty argumentti, jonka lähtökohta on olemassaolon kokemus yleensä."
 tags: [apowiki, filosofia, argumentit, kosmologia]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T02:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kosmologinen argumentti".
@@ -24,15 +24,15 @@ Kosmologisella argumentilla on pitkä ja maineikas historia. Argumenttia ovat jo
 
 Kosmologinen argumentti on itse asiassa perhe erilaisia argumentteja. Sen alalajeja ovat:
 
-1. tomistiset kosmologiset argumentit <!-- red link: tomistiset kosmologiset argumentit -->, jotka hakevat maailmalle tai sen erityisille piirteille, kuten liikkeelle, kausaatiolle tai kontingenssille, sen ylläpitävää olemisen perustaa tai **Ensimmäistä Liikuttajaa**, joka on **Puhdasta Aktuaalisuutta**;
+1. [tomistiset kosmologiset argumentit](../pages/tomistiset-kosmologiset-argumentit.md), jotka hakevat maailmalle tai sen erityisille piirteille, kuten liikkeelle, kausaatiolle tai kontingenssille, sen ylläpitävää olemisen perustaa tai **Ensimmäistä Liikuttajaa**, joka on **Puhdasta Aktuaalisuutta**;
 
-2. leibnizilaiset kosmologiset argumentit <!-- red link: leibnizilaiset kosmologiset argumentit -->, jotka etsivät riittävän syyn periaatteen kautta riittävää syytä sille, miksi jotain on olemassa sen sijaan, ettei olisi olemassa mitään; ja
+2. [leibnizilaiset kosmologiset argumentit](../pages/leibnizilaiset-kosmologiset-argumentit.md), jotka etsivät riittävän syyn periaatteen kautta riittävää syytä sille, miksi jotain on olemassa sen sijaan, ettei olisi olemassa mitään; ja
 
 3. [kalam-argumentti](kalam-kosmologinen-argumentti-v3.md), joka on argumentti universumin alusta sen **Ensimmäiseen Syyhyn**.[^2]
 
 Edellä mainitut alalajit ovat tunnetuimmat, mutta niiden lisäksi on mahdollista eritellä vielä
 
-4. induktiivinen kosmologinen argumentti <!-- red link: induktiivinen kosmologinen argumentti --> (Richard Swinburnen The Existence of God -teoksesta), jonka mukaan universumin monimutkaisuus antaa induktiivista tukea yksinkertaisen Jumalan olemassaolon puolesta.
+4. [induktiivinen kosmologinen argumentti](../pages/induktiivinen-kosmologinen-argumentti.md) (Richard Swinburnen The Existence of God -teoksesta), jonka mukaan universumin monimutkaisuus antaa induktiivista tukea yksinkertaisen Jumalan olemassaolon puolesta.
 
 ### Katso myös
 #### Internet

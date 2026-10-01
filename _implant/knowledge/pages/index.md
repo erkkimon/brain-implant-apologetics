@@ -6,6 +6,8 @@ never overwrites them: it reads each page's `title` and `aliases` and links
 the matching red links here. Every claim cites a pinned source revision. The
 procedure is [Write a wanted page](../../skills/write-a-wanted-page.md).
 
+## Design theory
+
 * [Discovery Institute](discovery-institute.md): the think tank whose
   Center for Science and Culture is the hub of the design movement.
 * [Älykkään suunnitelman idea](älykkään-suunnitelman-idea-kirja.md): the
@@ -21,3 +23,12 @@ procedure is [Write a wanted page](../../skills/write-a-wanted-page.md).
   and young-earth creationist.
 * [Stanley Jaki](stanley-jaki.md): Benedictine priest and physicist,
   historian of science and Christianity.
+
+## The arguments for God
+
+* [Induktiivinen kosmologinen argumentti](induktiivinen-kosmologinen-argumentti.md):
+  Swinburne's probabilistic version.
+* [Leibnizilaiset kosmologiset argumentit](leibnizilaiset-kosmologiset-argumentit.md):
+  from contingency, by the principle of sufficient reason.
+* [Tomistiset kosmologiset argumentit](tomistiset-kosmologiset-argumentit.md):
+  Aquinas's first sustaining cause.
