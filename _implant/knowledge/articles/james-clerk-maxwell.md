@@ -4,7 +4,7 @@ about: apologetics
 title: "James Clerk Maxwell"
 description: "Tätä henkilöä käsitellään ApologetiikkaWikissä, koska hänen työllään on ollut suuri merkitys tieteen kehitykselle sekä tieteen ja kristinuskon väliselle suhteelle James Clerk Maxwell (13."
 tags: [apowiki, henkilöt]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "James Clerk Maxwell".
@@ -48,8 +48,6 @@ Maxwell lähti tieteellisessä työssään siitä, että Jumala on luonut maailm
 *
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Chase, Gene B.: How has Christian Theology Furthered Mathematics?, teoksessa Jitse M. van der Meer (toim.) s. 206
 [^2]: Torrance, Thomas F, *Transformation and Convergence in the Frame of Knowledge: Explorations in the Interrelations of Scientific and Theological Enterprise.*, Grand Rapids, Mich.: William B. Eerdmans Publishing Company, 1984

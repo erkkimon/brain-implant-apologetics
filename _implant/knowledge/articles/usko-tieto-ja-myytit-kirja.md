@@ -4,7 +4,7 @@ about: apologetics
 title: "Usko, tieto ja myytit (kirja)"
 description: "Usko, tieto ja myytit on Tapio Puolimatkan kirjoittama filosofis-apologeettinen tietokirja, joka käsittelee uskon ja tiedon suhdetta, sekä ateismiin liittyviä myyttejä suhteessa tieteeseen."
 tags: [apowiki, kirjat, filosofia, tapio-puolimatka]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Usko, tieto ja myytit (kirja)".
@@ -142,8 +142,6 @@ Myyttiset mielikuvat saavat voimansa ihmisen piilotajunnasta, johon sivistyspros
 * Niiniluoto, Ilkka, *Tiede, filosofia ja maailmankatsomus: Filosofisia esseitä tiedosta ja sen arvosta*, Otava, 1984, ISBN 951-1-08016-4
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Puolimatka, Tapio, *Usko, tieto ja myytit*, Tammi, 2005, s. 14, 951-26-5347-8
 [^2]: Puolimatka, Tapio, *Usko, tieto ja myytit*, Tammi, 2005, s. 15, 951-26-5347-8

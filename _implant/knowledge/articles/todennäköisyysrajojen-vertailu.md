@@ -4,7 +4,7 @@ about: apologetics
 title: "Todennäköisyysrajojen vertailu"
 description: "Suunnitteluteoreettisen tarkoituksellisuuspäättelyn keskeinen, vertaisarvioitu menetelmä on William Dembskin kehittämä, klassisen tilastotieteen lähestymistapaa soveltava suunnittelusignaalien tunnistus."
 tags: [apowiki, suunnitteluteoria]
-timestamp: 2026-10-01T20:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Todennäköisyysrajojen vertailu".
@@ -115,8 +115,6 @@ Oheisesta taulukosta näemme sekä klassisen tilastotieteen omaksumat että Demb
 [^22]
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: "fisheriläisen"
 [^2]: "Nollahypoteesi" vastaa suunnilleen ilmausta: "se, mitä yleensä on tapana olettaa" tai "mahdollisimman mitäänsanomaton oletus". Jos esimerkiksi testataan noppakuution heittotuloksia, nollahypoteesina on se, että kaikki arvot ykkösestä kuutoseen esiintyvät samalla todennäköisyydellä, ja puoluekannatusta mitattaessa voidaan nollahypoteesina olettaa, ettei puoluekannatuksissa ole tapahtunut mitään muutoksia sitten edellisen mittauksen.

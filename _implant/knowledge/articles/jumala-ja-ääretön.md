@@ -4,7 +4,7 @@ about: apologetics
 title: "Jumala ja ääretön"
 description: "Klassiseen kristinuskoon kuuluva tunnustautuminen Jumalan äärettömyyteen on saanut niinikään klassisen ilmauksensa jo vanhalla ajalla Athanasioksen uskontunnustuksessa."
 tags: [apowiki, jumala, keskeneräiset-artikkelit]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jumala ja ääretön".
@@ -57,8 +57,6 @@ Mainitusta syystä eräät kosmologit ovat viime aikoina rakennelleet erilaisia 
 [www.wisdom.fi/infinite](http://www.wisdom.fi/infinite/)  (teoksen täydeltä yksityisajattelua aihepiirin liepeiltä)-->
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Rajoittamattomuuskäsitteiden merkitys on esitettävissä negaation kautta seuraavaan tapaan: * Iankaikkinen on sellainen, jota ajallisuus ei millään tavoin rajoita, * kaikkivaltias sellainen, jonka toimintamahdollisuuksia mikään hänen tahtonsa ulkopuolinen tekijä ei rajoita, ja * kaikkitietävä sellainen, jonka tietoa mikään ulkopuolinen tekijä ei rajoita. Tämän tai tämäntapaisen käsitemäärittelyn jälkeen on mahdollista jatkaa kysymällä, mitä näin ollen on ajateltava jostain tarkennetusta kysymyksenasettelusta eli miten annettua määritelmää olisi siihen sovellettava ja soveltuuko se ylipäänsä siihen sellaisenaan vai olisiko sitä ehkä vielä jotenkin hiottava. On kuitenkin joka tapauksessa selvää, että rajoittamattomuutta ilmaisevat käsitteet ovat rajoittuneisuutta ilmaisevien väitteiden kanssa yhteensopimattomia.
 [^2]: *"Minä olen se, joka minä olen"* ilmaisee mm. Jumalan olemassaolon täydellistä riippumattomuutta minkään muun mahdollisesta olemassaolemisesta tai olemassaolemattomuudesta. Näin käsittäen Jumalasta äärettömyytensä kannalta puhuttaessa on kysymyksessä jokseenkin ellei täysin sama käsite kuin [Anselmilla](anselm-canterburylainen.md): *[Jumala on se, mitä suurempaa tai parempaa ei ole mahdollista ajatella](anselmin-jumalatodistus.md).*

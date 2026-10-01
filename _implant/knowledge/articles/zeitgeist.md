@@ -4,7 +4,7 @@ about: apologetics
 title: "Zeitgeist"
 description: "Zeitgeist on Peter Josephin tuottama propagandistinen dokumenttielokuva, joka julkaistiin alunperin Google Videos -palvelussa vuonna 2007."
 tags: [apowiki, elokuvat]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Zeitgeist".
@@ -68,8 +68,6 @@ Leffa luetteloi väitettyjä samankaltaisuuksia siteeraamatta ainuttakaan asiant
 * [Jeesus-myytti](jeesus-myyttihypoteesit.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: "*Late in the video, there’s a supposed quote from David Rockefeller, which, if genuine, would be an astounding confession of complicity in mass manipulation. But, of course, the quote is not sourced or dated, which renders it useless.*" ([*Jay Kinney reviews Zeitgeist, the Movie.*](http://www.boingboing.net/2007/08/06/jay-kinney-reviews-z.html))
 [^2]: [“*The Hindu World: An Encyclopedic Survey of Hinduism*”](http://www.amazon.com/Hindu-World-Encyclopedic-Survey-Hinduism/dp/8121501407)

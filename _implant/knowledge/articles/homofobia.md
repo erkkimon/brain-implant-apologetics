@@ -4,7 +4,7 @@ about: apologetics
 title: "Homofobia"
 description: "Homofobia ei ole lääketieteellinen termi, eikä sille ole annettu lääketieteellisesti täsmällistä määritelmää."
 tags: [apowiki, seksuaalietiikka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Homofobia".
@@ -119,8 +119,6 @@ Tällainen pelon ilmapiiri johtuu osittain niistä menetelmistä, joilla sukupuo
 * Scruton, Roger: *Sacrilege and Sacrament*, teoksessa George, Robert P. & Elshtain, Jean Bethke (toim.), *The Meaning of Marriage: Family, State, Market & Morals*, Dallas: Spence Publishing Company, 2006
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Scruton 2006
 [^2]: Scruton 2006: 27−28

@@ -4,7 +4,7 @@ about: apologetics
 title: "Muhammad Raamatussa"
 description: "Islaminuskoisten tutkijoiden mukaan \"Raamatussa on selviä ja kiistämättömiä viimeisen profeetan tulemusta koskevia profetioita\"."
 tags: [apowiki, islam, tyngät, keskeneräiset-artikkelit]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Muhammad Raamatussa".
@@ -48,8 +48,6 @@ Teoreettiset pohdinnat ja käytännölliset havainnot ovat yhdessä johtaneet "*
 Tarkasti ottaen itse kullakin on kuhunkin mahdolliseen tutkittavaan tekstiin oma erityinen esiymmärryksensä[^2], mikä ei kuitenkaan estä luokittelemasta suuriakin esiymmärrysjoukkoja varsin luontevasti erinäisiin kategorioihin. Tässä yhteydessä on suhteellisen luontevaa rajata tarkastelu kolmentyyppisiin esiymmärryksiin: *naturalistisiin*, *kristillisiin* ja *islamilaisiin*.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Asalamu Alikaum Khazrin, [Who Is “Muhammadim” In The Song of Solomon?](http://aboutislam.net/counseling/ask-about-islam/who-is-muhammadim-in-the-song-of-solomon/), About Islam, 4.1.2017, viitattu 25.4.2017 (*Muslim scholars have noted clear and undeniable prophecies found in the Bible (both in the Old and New Testaments) about the coming of the final prophet.*)
 [^2]: Tämä esiymmärrys voi tietysti useinkin olla piilevä eli latentti, niin että henkilö ei itsekään koe suhtautuvansa jonkin ehkä ensi kertaa kohtaamansa tekstin sisältöön yhtään mitenkään. Esiymmärrys voi silti olla hyvinkin voimakas, kuten esim. (ontologisilla) naturalisteilla, jotka jo lähtökohtaisesti kiistävät *minkään tekstin* voivan olla aidosti profeetallinen – tällainen esiymmärrys siis kohdistuu täydellä voimallaan välittömästi kaikkiin niihinkin teksteihin, joista ei siihen mennessä ollut koskaan kuultukaan.

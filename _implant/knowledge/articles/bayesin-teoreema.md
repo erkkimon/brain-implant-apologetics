@@ -4,7 +4,7 @@ about: apologetics
 title: "Bayesin teoreema"
 description: "Bayesin teoreema (myös Bayesin sääntö tai Bayesin laki) on ehdolliseen todennäköisyyteen liittyvä teoreema."
 tags: [apowiki, tieteenfilosofia]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Bayesin teoreema".
@@ -224,8 +224,6 @@ Jakamalla näin saadun yhtälön molemmat puolet tekijällä  P(*B*) saadaan Bay
 > <math>P(A|B) = \frac{P(B|A)\,P(A)}{P(B)}. \!</math>
 
 ### Viitteet
-
-  1. Viitteet
 
 
 

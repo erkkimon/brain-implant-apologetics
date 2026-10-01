@@ -4,7 +4,7 @@ about: apologetics
 title: "Daniel Nylund: Maailmankatsomus ei saa olla ristiriidassa todellisuuden kanssa (Ajankohtainen 3, III luku)"
 description: "Voimme nimittää tätä maailmankatsomuksen laatuvaatimusta ja totuuskriteeriä myös korrespondenssiperiaatteeksi - jos se kuulostaa vakuuttavammalta - tai kotoisammin yhteensopivuuskriteeriksi."
 tags: [apowiki, maailmankatsomus, tekijänoikeuden-alaiset-artikkelit]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Daniel Nylund: Maailmankatsomus ei saa olla ristiriidassa todellisuuden kanssa (Ajankohtainen 3, III luku)".
@@ -506,8 +506,6 @@ Empirismi olettaa, että tarkat aistihavainnot ovat riittävä ja ainoa pätevä
 * [VII luku: Entä sitten? Epäilen silti](daniel-nylund-entä-sitten-epäilen-silti-ajankohtainen-3-vii-luku.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: John Lilly, The Center of the Cyclone. An Autobiography of the Inner Space. New York, Julian Press s.210
 [^2]: How to Know God. New American Library 1969

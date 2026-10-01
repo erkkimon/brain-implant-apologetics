@@ -4,7 +4,7 @@ about: apologetics
 title: "Miksei Jumala ilmoita itseään selvästi?"
 description: "Jos Jumala haluaa, että uskon häneen, hän voisi kai hoitaa asian helposti."
 tags: [apowiki, jumala, lukusuositukset]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Miksei Jumala ilmoita itseään selvästi?".
@@ -155,8 +155,6 @@ Vanhan testamentin puolella hyvänä esimerkkinä toimii israelilaisten käytös
 * [Jumalan piiloutuneisuus](https://uskojarkijafilosofia.wordpress.com/2011/05/18/jumalan-piiloutuneisuus/) (uskojarkijafilosofia.wordpress.com)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Hanson, Norwood Russell, *What I Do Not Believe and Other Essays*, New York: Humanities, 1971, s. 313–314
 [^2]: Nielsen, Kai, *Naturalism and Religion*, New York: Prometheus Books, 2004, s. 279

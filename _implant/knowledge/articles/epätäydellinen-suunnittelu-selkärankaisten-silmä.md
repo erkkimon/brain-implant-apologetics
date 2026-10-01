@@ -4,7 +4,7 @@ about: apologetics
 title: "Epätäydellinen suunnittelu: Selkärankaisten silmä"
 description: "Selkärankaisten fotoreseptorisolujen “nurinkurinen” asento on ollut yksi olennainen evoluutioteoreetikoiden käyttämä esimerkki huonosta suunnittelusta."
 tags: [apowiki, suunnitteluteoria]
-timestamp: 2026-10-01T19:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Epätäydellinen suunnittelu: Selkärankaisten silmä".
@@ -69,8 +69,6 @@ Näissä argumenteissa on mielenkiintoista se, että niiden esittäjät eivät v
 Empiirinen näyttö on nyt osoittanut suunnitteluargumentin pohjalta tehdyn ennusteen oikeaksi. Darwinistitutkijat ja -toimittajat pyrkivät siitä huolimatta sovittamaan uudet haivainnot jälkikäteen osaksi evoluutioteoriaa, aivan kuin tutkimuksilla ei olisi mitään merkitystä suunnitteluteorian uskottavuuden kannalta. Kuitenkin, loogisesti tarkasteltuna, evoluutioteorian uskottavuuden olisi pitänyt heiketä, koska biologisia rakenteita selitettiin evoluution pohjalta tavalla, joka on osoittautunut virheelliseksi. Vastaavasti suunnittelun uskottavuuden pitäisi kasvaa.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Dawkins, R. 1987. The Blind Watchmaker. New York, New York: W.W. Norton.
 [^2]: *verkkolähde*

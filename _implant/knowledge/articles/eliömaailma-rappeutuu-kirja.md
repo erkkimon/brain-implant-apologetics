@@ -4,7 +4,7 @@ about: apologetics
 title: "Eliömaailma rappeutuu (kirja)"
 description: "Eliömaailma rappeutuu – geneettinen entropia ja perimän salaisuus on eläkkeellä olevan Cornellin yliopiston genetiikan professorin John Sanfordin kirjoittama kirja, jossa hän käsittelee evoluutioteorian perusmekanismeja, mutaatiota ja…"
 tags: [apowiki, kirjat, evoluutiokritiikki]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Eliömaailma rappeutuu (kirja)".
@@ -420,8 +420,6 @@ Ajatus siitä, että geeniduplikaation kautta voi syntyä uutta informaatiota, j
 *[geneticentropy.org -verkkosivu](https://www.geneticentropy.org/)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Sanford, s. 25
 [^2]: The ENCODE Project Consortium, *An integrated encyclopedia of DNA elements in the human genome*, Nature, 489, 57-74

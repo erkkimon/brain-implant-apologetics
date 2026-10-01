@@ -4,7 +4,7 @@ about: apologetics
 title: "Jeesus-seminaari"
 description: "Jeesus-seminaari on lähes parin sadan akateemisen Uuden testamentin eksegetiikan asiantuntijan tutkijaryhmä, joka perustettiin 1985."
 tags: [apowiki, eksegetiikka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jeesus-seminaari".
@@ -65,8 +65,6 @@ Raymond E. Brown[^8] suhtautuu kriittisesti niihin kriteereihin, joita Jeesus-se
 Aikamme huomattavimpiin juutalaisiin teologeihin kuuluvan Jacob Neusnerin mielestä Jeesus-seminaari on joko suurin tutkimuksellinen huijaus Piltdownin ihmisen jälkeen tai se edustaa Uuden testamentin tutkimuksen vararikkoa.[^10] Kuuluisa Piltdownin ihminen oli väärennös, ihmisen kallon ja orangin alaleuanpalasen yhdistelmä. Orangin alaleuan hampaat oli viilattu näyttämään siltä, että ne kuuluisivat ihmiselle ja sopisivat yhteen kallon yläleuassa olevien hampaiden kanssa. Piltdownin fossiilit löydettiin 1908 ja 1915 ja niitä säilytettiin British Museumissa. Vasta vuonna 1953 havaittiin, että Piltdownin ihminen oli huijaus. Niinpä yksi kokonainen sukupolvi eli sen harhauskon vallassa, että Piltdownin fossiilit ovat aitoja. On helpompi esittää arvauksia tieteen nimissä kuin kumota niitä, koska arvauksien kumoaminen edellyttää perusteellista tutkimustyötä.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Evans, Craig A., *Fabricating Jesus: How Modern Scholars Distort the Gospels*, Downer Grove, Ill.: InterVarsity Press, 2006
 [^2]: Boyd, Gregory A., *Jeesus median myllyssä*, Suom. Pekka Nieminen. Helsinki: Uusi Tie, 1996

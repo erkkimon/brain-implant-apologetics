@@ -4,7 +4,7 @@ about: apologetics
 title: "Leninistinen uskonnonvastainen propaganda"
 description: "Vladimir Iljitš Lenin (yleensä V. I. Lenin), alkuperäiseltä nimeltään Vladimir Iljitš Uljanov, (22."
 tags: [apowiki, ateismi]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Leninistinen uskonnonvastainen propaganda".
@@ -52,8 +52,6 @@ Leninistinen uskonnonvastainen propaganda vannoo tieteen nimeen ja luo vastakkai
 * Gottlieb, Christian, *Dilemmas of Reaction in Leninist Russia: The Christian Response to the Revolution in the Works of N. A. Berdayaev 1917-1924*, Kööpenhamina: University Press of Southern Denmark, 2003
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Mitä Lenin todella sanoi, s. 9
 [^2]: [Venäjän historia](https://fi.wikipedia.org/wiki/Ven%C3%A4j%C3%A4n_historia)

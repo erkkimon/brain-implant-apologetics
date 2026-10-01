@@ -4,7 +4,7 @@ about: apologetics
 title: "Justin L. Barrett"
 description: "Justin L. Barrett (s. 1971) on yksi kognitiivisen uskontotieteen perustajista."
 tags: [apowiki, filosofia, uskontotiede]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Justin L. Barrett".
@@ -48,8 +48,6 @@ Kirjassaan *Why would anyone believe in God* Barrett ehdottaa, että "usko Jumal
 * Cambridgen yliopiston professori [Robert Hinde](https://fi.wikipedia.org/wiki/Robert_Hinde) sanoo: "Hienosti argumentoidussa esityksessään Justin Barrett yhdistää aineistoa kognitiivisesta psykologiasta osoittaakseen, että usko Jumalaan on luonnollinen. Usko on intuitiivisesti tyydyttävä, koska se riippuu kaikkien ihmisten omistamista henkisistä työkaluista. Sen luonnollisuus ei merkitse, että se on tosi, sillä henkiset työkalut kehittyivät luonnollisen ja kulttuurisen valinnan avulla auttaakseen ihmisiä pysymään hengissä, ei löytääkseen totuutta. Tästä kirjasta tulee uskontotieteen klassikko, ja antropologien, teologien ja luonnontieteilijöiden ja muiden uskonnon voimaa ihmettelevien tulisi lukea se."
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: [`http://www.altamirapress.com/Catalog/Reviews.shtml?command=Search&db=^DB/CATALOG.db&eqSKUdata=0759106673` Reviews for Why Would Anyone Believe in God?] Altamira Press
 [^2]: [`http://www.evolutionofreligion.org/speakers.php?s=Justin+Barrett` Speakers Bio Hawaii conference of the evolution of religion]

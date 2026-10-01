@@ -4,7 +4,7 @@ about: apologetics
 title: "Sigmund Freud"
 description: "Sigmund Freud (alun perin Sigismund Schlomo Freud; 6. toukokuuta 1856 Freiberg, Määri, Itävalta-Unkari (nyk."
 tags: [apowiki, henkilöt]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Sigmund Freud".
@@ -45,8 +45,6 @@ Freudin teorian perustelemattomana lähtökohtana on oletus, ettei Jumalaa ole o
 Augustinus on teistisestä näkökulmasta antanut tulkinnan ihmisen tarpeelle etsiä yhteyttä Jumalaan. Hän sanoo: "Sinä olet luonut meidät itsellesi, ja levoton on sydämemme, ennen kuin se sinussa löytää levon."[^6] Tämä ajatus tulee lähelle Freudin näkemystä, että ihmisellä on sisäinen tarve etsiä Jumalaa. Augustinuksen mukaan tämä tarve on Jumalan ihmiseen luoma, koska Jumala sen avulla vetää ihmistä puoleensa. Vaikka ihmisellä on syntiinlangenneena olentona yhtäältä tarve torjua Jumala pois tietoisuudestaan voidakseen paeta Jumalan auktoriteettia ja Jumalan tuomiota, hänellä on toisaalta sisäinen tarve kokea Jumalan rakkautta ja elää Jumalan yhteydessä. Ihminen on olento, joka kokee elämänsä mielekkääksi vasta päästessään kokemukselliseen yhteyteen täydellisen rakkauden kanssa. Tämä saa ihmisen etsimään Jumalaa, joka on todella olemassa. Niinpä kyse ei ole illuusioista vaan siitä, että ihmisluonto pakottaa ihmisen etsimään elämäänsä mielekkyyttä ja rakkautta Jumalasta. Niinpä Freudin teoria ei toimi kumoajana teistille, joka ymmärtää Freudin teoriaan sisältyvät ongelmat. Jos taas teisti ei tiedosta Freudin teoriaan sisältyviä ongelmia, teoria voi virheistään huolimatta toimia kumoajana.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Freud, Sigmund, *Die Zukunft einer Illusion*, 30. luku, Leipzig, 1927
 [^2]: Stafford-Clark, David, *Mitä Freud todella sanoi*, Suom. Erkki Puranen, Porvoo: WSOY, 1980, s. 160-161

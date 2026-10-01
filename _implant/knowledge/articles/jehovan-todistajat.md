@@ -4,7 +4,7 @@ about: apologetics
 title: "Jehovan todistajat"
 description: "Jehovan todistajat on lopun ajan odotusta ja kristinuskon juurille palaamista korostava uskonnollinen liike, joka eroaa kristinuskosta monin tavoin kuten hylkäämällä kolminaisuusopin ."
 tags: [apowiki, teismi]
-timestamp: 2026-10-01T20:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jehovan todistajat".
@@ -179,8 +179,6 @@ Kun sitten viitataan kohtaan Joh. 14:27, jossa Jeesus sanoo, että isä on hänt
 * Pasi Turunen, *Vartiotorni, valtakunta uudessa valossa*, Kuva ja Sana, 2005
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: ([Luuk. 1:41](../books/luk.md)),  ([Matt. 3:11](../books/mat.md)),  ([Apt. 10:38](../books/act.md))
 [^2]: http://wol.jw.org/fi/wol/d/r16/lp-fi/1101989276

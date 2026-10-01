@@ -4,7 +4,7 @@ about: apologetics
 title: "Jeesus-myyttihypoteesit"
 description: "Jeesus-myyttihypoteesin mukaan Raamatun kuvaama Jeesus oli myytti."
 tags: [apowiki, jeesus, historia]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jeesus-myyttihypoteesit".
@@ -195,8 +195,6 @@ Kreikkalaiset omaksuivat myös aineksia laajalle levinneestä egyptiläisestä I
 * [Zeitgeist](zeitgeist.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Catholic Answers Magazine, Nov-Dec 2012
 [^2]: Tom Holmén, [Tutkimushistoriaa - Alku](https://historianjeesus.fi/tutkimushistoriaa/alku/), historianjeesus.fi, viitattu 4.4.2021

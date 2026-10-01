@@ -4,7 +4,7 @@ about: apologetics
 title: "Tutkimusohjelma"
 description: "Tutkimusohjelma rajaa sen, mitä pidetään pätevänä todistusaineistona ja mistä on mahdollista saada tietoa."
 tags: [apowiki, tieteenfilosofia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tutkimusohjelma".
@@ -73,8 +73,6 @@ Tutkimusohjelmia ei aina valita tietoisesti, vaan monet tiedostamattomat tekijä
 *[Rea, Michael C.](michael-c-rea.md), *World Without Design*, Clarendon Press, 2002, 0-19-924760-9
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Rea 2002
 [^2]: [Alvin Plantinga](alvin-plantinga.md), *[Warrant: The Current Debate](warrant-the-current-debate-kirja.md)*, New York: Oxford University Press, 1993, s. 107, ISBN 0-19-507861-6

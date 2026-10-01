@@ -4,7 +4,7 @@ about: apologetics
 title: "Usko ja järki"
 description: "Usko ja järki ovat kaksi asiaa, joille käsitykset todellisuudesta voivat perustua."
 tags: [apowiki, tietoteoria, uskonnonfilosofia]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Usko ja järki".
@@ -87,8 +87,6 @@ Yksi esimerkki Taylorin mainitsemasta myyttisestä käsityksestä on rotuhygieni
 * Taylor, Charles: *A Secular Age*. Harvard University Press 2007.
 
 #### Viitteet
-
-  1. Viitteet
 
 
 

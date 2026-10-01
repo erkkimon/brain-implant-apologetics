@@ -4,7 +4,7 @@ about: apologetics
 title: "Rukoileminen"
 description: "Rukoilu eli rukoileminen tarkoittaa uskonnoissa Jumalan tai jumalien, henkien ja muiden korkeampina pidettyjen voimien puoleen kääntymistä."
 tags: [apowiki]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Rukoileminen".
@@ -93,10 +93,6 @@ Kojonen huomauttaa tästä etärukoukseen rajautuvan tutkimuksen ongelmallisuude
 * [Tieteellistä uskontokritiikkiä vai ateistista apologiaa? Arvio Oskari Miettisen teoksesta Alkuräjähdyksistä uskomuksiin](https://www.areiopagi.fi/2018/06/vastaako-jumala-rukouksiin/) (Rope Kojonen)
 
 ### Lähteet
-
-  1. Viitteet
-
-
 
 ## Viitteet
 

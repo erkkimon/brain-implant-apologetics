@@ -4,7 +4,7 @@ about: apologetics
 title: "Argumentum ad hominem"
 description: "Ad hominem eli henkilöä vastaan hyökkääminen tarkoittaa hyökkäämistä väitteen sijaan väitteen esittäjää vastaan, esimerkiksi näin: Koska Pecca näyttää kommunistilta tms., hänen puheistaan ei tarvitse välittää."
 tags: [apowiki, argumentointi]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Argumentum ad hominem".
@@ -61,8 +61,6 @@ Suurin osa kristityistä siis uskoo ei-kristittyjen joutuvan kadotukseen. Tämä
 * [Skepsis (Vesa Tenhunen): Argumentoinnin virheet](http://skepsis.fi/jutut/virhelista.html)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: [The God Delusion Debate. 2007. transcript](http://www.protorah.com/wp-content/uploads/2015/01/The-God-Delusion-Debate-Full-Transcript.pdf), viitattu 12.4.2017.
 [^2]: Kristinuskon rajoista voidaan tietysti kiistellä, mutta jeesustelun perusteeksi riittääkin subjektiivinen uskomus siihen, että jeesustelun kohde on senhetkisessä tilassa joutumassa kadotukseen.

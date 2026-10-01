@@ -4,7 +4,7 @@ about: apologetics
 title: "Sosiologinen kritiikki (raamatuntutkimus)"
 description: "Uuden testamentin tutkimuksessa on viime vuosikymmeninä yhä enemmän alettu soveltaa esimerkiksi sosiokriittistä lähestymistapaa, jossa huomio kiinnitetään Raamatun tapahtumien yhteiskunnallisiin olosuhteisiin."
 tags: [apowiki, raamattu, eksegetiikka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Sosiologinen kritiikki (raamatuntutkimus)".
@@ -47,8 +47,6 @@ Esimerkiksi **Howard Clark Kee** soveltaa **Peter Bergerin** analyysia tiedon so
 Tämänkaltainen sosiologinen tulkintatapa jättää kokonaan kuvauksen ulkopuolelle Jumalan työn Jeesuksen opetuslasten elämässä. Vastoin Keen sosiologista kuvausta opetuslapset eivät pelkästään omistaudu tietynlaiselle ymmärrykselle vaan he omistautuvat Jumalalle ja tulevat Jumalan valtaamiksi. Suhteen ymmärtäminen on toissijainen verrattuna itse suhteeseen. Opetuslapsia motivoi heidän todellinen suhteensa Jumalaan, ei pelkästään tietynlainen ymmärrys tästä suhteesta. Heillä on todellakin uudenlainen sosiaalinen identiteetti, mutta heidän sosiaalisen identiteettinsä on alisteinen syvälliselle kokemukselle Jumalan todellisuudesta, joka on yhdistänyt heidät uudenlaiseksi yhteisöksi. Julistaminen ja opettaminen eivät ole pelkästään sosiologisia tapoja tietynlaisen ymmärryksen levittämiseksi, vaan välineitä kutsua muita Jumalan yhteyteen.[^5]
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Mulholland, M. Robert: "Sosiological Critisism", teoksessa Black, David Alan & Dockery, David S. (toim.), *New Testament Criticism & Interpretation*, Grand Rapids, Mich.: Zondervan Publishing House, 1991, s. 303-304
 [^2]: Mulholland, M. Robert: "Sosiological Critisism", teoksessa Black, David Alan & Dockery, David S. (toim.), *New Testament Criticism & Interpretation*, Grand Rapids, Mich.: Zondervan Publishing House, 1991, s. 304

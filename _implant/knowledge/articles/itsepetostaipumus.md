@@ -4,7 +4,7 @@ about: apologetics
 title: "Itsepetostaipumus"
 description: "Yksi kristillisen syntiinlankeemusopin johdannaisista on usko siihen, että kaikille ihmisille on ominaista itsepetostaipumus erityisesti kysymyksissä, jotka koskettavat Jumalaa ja häntä koskevaa tietoa, jota ihminen ei voi olla tietämättä."
 tags: [apowiki, filosofia]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Itsepetostaipumus".
@@ -61,8 +61,6 @@ Ihminen voi löytää totuuden vain, jos hänelle paljastetaan totuus hänestä 
 Tutkijan ei siten ole mahdollista saavuttaa neutraalia lähtökohtaa. Hänellä on vain kaksi vaihtoehtoa: olla joko Kristuksessa tai Aadamissa, olla joko Kristuksen pelastama syntinen, joka pystyy ajoittain aavistamaan jotakin oman itsepetoksensa syvyydestä, tai olla kokonaan oman itsepetoksensa ehdoilla ajatteleva ihminen. Usko Kristukseen ei ole pelkkä ajattelutapa tai lähtökohtaoletus. Liitettynä ristiinnaulittuun ja ylösnousseeseen Kristukseen ihminen asetetaan kokonaan uuteen ontologiseen asemaan: hänestä tulee armahdettu syntinen, jolle avautuu Jumalan todellisuus. Jumalan todellisuuden valossa ihminen voi myös oppia tuntemaan itseään.[^7]
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Poythress, Vern S., *Redeeming Science: A God-Centered Approach*, Wheaton III.: Crossway Books, 2006, s. 13
 [^2]: Gregory L. Bahnsen, *A Conditional Revolution of the Apparent Paradox of Self-Deception*, Ph. D. Thesis, University of Southern California, 1979

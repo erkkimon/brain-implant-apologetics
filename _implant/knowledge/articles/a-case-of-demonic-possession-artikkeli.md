@@ -4,7 +4,7 @@ about: apologetics
 title: "A Case of Demonic Possession (artikkeli)"
 description: "__NOTOC__Maaliskuussa 2008 New Oxford Review julkaisi lääketieteen tohtori Richard E."
 tags: [apowiki, paranormaalit-ilmiöt, lukusuositukset, riivaus, demonit, demonologia, riivaaminen, eksorkismi, eksorkisti, riivaajien-ulos-ajaminen, manaaminen, julia, a-case-of-demonic-possession, artikkeli, tutkimus]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "A Case of Demonic Possession (artikkeli)".
@@ -53,8 +53,6 @@ Loppujen lopuksi Julia vapautui riivauksesta eksorkististen toimituksien avulla.
 <!--=== Internet ===-->
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: NOR 2008/3 (*Richard E. Gallagher, M.D., is a board-certified psychiatrist in private practice in Hawthorne, New York, and Associate Professor of Clinical Psychiatry at New York Medical College. He is also on the faculties of the Columbia University Psychoanalytic Institute and a Roman Catholic seminary. He is a Phi Beta Kappa graduate of Princeton University, magna cum laude in Classics, and trained in Psychiatry at the Yale University School of Medicine. Dr. Gallagher is the only American psychiatrist to have been a consistent U.S. delegate to the International Association of Exorcists, and has addressed its plenary session.*)
 [^2]: Richard E. Gallagher, *A Case of Demonic Possession*, New Oxford Review, 3, 75

@@ -4,7 +4,7 @@ about: apologetics
 title: "David Strauss"
 description: "David Friedrich Strauss (27.1.1808 – 8.2.1874) oli saksalainen teologi, joka oli naturalistisen raamatuntutkimuksen uranuurtajia."
 tags: [apowiki, henkilöt]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "David Strauss".
@@ -72,8 +72,6 @@ Jos tieteellistä keskustelua hallitsee yksi ainoa ennakko-olettamus, tosiasioit
 * Yarbrough, Robert W., *The Salvation Historical Fallacy? Reassessing the History of New Testament Theology*, History of Biblical Interpretation Series 2, Leiden: Deo Publishing, 2004
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Strauss 1973: sec. 14
 [^2]: Strauss 1864: 75

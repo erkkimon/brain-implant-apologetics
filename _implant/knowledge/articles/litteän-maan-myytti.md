@@ -4,7 +4,7 @@ about: apologetics
 title: "Litteän maan myytti"
 description: "Kuva: Pyöreä maa 1100-luvun keskiaikaisen käsikirjoituksen 1300-luvun kopiossa."
 tags: [apowiki, kosmologia, historia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Litteän maan myytti".
@@ -47,8 +47,6 @@ Litteän maan myytille antoi pontta kuusi vuotta Irvingin jälkeen ranskalaistut
 *Tuomas Kangasniemi, [Litteän Maan myytti: Keskiajan kirkko tiesi Maan palloksi viimeistään 700 vuotta ennen Kolumbusta](http://www.areiopagi.fi/littean-maan-myytti-keskiajan-kirkko-tiesi-maan-palloksi-viimeistaan-700-vuotta-ennen-kolumbusta/), Areiopagi.fi, 18.2.2014, viitattu 17.3.2014
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Stephen Jay Gould, *Hirmulisko heinäsuovassa: Kirjoituksia luonnontieteistä*, Like Kustannus, 2001, s. 60, ISBN 951-578-727-0
 [^2]: David C. Lindberg & Ronald L. Numbers, [Beyond War and Peace: A Reappraisal of the Encounter between Christianity and Science](http://www.asa3.org/ASA/PSCF/1987/PSCF9-87Lindberg.html), American Scientific Affiliation, viitattu 3.8.2009

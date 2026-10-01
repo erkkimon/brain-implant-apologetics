@@ -4,7 +4,7 @@ about: apologetics
 title: "Teleologinen argumentti"
 description: "Teleologisen argumentin lähtökohtana on luonnossa ilmenevä tarkoituksenmukaisuus (telos = päämäärä) ja järjestys."
 tags: [apowiki, filosofia, argumentit, suunnitteluteoria]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Teleologinen argumentti".
@@ -105,8 +105,6 @@ Teleologinen argumentti ei todista Jumalan olemassaoloa, mutta se osoittaa, ett�
 * [Teleological arguments for God's Existence](http://plato.stanford.edu/entries/teleological-arguments/), Del Ratzsch, Stanford Encyclopedia of Philosophy
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Smart, Ninian, *Dortrine and Argument in lndian Philosophy*, London: George Allen and Unwin, 1964, s. 153-154
 [^2]: [Akvinolainen, Tuomas](tuomas-akvinolainen.md), *Summa Theologiae*, Valikoiden suomentanut J.-P. Rentto. Alkuteos 1266-1273, Helsinki: Gaudeamus, 2002, s. 39

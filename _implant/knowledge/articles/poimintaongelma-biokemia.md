@@ -4,7 +4,7 @@ about: apologetics
 title: "Poimintaongelma (biokemia)"
 description: "Poimintaongelma (engl. sampling problem) liittyy kysymykseen, miten yleistä peptidisekvenssien biologinen aktiivisuus on."
 tags: [apowiki, suunnitteluteoria]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Poimintaongelma (biokemia)".
@@ -30,8 +30,6 @@ Penisilliiniä hajottavan β-laktamaasientsyymin pituus on 153 aminohappoa. Kaik
 [^3][^4]
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Jollekin havainnolle ehdotetun tietyn syntytavan selitysriittävyys (engl. *explanatory sufficiency*) liittyy kysymykseen siitä, miten todennäköisesti tämä selitystarjokas riittäisi (olemassaollessaan, esiintyessään, voimassaollessaan tai toteutuessaan) saamaan aikaan havaitun selitettävän ilmiön: mitä todennäköisemmin näin tapahtuu, sitä riittävämpi kyseinen syntyskenaario on.
 [^2]: Ehdotetun selityksen selitysuskottavuus (engl. *explanatory likelihood*) riippuu suoraan sekä sen selitysriittävyydestä (engl. *explanatory sufficiency*) että sen (olemassaolon, esiintymisen, voimassaolon tai toteutumisen) omasta (selitettävän ilmiön esiintymisestä riippumattomasta) alkuperäistodennäköisyydestä (engl. *prior probability*). Eri selitystapojen keskinäinen paremmuusvertailu on palautettavissa niiden selitysuskottavuusvertailuun: selityksen paremmuus (ja vastaavasti huonommuus) liittyy olennaisesti sen uskottavuuteen – uskottavin selitys täyttää selittämistehtävän parhaiten, ja näin ollen sitä voi perustellusti pitää parhaana selityksenä. Toisaalta selityksiltä voi ylipäänsäkin vaatia jonkinlaista vähimmäisuskottavuutta: jos selitys on liian epäuskottava, siihen ei ole mielekästä pitäytyä edes parempien selitysten puutteessakaan, vaan tällöin on järkevämpää myöntää, ettei kyseiselle havaintoilmiölle toistaiseksi tunneta mitään nykytiedon valossa mahdollista selitystä.

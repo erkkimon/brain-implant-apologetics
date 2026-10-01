@@ -4,7 +4,7 @@ about: apologetics
 title: "Kari Enqvist"
 description: "Kari-Pekka Enqvist (s. 16. helmikuuta 1954, Lahti) on Helsingin yliopiston fysikaalisten tieteiden laitoksen teoreettisen fysiikan professori."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kari Enqvist".
@@ -219,8 +219,6 @@ Edellä analysoituun retoriikkaan näköjään täysin kritiikittömästi suostu
 *Rope Kojonen: [Kari Enqvist: Uskomaton matka uskovien maailmaan](https://www.areiopagi.fi/2013/12/kari-enqvist-uskomaton-matka-uskovien-maailmaan/) - Kirja-arvio Enqvistin kirjasta "*Uskomaton matka uskovien maailmaan*", 3.12.2013
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Kari Enqvistin *Kuoleman ja unohtamisen aikakirjat* -teoksen kirja-arvostelun (HS 24.12.2009, s. C1) mukaan "Uskonnoton ei ymmärrä, mitä lause 'Jumala on olemassa' tarkoittaa."</br> Tämä lause on "uskonnottomuuden" määritelmäksi monin tavoin ongelmallinen.
 [^2]: [käänteisen todistustaakan](argumentum-ad-ignorantiam.md) argumentointivirheen välttämiseksi

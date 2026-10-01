@@ -4,7 +4,7 @@ about: apologetics
 title: "Älyllisten kykyjen luotettavuus"
 description: "Yksi teistien perusargumentteja on, että ilman Jumalan olemassaoloa on vaikea löytää perusteita havaintojen luotettavuudelle tai järjellisen ajattelun pätevyydelle."
 tags: [apowiki, epistemologia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Älyllisten kykyjen luotettavuus".
@@ -73,8 +73,6 @@ Koska Plantingan argumentti kuitenkaan tuskin saa naturalistia kääntymään su
 *[Evoluutioteoreettinen argumentti naturalismia vastaan](alvin-plantinga-evoluutioteoreettinen-argumentti-naturalismia-vastaan.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Plantinga, Alvin, *Warrant and Proper Function*, New York: Oxford University Press, 1993, s. 12 luku
 [^2]: Plantinga, A., *Warranted Christian Belief*, New York: Oxford Univeristy Press, 2000, s. 218-240

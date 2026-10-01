@@ -4,7 +4,7 @@ about: apologetics
 title: "Epätäydellinen suunnittelu: Ihmisaivot"
 description: "Epätäydelliseen suunnitteluun vetoavalla ajattelulla on niin merkittävä osa joidenkin ateistien argumentaatiossa, että he soveltavat sitä joskus myös sellaisiin biologisiin rakenteisiin, jotka ilmentävät äärettömän hienovaraista suunnittelua."
 tags: [apowiki, suunnitteluteoria]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Epätäydellinen suunnittelu: Ihmisaivot".
@@ -30,8 +30,6 @@ Ylikosken ja Kokkosen mukaan aivot eivät osoita älykkään suunnittelun merkke
 Näin vahvaa uskoa ohjaamattomaan evoluutioon mitkään tosiasiat tuskin pystyvät kumoamaan. Jos Ylikoski ja Kokkonen eivät löydä luomakunnan yhdestä kaikkein hienoimmin rakentuneesta kokonaisuudesta eli ihmisaivoista mitään merkkejä älykkäästä suunnitelmasta, vaan katsovat niiden olevan lyhytnäköisen ja kokonaan vailla älyllistä pohdintaa olevan prosessin tuottama onneton kyhäelmä, niin on vaikea nähdä, minkälaisten tosiasioiden he katsoisivat merkitsevän oman uskonsa kumoutumista. Ylikoski ja Kokkonen eivät tule ajatelleeksi seuraavaa ongelmaa, joka kehittyy heidän ajattelunsa sisälle: jos he itse tekevät päätelmiään ja luovat teorioitaan tällaisten aivojen avulla, jotka ovat pelkkiä suunnitelmallisuutta vailla olevia kyhäelmiä, niin mitä syytä heillä on luottaa näiden aivojen tuotteisiin? Mitä syytä heillä on luottaa esimerkiksi päätelmäänsä, että aivot ovat pelkkä onneton kyhäelmä?
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Petri Ylikoski ja Tomi Kokkonen: Evoluutio ja ihmisluonto. Gaudeamus 2009, s. 194
 [^2]: [Tapio Puolimatka](tapio-puolimatka.md), *Tiedekeskustelun avoimuuskoe*, Uusitie, 2010, s. 40, ISBN 978-951-6-19524-0

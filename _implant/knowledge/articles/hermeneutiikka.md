@@ -4,7 +4,7 @@ about: apologetics
 title: "Hermeneutiikka"
 description: "\"Tekstinselitystiede\" eli hermeneutiikka tavoittelee kunkin tutkittavan tekstin kattavaa ja oikeellista ymmärrystä – sellaista, joka näkee kunkin tekstin alkuperäisen merkityksen mahdollisimman aidosti ja luotettavasti ja pystyy myös…"
 tags: [apowiki, eksegetiikka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Hermeneutiikka".
@@ -48,8 +48,6 @@ Teoreettiset pohdinnat ja käytännölliset havainnot ovat yhdessä johtaneet se
 1. "Hermeneuttinen spiraali" viittaa siihen, että tulkitsija on ensin esiymmärryksensä takia kulkemassa joltain etäisyydeltä tekstin varsinaisen tarkan merkityksen ohi, mutta olemalla tekemisissä tekstin kanssa hän jää "sitä kiertävälle radalle" ja "tekstin vetovoimakenttään", joka vähitellen vetää hänen ymmärrystään tekstistä aina vain lähemmäs sen alkuperäismerkitystä, vaikka esiymmärryksen vaikutus ei koskaan lakkaakaan eikä täydelliseen ymmärrykseen itse tekstin tarkasta merkityksestä siksi päästäkään, kuten spiraalikin kiertyy yhä tiukemmin yhden pisteen ympärille sitä kuitenkaan koskaan täysin saavuttamatta.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Tämäntapaista "teksteillä ei ole mitään omaa merkitystä, vaan kaikki riippuu tulkitsijasta ja hänen tulkinnastaan" -meininkiäkin on itse asiassa kyllä ehdotettu, mutta se on umpikuja: Siinä tapauksessa, että tällainen ehdotus otettaisiin tulkintojen arvioinnin luovuttamattomaksi lähtökohdaksi, jo itse tätä ehdotustakin voitaisiin tulkita, miten mielitään – voitaisiin katsoa sen tarkoittavan vaikkapa sitä, että jos joku on jostain tulkinnasta eri mieltä kanssani, hänet tulee keinolla millä hyvänsä vaientaa. Ellei tällä "rajoittamaton subjektiivinen oikeus tulkintaan" -ehdotustekstilläkään, siis nimenomaan tekstinä, olisi tai ainakaan myönnettäisi olevan mitään omaa merkitystä, mikään ei tietenkään estäisi tällaistakaan "tulkintaa"; jos taas pidettäisiin kiinni tämän nimenomaisen tekstin "ainoasta oikeasta tulkinnasta" ehtona muiden tekstien tulkintamielivallalle, koko asetelman keinotekoisuus paljastuisi välittömästi: julki lausuttu oletus, jonka mukaan objektiivisia merkityksiä ei ole olemassakaan, olisi itse esimerkkinä nimenomaan objektiivista merkitystä kantavasta tekstistä. On myös käytännössä joka tapauksessa täysin mahdotonta elää ikään kuin mitään objektiivisia merkityksiä ei olisi olemassa – koko inhimillinen elämä perustuu olennaisesti moninaistenkin tekstien merkitysten yhdenmukaiseen tulkintaan ja noudattamiseen, esim. liikennesääntöjen ja ylipäänsä lakien tarkoitetun tulkinnan olemassaoloon ja kaikkia koskevuuteen mutta yhtä hyvin myös vaikkapa treffien tekoon liittyvien verbaali-ilmausten oikeiden merkitysten olemassaoloon, niin että "tänä iltana" on eri asia kuin "kymmenen vuoden kuluttua" ja "Mannerheimin patsaalla" eri asia kuin "Utön majakalla".
 [^2]: jaotella, jäsennellä, tutustua kokonaisrakenteeseen ja osien keskinäissuhteisiin jne.

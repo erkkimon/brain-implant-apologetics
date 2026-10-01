@@ -4,7 +4,7 @@ about: apologetics
 title: "Onko moraaliopetus indoktrinaatiota?"
 description: "Indoktrinaation sisältökriteerin tavanomainen tulkinta on sikäli ongelmallinen, että kukaan ei ole onnistunut määrittelemään opillisen uskomuksen käsitettä siten, että olisi mahdollista erottaa opilliset uskomukset tiedollisesti hyväksyttävistä, erityisesti tieteellisistä uskomuksista."
 tags: [apowiki, etiikka, kasvatusfilosofia]
-timestamp: 2026-10-01T20:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Onko moraaliopetus indoktrinaatiota?".
@@ -408,8 +408,6 @@ Kokoavasti voidaan todeta, että sisällöllisten moraalisten periaatteiden opet
 * Wilson, John: *Indoctrination and Freedom*, teoksessa Snook, I. A. (toim.), *Concepts of Indoctrination. Philosophical Essays*, London: Routledge, 1972
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Wilson 1964:27-28, 30
 [^2]: Wilson 1964: 27

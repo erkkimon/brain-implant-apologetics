@@ -4,7 +4,7 @@ about: apologetics
 title: "Evoluutioteoria"
 description: "TerminologiastaEvoluutioteorialla tarkoitetaan ApologetiikkaWikissä oppia jonka mukaan \"kaikki eliöt polveutuvat yhteisestä esi-isästä ohjaamattomien mutaatioden ja luonnonvalinnan kautta.\" Tätä käsitystä kutsutaan myös synteettiseksi evoluutioteoriaksi tai uusdarvinismiksi."
 tags: [apowiki, evoluutioteoria, keskeneräiset-artikkelit]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Evoluutioteoria".
@@ -171,9 +171,7 @@ John C. Sanfordin mukaan empiiriset havainnot johtavat eliöiden perimän rappeu
 
 ### Lähteet
 
-  1. Viitteet
-
-
+## Viitteet
 
 ### Katso myös
 
@@ -210,8 +208,6 @@ John C. Sanfordin mukaan empiiriset havainnot johtavat eliöiden perimän rappeu
 * [How Evolution Works](http://science.howstuffworks.com/evolution.htm/printable)
 * [Phylogenetic Analysis of Proteins](http://www.icp.ucl.ac.be/~opperd/private/proteins.html)
 * [Molecular evolution](http://www.icp.ucl.ac.be/~opperd/private/m_e_index.html)
-
-## Viitteet
 
 [^1]: Vain ei-satunnaisuus voidaan osoittaa. Lisäksi satunnaisuus käsitteenä on kyseenalainen. Yleensä satunnaisuus tarkoittaa sitä, että emme tunne taustasyitä riittävän tarkasti. Esimerkiksi nopanheitossa tulos voitaisiin laskea tarkasti, jos heitto ja ympäristö tunnetaan tarkasti. Mahdollisesti kvanttitason satunnaisuus on tästä poikkeavaa satunnaisuutta.
 [^2]: M. Behe, *[The Edge of Evolution](the-edge-of-evolution-kirja.md)*, Free Press, 1 edition (June 5, 2007), ISBN: 978-074329620

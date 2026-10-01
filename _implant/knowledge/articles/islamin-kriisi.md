@@ -4,7 +4,7 @@ about: apologetics
 title: "Islamin kriisi"
 description: "Islamin kriisi on muslimien keskuudessa syntynyt ja yhä vallitseva, laajalle levinnyt epävarmuuden tila, joka pohjautuu sen seikan tiedostamiseen, että heidän valtionsa ja yhteiskuntansa ovat monin tavoin jääneet jälkeen muusta maailmasta, erityisesti länsimaista."
 tags: [apowiki, islam]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Islamin kriisi".
@@ -90,8 +90,6 @@ Kristillisen apologetiikan on yleensäkin aina määrä kyetä keskustelemaan mi
 Vallitsevassa tilanteessa on myös erityisiä apologeettisia syitä kiinnittää huomiota islamin kriisiin. Onhan yleisesti tunnettua, että kiinan kielen kirjoitusmerkein "kriisi" = "uhka" + "mahdollisuus": kriisiajat ja -tilanteet ovat tavallista uhkaavampia mutta tarjoavat samalla myös poikkeuksellisia mahdollisuuksia. Itsevarmaa ihmistä tai kulttuuria voi kristillisellä todistuksella olla suhteellisen helppoakin lähestyä mutta sitäkin vaikeampaa saada vakuuttuneeksi;[^15] ongelmiensa yllättämä taho taas voi olla entistä alttiimpi sekä hutkimaan vastapuolta että parhaassa tapauksessa myös tutkimaan tämän näkökohtia ja argumentteja. Ottaen huomioon, että muslimeilla on erilaisia reagointitapoja kriisitilaansa, myös kristillisen apologetiikan olisi herkistyttävä näitä erilaisia tapoja edustavien tahojen eriytyneeseen kohtaamiseen; kaikki muslimithan eivät ole samanlaisia, eikä tämän edes pitäisi olla mikään yllätys.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Kaikkien kohtien lähteenä on v. 2008 ilmestynyt teos: Bhutto, Benazir: *Sovinto: islam, länsi ja demokratia*, s. 379.
 [^2]: tosin tältä osin ihannetilaa voidaan tarkastella ei-länsimaisin silmin toisinkin kuin mihin olemme tottuneet

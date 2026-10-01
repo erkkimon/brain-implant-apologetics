@@ -4,7 +4,7 @@ about: apologetics
 title: "John Hartnettin kosmologinen malli"
 description: "John Hartnettin kosmologinen malli kuvaa maailmankaikkeutta lähtien oletuksesta, että Raamatun luomiskertomus on kirjaimellisesti totta nuoren maan kreationistisen tulkintaperinteen mukaisesti."
 tags: [apowiki, kosmologia, luomisoppi]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "John Hartnettin kosmologinen malli".
@@ -260,8 +260,6 @@ Aikalaajenemisen vaikutukset ilmenivät maapallolla luomisviikon aikana. Kun laa
 *Dr. John Hartnett, *Starlight, Time and the New Physics*, Creation Book Publishers, 2007, 978-0-949906-68-7
 
 #### Viitteet
-
-  1. Viitteet
 
 [^1]: John G. Hartnett, [Where I now stand](https://biblescienceforum.com/2021/03/11/where-i-now-stand/#more-11158), 11.3.2021, viitattu 28.5.2022
 [^2]: Raamatun avausjakeen mukaan Jumala loi taivaan ja maan "alussa": jos tämä ymmärretään ensimmäisen luomispäivän (eli -vuorokauden) aluksi, niin neljännen luomispäivän alku ajoittui tasan kolme vuorokautta maan luomista myöhemmäksi, ja tämän päivän aikana tehdyt muut taivaankappaleet saivat siis syntynsä vähintään kolmen mutta alle neljän vuorokauden kuluttua maan luomisesta.

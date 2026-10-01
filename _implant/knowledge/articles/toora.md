@@ -4,7 +4,7 @@ about: apologetics
 title: "Toora"
 description: "Toora (hepreaksi תורה, Torah) eli humaš on heprealaisen Raamatun eli Tanakin ensimmäinen osa."
 tags: [apowiki, raamatun-tekstit]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Toora".
@@ -37,8 +37,6 @@ Mooseksen lakia ja sitä kautta Jumalaa on usein syytetty julmaksi. Copan katsoo
 Mooseksen lakia on kritisoitu myös sen "kummallisuudesta", koskien esimerkiksi [ruoka-](https://fi.wikipedia.org/wiki/Košer) <!-- red link: Kosher -->, pukeutumis-, ja puhtaussääntöjä. Copanin mukaan näiden lakien merkityksenä oli erottaa Israelin kansa sitä ympäröivistä pakanakansoista. Lakien ulottuminen kaikkiin elämän osa-alueisiin muistutti Israelin kansan olevan kokonaan Jumalalleen omistautunut "pyhä kansa" ja opetti, että Jumalan alaisuudessa elämisen tulisi vaikuttaa elämään kokonaisuudessaan. Sääntöihin liittyi paljon symboliikkaa: esimerkiksi kahdesta eri lankalajista koostuvan vaatteen ja härällä ja aasilla yhtä aikaa kyntämisen kieltäminen saattoi kuvata pyhyyden ja pakanallisuuden sekoittamisen kieltämistä ja yhdenlaisessa pyhyydessä pysymistä.[^7]
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Kuula, Nissinen & Riekkinen, s. 37–43
 [^2]: Kuula, Nissinen & Riekkinen, s. 37–43

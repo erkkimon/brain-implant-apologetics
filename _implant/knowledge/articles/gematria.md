@@ -4,7 +4,7 @@ about: apologetics
 title: "Gematria"
 description: "Kuva: Jakob Böhmen käyttämän symbolin keskellä on kolmio, jossa tetragrammatonin heprealaisista kirjaimista (JHWH) muodostettu tetraktys."
 tags: [apowiki]
-timestamp: 2026-10-01T20:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Gematria".
@@ -78,9 +78,7 @@ Heprealaisten aakkosten numeroarvot [^6]
 
 ### Lähteet
 
-  1. Viitteet
-
-
+## Viitteet
 
 ### Aiheesta muualla
 * [Brendan McKay: In Search of Mathematical Miracles](https://users.cecs.anu.edu.au/~bdm/dilugim/index.html)
@@ -97,8 +95,6 @@ Seuraavilla sivuilla on gematrinen taulukko erilaisille aakkosille:
 * [Kreikka](http://www.masoncode.com/Greek%20Gematria.htm)
 * [Latina](http://www.masoncode.com/Latin%20Gematria.htm) [Agrippan](https://fi.wikipedia.org/wiki/Agrippa) Books of Occult Philosophy, 1532
 * [Latina](http://www.masoncode.com/Simple%20Gematria.htm) Vanha 24-kirjaiminen englanti
-
-## Viitteet
 
 [^1]: *verkkolähde*
 [^2]: *verkkolähde*

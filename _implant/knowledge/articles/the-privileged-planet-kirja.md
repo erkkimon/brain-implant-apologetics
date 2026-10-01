@@ -4,7 +4,7 @@ about: apologetics
 title: "The Privileged Planet (kirja)"
 description: "The Privileged Planet on tähtitieteilijä Guillermo Gonzalezin ja filosofi Jay W."
 tags: [apowiki, kirjat, suunnitteluteoria, kosmologia]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "The Privileged Planet (kirja)".
@@ -44,8 +44,6 @@ Esimerkiksi kuun asemalla ja koolla on ratkaiseva merkitys planeettamme elinkelp
 * [The Privileged Planet elokuva](https://youtu.be/QmIc42oRjm8) (Youtube)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: "The same narrow circumstances that allow us to exist also provide us with the best overall setting for making scientific discoveries", *The Privileged Planet DVD*
 [^2]: Dyson, Eddington, A.S., & Davidson, C.R., *[A Determination of the Deflection of Light by the Sun's Gravitational Field, from Observations Made at the Total Eclipse of May 29, 1919](http://adsabs.harvard.edu/abs/1920RSPTA.220..291D)*, Philosophical Transactions of the Royal Society A: Physical, Mathematical and Engineering Sciences, 291–333

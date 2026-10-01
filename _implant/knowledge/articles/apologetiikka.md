@@ -4,7 +4,7 @@ about: apologetics
 title: "Apologetiikka"
 description: "Apologetiikka on jonkin näkökulman, kristillisessä viitekehyksessä kristillisen uskon, rationaalista puolustamista."
 tags: [apowiki, yleistä-tietoa, apologetiikka, apologeetta, apologisti, apologi, apoloogikko, apologetiikan-historia, negatiivinen-apologetiikka, positiivinen-apologetiikka]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Apologetiikka".
@@ -63,8 +63,6 @@ On tärkeää ymmärtää, ettei apologetiikka ole mikään vaihtoehtoinen, skie
 * [Jasu Markkanen: Puolustuksen puolustus – Miksi apologetiikkaa tarvitaan?](http://raapustus.net/?id=110)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Josh Rasmussen, *Love the Lord with All Your Mind*, Untamed Lion, viitattu 17.12.2007 (*Apologetics is a rational defense and explication of one's beliefs.*) Radio Dei: [Virranjakaja](http://kotisatama.net/yhttyo/ohjelmatietoteksti.php?organisaatioid=2&tcolor=&bgcolor=&background=&ohjelmaid=860) 28.11, 5:28 (*Apologetiikka - - tarkottaa uskon puolustamista ja yleensä siihen liittyy - - järjellinen elementti, että se on uskon järjellistä puolustamista.*)
 [^2]: Radio Dei: [Virranjakaja](http://kotisatama.net/yhttyo/ohjelmatietoteksti.php?organisaatioid=2&tcolor=&bgcolor=&background=&ohjelmaid=860) 28.11, 7:31 (*- - teologia ja apologetiikka - - on keskenään vähän päällekkäisiä asioita. - - Kun apologetiikkaa ruvetaan tekemään, niin siinä puolustetaan niitä kristinuskon olennaisia asioita ja se on sitten teologinen kysymys että mitkä niistä - - asioista on puolustamisen arvoisia.*)

@@ -4,7 +4,7 @@ about: apologetics
 title: "Daniel Nylund: Maailmankatsomuksen täytyy voida selittää kaiken alkuperä, tarkoitus ja päämäärä (Ajankohtainen 3, IV luku)"
 description: "Modernin taiteen edelläkävijä Paul Gauguin (1848-1903) kirjoitti viimeiseen maalaukseensa ennen epäonnistunutta itsemurhayritystään: \"Mistä tulemme?"
 tags: [apowiki, maailmankatsomus, tekijänoikeuden-alaiset-artikkelit]
-timestamp: 2026-10-01T20:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Daniel Nylund: Maailmankatsomuksen täytyy voida selittää kaiken alkuperä, tarkoitus ja päämäärä (Ajankohtainen 3, IV luku)".
@@ -633,8 +633,6 @@ Historia ei ole tie, joka ei tule mistään eikä johda minnekään, tai ovi, jo
 * [VII luku: Entä sitten? Epäilen silti](daniel-nylund-entä-sitten-epäilen-silti-ajankohtainen-3-vii-luku.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Viktor Franklin kaksi suomennettua kirjaa ovat: "Ihmisyyden rajalla" ja "Elämän tarkoitusta etsimässä", OTA V A -79 ja -80. Logoterapiaa käsittelemme tulevaisuudessa tarkemmin teemanumerossamme psykologiasta.
 [^2]: Time Nov. 10/-80

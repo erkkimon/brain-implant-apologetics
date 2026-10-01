@@ -4,7 +4,7 @@ about: apologetics
 title: "The Two Babylons (kirja)"
 description: "The Two Babylons: The Papal Worship Proved to Be the Worship of Nimrod and His Wife on Alexander Hislopin (1807–1862) vuonna 1858 julkaisema teos, jossa Hislop pyrkii osoittamaan, että katolinen kirkko ja monet kristilliset perinteet,…"
 tags: [apowiki]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "The Two Babylons (kirja)".
@@ -47,10 +47,6 @@ Myös Tim O'Neill toteaa, että monesti Hislop yksinkertaisesti väittää asioi
 * [Message from Ralph Woodrow regarding the book BABYLON MYSTERY RELIGION](https://web.archive.org/web/20120205124455/http://www.ralphwoodrow.org/books/pages/babylon-mystery.html) (archive.org)
 
 ### Lähteet
-
-  1. Viitteet
-
-
 
 ## Viitteet
 

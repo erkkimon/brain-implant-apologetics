@@ -4,7 +4,7 @@ about: apologetics
 title: "Abortti"
 description: "Abortti eli raskaudenkeskeytys (indusoitu abortti, abortus arte provocatus eli aap) tarkoittaa raskauden keinotekoista päättämistä poistamalla alkio tai sikiön kohdusta joko mekaanisesti kirurgisin keinoin tai kemiallisesti lääkityksellisin keinoin."
 tags: [apowiki, etiikka]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Abortti".
@@ -75,8 +75,6 @@ Athenagoras Ateenalaisen mielestäni lääkkeillä raskautensa keskeyttäneet na
 * [William Lane Craig: The Geography and Time of an Abortion of a Baby](http://www.youtube.com/watch?v=PjtzhqOJOyw&feature=related) (34s)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Suomen Gynekologiyhdistys ry:n hoitosuositustyöryhmä, Raskaudenkeskeytys [Käypä hoito -suositus]. Duodecim, 2001. 117: p. 2084–2094 http://www.kaypahoito.fi/kh/kaypahoito?suositus=hoi27050
 [^2]: 'Gregory Koukl', [Abortion and Human Rights](http://www.str.org/site/News2?page=NewsArticle&id=5080)

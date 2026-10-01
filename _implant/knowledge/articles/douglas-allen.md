@@ -4,7 +4,7 @@ about: apologetics
 title: "Douglas Allen"
 description: "Kanadalaisen Simon Fraser -yliopiston taloustieteen professori Douglas W."
 tags: [apowiki, henkilöt, seksuaalietiikka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Douglas Allen".
@@ -133,8 +133,6 @@ Jos kaikki nämä painostuskeinot eivät onnistu vaientamaan tutkijaa, voidaan t
 *Puolimatka, Tapio, *Lapsen ihmisoikeus: oikeus isään ja äitiin*, Suunta-kirjat, 2014
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Allen 2013a
 [^2]: Rosenfeld 2010

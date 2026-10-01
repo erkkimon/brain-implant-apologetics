@@ -4,7 +4,7 @@ about: apologetics
 title: "Konstruktivistinen hermeneutiikka"
 description: "Konstruktivistinen hermeneutiikka on ei-realistista. Se olettaa, että havainnolla, kokemuksella, tekstillä tai koko todellisuudella ei ole merkitystä ennen kuin ne on tulkittu."
 tags: [apowiki, tieteenfilosofia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Konstruktivistinen hermeneutiikka".
@@ -115,8 +115,6 @@ Konstruktivismi on oikeassa, että oppimisessa on hermeneuttinen ulottuvuus. Opp
 * Steiner, George, *Heidegger*, Suomennos ja jälkisanat Tere Vadén, Tampere: Gaudeamus, 1997
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Jokinen, A. & Juhila, K. & Suoninen, E., *Diskurssianalyysin aakkoset*, Tampere: Vastapaino, 2000, s. 20
 [^2]: Vanhoozer, Kevin, *Is There A Meaning in this Text*, Apollos, 1998, s. 59

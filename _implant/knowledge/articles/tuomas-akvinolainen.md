@@ -4,7 +4,7 @@ about: apologetics
 title: "Tuomas Akvinolainen"
 description: "Tuomas Akvinolainen (1225-1274) oli katolinen teologi ja apologeetikko."
 tags: [apowiki, henkilöt, filosofia, teismi]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tuomas Akvinolainen".
@@ -40,8 +40,6 @@ Katso ApologetiikkaWikin artikkeli [Teleologinen argumentti](teleologinen-argume
 Saarinen, Esa, *Länsimaisen filosofian historia huipulta huipulle Sokrateesta Marxiin*, Viides painos, WSOY, 1985
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Saarinen (1985) s. 99.
 [^2]: Saarinen (1985) s. 105-106, jossa viittaus Tuomas Akvinolaisen teokseen Summa Theologica, I, Q.2. Art. 3.

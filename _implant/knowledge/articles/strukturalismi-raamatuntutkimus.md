@@ -4,7 +4,7 @@ about: apologetics
 title: "Strukturalismi (raamatuntutkimus)"
 description: "Strukturalismin mukaan kertomuksia hallitsevat kielelliset syvärakenteet, joita tekstin luojat eivät välttämättä tiedosta, mutta jotka ovat yleispäteviä kaikille kielen käyttäjille."
 tags: [apowiki, raamattu, eksegetiikka]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Strukturalismi (raamatuntutkimus)".
@@ -49,8 +49,6 @@ Yksi strukturalismin tunnetuimmista kriitikoista on venäläinen kristitty ajatt
 Strukturalismi siis pelkistää tekstin todellisuutta niin paljon, että ihmiselämän moninaisuuden ja yksilöllisyyden näkökulmille ei aina tehdä oikeutta. Strukturalistinen analyysi on vaarassa muodostua niin pelkistäväksi ja yksinkertaistavaksi, että tärkeitä osia sanomasta joko katoaa tai vääristyy.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Lincoln, Andrew, *Truth on Trial*, Hendrickson, 2000, s. 162-164
 [^2]: Barthes, Roland: "The Struggle with the Angel: Textual Analysis of Genesis 32:23-33", teoksessa Barthes, R. (toim.), *Structural Analysis and Biblical Exegesis*, Pickwick, 1974

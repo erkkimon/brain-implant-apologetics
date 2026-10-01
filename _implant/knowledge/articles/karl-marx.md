@@ -4,7 +4,7 @@ about: apologetics
 title: "Karl Marx"
 description: "Karl Heinrich Marx (5. toukokuuta 1818 – 14. maaliskuuta 1883) oli juutalaissyntyinen yhteiskuntafilosofi ja sosiaaliteoreetikko."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Karl Marx".
@@ -43,8 +43,6 @@ Lisäksi projektiivinen ateistinen teoria on kaksiteräinen miekka sikäli että
 > Ei ole vaikea keksiä henkilöitä, joilla näyttäisi olevan erinomainen syy toivoa ja uskoa, että Jumalaa ei ole. Ajatellaanpa vaikka jotakin likvidointiryhmän johtajaa Stalinin puhdistusten aikana 1930-luvulla tai natsien keskitysleirin päällikköä toisen maailmansodan aikana. Tällainen henkilö saattaisi kokea ajatuksen Jumalasta erittäin uhkaavana. Entä jos Jumala pitäisikin hänen toimintaansa, suurten ihmisjoukkojen teurastusta, äärimmäisen vastenmielisenä ja päättäisi rangaista häntä siitä? Eikö tällaisella henkilöllä olisi erittäin hyvä syy toivoa, että Jumalaa ei ole? Vältettyään rangaistuksen tähän asti ihminen luultavimmin toivoo, että näin tapahtuisi ikuisiksi ajoiksi. –**McGrath**[^4]
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Marx, Karl, *Pääoma: Kansantaloustieteen arvostelua. I osa*, Kustannusliike Edistys, Moskova, 1974, s. 557
 [^2]: Marx, Karl, *Pääoma: Kansantaloustieteen arvostelua. I osa*, Kustannusliike Edistys, Moskova, 1974, s. 97

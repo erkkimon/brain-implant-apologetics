@@ -4,7 +4,7 @@ about: apologetics
 title: "Jumala"
 description: "20 ApoWiki-artikkelia aihepiiristä jumala — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, jumala]
-timestamp: 2026-09-25T23:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 
 # Jumala
@@ -27,7 +27,7 @@ Aihepiirin jumala artikkelit, tuotu [ApoWikistä](https://apowiki.fi). Luettelo 
 * [Jumalan hyvyys](../articles/jumalan-hyvyys.md) — Raamatun mukaan vain Jumala on hyvä.
 * [Jumalan kaikkivoipuus](../articles/jumalan-kaikkivoipuus.md) — __NOTOC__ Kristillisessä teismissä uskotaan yleisesti kaikkivaltiuden olevan yksi Jumalan ominaisuuksista.
 * [Jumalan olemassaolo](../articles/jumalan-olemassaolo.md) — Jumalan olemassaoloa ei voida koskaan todistaa aukottomasti.
-* [Jumalharha (kirja)](../articles/jumalharha-kirja.md) — Jumalharha (The God Delusion, (https://fi.wikipedia.org/wiki/2006)) on uusateismin huomattavimman saarnamiehen Richard Dawkinsin kirjoittama….
+* [Jumalharha (kirja)](../articles/jumalharha-kirja.md) — Jumalharha (The God Delusion, 2006) on uusateismin huomattavimman saarnamiehen Richard Dawkinsin kirjoittama uskontokriittinen kirja, jossa Dawkins….
 * [Luonnollinen Jumalatieto](../articles/luonnollinen-jumalatieto.md) — Ateistinen uskontotieteilijä Jesse Bering kertoo kirjassaan Jumalvaisto (The God Instinct, 2011), kuinka hän seitsemän vuotta vanhana oli rikkonut….
 * [Miksei Jumala ilmoita itseään selvästi?](../articles/miksei-jumala-ilmoita-itseään-selvästi-v2.md) — Jos Jumala haluaa, että uskon häneen, hän voisi kai hoitaa asian helposti.
 * [Projektiivinen ateistinen teoria](../articles/projektiivinen-ateistinen-teoria.md) — Projektiivinen ateistinen teoria on yksi tunnetuimmista esitetyistä kumoajista teismille.

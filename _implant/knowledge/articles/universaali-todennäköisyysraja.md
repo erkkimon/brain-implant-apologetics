@@ -4,7 +4,7 @@ about: apologetics
 title: "Universaali todennäköisyysraja"
 description: "Universaali todennäköisyysraja on probabilistinen kynnysarvo, jonka on keksinyt ja määritellyt William A."
 tags: [apowiki, suunnitteluteoria]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Universaali todennäköisyysraja".
@@ -51,8 +51,6 @@ If the latter quantity equals 10<sup>150</sup>, then the overall universal proba
 * [Selityssuodatin](selityssuodatin.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: "*A degree of improbability below which a specified event of that probability cannot reasonably be attributed to chance regardless of whatever probabilitistic resources from the known universe are factored in.*"[`http://www.iscid.org/encyclopedia/Universal_Probability_Bound` ISCID Encyclopedia of Science and Philosophy] (1999)
 [^2]: Negligible means having probability zero. Effectively negligible means, roughly,  that in some operational <!-- red link: operational definition --> sense or in some computational sense, the event is indistinguishable from a negligible one.

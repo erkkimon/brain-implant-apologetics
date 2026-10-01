@@ -4,7 +4,7 @@ about: apologetics
 title: "Ihminen vs. simpanssi"
 description: "Evoluutioteoreettisen polveutumisopin perusteella sitä, että ihmisen ja \"lähimpänä sukulaisenamme\" markkinoidun simpanssin genomit ovat lähes identtisiä, on pidetty pitkään suorastaan itsestäänselvyytenä."
 tags: [apowiki, tyngät, evoluutioteoria]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ihminen vs. simpanssi".
@@ -46,8 +46,6 @@ Tuoreimpien tutkimusten mukaan alkaa näyttää siltä, että DNA-samankaltaisuu
 * Casey Luskin, [Critically Analyzing the Argument from Human/Chimpanzee Genetic Similarity](http://www.evolutionnews.org/2011/09/critically_analyzing_the_argum051321.html), 30.9.2011, viitattu 4.10.2011
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Anders Priemé, *Se tärkeä ero*, Tieteen Kuvalehti (`http://www.tieteenkuvalehti.com/polopoly.jsp?a=1219&id=8827`), 2, 36-41
 [^2]: Jon Cohen, *[Relative Differences: The Myth of 1%](http://www.sciencemag.org/cgi/content/full/316/5833/1836)*, Science, Vol. 316. no. 5833, p. 1836

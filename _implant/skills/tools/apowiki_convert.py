@@ -419,7 +419,11 @@ class Converter:
             return ""
         if name.startswith("viitteet") or name == "reflist":
             self.stats["tmpl_reflist"] += 1
-            return "\n\n## Viitteet\n\n<!-- footnotes render here -->\n"
+            # A placeholder, not the heading itself: blocks() runs later and
+            # reads a line starting "## " as a numbered list item (wikitext
+            # "#"), which turned this heading into "1. Viitteet" in 350
+            # articles until 2026-10-01.
+            return "\n\n<!-- footnotes render here -->\n"
         if name == "rp":
             # An inline scripture reference ("Matt. 5:32"). It links to the
             # book's page on the spine, which binds it to the theology
@@ -853,13 +857,20 @@ class Converter:
         body = self.gfm_tables(body)
         body = re.sub(r"<!--\s*red link:", "<!-- red link:", body)
         body = re.sub(r"\n{3,}", "\n\n", body).strip()
+        if not notes:
+            body = body.replace("<!-- footnotes render here -->", "").strip()
 
         # Footnote definitions go at the end, under the references heading the
         # {{viitteet}} template already produced (or one we add).
+        mark = "<!-- footnotes render here -->"
         if notes:
-            if "## Viitteet" not in body:
+            if re.search(r"^#{2,6} Viitteet\s*" + re.escape(mark), body, re.M):
+                body = body.replace(mark, "")       # the wiki wrote the heading
+            elif mark in body:
+                body = body.replace(mark, "## Viitteet", 1).replace(mark, "")
+            elif "## Viitteet" not in body:
                 body += "\n\n## Viitteet\n"
-            body = body.replace("<!-- footnotes render here -->", "").rstrip()
+            body = body.rstrip()
             body += "\n\n" + "\n".join(
                 f"[^{i + 1}]: {n}" for i, n in enumerate(notes) if n)
 
@@ -902,10 +913,11 @@ class Converter:
         text = re.sub(r"^\|.*$", "", text, flags=re.M)
         text = re.sub(r"```wikitext.*?```", "", text, flags=re.S)
         text = re.sub(r"<!--.*?-->", "", text, flags=re.S)
-        text = re.sub(r"\[\^?\d+\]:?", "", text)
         # Markdown links: keep the label, drop the target, or the description
-        # reads "Herman Dooyeweerd(herman-dooyeweerd.md)".
+        # reads "Herman Dooyeweerd(herman-dooyeweerd.md)". Links go before
+        # footnote markers: a link labelled "[1960]" is not a footnote.
         text = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", text)
+        text = re.sub(r"\[\^\d+\]:?", "", text)
         text = re.sub(r"[*>#\[\]]", "", text)
         text = re.sub(r"\s+", " ", text).strip()
         if not text:

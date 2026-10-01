@@ -4,7 +4,7 @@ about: apologetics
 title: "Alfred Kinsey"
 description: "Kuva: Alfred Kinsey. Alfred Charles Kinsey 23.6. 1894- 25.8. 1956 oli yhdysvaltalainen hyönteistutkija ja eläintieteen professori."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Alfred Kinsey".
@@ -47,9 +47,7 @@ Tutkimuksen tulokset julkaistiin kahtena bestseller-raporttina. *Miehen sukupuol
  -->
 ### Lähteet
 
-  1. Viitteet
-
-
+## Viitteet
 
 ### Kirjallisuutta
 * Christenson, Cornelia, *Kinsey: A Biography*, Indiana University Press, 1971
@@ -58,8 +56,6 @@ Tutkimuksen tulokset julkaistiin kahtena bestseller-raporttina. *Miehen sukupuol
 * Jones, James, *Alfred C. Kinsey*, Norton, 2004
 * Kinsey, Alfred C. ym., *Naisen sukupuolinen käyttäytyminen*, (*Sexual behavior in the human female*, 1953.) Suomentanut Eila Harju, Valokirjat, 1954
 * Puolilmatka, Tapio, *Seksuaalivallankumous: perheen ja kulttuurin romahdus*, Perussanoma, 2017
-
-## Viitteet
 
 [^1]: [Kinsey Institute.](http://www.kinseyinstitute.org/about/)
 [^2]: [Yle, Dokumenttiprojekti: Tohtori Kinsey](http://vintti.yle.fi/yle.fi/d-projekti/arkisto/2006/tohtori_kinsey.html), viitattu 19.6.20

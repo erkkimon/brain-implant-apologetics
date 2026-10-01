@@ -4,7 +4,7 @@ about: apologetics
 title: "Ateistin vedonlyönti"
 description: "Ateistin vedonlyönti (t. \"ateistin vaaka\") on yhteisnimitys ateistien aikaansaannoksille heidän pyrkimyksissään Pascalin vedonlyönti -argumentin kumoamiseksi; itse nimityskin on ilmeisesti heidän keksintöään."
 tags: [apowiki, maailmankatsomus, ateismi, keskeneräiset-artikkelit]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ateistin vedonlyönti".
@@ -179,8 +179,6 @@ Asiaa voi havainnollistaa taulukolla:
 -->
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: engl. *Atheist's Wager*, siis nimenomaan "ateistin vedonlyönti", samoin kuin *Pascal's wager* (suom. m. "Pascalin vaaka") on kirjaimellisesti "Pascalin vedonlyönti"
 [^2]: Tarkoitus on käydä läpi ainakin Googlen haaviin ensimmäisinä tarttuvat sisällöltään relevantit kohteet.

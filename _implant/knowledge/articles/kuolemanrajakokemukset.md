@@ -4,7 +4,7 @@ about: apologetics
 title: "Kuolemanrajakokemukset"
 description: "Kysymys kuolemasta ja kuoleman jälkeisestä elämästä on aina ollut osa ihmisten uskonnollista ja filosofista pohdintaa."
 tags: [apowiki, sielu, paranormaalit-ilmiöt]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kuolemanrajakokemukset".
@@ -64,8 +64,6 @@ Vahvinta aineistoa ovat todennettavat kokemukset, joita ei voida selittää aivo
 *[Skeptikon käsikirja: Kehostapoistumiskokemus](http://www.skepsis.fi/ihmeellinen/kehostapoistumiskokemus.html)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Maurice Rawlings, *Kuoleman tuolla puolen*, Perussanoma Oy, 2000, s. 14, 951-888-124-3 ("Niillä jotka elvytetään henkiin sydämen toiminnan ja hengityksen palauttamisella, vain noin 20 % kertoo tuonpuoleisesta elämästä")
 [^2]: [Near Death Experiences and the Afterlife, Gary Habermas, viitattu 25.4.2017](http://www.veritas.org/near-death-experiences-and-afterlife/)

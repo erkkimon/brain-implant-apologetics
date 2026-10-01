@@ -4,7 +4,7 @@ about: apologetics
 title: "Usko, tiede ja Raamattu (kirja)"
 description: "Usko, tiede ja Raamattu on Tapio Puolimatkan kirjoittama kirja, joka analysoi raamattututkimuksen peruslähtökohtia ja lähestymistapoja."
 tags: [apowiki, kirjat, raamattu, eksegetiikka]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Usko, tiede ja Raamattu (kirja)".
@@ -207,8 +207,6 @@ Lisäksi on huomattava, että Raamatun keskuksessa ei ole irrallinen kokoelma to
 ##### 9. Arvostelukyky ja avoin keskusteluavaruus
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Alvin Plantinga, *Warranted Christian Belief*, [online](http://www.ccel.org/ccel/plantinga/warrant3.html), Oxford University Press, 2000, s. 246-247, ISBN 0-19-513192-4
 [^2]: Hasker, William: "*Evidentialism*", teoksessa Audi, Robert (toim.), *The Cambridge Dictionary of Philosophy*, Cambridge: Cambridge University Press, 1996

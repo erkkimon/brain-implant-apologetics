@@ -4,7 +4,7 @@ about: apologetics
 title: "Alexander Pruss"
 description: "Alexander Robert Pruss (syntynyt tammikuus 5, 1973) on kanadalainen filosofi, filosofian professori Baylor yliopistossa, Wacossa, Texasissa."
 tags: [apowiki, henkilöt]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Alexander Pruss".
@@ -60,8 +60,6 @@ Kirjassaan *One Body*  Pruss puolustaa naisen ja miehen välistä avioliittoa ve
 *Pruss, Alexander. "The Actual and the Possible" In Richard M. Gale (ed.), *Blackwell Guide to Metaphysics*, Oxford: Blackwell, 2002.
 
 ### Viitteet
-
-  1. Viitteet
 
 
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "The Myth of Religious Neutrality (kirja)"
 description: "Roy Clouser argumentoi kirjassaan, että tieteellinen ajattelu on aina uskonnollisesti sitoutunutta."
 tags: [apowiki, kirjat, filosofia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "The Myth of Religious Neutrality (kirja)".
@@ -59,8 +59,6 @@ Edellä esitetyt vaihtoehdot ovat vain esimerkkejä lukemattoman monista erilais
 Kaikkea uskonnollista ajattelua näyttää siis yhdistävän periaate, että jumalallinen on se, mitä ei tarvitse selittää millään, mutta jonka avulla selitetään kaikki muu, tai mikä ei riipu mistään muusta, mutta josta kaikki muu riippuu. Tälle määritelmälle voidaan esittää vasta-argumentti: joidenkin teorioiden mukaan se, mikä on kaiken perusta, on myös ainoa, mitä on olemassa. Esimerkiksi materialistien mielestä kaikki on riippuvaista aineesta ja energiasta, jotka ovat myös ainoat, mitä yleensä on olemassa. Tämä vastaväite ei kuitenkaan ole loppuun saakka pitävä. Vaikka materialisti pitääkin ainetta ja energiaa perimmäisenä todellisuutena ja katsoo kaiken olevaisen koostuvan aineesta ja energiasta, hän ei pidä kokemuksessa ilmeneviä aineen ja energian yhdistelmiä ja ilmenemismuotoja pysyvinä. Niinpä hän joutuu vetoamaan joihinkin perimmäisiin aineen ja energian tekijöihin ja lainalaisuuksiin selittääkseen kokemuksessa ilmeneviä muutoksia. Näille perimmäisille tekijöille hän antaa itseriittoisen aseman ja ne ovat siten hänen materialistisen uskontonsa lähtökohtana.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: [Clouser, Roy](roy-clouser.md), *The Myth of Scientific Neutrality*, Notre Dame, Ind.: Notre Dame University Press, 2005, s. 46
 [^2]: Mach, Ernst: The Analysis of Sensation, teoksessa Blackmore, J. (toim.), *Ernst Mach*, Berkeley: University of California Press, 1972, s. 327, viite 14

@@ -4,7 +4,7 @@ about: apologetics
 title: "Jumalan hyvyys"
 description: "Raamatun mukaan vain Jumala on hyvä. Jumalan hyvyys on usein kyseenalaistettu, mutta Jumalan hyvyydellä ei ole mitään tekemistä Jumalan olemassaolon kanssa."
 tags: [apowiki, jumala, etiikka]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jumalan hyvyys".
@@ -41,8 +41,6 @@ Mauri on kiltti, dementoitunut ja kuuro vanha mies, joka harrastuksena on kulkea
 Jatkakaamme kuitenkin tarinaa. Rollaattori jatkaa matkaansa risteykseen, jossa rekka ajaa rollaattorin yli ja se tuhoutuu täysin. Tämän jälkeen toinenkin rekka ajaa sen yli. Martti siis pelastikin Maurin hengen tiputtamalla hänet rollaattorin kyydistä, koska hän ei voinut mitenkään kommunikoida kuuron Maurin kanssa. Hän ei voinut myöskään saada Mauria kiinni. Onko jalkojen irti ampuminen tästä näkökulmasta paha vai hyvä teko? Tällä hetkellä näyttäisi siltä, että teko oli hyvä. Ehkä Mauri oli uskossa ampumishetkellä ja olisi päässyt taivaaseen, mutta ampumavälikohtauksen jälkeen hän syystä tai toisesta luopui uskostaan ja joutui helvettiin. Ehkä teko aiheuttikin vain pahaa? Tätä on mahdotonta tietää. Kaikki riippuu tapahtumien lopullisista seurauksista, jotka tiedetään vasta aivan lopussa, ja sinne voi olla edelleen tuhansia vuosia aikaa. Meidän on muun muassa tästä syystä varsin hankala lähteä arvioimaan, mikä on hyvää ja mikä pahaa. Tämän takia vain ikuinen Jumala voi tietää.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: ([Mark. 10:18](../books/mrk.md))
 [^2]: [Jumala ei ole kiva -argumentti](jumala-ei-ole-kiva-argumentti.md)

@@ -4,7 +4,7 @@ about: apologetics
 title: "Usko ja tieto"
 description: "Länsimaisessa populaarikulttuurissa vallitsevan näkemyksen mukaan usko ja tieto ovat toistensa vastakohtia tai ainakin täysin riippumattomia toisistaan."
 tags: [apowiki, epistemologia, lukusuositukset]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Usko ja tieto".
@@ -357,8 +357,6 @@ Evidentialistit vetoavat joskus siihen, ettei Jumalan olemassaolon puolesta ole 
 Yhden agnostismin muunnelman mukaan Jumalasta ei voida esittää mielekkäitä väitteitä, koska inhimillinen kieli ei sovellu Jumalasta puhumiseen. Tämän näkemyksen mukaan Jumalasta ei ole mahdollista puhua reaalisesti olemassaolevana olentona. Näitä määritelmiä ja rajauksia tehdessään agnostikot kuitenkin samalla ylittävät vetämänsä rajan ja puhuvat Jumalasta sekä pyrkivät määrittelemään hänen olemustaan tavalla, joka heidän oman teoriansa mukaan on mahdotonta. Koska teistinen realisti olettaa Jumalan luoneen ihmisen ja koko maailmankaikkeuden, hänen on luonnollista olettaa, että ihminen pystyy puhumaan Jumalasta. Niinpä agnostista teoriaa vaivaavaa sisäistä ristiriitaa ei pääse syntymään realistisessa teistisessä lähestymistavassa.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: [Plantinga, Alvin](alvin-plantinga.md), *[Warranted Christian Belief](warranted-christian-belief-kirja.md)*, New York: Oxford University Press, 2000, s. 246-247
 [^2]: Antony Flew: *Indoctrination and Religion*, teoksessa I. A. Snook (toim.), *Concepts of Indoctrination. Philosophical Essays*, London: Routledge, 1972, s. 107

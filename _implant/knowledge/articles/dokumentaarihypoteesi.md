@@ -4,7 +4,7 @@ about: apologetics
 title: "Dokumentaarihypoteesi"
 description: "Dokumentaarihypoteesi on yksi kaikkein vaikutusvaltaisimmista Vanhan testamentin tutkimuksessa esitetyistä lähdeteorioista."
 tags: [apowiki, raamattu, eksegetiikka]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Dokumentaarihypoteesi".
@@ -80,8 +80,6 @@ Raamatun kirjojen hienosyinen rakenteellinen yhtenäisyys on yksi kaikkein silmi
 Kirjallisuusanalyyttinen tutkimus kyseenalaistaa sellaisen tutkimuksen pätevyyden, joka kohdistuu niin kapea-alaisesti tekstikatkelmaan, lauseilmaisuun tai sanaan, että se unohtaa laajemman kirjallisen kokonaisuuden. Uudet kriitikot ovat paljon kiinnostuneempia siitä, miten kukin lause, sana tai symboli esimerkiksi Mooseksen kirjoissa toimii koko Pentateukin yhteydessä. Tällaisessa kirjallisuusanalyyttisessa tutkimuksessa on hyvin vaikea tehdä eroa toimitustyön ja suullisten ja kirjallisten lähteiden välillä. Tämä tosiasia näyttää melko ilmeiseltä, mutta historiallis-kriittiset tutkijat jättävät sen tavallisesti huomiotta. Tämä ei tarkoita sitä, että uudet kirjallisuuskriittiset tutkijat olisivat kiinnostuneita Mooseksen kirjojen historiallisuudesta. Päinvastoin: heistä tunnetuimmat suhtautuvat Mooseksen kirjoihin pääasiallisesti irrallaan historiasta. Tässä suhteessa ne vievät raamattukritiikkiä ongelmalliseen suuntaan. Ne ovat kuitenkin esimerkkejä tutkimuksellisista lähestymistavoista, joissa Mooseksen kirjoja tarkastellaan yhtenäisinä kokonaisuuksina. Nämä lähestymistavat kyseenalaistavat historiallis-kriittiselle tutkimukselle ominaisen tekstiä pilkkovan lähestymistavan.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Cassuto, Umberto, *The Documentary Hypothesis*, Jerusalem: Magnes, 1961
 [^2]: Archer, Gleason, *A Survey of Old Testament Introduction. Revised and expanded.*, Chicago: Moody Press, 1994

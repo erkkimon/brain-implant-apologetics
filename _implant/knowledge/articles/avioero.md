@@ -4,7 +4,7 @@ about: apologetics
 title: "Avioero"
 description: "Kuva: Avioeron vaikutukset lapsiin ovat tutkimusten perusteella kielteisiä, mutta kielteiset vaikutukset näkyvät vasta yli 12-vuotiailla lapsilla ja eritoten näiden lasten kasvettua aikuisiksi heidän muodostaessa parisuhteita."
 tags: [apowiki, seksuaalietiikka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Avioero".
@@ -256,8 +256,6 @@ Näin siis parisuhteen epävakaus näyttäisi olevan yksi keskeinen tekijä, jok
 *Wright, Wendy (2013) “French Homosexuals Join Demonstration Against Gay Marriage”, Catholic Family & Human Rights Institute, January 18, 2013.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Anderson 2015: 40
 [^2]: Wilcox 2006

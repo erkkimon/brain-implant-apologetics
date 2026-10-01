@@ -4,7 +4,7 @@ about: apologetics
 title: "Kosminen lähiömme"
 description: "Maapallo on erittäin hyvä paikka asua universumissamme. Suurin osa planeetoista on elämälle kelpaamattomia."
 tags: [apowiki, kosmologia, suunnitteluteoria, hienosäätö, astrobiologia, kosminen, paikka, maapallo, linnunrata, kuu, aurinko, antrooppinen-periaate, kosminen-hienosäätö]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kosminen lähiömme".
@@ -67,8 +67,6 @@ Maapallo on erittäin hyvä paikka asua universumissamme. Suurin osa planeetoist
 *[Rare Earth: Why Complex Life Is Uncommon in the Universe](http://www.amazon.com/Rare-Earth-Complex-Uncommon-Universe/dp/0387952896/ref=sr_1_1?ie=UTF8&s=books&qid=1253472606&sr=1-1) -kirja
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: G. Gonzales, Habitable Zones in the Universe, [arXiv:astro-ph/0503298v2](http://xxx.lanl.gov/abs/astro-ph/0503298)
 [^2]: H. Ross, Why the Universe is the way it is?, 2008, Baker Books.

@@ -4,7 +4,7 @@ about: apologetics
 title: "Jeesuksen historiallisuus"
 description: "Jeesus Nasaretilaisen olemassaolon kieltäminen on yleinen ja muodikas tapa leimata kristinusko naurettavaksi."
 tags: [apowiki, jeesus, historia]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jeesuksen historiallisuus".
@@ -226,8 +226,6 @@ Kenties tuotteliain Jeesuksen historiallisuuden kieltävä raamatuntutkija on [G
 * [Pasi Turunen: Kovaa näyttöä Jeesuksesta Raamatun ulkopuolelta?](http://uskonpuolesta.blogspot.com/2010/08/kovaa-nayttoa-jeesuksesta-raamatun.html)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: "The nonhistoricity thesis has always been controversial, and it has consistently failed to convince scholars of many disciplines and religious creeds. - - Biblical scholars and classical historians now regard it as effectively refuted." - Robert E. Van Voorst, Jesus Outside the New Testament: An Introduction to the Ancient Evidence (Grand Rapids, MI: Eerdmans, 2000), p. 16. "There are those who argue that Jesus is a figment of the Church’s imagination, that there never was a Jesus at all. I have to say that I do not know any respectable critical scholar who says that any more.” Burridge, R & Gould, G, Jesus Now and Then, Wm. B. Eerdmans, 2004, p.34
 [^2]: Michael Martin; John Mackinnon Robertson

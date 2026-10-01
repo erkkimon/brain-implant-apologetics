@@ -4,7 +4,7 @@ about: apologetics
 title: "Kohu kirjoituksesta \"Kampanja pedofilian laillistamiseksi\""
 description: "Elokuussa 2018 nousi kohu Tapio Puolimatkan kirjoittamasta mielipidekirjoituksesta \"Kampanja pedofilian laillistamiseksi\", joka julkaistiin Oikea Media -julkaisun vieraskynäpalstalla."
 tags: [apowiki, tapio-puolimatka, media]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kohu kirjoituksesta "Kampanja pedofilian laillistamiseksi"".
@@ -779,8 +779,6 @@ Puolimatka vastasi Dahlille ja Vikströmille Vasabladetissa (16.8. 2018):
 * [Douglas Allen](douglas-allen.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: [JYY:n twiitti](https://twitter.com/JYYtwiittaa/status/1024585516220600320), 1.8.2018, viitattu 7.9.2018
 [^2]: [Keijo Hämäläisen twiitti](https://twitter.com/KeijoHamalainen/status/1024633681405784064), 1.8.2018, viitattu 7.9.2018

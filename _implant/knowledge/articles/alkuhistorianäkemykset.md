@@ -4,7 +4,7 @@ about: apologetics
 title: "Alkuhistorianäkemykset"
 description: "Alkuhistorianäkemykset ovat käsityksiä siitä, mitä on tapahtunut ennen kuin kukaan meistä ihmisistä oli tarkkailemassa tapahtumia."
 tags: [apowiki, alkuperähypoteesit]
-timestamp: 2026-10-01T20:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Alkuhistorianäkemykset".
@@ -49,8 +49,6 @@ Alla olevaan taulukkoon on tiivistetty päänäkemykset:
 | **Naturalistinen tieteisusko'''[^18] | Kehittynyt pitkien ajanjaksojen kuluessa vähitellen ohjaamattomasti ja tarkoituksettomasti muista kädellisistä. | Kehittyneet pitkien ajanjaksojen kuluessa vähitellen ohjaamattomasti ja tarkoituksettomasti yhteisestä esivanhemmasta. | Koulukirja-ajoitus. Ihmisen olemassaolon aikana ei maailmanlaajuista tulvaa, aikaisemmin voinut olla monia globaalejakin katastrofeja: esim. monet nykyiset vuoristot ovat fossiililöydösten perusteella entistä merenpohjaa, eivätkä niihin fossiloituneet kalat olleet ehtineet uida pois. | Syntynyt ja kehittynyt ohjaamattomasti ja tarkoituksettomasti itsestään. Koulukirja-ajoitus. |
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: tai vastausehdotukset
 [^2]: tarkoituksella tai tahattomasti

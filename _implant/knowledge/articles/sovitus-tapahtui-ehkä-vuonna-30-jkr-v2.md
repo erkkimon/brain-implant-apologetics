@@ -4,7 +4,7 @@ about: apologetics
 title: "Sovitus tapahtui ehkä vuonna 30 jKr."
 description: "Talmudin mukaan noin vuodesta 30 eteenpäin juutalaisten sovitusuhrit eivät enää kelvanneet Jumalalle."
 tags: [apowiki, historia]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Sovitus tapahtui ehkä vuonna 30 jKr.".
@@ -76,8 +76,6 @@ Mitä näistä ihmeistä voidaan päätellä?
 * [Mitä tuona kohtalokkaana päivänä oikein tapahtui?](http://takkirauta.blogspot.com/2011/04/mita-tuona-kohtalokkaana-paivana-oikein.html) (takkirauta.blogspot.com)
 -->
 ### Viitteet
-
-  1. Viitteet
 
 
 

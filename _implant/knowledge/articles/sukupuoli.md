@@ -4,7 +4,7 @@ about: apologetics
 title: "Sukupuoli"
 description: "Biologinen sukupuoliero perustuu naisen ja miehen toisiaan täydentäviin tehtäviin lisääntymisessä."
 tags: [apowiki, etiikka, lukusuositukset]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Sukupuoli".
@@ -153,8 +153,6 @@ Mikäli transsukupuolisuudesta kirjoittaa tutkijana toisin kuin transaktivistit 
 *[College Kids Say the Darndest Things: On Identity – Family Policy Institute of Washington](https://youtu.be/xfO1veFs6Ho)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Mayer, Lawrence S. & McHugh, Paul R., *Sexuality and Gender: Findings from the Biological, Psychological, and Social Sciences*, "*The  concept  of  biological  sex  is  well  defined,  based  on  the  binary  roles that  males  and  females  play  in  reproduction*", The New Atlantis, 2016, s. 86
 [^2]: [Hlbtiq-sanasto](http://transtukipiste.fi/hlbtiq-sanasto/), Seta Ry, 2013, Sukupuolen moninaisuus, viitattu 24.5.2017

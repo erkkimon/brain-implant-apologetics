@@ -4,7 +4,7 @@ about: apologetics
 title: "Alvin Plantinga"
 description: "Alvin Carl Plantinga (1932 -) on amerikkalainen kristitty filosofi."
 tags: [apowiki, alvin-plantinga, teismi, filosofia]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Alvin Plantinga".
@@ -384,8 +384,6 @@ Asian näin ollen fundamentalismi-syytettä on vaikea ottaa vakavasti, koska se 
 * *Knowledge of God* (Alvin Plantinga & Michael Tooley). Oxford: Blackwell. 2008. ISBN 0-63-119364-2
 
 ## Viitteet
-
-  1. Viitteet
 
 [^1]: [University of Notre Dame, Department of Philosophy: Alvin Plantinga](https://philosophy.nd.edu/people/emeritus/alvin-plantinga/)
 [^2]: Alvin Plantinga, *God and Other Minds*, Ithaca: Cornell University Press, 1967, ISBN 0-8014-9735-3

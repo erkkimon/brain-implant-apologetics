@@ -4,7 +4,7 @@ about: apologetics
 title: "Okkultismi"
 description: "Sana okkultismi juontaa juurensa latinankielisestä sanasta occultus, joka tarkoittaa kätkettyä."
 tags: [apowiki, paranormaalit-ilmiöt]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Okkultismi".
@@ -342,8 +342,6 @@ Okkultismia harrastaneiden ihmisten vapautuminen harrastusten aiheuttamista psyy
 
 -->
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: The Oxford American Dictionary (1982) New York, Avon, s. 617
 [^2]: Hawkins C. S., "The Many Faces of Satanism", Christian Research Journal, Fall 1986, s. 17

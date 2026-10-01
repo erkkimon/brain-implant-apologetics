@@ -4,7 +4,7 @@ about: apologetics
 title: "Luominen Raamatussa"
 description: "Tähän artikkeliin on koottu luomiseen liittyviä raamatunkohtia: (1."
 tags: [apowiki, raamattu, luomisoppi]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Luominen Raamatussa".
@@ -232,8 +232,6 @@ Tähän artikkeliin on koottu luomiseen liittyviä raamatunkohtia:[^1][^2]
  ([Ilm. 22:2,3,14](../books/rev.md))
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: `http://www.reasons.org/resources/apologetics/p0014.shtml`
 [^2]: http://taustaa.fi/taustaa1/33.htm

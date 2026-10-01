@@ -4,7 +4,7 @@ about: apologetics
 title: "Abraham Kuyper"
 description: "Abraham Kuijper (Maassluis, 29.10.1837 – Den Haag, 8.11 1920), joka yleisesti tunnetaan nimellä Abraham Kuyper, oli hollantilainen poliitikko, lehtimies, valtiomies ja teologi."
 tags: [apowiki, henkilöt]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Abraham Kuyper".
@@ -43,8 +43,6 @@ Yksi keskeinen ero koskee kristillistä oppia syntiinlankeemuksesta ja lunastuks
 Lähtökohtien erilaisuus ei kuitenkaan estä yhteistyötä, mutta kriittisyyden kannalta on tärkeä tehdä lähtökohdat näkyviksi.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Kuyper 1931: 131–132
 [^2]: Wolterstorff 1993: 270

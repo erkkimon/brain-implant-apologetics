@@ -4,7 +4,7 @@ about: apologetics
 title: "Konstruktivistinen tietoteoria"
 description: "Konstruktivistista tietoteoriaa on mielekästä käsitellä kahdessa osassa sen mukaan, puhutaanko yksilön muodostamista tietorakenteista vai yhteisöllisistä tiedollisista järjestelmistä kuten tieteellisestä tiedosta."
 tags: [apowiki, filosofia, epistemologia, tieteenfilosofia]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Konstruktivistinen tietoteoria".
@@ -244,7 +244,7 @@ Vahvan sosiaalisen konstruktivismin käsitys tieteestä ei siis tee oikeutta tie
 ### Viitteet
 * Lähdeteos: Puolimatka, T., *Opetuksen teoria: Konstruktivismista realismiin*, Helsinki: Tammi, 2002
 
-  1. Viitteet
+## Viitteet
 
 [^1]: Lerman S., *Constructivism, Mathematics, and Mathematics Education*, Education Studies in Mathematics 20, 1989, s. 212
 [^2]: Devitt, M., *Realism and Truth*, Oxford: Blackwell, 1991, s. 235 Suomennos Lammenranta, M., *Tietoteoria*, Tampere: Gaudeamus, 1993, s. 58

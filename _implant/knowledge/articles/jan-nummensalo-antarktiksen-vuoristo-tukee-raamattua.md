@@ -4,7 +4,7 @@ about: apologetics
 title: "Jan Nummensalo: Antarktiksen vuoristo tukee Raamattua"
 description: "Lähes keskellä Antarktiksen mannerta sijaitsee Euroopan Alppien kokoinen Gamburtsev nimen saanut vuoristo."
 tags: [apowiki, tekijänoikeuden-alaiset-artikkelit, luomisoppi]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jan Nummensalo: Antarktiksen vuoristo tukee Raamattua".
@@ -27,10 +27,6 @@ Tutkimustulos on hyvin sopusoinnussa monien Raamattuun uskovien geologien näkem
 Jan Nummensalo
 
 Lähteet:
-
-  1. Viitteet
-
-
 
 ## Viitteet
 

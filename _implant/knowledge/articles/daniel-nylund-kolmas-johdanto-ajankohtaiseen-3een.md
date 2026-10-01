@@ -4,7 +4,7 @@ about: apologetics
 title: "Daniel Nylund: Kolmas johdanto Ajankohtaiseen 3:een"
 description: "Tästä kirjoituksesta tehtiin noin parikymmentä vuotta sitten kaksi painosta, muistaakseni yhteensä 25 000 kappaletta."
 tags: [apowiki, maailmankatsomus, tekijänoikeuden-alaiset-artikkelit]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Daniel Nylund: Kolmas johdanto Ajankohtaiseen 3:een".
@@ -95,7 +95,5 @@ En ole kokonaan luopunut apologia-projektistani. Itse asiassa olen keskittynyt s
 * [VII luku: Entä sitten? Epäilen silti](daniel-nylund-entä-sitten-epäilen-silti-ajankohtainen-3-vii-luku.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: http://www.ystavyydenmajatalo.fi

@@ -4,7 +4,7 @@ about: apologetics
 title: "Daniel Nylund: Maailmankatsomuksen tulee olla oikeaksi koettava ja sisäisesti tyydyttävä (Ajankohtainen 3, VI luku)"
 description: "Jos keskivertokansalainen saisi lonkalta esittää laatuvaatimuksensa uskottavalle maailmankatsomukselle, hän luultavasti edellyttäisi, että se tuntuisi hyvältä, olisi tarpeita tyydyttävä ja että sen voisi kokea oikeaksi."
 tags: [apowiki, maailmankatsomus, tekijänoikeuden-alaiset-artikkelit]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Daniel Nylund: Maailmankatsomuksen tulee olla oikeaksi koettava ja sisäisesti tyydyttävä (Ajankohtainen 3, VI luku)".
@@ -164,8 +164,6 @@ Kristillisen maailmankatsomuksen oikeaksi kokemisen surullinen puoli on se, ett�
 * [VII luku: Entä sitten? Epäilen silti](daniel-nylund-entä-sitten-epäilen-silti-ajankohtainen-3-vii-luku.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Siteerattu Charles I. Glicksbergin kirjasta Literature and Religion. Dallas, Southern Methodist University Press 1960, s. 221
 [^2]: J.P. Sartre, The Words. New York, George Braziller -64, ss. 97, 102

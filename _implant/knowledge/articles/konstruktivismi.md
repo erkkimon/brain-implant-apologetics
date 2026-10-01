@@ -4,7 +4,7 @@ about: apologetics
 title: "Konstruktivismi"
 description: "Konstruktivismi perustuu käsitteenä rakentamisen metaforaan, joten sitä voidaan selventää analysoimalla rakentamisen käsitteen eri ulottuvuuksia."
 tags: [apowiki, filosofia, kasvatusfilosofia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Konstruktivismi".
@@ -124,8 +124,6 @@ Konstruktivismin eri muunnelmat eivät välttämättä ole loogisesti riippuvais
 * Jokinen, A. & Juhila, K. & Suoninen, E., *Diskurssianalyysin aakkoset*, Tampere: Vastapaino, 2000
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: sanasta konstruoida, rakentaa
 [^2]: Nola, R.: Constructivism in Science and in Science Education: A Philosophical Critique, teoksessa Matthews, M. R., *Constructivism in Science Education. A Philosophical Examination*, Dordrecht: Kluwer Academic Publischers, 1998, s. 33

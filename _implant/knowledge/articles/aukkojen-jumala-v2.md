@@ -4,7 +4,7 @@ about: apologetics
 title: "Aukkojen jumala"
 description: "Aukkojen jumala on argumentti jonkin yliluonnollisen syyn olemassaolon puolesta tilanteessa, jossa havainnoitavissa on vain seurauksia."
 tags: [apowiki, lukusuositukset, argumentointi, jumala, tieteenfilosofia]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Aukkojen jumala".
@@ -153,8 +153,6 @@ Kun havaitsemme tietämyksessämme aukon, voimme tunkea siihen oman maailmankuva
 * aukkojen jumala -argumentin kieltäjä syyllistyy aukkojen jumala -tyyppiseen argumentointiin
 -->
 ### Viitteet
-
-  1. Viitteet
 
 
 

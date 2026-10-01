@@ -4,7 +4,7 @@ about: apologetics
 title: "Uusateismi"
 description: "Uusateismi on ateismin haara, johon liittyy kiinteästi monia perinteisiin uskontoihin liitettyjä piirteitä, erityisesti oman maailmankuvan aktiivinen levittäminen."
 tags: [apowiki, ateismi]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Uusateismi".
@@ -43,8 +43,6 @@ Vapaa-ajattelijoiden useiden kannanottojen mukaan uskonnonvapaus ei toteudu Suom
 * [Eero Huovinen: Uusateismin haaste](http://www.helsinginhiippakunta.evl.fi/piispa/helsingin_hiippakunnan_piispat/eero_huovinen/puheenvuoroja/?x20117=31485)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Tiainen, Timo, *Onko moderni ateismi häiveuskonto?*, Argumentti.fi, 16.3.2009, viitattu 4.11.2009 (*Toisaalla meillä on Dawkinsin, Harrisin, Dennettin ja Hitchensin vetämä uusateistinen (New Atheism) liikehdintä, jonka ajattelun mukaan uskonto on pahan lähde - -*)
 [^2]: [Asennetutkimus: Suomalaiset suhtautuvat uskontoon avarasti](https://www.teologia.fi/ajankohtaista/300-asennetutkimus-suomalaiset-suhtautuvat-uskontoon-avarasti), Kirkon tutkimuskeskus, 22.11.2007, viitattu 4.5.2017 (*Vielä harvemmat eli vain noin nelisen prosenttia ihmisistä pitää uskontoja epätosina ja ihmisille haitallisina uskomuksina.*)

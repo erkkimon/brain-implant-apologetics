@@ -4,7 +4,7 @@ about: apologetics
 title: "Ernst Troeltsch"
 description: "Ernst Troeltsch (17.2. 1865 – 1.2. 1923) oli saksalainen protestanttinen teologi ja uskonnonfilosofi."
 tags: [apowiki, henkilöt]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ernst Troeltsch".
@@ -46,8 +46,6 @@ Näillä perusteilla Alston[^2] kyseenalaistaa käsityksen, että historiatietee
 Toiseksi, vaikka tieteellinen tutkimus edellyttääkin maailman toimivan yleensä säännönmukaisesti, se ei edellytä ehdotonta säännönmukaisuutta. Vaikka luonnon säännönmukaisuuksissa olisi joitakin yksittäisiä poikkeuksia, ne eivät vie pohjaa lainalaisuuksien selvittämiseen tähtäävältä tieteelliseltä tutkimukselta. Usko Jumalaan ei ole ristiriidassa sen oletuksen kanssa, että luonto toimii yleensä säännönmukaisesti. Päinvastoin, järjellisen Luojan olettaminen tekee perustelluksi olettaa maailman toimivan säännönmukaisesti ja siten luo pohjan tieteelliselle tutkimukselle. Samalla usko järjelliseen Luojaan tekee mielekkääksi olettaa, että hän voi puuttua luonnon kulkuun niin halutessaan.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Thiselton, A.C., *The Two Horizons. New Testament Hermeneutics and Philosophical Description with special referenece to Heidegger, Bultmann, Gadamer and Wittgenstein*, Exeter: The Paternoster Press, 1980, s. 72
 [^2]: [Alston, W.](william-alston.md), *The Reliability of Sense Perception*, Ithaca: Cornell University Press, 1993, s. 244-245

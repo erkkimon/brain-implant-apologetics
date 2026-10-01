@@ -4,7 +4,7 @@ about: apologetics
 title: "Rajanvetokriteeri"
 description: "Jotta tieteelle voitaisiin vaatia ensisijaista tiedollista auktoriteettia, se tulisi pystyä erottamaan muista tiedon hankkimisen tavoista."
 tags: [apowiki, filosofia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Rajanvetokriteeri".
@@ -69,8 +69,6 @@ Tarinaan uskon ja tiedon vastakkainasettelusta ja tieteen ja uskon välisestä r
 Rajanvetokriteeriin vedotaan tiedekeskustelussa, vaikka *kukaan ei ole onnistunut täsmentämään ja älyllisesti perustelemaan rajanvetokriteeriä siten, että olisi perusteltua pitää naturalismia tieteen ainoana sallittuna lähtökohtana*. Rajanvetokriteeriin vedotaan naturalismin hallitsemassa tiedeyhteisössä pyrittäessä sulkemaan kaikki ei-naturalistiset lähtökohdat tieteen ulkopuolelle erityisesti keskusteltaessa maailmankaikkeuden ja elämän alkuperästä ja kehityksestä.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Laudan, Larry: *The Demise of the Demarcation Problem*, teoksessa Ruse, Michael & Pennock, Robert (toim.), *But Is It Science. The Philosophical Question in the Creation/Evolution Controversy*, Amherst: NY: Prometheus Books, 1996
 [^2]: Laudan 1996: 342–343

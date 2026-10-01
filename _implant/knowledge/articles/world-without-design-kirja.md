@@ -4,7 +4,7 @@ about: apologetics
 title: "World Without Design (kirja)"
 description: "World Without Design: The Ontological Consequences of Naturalism on Michael C."
 tags: [apowiki, kirjat, filosofia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "World Without Design (kirja)".
@@ -84,8 +84,6 @@ Supranaturalismin oletuksen mukaan naturalismin tiedonlähteiden rajoitukset aja
 *[Rea, Michael C.](michael-c-rea.md), *World Without Design*, Clarendon Press, 2002, 0-19-924760-9
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Rea 2002: 61
 [^2]: Rea 2002: 64

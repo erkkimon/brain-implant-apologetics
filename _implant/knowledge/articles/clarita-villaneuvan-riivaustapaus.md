@@ -4,7 +4,7 @@ about: apologetics
 title: "Clarita Villaneuvan riivaustapaus"
 description: "Tämä artikkeli tarkastelee paljon julkisuutta saanutta tapausta, joka sattui Filippiineillä keväällä 1952."
 tags: [apowiki, paranormaalit-ilmiöt]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Clarita Villaneuvan riivaustapaus".
@@ -94,8 +94,6 @@ Myös kristityille tapaus luo haasteita. Jos ja kun hengellinen ulottuvuus on to
 #### Internet
 -->
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Sumrall Lester (1987) Bitten by Devils, LeSEA Publishing, Indiana
 [^2]: Sumrall Lester (1994) Alien Entities, Whitaker Books, Springdale, PA

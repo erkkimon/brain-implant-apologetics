@@ -4,7 +4,7 @@ about: apologetics
 title: "Retorinen kritiikki (raamatuntutkimus)"
 description: "Retorinen kritiikki kiinnittää huomiota siihen, millä keinoin kirjoittaja pyrkii vaikuttamaan lukijoihinsa ja miten kerronnan piirteet edistävät näitä päämääriä."
 tags: [apowiki, eksegetiikka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Retorinen kritiikki (raamatuntutkimus)".
@@ -37,8 +37,6 @@ Retorista lähestymistapaa soveltavan tutkijan kiusauksena voi olla tulkita teks
 Merenlahti & Thuren[^5] ehdottavatkin, että retorinen tutkimus ei saa perustua pelkkään subjektiiviseen arvioon. Tutkimuksen kohteena olevaan tekstiin oletettavasti sisältyvät tehokeinot on tunnistettava antiikin retoriikan käsikirjoista tai muista teksteistä. Tutkijan on arvioitava, uskoiko kirjoittaja, että alkuperäisillä vastaanottajilla oli kykyä ymmärtää niitä oikein. Vaikeutena on se, että heprealainen retorinen traditio eroaa joissakin olennaisissa suhteissa kreikkalaisesta ja roomalaisesta retoriikasta, jonka perusta on Aristoteleen teoksessa Retoriikka. Heprealaista retorista perinnettä ei kuitenkaan ole vastaavalla tavalla systemaattisesti pohdittu ja analysoitu vanhoissa lähteissä.[^6]
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Trible, Phyllis, *Rhetorical Criticism: Context, Method and the Book of Jonah*, Minneapolis: Fortress Press, 1994, s. 32,41
 [^2]: Ackerman, James S.: "Joseph, Judah and Jacob", teoksessa Kenneth R. Gros Louis & James S. Ackerman (toim.), *Literary Interpretations of Biblical Narratives, Volume 2*, Nashville: Abingdon, 1982, s. 85-113

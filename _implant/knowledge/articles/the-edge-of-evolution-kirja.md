@@ -4,7 +4,7 @@ about: apologetics
 title: "The Edge of Evolution (kirja)"
 description: "The Edge of Evolution: The Search for the Limits of Darwinism (EOE) on biokemian professori Michael Behen kirjoittama kirja, jossa hän käsittelee evoluutiomekanismien empiirisesti todettuja rajoitteita."
 tags: [apowiki, kirjat, suunnitteluteoria, evoluutioteoria]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "The Edge of Evolution (kirja)".
@@ -134,8 +134,6 @@ Eli Behe on ihan selkeästi sitä mieltä, että kyseinen ominaisuus ilmaantui e
 *[Nature-lehdessä 2009 julkaistun artikkelin tulokset vahvistavat Behen argumenttia](http://behe.uncommondescent.com/2009/09/nature-publishes-paper-on-the-edge-of-evolution-part-1/).
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Whitman, W. B., Coleman, D. C., Wiebe, W. J. 1998. Prokaryotes: the unseen majority. Proc. Natl. Acad. Sci. USA 95:6578-83
 [^2]: bakteereiden lukumäärä on reilusti suurempi kuin muiden eliöiden yhteensä.

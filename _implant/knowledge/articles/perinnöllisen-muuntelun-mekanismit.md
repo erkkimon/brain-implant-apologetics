@@ -4,7 +4,7 @@ about: apologetics
 title: "Perinnöllisen muuntelun mekanismit"
 description: "Perinnöllisen muuntelun mekanismeja ovat muun muassa luonnonvalinta, seksuaalivalinta, mutaatiot) ja migraatio."
 tags: [apowiki, evoluutioteoria]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Perinnöllisen muuntelun mekanismit".
@@ -74,7 +74,3 @@ Yleisen käsityksen mukaan 45 miljoona vuotta sitten Australian [mannerlaatta](h
 *[Evoluutio](evoluutio-täsmennyssivu.md)
 
 ### Viitteet
-
-  1. Viitteet
-
-<!-- footnotes render here -->

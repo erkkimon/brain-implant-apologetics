@@ -4,7 +4,7 @@ about: apologetics
 title: "Koulumassamurhat"
 description: "Koulumassamurhilla tarkoitetaan suomalaisessa kontekstissa lähinnä Jokelan ja Kauhajoen kouluissa tapahtuneita massamurhia."
 tags: [apowiki, yleistä-tietoa, lukusuositukset, ääriateismi, koulumassamurhat, kouluammuskelut, kouluammuskelu, koulusurmat, koulusurma, koulumassamurha, massamurha, ateismi, kritiikki, fundamentalismi, fundamentalistinen, fundamentalisti]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Koulumassamurhat".
@@ -73,8 +73,6 @@ Kun massamurhaaja on päättänyt tehdä itsemurhan, hänen on Himasen mielestä
 * [Erkkimon: Tyhmyyttä, vaiko vain väärinymmärrystä?](http://irc-galleria.net/blog.php?nick=Erkkimon&beid=30713620&action=showcomments) – ApologetiikkaWikin *Koulumassamurhat*-artikkelin kritiikin kritiikki
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Leisola, Matti, *Troijan puuhevonen ja elämän tarkoitus*, Etelä-Suomen Sanomat, 16 (*Julkisuudessa on pohdittu melko pinnallisia syitä tapahtuneisiin hirmutekoihin. Puhutaan mielenterveysongelmista, yksinäisyydestä, vihasta ja nettiväkivallan lisääntymisestä.*)
 [^2]: Leisola, Matti, *Troijan puuhevonen ja elämän tarkoitus*, Etelä-Suomen Sanomat, 16 (*On erikoista, että esimerkiksi Jokelan ampujan omaa selitystä teolleen ei osata lukea oikein. Hänen ajattelunsa perustui darwinistiseen luonnonvalinnan oppiin ja ateistiseen nietzcheläiseen tarkoituksettomuuden filosofiaan.*)

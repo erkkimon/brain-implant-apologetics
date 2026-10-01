@@ -4,7 +4,7 @@ about: apologetics
 title: "William Whewell"
 description: "William Whewell (1794-1866) oli eräs modernin tieteenfilosofian ja -historian tärkeimmistä pioneereista."
 tags: [apowiki, henkilöt, filosofia]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "William Whewell".
@@ -64,8 +64,6 @@ Paitsi että tieteen historian tutkimus on kääntynyt pois positivismin tieteen
 * (1866) Comte and Positivism. [*Macmillan's Magazine* **13**](http://www.archive.org/details/macmillansmagazi13macmuoft):353-62.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Whewell, W, *The Philophy of the Inductive Sciences, Founded upon Their History. 2<sup>nd</sup> ed.*, London: Paker, 1847, s. II 329
 [^2]: Cohen, H. F., *The Scientific Revolution: A Histographical Inquiry*, Chicago, III.: The University of Chicago Press, 1994, s. 36

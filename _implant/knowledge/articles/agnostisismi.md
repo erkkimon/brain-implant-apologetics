@@ -4,7 +4,7 @@ about: apologetics
 title: "Agnostisismi"
 description: "Valoa on kylliksi niille jotka vain haluavat nähdä, ja on kyllin hämärää niille joilla eivät halua."
 tags: [apowiki, filosofia]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Agnostisismi".
@@ -119,8 +119,6 @@ Siinä vaiheessa kun teisti tai ateisti on esittänyt agnostikolle Jumalan olema
 * [Daniel Nylund: Maailmankatsomuksen tulee olla oikeaksi koettava ja sisäisesti tyydyttävä (Ajankohtainen 3, VI luku)](daniel-nylund-maailmankatsomuksen-tulee-olla-oikeaksi-koettava-ja-sisäisesti-tyydyttävä-ajankohtainen-3-vi-luku.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Pascal, Blaise, [Pascal's Pensées, Osa IV § 430](https://www.gutenberg.org/files/18269/18269-h/18269-h.htm#p_430), Project Gutenberg, The Project Gutenberg EBook of Pascal's Pensées, by Blaise Pascal, viitattu 13.9.2024 (*- - There is enough light for those who only desire to see, and enough obscurity for those who have a contrary disposition.*)
 [^2]: Christianity and Agnosticism: A Controversy. Teoksessa Huxley, Thomas Henry, *Collected Essays vol 5: Science and Christian tradition*, Macmillan, 1889, s. 237–239

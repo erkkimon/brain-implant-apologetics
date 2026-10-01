@@ -4,7 +4,7 @@ about: apologetics
 title: "Yliluonnollinen"
 description: "Yliluonnollisella tarkoitetaan yleensä luonnolaeista riippumatonta, luonnontieteellisesti selittämätöntä ja normaalin tai luonnollisen rajat ylittävää."
 tags: [apowiki, paranormaalit-ilmiöt, lukusuositukset]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Yliluonnollinen".
@@ -181,8 +181,6 @@ Myös väite ”…ei voida periaatteessakaan testata” on kyseenalainen. Mist�
 * [Tiede.fi -keskustelu: Luonnollinen ja yliluonnollinen](http://www.tiede.fi/keskustelu/38708/ketju/luonnollinen_ja_yliluonnollinen)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: *Kielitoimiston sanakirja*, Kotimaisten kielten tutkimuskeskuksen julkaisuja 132. (Internet-versio MOT Kielitoimiston sanakirja 1.0), Helsinki: Kotimaisten kielten tutkimuskeskus ja Kielikone Oy, 2004, ISBN 952-5446-11-5
 [^2]: Erkki Hartikainen (toim.), [Lukion elämänkatsomustieto 2: Todellisuus ja todellisuuskäsitys](http://www.dlc.fi/~etkirja/et11.htm#_Toc136682078), Erkki Hartikainen, viitattu 20.8.2007

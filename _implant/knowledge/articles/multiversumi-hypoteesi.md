@@ -4,7 +4,7 @@ about: apologetics
 title: "Multiversumi-hypoteesi"
 description: "Multiversumi- eli monimaailmankaikkeushypoteesin mukaan meidän asumamme näkyvän maailmankaikkeuden lisäksi on olemassa valtava määrä muita universumeja."
 tags: [apowiki, suunnitteluteoria, kosmologia]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Multiversumi-hypoteesi".
@@ -97,8 +97,6 @@ Täysin materialistiselta pohjalta lähtien on erittäin epätodennäköisestä,
 * [Scientific American: Does the Multiverse Really Exist?](http://www.scientificamerican.com/article.cfm?id=does-the-multiverse-really-exist)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: tilanteesta riippumatta samoina pysyvät lukuarvot, joiden suuruutta ei ole voitu päätellä mistään vaan ainoastaan selvittää mittaamalla
 [^2]: kantilaisittain: apriorinen totuus – siis sellainen tosiasia, jonka voi selvittää itselleen puhtaasti järkeilemällä tarvitsematta turvautua havaintoihin

@@ -4,7 +4,7 @@ about: apologetics
 title: "Supranaturalistinen tutkimusohjelma"
 description: "Supranaturalismilla tarkoitetaan käsitystä, jonka mukaan Jumala on puhtaasti henkinen olento, joka on kausaalisesti riippumaton luonnollisista olioista."
 tags: [apowiki, tieteenfilosofia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Supranaturalistinen tutkimusohjelma".
@@ -86,8 +86,6 @@ Länsimainen tiede on historiallisesti rakentanut supranaturalistiselle perustal
 * [Rea, Michael C.](michael-c-rea.md), *[World Without Design](world-without-design-kirja.md)*, Clarendon Press, 2002, 0-19-924760-9
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Rea 2002
 [^2]: Rea 2002: 222

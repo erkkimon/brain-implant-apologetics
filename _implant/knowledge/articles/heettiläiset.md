@@ -4,7 +4,7 @@ about: apologetics
 title: "Heettiläiset"
 description: "Naturalistiset raamattukriitikot pitivät 1800-luvulla yleisesti virheenä Raamatun mainintaa heettiläisistä."
 tags: [apowiki, raamattu, historia]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Heettiläiset".
@@ -36,7 +36,5 @@ Koska heettiläisistä ei tuossa vaiheessa ollut löytynyt mitään historiallis
 Yliherruussopimukset olivat paljon yleisempiä kuin yhdenvertaisuussopimukset. Vuonna 1931 tehtiin huolellinen analyysi näistä sopimuksista. Silloin huomattiin, että ne oli kaikki laadittu saman kaavan mukaan. Vasta vuonna 1954 tutkija G. E. Mendenhall huomasi, että heettiläisissä sopimuksissa ilmenevä kaava esiintyi myös Vanhassa testamentissa. Monet Jumalan ja Israelin väliset sopimukset seurasivat tätä kaavaa, esim. [2. Moos. 20-31](http://www.evl.fi/raamattu/1992/2Moos.html), [5. Mooseksen kirja](http://www.evl.fi/raamattu/1992/5Moos.html),  ([Joos. 24:1-33](../books/jos.md)) ja  ([1. Moos. 31:43-54](../books/gen.md)). Heetin valtakunta tuhoutui kohta vuoden 1200 eKr. jälkeen. Myöhemmissä assyrialaisissa ja aramealaisissa teksteissä 700-luvulta jKr. ja sen jälkeen kaava on jo toisenlainen. Tämä antaa yhden historiallisen viitteen siitä, että naturalististen raamattukriitikoiden pyrkimys ajoittaa Mooseksen kirjat myöhäisempään aikaan on ristiriidassa historiallisen todistusaineiston kanssa.[^1]
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Millard, Alan, *Raamatun aika avautuu*, Helsinki: SLEY-kirjat, 1987, s. 64, 951-617-683-6

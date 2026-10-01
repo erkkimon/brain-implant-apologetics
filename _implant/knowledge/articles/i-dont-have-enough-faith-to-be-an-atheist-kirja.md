@@ -4,7 +4,7 @@ about: apologetics
 title: "I Don't Have Enough Faith to Be an Atheist (kirja)"
 description: "I Don't Have Enough Faith to Be an Atheist on Norman L. Geislerin ja Frank Turekin kirjoittama kirja."
 tags: [apowiki, kirjat, tyngät]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "I Don't Have Enough Faith to Be an Atheist (kirja)".
@@ -69,8 +69,6 @@ Professori pysäytti opiskelijan valituksen, ja totesi, että hän lukee paljon 
 Professori jatkoi sitten, mikä opiskelija on syyttämään häntä epäoikeudenmukaisuudesta tai epäreiluudesta, eikö opiskelija itse kirjoittanut, että tässä on kyse makuasiasta, toinen tykkää suklaasta, toinen vaniljasta? Opiskelija myönsi, että tämä on hänen näkemyksensä. Professori totesi tähän, että asia on sitten selvä, työ on hylätty: en pidä sinisistä kansioista. Tässä kohtaa opiskelijan päässä välähti – on todella olemassa moraalisia absoluutteja.[^3]
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: s. 17-22
 [^2]: s. 22-23

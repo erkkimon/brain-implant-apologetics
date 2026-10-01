@@ -4,7 +4,7 @@ about: apologetics
 title: "Realismi"
 description: "Realismi-sanan perusmerkitys viittaa siihen, että huomion kohteena oleva olio, esine tai asia on todellinen, todella olemassa."
 tags: [apowiki, aatteet]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Realismi".
@@ -49,8 +49,6 @@ Realismin vastakohtana on joko idealismi tai [konstruktivismi](konstruktivismi.m
 *[Konstruktivismi](konstruktivismi.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: [Alston, W. P.](william-alston.md), *A Sensible Metaphysical Realism*, Milwaukee: Marquette University Press, 2001, s. 8-10
 [^2]: vrt. Pettit, P.: *Realism*, teoksessa Dancy, J. & Sosa, E. (toim.), *A Companion to Epistemology*, Oxford: Blackwell, 1996, s. 420

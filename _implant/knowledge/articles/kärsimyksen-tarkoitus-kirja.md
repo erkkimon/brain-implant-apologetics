@@ -4,7 +4,7 @@ about: apologetics
 title: "Kärsimyksen tarkoitus (kirja)"
 description: "Kärsimyksen tarkoitus on Tapio Puolimatkan kirjoittama kirja, joka tuo esille erilaisia näkökulmia kärsimyksen ongelmaan ja sen ratkaisuun."
 tags: [apowiki, filosofia, kirjat, tapio-puolimatka]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kärsimyksen tarkoitus (kirja)".
@@ -118,7 +118,5 @@ Elämän tarkoituksen pohtiminen tulee entistä tärkeämmäksi ihmisen kohdates
 *[Onko uskonnon opetus indoktrinaatiota?](onko-uskonnon-opetus-indoktrinaatiota.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Tolstoi, Leo, *Tunnustuksia*, Suom. Eero Balk, Helsinki: Basam Books, 2012, s. 50-51

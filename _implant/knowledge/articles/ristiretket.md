@@ -4,7 +4,7 @@ about: apologetics
 title: "Ristiretket"
 description: "Kristinusko johti historiansa alkuvaiheissa rakkauden yhteisöjen syntymiseen, joissa köyhistä ja vähäosaisista huolehdittiin."
 tags: [apowiki, ristiretket]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ristiretket".
@@ -179,8 +179,6 @@ Apologetics 315: Clay Jones Interview: *The Crusades*: [osa 1](http://www.apolog
 * Tibi, Bassam, *Islam Between Culture and Politics*, Second Edition, Palgrave Macmillian, 2005
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Angenendt, Arnold, *Toleranz und Gewalt: Das Christentum zwischen Bibel und Schwert*, Münster: Verlag Aschendorff, 2009, s. 416, 429
 [^2]: Flaig, Egon, *Der Islam will die Welteroberung*, Frankfurter Allgemeine Zeitung, 216

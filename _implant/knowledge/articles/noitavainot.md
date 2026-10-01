@@ -4,7 +4,7 @@ about: apologetics
 title: "Noitavainot"
 description: "Kristinuskon vastustajat vetoavat usein keskiajalla ja uuden ajan alussa toteutettuihin noitavainoihin puolustaessaan väitettä, että kristinusko on yhteiskunnallisesti taantumuksellinen voima."
 tags: [apowiki, historia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Noitavainot".
@@ -85,8 +85,6 @@ Jotkut keskiaikaisen kirkon toteuttamia noitavainoja kritisoivat uusateistit puh
 * Stark, Rodney, *For the Glory of God: How Monotheism Led to Reformations, Science, Witch-Hunts, and the End of Slavery*, Princeton University Press, 2004
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Angenendt, Arnold, *Toleranz und Gewalt: Das Christentum zwischen Bibel und Schwert*, Münster: Verlag Aschendorff, 2009, s. 297
 [^2]: Nenonen 2007: 38

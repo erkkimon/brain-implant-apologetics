@@ -4,7 +4,7 @@ about: apologetics
 title: "Darwinian Fairytales (kirja)"
 description: "Vaikka australialainen filosofi David Stove on itse ateisti ja evolutionisti, hän kiinnittää kirjassaan Darwinian Fairytales: Selfish Genes, Errors of Heredity and Other Fables of Evolution huomiota siihen, että monien ajassamme…"
 tags: [apowiki, kirjat]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Darwinian Fairytales (kirja)".
@@ -69,10 +69,6 @@ Stoven mukaan tämä uusi geeniuskonto on vain vähän tarkennettu muunnelma Dar
 * Berlinski, David, *The Devil's Delusion: Atheism and its Scientific Pretensions*, New York: Crown Forum, 2008
 
 ### viitteet
-
-  1. Viitteet
-
-
 
 ## Viitteet
 

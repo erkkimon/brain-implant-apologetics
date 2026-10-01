@@ -4,7 +4,7 @@ about: apologetics
 title: "Vapaa-ajattelijat"
 description: "Vapaa-ajattelijat ovat Vapaa-ajattelijain liiton jäseniä. Vapaa-ajattelijoilla voidaan viitata myös Vapaa-ajattelijain liittoon."
 tags: [apowiki, vapaa-ajattelu]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Vapaa-ajattelijat".
@@ -134,8 +134,6 @@ Ruokarukouskielto olisi perustuslain, perusopetuslain ja opetussuunnitelman rikk
 * [Tupla-J: Vapaa-ajattelukausti](http://tupla-j.blogspot.com/2010/06/vapaa-ajattelukausti.html)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Huotari, Eino, *Liiton juhlavuosi 2007 – 70 vuotta toimintaa uskonnottomien etujärjestönä*, Vapaa ajattelija
 [^2]: [Vapaa-ajattelijain liitto ry:n säännöt](http://www.vapaa-ajattelijat.fi/info/saannot_liitto.html), 11.12.2008, viitattu 4.5.2017

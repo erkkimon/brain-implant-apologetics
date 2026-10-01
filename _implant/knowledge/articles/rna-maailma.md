@@ -4,7 +4,7 @@ about: apologetics
 title: "RNA-maailma"
 description: "Kuva: katalyyttejä; näiden ribotsyymien joukossa olisi sitten päälle päätteeksi ollut sellainenkin, joka sopivasta nukleotidien yhdistelmästä muodostuneena olisi alkanut kopioida itseään."
 tags: [apowiki, abiogeneesi]
-timestamp: 2026-10-01T20:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "RNA-maailma".
@@ -175,8 +175,6 @@ Vaikka RNA-maailma -hypoteesin ongelmat kasvavat suunnattomiksi jo yritettäess�
 * Prof. John Waltonin esitelmä aiheesta on katsottavissa ja ladattavissa osoitteessa http://edinburghcreationgroup.org/originoflife.xml.
 -->
 ### Viitteet
-
-  1. Viitteet
 
 [^2]: Orgel, L., *The Origin of Life on Earth*, Scientific American, 4, 81
 [^3]: Tiede.fi, [Nuoren maan ympärillä oli happea](http://www.tiede.fi/artikkeli/uutiset/nuoren_maan_ymparilla_oli_happea), Sanoma Magazines Finland, 24.8.2006, viitattu 27.4.2017

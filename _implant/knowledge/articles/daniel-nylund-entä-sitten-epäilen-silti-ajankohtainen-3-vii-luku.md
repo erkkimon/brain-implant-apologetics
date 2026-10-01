@@ -4,7 +4,7 @@ about: apologetics
 title: "Daniel Nylund: Entä sitten? Epäilen silti (Ajankohtainen 3, VII luku)"
 description: "Tähän asti olen väittänyt, että uskottavan maailmankatsomuksen tulisi sisäisesti ristiriidattomalla ja koko todellisuuden kanssa yhteensopivalla tavalla vastata kysymykseen kaiken alkuperästä, tarkoituksesta ja päämäärästä."
 tags: [apowiki, maailmankatsomus, tekijänoikeuden-alaiset-artikkelit]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Daniel Nylund: Entä sitten? Epäilen silti (Ajankohtainen 3, VII luku)".
@@ -373,8 +373,6 @@ Joka tapauksessa kiitän sinua siitä, että olet jaksanut keskittyä kanssani l
 * VII luku: Entä sitten? Epäilen silti
 
 ### Viitteet
-
-  1. Viitteet
 
 
 

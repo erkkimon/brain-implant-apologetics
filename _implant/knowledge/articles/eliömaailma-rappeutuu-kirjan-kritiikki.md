@@ -4,7 +4,7 @@ about: apologetics
 title: "Eliömaailma rappeutuu -kirjan kritiikki"
 description: "Eliömaailma rappeutuu (kirja) artikkelissa on referoitu kirjassa esitetty argumentaatio."
 tags: [apowiki, evoluutioteoria]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Eliömaailma rappeutuu -kirjan kritiikki".
@@ -247,8 +247,6 @@ Lisäksi Sanfordin kirjan pääväite on, [ettei luonnonvalinta voi toimia genom
 * Paul Price, Robert Carter and John Sanford, [Responding to supposed refutations of genetic entropy from the ‘experts’](https://creation.com/genetic-entropy-defense), Creation Ministries International, 1.12.2020, viitattu 27.11.2021
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Sanford, s. 162
 [^2]: Sanford, s. 162-163

@@ -4,7 +4,7 @@ about: apologetics
 title: "Abiogeneesi"
 description: "Abiogeneesi (kemiallinen evoluutio, elämän alkusynty) tarkoittaa (naturalistisen todellisuuskäsityksen edellyttämää) elämän ohjaamatonta ja tarkoituksetonta itsestäänsyntymistä elottoman aineen alun perin yksinkertaisista yhdisteistä."
 tags: [apowiki, abiogeneesi, lukusuositukset]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Abiogeneesi".
@@ -176,8 +176,6 @@ Mikäli tulevaisuudessa pystyisimme rakentamaan eläviä soluja, se osoittaisi, 
 *Artikkeli, *The Origin of Life*, Walter Bradley https://www.namb.net/apologetics/the-origin-of-life
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: On kuitenkin mahdollista luetella tunnettuja luonnontieteellisiä haasteita, joihin minkä hyvänsä vastaisuudessa mahdollisesti esitettävänkin abiogeneesimallin pitäisi uskottavuutta saavuttaakseen kyetä menestyksellisesti vastaamaan; näitä esitellään mm. tässä artikkelissa. Toisaalta omaa kieltään haasteen luonteesta puhuu abiogeneesitutkimuksen historia ja nykytila, jonka [Michael Behe](michael-behe.md) tiivistää seuraavasti: "Elämän alkuperätutkimuksen vähittäisen halvaantumisen historia on mitä kiintoisin, mutta tilanpuute estää toistamasta sitä tässä. Riittäköön siis maininta, että nykyisellään elämän alkuperätutkimusten kenttä on rämettynyt keskenään ristiriitaisten mallien sekametelisopaksi; kukin malli on epäuskottava, perustavasti puutteellinen ja kilpailevien mallien kanssa yhteensopimaton. Yksityiskeskusteluissa jopa useimmat evoluutiobiologitkin myöntävät, ettei tieteellä ole tarjota elämän alkamiselle mitään selitystä." (*"The story of the slow paralysis of research on life's origin is quite interesting, but space precludes its retelling here. Suffice it to say that at present the field of originoflife studies has dissolved into a cacophony of conflicting models, each unconvincing, seriously incomplete, and incompatible with competing models. In private even most evolutionary biologists will admit that science has no explanation for the beginning of life."*) [*Molecular Machines: Experimental Support for the Design Inference* -artikkeli, *To Explain Life* -luku](http://www.arn.org/docs/behe/mb_mm92496.htm)
 [^2]: Dustin Trail, E. Bruce Watson & Nicholas D. Tailby, [The oxidation state of Hadean magmas and implications for early Earth’s atmosphere](http://www.nature.com/nature/journal/v480/n7375/full/nature10655.html), 01 December 2011, viitattu 8.12.2011

@@ -4,7 +4,7 @@ about: apologetics
 title: "Evidentialismi"
 description: "Evidentialismi on uskonnonfilosofiassa näkemys, jonka mukaan uskonnolliset uskomukset voidaan rationaalisesti hyväksyä ainoastaan, jos voidaan rakentaa argumentti, joka osoittaa käytettävissä olevan todistusaineiston tukevan niitä."
 tags: [apowiki, filosofia, epistemologia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Evidentialismi".
@@ -92,8 +92,6 @@ Jos siis ratkaisu näihin älyllisiin kiistoihin on näin helppo, on vaikea ymm�
 * [Fideismi](fideismi.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Hasker, William: "*Evidentialism*", teoksessa Audi, Robert (toim.), *The Cambridge Dictionary of Philosophy*, Cambridge: Cambridge University Press, 1996
 [^2]: Niiniluoto, Ilkka: ”Ateismi”. Teoksessa Helenius, Timo, Timo Koistinen & Sami Pihlström (toim.), *Uskonnonfilosofia*, Porvoo Helsinki: WSOY, 2003, s. 139, ISBN 951-0-27403-8

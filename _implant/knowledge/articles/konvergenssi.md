@@ -4,7 +4,7 @@ about: apologetics
 title: "Konvergenssi"
 description: "Konvergenssilla tarkoitetaan rakenteellista samankaltaisuutta, joka selittyy rakenteen samanlaisella toiminnalla tilanteessa, jossa eliöiden oletetulla yhteisellä kantamuodolla ei ole ollut kyseistä rakennetta."
 tags: [apowiki, evoluutioteoria, suunnitteluteoria]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Konvergenssi".
@@ -48,7 +48,5 @@ Konvergenttisen evoluution mahdollisuus tekee myös evoluutioteoriaan pohjautuva
 *[Convergent Genetic Evolution in Lichen Species](http://www.evolutionnews.org/2011/05/convergent_genetic_evolution_i046651.html) (Evolution News & Views)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Tästä ei tietenkään voida vetää sellaista johtopäätöstä, että vain yhdenlainen rakenneratkaisu olisi kelvollinen tiettyyn tehtävään. Esimerkiksi lentämiseen voidaan käyttää hyvin sekä helikopteria että lentokonetta. Katso myös [Epätäydellinen suunnittelu (argumentti)](epätäydellinen-suunnittelu-argumentti.md)

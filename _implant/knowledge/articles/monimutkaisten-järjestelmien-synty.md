@@ -4,7 +4,7 @@ about: apologetics
 title: "Monimutkaisten järjestelmien synty"
 description: "Monimutkaisten järjestelmien synty on epäilemättä evoluutioteorian suurimpia haasteita."
 tags: [apowiki, evoluutioteoria, suunnitteluteoria]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Monimutkaisten järjestelmien synty".
@@ -81,8 +81,6 @@ Selväähän on, että suunnitteluteoreettinen ennuste[^22] kaikista tämäntapa
 Tämä kanta ei ole jäänyt suunnitteluteoreetikkojen taholta pelkän Avida-kritiikin ja "käsien heiluttelun" varaan, vaan he ovat rakentaneet myös oman, biologisen evoluution haasteiden realistisempaan ja konkreettisempaan vastaavuuteen tähtäävän simulointiohjelmiston. Tämä *Stylus*-niminen ohjelmisto käyttää biologiasta tutun geneettisen koodin tyyppistä grafiikkavektorien kodonikoodausta, jonka tuottamien kuvioiden on muistutettava kiinalaisia kirjainmerkkejä ollakseen funktionaalisia ja saadakseen siten valintaetua.
 
 ### Viitteet
-
-  1. Viitteet
 
 
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Evoluution määritelmä"
 description: "Tämä artikkeli käsittelee \"evoluutio\"-termin erilaisia määritelmiä."
 tags: [apowiki, evoluutioteoria]
-timestamp: 2026-10-01T20:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Evoluution määritelmä".
@@ -104,8 +104,6 @@ Evoluutioteorian ympärillä pyörii runsaasti epäselviä käsitteitä, joiden 
 * Marko Grönroos: [Evoluutio – mitä se on?](http://www.nic.funet.fi/~magi/artikk/evoluutio/maaritelma.html)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Stephen C. Meyer and Michael Newton Keas, *The Meanings of Evolution*, Access Research Network
 [^2]: http://www.biology-online.org/dictionary/Evolution

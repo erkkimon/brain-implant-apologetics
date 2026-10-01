@@ -4,7 +4,7 @@ about: apologetics
 title: "Uskontojen vastaavuudet"
 description: "Usein kristinuskoa väitetään koostuvan muista uskonnoista plagioiduista elementeistä."
 tags: [apowiki, maailmankatsomus]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Uskontojen vastaavuudet".
@@ -31,8 +31,6 @@ Ihmisten elintavoilla on paljon keskinäisiä vastaavuuksia riippumatta siitä, 
 * Kankaanniemi, Matti, [Jeesus historian henkilönä – Raamatun ulkopuoliset lähteet](http://www.nic.fi/~vlahsrk/tekstit/jeesushi.html), viitattu 5.11.2008
 -->
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: [Flavius Josephus, Antiquities of the Jews 8.2.5 (English) (ed. William Whiston, A.M.)](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0146%3Abook%3D8%3Awhiston+chapter%3D2%3Awhiston+section%3D5) "for I have seen a certain man of my own country, whose name was Eleazar, releasing people that were demoniacal in the presence of Vespasian, and his sons, and his captains, and the whole multitude of his soldiers. The manner of the cure was this: He put a ring that had a Foot of one of those sorts mentioned by Solomon to the nostrils of the demoniac, after which he drew out the demon through his nostrils; and when the man fell down immediately, he abjured him to return into him no more, making still mention of Solomon, and reciting the incantations which he composed. And when Eleazar would persuade and demonstrate to the spectators that he had such a power, he set a little way off a cup or basin full of water, and commanded the demon, as he went out of the man, to overturn it, and thereby to let the spectators know that he had left the man;"
 [^2]: Kankaanniemi, Matti, *Antiikin sankaritarut eivät horjuta evankeliumien aitoutta*, Ristin Voitto, 41, 10–11

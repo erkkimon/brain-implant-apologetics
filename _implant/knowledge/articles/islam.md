@@ -4,7 +4,7 @@ about: apologetics
 title: "Islam"
 description: "Islam on maahanmuuttajien uskonnoista läntisen maailman kannalta hankalin."
 tags: [apowiki, teismi, islam]
-timestamp: 2026-10-01T20:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Islam".
@@ -151,8 +151,6 @@ Islamistien 2.3.2011 murhaama Pakistanin vähemmistöministeri **[Shahbaz Bhatti
 *[ISLAM: Mitä lännen tulee tietää (1/13) (video)](http://www.youtube.com/watch?v=sbLfpqBx2TU)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: kristinuskon jälkeen
 [^2]: [CNN: Fast-growing Islam winning converts in Western world](http://www.cnn.com/WORLD/9704/14/egypt.islam/) *The second-largest religion in the world after Christianity, Islam is also the fastest-growing religion. In the United States, for example, nearly 80 percent of the more than 1,200 mosques have been built in the past 12 years.* [Growth Rate Of Christianity & Islam](http://www.religioustolerance.org/growth_isl_chr.htm)

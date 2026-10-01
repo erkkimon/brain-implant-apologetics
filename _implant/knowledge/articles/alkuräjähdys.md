@@ -4,7 +4,7 @@ about: apologetics
 title: "Alkuräjähdys"
 description: "Alkuräjähdys oli tapahtuma, josta alkuräjähdysteorian mukaan nykyinen maailmankaikkeus sai alkunsa."
 tags: [apowiki, kosmologia, alkuperähypoteesit]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Alkuräjähdys".
@@ -69,8 +69,6 @@ Tässä Hawkingin mallissa aikaa käsitellään kompleksena, jolloin singularite
 Näin ollen, vaikka ajan alun välttävät mallit ovat teoreettisesti mahdollisia, ne ovat toistaiseksi epätodennäköisiä. Ajan alku on siis todennäköisin vaihtoehto ja siten [kosmologinen argumentti](kosmologinen-argumentti.md) on pätevä todiste teismille.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: [Big bang model](https://global.britannica.com/topic/big-bang-model), Encyclopaedia Britannica, viitattu 11.4.2017
 [^2]: [big bang](http://www.merriam-webster.com/dictionary/big%20bang), Merriam–Websteri online dictionary, viitattu 10.3.2008

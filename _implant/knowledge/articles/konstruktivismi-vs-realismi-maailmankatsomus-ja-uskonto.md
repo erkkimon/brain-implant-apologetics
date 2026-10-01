@@ -4,7 +4,7 @@ about: apologetics
 title: "Konstruktivismi vs. Realismi: Maailmankatsomus ja uskonto"
 description: "Kaikki inhimillinen tieto perustuu itseymmärrykseen, joka ilmenee esimerkiksi yksilön tavassa kertoa elämänsä kertomus."
 tags: [apowiki, filosofia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Konstruktivismi vs. Realismi: Maailmankatsomus ja uskonto".
@@ -381,7 +381,7 @@ Teoksen seuraavassa osassa on tarkoitus esitellä ja arvioida erilaisia opetukse
 ### Viitteet
 * Lähdeteos: Puolimatka, T., *Opetuksen teoria: Konstruktivismista realismiin*, Helsinki: Tammi, 2002
 
-  1. Viitteet
+## Viitteet
 
 [^1]: Vanhoozer, Kevin, *Is There A Meaning in this Text*, Apollos, 1998, s. 31-32
 [^2]: Augustinus, Aurelius, Toim. H. S. Burleigh., *Earlier Writings*, Philadephia: Westminster, 1953, s. 313

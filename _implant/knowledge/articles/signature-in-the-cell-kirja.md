@@ -4,7 +4,7 @@ about: apologetics
 title: "Signature in the Cell (kirja)"
 description: "Signature in the Cell: DNA and the Evidence for Intelligent Design (Allekirjoitus solussa: DNA ja todisteet älyllisestä suunnittelusta) on Stephen C."
 tags: [apowiki, kirjat, suunnitteluteoria, abiogeneesi]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Signature in the Cell (kirja)".
@@ -69,8 +69,6 @@ Kriitikot väittävät usein, että suunnitteluteoria on [uskonnollinen](uskonno
 * [Front-Loading & Theistic Evolution](https://youtu.be/PJgxJyQ3ugQ) (YouTube)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: [Cracks Amazon.com Bestseller List in Science](http://www.discovery.org/a/13301)
 [^2]: "The Origin of Biological Information and the Higher Taxonomic Categories" "The Cambrian Information Explosion" "DNA and the Origin of Life" "Evidence of Design in Physics and Biology" (53-111) "The Scientific Status of Intelligent Design" "Teleological Evolution" "DNA by Design" "The Explanatory Power of Design" Meyer, Nelson, Chien: "The Cambrian Explosion"

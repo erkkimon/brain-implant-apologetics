@@ -4,7 +4,7 @@ about: apologetics
 title: "Max Scheler"
 description: "Max Scheler (22. elokuuta 1874 München, Saksa – 19. toukokuuta 1928 Frankfurt am Main, Saksa) oli saksalainen filosofi, joka on tunnettu ennen kaikkea eettisestä teoriastaan, filosofisesta antropologiastaan, tunnefilosofiastaan ja tiedon…"
 tags: [apowiki, henkilöt]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Max Scheler".
@@ -76,8 +76,6 @@ Schelerin mukaan pyhyysarvot ovat arvoista kaikkein tärkeimpiä, koska niistä 
 1. Arvo on sitä korkeampi, mitä absoluuttisempi, riippumattomampi ja vähemmän suhteellinen se on. Aistinautintojen arvo pätee elettynä kokemuksena vain sellaisille olennoille, joilla on aistimuksia. Terveys ja sairaus koskee vain eläviä organismeja. Absoluuttiset arvot ovat sen sijaan sellaisia, joiden pätevyys on riippumaton tällaisista rajoituksista. Näihin kuuluvat esimerkiksi moraaliset arvot.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Nietzsche, Friedrich, *Moraalin alkuperä*, Suom. J. A. Hollo, Helsinki: Otava, 1887/1969, s. 31
 [^2]: Scheler, Max, *Die Formen des Wissens und die Bildung*, Ges. Werke Bd. IX, 1925/1976, s. 31 ss.

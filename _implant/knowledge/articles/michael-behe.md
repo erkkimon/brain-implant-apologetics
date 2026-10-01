@@ -4,7 +4,7 @@ about: apologetics
 title: "Michael Behe"
 description: "Michael J. Behe (s. 18.01.1952) on yhdysvaltalainen biokemisti ja uraauurtava suunnitteluteorian kannattaja."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Michael Behe".
@@ -53,8 +53,6 @@ Behe määrittelee itsensä [teistiseksi evolutionistiksi](../glossary/sanasto.m
 * [Rope Kojonen: Kertooko luonnon järjestys suunnittelusta? Michael Behe älykkään suunnittelun ajatuksen puolustajana](https://helda.helsinki.fi/handle/10138/21668). Dogmatiikan pro gradu -tutkielma. Helsingin yliopisto 2008.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Kojonen, Rope, *Kertooko luonnon järjestys suunnittelusta?*, Michael Behe älykkään suunnittelun ajatuksen puolustajana, Helsingin Yliopisto, 2008 (*Michael Behe on tärkeimpiä Intelligent Design -ajattelun puolustajia.*)
 [^2]: Michael J. Behe, *The Edge of Evolution*, The Search for the Limits of Darwinism, Free Press, 2007, s. takakansi, ISBN-0-7432-9620-6

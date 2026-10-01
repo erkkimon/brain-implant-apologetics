@@ -4,7 +4,7 @@ about: apologetics
 title: "Raamattu"
 description: "Löysin arabiankielisen Raamatun Oferin vankilan kirjaston uskonnollisen kirjallisuuden joukosta."
 tags: [apowiki, raamattu]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Raamattu".
@@ -122,8 +122,6 @@ Lokakuussa 2016 julkaistujen tietojen mukaan maailmassa on n. 7097 kieltä, jois
 * [Suomen Pipliaseura](http://www.piplia.fi/) (kansainvälisen [United Bible Societies](http://www.biblesociety.org/) -järjestön jäsenseura)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Vanhan testamentin osalta tunnetuin tällainen on juutalaisten oppineiden toimittama *Masoreettinen teksti*, josta käytetään myös MT-lyhennettä; Uuden testamentin osalta nimeltä tunnetaan ainakin Erasmus Rotterdamilaisen 1500-luvulla toimittama ja julkaisema ns. *Textus receptus*.
 [^2]: Eri mieltä tietysti ollaan siitäkin, kenen teologia lopultakin on raamatullisinta, mutta selvää joka tapauksessa on, että kaikki kirkkokunnat eivät väitäkään Raamattua oppinsa viime kädessä ainoaksi lähteeksi. Niinpä esim. roomalaiskatolisen teologian ja kirkon opillisina auktoriteetteina ovat "Raamattu ja traditio", joita paavin katsotaan virkansa yliluonnollistamana *ex cathedra* erehtymättömästi selittävän. Pitäytymistä *yksin Raamattuun* opin lähteenä edustava teologinen kanta tunnetaan *sola Scriptura* -periaatteena.

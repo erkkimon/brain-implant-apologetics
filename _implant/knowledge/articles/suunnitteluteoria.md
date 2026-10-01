@@ -4,7 +4,7 @@ about: apologetics
 title: "Suunnitteluteoria"
 description: "Ainahan voi väittää, että rinta viiden luodinreiän lävistämänä makaavan miehen kuolema oli sittenkin luonnollinen."
 tags: [apowiki, suunnitteluteoria, id-teoria, älykkään-suunnittelun-teoria, älykkään-suunnitelman-teoria, älyllisen-suunnittelun-teoria, älykäs-suunnitelma, älykäs-suunnittelu, älyllinen-suunnittelu, optimaalinen-suunnittelu, aito-suunnittelu, näennäissuunnittelu, tarkoituksellisuuspäättely]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Suunnitteluteoria".
@@ -270,8 +270,6 @@ Suunnitteluteoria voi olla hyödyllinen myös kristityn oman uskon kannalta. Kri
 *Älykkään Suunnitelman idea: Silta luonnontieteen ja teologian välillä <!-- red link: Älykkään Suunnitelman idea: Silta luonnontieteen ja teologian välillä -->.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: [Questions about intelligent design: 1. What is the theory of intelligent design?](http://www.discovery.org/csc/topQuestions.php#questionsAboutIntelligentDesign), [Discovery Institute](https://fi.wikipedia.org/wiki/Discovery_Institute) <!-- red link: Discovery Institute -->
 [^2]: Dalvin Lee Ratzsch: Nature, Design, and Science. 2001.

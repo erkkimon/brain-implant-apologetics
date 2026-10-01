@@ -4,7 +4,7 @@ about: apologetics
 title: "Jeesus Nasaretilainen"
 description: "Jeesus Nasaretilainen on kristinuskon keskushenkilö. Kristityt uskovat, että Jeesuksessa Jumalan toinen persoona tuli lihaksi (\"sikisi Pyhästä Hengestä , syntyi neitsyt Mariasta\") ja ilmoitti Isän ."
 tags: [apowiki, jeesus]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jeesus Nasaretilainen".
@@ -202,8 +202,6 @@ Jeesuksen elämää on yritetty rekonstruoida aktiivisesti 1800-luvulta lähtien
 * Strobel, Lee, *[Tapaus Kristus](tapaus-kristus-kirja.md)*, Aikamedia Oy, 2005, 951-606-723-9
 
 ### Viitteet
-
-  1. Viitteet
 
 
 

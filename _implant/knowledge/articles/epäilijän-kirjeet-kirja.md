@@ -4,7 +4,7 @@ about: apologetics
 title: "Epäilijän kirjeet (kirja)"
 description: "Epäilijän kirjeet on kirja johon on koottu FT Gregory A. Boydin ja hänen agnostisen isänsä Edward K."
 tags: [apowiki, kirjat]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Epäilijän kirjeet (kirja)".
@@ -213,7 +213,5 @@ Vaikka Edward ei uskokaan vielä "kosmiseen taisteluun", hän myöntää nyt ett
 ### Miten voi olla varma, että tämä kaikki on totta?
 
 ## Viitteet
-
-  1. Viitteet
 
 [^1]: Ks. esim.  ([2. Moos. 13:14](../books/exo.md)),  ([1. Sam. 15:11](../books/1sa.md)),  ([Jer. 18:7-10](../books/jer.md)),  ([Jer. 26:19](../books/jer.md))

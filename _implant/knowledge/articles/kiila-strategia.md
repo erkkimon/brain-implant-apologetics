@@ -4,7 +4,7 @@ about: apologetics
 title: "Kiila-strategia"
 description: "Kiilastrategia ylipäänsä on jonkin tahon pyrkimys edistää kannattamansa näkemyksen yhteiskunnallista vaikuttavuutta koettamalla eristää vastakkaisen näkemyksen vakaumukselliset kannattajat näiden mahdollisista liittolaisista \"lyömällä kiiloja\" vastustettavan näkemyksen ydinkannattajakunnan ympärille."
 tags: [apowiki, evoluutiokritiikki, suunnitteluteoria]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kiila-strategia".
@@ -80,8 +80,6 @@ on otettu käyttöön kiilan lyömiseksi yhtäältä raamatulliseen luomisajatte
 Näinkin kömpelön, läpinäkyvän ja räikeän "hajoita ja hallitse" -manipulaation pitkäaikainen menestys läntisessä kulttuuripiirissä tuntuu valitettavasti jossain määrin osoittavan, etteivät naturalistit ole olleet aivan väärässäkään syyttäessään vastustajiaan huonosti informoiduiksi ja epä-älyllisiksi. Erinäisistä kirkkaan selkeästi ajatelleista ja argumentoineista henkilöistä huolimatta toimiva kokonaisapologeettinen ote on ollut näillä main kateissa luvattoman kauan.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: [Wedge.pdf](http://www.antievolution.org/features/wedge.pdf), AntiEvolution.org
 [^2]: [The "Wedge Document": So What?](http://www.discovery.org/a/2101), Discovery Institute, 3.2.2006, viitattu 18.2.2009

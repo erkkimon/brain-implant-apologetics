@@ -4,7 +4,7 @@ about: apologetics
 title: "Rudolf Bultmann"
 description: "Rudolf Karl Bultmann (20. elokuuta 1884 Wiefelstede, Saksa – 30."
 tags: [apowiki, henkilöt]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Rudolf Bultmann".
@@ -125,8 +125,6 @@ Bultmannin teologian historiallinen perusta on hatara[^19]. Hänen yksiulotteine
 * Yarbrough, Robert W., *The Salvation Historical Fallacy? Reassessing the History of New Testament Theology*, History of Biblical Interpretation Series 2, Leiden: Deo Publishing, 2004
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Rorty, Richard, *Contingency, Irony and Solidarity*, Cambridge: Cambridge University Press, 1989, s. 109
 [^2]: Bultmann, Rudolf, *Existence and Faith*, New York: Meridian Books, 1960, s. 291-292

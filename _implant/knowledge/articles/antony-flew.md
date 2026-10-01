@@ -4,7 +4,7 @@ about: apologetics
 title: "Antony Flew"
 description: "Antony Flew (11. helmikuuta 1923 - 8. huhtikuuta 2010) oli brittiläinen filosofi."
 tags: [apowiki, henkilöt, ateismi, teismi, tyngät]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Antony Flew".
@@ -79,10 +79,6 @@ Flew piti [Jeesuksen ylösnousemusta](jeesuksen-ylösnousemus.md) maailman parha
 *[Koko haastattelu, mukaan lukien osuudet: Afterlife and Christianity / What Is God Like? / Why Did Your Beliefs Change? ja My Time with C.S. Lewis](https://youtu.be/VHUtMEru4pQ)
 
 ### Lähteet
-
-  1. Viitteet
-
-
 
 ## Viitteet
 

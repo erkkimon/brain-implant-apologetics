@@ -4,7 +4,7 @@ about: apologetics
 title: "Jeesuksen ylösnousemus"
 description: "Kristinusko poikkeaa siten muista uskonnoista, että se perustuu olennaisesti historialliseen tapahtumaan, Jeesuksen ylösnousemukseen."
 tags: [apowiki, jeesus, ihmeet, historia, lukusuositukset]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jeesuksen ylösnousemus".
@@ -146,8 +146,6 @@ Oletetaan tilanne, jossa apostolit ovat kehittäneet mielikuvitukseensa perustuv
 * [epologetics.org Proving the Resurrection of Jesus with Minimal Facts](http://familyactionorganization.wordpress.com/2007/12/01/evidence-for-the-resurrection-of-jesus-christ/)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Weldon, John; Ankerberg, John, [The Evidence for the Resurrection of Christ](https://www.jashow.org/articles/general/the-evidence-for-the-resurrection-of-jesus-christpart-1/), Ankerberg Theological Research Institute, Can It Persuade Skeptics?, viitattu 19.4.2017 (*- - only Christianity stakes its claim to truthfulness on historical events open to critical investigation. And only this explains the number of conversions by skeptics throughout history.*)
 [^2]: (28:1-15)

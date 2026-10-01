@@ -4,7 +4,7 @@ about: apologetics
 title: "Johann Georg Hamann"
 description: "Johann Georg Hamann (1730-1788) oli Immanuel Kantin aikalainen, hurskas luterilainen ja valistuksen ajattelun terävä kriitikko."
 tags: [apowiki, henkilöt]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Johann Georg Hamann".
@@ -41,8 +41,6 @@ Inhimillinen järki ei ole koskaan puhdas. Siihen liittyy aina ihmisen sokeus, j
 Hamannin mukaan jokaisen filosofisen järjestelmän pohjalla on usko kyseiseen järjestelmään. Tämä usko ei perustu järkeen. Kantin ajattelun ongelmana oli luoda todellisuuden sisälle keinotekoisia vastakkainasetteluja esimerkiksi luonnollisen ja yliluonnollisen välille. Hamannin mukaan todellisuuden yhtenäisyys perustuu siihen, että se on Jumalan luomistyötä. Jumalaa ei voida perustellusti erottaa luomastaan maailmasta eikä ole mielekästä kiistellä siitä, voiko Jumala ”murtautua” maailmaan, jonka hän on itse luonut. Tällaisen poissulkemisen välityksellä luodaan keinotekoisia ongelmia. Historia ei ole yksin inhimillisen toiminnan ja inhimillisen vastuun aluetta. Jumalan toimintaa ei voida perustellusti sulkea pois historiasta. On perusteetonta asettaa ”luonto vastakkaiseksi Luojalleen ja puhua ’yliluonnollisista teoista’ ja teoista, jotka ovat ’vastakkaisia luonnolle’.”[^3][^4]
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Berlin, Isaiah, *Three Critics of the Enlightenmenet, Vico, Hamann, Herder*, Toim. Henry Hardy, Princeton: Princeton University Press, 2000, s. 283
 [^2]: Alexander, W. M., *Johann Georg Hamann, Philosophy and Faith*, Haag: Martinus Nijhoff Publ, 1966

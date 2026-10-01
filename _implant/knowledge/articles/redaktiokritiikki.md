@@ -4,7 +4,7 @@ about: apologetics
 title: "Redaktiokritiikki"
 description: "Redaktiokritiikki yksi historiallis-kriittisen raamatuntutkimuksen metodi."
 tags: [apowiki, raamattu, historia, eksegetiikka]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Redaktiokritiikki".
@@ -123,8 +123,6 @@ Naturalistisesti sovelletun redaktiokriittisen tutkimuksen ongelmia voidaan yhte
 Yllä mainituilla perusteilla tulee vaikeaksi pitää naturalistista redaktiokritiikkiä tieteellisenä menetelmänä. Sitä voidaan ehkä osuvammin luonnehtia ideologisesti värittyneeksi lähestymistavaksi, jonka pohjana ei ole mitään yksiselitteisiä metodologisia kriteerejä.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Soulen, Richard N. & Soulen R. Kendall, *Handbook of Biblical Criticism*, Louisville, Ken.: Westminister John Knox Press, 2001, s. 159
 [^2]: Thurén, Jukka, *Matteuksen evankeliumi*, Helsinki: Kustannus Oy Arkki, 2006

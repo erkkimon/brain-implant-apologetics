@@ -4,7 +4,7 @@ about: apologetics
 title: "Kanaanilaisten kansanmurha"
 description: "Kuva: Kartta luvatun maan rajoista. Taustalla nykyiset poliittiset alueet."
 tags: [apowiki, historia, raamattu]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kanaanilaisten kansanmurha".
@@ -164,8 +164,6 @@ Sen sijaan, että kyse olisi Jumalan moraaliongelmasta, Jonesin mukaan:
 * [Café Raamattu: Sodat ja hävityskäskyt Vanhassa testamentissa](https://youtu.be/tEqNC-zNCZo)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: ([1. Moos. 15:7-16](../books/gen.md))
 [^2]: Myös: *Minun enkelini kulkee sinun edelläsi ja vie sinut amorilaisten, heettiläisten, perissiläisten, kanaanilaisten, hivviläisten ja jebusilaisten maahan, ja minä tuhoan heidät.* ( ([2. Moos. 23:23](../books/exo.md))) ja *Sitten hän sanoi: "Elävä Jumala on teidän keskellänne. Tämän te tiedätte siitä, että hän hävittää teidän tieltänne kanaanilaiset, heettiläiset, hivviläiset, perissiläiset, girgasilaiset, amorilaiset ja jebusilaiset.* ( ([Joos. 3:10](../books/jos.md)))

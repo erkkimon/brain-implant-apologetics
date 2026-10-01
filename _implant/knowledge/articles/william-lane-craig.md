@@ -4,7 +4,7 @@ about: apologetics
 title: "William Lane Craig"
 description: "William Lane Craig (s. 23. elokuuta 1949) on yhdysvaltalainen uskonnonfilosofi ja teologi, joka kuuluu nykyajan huomattavimpiin kristinuskon apologeettoihin."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "William Lane Craig".
@@ -85,9 +85,7 @@ Tältä pohjalta hän usein aloittaa sanottavansa yleisluonteisista Jumala-todis
 
 ### Lähteet
 
-  1. Viitteet
-
-
+## Viitteet
 
 ### Aiheesta muualla
 #### ApologetiikkaWiki
@@ -98,8 +96,6 @@ Tältä pohjalta hän usein aloittaa sanottavansa yleisluonteisista Jumala-todis
 #### Internet
 * [Viralliset sivut (en)](http://www.williamlanecraig.com/)
 * [*Can the Universe Exist Without God?*](http://www.youtube.com/watch?v=prYeIU0NrSY) – keskustelutilaisuus professori [Kari Enqvistin](kari-enqvist.md) kanssa Helsingin yliopistolla 16.4.2012.
-
-## Viitteet
 
 [^1]: [Discovery Institute](http://www.discovery.org/scripts/viewDB/index.php?command=view&id=85&isFellow=true)
 [^2]: [Reasonable Faith: About William Lane Craig](http://www.reasonablefaith.org/site/PageServer?pagename=about_william_lane_craig)

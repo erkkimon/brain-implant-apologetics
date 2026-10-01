@@ -4,7 +4,7 @@ about: apologetics
 title: "Fysikalismi"
 description: "Fysikalismi eli filosofinen materialismi on ontologinen kanta, jonka mukaan kaikki olevainen on fysikaalista eli perimmältään ei ole olemassa mitään muuta kuin joko aina olemassa ollutta tai jotenkin itsestään ilmaantunutta materiaa sekä…"
 tags: [apowiki, aatteet, maailmankatsomus]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Fysikalismi".
@@ -98,8 +98,6 @@ Selkeimmin fysikalismia edustavia valtioiden päämiehiä ovat olleet **[Josif S
 * Haaparanta, Leila & Koskinen Heikki J.: *Luottamus, epäusko ja epäilevä usko*, teoksessa Pietarinen, Ahti-Veikko & Pihlström, Sami & Toppinen, Pilvi (toim.), *Usko*, Helsinki: Filosofisia tutkimuksia Helsingin yliopistosta, 2009, s. 247–261
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: otetaan käyttöön havaintojen teoreettisina selittiminä
 [^2]: Itse asiassa tällainen [tietämättömyyteen vetoaminen](argumentum-ad-ignorantiam.md) on tunnettu virhepäätelmätyyppi.

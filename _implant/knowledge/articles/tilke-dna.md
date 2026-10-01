@@ -4,7 +4,7 @@ about: apologetics
 title: "Tilke-DNA"
 description: "Roska-DNA:lla viitataan usein DNA-jaksoihin, jotka eivät koodaa proteiineja tai joilla ei vaikuta olevan mitään selkeätä funktiota."
 tags: [apowiki, evoluutioteoria, suunnitteluteoria, keskeneräiset-artikkelit]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tilke-DNA".
@@ -43,7 +43,5 @@ Roska-DNA:lla viitataan usein DNA-jaksoihin, jotka eivät koodaa proteiineja tai
 * [Jonathan M.: Treasure in the Genetic Goldmine: PZ Myers Fails on "Junk DNA"](http://www.evolutionnews.org/2011/12/finding_treasur054241.html), Evolution News & Views
 
 ### Viitteet
-
-  1. Viitteet
 
 

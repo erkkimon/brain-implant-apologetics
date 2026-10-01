@@ -4,7 +4,7 @@ about: apologetics
 title: "Kulttuuriset myytit"
 description: "Ihmismielen voimakas pyrkimys mielihyvän säilyttämiseen altistaa ihmisen sellaisille viesteille, jotka tarjoavat todellisuudesta hänen mielihyväänsä ylläpitävän kuvan – vaikka sitten totuuden kustannuksella."
 tags: [apowiki, filosofia, lukusuositukset]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kulttuuriset myytit".
@@ -196,8 +196,6 @@ Ihmiset uskovat, että se mitä vastaan he hyökkäävät kestää tämän hyök
 * von Wright, Georg Henrik: Myten om framsteget. Uddevalla: Bonniers, 2003.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Ellul 1990, s. 28-29
 [^2]: Ellul 1975, s. 95

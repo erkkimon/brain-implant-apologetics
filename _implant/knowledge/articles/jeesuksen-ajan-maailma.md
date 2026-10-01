@@ -4,7 +4,7 @@ about: apologetics
 title: "Jeesuksen ajan maailma"
 description: "Jeesus eli Rooman valtakunnassa noin vuosina 5 eKr. – 30 jKr."
 tags: [apowiki, historia, jeesus]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jeesuksen ajan maailma".
@@ -34,8 +34,6 @@ Sen aikaisessa kulttuurissa moniavioisuus oli sallittua, vaikkei se ollutkaan ko
 * [Messias-ennustukset](messias-ennustukset.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Uro, Risto; Lehtipuu, Outi, *Nasaretilaisen historia*, Kirjapaja, 1997, s. 180, 951-625-457-8 (*- - rabbien mielestä nainen oli kaiken kaikkiaan kevytmielinen - - ja juoruileva.*)
 [^2]: Uro, Risto; Lehtipuu, Outi, *Nasaretilaisen historia*, Kirjapaja, 1997, s. 180–181, 951-625-457-8 (*Naiselta ei odotettu samanlaista uskonnon harjoittamista kuin mieheltä. - - Naista ei myöskään koskaan otettu huomioon laskettaessa - - osanottajien määrää.*)

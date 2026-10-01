@@ -4,7 +4,7 @@ about: apologetics
 title: "Joulu"
 description: "Joulu keskitalven juhla, jota kristityt viettävät Jeesuksen syntymän ja ihmiseksi tulemisen muistoksi."
 tags: [apowiki]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Joulu".
@@ -95,10 +95,6 @@ Toisinaan joulun väitetään saaneen vaikutteita itäisistä mysteeriuskonnoist
 Näitä väitteitä ei kuitenkaan koskaan lähteytetä antiikin asiakirjalähteisiin. Todellisuudessa nämä ja vastaavat väitteet mysteerikulttien ja joulun yhtäläisyyksistä ovat kerta toisensa jälkeen joko perättömiä, pinnallisia tai tekemällä tehtyjä.[^20] Monet katteettomista väitteistä ovatkin peräisin Alexander Hislopin kirjasta [The Two Babylons](the-two-babylons-kirja.md).[^21]
 
 ### Lähteet
-
-  1. Viitteet
-
-
 
 ## Viitteet
 

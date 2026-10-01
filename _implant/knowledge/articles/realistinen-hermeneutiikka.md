@@ -4,7 +4,7 @@ about: apologetics
 title: "Realistinen hermeneutiikka"
 description: "Realistinen hermeneutiikka luo konstruktivismia mielekkäämmän pohjan oppimiselle, koska sen mukaan todellisuudella ja tekstillä on itsenäinen ja objektiivinen merkitys jo ennen kuin se on tulkittu."
 tags: [apowiki, tieteenfilosofia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Realistinen hermeneutiikka".
@@ -115,8 +115,6 @@ Oppimiselle voidaan antaa mielekkäämpi kuvaus realistisen hermeneutiikan pohja
 * Vanhoozer, Kevin, *Is There A Meaning in this Text*, Apollos, 1998
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Gadamer 1975: 286; Kusch 1986: 107
 [^2]: Gallagher 1992

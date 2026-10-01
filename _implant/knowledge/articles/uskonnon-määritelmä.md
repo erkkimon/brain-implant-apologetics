@@ -4,7 +4,7 @@ about: apologetics
 title: "Uskonnon määritelmä"
 description: "Uskontoa on yritetty määritellä monella tapaa johtuen siitä, että se on äärimmäisen vaikeaa."
 tags: [apowiki, maailmankatsomus, mitä-on-uskonto]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Uskonnon määritelmä".
@@ -52,8 +52,6 @@ Määritelmän ongelma on yliluonnollisen määritteleminen.[^8] Kyseisen määr
 Sana uskonnoton viittaa asiaan, joka ei perustu uskontoon tai jossa ei ole uskontoa. Koska kaikilla ihmisillä on uskonvarainen katsomus, kaikki ihmiset ovat uskonnon tiedollisen määritelmän mukaan uskonnollisia. Tiedollisen määritelmän yhteydessä uskonnottomuus tarkoittaa ilmeisesti kantaa, jonka edustajat eivät tiedosta omia uskonvaraisia oletuksiaan.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Pohjanheimo, Outi, *Uskontotieteen perusteet*, Helsingin yliopisto, s. 5 (*Uskonto-käsitteen määritelmiä on lukuisia eikä niistä vallitse yksimielisyyttä.*)
 [^2]: T. Puolimatka, *[Usko, tiede ja evoluutio](usko-tiede-ja-evoluutio-kirja.md)*, 2008, ISBN 978-951-619-498-4

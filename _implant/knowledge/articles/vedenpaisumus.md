@@ -4,7 +4,7 @@ about: apologetics
 title: "Vedenpaisumus"
 description: "Perinteisesti vedenpaisumusteoriaa on todisteltu eri puolella maapalloa sijainneiden kulttuurien yhtenevillä legendoilla."
 tags: [apowiki, luomisoppi, tyngät]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Vedenpaisumus".
@@ -28,7 +28,5 @@ Perinteisesti vedenpaisumusteoriaa on todisteltu eri puolella maapalloa sijainne
 * [Alkuperäiskansat ja Jumala](alkuperäisheimot-ja-jumala.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Richard Anress (1835-1912) keräsi Marie-vaimonsa kanssa joka oli kansantarujen asiantuntija, tulvakatastrofilegendoja 88:sta eri kulttuurista ja heimoyhteisöstä, sekä idästä että lännestä. Von Humbelt, joka oli 1800- luvun suuria maantieteilijöitä, teki omat vastaavat tutkimuksensa Etelä-Amerikassa, vertasi omia tutkimuksiaan muihin vastaaviin ja tuli siihen tulokseen, että vastaavanlaisia traditioita oli kaikkialla maailmassa. Von Humbeltin mukaan mitä primitiivisemmästä kulttuurista kysymys, sitä selvemmin säilynyt vedenpaisumuskertomus sillä on. Muita aiheen tutkijoita ovat olleet Alfred Rechwinkel, Richard Andree, James G. Frazer, Sir Henry Howorth, Hugh Miller, Byron Nelson, Harold Peake, Johannes Riem, George Smith, Lowell Thomas, Isaac Newton Vail ja William Wundt

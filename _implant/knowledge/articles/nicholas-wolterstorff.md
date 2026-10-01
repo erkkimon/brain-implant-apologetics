@@ -4,7 +4,7 @@ about: apologetics
 title: "Nicholas Wolterstorff"
 description: "Nicholas Wolterstorff (s. 21. tammikuuta 1932, Bigelow, Minnesota) on yhdysvaltalainen filosofi, Yalen yliopiston Noah Porter -oppituolin filosofisen teologian emeritusprofessori ja Berkeley Collegen jäsen."
 tags: [apowiki, henkilöt, tyngät]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Nicholas Wolterstorff".
@@ -83,8 +83,6 @@ Wolterstorff argumentoi, että ihmisen arvoa ja ihmisoikeuksia ei pystytä oikeu
 * `http://www.iasc-culture.org/HHR_Archives/HumanDignity/9.3GWolterstorff.pdf` Nicholas Wolterstorff: The Irony of Human Rights
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Wolterstorff, Nicholas, *Justice: Rights and Wrongs*, Princeton University Press, 2008
 [^2]: Nicholas Wolterstorff: The Irony of Human Rights

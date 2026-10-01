@@ -4,7 +4,7 @@ about: apologetics
 title: "Geneettiset orvot"
 description: "Lisääntymisteknologian kehitys on tehnyt monille lapsettomille pareille mahdolliseksi lapsen saamisen."
 tags: [apowiki, seksuaalietiikka]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Geneettiset orvot".
@@ -292,8 +292,6 @@ Koska lapset eivät voi osallistua siihen prosessiin, jossa heidät tuotetaan, e
 *Östman, Jeannette (2014) “Tasa-arvo”, teoksessa Johanna Korhonen & Jeanette Östman (toim.) Kaikella rakkaudella. Sanoja seksuaalisuudesta ja sukupuolesta. Helsinki: Into-kustannus.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Somerville 2007
 [^2]: Grech 2012

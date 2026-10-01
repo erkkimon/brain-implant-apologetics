@@ -4,7 +4,7 @@ about: apologetics
 title: "Seksuaalivallankumous: perheen ja kulttuurin romahdus (kirja)"
 description: "Seksuaalivallankumous on Tapio Puolimatkan kirjoittama kirja, joka analysoi yhteiskuntaelämän keskeistä paradoksia: kun yksilön vapaus korotetaan ylimmäksi arvoksi, seurauksena on perheen ja yhteiskunnan hajoamisprosessi, jonka lopputuloksena yksilön vapaus kaventuu."
 tags: [apowiki, kirjat, seksuaalietiikka, tapio-puolimatka]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Seksuaalivallankumous: perheen ja kulttuurin romahdus (kirja)".
@@ -174,8 +174,6 @@ Timo Hännikäisen mukaan Puolimatkan teoksessa näkemykset ovat paikoin puuttee
 * [Yhteiskuntakoe lapsilla (kirja)](yhteiskuntakoe-lapsilla-kirja.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Huxley, Aldous, *Uusi uljas maailma*, Tammi, 2012, s. 15-16
 [^2]: https://www.youtube.com/watch?v=SZ4ZHVZEl60

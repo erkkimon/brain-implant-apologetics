@@ -4,7 +4,7 @@ about: apologetics
 title: "Kosmologinen argumentti"
 description: "Kosmologinen argumentti on Immanuel Kantin määritelmän mukaan sellainen Jumalan olemassaolon puolesta esitetty argumentti, jonka lähtökohta on olemassaolon kokemus yleensä."
 tags: [apowiki, filosofia, argumentit, kosmologia]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kosmologinen argumentti".
@@ -40,8 +40,6 @@ Edellä mainitut alalajit ovat tunnetuimmat, mutta niiden lisäksi on mahdollist
 * [Induktiivinen kosmologinen argumentti](https://uskojarkijafilosofia.wordpress.com/2010/12/15/induktiivinen-kosmologinen-argumentti/) (Usko, järki ja filosofia -blogi)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Richard Swinburne, The Existence of God, 2004, s.133
 [^2]: Craig ja Sinclair, ’The Kalam Cosmological Argument’ kirjassa Blackwell Companion to Natural Theology, 2009, s.101

@@ -4,7 +4,7 @@ about: apologetics
 title: "Teologinen konstruktivismi"
 description: "Teologiseksi konstruktivismiksi nimitetään näkemystä, jonka mukaan \"Jumala\" on pelkkä ihmismielen luomus."
 tags: [apowiki, eksegetiikka]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Teologinen konstruktivismi".
@@ -64,8 +64,6 @@ Kuvat perimmäisestä todellisuudesta vaihtelevat aikakaudesta ja kulttuurista t
 Kaufmanin ja Räisäsen uskonnollisen agnostismin mukaan kuva perimmäisestä todellisuudesta tulisi luoda sellaiseksi, että se parhaiten edistäisi inhimillisiä arvoja. Miltä pohjalta sitten luodaan käsitys inhimillisistä arvoista? Onko sekin pelkkä inhimillinen konstruktio? Onko sille olemassa jotakin perustaa siinä, millainen todellisuus on? Vai onko arvojen tarkoitus vain heijastella erilaisten ihmisten toiveita, mieltymyksiä, haaveita ja utopioita? Kun Kaufman ja Räisänen väittävät joidenkin konstruktioiden palvelevan ihmiskunnan hyvinvointia toisia paremmin, he herättävät samalla kysymyksen hyvinvoinnin määritelmästä. Millaisesta tiedosta käsin hyvinvoinnin ehdot määritellään? Inhimillisen hyvinvoinnin määrittely edellyttää tietoa ihmisluonnosta, ihmiselämän tarkoituksesta ja päämäärästä. Kaufmanin mukaan on mahdotonta antaa yleispätevää vastausta näihin perustaviin kysymyksiin. Toisaalta hän pitää kuitenkin itsestäänselvyytenä, että jotkut vaihtoehdot voidaan sulkea pois: ihmisen hyvinvointi ei voi riippua persoonallisesta suhteesta Jumalaan, joka on enemmän kuin pelkkä ajatuskonstruktio tai symboli. Koska monille ihmisille suhde Jumalaan on ihmisen hyvinvoinnin perusta, Kaufmanin agnostinen näkemys olettaa näiden ihmisten erehtyvän, koska kukaan ei voi aidosti tuntea Jumalaa. Teisteillä on oletettavasti perustavasti virheellinen kuva todellisuudesta, kun he olettavat, että ihmisen varsinainen hyvinvointi koostuu Jumalan tuntemisesta ja Jumalan yhteydessä elämisestä. Jos kukaan ei voi aidosti tuntea Jumalaa, Jeesus erehtyi julistaessaan onnellisiksi sellaiset ihmiset, jotka "saavat nähdä Jumalan" ( ([Matt. 5:8](../books/mat.md))). Näin agnostismi paradoksaalisesti olettaa omaavansa perimmäisen tiedon todellisuudesta ja ihmisen tiedon rajoista.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Kaufman, Gordon, *God the Problem*, Cambridge: Harvard University Press, 1972, s. 109
 [^2]: Kaufman, Gordon, *God the Problem*, Cambridge: Harvard University Press, 1972, s. 111

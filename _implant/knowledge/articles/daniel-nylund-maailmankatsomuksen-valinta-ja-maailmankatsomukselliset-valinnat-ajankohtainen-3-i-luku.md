@@ -4,7 +4,7 @@ about: apologetics
 title: "Daniel Nylund: Maailmankatsomuksen valinta ja maailmankatsomukselliset valinnat (Ajankohtainen 3, I luku)"
 description: "Maailmankatsomus on sarja ennakko-oletuksia maailmasta jossa elämme ja jota katselemme."
 tags: [apowiki, maailmankatsomus, tekijänoikeuden-alaiset-artikkelit]
-timestamp: 2026-10-01T19:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Daniel Nylund: Maailmankatsomuksen valinta ja maailmankatsomukselliset valinnat (Ajankohtainen 3, I luku)".
@@ -148,8 +148,6 @@ Vaikka seuraavat viisi totuuskriteeriä esitetäänkin kristillisen maailmankats
 * [VII luku: Entä sitten? Epäilen silti](daniel-nylund-entä-sitten-epäilen-silti-ajankohtainen-3-vii-luku.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Siteerattu Urpo Harvan kokeilumonisteessa "Maailmankatsomuksen ongelmat". Otava -73, s. 33
 [^2]: Kansainvälinen ihmisoikeusloukkauksia tutkiva ja niitä vähentämään pyrkivä järjestö

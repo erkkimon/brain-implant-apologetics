@@ -4,7 +4,7 @@ about: apologetics
 title: "Kaanon"
 description: "Kaanon, kreikan sanasta kanon (κανων, luetteloon otettu), tarkoittaa kristinuskossa yleensä Raamattuun hyväksyttyjen, ohjeellisiksi ja sitoviksi ymmärrettyjen kirjojen kokoelmaa."
 tags: [apowiki, raamatun-tekstit]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kaanon".
@@ -46,7 +46,5 @@ Septuagintaan, joka omaksuttiin Raamattumme rungoksi, kuului deuterokanonisia, T
 * Jasu Markkanen: [Kirjoja siellä, kirjoja täällä – Kuinka Uuden testamentin kaanon sai nykyisen muotonsa?](https://puolustajanpolku.fi/?id=27)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Kaarlo Arffman, *Kristinuskon historia*, Otava, 2004, s. 46, ISBN 951-37-4183-4

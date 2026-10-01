@@ -4,7 +4,7 @@ about: apologetics
 title: "Umpilisäke"
 description: "Ihmisen umpilisäke on tunnetuimpia esimerkkejä polveutumisopin todisteena pidetystä surkastumasta."
 tags: [apowiki, surkastuneet-elimet]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Umpilisäke".
@@ -61,8 +61,6 @@ Edelläsanotun valossa on perusteltua todeta, että yritys käyttää ihmisen um
 * [Huffington Post: Appendix Evolved Over 30 Times, May Perform Useful Function, Researchers Say](http://www.huffingtonpost.com/2013/02/14/appendix-evolved-over-30-times_n_2685499.html)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: *Evoluutio* s. 61-62
 [^2]: Siegfried Scherer, Reinhard Junker, *Evoluutio – kriittinen analyysi*, Datakirjat, 2000, s. 169-170, ISBN 951-98558-0-7

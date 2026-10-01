@@ -4,7 +4,7 @@ about: apologetics
 title: "Kriittinen ajattelu"
 description: "Kriittinen ajattelu edellyttää kykyä ajatella ja kykyä kritisoida."
 tags: [apowiki, yleistä-tietoa]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kriittinen ajattelu".
@@ -78,8 +78,6 @@ Keskustella siis kannattaa vain niiden kesken, jotka sekä suoraan että epäsuo
 <!-- -->
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: *Kriittisyydeksihän* riittää vaikkapa pelkkä tyytymättömyyden ilmaiseminen kaikkea ja kaikkia – tai myös aina samoina pysyviä aiheita – kohtaan.
 [^2]: Kulttuurisen hitauden ilmiö ei ole pelkästään kielteinen: useimmat ensinnä mieleen tulevat muutosehdotukset voivat tarkemmassa katsannossa osoittautuakin huononnuksiksi. Mikä hyvänsä innovatiivinen idea ei edusta todellista kriittistä ajattelua, eikä todellinenkaan kriittinen ajattelu välttämättä tuota käytännöllisiä innovaatioita, ainakaan nopeasti; mutta joka tapauksessa yhteisö, joka ei ylipäänsäkään suosi itsenäistä ajattelua eikä vallitsevien käsitysten kriittistä tarkastelua, jää myös sinänsä harvinaisista hyödyllisistä innovaatioista osattomaksi, ja ajan mittaan tämä on, varsinkin jollain tavoin kilpaillussa tilanteessa, omiaan johtamaan yhä paheneviin ongelmiin.

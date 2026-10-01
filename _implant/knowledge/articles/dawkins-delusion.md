@@ -4,7 +4,7 @@ about: apologetics
 title: "Dawkins Delusion"
 description: "The Dawkins Delusion eli Dawkins-harha on yleisnimitys Richard Dawkinsin kirjoittamaan The God Delusion eli Jumalharha -kirjaan pohjautuville parodioille."
 tags: [apowiki, parodiaa-käsittelevät-artikkelit, richard-dawkins]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Dawkins Delusion".
@@ -61,7 +61,5 @@ Vaikka Dawkinsin kirjoittamina pidetyt tekstit olisivatkin jonkun suunnittelemia
 * [Ellen Barrington: *Do you believe Richard Dawkins exists?*](http://creation.com/does-dawkins-exist)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: [*Does Richard Dawkins Exist?*](http://david.dw-perspective.org.uk/does-richard-dawkins-exist.html)

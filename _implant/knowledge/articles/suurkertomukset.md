@@ -4,7 +4,7 @@ about: apologetics
 title: "Suurkertomukset"
 description: "Kertomukset (narraatiot, narratiivit) ovat ihmiselle luonteenomainen tapa asioiden hahmottamiseen ja jäsentämiseen."
 tags: [apowiki, maailmankatsomus]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Suurkertomukset".
@@ -160,8 +160,6 @@ Apologetiikkaa voi jo määritelmänsäkin perusteella luonnehtia pyrkimykseksi 
 Toisaalta apologeetan ei kuitenkaan tule kuvitella, että pelkkä järjellisesti ylivoimainen argumentti vakuuttaisi suurkertomusrajantakaisen yleisön: väkevä menettää saaliinsa vain vielä väkevämmän nujertamana, ei siksi, että saalis lähtisi itse kävelemään aarrekammiosta toiseen; suurkertomukset kirjaimellisesti "vangitsevat yleisönsä", ja vain osa niiden tarttumapintaa ja vaikutustapaa paikantuu apologetiikan kannalta keskeiselle järjen alueelle. Tämä ei liioin ole apologetiikallemme pelkästään kielteinen asia, vaan toisaalta siitä, ettei paraskaan apologetiikka välttämättä riittäisi voittamaan tiettyjä tahoja kannattajiksi meidät voittaneelle suurkertomukselle, seuraa myös se, että harjoittamamme apologetiikan mahdollinen riittämättömyys voittamaan tiettyjä tahoja suurkertomuksemme kannalle ei välttämättä merkitse epäonnistumistamme apologeettoina. Eihän ollut lääkärin vika, jos tauti oli niin ankara, etteivät parhaatkaan käytettävissä olleet lääkkeet siihen auttaneet. Toiset potilaat kuitenkin voivat vielä saada tarvitsemansa avun näistä aivan samoista tropeista.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Kulloinenkin korvaava kertomus poikkeaa korvaajan omasta suurkertomuksesta jossain suhteessa samantapaisesti kuin korvattava kertomuskin.
 [^2]: Kunkin suurkertomuksen asema suurkertomuksena on sinänsä riippumaton siitä, missä järjestyksessä suurkertomuksen kriteerit sen osalta ovat historiassa täyttyneet.

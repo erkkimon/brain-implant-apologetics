@@ -4,7 +4,7 @@ about: apologetics
 title: "Avioliitto"
 description: "Avioliitto on yleismaailmallinen instituutio, joka on jo vuosituhansien ajan muodostanut osan kaikkia inhimillisiä kulttuureja."
 tags: [apowiki, seksuaalietiikka, lukusuositukset]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Avioliitto".
@@ -163,8 +163,6 @@ Koska oikea käsitys avioliitosta on edellytys ihmisten hyvinvoinnille, valtioll
 * [Douglas Allen](douglas-allen.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Hans Biedermann, *Suuri symbolikirja*, Suom. Pertti Lempiäinen, WSOY, 1993, s. 349–350, ISBN 951-0-18537-X
 [^2]: Girgis, Sherif & George, Robert P. & Anderson, Ryan T., *What is Marriage?*, Harvard Journal of Law & Public Policy, 1, 246<!-- s. 245−287-->

@@ -4,7 +4,7 @@ about: apologetics
 title: "Nailonbakteerit"
 description: "Nailonbakteerit ovat joukko mikrobeja, jotka kykenevät hajottamaan lyhyitä nailon 6 polymeerejä (oligomeerejä)."
 tags: [apowiki, evoluutioteoria]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Nailonbakteerit".
@@ -53,8 +53,6 @@ Than esittää kolme vaihtoehtoa:
 Luominen.fi: [Nylonbakteerista](http://luominen.fi/nylonbakteerista)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Ker Than, [Why scientists dismiss 'intelligent design'](https://www.nbcnews.com/id/wbna9452500), NBC, 23.9.2005, viitattu 30.12.2022
 [^2]: *verkkolähde*

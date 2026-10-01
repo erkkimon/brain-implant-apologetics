@@ -4,7 +4,7 @@ about: apologetics
 title: "Pascalin peliteoria"
 description: "Pascalin peliteoria (Pascalin vaaka, Pascalin vedonlyönti, Pascalin argumentti, peliteoreettinen argumentti, pelurin todistus) on yksi peruste uskoa Jumalaan."
 tags: [apowiki, maailmankatsomus, pascalin-veto, pascalin-vaaka, blaise-pascal, pascalin-gambiitti, pascalin-peliteoria, ateismi, teismi, järki, usko, tieto]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Pascalin peliteoria".
@@ -159,8 +159,6 @@ Tämän takia ihmisen, joka ei voi olla varma ateismin totuudellisuudesta, ei j�
 * Warburton, Nigel, *Philosophy: Basic Readings*, London: Routledge, 1999, ISBN 0-415-18720-6 – Selostaa laajasti Pascalin vaakaa.
 
 ### Viitteet
-
-  1. Viitteet
 
 
 

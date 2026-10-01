@@ -4,7 +4,7 @@ about: apologetics
 title: "Kanoninen kritiikki (raamatuntutkimus)"
 description: "Kanonisen kritiikin mukaan perinteinen historiallis-kriittinen raamattukritiikki jättää liian helposti huomiotta tekstin sellaisena kuin me sen tunnemme ja päästää mielikuvituksen valloilleen ”alkuperäistä” tekstiä etsiessään."
 tags: [apowiki, raamattu, historia, eksegetiikka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kanoninen kritiikki (raamatuntutkimus)".
@@ -37,8 +37,6 @@ Peter Ballan[^11][^12] mukaan jo pelkästään historiallisilla perusteilla on p
 Räisänen[^13] kritisoi Ballaa ”kömpelöstä harmonisoinnista”. Balla[^14] kuitenkin kiinnittää huomiota siihen, ettei hän ole keinotekoisesti luonut harmoniaa sinne missä sitä ei tosiasiallisesti ole. Hän on historiallisen tutkimuksen pohjalta löytänyt harmonian Uuden testamentin kaanonissa. Sikäli kuin tällainen yhtenäisyys voidaan osoittaa, tutkijan on oltava valmis tunnustamaan sen olemassaolo, vaikka tällaisen yhtenäisyyden olemassaolo olisi jostakin syystä vastoin hänen ennakko-oletuksiaan tai mieltymyksiään. Varhaiskristittyjen yhtenäisestä teologisesta näkemyksestä kertovat uskontunnustuksen muotoon puetut lyhyet opilliset tiivistelmät, joita löytyy Uuden testamentin teksteistä. Lisäksi Uuden testamentin varhaisissa koodekseissa (kirjanmuotoisissa käsikirjoituksissa) on 15 sanaa, jotka esiintyvät lyhennetyssä muodossa. Tällaisia sanoja ovat Jeesus, Kristus, Herra, Jumala, henki, risti, Isä, Poika, Vapahtaja jne. Näitä lyhenteitä ei käytetty tilan säästämiseksi, koska usein tekstissä on niiden jälkeen tyhjää tilaa, vaan näillä sanoilla oli erityinen merkitys varhaisten kristittyjen yhtenäisen teologian osina. Lyhenteiden käyttö kertoo kulttuurista, jossa keskeiset merkityssisällöt ovat yhteisiä.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Sanders, James, *Torah and Canon*, Philadelphia: Fortress, 1972
 [^2]: Childs Brevard S., *Biblical Theology in Crisis*, Philadelphia: Westminster, 1970, s. 99

@@ -4,7 +4,7 @@ about: apologetics
 title: "Jälkikristillisen maailman kauhut (kirja)"
 description: "Jälkikristillisen maailman kauhut on Tapio Puolimatkan kirjoittama kirja, joka pyrkii vastaamaan kysymykseen: Mihin suuntaan yhteiskunta kehittyy, kun kristinuskon omaatuntoa herkistävä vaikutus heikkenee?"
 tags: [apowiki, kirjat, tapio-puolimatka]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jälkikristillisen maailman kauhut (kirja)".
@@ -117,8 +117,6 @@ Länsimaisen koulutuksen saaneen ihmisen voi olla vaikea tiedostaa kristinuskon 
 *[Viisauden ja tiedon aarteet Kristuksessa (kirja)](viisauden-ja-tiedon-aarteet-kristuksessa-kirja.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Ks. esim. Angenendt, Arnold, *Toleranz und Gewalt: Das Christentum zwischen Bibel und Schwert*, Münster: Verlag Aschendorff, 2009 ja [Harrison, Peter](peter-harrison.md), *[The Fall of Man and the Foundations of Science](the-fall-of-man-and-the-foundations-of-science-kirja.md)*, Cambridge University Press, 2007
 [^2]: Virkkunen, Paavo, *Kristinuskon opetusoppi*, Helsinki:Otava, 1909/1925, s. 24-29

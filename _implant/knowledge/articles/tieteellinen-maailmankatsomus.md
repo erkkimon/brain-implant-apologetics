@@ -4,7 +4,7 @@ about: apologetics
 title: "Tieteellinen maailmankatsomus"
 description: "Tieteellistä maailmankatsomusta pidetään usein uskonnollisen ajattelun vastakohtana."
 tags: [apowiki, maailmankatsomus]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tieteellinen maailmankatsomus".
@@ -490,8 +490,6 @@ Pluralistinen lähestymistapa suosittaa tieteellisessä tutkimuksessa avointa tu
 * [Rea, Michael C.](michael-c-rea.md), *[World Without Design](world-without-design-kirja.md)*, Clarendon Press, 2002, 0-19-924760-9
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Niiniluoto 1980: 87–88
 [^2]: Niiniluoto 1984: 86–87

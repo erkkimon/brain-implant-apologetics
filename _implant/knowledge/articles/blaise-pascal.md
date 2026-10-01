@@ -4,7 +4,7 @@ about: apologetics
 title: "Blaise Pascal"
 description: "Blaise Pascal (19. kesäkuuta 1623 – 19. elokuuta 1662) oli ranskalainen matemaatikko, fyysikko ja uskonnollinen filosofi ."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Blaise Pascal".
@@ -63,10 +63,6 @@ Sydämen tieto ei ole sokeaa vaan se on verrattavissa perustaviin matemaattisiin
 * Pascalin ja Sacin keskustelu [Epiktetoksesta](https://fi.wikipedia.org/wiki/Epiktetos) ja [Montaignesta](https://fi.wikipedia.org/wiki/Montaigne) ilmestynyt osana L. F. Rosendalin suomentamaa teosta Blaise Pascal, *Mietteitä* 1952.) ISBN 951-0-26742-2. (sid.)
 
 ### Lähteet
-
-  1. Viitteet
-
-
 
 ## Viitteet
 

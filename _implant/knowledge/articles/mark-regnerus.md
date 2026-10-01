@@ -4,7 +4,7 @@ about: apologetics
 title: "Mark Regnerus"
 description: "Mark Regnerus (s. 1971) on Texasin yliopiston (Austin) sosiologian professori."
 tags: [apowiki, henkilöt, seksuaalietiikka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Mark Regnerus".
@@ -101,8 +101,6 @@ Pennsylvanian valtionyliopiston sosiologian professori **Paul Amato**, joka itse
 *Regnerus, Mark, *Parental same-sex relationships, family instability, and subsequent life outcomes for adult children: Answering critics of the new family structures study with additional analyses*, Social Science Research, 41 (6), 1367−1377
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Regnerus 2012a
 [^2]: Regnerus 2012a: 15

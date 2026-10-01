@@ -4,7 +4,7 @@ about: apologetics
 title: "Joosuan kirja"
 description: "Joosuan kirja kuvaa sitä, miten Israel valloitti Kanaanin maan Joosuan johdolla."
 tags: [apowiki, raamattu, raamatun-tekstit]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Joosuan kirja".
@@ -42,8 +42,6 @@ Arkeologinen todistusaineisto sopii siis yhteen Raamatun kuvauksen kanssa. Lisä
 1. Tutkijayhteisössä vallitsee naturalistinen ilmapiiri, joka johtaa suosimaan sellaisia selityksiä, jotka olettavat Raamatun olevan historiallisesti epäluotettava ja ristiriitainen.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: V. Philips Long, *The Art of Biblical History*, Grand Rapids, Michigan: Zondervan, 1994, s. 160-168, ISBN 978-0310431800
 [^2]: V. Philips Long, *The Art of Biblical History*, Grand Rapids, Michigan: Zondervan, 1994, s. 161, ISBN 978-0310431800

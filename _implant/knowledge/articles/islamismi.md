@@ -4,7 +4,7 @@ about: apologetics
 title: "Islamismi"
 description: "Islamismi tai poliittinen islam (myös \"islamilainen fundamentalismi\" -nimitystä näkee käytettävän) tarkoittaa islamin tulkintoja, jotka painottavat uskonnon poliittis-yhteiskunnallista luonnetta, mitä kautta islam ymmärretään paitsi uskonnoksi myös poliittiseksi ideologiaksi."
 tags: [apowiki, islam, keskeneräiset-artikkelit]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Islamismi".
@@ -181,8 +181,6 @@ http://www.mtholyoke.edu/acad/intrel/news/osama.htm – Amerikkalaistahon reagoi
 * Tibi, Bassam, *Islamism & Islam*, New Haven: Yale University Press, 2012
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Katri Merikallio, *Islamin vuoro*, Suomen Kuvalehti, 7, 20–23
 [^2]: Muhammadin ilmoittamaan Allahin tahtoon alistuneisuuteen ja antautuneisuuteen

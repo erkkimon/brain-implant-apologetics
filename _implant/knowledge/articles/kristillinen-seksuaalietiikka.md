@@ -4,7 +4,7 @@ about: apologetics
 title: "Kristillinen seksuaalietiikka"
 description: "Raamatun seksuaalietiikan ytimessä on ajatus, että ihminen on luotu Jumalan kuvaksi, naiseksi ja mieheksi."
 tags: [apowiki, seksuaalietiikka]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kristillinen seksuaalietiikka".
@@ -45,8 +45,6 @@ Avoliittoa ei voida pitää kristillisenä parisuhteen muotona, sillä siihen ty
 * [Sukupuolietiikka](sukupuoli.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^2]: "Älä hyppää heti sänkyyn - vahvistat avioliittoa", Johanna Rytkönen, Tohtori.fi, 15.01.2011, Viitattu 9.1.2016
 [^3]: Tällainen henkilö on saattanut harrastaa seksiä mahdollisissa aiemmissa avioliitoissaan.

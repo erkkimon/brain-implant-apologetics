@@ -4,7 +4,7 @@ about: apologetics
 title: "Galileo Galilei"
 description: "Tätä henkilöä käsitellään ApologetiikkaWikissä, koska hänen työllään on ollut suuri merkitys tieteen kehitykselle sekä tieteen ja kristinuskon väliselle suhteelle Galileo Galilei (15."
 tags: [apowiki, henkilöt]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Galileo Galilei".
@@ -67,7 +67,5 @@ Projisoimalla omat metodologiset näkemyksensä Galileoon, Mach loi Galileosta m
 Paitsi että tieteen historian tutkimus on kääntynyt pois positivismin tieteen historialle antamasta tulkinnasta, positivistinen käsitys on myös kyseenalaistettu tieteenfilosofisessa keskustelussa. Tieteentekijät eivät tee työtään riippumattomina maailmankatsomuksellisista lähtökohdistaan. He eivät toimi irrallaan todellisuuden luonnetta koskevista intuitioista ja uskomuksista. Tieteen ja ei-tieteen välistä rajaviivaa ei ole pystytty määrittelemään maailmankatsomuksellisesti neutraalilla tavalla. Erilaisista filosofisista ja maailmankatsomuksellisista lähtökohdista tieteellisen tutkimuksen luonne ymmärretään eri tavoin, ja siten myös rajaviiva tieteen ja ei-tieteen välillä vedetään eri tavoin.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^4]: [Alister McGrath](alister-mcgrath.md), *[Modernin teologian ensyklopedia](https://books.google.fi/books/about/Modernin_teologian_ensyklopedia.html?id=2q_AAQAACAAJ&redir_esc=y)*, Polkinghorne, John kappaleessa *Fysiikka ja kristillinen ajattelu*, [Kirjapaja](http://www.kirjapaja.fi), 13.03.2000, s. 206, ISBN 9516254950

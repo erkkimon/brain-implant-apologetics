@@ -4,7 +4,7 @@ about: apologetics
 title: "Opettaako 1. Moos. 30:39 taikagenetiikkaa?"
 description: "”Jaakob otti tuoreita valkopoppelin, mantelipuun ja plataanin oksia ja kuori niihin raitoja niin, että valkoinen puu paljastui."
 tags: [apowiki, raamattu]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Opettaako 1. Moos. 30:39 taikagenetiikkaa?".
@@ -35,7 +35,5 @@ Toisin sanoen lukijalle kerrotaan nyt, että Jumala vaikutti tapahtumiin tasoitt
 Raamattu vetää meitä toisinaan nenästä – ja kuten Jaakobin kohdalla, se pakottaa meidät aina silloin tällöin katsomaan peiliin.[^1]
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: [Does Genesis teach odd genetics?](http://www.tektonics.org/lp/oddgenes.php), viitattu 1.1.2023

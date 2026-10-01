@@ -4,7 +4,7 @@ about: apologetics
 title: "Polveutumisoppi"
 description: "Polveutumisopin mukaan kaikki eliöt ovat polveutuneet yhteisestä kantamuodostaan ohjatusti tai ohjaamattomasti."
 tags: [apowiki, evoluutioteoria]
-timestamp: 2026-10-01T20:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Polveutumisoppi".
@@ -154,8 +154,6 @@ Evoluutiotutkijat pitivätkin koodin muuttumista pitkään mahdottomana. Sittemm
 #### ApologetiikkaWiki
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Casey Luskin: [A Primer on the Tree of Life](http://www.discovery.org/a/10651) May 12, 2009 Evolution News & Views. Viitattu 4.11.2009
 [^2]: Chang, L. Y., & Slightom, J. L. 1984. [Isolation and nucleotide sequence analysis of the beta-type globin pseudogene from human, gorilla and chimpanzee](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6WK7-4DM21PF-7H&_user=10&_coverDate=12%2F25%2F1984&_rdoc=1&_fmt=high&_orig=search&_sort=d&_docanchor=&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=5add4c09bdbb9cebeff66032cbdd9b7f), J. Mol. Biol. 180:767-84.

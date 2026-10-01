@@ -4,7 +4,7 @@ about: apologetics
 title: "ATP-syntaasi"
 description: "Kuva: ATP-syntaasikone yksitellen valmistettujen proteiinialayksiköiden avulla kuvattuna, kukin nimettynä kreikkalaisilla kirjaimilla."
 tags: [apowiki, luomisoppi, suunnitteluteoria, redusoimattomat-järjestelmät]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "ATP-syntaasi".
@@ -62,8 +62,6 @@ ATP-syntaasi kertoo sen luojan viisaudesta, älykkyydestä, kyvykkyydestä ja j�
 * [Suunnitteluteoria](suunnitteluteoria.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Mukailtu Kanehisa Laboratorioilta, <www.genome.jp/kegg>
 [^2]: Filosofiassa tätä kutsutaan [teleologiseksi argumentiksi](teleologinen-argumentti.md) Jumalasta.

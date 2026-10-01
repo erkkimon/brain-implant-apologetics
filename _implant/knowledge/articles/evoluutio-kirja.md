@@ -4,7 +4,7 @@ about: apologetics
 title: "Evoluutio (kirja)"
 description: "Evoluutio on maineikkaan evoluutiobiologi Ernst Mayrin kirjoittama evoluutioteorian yleistajuinen oppikirja."
 tags: [apowiki, kirjat, darwinismi]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Evoluutio (kirja)".
@@ -259,8 +259,6 @@ Evoluutioteorian kannalta hyvin merkittäviin kysymyksiin kuuluu se, miten ulkoi
 Johtopäätöksissään Mayr toteaa, että kaikkein tyydyttävintä on se, että löydöt ovat sopusoinnussa Darwinin yhteisen polveutumisen teorian kanssa. Fossiiliaineisto yhdessä molekyylimenetelmien kanssa tuottaa kiistatonta todistusaineistoa evoluution puolesta. Varsieväkalojen ajateltiin aiemmin kuolleen sukupuuttoon, koska niitä tunnettiin vain 60 miljoonaa vuotta vanhoina fossiileina. Viimeisen 50 vuoden aikana on kuitenkin löytynyt kaksi elävää varsieväkalalajia. Tällaiset yllättävätkin löydöt ovat Mayrin mukaan aina sopineet ilman ongelmia darvinistiseen kehyskertomukseen.[^88]
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: *Evoluutio*, (What evolution is, 2001.) Suomentanut Jani Kaaro. Tieteen huiput, WSOY, 2003, ISBN 951-0-27897-1
 [^2]: *Evoluutio*, s. 24

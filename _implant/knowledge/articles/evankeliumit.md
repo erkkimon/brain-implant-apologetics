@@ -4,7 +4,7 @@ about: apologetics
 title: "Evankeliumit"
 description: "Ei-kristillisten lähteiden lisäksi on olemassa huomattava määrä Jeesuksesta kertovia kristillisiä lähteitä."
 tags: [apowiki, raamatun-tekstit]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Evankeliumit".
@@ -96,8 +96,6 @@ Minkään evankeliumin kirjoittajan nimestä ei ole varmuutta.[^4] Vaikka esimer
 * [Uuden testamentin luotettavuus](uuden-testamentin-luotettavuus.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Eusebius, *Eusebiuksen Kirkkohistoria*, Käänt. Ivar A Heikel. Helsinki: Otava, 1937, s. 3:39:4
 [^2]: Bauckham, R., *Jesus and the Eyewitnesses. The Gospels as Eyewitness Testimony*, Grand Rapids, Mich.: Eerdmans, 2006, s. 308-309

@@ -4,7 +4,7 @@ about: apologetics
 title: "Epätäydellinen suunnittelu (argumentti)"
 description: "Useat biologit antavat ymmärtää, ettei suunnitteluteorian puolesta voida esittää mitään empiiristä näyttöä, mutta voivat jopa samaan hengenvetoon todeta, että biologiassa havaitut epätäydelliset rakenteet tarjoavat suoranaista empiiristä näyttöä suunnittelua vastaan."
 tags: [apowiki, suunnitteluteoria, lukusuositukset]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Epätäydellinen suunnittelu (argumentti)".
@@ -136,8 +136,6 @@ Ihmisen *häntäluuta* pidetään usein hännän surkastuneena jäänteenä. Se 
 *[Jumalan kaikkivaltius](jumalan-kaikkivoipuus.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Tätä mieltä on mm. Behe: Kojonen, Rope, *Kertooko luonnon järjestys suunnittelusta?*, Michael Behe älykkään suunnittelun ajatuksen puolustajana, Helsingin Yliopisto, 2008, s. 47 (*Käsitys täydellisyydestä on hänen mukaansa aina riippuvainen siitä, mitä päämäärää varten jokin asia on suunniteltu.*)
 [^2]: Muutoin suunnittelija olisi deterministinen ja tarkoitukseton prosessi, ja suunnittelijan käsite olisi täysin merkityksetön.

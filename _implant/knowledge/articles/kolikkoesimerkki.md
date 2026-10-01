@@ -4,7 +4,7 @@ about: apologetics
 title: "Kolikkoesimerkki"
 description: "Kolikkoesimerkki on perinteinen analogia, jolla pyritään vetämään matto suunnittelua puolustavien argumenttien alta, jotka vetoavat äärimmäiseen epätodennäköisyyteen."
 tags: [apowiki, suunnitteluteoria, lukusuositukset]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kolikkoesimerkki".
@@ -49,8 +49,6 @@ Kolikkoesimerkki on [virheellinen analogia](https://fi.wikipedia.org/wiki/virhee
 Lisäksi kolikkoesimerkki perustuu oletukselle siitä, että todennäköisyydet ovat merkityksettömiä, ja tämä oletus tekisi tieteestä täysin turhaa.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: http://hollolanlukio.blogspot.com/2009/12/sattuma-vai-tarkoitus.html
 [^2]: E.T. Jaynes, [Probability Theory, The Logic of Science](http://www.amazon.com/Probability-Theory-Logic-Science-Vol/dp/0521592712), 2003, Cambridge University Press

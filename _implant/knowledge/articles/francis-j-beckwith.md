@@ -4,7 +4,7 @@ about: apologetics
 title: "Francis J. Beckwith"
 description: "Francis J. \"Frank\" Beckwith (syntynyt 1960) on amerikkalainen filosofi, kristitty apologeetta, tutkija ja luennoitsija."
 tags: [apowiki, henkilöt, seksuaalietiikka]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Francis J. Beckwith".
@@ -52,9 +52,7 @@ Hän asuu vaimonsa kanssa Teksasissa.
 
 ### Viittaukset
 
-  1. Viitteet
-
-
+## Viitteet
 
 ### Muita lähteitä
 * Kenneth D. Boa and Robert M. Bowman, *Faith Has Its Reasons: An Integrative Approach to Defending Christianity* (Colorado Springs: NAV Press, 2001), pp. 214–217.
@@ -65,8 +63,6 @@ Hän asuu vaimonsa kanssa Teksasissa.
 *[review by Douglas Groothuis](http://www.arn.org/docs/groothuis/dg_beckwithpc.htm) of *Law, Darwinism and Public Education*, *Philosophia Christi*, 5/1 (2003)
 <!-- *[A critical book review of The Mormon Concept of God](http://farms.byu.edu/display.php?table=review&id=226) by Blake T. Ostler, a Mormon scholar. *FARMS Review* 8/2 1996 pp 99–146. -->
 *[Antidote to abortion arguments, a favorable review](http://creation.com/antidote-to-abortion-arguments) by Jonathan Sarfati  of *Politically Correct Death*
-
-## Viitteet
 
 [^1]: [Bio-ethics Philosopher and Evangelical President Francis Beckwith Joins Catholic Church](https://www.lifesitenews.com/news/bio-ethics-philosopher-and-evangelical-president-francis-beckwith-joins-cat) - Viitattu 4.3.2021
 [^2]: [Baylor denies tenure to highly regarded Beckwith](https://www.baptistpress.com/resource-library/news/baylor-denies-tenure-to-highly-regarded-beckwith/) - viitattu 4.3.2021

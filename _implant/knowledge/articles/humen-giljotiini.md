@@ -4,7 +4,7 @@ about: apologetics
 title: "Humen giljotiini"
 description: "En voi pidättäytyä lisäämästä näihin päätelmiin havaintoa, jolla voidaan, ehkäpä, nähdä jonkinlaista merkitystä."
 tags: [apowiki, tieteenfilosofia, tyngät]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Humen giljotiini".
@@ -43,8 +43,6 @@ Siinä vaiheessa kun kaikki argumentit on lyöty pöytään ja kukin on punninnu
 * Reasonable faith: [William Lane Craig](william-lane-craig.md): [*Does Theistic Ethics Derive an “Ought” from an “Is”?*](http://www.reasonablefaith.org/does-theistic-ethics-derive-an-ought-from-an-is)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: [Ihmeellinen maailma: Humen giljotiini](http://www.skepsis.fi/ihmeellinen/humen_giljotiini.html), Skepsis ry, viitattu 16.2.2014
 [^2]: Voidaan tutkia, minkälainen lainsäädäntö edistää parhaiten näiden arvojen toteutumista.

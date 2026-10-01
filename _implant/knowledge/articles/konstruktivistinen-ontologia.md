@@ -4,7 +4,7 @@ about: apologetics
 title: "Konstruktivistinen ontologia"
 description: "Ontologia on filosofinen oppi siitä, mitä on olemassa. Konstruktivistisen ontologian mukaan todellisuus ei koostu tietystä määrästä tietynlaisia asioita, esineitä ja olioita."
 tags: [apowiki, filosofia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Konstruktivistinen ontologia".
@@ -60,8 +60,6 @@ Grandyn[^4] mukaan kognitiivinen konstruktivismi sopii yhteen sekä ontologisen 
 * [Supranaturalistinen tutkimusohjelma](supranaturalistinen-tutkimusohjelma.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Putnam, Hilary, *Reason, Truth and History*, Cambridge: Cambridge university Press, 1981, s. 52; suomennos Lammenranta 1993: 59
 [^2]: Putnam, Hilary, *Representation and Reality*, Cambridge, Mass.: MIT Press, 1989, s. 110

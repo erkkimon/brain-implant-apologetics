@@ -4,7 +4,7 @@ about: apologetics
 title: "Orjuus"
 description: "Orjuus on 1. yhteiskunnallinen järjestelmä (\"Orjuus vallitsi antiikin Kreikassa ja Roomassa\") ja 1."
 tags: [apowiki, etiikka, raamattu, historia]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Orjuus".
@@ -86,8 +86,6 @@ Kristillisen etiikan kannalta on olennaista ymmärtää, että ihmisen eettinen 
 * [Café Raamattu > Orjuus Raamatun valossa (TV7)](http://www.tv7.fi/vod/player/24090/)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Näihin ei ole luettu mukaan totalitaaristen maiden omaan väestöönsä kohdistamaa toimintaa.
 [^2]: *"Today, according to the International Organization for Migration (IOM), millions of people, primarily women and children, are subjected to this tragic fate ..."* `http://www.unesco.org/new/en/social-and-human-sciences/themes/slave-route/modern-forms-of-slavery/` [luettu 19.8.2019]

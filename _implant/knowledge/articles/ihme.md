@@ -4,7 +4,7 @@ about: apologetics
 title: "Ihme"
 description: "Ihme määritellään yleensä tapahtumaksi, joka ei selity luonnonlaeilla."
 tags: [apowiki, jumala, ihmeet]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ihme".
@@ -77,8 +77,6 @@ Tilanne on analoginen seuraavan kanssa: Henkilö A tiputtaa pallon esitelläksee
 * [Ihmeet](https://www.areiopagi.fi/ihmeet/)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: *verkkolähde*
 [^2]: osin yo. argumentin perusteella, mikä on tietysti kehäpäättelyä.

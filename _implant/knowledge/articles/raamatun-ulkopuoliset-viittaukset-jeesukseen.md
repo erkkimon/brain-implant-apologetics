@@ -4,7 +4,7 @@ about: apologetics
 title: "Raamatun ulkopuoliset viittaukset Jeesukseen"
 description: "Historiallisen Jeesuksen olemassaoloa ei juuri kukaan vakavasti otettava tutkija epäile."
 tags: [apowiki, historia, jeesus]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Raamatun ulkopuoliset viittaukset Jeesukseen".
@@ -131,8 +131,6 @@ Koraanissa Jeesus ja Maria esiintyvät nimillä Isa ja Mirjam.
 
 -->
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Evans C. A. "Life-of-Jesus Research and the Eclipse of Mythology," Theological Studies 54 (1993):7, n. 22. Lain. Yamauchi E. M. "Jesus Outside the New Testament: What Is the Evidence", teoksessa Jesus under Fire ed. Wilkins & Moreland, (1995) Grand Rapids, Michigan, Zondervan Publishing House.
 [^2]: Doherty E. "Jeesuksen arvoitus - Oliko olemassa ihmistä Jeesus Nasaretilainen?"

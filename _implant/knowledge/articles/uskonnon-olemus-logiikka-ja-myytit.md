@@ -4,7 +4,7 @@ about: apologetics
 title: "Uskonnon olemus, logiikka ja myytit"
 description: "Erästä viimeaikaista uskonrauhan rikkomissyytettä käsitelleeseen juttuun antamassaan ratkaisussa Helsingin käräjäoikeus oli lausunut mm."
 tags: [apowiki, media, maailmankatsomus]
-timestamp: 2026-10-01T20:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Uskonnon olemus, logiikka ja myytit".
@@ -77,8 +77,6 @@ Kaiken kaikkiaan näyttäisikin siis siltä kuin Helsingin käräjäoikeus olisi
 -->
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: `http://www.kko.fi/58715.htm`: Asian käsittely alemmissa oikeuksissa – Käräjäoikeuden tuomio 8.9.2009 – Kohta 1: Uskonrauhan rikkominen – neljännen kappaleen toinen ja kolmas virke. https://uskonnonvapaus.fi/lait/hki-ko-2009-09-08.html, viitattu 3.5.2017
 [^2]: väärinkäytösten välttämiseksi kaikkien kulloinkin asianosaisten tahojen edustajien yhdessä kontrolloiman järjestelyn mukaisesti tietenkin

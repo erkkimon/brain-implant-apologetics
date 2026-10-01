@@ -4,7 +4,7 @@ about: apologetics
 title: "Lukijalähtöinen tutkimus (raamatuntutkimus)"
 description: "Kirjallisuudentutkimuksen piirissä on vähitellen siirrytty tekijäkeskeisyydestä tekstikeskeisyyden kautta kohti lukijakeskeisyyttä."
 tags: [apowiki, raamattu, historia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Lukijalähtöinen tutkimus (raamatuntutkimus)".
@@ -47,8 +47,6 @@ Thiselton[^5] luettelee viisi kielteistä seuraamusta, joita tällaisella teoria
 1. Tulisi mahdottomaksi tunnistaa edes systemaattisia opillisia virheitä. Sosiaalisen pragmatismin mukaan totuuden kriteerit määräytyvät niiden ehdoilla, jotka ovat saaneet yhteisössä valta-aseman.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Thiselton, Anthony C., *New Horizons in Hermeneutics. The Theory and Practice of Transforming Biblical Reading*, Grand Rapids, Mich. Zondervan, 1992, s. 530
 [^2]: Thiselton, Anthony C., *New Horizons in Hermeneutics. The Theory and Practice of Transforming Biblical Reading*, Grand Rapids, Mich. Zondervan, 1992, s. 515

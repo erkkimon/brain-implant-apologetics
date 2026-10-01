@@ -4,7 +4,7 @@ about: apologetics
 title: "Oslon-Utøyan verilöyly 2011"
 description: "Norjalainen Anders Behring Breivik nousi yleiseen tietoisuuteen surmaamalla 22.7.2011 Oslossa ja vajaat 40 km siitä luoteeseen sijaitsevalla Utøyan saarella tarkoitushakuisen suunnitelmallisesti ja kylmäverisesti 77 ihmistä, joista räjähtein kahdeksan ja tuliasein 69."
 tags: [apowiki, henkilöt, keskeneräiset-artikkelit]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Oslon-Utøyan verilöyly 2011".
@@ -91,8 +91,6 @@ Sivulla 1361 Breivik kysyy ja vastaa:
 On siis selvää, että Breivikin sairaalloisen terroristinen ja rikollinen usko omaan marttyyriuteensa ja taivaaseen pääsemiseen sen avulla ei ole noussut raamatullisesta uskosta Jeesukseen Kristukseen eikä konservatiivisista kristillisistä moraalikäsityksistäkään, vaan pikemminkin muistuttaa hämmästyttävällä tavalla juuri niitä islamistiterroristien käsityksiä, joita Breivik oli kovasti vastustavinaan.
 
 ### Viitteet
-
-  1. Viitteet
 
 
 

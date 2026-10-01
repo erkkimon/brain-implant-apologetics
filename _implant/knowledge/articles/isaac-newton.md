@@ -4,7 +4,7 @@ about: apologetics
 title: "Isaac Newton"
 description: "Tätä henkilöä käsitellään ApologetiikkaWikissä, koska hänen työllään on ollut suuri merkitys tieteen kehitykselle sekä tieteen ja kristinuskon väliselle suhteelle Sir Isaac Newton PRS, FRS (juliaanisen kalenterin mukaan 25."
 tags: [apowiki, henkilöt]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Isaac Newton".
@@ -68,7 +68,7 @@ Sekä luonnon tavanomainen kulku että ihmeet ovat yhtäläisesti Jumalan tekoja
 * Davis, Edward B. Newton's Rejection of the "Newtonian Worldview": The Role of Divine Will in Newton's Natural Philosophy, teoksessa van der Meer, Jitse M. (toim.), *Facets of Faith and Science*, Vol I-IV, Lanham: University Press of America, 1996
 * Newton 1962: Hall, A. R. & Hall, M. R. (toim.), *Unpublished Scientific Papers of Isaac Newton*, Cambridge: Cambridge University Press, 1962, s. 141-143
 
-  1. Viitteet
+## Viitteet
 
 [^1]: Newton 1962: 143–144
 [^2]: Newton 1962: 141–143

@@ -4,7 +4,7 @@ about: apologetics
 title: "Evoluutioteorian vastaiset argumentit"
 description: "Skepsis-lehden verkkoversiossa ilmestyneen artikkelin mukaan ApoWiki-hankkeemme keskittyisi \"evoluution vastaisten argumenttien esittelyyn\"."
 tags: [apowiki, evoluutiokritiikki]
-timestamp: 2026-10-01T19:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Evoluutioteorian vastaiset argumentit".
@@ -321,8 +321,6 @@ Kun asiat nyt siis ovat, niin kuin ovat, niin paras tapa päästä totuudesta pe
 *[Suunnitteluteoria](suunnitteluteoria.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Keskenään kilpaileville [suurkertomuksille](suurkertomukset.md) on ylipäänsäkin leimallista, että kukin niistä kykenee omasta näkökulmastaan selittämään kaikki muut eli kuvaamaan kilpailijoidensa perusluonteen ja syntytavan siten, että tämä kuvaus vaikuttaa selittävän suurkertomuksen kannalta johdonmukaiselta ja siksi sen seuraajien näkökulmasta luontevalta. – Tämä artikkeli havainnollistaa asiaa osoittamalla, miltä evoluutiousko puolestaan kristinuskon suunnasta katsoen vaikuttaa.
 [^2]: 'Omaatuntoa' tarkoittavan sanan etymologia on mielenkiintoinen: monissa kielissä se viittaa *yhteiseen tietoon* (lat. *conscientia*, engl. *conscience*, ruots. *samvete*) tai *varmaan tietoon* (saks. *Gewissen*). Kyseessä on siis tämän mukaan ihmiskunnalle yhteinen, todellisuuden perimmäiseen olemukseen ankkuroitunut ja sellaisena luotettava tietoisuus, että tietyt asiat ovat oikein ja tietyt muut taas väärin. Tämä tietoisuus ilmenee eräänlaisena *eettisenä aistina*, joka toimii henkilökohtaisella tasolla ihmisen tahdosta riippumatta – suomen "omatunto" viittaa ilmeisesti juuri tähän yhteisen eettisen tiedon koettavaan ilmenemiseen yksilön elämän käytännön valintatilanteissa.

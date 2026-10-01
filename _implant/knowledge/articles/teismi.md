@@ -4,7 +4,7 @@ about: apologetics
 title: "Teismi"
 description: "Teismi (kreikan sanasta theos, jumala) eli jumalausko on käsitys, jonka mukaan on olemassa maailmasta erillinen, persoonallinen jumala, joka on luonut maailman ja ylläpitää sitä, on puuttunut ja puuttuu sen tapahtumiin ilmoittaen ihmisille…"
 tags: [apowiki, teismi, tyngät]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Teismi".
@@ -89,8 +89,6 @@ Kristillisen apologetiikan kannalta teismi-käsite on sikäli erityisen merkitt�
 Tästä jaosta johtuu, että teismin ulkopuolisia käsityksiä vastaan kristillinen apologetiikka tyypillisesti pystyy vetoamaan moniin Raamatun ulkopuolisiin perusteluihin[^19], kun taas teismin piiriin lukeutuvia hereettisiä käsityksiä kohdattaessa kiistakysymykseksi tulee yleensä Jumalan ilmoituksen aito sisältö, ja tällöin mm. pätevät ja vakuuttavat raamattuargumentit ovat tarpeellisia. – Hieman paradoksaalisesti tämä asiaintila merkitsee samalla sitäkin, että monet teismiä puoltavat kristillisen apologetiikan keskeisetkin argumentit voivat sellaisinaan käydä myös hereettisten käsitysten apologiasta.[^20] Kristillisen apologetiikan olisikin nähtävä selkeästi koko epäkristillisten käsitysten kirjo voidakseen auttaa itse kustakin ei-kristillisestä taustasta tulevia mahdollisimman vakuuttavasti "heidän iloonsa" eli Kristuksen evankeliumin täyteen valopiiriin.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Ilkka Niiniluoto: "Ateismi", teoksessa Helenius, Timo & Koistinen, Timo & Pihlström, Sami (toim.), *Uskonnonfilosofia*, WSOY, 2003, s. 122, ISBN 951-0-27403-8 (Kuten jumalausko eli teismi – –'')
 [^2]: Pienellä alkukirjaimella, koska jumala-sana ei vielä tässä kontekstissa *välttämättä* tarkoita kristinuskon Jumalaa: Kaikki teistit eivät ole yksimielisiä siitä, miten ja millä perusteella ihminen voi päästä oikeaan asemaan suhteessa luojajumalaan tai mitä nimiä tai nimityksiä luojajumalasta olisi käytettävä. Niinpä pelkkä teistien "monoteistinen yksimielisyys" siitä, että on vain yksi tosi jumala, ei ole yksimielisyyttä siitä, että näin ollen tämän ainoan tosi jumalan nimeksi sopii Jumala, saati siitä, että pelkkä teistinen vakaumus sinänsä merkitsisi Hänen todellista tuntemistaan.

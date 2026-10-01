@@ -4,7 +4,7 @@ about: apologetics
 title: "Joosefin kaksi isää"
 description: "Miksi Joosefilla (Jeesuksen arvellulla isällä) on kaksi eri isää luetteloissa (Matt."
 tags: [apowiki, raamattu]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Joosefin kaksi isää".
@@ -53,8 +53,6 @@ Siispä Luukkaan sukututkimuksen tyyppi on erilainen kuin Matteuksen. Matteuksen
 Luukas on hyvin tarkka. Jeesuksen luultiin olevan Joosefin poika, joka oli Eelin poika. Huomaa, että Luukas ei koskaan sano kreikan kielessä, että Joosef olisi Eelin poika. Tämä pienentää väitetyn ristiriidan olemattomiin ja näyttää, että Luukkaan sukupuu on Marian – Joosefin nimen kanssa luetteloituna johtuen perintölaeista – ja Matteuksen sukuluettelo on Joosefin.[^1][^2]
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Evankeliset ovat näyttäneet muitakin selityksiä tälle väitetylle ristiriidalle. Mutta lyhyyden takia menimme yleisesti hyväksytyn selityksen mukaan.
 [^2]: Käännös artikkelista: http://www.answersingenesis.org/articles/2009/03/02/contradictions-whats-in-a-fathers-name

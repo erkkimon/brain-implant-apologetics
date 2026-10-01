@@ -2,9 +2,9 @@
 type: article
 about: apologetics
 title: "Jumalharha (kirja)"
-description: "Jumalharha (The God Delusion, (https://fi.wikipedia.org/wiki/2006)) on uusateismin huomattavimman saarnamiehen Richard Dawkinsin kirjoittama uskontokriittinen kirja, jossa Dawkins yrittää osoittaa teismin irrationaalisuuden."
+description: "Jumalharha (The God Delusion, 2006) on uusateismin huomattavimman saarnamiehen Richard Dawkinsin kirjoittama uskontokriittinen kirja, jossa Dawkins yrittää osoittaa teismin irrationaalisuuden."
 tags: [apowiki, kirjat, ateismi, richard-dawkins, jumala]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jumalharha (kirja)".
@@ -147,8 +147,6 @@ Dawkins oli toistuvasti osallistunut kirjansa aiheista järjestettyihin väittel
 *The Dawkins [Lennox](john-lennox.md) Debate: [video](https://youtu.be/zF5bPI92-5o), [väittelyn järjestäjän sivusto](https://larryalextaunton.com/debates-2/)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: `http://www.theosthinktank.co.uk/The_Dawkins_Delusion.aspx?ArticleID=50&PageID=47&RefPageID=11`
 [^2]: http://www.youtube.com/watch?v=a-O2BVMcrBY&feature=related

@@ -4,7 +4,7 @@ about: apologetics
 title: "Totuus"
 description: "Totuus on yleiskielessä tavallisesti yhtä kuin tosiasia, nimittäin se, mikä on totta eli vastaa todellisuutta."
 tags: [apowiki, filosofia, epistemologia]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Totuus".
@@ -115,8 +115,6 @@ Episteemiselle totuusteorialle ominainen kehäpäättely ilmenee argumentissa, j
 Yhteenvetona voidaan todeta, ettei ole perusteita luopua realistisesta totuusteoriasta eikä korvata sitä jollakin episteemisellä totuusteorialla. Tässä on yksi radikaalin konstruktivismin ratkaisevia heikkouksia. Radikaalin konstruktivismin oletus havaintojen epäluotettavuudesta ja luotettavan tiedon saannin mahdottomuudesta ei sovi yhteen tavallisen kokemuksemme kanssa, eikä sitä myöskään pystytä filosofisesti puolustamaan. Esimerkiksi nälänhätä Itä-Afrikassa ei katoa siten, että joku lakkaa uskomasta sen olemassaoloon.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: *Kielitoimiston sanakirja*, Kotimaisten kielten tutkimuskeskuksen julkaisuja 132. Internet-versio MOT Kielitoimiston sanakirja 1.0, Helsinki: Kotimaisten kielten tutkimuskeskus ja Kielikone Oy, 2004, ISBN 952-5446-11-5
 [^2]: Bradley, F. H., *Essays on Truth and Reality*, Oxford: Clarendon Press, 1914, s. 1,223

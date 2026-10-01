@@ -4,7 +4,7 @@ about: apologetics
 title: "Uuden testamentin luotettavuus"
 description: "Kymmenen syytä jotka viittaavat Uuden Testamentin kirjoitusten luotettavuuteen: 1."
 tags: [apowiki, raamattu]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Uuden testamentin luotettavuus".
@@ -63,8 +63,6 @@ Kymmenen syytä jotka viittaavat Uuden Testamentin kirjoitusten luotettavuuteen:
 * [New Testament Reliability: Part 4 of 4 - "Hebrews"](http://www.youtube.com/watch?v=3LNEFvVG5e0)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: [I Don't Have enough Faith to Be an Atheist](i-dont-have-enough-faith-to-be-an-atheist-kirja.md), N. Geisler & F. Turek
 [^2]: ([Mk 9:12](../books/mrk.md)),  ([Lk 18:34](../books/luk.md)),  ([Joh 12:16](../books/jhn.md))

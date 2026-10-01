@@ -4,7 +4,7 @@ about: apologetics
 title: "Daniel Nylund: Maailmankatsomus ei saa olla sisäisesti ristiriitainen (Ajankohtainen 3, II luku)"
 description: "Tätä ensimmäistä maailmankatsomuksen laatuvaatimusta eli totuuskriteeriä voidaan kutsua myös koherenssi- tai rationaalisuusperiaatteeksi."
 tags: [apowiki, maailmankatsomus, tekijänoikeuden-alaiset-artikkelit]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Daniel Nylund: Maailmankatsomus ei saa olla sisäisesti ristiriitainen (Ajankohtainen 3, II luku)".
@@ -380,8 +380,6 @@ Logiikka, joka on irrotettu muusta kokemusperäisestä todellisuudesta, jää aj
 * [VII luku: Entä sitten? Epäilen silti](daniel-nylund-entä-sitten-epäilen-silti-ajankohtainen-3-vii-luku.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: AJANKOHTAINEN no l:ssä on tiivistelmä tästä maailmankatsomuksesta.
 [^2]: Radhakrishnan, The Hindu View of Life. London 1931, s. 38

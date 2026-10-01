@@ -4,7 +4,7 @@ about: apologetics
 title: "Apologetiikan apologia"
 description: "Koska monet ovat ryhtyneet tekemään kertomusta meidän keskuudessamme tosiksi tunnetuista tapahtumista, sen mukaisesti kuin meille ovat kertoneet ne, jotka alusta asti ovat omin silmin ne nähneet ja olleet sanan palvelijoita, niin olen…"
 tags: [apowiki, yleistä-tietoa]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Apologetiikan apologia".
@@ -93,8 +93,6 @@ Norman Geisler ja Ron Brooks ovatkin määritelleet apologetiikan "evankeliumill
 * [Reasonable Faith: Testimonials](http://www.reasonablefaith.org/testimonials), kertomuksia William Lane Craig:n uskoa perustelevan työn vaikutuksesta ihmisten elämään
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: tai ylipäänsä mitään "uskoa"
 [^2]: vai olisiko siihen ehkä uskottava täysin järjettömästi

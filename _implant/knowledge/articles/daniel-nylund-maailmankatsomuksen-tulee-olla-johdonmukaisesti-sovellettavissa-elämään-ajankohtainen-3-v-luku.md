@@ -4,7 +4,7 @@ about: apologetics
 title: "Daniel Nylund: Maailmankatsomuksen tulee olla johdonmukaisesti sovellettavissa elämään (Ajankohtainen 3, V luku)"
 description: "Marxilaisuuden yksi tärkeimpiä totuuskriteereitä on toimivuus."
 tags: [apowiki, maailmankatsomus, tekijänoikeuden-alaiset-artikkelit]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Daniel Nylund: Maailmankatsomuksen tulee olla johdonmukaisesti sovellettavissa elämään (Ajankohtainen 3, V luku)".
@@ -272,8 +272,6 @@ En väitä, että kristillinen maailmankatsomus on tosi siksi, että se johdonmu
 * [VII luku: Entä sitten? Epäilen silti](daniel-nylund-entä-sitten-epäilen-silti-ajankohtainen-3-vii-luku.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: F. Schaeffer. How Should We Then Live? s. 196
 [^2]: Time. Dec. 28/-80

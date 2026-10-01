@@ -4,7 +4,7 @@ about: apologetics
 title: "Gary Habermas"
 description: "Gary Robert Habermas (s. 1950) on yhdysvaltalainen teologi ja filosofi."
 tags: [apowiki, henkilöt, eksegetiikka]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Gary Habermas".
@@ -58,8 +58,6 @@ Vuonna 1985 Habermas kävi [Antony Flew](antony-flew.md)'n kanssa tunnetun debat
 * [Jesus' Resurrection and Contemporary Criticism: An Apologetic (Part II) - PDF File](http://faculty.gordon.edu/hu/bi/Ted_Hildebrandt/NTeSources/NTArticles/CTR-NT/Habermas-Resurrection2-CTR.pdf)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: [A Short Life of Gary R. Habermas](http://www.garyhabermas.com/vitainnuce.htm)
 [^2]: [Evidences for the Resurrection](http://bible.org/article/evidences-resurrection)

@@ -4,7 +4,7 @@ about: apologetics
 title: "Kosminen hienosäätö"
 description: "Kosmisella hienosäädöllä tarkoitetaan sitä havaittua tosiasiaa, että universumin rakenne ja fysiikan lakien rakenne ja erityisesti luonnonvakiot on täytynyt säätää todella tarkasti, jotta elämä olisi mahdollista."
 tags: [apowiki, kosmologia, suunnitteluteoria, lukusuositukset, hienosäätö, astrobiologia, kosminen, paikka, maapallo, linnunrata, kuu, aurinko, antrooppinen-periaate, kosminen-hienosäätö, fysiikan-lait, dna-koodi]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kosminen hienosäätö".
@@ -328,8 +328,6 @@ Suomeksi hienosäätöä on käsitelty kappaleen verran professori T. Puolimatka
 Todennäköisesti erittäin hyvä kirja asiasta tulee olemaan Robin Collinsin The Well-tempered Universe, kunhan ilmestyy. Tästä hyvä tiivistelmä lienee W. Lane Craigin ja J.P. Morelandin tuoreessa useita argumentteja tiivistävässä kirjassa "The Blackwell Companion to Natural Theology".
 
 ### Viitteet
-
-  1. Viitteet
 
 [^3]: M. Tegmark, Is ``the theory of everything'' merely the ultimate ensemble theory?, Annals of Physics, 270, 1-51 (1998), http://arxiv.org/abs/gr-qc/9704009
 [^4]: H. Ross, Why the Universe Is the Way It Is?, 2008, Compendium-liite

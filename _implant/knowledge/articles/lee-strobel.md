@@ -4,7 +4,7 @@ about: apologetics
 title: "Lee Strobel"
 description: "Lee Patrick Strobel (s. 25.01.1952) on ateistista kristityksi kääntynyt entinen Chicago Tribune -lehden toimittaja."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Lee Strobel".
@@ -64,8 +64,6 @@ Hän oli edelleen ateisti, mutta hän että jos kristinusko on totta, sillä on 
 *[The Case for a Creator -dokumenttielokuva (Illustra Media), 60min](https://youtu.be/ajqH4y8G0MI)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: http://leestrobel.com/about/ "Atheist-turned-Christian Lee Strobel, the former award-winning legal editor of The Chicago Tribune"
 [^2]: http://leestrobel.com/about/ He joined the staff of Willow Creek Community Church in South Barrington, IL, in 1987, and later became a teaching pastor there.

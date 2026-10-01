@@ -4,7 +4,7 @@ about: apologetics
 title: "Augustinus"
 description: "Aurelius Augustinus (13. marraskuuta 354 – 28. elokuuta 430) oli läntisen kristillisen kirkon merkittävin kirkkoisä, joka teki huomattavaa työtä filosofian ja teologian yhteen sovittamisessa."
 tags: [apowiki, henkilöt]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Augustinus".
@@ -63,8 +63,6 @@ Vaikka tähän näkemykseen sisältyy osatotuus, se jättää jotakin olennaista
 Niille, jotka pitivät ihmisen nykyistä tietämättömyyden tilaa syntiinlankeemuksen seurauksena, kertomuksella Aadamin syntiinlankeemuksesta oli kahdenlainen merkitys. Yhtäältä syntiinlankeemus selitti ihmiselämän kurjuuden ja ihmisen taipumuksen virheisiin. Toisaalta Aadamin täydellisyyttä ennen syntiinlankeemusta, mukaan luettuna hänen tietosanakirjamaista tietämystään, pidettiin symbolina ihmisen toteutumattomasta potentiaalista. Tämä toivon täyttämä ja eteenpäin katsova tekijä puuttuu skeptisismistä sekä sen muinaisessa että nykyisessä muodossa. Skeptinen asenne oli yhtenevä klassisen filosofisen ihanteen kanssa, jossa korostettiin mietiskelevää elämää. Ne, jotka ottivat syntiinlankeemuksen vakavasti, olivat sen sijaan motivoituneita pyrkimykseen korjata ja muuttaa synnin epätoivottavia vaikutuksia. Tämä merkitsi sitoutumista aktiiviseen elämään ja energistä osallistumista sekä yhteiskunnallisen että luonnon alueella. [Francis Bacon](francis-bacon.md) myönsi, että hänen näkemyksillään on jotain yhteistä skeptikkojen näkemysten kanssa, mutta hän lisäsi välittömästi, että skeptikot ”tuhoavat aistien ja ymmärryksen auktoriteetin, kun taas minä kehitän ja tuotan niille apukeinoja”.[^12][^13]
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Philip Schaff, *History of the Christian Church, Vol. 5. Grand Rapids*, Mich.:Eerdsmans Publishing, 1907, s. 589-590
 [^2]: Peter Harrison, *The Fall of Man and the Foundations of Science*, Cambridge University Press, 2007

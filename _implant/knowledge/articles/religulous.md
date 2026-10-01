@@ -4,7 +4,7 @@ about: apologetics
 title: "Religulous"
 description: "Religulous on propagandistinen dokumenttielokuva, joka pyrkii tekemään uskonnon naurunalaiseksi."
 tags: [apowiki, elokuvat]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Religulous".
@@ -111,8 +111,6 @@ Tällainen päättely ei tietenkään pidä paikkaansa: huomattavankaan yhdenmuk
 Tällaisen päättelytavan virheellisyys on helppo nähdä vaikkapa jo edellä käsitellyistä Osiris-, Isis- ja Horus-kertomuksista: egyptiläismytologian mukaan Horuksella siis oli sekä isä (Osiris) että sellainen äiti, joka ei olisi tahtonut lapsensa kuolevan skorpioninpistoon (Isis). Jos nyt ylläesitetty päättelysääntö olisi pätevä, itse kukin lukija, jolla on sekä isä että sellainen äiti, joka ei tahtoisi lapsensa kuolevan skorpioninpistoon, voisi havaita, ettei olekaan todellinen ihminen vaan pelkkä muinaisegyptiläisen Horus-mytologian kopiona tekaistu myyttinen hahmo!
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: [Religulous – Box Office Data, Movie News, Cast Information](http://www.the-numbers.com/movies/2008/RELIG.php), The Numbers, viitattu 16.4.2009
 [^2]: Sharif, Zelda: Muinainen viisaus: Muinainen Egypti. Karisto 1997. ISBN 951-23-3725-8. sivu 28.

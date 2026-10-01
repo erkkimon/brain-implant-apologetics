@@ -4,7 +4,7 @@ about: apologetics
 title: "Selityssuodatin"
 description: "Selityssuodatin (engl. the Explanatory Filter) on filosofian ja matematiikan tohtori W."
 tags: [apowiki, suunnitteluteoria]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Selityssuodatin".
@@ -53,8 +53,6 @@ Esimerkiksi *Tuntematon sotilas* -romaanin tekstiä ei määrää luonnonlaki. P
 * William A. Dembski, [Specification: The Pattern That Signifies Intelligence](http://www.designinference.com/documents/2005.06.Specification.pdf)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Dembskin tarkoittama *monimutkaisuus ilmenee epätodennäköisyytenä*: mitä epätodennäköisempi jokin tutkimuskohde on, sitä "monimutkaisempi" se on. Tämä johtuu perimmältään siitä, että *mitä monimutkaisempi jokin kokonaisuus on, sitä epätodennäköisempi sen sattumanvarainen syntyminen on*. Esim. [pitkät RNA-molekyylit](rna-maailma.md) ovat Dembskin tarkoittamalla tavalla monimutkaisia, juuri tällä perusteella niiden satunnaissynnyn epätodennäköisyyttä voi arvioida, ja mitä pitempiä ne ovat, sitä epätodennäköisemmäksi niiden satunnaissynty on arvioitava. Monimutkaisuus ja epätodennäköisyys ovat suoraan verrannollisia kaikissa tapauksissa, joissa tutkittava kokonaisuus olisi periaatteessa voinut alun perin muodostua osistaan jotenkin satunnaisesti kasautumalla (esim. [polymeerit](https://fi.wikipedia.org/wiki/polymeeri), tekniset laitteet, [molekyylikoneet](http://en.wikipedia.org/wiki/Molecular_machine) ja tekstit). Lisäksi epätodennäköisyys on käytännössä ainoa jokseenkin yleispätevä tapa mitata tai ainakin arvioida vertailukelpoisesti tällaisen monimutkaisuuden määrää. Näin ollen on järkevää Dembskin tavoin liittää nämä käsitteet toisiinsa mittaamalla monimutkaisuutta aina epätodennäköisyydellä; muuten luonnontieteen tutkimuskohteiden "monimutkaisuus" jäisi pelkäksi kuvailevaksi termiksi ilman täsmällistä, mitattavissa tai ainakin määrällisesti arvioitavissa olevaa sisältöä.
 [^2]: Kuvauksen riippumattomuus tapahtumasta tarkoittaa jokseenkin sitä, että kuvaus olisi ollut mielekäs, vaikkei sitä vastaavaa tapahtumaa olisi koskaan havaittukaan. Tämä ehto toteutuu aina, jos kuvaus oli annettu ennen sitä vastaavan ilmiön tai tapahtuman havaitsemista (eli jos kyseessä oli lupaus tai ennuste siitä, mitä tapahtuisi; tällainen kuvaushan oli esittäjänsä kannalta mielekäs jo ennen tapahtuman havaitsemista, muuten sitä ei olisi esitetty), mutta jos jonkin kohteen tarkoituksellisen aiheutuneisuuden osoittamiseen vaadittava kuvaus laaditaan vasta havaitsemisen jälkeen, sen riippumattomuus jo tehdystä havainnosta on pystyttävä perustelemaan muulla tavoin uskottavasti. Dembski on [esittänyt](http://www.designinference.com/documents/2005.06.Specification.pdf), että tämä toteutuu aina, kun havainnon ominaisluonteen kuvaukseksi riittää muutama luonnollisen kielen sana, [bakteeriflagellin](https://fi.wikipedia.org/wiki/flagelli) tapauksessa esim. "kaksisuuntainen pyörivä moottorikäyttöinen potkuri" (engl. *“bidirectional rotary motor-driven propeller”*).

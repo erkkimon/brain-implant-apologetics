@@ -4,7 +4,7 @@ about: apologetics
 title: "Kalam- kosmologinen argumentti"
 description: "Kosmologisen argumentin eri muodot pyrkivät osoittamaan riittävän Älyn tai Alkusyyn (lat."
 tags: [apowiki, filosofia, argumentit, kosmologia]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kalam- kosmologinen argumentti".
@@ -98,8 +98,6 @@ Lisäksi yo. vastaväitteessä ikuisuuden käsite ymmärretään siten, että as
 * [T. Ilari: Kalam kosmologisesta argumentista](https://uskojarkijafilosofia.wordpress.com/2012/02/13/kalam-kosmologisesta-argumentista/) (Usko, järki ja filosofia -blogi)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Craig W. L. (1998) *"Design & Cosmological Argument"* teoksessa *Mere Creation – Science, Faith & Intelligent Design*, toim. Dembski W. A., Downers Grove, Illinois, InterVarsity Press, s. 333
 [^2]: Asiaa voi arvioida tarkastelemalla vaihtoehtoja: Tämän premissin kiistäminen on loogisesti yhtäpitävää seuraavan väitteen myöntämisen kanssa: *"On olemassa jotain sellaista, joka on saanut alkunsa ilman mitään syytä."* Tämä väite puolestaan on ongelmallinen mm. seuraavista syistä: * Se on *intuitiivisesti epäuskottava* – etsimättä tulee mieleen kysymys: "Miksi uskoisin tällaista? Eihän tuota kukaan järkevä ihminen 'purematta niele'! Olisi kyllä työn ja tuskan takana yrittää ylipuhua minut tuohon käsitykseen." * Se on käytännössä *mahdoton osoittaa todeksi*: miten voisi todistaa, että jotakin on syntynyt (tai edes voisi syntyä) ilman mitään syytä? ** Toisaalta sen esittäjällä on katsottava olevan todistamisen taakka, kuten olemassaoloväitteiden esittäjillä yleensäkin. Pelkkä väittäminen ei siis ole tällaisissa tapauksissa vakuuttavaa, vaan tueksi tarvittaisiin perusteluja. * Se on *älyllisesti epätyydyttävä*: sen hyväksyminen rampauttaisi tai suorastaan lopettaisi syy-yhteyksiä koskevan tutkimuksen – aina, kun tutkimuskohteen aikaansaanut syy ei ole ilmeinen, olisi mahdollista olettaa, ettei mitään syytä kenties ole olemassakaan, joten asian voi jättää sikseen.

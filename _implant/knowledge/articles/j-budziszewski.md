@@ -4,7 +4,7 @@ about: apologetics
 title: "J. Budziszewski"
 description: "J. Budziszewski (s. 1952) on hallintotieteen ja filosofian professori Texasin yliopistossa Austinissa, jossa hän on työskennellyt vuodesta 1981."
 tags: [apowiki, henkilöt, filosofia]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "J. Budziszewski".
@@ -85,8 +85,6 @@ Avioliiton ytimenä on sellainen seksuaaliyhteys, joka mahdollistaa lasten synty
 *The Line Through the Heart: Natural Law as Fact, Theory, and Sign of Contradiction (Intercollegiate Studies Institute Press, 2009).
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: [J. Budziszewski](http://www.utexas.edu/cola/depts/government/faculty/jb397), University of Texas
 [^2]: Kevin Lee: "Contemporary Challenges to Natural Law Theories", *The Catholic Social Science Review* 12 (2007): 41.

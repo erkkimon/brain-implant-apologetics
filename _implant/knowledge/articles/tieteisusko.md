@@ -4,7 +4,7 @@ about: apologetics
 title: "Tieteisusko"
 description: "Tieteisusko eli skientismi eli tieteisuskovaisuus on epistemologinen käsitys, jonka mukaan vain tieteellinen tieto on luotettavaa tietoa ja tiede pystyy ratkaisemaan kaikki ongelmat."
 tags: [apowiki, maailmankatsomus, lukusuositukset]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tieteisusko".
@@ -137,8 +137,6 @@ Kristinuskon valossa tieteisusko voidaankin nähdä harhaopiksi, jossa absolutis
 * [Dr. William Lane Craig humiliates Dr. Peter Atkins](https://www.youtube.com/watch?v=8U_NS9WsJ08) (YouTube, 3 min)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Skepsis ry, [Ihmeellinen maailma: Tieteisusko](http://www.skepsis.fi/ihmeellinen/tieteisusko.html), viitattu 21.6.2016
 [^2]: Skepsis ry, [Ihmeellinen maailma: Skientismi](http://www.skepsis.fi/ihmeellinen/skientismi.html), viitattu 21.6.2016

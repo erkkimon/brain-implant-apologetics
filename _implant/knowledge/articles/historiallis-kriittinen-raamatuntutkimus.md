@@ -4,7 +4,7 @@ about: apologetics
 title: "Historiallis-kriittinen raamatuntutkimus"
 description: "Raamatun tieteellistä tutkimusta on parin vuosisadan ajan hallinnut historiallis-kriittinen tutkimus."
 tags: [apowiki, eksegetiikka]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Historiallis-kriittinen raamatuntutkimus".
@@ -159,8 +159,6 @@ Myös Plantinga[^17][^18] kritisoi oletusta, jonka mukaan tieteessä olisi hyvä
 Plantingan mukaan suurin osa tieteellisestä tutkimuksesta ei ole uskonnollisesti neutraalia. Valtaosa tieteellisestä tutkimuksesta ei voi olla uskonnollisesti neutraalia, koska tutkimuksessa joudutaan tekemään jokin oletus maailmankaikkeuden alkuperästä ja järjestyksestä. Jotkin tieteen osat saattavat olla uskonnollisesti neutraaleja: jos mittaamme maapallon kokoa ja muotoa ja sen etäisyyttä auringosta tai jos tutkimme Pythagoraan teoreeman todistusta, olemme tekemisissä asioiden kanssa, jotka ovat jossakin järkevässä mielessä uskonnollisesti neutraaleja. Valtaosa tieteestä on tässä suhteessa kuitenkin erilaista. Ei ole mitään selvärajaista tapaa määritellä, mitkä tieteen osat voivat olla uskonnollisesti neutraaleja ja mitkä eivät: kyseessä on asteittain muuttuva jatkumo ennemmin kuin selvärajainen erottelu. Plantinga ehdottaa seuraavanlaista nyrkkisääntöä: Mitä keskeisemmin tieteellinen tutkimusalue pyrkii lisäämään ymmärrystä siitä, mitä tarkoittaa olla ihminen, sitä vaikeampi sen on olla uskonnollisesti neutraali.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: [Alvin Plantinga: Evoluutioteoreettinen argumentti naturalismia vastaan](alvin-plantinga-evoluutioteoreettinen-argumentti-naturalismia-vastaan.md)
 [^2]: Räisänen, Heikki, *Miten ymmärrän Raamattua oikein?*, Helsinki: Kirjapaja, 1981, s. 11

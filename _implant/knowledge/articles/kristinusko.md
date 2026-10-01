@@ -4,7 +4,7 @@ about: apologetics
 title: "Kristinusko"
 description: "Kristinusko on monoteistinen, maailman suurin uskonto, joka perustuu Raamattuun ja sitä tukeviin todisteisiin."
 tags: [apowiki, maailmankatsomus, yleistä-tietoa]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kristinusko".
@@ -90,8 +90,6 @@ Kristinuskon etiikka on nykyään monessa asiassa ristiriidassa länsimaissa val
 *Pääartikkeli: [Sukupuolietiikka](sukupuoli.md)*
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Niin sanotut vanhan kirkon uskontunnustukset (http://tunnustuskirjat.fi/ekumeeni.html) eivät kuitenkaan käsitä koko kristinuskon oppia. Esimerkiksi nykyajalle oleellinen maininta [avioliitosta](avioliitto.md) miehen ja naisen välisenä puuttuu niistä täysin.
 [^2]: Teologit ovat jo kauan vääntäneet Raamatun oikeasta tulkinnasta, toisin sanoen siitä, millä tavalla Raamatun inhimillisyys ja jumalallisuus ovat suhteessa toisiinsa. ApoWiki on avoin erilaisille tulkinnoille, kunhan ne ovat johdonmukaisia. Lukija huomatkoon, että johdonmukainen raamatuntulkinta rajoittaa huomattavasti mahdollisuuksia tulkita Raamattua mielekkäällä tavalla.

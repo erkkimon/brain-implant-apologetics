@@ -4,7 +4,7 @@ about: apologetics
 title: "Kreationismi"
 description: "\"Kreationismi\" on yleisnimitys käsityksille, joiden mukaan havaintotodellisuus (kaikkeus ja sen elolliset olennot) ovat olemassa tarkoituksellisesti luotuina."
 tags: [apowiki, luomisoppi]
-timestamp: 2026-10-01T20:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kreationismi".
@@ -235,8 +235,6 @@ Kreationismin ja suunnitteluteorian välisen suhteen voi tiivistää toteamuksee
 * [Creationism versus Science (engl.)](http://www.creationtheory.org/)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Luominen tarkoittaa "kutsumista olemattomuudesta olemaan" eli sellaisen todellisuuden osan tai ilmiön aikaansaamista, jonka olemassaolo on radikaalissa epäjatkuvuussuhteessa ilman tai ennen luomista vallinneeseen tilanteeseen, jossa sittemmin luomisen tuloksena olemassaolonsa saanutta oliota tai ilmiötä ei lainkaan ollut olemassa, ei liioin kausaalisia edellytyksiä sen ilmaantumiselle.
 [^2]: tai ainakin hyvin suuri

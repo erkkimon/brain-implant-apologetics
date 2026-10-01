@@ -4,7 +4,7 @@ about: apologetics
 title: "Danielin kirja"
 description: "Danielin kirja (ספר דניאל, Sefer Daniyyel ) on yksi Raamatun Vanhan testamentin profeettakirjoista."
 tags: [apowiki, raamatun-tekstit]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Danielin kirja".
@@ -166,8 +166,6 @@ Makkabilaisajoituksen kannattajat ovat nähneet Danielin kirjan profetioissa sel
 * [Erkki Koskenniemi: Danielin kirja](https://mediakirjasto.sley.fi/mediakirjasto/28053/danielin-kirja)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Mm. Bockmuehl M. (1994) "This Jesus, Martyr, Lord, Messiah" InterVarsity Press, Wright N. T. (1992) The New Testament and The People of God, Fortress, Minneapolis. Kysymyksen kannalta on kuvaavaa, että niinkin konservatiivisessa julkaisussa kuin Journal of Evangelical Theological Society, on artikkeli, jonka kirjoittaja kannattaa myöhempää kirjoitusajankohtaa: Collins J. J. "Prophecy And Fulfillment In The Qumran Scrolls Journal of Evangelical Theological Society 30/3 (September 1987) 267-278
 [^2]: R. K. Harrison R. K. (1969) Introduction to the Old Testament, Grand Rapids, Eerdmans s. 111

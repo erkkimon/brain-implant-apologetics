@@ -4,7 +4,7 @@ about: apologetics
 title: "Moraalinen argumentti"
 description: "Moraalinen argumentti on aksiologisen argumentin yksi muoto. Aksiologia tarkoittaa oppia arvoista eli teoriaa siitä, mikä on arvokasta ja miten arvostuksia voidaan perustella."
 tags: [apowiki, argumentit, etiikka]
-timestamp: 2026-10-01T19:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Moraalinen argumentti".
@@ -129,8 +129,6 @@ Kristillisen käsityksen mukaan ihminen on Jumalan kuva ja täysin eri asemassa 
 * [William Lane Craig: "Fairness in a world of moral relativism"](http://www.youtube.com/watch?v=1zFBwN_fhNw&feature=related) (YouTube, 1min 6s)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Objektiivisuus tarkoittaa tässä ensinnäkin sitä, että ihmiset eivät järkevästi ajatellen voisi keskinäisellä sopimuksellakaan vaihtaa moraalinormeja täysin toisiksi esim. siten, että varastaminen olisikin tästä lähtien ihan hyväksyttävää – eihän siitä mitään tulisi. Toiseksi se tarkoittaa sitä, että kyseisen mahdottomuuden myönnetään osoittavan, että moraali on perimmältään annettua eli että se on olemassa, on yleisesti tunnettua ja velvoittaa itse kutakin joka tapauksessa, siis ihmisten mielihaluista ja yhteiskuntien lainsäädännöstä riippumatta.
 [^2]: Copan, Paul: *The Moral Argument*, teoksessa [Copan, Paul](paul-copan.md) & Moser, Paul K. (toim.), *The Rationality of Theism*, London: Routledge, 2003, s. 154

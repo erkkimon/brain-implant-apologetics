@@ -4,7 +4,7 @@ about: apologetics
 title: "Herman Dooyeweerd"
 description: "Herman Dooyeweerd (7.10.1894 - 12.2.1977) oli hollantilainen kristitty filosofi, joka perusti filosofisen suuntauksen nimeltä kosmonominen filosofia."
 tags: [apowiki, henkilöt, filosofia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Herman Dooyeweerd".
@@ -80,8 +80,6 @@ Dooyeweerd määrittelee filosofian teoreettiseksi ajatteluksi, joka pyrkii anta
 * [A New Critique of Theoretical Thought (kirja)](a-new-critique-of-theoretical-thought-kirja.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Dooyeweerd, Herman, *Roots of Western Culture: Pagan, Secular and Christian Options*, Toronto: Wedge Publishing Foundation, 1979, s. 5-6
 [^2]: Dooyeweerd, Herman, *Roots of Western Culture: Pagan, Secular and Christian Options*, Toronto: Wedge Publishing Foundation, 1979, s. 6

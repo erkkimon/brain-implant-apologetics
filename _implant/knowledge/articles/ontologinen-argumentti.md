@@ -4,7 +4,7 @@ about: apologetics
 title: "Ontologinen argumentti"
 description: "Ontologisen argumentin varhaisimman ja kaikkein tunnetuimman muodon esitti Anselm Canterburylainen teoksensa Proslogion toisessa luvussa."
 tags: [apowiki, filosofia, argumentit]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ontologinen argumentti".
@@ -129,8 +129,6 @@ Ontologisen argumentin perustana on intuitio, että ihmisen järjellisyys ja kä
 * Davis, Stephen T.: *The Cosmological Argument and the Epistemic Status of Belief in God*, teoksessa [Craig, William Lane](william-lane-craig.md) (toim.), *Philosophy of Religion. A Reader and Guide*, Edinburgh: Edinburgh University Press, 2002
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Davis 2003: 94
 [^2]: Kant, Immanuel, *The Critique of Pure Reason*, käänt. Norman Kemp Smith, New York: St. Martin’s Press, 1965, s. 500–507

@@ -4,7 +4,7 @@ about: apologetics
 title: "Teologinen realismi"
 description: "Teologiseksi tai teistiseksi realismiksi kutsutaan näkemystä, jonka mukaan Jumala on todella olemassa oleva olento, joka on luonut maailmankaikkeuden."
 tags: [apowiki, eksegetiikka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Teologinen realismi".
@@ -49,8 +49,6 @@ Raamatun Jumala on absoluutti, ehdoton, iankaikkinen ja ikuinen, aina olemassa o
 [Teistiset realistit](https://fi.wikipedia.org/wiki/teistinen_realismi) olettavat tavallisesti, että Jumala on ilmoittanut itsensä tavalla, joka tekee mahdolliseksi saada hänestä luotettavaa tietoa. Ilmoitusta pyritään tulkitsemaan huolellisesti, koska tarkoituksena on saada selville, millainen Jumala todella on. Jumalaa koskevien tulkintojen totuuden kriteeriksi ei voi asettaa mitään muuta kriteeriä, esimerkiksi sitä, miten hyvin erilaiset tulkinnat oletetusti palvelevat ihmiskunnan hyvinvointia. Luotettava käsitys ihmiskunnan hyvinvoinnin edellytyksistä edellyttää tietoa ihmisen olemuksesta, joka puolestaan edellyttää tietoa ihmisen alkuperästä. Realistien mukaan ei ole tarkoitus, että vapaasti luomme mielikuvan Jumalasta sen mukaan, mikä näyttäisi meidän mielestämme tuottavan hyviä yhteiskunnallisia seurauksia, vaan tarkoituksena on löytää totuus siitä, millainen olento Jumala on. Tähän tietoon perustuu myös tieto siitä, millainen olento ihminen on, koska ihminen on luotu Jumalan kuvaksi. Jumalaa koskevalla tiedolla on ajateltu olevan ainakin neljä lähdettä: luontainen jumalatietoisuus, kokemus Jumalan läsnäolosta, taiteellinen kokemus ja sanallinen ilmoitus.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Steiner, George, *Real Presences. Is there anything in what we say?*, London: Faber and Faber., 1991, s. 89
 [^2]: Steiner, George, *Real Presences. Is there anything in what we say?*, London: Faber and Faber, 1991, s. 3

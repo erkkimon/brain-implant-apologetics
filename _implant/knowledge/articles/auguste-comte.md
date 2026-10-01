@@ -4,7 +4,7 @@ about: apologetics
 title: "Auguste Comte"
 description: "Auguste Comte (17. tammikuuta, kirjattu syntymäaika 19. tammikuuta 1798 – 5."
 tags: [apowiki, henkilöt]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Auguste Comte".
@@ -115,8 +115,6 @@ Tarinaan uskon ja tiedon vastakkainasettelusta ja tieteen ja uskon välisestä r
 *Whewell, William, *The Philosophy of the Inductive Sciences, Founded upon Theri History. 2<sup>nd</sup> ed. 2 vols.*, London: Parker, 1847
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Cohen 1994: 85–86
 [^2]: Whewell 1847: II 329

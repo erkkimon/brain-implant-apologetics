@@ -4,7 +4,7 @@ about: apologetics
 title: "C. S. Lewis"
 description: "Clive Staples Lewis (29. marraskuuta 1898 – 22. marraskuuta 1963) on legendaarisimmaksi tituleerattu kristitty apologeetta."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "C. S. Lewis".
@@ -173,7 +173,5 @@ Filosofiassa ja teologiassa Lewis liittyy monin osin augustinolais-platonistisee
   * The Quotable Lewis (toim. Wayne Martindale & Jerry Root), 1987.
 
 #### Viitteet
-
-  1. Viitteet
 
 [^1]: John Visser, [Into the Wardrobe — a C. S. Lewis web site](http://cslewis.drzeus.net/bio/), viitattu 5.2.2010

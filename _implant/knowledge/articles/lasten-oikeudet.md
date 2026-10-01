@@ -4,7 +4,7 @@ about: apologetics
 title: "Lasten oikeudet"
 description: "Lapsen oikeudet ovat ihmisoikeuksia, jotka on kohdennettu erityisesti lapsiin."
 tags: [apowiki, seksuaalietiikka, ihmisoikeudet]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Lasten oikeudet".
@@ -80,8 +80,6 @@ Suomen Unicefin ja ehkä myös kahden muun järjestön tulkinta lapsen oikeuksis
 *Somerville, Margaret, *Children’s human rights and unlinking child-parent biological bonds with adoption, same-sex marriage and new reproductive technologies*, Journal of Family Studies, Vol. 13, Issue 2, November
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Somerville 2007: 179
 [^2]: Marquardt ym. 2010: 53

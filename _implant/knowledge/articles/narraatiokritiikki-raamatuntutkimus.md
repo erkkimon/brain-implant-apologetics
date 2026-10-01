@@ -4,7 +4,7 @@ about: apologetics
 title: "Narraatiokritiikki (raamatuntutkimus)"
 description: "Narraatiokriittistä tutkimusta perustellaan historiallis-kriittisen tutkimuksen kyvyttömyydellä tuottaa yleispäteviä tuloksia tai tehdä oikeutta Raamatun tekstille."
 tags: [apowiki, raamattu, historia]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Narraatiokritiikki (raamatuntutkimus)".
@@ -74,8 +74,6 @@ Narraatiokriittinen analyysi kiinnittää siis perustellusti huomiota joihinkin 
 Olennainen kysymys myös narraatiokritiikin osalta koskee sitä, toteutetaanko sitä supranaturalistisista vai naturalistisista lähtökohdista. Jos narraatiokritiikkiä toteutetaan naturalistisista lähtökohdista, silloin tekstin luonne Jumalan ilmoituksena on suljettu pois ja tutkimustulokset päätyvät esittämään tekstin tässä valossa. Tämä vääristää tekstin ymmärtämistä, jos teksti itse asiassa on Jumalan ilmoitusta. Raamatun kertomuksiin on sisäänrakennettu näkökulma, jossa kertojalla on kaikkitietävän olennon näkökulma. Ei ole olemassa mitään tietoa, joka ei olisi kertojan tiedossa. Raamatun kertoja tuntee kaikkien kertomuksensa henkilöiden sisäiset ajatuksetkin. Hän tuntee jopa Jumalan ajatukset, tunteet ja asenteet. Niinpä Raamatun kertomuksiin on sisäänrakennettu viesti, jonka mukaan Raamatun kertoja on luotettava. Hän ei koskaan valehtele lukijalleen, vaikka hän saattaakin pidättää jotakin tietoa joko pysyvästi tai väliaikaisesti.[^13] Keskeinen kysymys Raamatun tutkimuksen kannalta koskee tämän kaikkitietävän kertojan näkökulman merkitystä Raamatun tekstin ymmärtämiselle.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Powell, Mark Allan, *What is Narrative Criticism?*, Minneapolis: Fortress Press, 1990, s. 86
 [^2]: Frey, Hans W., *The Eclipse of Biblical Narrative: A Study in Eighteenth and Nineteenth Century Hermeneutics*, New Haven, Conn.: Yale University Press, 1974

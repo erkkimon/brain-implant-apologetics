@@ -4,7 +4,7 @@ about: apologetics
 title: "Maailman ikä - tieteellinen näkökulma"
 description: "Tämän sivun tavoite on verrata nuoren (YEC) ja vanhan (OEC) iän kreationistien kantoja tieteellisen aineiston perusteella."
 tags: [apowiki, luomisoppi]
-timestamp: 2026-10-01T20:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Maailman ikä - tieteellinen näkökulma".
@@ -58,7 +58,5 @@ Yo. taulukon lisäksi tulee ottaa huomioon, että YEC kannan osa-alueiden kehity
 * [The top five challenges for creationist geology](http://thenewcreationism.wordpress.com/2010/10/25/the-top-five-challenges-for-creationist-geology/) (Paul Garnerin blogi)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: tarkemmin mittaajien subjektiiviseen kokemukseen mittaustuloksista ja heidän todistukseensa siitä

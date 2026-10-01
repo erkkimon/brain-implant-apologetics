@@ -4,7 +4,7 @@ about: apologetics
 title: "Jälleensyntyminen"
 description: "Noin 20% suomalaisista uskoo jossain muodossa jälleensyntymiseen."
 tags: [apowiki, maailmankatsomus]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jälleensyntyminen".
@@ -117,8 +117,6 @@ Jälleensyntyminen kuuluu tavalla tai toisella lähes joka kolmannen maailman as
 * [Reincarnation vs Creation](http://creation.com/reincarnation-vs-creation) Creation Ministries International
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Albrecht M. C. (1988) Jälleensyntyminen vai ruumiin ylösnousemus? PerusSanoma Oy, s. 9
 [^2]: Neill S. (1971) Kristillinen usko ja muut uskonnot. Suomen Lähetysseura, s. 130

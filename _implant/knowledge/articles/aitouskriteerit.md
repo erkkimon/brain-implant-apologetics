@@ -4,7 +4,7 @@ about: apologetics
 title: "Aitouskriteerit"
 description: "Historiallis-kriittisen tutkimuksen periaatteiden ymmärtäminen on välttämätöntä mielekkäälle Uuden testamentin historiallisuuden pohtimiselle."
 tags: [apowiki, historia, tieteenfilosofia]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Aitouskriteerit".
@@ -78,8 +78,6 @@ Historiaa tutkittaessa lähteiden aitoutta historiallisen totuuden kuvaajana pyr
 * [Autenttisuus/aitouskriteerit ja Jeesus-tutkimus](https://historianjeesus.fi/tutkimusmenetelmista/autenttisuusaitouskriteerit-ja-jeesus-tutkimus/yleista/) (www.historianjeesus.fi)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Crossan John Dominic (1995) Who Killed Jesus? Harper, San Francisco, s. 4
 [^2]: Tällaiseksi voidaan luokitella mm. vapaa-ajattelijoiden markkinoima Earl Doherty <!-- red link: Earl Doherty -->: http://www.vapaa-ajattelijat.fi

@@ -4,7 +4,7 @@ about: apologetics
 title: "Metodologinen naturalismi"
 description: "Metodologinen naturalismi on tieteessä usein itsestäänselvyyden aseman saanut, mutta maailmankatsomuksellisesti sitoutunut metodologinen lähestymistapa, jonka mukaan kaikki tapahtuminen on selitettävä luonnollisten syiden perusteella."
 tags: [apowiki, filosofia, naturalismi]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Metodologinen naturalismi".
@@ -95,8 +95,6 @@ Sen sijaan asetelma on sellainen, että mikäli Jumala-selityksiä rehellisessä
 *[David Papineau: Methodological Naturalism](http://plato.stanford.edu/entries/naturalism/#MetNat), Stanford Encyclopedia of Philosophy.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Koska ihminen rajallisuutensa takia ei käytännössä kykene mihinkään lähtökohtaoletuksitta, paras käytännön ratkaisu tieteen lähtökohtasidonnaisuusongelmaan lienee ongelman myöntäminen ja tutkimuseettinen ja -metodologinen sitoutuminen tekemään selkoa omista lähtökohtaoletuksista osana tutkimusraportointia; tämä edellyttää tieteensosiologisissa puitteissa aidosti avointa keskusteluavaruutta, jossa omien metafyysisten sidonnaisuuksien paljastaminen tai paljastuminen ei ole johtamassa ketään tutkijaa ammatillisen vainon – tai edes sellaisen uhan – kohteeksi joutumiseen.
 [^2]: esim. oman tai läheisen täysin yllättävän ja äkillisen parantumisen yhteydessä mutta myös kaikille periaatteessa havaittavien kaikkeutemme pysyvien ja perustavien tekijöiden kuten luonnonvakioiden arvojen osalta

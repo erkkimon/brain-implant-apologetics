@@ -4,7 +4,7 @@ about: apologetics
 title: "Sijaissynnytys"
 description: "Sijaissynnytys on yksi avusteinen lisääntymismenetelmä (assisted reproductive technology,ART) Sijaissynnyttäjä (surrogate) saatetaan raskaaksi ja synnytyksen jälkeen hän luovuttaa lapsen aiotuille vanhemmille (intended parents), jotka kasvattavat ja hoitavat lapsen."
 tags: [apowiki, seksuaalietiikka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Sijaissynnytys".
@@ -218,8 +218,6 @@ Tämän varkauden toteuttamiseen osallistuvat valtio, hedelmöityshoitoa tarjoav
 *Sandel, Michael J., Suom. Anni Lassila, Janne Luotola, Petja Pelli ja Juha Sainio, *Oikeudenmukaisuus*, Helsinki: HS kirjat, 2012
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Kivipuro 2015: 1-2
 [^2]: Martin; sit. Pande 2014: 6

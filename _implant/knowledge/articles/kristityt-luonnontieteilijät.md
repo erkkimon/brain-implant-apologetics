@@ -4,7 +4,7 @@ about: apologetics
 title: "Kristityt luonnontieteilijät"
 description: "Oxfordin yliopiston tieteen ja uskonnon professori Peter Harrison kiinnittää huomiota siihen, että monet merkittävistä luonnontieteilijöistä tieteen historiassa ovat olleet kristittyjä."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-01T20:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kristityt luonnontieteilijät".
@@ -150,8 +150,6 @@ Raamatullinen maailmankatsomus on ohjannut tieteellistä tutkimusta myös korost
 * [*Secular Humanism.org article on Science and Religion*](http://www.secularhumanism.org/index.php?section=library&page=avalos_18_4)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Peter Harrison: *The Fall of Man and the Foundations of Science*. Cambridge University Press, 2007. ISBN 0521875595
 [^2]: John Lennox: *God's Undertaker – Has Science buried God?*, Lion UK (2007)

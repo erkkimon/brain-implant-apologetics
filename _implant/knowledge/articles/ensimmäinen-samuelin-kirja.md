@@ -4,7 +4,7 @@ about: apologetics
 title: "Ensimmäinen Samuelin kirja"
 description: "Ensimmäisen Samuelin kirjan alkupuolella (luvut 8-13) kuvataan sitä, miten Saulista tuli Israelin ensimmäinen kuningas."
 tags: [apowiki, raamattu, raamatun-tekstit]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ensimmäinen Samuelin kirja".
@@ -64,7 +64,5 @@ Saulia koskevien kertomusten oletettuun ristiriitaisuuteen vetoavassa argumentis
 Jos Saulin historiaa tarkastellaan supranaturalistisessa viitekehyksessä, taipumuksena on paneutua tekstiin syvällisemmin, mikä tekee mahdolliseksi löytää tekstin sisäinen yhtenäisyys.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Long, V. Philips, *The Art of Biblical History*, Grand Rapids, Mich. Zondervan, 1994, s. Luku 6

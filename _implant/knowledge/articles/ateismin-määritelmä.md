@@ -4,7 +4,7 @@ about: apologetics
 title: "Ateismin määritelmä"
 description: "Kuvittele, että sinulta kysyttäisiin, uskotko hattivattien olemassaoloon."
 tags: [apowiki, ateismi]
-timestamp: 2026-10-01T20:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ateismin määritelmä".
@@ -90,15 +90,11 @@ Vaikkei Jumalan välttämättömästä olemassaolosta olisi muuta todistetta kui
 
 ### Lähteet
 
-  1. Viitteet
-
-
+## Viitteet
 
 ### Aiheesta muualla
 
 * Cooke, Bill, *[Agnostismin nousu ja tuho](http://www.vapaa-ajattelijat.fi/lehti/2000_03/billcooke.html)*, Vapaa Ajattelija, 2000, 3/00 (The decline and fall of agnosticism, Editorial, *The New Zealand Rationalist & Humanist*, Autumn 2000. Suomentanut Erkki Hartikainen.
-
-## Viitteet
 
 [^1]: Suurin osa sanakirjoista esittää toisen näistä kahdesta määritelmästä, kts. [OneLook.com](http://www.onelook.com/?w=atheism&ls=a) [Definitions of the term "Atheism"](http://www.religioustolerance.org/atheist4.htm)
 [^2]: Niiniluoto, Ilkka: ”Ateismi”. Teoksessa Helenius, Timo, Timo Koistinen & Sami Pihlström (toim.), *Uskonnonfilosofia*, Porvoo Helsinki: WSOY, 2003, s. 122, ISBN 951-0-27403-8

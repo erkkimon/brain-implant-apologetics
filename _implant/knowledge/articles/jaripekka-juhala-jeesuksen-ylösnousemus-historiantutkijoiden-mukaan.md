@@ -4,7 +4,7 @@ about: apologetics
 title: "Jaripekka Juhala: Jeesuksen ylösnousemus historiantutkijoiden mukaan"
 description: "__NOTOC__ Jeesuksen ylösnousemuksen varassa kristinusko joko seisoo tai kaatuu."
 tags: [apowiki, jeesus, ihmeet, historia, lukusuositukset]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jaripekka Juhala: Jeesuksen ylösnousemus historiantutkijoiden mukaan".
@@ -104,8 +104,6 @@ Kun todennäköisyyslaskenta henkilökohtaisten taustaoletusten pohjalta (esimer
 * [Cross Section -lehti](http://cross-section.info/)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Wright, N. T.: Resurrection of the Son of God (jatkossa RSG), 12–28.
 [^2]: Reimarus, Hermann S.: Von dem Zwecke Jesu und seiner Jünger. Viite ja tutkimushistoriaa muutenkin Stewart teoksessa Stewart, Robert B. ed. (2006): The Resurrection of Jesus, John Dominic Crossan and N. T. Wright in Dialogue (jatkossa Crossan-Wright), 3–4.

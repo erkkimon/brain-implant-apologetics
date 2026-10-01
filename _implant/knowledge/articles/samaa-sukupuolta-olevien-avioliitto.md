@@ -4,7 +4,7 @@ about: apologetics
 title: "Samaa sukupuolta olevien avioliitto"
 description: "Samaa sukupuolta olevien avioliitto tarkoittaa avioliittoa, joka solmitaan samaa sukupuolta olevien henkilöiden kesken."
 tags: [apowiki, seksuaalietiikka]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Samaa sukupuolta olevien avioliitto".
@@ -177,8 +177,6 @@ Lasten oikeuksien loukkaamisesta tulee erityisen ongelmallista, jos tällainen o
 *Östman, Jeannette (2014) “Tasa-arvo”, teoksessa Johanna Korhonen & Jeanette Östman (toim.) Kaikella rakkaudella. Sanoja seksuaalisuudesta ja sukupuolesta. Helsinki: Into-kustannus.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Gallagher 2012: 133−134
 [^2]: Sullins 2015

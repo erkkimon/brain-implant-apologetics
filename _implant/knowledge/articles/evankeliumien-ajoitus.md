@@ -4,7 +4,7 @@ about: apologetics
 title: "Evankeliumien ajoitus"
 description: "John A. T. Robinson argumentoi, että Uuden testamentin kirjojen ajoitus on suurelta osin ennakko-oletusten varassa."
 tags: [apowiki, eksegetiikka]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Evankeliumien ajoitus".
@@ -34,8 +34,6 @@ Geisler[^6] konkretisoi tätä päättelyä ottamalla vertailukohdaksi kirjan, j
 
 <!--== Aiheesta muualla ==-->
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Robinson, John A. T., *Redating the New Testament*, London: SCM, 1976
 [^2]: Robinson, John A. T., *Redating the New Testament*, London: SCM, 1976, s. 13

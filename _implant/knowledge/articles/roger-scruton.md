@@ -4,7 +4,7 @@ about: apologetics
 title: "Roger Scruton"
 description: "Sir Roger Vernon Scruton, Britannian akatemian jäsen; 27 helmikuutta 1944 – 12."
 tags: [apowiki, henkilöt, seksuaalietiikka]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Roger Scruton".
@@ -211,8 +211,6 @@ Scrutonin kirja *Sexual Desire* (1986) perustuu Hegelin ajatukseen, että jokais
 * Scruton, Roger: *Sacrilege and Sacrament*, teoksessa George, Robert P. & Elshtain, Jean Bethke (toim.), *The Meaning of Marriage: Family, State, Market & Morals*, Dallas: Spence Publishing Company, 2006
 
 ### Viitteet
-
-  1. Viitteet
 
 
 

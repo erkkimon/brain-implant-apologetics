@@ -4,7 +4,7 @@ about: apologetics
 title: "Kristittyjen vainot"
 description: "Kristittyjen vainoaminen on universaali ilmiö, jota on tapahtunut halki kristinuskon historian ja tapahtuu edelleen."
 tags: [apowiki, historia, tyngät]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kristittyjen vainot".
@@ -47,8 +47,6 @@ Vuonna 2010 Afganistanissa tapettiin yhteensä kymmenen lääkäriä tai lääk�
 * [World Watch Monitor](https://www.worldwatchmonitor.org/)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Arffman, Kaarlo, [Yleinen teologia: Kirkkohistoria](http://www.helsinki.fi/teol/kurssit/khist/02_kr_roomankoht.shtml), Helsingin yliopiston teologinen tiedekunta, Kristinuskon ja Rooman imperiumin kohtaaminen, viitattu 18.12.2008 (*Keisari Trajanuksen - - määräyksen mukaan - - kristityksi tunnustautuminen riitti kuolemantuomion perusteeksi.*)
 [^2]: `http://www.aidtochurch.org/pdf/P&F_FINAL.pdf`

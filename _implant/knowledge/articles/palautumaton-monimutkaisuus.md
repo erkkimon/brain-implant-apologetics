@@ -4,7 +4,7 @@ about: apologetics
 title: "Palautumaton monimutkaisuus"
 description: "Michael Behe määrittelee palautumattoman monimutkaisuuden (engl."
 tags: [apowiki, redusoimattomat-järjestelmät]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Palautumaton monimutkaisuus".
@@ -71,8 +71,6 @@ Tähän *Explore Evolution* -kirja vastaa seuraavilla argumenteilla:
 * [William Dembski](william-dembski.md), *Älykkään suunnitelman idea: Silta luonnontieteen ja teologian välillä*, Datakirjat, 2002, ISBN 951-98558-1-5
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Behe, *Molecular Machines: Experimental Support for the Design Inference*
 [^2]: Kojonen, Rope, *Kertooko luonnon järjestys suunnittelusta?*, Michael Behe älykkään suunnittelun ajatuksen puolustajana, Helsingin Yliopisto, 2008 (*Palautumattoman monimutkaisuuden argumenttia pidetään yleisesti Intelligent Designin ydinargumenttina.*)

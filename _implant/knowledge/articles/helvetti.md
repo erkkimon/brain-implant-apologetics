@@ -4,7 +4,7 @@ about: apologetics
 title: "Helvetti"
 description: "Kristinuskon mukaan ihmisen elämä jatkuu kuoleman jälkeen siinä samassa henkisessä ja hengellisessä ilmapiirissä, minkä hän on maanpäällisen elämänsä aikana itselleen valinnut."
 tags: [apowiki, etiikka, raamattu]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Helvetti".
@@ -106,8 +106,6 @@ Ross kertoo tapauksen ystävänsä elämästä. Tämä joutui pidätetyksi ilman
 * Swinburne, Richard: *A Theodicy of Heaven and Hell*, teoksessa Alfred J. Freddoso (toim.), *The Existence and Nature of God*, Notre Dame, IN: Notre Dame University Press, 1983
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Lewis 1973: 115–116
 [^2]: Keller 2011: 103–104

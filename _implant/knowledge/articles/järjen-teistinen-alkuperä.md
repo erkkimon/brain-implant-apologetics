@@ -4,7 +4,7 @@ about: apologetics
 title: "Järjen teistinen alkuperä"
 description: "Anselmin perusajatus on sukua Augustinuksen väitteelle, jonka mukaan tiedon perustana olevat järjelliset intuitiot perustuvat Jumalan käsillä olevaan todellisuuteen."
 tags: [apowiki, epistemologia, teismi]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Järjen teistinen alkuperä".
@@ -65,8 +65,6 @@ Ihminen siis joutuu nojautumaan kaikkitietävään olentoon muodostaessaan tiedo
 Augustinuksen mukaan totuuden etsijän aktiivinen ja omakohtainen älyllinen työskentely on edellytys totuuden löytämiselle. Omakohtaisen älyllisen pohdinnan painotus yhdistyy Augustinuksella realistiseen oletukseen, että todellisuudesta on mahdollista saada luotettavaa tietoa. Augustinus loi näin ajattelullaan pohjan uudelle älylliselle mallille: sitoutuneelle ei-dogmaattiselle ajattelijalle. Hän vältti dogmaattisuuden, koska hän ei uskonut tiedonsiirtomalliin, jonka mukaan tietyt tiedolliset käsitykset tulisi siirtää tehokkaasti opettajalta oppilaalle. Sen sijaan hän piti olennaisena sitä, että jokainen ihminen itsenäisesti vakuuttuu totuudesta. Kuitenkaan Augustinus ei luisunut relativismiin, jonka mukaan kaikki käsitykset ovat yhtä oikeita, vaan piti kiinni siitä, että ihminen voi saavuttaa tietoa, joka on yleispätevää, koska ihminen voi tiedollisissa prosesseissaan nojautua Jumalaan ja hänen ilmoitukseensa.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Augustinus, Aurelius, *De Magistro*, Toim. G. Weil. CSEL 77. Wien, 1961, s. 12.39.5. – 12.40.45
 [^2]: Skirbekk, G. & Gilje, N., *Filosofins historia*, Uddevalla: Daidalos, 1995, s. 163–169

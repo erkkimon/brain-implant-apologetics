@@ -4,7 +4,7 @@ about: apologetics
 title: "Peliteoria apologeettisesta näkökulmasta"
 description: "Peliteoria on matematiikan osa-alue, joka tarkastelee agenttien valintojen probabilistista optimaalisuutta."
 tags: [apowiki, filosofia]
-timestamp: 2026-10-01T20:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Peliteoria apologeettisesta näkökulmasta".
@@ -67,8 +67,6 @@ Siispä on syytä[^2] uskoa, että ihmisillä on vapaa tahto. Lisäksi vapaan ta
 * [Wikipedia: Peliteoria](http://fi.wikipedia.org/wiki/Peliteoria)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Mas-Colell; Whinston; Green, *Microeconomic Theory*, Oxford UP, 1995 luku 7.
 [^2]: Kyseessä on apriorisesti puhuen *kognitiivinen syy* (järkiperuste). – Tosin millään argumenteilla ei sisältönsä perusteella ole aidon tahdonratkaisun mahdollisuuden kieltävien käsitysten mukaan kannanmuodostuksiin vaikutusta, mutta empirian mukaan vaikuttaisi olevan, joten niitä voidaan aposteriorisesti pitää syinä myös tietynlaisen *kausaalisen vaikuttavuuden* mielessä: ellei argumenttia olisi kohdattu, käsityskantakaan ei olisi muodostunut sen mukaiseksi, joten argumenttiin tutustuminen oli (osa)syynä käsityskannan nykysisältöön.

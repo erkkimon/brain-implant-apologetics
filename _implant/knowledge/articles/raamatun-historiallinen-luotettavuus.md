@@ -4,7 +4,7 @@ about: apologetics
 title: "Raamatun historiallinen luotettavuus"
 description: "Kuva: pienoiskuva Raamattu on sidottu tunnettuihin aikoihin, paikkoihin, hallitsijoihin ja henkilöihin, joista löytyy riittävästi tietoa, jotta tiedämme tekstin olevan pääpiirteissään luotettavaa."
 tags: [apowiki, raamattu, historia, lukusuositukset]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Raamatun historiallinen luotettavuus".
@@ -132,8 +132,6 @@ Näin, myös historiallisen luotettavuuden kautta, Raamatun välittämä maailma
 * [Seurakuntalainen.fi: Raamatussa mainitun kuningas Sanheribin palatsi löytynyt](https://www.seurakuntalainen.fi/uutiset/raamatussa-mainitun-kuningas-sanheribin-palatsi-loytynyt/)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Unger, Merrill F., *Raamatun lukijan käsikirja*, Uudistetun laitoksen toimittanut Gary N. Larson, Ristin Voitto ry., 1986, s. 22-28
 [^2]: The Stones Cry Out, R. Price, 1997.

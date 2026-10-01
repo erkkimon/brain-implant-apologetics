@@ -4,7 +4,7 @@ about: apologetics
 title: "Kristinusko ja muut uskonnot"
 description: "Eri uskontoja epistemologiselta kannalta vertailtaessa kristinusko osoittautuu poikkeavan verrokeistaan siinä, että sen keskeisen sisällön muodostavat uskomukset koskevat historiallisia tapahtumia ja ovat siksi inhimillisellä ymmärryksellä lähestyttävissä ja koeteltavissa."
 tags: [apowiki, maailmankatsomus, tyngät]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kristinusko ja muut uskonnot".
@@ -25,8 +25,6 @@ Eri uskontoja epistemologiselta kannalta vertailtaessa kristinusko osoittautuu p
 * [Uskontojen vastaavuudet](uskontojen-vastaavuudet.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: John Warwick Montgomery, "The Jury Returns: A Juridicial Defense of Christianity" in John Warwick Montgomery (ed.), Evidence For Faith: Deciding the God Question (Dallas: Probe/Word, 1991), s. 319. (*The historic Christian claim differs qualitatively from the claims of all other world religions at the epistemological point: on the issue of testability.*)
 [^2]: Esimerkiksi puunhalailijoiden uskomuksiahan skeptikot eivät yleensä edes vaivaudu kritisoimaan.

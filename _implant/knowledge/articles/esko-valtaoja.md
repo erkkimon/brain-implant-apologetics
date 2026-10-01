@@ -4,7 +4,7 @@ about: apologetics
 title: "Esko Valtaoja"
 description: "Esko Jorma Johannes Valtaoja (s. 20. kesäkuuta 1951 Kemi) on avaruustähtitieteen professori Turun yliopistossa ja Tuorlan observatorion entinen johtaja."
 tags: [apowiki, henkilöt]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Esko Valtaoja".
@@ -109,8 +109,6 @@ ennakkoluuloisia sutkauksia ja perusteettomia yleistyksiä.
   * (2009c) ”Salkkareita ja virkkareita”, Turun Sanomat 21.4.2009.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: *Ranskan kielen, saksan kielen ja avaruustähtitieteen professorit virkoihinsa*, Turun yliopisto, 15.5.2002, viitattu 3.6.2017
 [^2]: Vainikainen, Tuula, [Persoona on pantava peliin tiedonjulkistamisessa](http://www.acatiimi.fi/2002/4_02/4_02d.htm), 4/2002, viitattu 3.6.2017

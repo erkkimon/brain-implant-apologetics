@@ -4,7 +4,7 @@ about: apologetics
 title: "Evankeliumi Luukkaan mukaan"
 description: "Luukkaan evankeliumi ja Apostolien teot liittyvät läheisesti toisiinsa."
 tags: [apowiki, raamatun-tekstit]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Evankeliumi Luukkaan mukaan".
@@ -30,8 +30,6 @@ Sen lisäksi Luukkaan evankeliumissa itsessään on lukuisia yksityiskohtia, joi
 Antaessaan näin monia historiallisia yksityiskohtia Luukas asettaa itsensä altiiksi historialliselle koettelulle. **F. F. Bruce**[^2] huomauttaa: ”Kun kirjoittaja näin suhteuttaa kertomuksensa laajempaan maailmanhistorialliseen viitekehykseen, hän saattaa itsensä ongelmiin, jos hän ei ole huolellinen. Hän antaa kriittisille lukijoille monia mahdollisuuksia koetella tarkkuuttaan. Luukas ottaa tämän riskin ja hän kestää tämän testin ihailtavalla tavalla.” Jokaisen Luukkaan mainitsemien yhdentoista henkilön historiallisuus on saanut tukea historiallisista tai arkeologisista lähteistä.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Blomberg, Craig L., *The Historical Reliability of John's Gospel*, Downers Grove, Ill.: InterVarsity Press, 2001, s. 63
 [^2]: Bruce, F.F., *The New Testament Documents: Are they Reliable?*, Downers Grove, Ill.: InterVarsity Press, 1981, s. 82, ks. myös [The New Testament Documents: Are they Reliable? By F. F. BRUCE, 1943](http://www.bible.ca/b-new-testament-documents-f-f-bruce-ch2.htm)

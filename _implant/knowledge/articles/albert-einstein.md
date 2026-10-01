@@ -4,7 +4,7 @@ about: apologetics
 title: "Albert Einstein"
 description: "Tämä artikkeli käsittelee Albert Einsteinin ajatuksia tieteen ja kristinuskon välisestä suhteesta."
 tags: [apowiki, henkilöt]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Albert Einstein".
@@ -57,8 +57,6 @@ Thomas F. Torrance arvosteli Einsteinin tapaa mieltää todellisuus perimmältä
 > — Torrance[^5]
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Frank, Philipp, *Einstein: His Life and Times*, New York: Alfred A. Knopf, 153, s. 286
 [^2]: Einstein, Albert, *Ideas and Opinions*, New York Bonanza Books, 1954, s. 40

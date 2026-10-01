@@ -4,7 +4,7 @@ about: apologetics
 title: "Tietoteoria"
 description: "Tietoteoria (myös tieto-oppi, epistemologia, gnoseologia) on filosofian osa, jossa tutkitaan käsitteellisin, filosofisin menetelmin tietoa , tiedon mahdollisuutta, luonnetta, alkuperää ja rajoja sekä käsitysten tai teorioiden oikeutusta yleensä."
 tags: [apowiki, filosofia]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tietoteoria".
@@ -182,8 +182,6 @@ Viime aikoina [naturalistiset tietoteoriat](https://fi.wikipedia.org/wiki/Natura
 * Neta, Ram & Pritchard, Duncan (toim.), *Arguing about Knowledge*, Routledge, 2009, ISBN 0-415-44839-5
 
 #### Viitteet
-
-  1. Viitteet
 
 
 

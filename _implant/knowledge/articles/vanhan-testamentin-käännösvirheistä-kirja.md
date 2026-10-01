@@ -4,7 +4,7 @@ about: apologetics
 title: "Vanhan testamentin käännösvirheistä (kirja)"
 description: "Vanhan testamentin käännösvirheistä -kirjanen on Kaarlo O. Syvännön kirjoittama teos, joka käsittelee suomalaisen 1933 käyttöönotetun Vanhan testamentin käännösvirheitä."
 tags: [apowiki, kirjat, raamattu, tyngät]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Vanhan testamentin käännösvirheistä (kirja)".
@@ -25,10 +25,6 @@ Vanhan testamentin käännösvirheistä -kirjanen on Kaarlo O. Syvännön kirjoi
 * Kirjasen voi lukea osoitteesta http://tuomasjasuvi.jesusanswers.com/kosyvanto.htm
 
 ### Lähteet
-
-  1. Viitteet
-
-
 
 ## Viitteet
 

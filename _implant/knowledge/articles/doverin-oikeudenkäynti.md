@@ -4,7 +4,7 @@ about: apologetics
 title: "Doverin oikeudenkäynti"
 description: "Julkisuudessa on saanut paljon huomiota oikeudenkäynti Kitzmiller versus Dover School Board, joka koski kysymystä, voidaanko luomisteorian yhtä muunnelmaa, suunnitteluteoriaa (intelligent design, ID) opettaa koulussa."
 tags: [apowiki, suunnitteluteoria, filosofia, media]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Doverin oikeudenkäynti".
@@ -91,8 +91,6 @@ Metodologisen naturalismin näkemys on tyypillinen monille aiheesta annetuille j
 Eräässä mielessä on mahdollista ajatella, että kukin voi asettaa tieteelle ja tieteellisyydelle haluamiaan rajoituksia, koska tiede on inhimillinen toiminto ja ihmiset voivat päättää, minkälaisia rajoituksia he sille asettavat. Mutta millä perusteella olisi mielekästä ajatella, että tieteelle tulisi asettaa tällainen metodologisen naturalismin mukainen rajoitus? Miksi yliluonnollinen tulisi tiukasti sulkea tieteen ulkopuolelle? Tälle kysymykselle annetaan naturalismin piirissä tavallisesti kaksi vastausta. Ensimmäinen vastaus perustuu filosofiseen oppiin, jota kutsutaan empirismiksi. Toinen tavallinen vastaus rakentuu historiallisen väitteen varaan, jonka mukaan yliluonnolliset näkökohdat ovat vaikuttaneet haitallisesti tieteen kehitykseen ja niistä vapautuminen on merkinnyt tieteen edistystä.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: West Jr., *Darwin Day in America: How our politics and culture have been dehumanized in the name of science*, Wilmington, Del.: Intercolligiate Studies Institute, 2007, s. 260-261
 [^2]: West Jr., *Darwin Day in America: How our politics and culture have been dehumanized in the name of science*, Wilmington, Del.: Intercolligiate Studies Institute, 2007, s. 262

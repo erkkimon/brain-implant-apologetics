@@ -4,7 +4,7 @@ about: apologetics
 title: "Mihail Bahtin"
 description: "Mihail Bahtin (1895-1975) oli kristitty ajattelija, joka vangittiin vuonna 1929 Neuvostoliitossa ja tuomittiin \"maanalaisen uskonnollisen toiminnan\" takia Solovetskin vankileiriin."
 tags: [apowiki, henkilöt]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Mihail Bahtin".
@@ -144,8 +144,6 @@ Bahtinin mielestä dialogi ei sulje pois tiedollista auktoriteettia, mutta *asen
 * Dysthe, Olga, *Det flerstämmiga klassrummet*, Lund: Studentlitteratur, 1995
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Coates 1998: 102
 [^2]: Dysthe 1995: 77-78

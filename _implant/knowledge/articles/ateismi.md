@@ -4,7 +4,7 @@ about: apologetics
 title: "Ateismi"
 description: "Ateismi tarkoittaa maailmankatsomusta josta puuttuu jumalusko, tai uskonvaraista käsitystä, jonka mukaan Jumalaa tai jumalia ei ole olemassa."
 tags: [apowiki, ateismi]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ateismi".
@@ -163,8 +163,6 @@ Samoista syistä ateismi näyttää johtavan kommunismissa myös keskustelun raj
 *[I Don't Have Enough Faith to Be an Atheist](i-dont-have-enough-faith-to-be-an-atheist-kirja.md), Norman Geisler ja Frank Turek
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: [Tutkimus: Suomalaiset suhtautuvat uskontoon avarasti](https://www.is.fi/kotimaa/art-2000000049710.html), Iltasanomat, 22.11.2007, viitattu 27.6.2020 (*Vakaumukselliseksi ateistiksi määrittelee itsensä noin viisi prosenttia suomalaisista.*)
 [^2]: mm. ihmisarvot ja -oikeudet

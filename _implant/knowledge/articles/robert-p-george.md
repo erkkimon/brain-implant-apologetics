@@ -4,7 +4,7 @@ about: apologetics
 title: "Robert P. George"
 description: "Robert Peter George (syntynyt kesäkuun 10., 1955) on amerikkalainen oikeusoppinut ja poliittinen filosofi, joka toimii oikeustieteen professorina Princetonin yliopistossa."
 tags: [apowiki, henkilöt, seksuaalietiikka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Robert P. George".
@@ -76,8 +76,6 @@ Koska oikea käsitys avioliitosta on edellytys ihmisten hyvinvoinnille, valtioll
 *
 
 ### Viitteet
-
-  1. Viitteet
 
 
 

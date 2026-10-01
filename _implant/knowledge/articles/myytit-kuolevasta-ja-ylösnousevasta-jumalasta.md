@@ -4,7 +4,7 @@ about: apologetics
 title: "Myytit kuolevasta ja ylösnousevasta jumalasta"
 description: "Kristus on avain Vanhan testamentin tarinoihin. Mutta uskon että Logoksen inkarnaationa hän on avain kaikkiin tarinoihin."
 tags: [apowiki, jeesus, mytologia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Myytit kuolevasta ja ylösnousevasta jumalasta".
@@ -70,8 +70,6 @@ Pageaun mukaan Kristus samalla kertaa täyttää ja mullistaa tämän mytologise
 * [Jeesus-myyttihypoteesit](jeesus-myyttihypoteesit.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Jonathan Pageau, [Christ Is the Key to All Stories](https://www.youtube.com/watch?v=v7xE2_ULDD0), Youtube, 19.07.2024, viitattu 23.8.2024
 [^2]: Cunningham, Graham & al., [Inana's descent to the nether world: translation](https://etcsl.orinst.ox.ac.uk/section1/tr141.htm), The Electronic Text Corpus of Sumerian Literature, 7.9.2001, viitattu 23.8.2024

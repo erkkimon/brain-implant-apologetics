@@ -4,7 +4,7 @@ about: apologetics
 title: "Fundamentalismi"
 description: "center — Fundamentalismi on akateeminen kirosana. Alvin Plantinga on analysoinut fundamentalistin käsitettä ja hänen mukaansa se tarkoittaa \"fasistista öykkäriä, joka on mun kanssa eri mieltä\"."
 tags: [apowiki, raamattukäsitykset, aatteet]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Fundamentalismi".
@@ -40,8 +40,6 @@ Toinen ateisteille yleinen argumentointivirhe on todisteiden valikointi. Muiden 
 Kristitylle on tärkeää tarkistaa, että hänen periaatteensa nousevat tasapainoisella tavalla Raamatusta (esimerkiksi  ([1. Kor 13](../books/1co.md)) ja  ([Matt. 27:36-40](../books/mat.md))). Joskus vähemmän tärkeät asiat saattavat nousta liian tärkeään asemaan ja joskus vahvan johtajan omat ajatukset mielletään Raamatun kannaksi.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Lyhennellen lainattu Tapio Puolimatkan puheenvuorosta hänen [debatistaan](http://www.youtube.com/watch?v=JI6nT5M0v0c) Enqvistin kanssa. Kommentti kohdassa 4:40-5:40
 [^2]: *Kielitoimiston sanakirja*, Kotimaisten kielten tutkimuskeskuksen julkaisuja 132. Internet-versio MOT Kielitoimiston sanakirja 1.0, Helsinki: Kotimaisten kielten tutkimuskeskus ja Kielikone Oy, 2004, ISBN 952-5446-11-5

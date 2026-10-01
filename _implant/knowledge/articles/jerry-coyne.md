@@ -4,7 +4,7 @@ about: apologetics
 title: "Jerry Coyne"
 description: "Jerry A. Coyne (s. 1949) toimii biologian professorina evoluutioekologian laitoksella Chicagon yliopistossa."
 tags: [apowiki, henkilöt, ateismi]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jerry Coyne".
@@ -295,8 +295,6 @@ Dawkinsin eliömaantieteelliseen argumenttiin sisältyy se ristiriitainen oletus
 * Nagel, Thomas, *Public Education and Intelligent Design*, Philosophy & Public Affairs, 36 no 2, 187-205
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Coyne 2009: 245
 [^2]: Skolastisen tutkimustradition tunnusomaisena lähtökohtana oli luottamus klassisiin auktoriteetteihin (filosofi Aristoteles, astronomi Ptolemaios, lääkäri Galenos ym.), joiden teoksia tutkittiin olettaen niiden jo sisältävän alansa kaiken olennaisen tiedon, joka nyt piti vain tarkalla lukemisella ja analyysillä ottaa haltuun ja soveltaa käytäntöön.

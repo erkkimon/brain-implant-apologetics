@@ -4,7 +4,7 @@ about: apologetics
 title: "Maailman hienoin esitys (kirja)"
 description: "Richard Dawkinsin kirja Maailman hienoin esitys: Evoluution todisteet (Terra Cognita 2009) on yksi viimeaikaisista yrityksistä tuoda tavallisen kansan tietoon evoluutioteorian todisteita."
 tags: [apowiki, kirjat, richard-dawkins, evoluutioteoria]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Maailman hienoin esitys (kirja)".
@@ -151,8 +151,6 @@ John Grayn[^32] mukaan Maan käsittäminen organismia muistuttavaksi itseään s
 * [Stove, David](david-stove.md), *Darwinian Fairytales: Selfish Genes, Errors of Heredity and Other Fables of Evolution*, New York: Encounter Books, 2007
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Dawkins 2009: 195–196
 [^2]: Dawkins 2009: 230

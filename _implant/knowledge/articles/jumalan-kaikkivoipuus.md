@@ -4,7 +4,7 @@ about: apologetics
 title: "Jumalan kaikkivoipuus"
 description: "__NOTOC__ Kristillisessä teismissä uskotaan yleisesti kaikkivaltiuden olevan yksi Jumalan ominaisuuksista."
 tags: [apowiki, jumala]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jumalan kaikkivoipuus".
@@ -71,7 +71,5 @@ Näin ollen voimme todeta, että kaikkivaltias Jumala 1) voi muuttua ja 2) Jumal
 * [Jasu Markkanen: Voiko kaikkivaltias luoda niin suuren kiven, ettei jaksa nostaa sitä?](https://puolustajanpolku.fi/?id=104)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: [Koivuniemen raamattuhaku: "kaikkival*"](http://www.koivuniemi.com/cgi-bin/raamattuhaku?kirjat=kr&hakuehto=kaikkival*) Esim.  ([1. Moos. 17:1](../books/gen.md)) (*"- - Minä olen Jumala, Kaikkivaltias; vaella minun edessäni ja ole nuhteeton.*)

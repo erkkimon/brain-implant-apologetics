@@ -4,7 +4,7 @@ about: apologetics
 title: "Frederick Suppe"
 description: "Frederick Suppe (s. helmikuu 22, 1940 Los Angelesissa, Kaliforniassa) on filosofian emeritusprofessori Marylandin yliopistossa."
 tags: [apowiki, henkilöt, filosofia]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Frederick Suppe".
@@ -85,8 +85,6 @@ Jos pitäydymme valistuksen ajan vaatimukseen, että Jumalasta on saatava täsm�
 * Suppe, J., *Thoughts on Epistemology of Christianity in Light of Science*, The News: Newsletter of the Society of Christian Geologists
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Suppe 1996: 294–295
 [^2]: Suppe 1996: 295

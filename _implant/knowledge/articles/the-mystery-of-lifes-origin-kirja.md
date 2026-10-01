@@ -4,7 +4,7 @@ about: apologetics
 title: "The Mystery of Life’s Origin (kirja)"
 description: "__NOTOC__ Mystery of Life’s Origin: Reassessing Current Theories on Kemisti Charles Thaxtonin, konetekniikan professori Walter Bradleyn ja kemisti Roger Olsonin kirjoittama kirja, joka käsittelee abiogeneettisten hypoteesien ongelmia."
 tags: [apowiki, kirjat, abiogeneesi]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "The Mystery of Life’s Origin (kirja)".
@@ -28,7 +28,5 @@ __NOTOC__
 #### ApologetiikkaWiki
 
 #### Viitteet
-
-  1. Viitteet
 
 [^1]: "Yet I knew that the modern theory of intelligent design was not developed as a legal strategy, still less as one to abet creationism. Instead, it was first considered in the late 1970s and early 1980s by a group of scientists – Charles Thaxton, Walter Bradley, and Roger Olsen – as a possible explanation for an enduring mystery of modern biology: the origin of the digital information encoded along the spine of the DNA molecule.<sup>9</sup>" (viitteessä 9: "Thaxton, Bradley, and Olsen, *The Mystery of Life's Origin*.), Stephen C. Meyer, *[Signature in the Cell](signature-in-the-cell-kirja.md)*, HarperOne, 2009, s. 4, ISBN 0061472786

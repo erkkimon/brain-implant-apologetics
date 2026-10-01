@@ -4,7 +4,7 @@ about: apologetics
 title: "Rushmore-vuoren kansallinen muistomerkki"
 description: "Kuva: Mount Rushmore National Memorial, Etelä-Dakota, Yhdysvallat."
 tags: [apowiki, parodiset-artikkelit, suunnitteluteoria, lukusuositukset]
-timestamp: 2026-10-01T19:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Rushmore-vuoren kansallinen muistomerkki".
@@ -207,8 +207,6 @@ Rushmore-vuoren kansallisen muistomerkin suunnitteluhypoteesia ei voida mitenkä
 * [Multiversumi](multiversumi-hypoteesi.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Matkailufirmat tekevät suunnattomasti rahaa opastetuilla kierroksilla, joita ei ostettaisi ilman relevanttia mytologiaa. Lisäksi tekaistuilla [pyhäinjäännöksillä](http://cgi.ebay.com/MOUNT-RUSHMORE-GUTZON-BORGLUM-SIGNED-CONTRACT-/160439111656) on menekkiä, sekä valtava kate.
 [^2]: [Mount Rushmore Student Guide](https://www.nps.gov/moru/learn/kidsyouth/upload/MORU-Student-Guide-2014.pdf), US National Park Service, viitattu 28.4.2017

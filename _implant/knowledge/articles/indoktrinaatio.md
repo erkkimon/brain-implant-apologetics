@@ -4,7 +4,7 @@ about: apologetics
 title: "Indoktrinaatio"
 description: "Indoktrinaatio on kiistanalainen käsite, jonka määritelmästä on pitkään käyty intensiivistä keskustelua."
 tags: [apowiki, filosofia, epistemologia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Indoktrinaatio".
@@ -165,7 +165,5 @@ Tuomas Kangasniemi, [*Lapset keksivät uskon jumaliin aikuisten opetuksesta riip
 Tapio Puolimatka: [*Opetuksen rajankäyntejä*](https://www.tapiopuolimatka.net/34) ABC+ -lehti 2007.
 
 ### Viitteet
-
-  1. Viitteet
 
 

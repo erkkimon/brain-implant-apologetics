@@ -4,7 +4,7 @@ about: apologetics
 title: "Kirjallisuushistoriallinen menetelmä (raamatuntutkimus)"
 description: "Historiallisesti orientoitunut kirjallisuuskritiikki eli kirjallisuushistoriallinen menetelmä on yksi historiallis-kriittinen menetelmä."
 tags: [apowiki, eksegetiikka]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kirjallisuushistoriallinen menetelmä (raamatuntutkimus)".
@@ -90,8 +90,6 @@ Paitsi että molemmat edellä esitetyistä oletuksista ovat vailla riittäviä p
 *[Dokumentaarihypoteesi](dokumentaarihypoteesi.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Felix, Paul W., *Literary Dependence and Luke's Prologue*, teoksessa Robert L., Thomas & F. David Farnell (toim.): *The Jesus Crisis*, Grand Rabits, Mich: Kregel, 1998, s. 271-288
 [^2]: Plummer, Alfred, *A Critical and Exegetical Commentary on the Gospel According to S. Luke*, ICC. Edinburgh: T & T. Clark, 1896, s. 2

@@ -4,7 +4,7 @@ about: apologetics
 title: "Jesus and the Eyewitnesses (kirja)"
 description: "St. Andrews yliopiston Uuden testamentin eksegetiikan professori Richard Bauckham kyseenalaistaa kirjassaan sen, että olisi tiedollisesti oikeutetulla tavalla mahdollista tehdä ero ”historian Jeesuksen” ja ”uskon Kristuksen” välillä."
 tags: [apowiki, kirjat, eksegetiikka]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jesus and the Eyewitnesses (kirja)".
@@ -39,8 +39,6 @@ Silminnäkijätodistajista kaikkein merkittävimpiä olivat tietysti 12 opetusla
 * Esa Hyvönen: [Kuukauden kirja: Jesus and the Eyewitnesses](http://eksegeesi.blogspot.com/2010/09/kuukauden-kirja-jesus-and-eyewitnesses.html) (Eksegeettinen safari)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Bauckham, Richard, *Jesus and the Eyewitnesses. The Gospels as Eyewitness Testimony*, Eerdmans, 2006
 [^2]: Bauckham, luvut 3-5

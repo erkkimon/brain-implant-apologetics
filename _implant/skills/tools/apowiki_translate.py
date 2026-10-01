@@ -24,7 +24,8 @@ Passed through untranslated and unsent:
 
 * the frontmatter, which is rewritten for the English page
 * the GFDL source comment
-* HTML comments (red-link notes)
+* HTML comments that stand alone as a block. A comment inside prose (a
+  red-link note) goes to the model and must come back unchanged.
 * footnote definitions `[^n]: …`. A citation is a receipt: the Finnish book
   title, publisher and page stay exactly as ApoWiki recorded them.
 
@@ -65,6 +66,7 @@ Rules:
    grammar needs, never substitute a synonym):
 {glossary}
 4. Do not translate the titles of books or articles; keep them as written.
+   Copy every HTML comment <!-- ... --> unchanged, untranslated.
 5. Output only the translation: no preamble, no notes, no code fences.
 {feedback}
 Finnish text:
@@ -114,6 +116,9 @@ def terms_in(text: str, rules) -> list[tuple[str, str]]:
 
 LINK = re.compile(r"\]\(([^)\s]+)\)")
 NOTE = re.compile(r"\[\^[^\]]+\](?!:)")
+# Red-link notes are data (the wanted-pages count reads them), not prose.
+# The 9B model translated one on its first real run (2026-10-01).
+COMMENT = re.compile(r"<!--.*?-->", re.S)
 
 
 def check(fi: str, en: str, required: list[tuple[str, str]]) -> list[str]:
@@ -122,6 +127,10 @@ def check(fi: str, en: str, required: list[tuple[str, str]]) -> list[str]:
     if missing:
         problems.append("these link targets are missing, keep every "
                         "[label](target) link: " + ", ".join(missing))
+    lost = [c for c in COMMENT.findall(fi) if c not in en]
+    if lost:
+        problems.append("these HTML comments must be copied unchanged, "
+                        "character for character: " + " ".join(lost))
     if sorted(NOTE.findall(fi)) != sorted(NOTE.findall(en)):
         problems.append("footnote markers changed; keep exactly: "
                         + " ".join(NOTE.findall(fi)))
@@ -277,6 +286,8 @@ def selftest() -> int:
     assert check("naturalismin", "of naturalism", req) == []
     assert check("naturalismin", "of materialism", req) != []
     assert check("x", "Here is the translation: x", []) != []
+    assert check("a <!-- red link: Kirja -->", "a <!-- red link: Book -->", []) != []
+    assert check("a <!-- red link: Kirja -->", "an <!-- red link: Kirja -->", []) == []
     f, c, b = split_article("---\ntype: article\n---\n<!--\nsrc\n-->\n\n# T\n\n"
                             "Teksti.[^1]\n\n[^1]: Kirja, s. 3.\n")
     assert [k for k, _ in b] == ["prose", "prose", "keep"], b

@@ -4,7 +4,7 @@ about: apologetics
 title: "Huuhaa-palkinto 2008"
 description: "Kuva: Vuoden 2008 Huuhaa-palkinto Skepsis ry antoi vuoden 2008 Huuhaa-palkintonsa Kustannus Oy Uudelle Tielle kasvatustieteen professori Tapio Puolimatkan Usko, tiede ja Raamattu sekä Usko, tiede ja evoluutio -kirjojen julkaisemisesta."
 tags: [apowiki, tapio-puolimatka, media, lukusuositukset]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Huuhaa-palkinto 2008".
@@ -202,8 +202,6 @@ Puolimatkan [vastine](tapio-puolimatka-käsitykset-testataan-moniäänisessä-di
 * [Skepsiksen myöntämisperusteet vuoden 2008 Huuhaa-palkinnolle](http://www.skepsis.fi/HuuhaaPalkinnot)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: (*Viimeistään tässä vaiheessa tulee selväksi, että arvoisa Skepsiksen puheenjohtaja joko ei ole lukenut Puolimatkan kirjoja - -*) [Nimimerkki Markku Uskon Puolesta -blogissa: Valtaojan ja Skepsiksen huuhaa-argumenteista](http://uskonpuolesta.blogspot.com/2008/12/valtaojan-ja-skepsiksen-huuhaa.html) (*Heillä ei ehkä ollut aikaa lukea kirjojani. Jos he olisivat paremmin tutustuneet kirjoihini, ehkä he pystyisivät paremmin hahmottamaan perusargumentaatiota* [`http://www.kotimaa.fi/index.php?option=com_content&task=view&id=7171&Itemid=38&show=1&start=10` Puolimatka eKotimaassa] ) (*Näyttääkin siltä, ettei Skepsis Ry:n Huuhaa-palkinnon päättäjistä suurin osa ole lukenut näitä kirjoja, mahdollisesti edes sisällysluetteloa.*) [Pauli Ojala artikkelissaan *Tieteen (varjo)päivät 2009*](https://biokemia.fi/skepsis.htm)
 [^2]: Skepsis ry:n hallitus, [Huuhaa-palkinnot](http://www.skepsis.fi/HuuhaaPalkinnot), 3.12.2008, viitattu 17.4.2017

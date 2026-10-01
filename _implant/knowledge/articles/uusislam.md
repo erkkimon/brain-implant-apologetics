@@ -4,7 +4,7 @@ about: apologetics
 title: "Uusislam"
 description: "Uusislam on sellainen legitiimin islam-tulkinnan asemasta kamppaileva ajatus- ja toimintamalli, joka on valmis selvään irtiottoon monista perinteisen islamin tunnusmerkillisistä piirteistä ja edustaa siksi olennaisesti erilaista…"
 tags: [apowiki, teismi, islam, keskeneräiset-artikkelit]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Uusislam".
@@ -63,8 +63,6 @@ Ylläolevat sitaatit ilmaisevat kirjailijan edustamaa näkemystä: niiden kontek
 "Kun saavuin murrosikään, äitini pyysi minua pukeutumaan burkhaan. Yhtäkkiä maailma näytti harmaalta. Minulla oli kuuma ja tunsin oloni tukalaksi hengittäessäni kankaan peittämänä. Isäni katsahti minuun kerran ja sanoi: 'Minun tyttäreni ei tarvitse käyttää huntua.' Äitini päätti, että jos minä en pukisi päälleni kaiken peittävää burkhaa, hänkään ei sitä pukisi. Poikkeama perinteestä näki siis päivänvalon." (s.62)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: vrt. Immanuel Kantin ideaan "uskonnosta puhtaan järjen puitteissa"
 [^2]: Saudi-Arabia on tässä suhteessa merkittävä poikkeus.

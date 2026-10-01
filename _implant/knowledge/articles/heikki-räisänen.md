@@ -4,7 +4,7 @@ about: apologetics
 title: "Heikki Räisänen"
 description: "Heikki Martti Räisänen (s. 10. joulukuuta 1941 Helsinki – 30."
 tags: [apowiki, henkilöt, eksegetiikka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Heikki Räisänen".
@@ -283,8 +283,6 @@ Tällä uudella uskonnolla on ollut moniin voimakkaasti innoittava vaikutus. He 
 *Räisänen, Heikki, *Beyond New Testament Theology*, 2nd edition, London: SCM Press, 2000
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Lauha, Aila, [Heikki Räisäsen elämäntyöstä](http://www.vartija-lehti.fi/heikki-raisasen-elamantyosta/), 31.12.2015, viitattu 24.6.2017
 [^2]: Autio, Veli-Matti (toim.), *Professorimatrikkeli 1918–1996 Professorsmatrikel*, Helsingin yliopisto, 1997, s. 462

@@ -2,7 +2,7 @@
 type: skill
 title: Convert ApoWiki wikitext into implant articles
 description: Use when turning the ApoWiki export in raw/apowiki-export/ into searchable articles under knowledge/ — the deterministic, token-free conversion that produces the MVP, including wiki-link resolution, citation footnotes and the topic spine that grounds every page.
-timestamp: 2026-10-01T20:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 depends_on: [skills/using-the-brain-implant.md]
 tools:
   - skills/tools/apowiki_convert.py
@@ -96,6 +96,13 @@ references linked to their book pages, zero ghosts.
   the page still counts as wanted. Reviewing matters: *David Quinn* the
   debater is a hockey player in Wikipedia, and *perusryhmä* (a created kind)
   is a topology term there; such entries are null.
+* **Headings are inserted after the list pass, never before it.** `blocks()`
+  reads a line starting with `#` as a wikitext numbered item. The
+  `{{viitteet}}` template used to emit `## Viitteet` early, and 350 articles
+  ended with a stray "1. Viitteet" list item. It now leaves a placeholder
+  that becomes the heading at the end, or vanishes when the wiki already
+  wrote a *Viitteet* heading right above it. Found while reviewing the first
+  translation ([journal](../journals/2026-10-01.md)).
 * **Glossary links land somewhere useful.** An `AW:S#term` link to a term
   the glossary defines lands on its anchor. The 41 terms it does not define
   were decided once, in `GLOSSARY_FALLBACKS` in the converter: a near-variant

@@ -4,7 +4,7 @@ about: apologetics
 title: "David Stove"
 description: "David Charles Stove (15. syyskuuta 1927 - 2. kesäkuuta 1994) oli australialainen filosofi, joka oli erikoistunut tieteenfilosofiaan."
 tags: [apowiki, henkilöt, filosofia]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "David Stove".
@@ -44,16 +44,12 @@ Vaikka Stove oli ateisti, hän arvosteli kirjassaan [Darwinian Fairytales](darwi
 
 ### Lähteet
 
-  1. Viitteet
-
-
+## Viitteet
 
 ### Aiheesta muualla
 
 * Campbell, Scott: [David Stove (1927-1994)](http://web.maths.unsw.edu.au/%7Ejim/stovecampbelllife.htm)
 * Tapio Puolimatka: [Darwiniaanisia satuja](http://www.tapiopuolimatka.net/26)
-
-## Viitteet
 
 [^1]: Teichman, Jenny, *The Intellectual Capacity of David Stove*, Philosophy, 2001
 [^2]: Stove, David, [A New Religion](https://www.cambridge.org/core/journals/philosophy/article/new-religion/378CD79C736AA76EC546487DAF2787AC), The Royal Institute of Philosophy, viitattu 15.4.2017

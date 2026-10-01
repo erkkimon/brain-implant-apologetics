@@ -4,7 +4,7 @@ about: apologetics
 title: "Traditiokritiikki"
 description: "Traditiokritiikki on yksi historiallis-kriittisen raamatuntutkimuksen käyttämistä menetelmistä."
 tags: [apowiki, raamattu, historia]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Traditiokritiikki".
@@ -91,8 +91,6 @@ Eksegeettiselle tutkimukselle on ominaista pitkälle menevä alimääräytyneisy
 Koska myös eksegeettinen tutkimus on eräs sosiaalisen toiminnan kenttä, se on valtaintressien läpäisemä. Valtaintressit ohjaavat teorioiden ja tutkimusohjelmien valintaa. Koska teologian asemaa tieteenä kyseenalaistetaan, teologialla on tarve tulla laajemman tiedeyhteisön hyväksymäksi. Läpäiseväksi intressiksi tulee valta-asemassa olevien lähestymistapojen ja ennakko-oletusten omaksuminen. Voidakseen saavuttaa aseman eksegeettisissä tiedeyhteisöissä, uuden tutkijan on omaksuttava sen perustavat oletukset.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Gruenler, Royce Gordon, *New Approaches to Jesus and the Gospels. An Exegetical and Phenomenological Study of Synoptic Christology*, Grand Rapids, Mich: Baker Book House, 1982
 [^2]: Gruenler, Royce Gordon, *New Approaches to Jesus and the Gospels. An Exegetical and Phenomenological Study of Synoptic Christology*, Grand Rapids, Mich: Baker Book House, 1982, s. 130

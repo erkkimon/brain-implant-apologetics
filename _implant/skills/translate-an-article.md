@@ -2,7 +2,7 @@
 type: skill
 title: Translate an article into English
 description: "Use when translating a converted Finnish ApoWiki article into English: a small local model does the prose, ApoWiki's own glossary (Sanasto) fixes the terminology, and deterministic checks (links, footnotes, glossary terms) decide whether a chunk is accepted. Frontier-model tokens are spent only on review."
-timestamp: 2026-10-01T20:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 depends_on: [skills/convert-apowiki-to-articles.md]
 tools:
   - skills/tools/apowiki_glossary.py
@@ -98,6 +98,9 @@ of them. Finnish is matched by word stem, so inflected forms (*naturalismin*,
 
 ## What stays Finnish on purpose
 
-Book and article titles, footnote definitions (the receipts: author, title,
+HTML comments, including the red-link notes inside sentences: the model sees
+those and must return them unchanged, which the checker enforces since the
+9B model translated *Älykkään suunnitelman idea (kirja)* in one on its first
+run. Book and article titles, footnote definitions (the receipts: author, title,
 publisher, page, exactly as ApoWiki recorded them), and HTML comments. A
 citation translated into English points at a book that does not exist.

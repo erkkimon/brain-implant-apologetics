@@ -4,7 +4,7 @@ about: apologetics
 title: "Ajankohtainen 3 (lehti)"
 description: "Ajankohtainen 3 on Daniel Nylundin n. v. 1984 kirjoittama lehti, jossa on tiivis paketti kristillistä apologetiikkaa."
 tags: [apowiki, filosofia, maailmankatsomus, kirjat]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ajankohtainen 3 (lehti)".
@@ -37,8 +37,6 @@ Lehdessä Nylund pyrkii hahmottamaan maailmankatsomuksellisia valintojaan tavall
 * [Teoblogi](http://www.teoblogi.com/)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: lehdessä ei ole ilmoitettu painovuotta
 [^2]: "Tästä kirjoituksesta tehtiin noin parikymmentä vuotta sitten kaksi painosta, muistaakseni yhteensä 25 000 kappaletta." Daniel Nylund, Kolmas johdanto Ajankohtaiseen 3:een (http://www.netikka.net/mpeltonen/siirretyt/tekstit/daniel/kirja.html)

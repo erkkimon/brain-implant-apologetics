@@ -4,7 +4,7 @@ about: apologetics
 title: "Jumalan olemassaolo"
 description: "Jumalan olemassaoloa ei voida koskaan todistaa aukottomasti. Tämän tekstinkään olemassaoloa ei voida todistaa aukottomasti."
 tags: [apowiki, jumala, argumentit]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jumalan olemassaolo".
@@ -53,8 +53,6 @@ Merkittävimmät jumalatodistukset ovat
 * T. Ilari: [11 (hyvää) argumenttia Jumalan olemassaolon puolesta](https://uskojarkijafilosofia.wordpress.com/2011/12/20/11-hyvaa-argumenttia-jumalan-olemassaolon-puolesta/) (Usko, järki ja filosofia -blogi)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Russell, Bertrand, *Länsimaisen filosofian historia 1: Vanhan ajan filosofia, katolinen filosofia*, (Alkuteos: History of western philosophy, 1946.) 9. painos. Suomentanut J. A. Hollo, WSOY, 1999, ISBN 951-0-17867-5
 [^2]: Puolimatka, Tapio, *Usko, tieto ja myytit*, Tammi, 2005, s. 136, 951-26-5347-8 (*Nämä argumentit eivät tarjoa vastaansanomatonta todistusta Jumalasta, mutta ne tarjoavat järkisyitä uskoa Jumalaan.*)

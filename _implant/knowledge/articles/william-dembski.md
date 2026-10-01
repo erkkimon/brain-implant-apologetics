@@ -2,9 +2,9 @@
 type: article
 about: apologetics
 title: "William Dembski"
-description: "William Albert ”Bill” Dembski (s. 18. heinäkuuta (https://fi.wikipedia.org/wiki/1960)) on yhdysvaltalainen matemaatikko, filosofi ja teologi."
+description: "William Albert ”Bill” Dembski (s. 18. heinäkuuta 1960) on yhdysvaltalainen matemaatikko, filosofi ja teologi."
 tags: [apowiki, henkilöt, suunnitteluteoria, tyngät]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "William Dembski".
@@ -44,10 +44,6 @@ Dembski totesi kirjassaan <!-- red link: Älykkään suunnitelman idea (kirja) -
 * [Design Inference: The Writings of William A. Dembski](http://www.designinference.com/)
 
 ### Lähteet
-
-  1. Viitteet
-
-
 
 ## Viitteet
 

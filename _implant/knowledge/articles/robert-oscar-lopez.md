@@ -4,7 +4,7 @@ about: apologetics
 title: "Robert Oscar Lopez"
 description: "Robert Oscar Lopez (syntynyt 1971) on toiminut englannin kielen ja klassisen kirjallisuuden professorina Kalifornian valtionyliopistossa Northridgessä, Los Angelesissa."
 tags: [apowiki, henkilöt, seksuaalietiikka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Robert Oscar Lopez".
@@ -83,8 +83,6 @@ Lopez[^12] arvioi sukupuolineutraalin avioliittolainsäädännön johtavan yhtei
 * Lopez, Robert Oscar: *The Problem of Women*, teoksessa Lopez & Edelman (toim.) 2015 s. 131-142
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Eric Owens, [Taxpayer-Funded Diversity Bureaucrats Hound Professor, Compare Reagan Library To KKK CAMP](http://dailycaller.com/2015/11/09/taxpayer-funded-diversity-bureaucrats-hound-professor-compare-reagan-library-to-kkk-camp/2/), The Daily Caller, November 9, 2015, viitattu November 12, 2015
 [^2]: *verkkolähde*

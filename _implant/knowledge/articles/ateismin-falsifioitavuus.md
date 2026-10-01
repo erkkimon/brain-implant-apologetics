@@ -4,7 +4,7 @@ about: apologetics
 title: "Ateismin falsifioitavuus"
 description: "Jotkut ateistit väittävät, että Jumalan olemassaolo ei ole falsifioitavissa , joten siihen ei ole syytä uskoa."
 tags: [apowiki, ateismi]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ateismin falsifioitavuus".
@@ -92,8 +92,6 @@ Myöhemmin tapahtunutta pohtiessaan Erkki tulee siihen tulokseen, että kyseess�
 <!--=== Internet ===-->
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: "tai jumalien"
 [^2]: Katso tarkemmat perustelut [Jumalan kaikkivaltius](jumalan-kaikkivoipuus.md) -artikkelista.

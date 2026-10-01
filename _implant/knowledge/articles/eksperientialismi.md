@@ -4,7 +4,7 @@ about: apologetics
 title: "Eksperientialismi"
 description: "Eksperientialismi on uskonnonfilosofiassa näkemys, jonka mukaan jotkut uskonnolliset uskomukset ovat tiedollisesti oikeutettuja välittömän kokemuksen perusteella."
 tags: [apowiki, filosofia, epistemologia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Eksperientialismi".
@@ -51,8 +51,6 @@ Koska ihmisjärki on rajallinen, se ei pysty todistamaan monia olennaisia totuuk
 * [Fideismi](fideismi.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: [Alvin Plantinga](alvin-plantinga.md), *[Warranted Christian Belief](warranted-christian-belief-kirja.md)*, [online](http://www.ccel.org/ccel/plantinga/warrant3.html), Oxford University Press, 2000, s. 172-173, ISBN 0-19-513192-4
 [^2]: Burge, Taylor, *Philosophy of Language and Mind*, Philosophical Review, 101, 49

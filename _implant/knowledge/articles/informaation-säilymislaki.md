@@ -4,7 +4,7 @@ about: apologetics
 title: "Informaation säilymislaki"
 description: "Informaation säilymislaki (ISL; engl. Law of Conservation of Information, LCI) on suunnitteluteoreetikko William Dembskin esittämä ja perustelema periaate, jonka olennaisena sisältönä on se, että mutkikkaan täsmäinformaation (MTI; engl."
 tags: [apowiki, suunnitteluteoria, keskeneräiset-artikkelit]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Informaation säilymislaki".
@@ -83,8 +83,6 @@ Dembskin mukaan näin ei kuitenkaan voi tapahtua. Se johtuu siitä, että tarkoi
 Sikäli kuin kaikki on mennyt oikein, voi kuitenkin ajatella, että se on ollut jossain olemassa ihan samanlaisena kuin nytkin jo ennen kuin se on siirtynyt sille tietovälineelle, jolta sitä nyt luet. Siinä tapauksessa on tapahtunut jotain sellaista, joka on johtanut siihen, että olemassaollut teksti on kopioitu, kopio on siirretty ja muunnettu siihen muotoon, jossa sitä nyt katselet. Tämä kaikki on tapahtunut muuttamatta tekstiä mitenkään: näet saman merkkijonon, joka oli olemassa ennen kopioinnin alkua. Silloin tilannetta voi matemaattisesti kuvata niin, että olemassaollut "alkuteksti" ja nyt näkemäsi "lopputeksti" ovat välttämättömyyssuhteessa: lopputeksti on juuri sellainen kuin on, koska alkuteksti oli kopiointihetkellä juuri sellainen kuin oli[^29]. Silloin näissä molemmissa teksteissä on tietysti aivan sama informaatiokin: se ei ole matkalla lisääntynyt (eikä vähentynyt). -->
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: käännösvastineena käytetään m. "täsmennetty monimutkainen informaatio" l. TMI
 [^2]: periaatteessa rajattoman määrän

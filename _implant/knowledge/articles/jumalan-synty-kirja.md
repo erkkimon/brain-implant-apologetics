@@ -4,7 +4,7 @@ about: apologetics
 title: "Jumalan synty (kirja)"
 description: "Jumalan synty – Isän ja Pojan kätketty historia on Ville Mäkipellon, Juha Pakkalan ja Raimo Hakolan kirjoittama kirja, joka käsittelee kristinuskon jumalakäsityksen historiaa."
 tags: [apowiki]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jumalan synty (kirja)".
@@ -46,7 +46,5 @@ Emil Anton kirjoittaa:
 * Ollilainen, Vesa, [Arviossa Jumalan synty](https://sti.fi/wp-content/uploads/2025/06/Jumalan-synty-arvio_2.pdf), Suomen teologinen instituutti, 27.5.2025, viitattu 25.6.2025
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Anton, Emil, [Jumalan synty: viatonta ja vakavasti otettavaa uskontohistoriaa?](https://hapatusta.net/2025/04/07/jumalan-synty-viatonta-ja-vakavasti-otettavaa-uskontohistoriaa/), 7.4.2025, viitattu 20.4.2025

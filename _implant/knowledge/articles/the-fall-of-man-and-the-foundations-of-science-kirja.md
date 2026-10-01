@@ -4,7 +4,7 @@ about: apologetics
 title: "The Fall of Man and the Foundations of Science (kirja)"
 description: "Tieteenhistorioitsija Peter Harrison osoittaa kirjassaan, että modernin luonnontieteellisen menetelmän kehittämistä ohjasi alun perin kristillinen ihmiskäsitys, jonka pohjana ovat opit luomisesta, syntiinlankeemuksesta ja lunastuksesta."
 tags: [apowiki, kirjat, historia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "The Fall of Man and the Foundations of Science (kirja)".
@@ -74,8 +74,6 @@ Niille, jotka pitivät ihmisen nykyistä tietämättömyyden tilaa syntiinlankee
 * Luther, Martti, *Ensimmäisen Mooseksen kirjan selitys 1-7*, Suom. Heikki Koskenniemi, Helsinki: Suomen Luther-säätiö, 2004
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Harrison 2007
 [^2]: Luther 2004: 139

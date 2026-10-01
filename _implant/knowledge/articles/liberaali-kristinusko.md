@@ -4,7 +4,7 @@ about: apologetics
 title: "Liberaali kristinusko"
 description: "Liberaali kristinusko on kulttuuri-ilmiö, jolle on tyypillistä yhtäältä kristillisten, toisaalta vallitsevasta nykylänsimaisesta (tieteellisenä markkinoidusta) naturalistisesta todellisuuskäsityksestä peräisin olevien elementtien…"
 tags: [apowiki, aatteet, raamattukäsitykset]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Liberaali kristinusko".
@@ -79,8 +79,6 @@ Klassisen kristillisen apologetiikan näkökulmasta pätee siis: *Liberaaliteolo
 *[Café Raamattu: Liberaalisen teologian ja kristinuskon ero](https://youtu.be/AJ5KsbGgKgY)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Nämä uskontunnustukset eli *symbolit* ([Apostolinen uskontunnustus, Nikaian uskontunnustus ja Athanasioksen tunnustus areiolaisuutta vastaant](https://evl.fi/tutki-uskoa/kirjat/uskontunnustukset), viitattu 22.12.2022) oli aikanaan otettu käyttöön juuri kristinuskon aidon ja luovuttamattoman sisällön erottamiseksi sen kanssa ristiriitaisista kilpailevista näkemyksistä. Näin ollen on järjelle ilmeistä, että niitä ei voi niiden tarkoitukselle ja aidolle alkuperäiselle merkityssisällölle räikeää väkivaltaa tekemättä pitää minään "aikain saatossa vapaasti uudelleen tulkittavissa olevana kirkollisena virikemateriaalina", kuten liberaaliteologia asian luonteen johdosta välttämättä joutuu menettelemään.
 [^2]: Todellisuudessa liberaaliteologitkaan eivät tietenkään ole ajattelussaan vapaita vaan seuraamansa suurkertomuksen sitomia kuten kaikki muutkin, mutta tätä he eivät välttämättä itsekään tiedosta.

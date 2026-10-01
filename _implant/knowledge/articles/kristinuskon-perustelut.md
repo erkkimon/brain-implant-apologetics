@@ -4,7 +4,7 @@ about: apologetics
 title: "Kristinuskon perustelut"
 description: "Perustelun käsitteelle on tunnusomaista se, että ensin on esitettävä jokin kanta ja vasta sitten sitä voi pyrkiä perustelemaan."
 tags: [apowiki, yleistä-tietoa, argumentit, lukusuositukset]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kristinuskon perustelut".
@@ -76,8 +76,6 @@ Filosofisia argumentteja Jumalan olemassaolon puolesta on esitetty yli kaksikymm
 1. [Evoluution havaitut rajat](the-edge-of-evolution-kirja.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Vrt. ns. hiljaisen tiedon (engl. *tacit knowledge*) käsitteen perusteleva oivallus: "Voimme tietää enemmän kuin voimme sanoa."
 [^2]: Tässä yhteydessä "kristinusko" tarkoittaa ennen muuta kristinuskon tiedollista sisältöä. Muissa yhteyksissä huomio voi kiinnittyä muihin seikkoihin, kuten esim. yksilökohtaisen uskon aitouteen, kristillisten tai sellaisina esiintyvien ryhmien käyttäytymismuotoihin tai kokonaisten kulttuurien luonteenomaisiin piirteisiin kuten arvoihin, ihanteisiin ja eettisiin järjestelmiin.

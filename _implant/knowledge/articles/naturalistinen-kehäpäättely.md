@@ -4,7 +4,7 @@ about: apologetics
 title: "Naturalistinen kehäpäättely"
 description: "Naturalistinen kehäpäättely on naturalismin puolustamista ja/tai sille vaihtoehtoisten käsitysten vastustamista sellaisilla perusteilla, jotka itse asiassa ovat todistusvoimaisia ainoastaan jo valmiiksi naturalistisen käsityksen mukaisessa ajattelukehikossa."
 tags: [apowiki, naturalismi, argumentointi]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Naturalistinen kehäpäättely".
@@ -141,8 +141,6 @@ Niin kauan kun naturalismin älyllisesti kestämätöntä mutta tieteensosiologi
 Naturalistisia kehäpäätelmiä torjuttaessa yksi tapa on pyrkiä kiinnittämään naturalismin kannattajien huomio tällaisiin näköaloihin. Näin irrationaalisiin salaliittoteorioihin perustuvia ja mahdollisia muitakin heppoisia uhkakuvia voidaan toivottavasti vähin erin hälventää. Tämän toimintamallin menestyksellinen toteuttaminen kuitenkin edellyttää jo lähtökohtaisesti varsin järkevää ja rauhallista naturalistista keskusteluosapuolta, jollaisia kyllä havaintojen mukaan esiintyy, joskin valitettavasti melko harvakseltaan.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: <i>[Pravda](https://fi.wikipedia.org/wiki/Pravda)</i> (ven. Правда) oli alun perin Venäjän bolševikkien ja myöhemmin Neuvostoliiton kommunistisen puolueen keskuskomitean äänenkannattaja. Koska pravda-sanan merkitys venäjän kielessä on 'totuus' ja toisaalta itse lehti oli yhden tietyn totalitaristisen poliittisen liikkeen äänitorvi, pravda-sanaa voi käyttää viittaamaan vastaavanlaiseen räikeään kahtalaisuuteen muissakin yhteyksissä: ollaan edustavinaan "pelkkää puhdasta totuutta", vaikka tosiasiassa kysymyksessä onkin mitä yksipuolisin ja vieläpä täysin kritiikittömästi nielaistavaksi tarkoitettu käsitys todellisuudesta.
 [^2]: Tätä johtopäätöstähän "vapaa-ajattelijat" ovat pyrkineet Suomessakin markkinoimaan.

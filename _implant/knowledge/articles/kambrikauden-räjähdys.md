@@ -4,7 +4,7 @@ about: apologetics
 title: "Kambrikauden räjähdys"
 description: "Noin 570 miljoonaa vuotta vanhoihin kerrostumiin näyttää ilmestyneen kuin tyhjästä valtava määrä erilaisia fossiileja."
 tags: [apowiki, evoluutioteoria]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kambrikauden räjähdys".
@@ -53,8 +53,6 @@ Kambrikauden räjähdys säilyy ainakin toistaiseksi mysteerinä ja piikkinä ny
 * [Illustra Media: Darwin's Dilemma](http://www.darwinsdilemma.org/)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Roth A. A. (1998) Origins - Linking Science and Scripture, Review and Hagerstaown Herald Publishing Accociation, s. 157
 [^2]: Wieland C. "Fish Scales in the Cambrian" Creation Ex Nihilo Technical Journal 10(3) 297, 1996

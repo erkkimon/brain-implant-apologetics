@@ -4,7 +4,7 @@ about: apologetics
 title: "\"Kristinuskoon ei voi vain päättää uskoa\" (argumentti)"
 description: "Argumentti on seuraava: 1. Jumala edellyttää vilpittömän uskon pelastaakseen ihmisen 1."
 tags: [apowiki, jumala]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article ""Kristinuskoon ei voi vain päättää uskoa" (argumentti)".
@@ -159,9 +159,7 @@ Ihminen itseasiassa pystyy vakuuttumaan jopa käsittämättömistä tarinoista. 
 
 <!--== Viitteet ==
 
-  1. Viitteet
 
-<!-- footnotes render here -->
 -->
 
 ### Aiheesta muualla

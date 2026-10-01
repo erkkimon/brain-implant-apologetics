@@ -4,7 +4,7 @@ about: apologetics
 title: "Jumala"
 description: "Sanalla jumala voidaan viitata monenlaisiin yliluonnollisiin olentoihin, ja esimerkiksi hindulaisuudessa on monia jumalia, mutta ei persoonallista yksinvaltiasta luojajumalaa."
 tags: [apowiki, jumala, teismi]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jumala".
@@ -76,7 +76,3 @@ Asioiden selittämistä Jumalalla pidetään joskus argumentointivirheenä. Sill
 * [Tuomas Kangasniemi: Lapset keksivät uskon jumaliin aikuisten opetuksesta riippumatta](tuomas-kangasniemi-lapset-keksivät-uskon-jumaliin-aikuisten-opetuksesta-riippumatta.md)
 
 ### Viitteet
-
-  1. Viitteet
-
-<!-- footnotes render here -->

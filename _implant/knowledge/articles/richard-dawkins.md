@@ -4,7 +4,7 @@ about: apologetics
 title: "Richard Dawkins"
 description: "Clinton Richard Dawkins (s. 26. maaliskuuta 1941 Nairobi, Kenia) on englantilainen eläintieteilijä, evoluutiobiologi ja materialistisen evoluutionäkemyksen kansantajuistaja."
 tags: [apowiki, henkilöt, richard-dawkins, ateismi]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Richard Dawkins".
@@ -295,8 +295,6 @@ Stoven mukaan tämä uusi geeniuskonto on vain vähän tarkennettu muunnelma Dar
 * [Stove, David](david-stove.md), *Darwinian Fairytales: Selfish Genes, Errors of Heredity and Other Fables of Evolution*, New York: Encounter Books, 2007
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Richard Dawkins, "Selective Pecking in the Domestic Chick." D.Phil. Thesis, Oxford University, 1966
 [^2]: [*Biography of Richard Dawkins*](http://www.conservapedia.com/Richard_Dawkins#Biography_of_Richard_Dawkins), *Conservapedia*, viitattu 19.8.2010

@@ -4,7 +4,7 @@ about: apologetics
 title: "Matti Leisola"
 description: "Matti Leisola on bioprosessitekniikan emeritusprofessori. Lisäksi hän on toiminut Aalto-yliopiston teknillisen korkeakoulun (TKK) kemian ja materiaalitieteiden tiedekunnan dekaanina vuoteen 2011 asti."
 tags: [apowiki, henkilöt, suunnitteluteoria, evoluutiokritiikki]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Matti Leisola".
@@ -115,10 +115,6 @@ Leisolaa on haastateltu vuonna 1995 Ylen v. 1998 televisioimaan [*Evoluution syv
 * [Videotaltiointi professori Matti Leisolan *intelligent design* -teemaa Tampereella v. 2004 käsitelleestä luennosta](http://www.intelligentdesign.fi/sivut/id-esitykset/kivesta-ihmiseksi/)-->
 
 ### Lähteet
-
-  1. Viitteet
-
-
 
 ## Viitteet
 

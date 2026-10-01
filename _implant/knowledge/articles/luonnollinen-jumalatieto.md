@@ -4,7 +4,7 @@ about: apologetics
 title: "Luonnollinen Jumalatieto"
 description: "Ateistinen uskontotieteilijä Jesse Bering kertoo kirjassaan Jumalvaisto (The God Instinct, 2011), kuinka hän seitsemän vuotta vanhana oli rikkonut naapurinsa arvostaman muistoesineen."
 tags: [apowiki, jumala]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Luonnollinen Jumalatieto".
@@ -42,8 +42,6 @@ Tieteen historioitsija Whilliam Whewellin mukaan ihmiset eivät päädy deduktii
 * [Alkuperäisheimot ja Jumala](alkuperäisheimot-ja-jumala.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: (Sartre 1964: Words, Käänt. Irene Clephane. London: Penguin s. 65, sit. Bering 2011: s. 41)
 [^2]: Kelemen, D. ”Are Children 'Intuitive Theists'? Reasoning About Purpose and Design in Nature”, Phychological Science, vol. 15, ss. 295-301, 2004

@@ -4,7 +4,7 @@ about: apologetics
 title: "Mormonismi"
 description: "Mormonismi eli myöhempien aikojen pyhien liike (engl. The Latter Day Saints Movement) on yleisnimitys Joseph Smithin vuonna 1830 Yhdysvalloissa perustaman Kristuksen kirkosta syntyneille ryhmille."
 tags: [apowiki, teismi]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Mormonismi".
@@ -42,8 +42,6 @@ Mormonit uskovat, että Jeesus on Jumalan poika,[^3] Vanhan testamentin Jehova j
 * [Emil Anton: Matka Mormonismin maailmaan ja takaisin (hapatusta.net)](https://hapatusta.net/2020/01/20/matka-mormonismin-maailmaan-ja-takaisin/)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: [Tilastokeskus: Rekisteröityjen uskonnollisten yhdyskuntien jäsenmäärät](http://www.stat.fi/til/vaerak/2013/vaerak_2013_2014-03-21_tau_003_fi.html),
 [^2]: [Tilastokeskus: Suomen väestö 2013-2014](http://tilastokeskus.fi/til/vaerak/2013/vaerak_2013_2014-03-21_tie_001_fi.html)

@@ -4,7 +4,7 @@ about: apologetics
 title: "Alvin Plantinga: Evoluutioteoreettinen argumentti naturalismia vastaan"
 description: "Esitin evoluutioteoreettisen argumentin naturalismia vastaan ensimmäisen kerran kirjani Warrant and Proper Function viimeisessä luvussa."
 tags: [apowiki, filosofia, naturalismi, argumentit, tekijänoikeuden-alaiset-artikkelit, alvin-plantinga]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Alvin Plantinga: Evoluutioteoreettinen argumentti naturalismia vastaan".
@@ -98,8 +98,6 @@ Kumoajat voivat tietysti itsekin kumoutua. Tiedän esimerkiksi, että olet uimav
 *Suomentanut [Tapio Puolimatka](tapio-puolimatka.md)*
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Jos tarkoituksenani olisi analysoida filosofista naturalismia, olisi asiasta sanottava paljon enemmän (esimerkiksi, jos emme tiedä, mitä naturalismi on, onko apua siitä, että selitämme sitä supranaturalismin käsitteillä?); tämän artikkelin tarkoituksia varten voimme jättää nämä hienoudet huomiotta.
 [^2]: Hyvin karkeasti määriteltynä: lämpömittari, joka on juuttunut 27 asteeseen ei ole luotettava, vaikka sitä käytettäisiin jossakin sellaisessa paikassa (esimerkiksi San Diegossa), jossa lämpötila on koko ajan 27 astetta. Tässä suhteessa on tärkeää, miten lämpömittari (tai älylliset kykymme) toimivat, jos olosuhteet ovat toisenlaisia joissakin (vaikeasti täsmennettävässä) suhteissa. Jos tarkoituksena olisi analysoida <i>luotettavuutta</i>, asiasta olisi sanottava paljon enemmän. Huomaa, että kun luotettavuus määritellään tällä tavalla, ei riitä, että tuotetut uskomukset edistävät elinkelpoisuutta.

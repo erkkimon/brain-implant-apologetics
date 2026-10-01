@@ -4,7 +4,7 @@ about: apologetics
 title: "Ihmisoikeudet"
 description: "Ihmisoikeudet ovat oikeuksia, jotka ihmisellä on pelkästään sillä perusteella, että hän on ihminen."
 tags: [apowiki, ihmisoikeudet]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ihmisoikeudet".
@@ -63,8 +63,6 @@ Jumalakäsityksen varassa on mahdollista perustella tai oikeuttaa luonnollinen j
 Wolterstorff argumentoi, ettei mikään maallistunut päättely pysty oikeuttamaan ehdotonta ihmisarvoa. Ihminen, joka ei usko Jumalan olemassaoloon, joutuu etsimään ihmisarvon perustaa ihmisen ominaisuuksista kuten järjellisyydestä tai tahdon vapaudesta. Tällöin ne ihmiset, jotka ovat kyseisen ominaisuuden suhteen puutteellisia, näyttäytyvät vähemmän arvokkaina. Jos ihmisen arvo pelkistetään hänen kykyihinsä, vähemmän kyvykkäillä yksilöillä on vähemmän arvoa. Esimerkiksi järjellisyyden pohjalta arvioituna jotkut ihmiset (älyllisesti kehitysvammaiset, dementoituneet, koomassa olevat) ovat vähempiarvoisia.  Wolterstorff[^12] käy läpi useita maallistuneita yrityksiä ehdottomien ihmisoikeuksien puolustamiseksi ja osoittaa niiden kaikkien epäonnistuvan. Immanuel Kantin yritys on näistä tunnetuin. Moderneja esimerkkejä ovat **Ronald Dworkinin** ja **Alan Gewirthin** teoriat.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Angenendt, Arnold, *Toleranz und Gewalt: Das Christentum zwischen Bibel und Schwert*, Münster: Verlag Aschendorff, 2009, s. 190–205
 [^2]: [Wolterstorff, Nicholas](nicholas-wolterstorff.md), *[Justice: Rights and Wrongs](justice-rights-and-wrongs-kirja.md)*, Princeton: Princeton University Press, 2008, s. 361

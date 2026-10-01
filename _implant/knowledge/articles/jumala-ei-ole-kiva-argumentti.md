@@ -4,7 +4,7 @@ about: apologetics
 title: "\"Jumala ei ole kiva\" (argumentti)"
 description: "\"Jumala ei ole kiva\" -argumentin mukaan ei ole syytä uskoa Jumalan olemassaoloon, koska Jumala ei subjektin mielestä ole kiva – eli koska subjektilla on voimakas tunneperäinen motiivi toivoa, ettei Jumala olisi olemassa."
 tags: [apowiki, argumentit, jumala]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article ""Jumala ei ole kiva" (argumentti)".
@@ -107,8 +107,6 @@ Vaikuttaa siltä, että "Jumala ei ole kiva" -argumentin luonteen voi käsittä�
 * [Pahan ongelma](pahan-ongelma.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Richard Dawkins, *Jumalharha*, (The God delusion, 2006.) Suomentanut Kimmo Pietiläinen, Terra Cognita, 2007, s. 46, ISBN 978-952-5697-00-1
 [^2]: Richard Dawkins, *Jumalharha*, (The God delusion, 2006.) Suomentanut Kimmo Pietiläinen, Terra Cognita, 2007, s. 47, ISBN 978-952-5697-00-1

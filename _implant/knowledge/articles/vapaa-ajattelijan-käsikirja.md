@@ -4,7 +4,7 @@ about: apologetics
 title: "Vapaa-ajattelijan käsikirja"
 description: "Tässä artikkelissa käsitellään Vapaa-ajattelijan käsikirjaa, johon \"on koottu perustietoa vapaa-ajattelusta, uskonnottomien perusoikeuksista ja uskonnottomasta tapakulttuurista\"."
 tags: [apowiki, vapaa-ajattelu]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Vapaa-ajattelijan käsikirja".
@@ -230,8 +230,6 @@ Myös väite ”…ei voida periaatteessakaan testata” on kyseenalainen. Mist�
 ### Lähteet
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Moreland, James Porter (1987) *Scaling the Secular City: A Defense of Christianity*, Baker Books, Grand Rapids, Michigan, s. 198
 [^2]: Moreland, James Porter (1987) *Scaling the Secular City: A Defense of Christianity*, Baker Books, Grand Rapids, Michigan, s. 199

@@ -4,7 +4,7 @@ about: apologetics
 title: "Tarkoituksellisuuspäättelyn kritiikki"
 description: "Suunnitteluteoreettinen tarkoituksellisuuspäättely on synnyttänyt voimakkaita kannanottoja niin puolesta kuin vastaan."
 tags: [apowiki, suunnitteluteoria, keskeneräiset-artikkelit]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tarkoituksellisuuspäättelyn kritiikki".
@@ -54,8 +54,6 @@ Ks. [Elsberry Shallit2003:n kritiikki: Osa 3](elsberryshallit2003n-kritiikki-osa
 
 ### Viitteet
 
-  1. Viitteet
 
-<!-- footnotes render here -->
 
 -->

@@ -4,7 +4,7 @@ about: apologetics
 title: "Tiede"
 description: "Tiede tarkoittaa todellisuuden ilmiöiden ja niiden välisten suhteiden järjestelmällistä ja arvostelevaa tutkimista sekä sen avulla saatua tietojen jäsentynyttä kokonaisuutta."
 tags: [apowiki, tieteenfilosofia]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tiede".
@@ -163,8 +163,6 @@ Asian ydin on siis siinä, että metodologinen naturalismi on käynyt aivan liia
 * [Kuinka moderni tiede syntyi Euroopassa Paolo Rossin mukaan (Areiopagi.fi)](https://www.areiopagi.fi/2017/06/kuinka-moderni-tiede-syntyi-euroopassa-paolo-rossin-mukaan/)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: *Kielitoimiston sanakirja*, Kotimaisten kielten tutkimuskeskuksen julkaisuja 132. Internet-versio MOT Kielitoimiston sanakirja 1.0, Helsinki: Kotimaisten kielten tutkimuskeskus ja Kielikone Oy, 2004, ISBN 952-5446-11-5
 [^2]: [Tapio Puolimatka](tapio-puolimatka.md), *[Usko, tieto ja myytit](usko-tieto-ja-myytit-kirja.md), takakansi*

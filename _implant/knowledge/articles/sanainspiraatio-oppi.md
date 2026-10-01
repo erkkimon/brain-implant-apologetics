@@ -4,7 +4,7 @@ about: apologetics
 title: "Sanainspiraatio-oppi"
 description: "Kun puhumme Raamatun luotettavuudesta ja totuudenmukaisuudesta, tarkoitamme sanallisen ilmoituksen luonnetta."
 tags: [apowiki, raamattu, eksegetiikka]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Sanainspiraatio-oppi".
@@ -61,8 +61,6 @@ Odeberg kiinnittää huomiota siihen, että runon lukijan on mahdollista ainakin
 * Warfield, Benjamin Breckinridge, *The Inspiration and Authority of the Bible*, Philadelphia: The Presbyterian and Reformed Publishing Company, 1970
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: [Kolme neljästä pohjoismaalaisesta sanoo uskovansa Jumalaan](http://www.evl.fi/kkh/kt/uutiset/elo98/pohjmaat.htm), Kirkon tiedotuskeskus, 14.8.1998, viitattu 2.7.2010 (*Kristinuskon opettamaan persoonalliseen Jumalaan uskovia on Suomessa 39 % - - Sanasta sanaan Jumalan sanana Raamattua pitää joka viides (18 %) suomalainen.*) Näiden lukemien perusteella voidaan laskea (0,18 / 0,39), että kristityistä 46 % uskoo sanainspiraatio-oppiin.
 [^2]: [Myönteisyys kristillisiä kirkkoja kohtaan lisääntynyt](http://213.250.93.194/asiakas/evl/ktuutiset.nsf/45a7bb2db5c79b9ac2256c9e005786b4/f05297ce52c62b97c2256e2200459a24?OpenDocument), Kirkon tiedotuskeskus, 23.1.2004, viitattu 2.7.2010 (*Omana henkilökohtaisena Vapahtajanaan Jeesusta pitää yli puolet suomalaisista (56 %). - - Kirjaimellisesti ilmoitettuna Jumalan sanana Raamattua pitää 16 %.*) 0,16 / 0,56 = 0,285714286

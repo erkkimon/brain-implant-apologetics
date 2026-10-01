@@ -4,7 +4,7 @@ about: apologetics
 title: "Vapaa tahto"
 description: "Vapaa tahto on filosofinen käsite, jolla viitataan subjektin, esimerkiksi ihmisen, päätösten itsenäisyyteen."
 tags: [apowiki, sielu, etiikka]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Vapaa tahto".
@@ -66,8 +66,6 @@ Elämän olosuhteet voivat olla ennalta määrättyjä, mutta ihmisen tahto ei. 
 * [Moraalinen argumentti](moraalinen-argumentti.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Jos ihmisen ajattelu on pohjimmiltaan biologiaa, joka puolestaan on kemiaa, joka taas on fysiikkaa, niin kaikki ihmismielen toiminnot ovat riippuvaisia fysikaalisista prosesseista, joihin ihminen ei voi itsenäisesti vaikuttaa.
 [^2]: Esimerkiksi murhaamisen vääryyttä ei voida johtaa siitä tosiasiasta, että murhaaminen tuntuu väärältä. Edes siitä **tosiasiasta**, että ihmisen arvostukset, kuten ihmisarvo, **ovat ristiriidassa** havaittujen tosiasioiden, esimerkiksi kansanmurhan, kanssa, ei voi johtaa sellaista johtopäätöstä, että **ristiriidan** ratkaisemiseksi **pitäisi** tehdä edes jotakin. Tämä ei tietenkään ota mitään kantaa siihen, minkälainen toiminta on tietyn lopputuloksen saavuttamisen kannalta järkevää tai tarpeellista.

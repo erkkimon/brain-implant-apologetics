@@ -4,7 +4,7 @@ about: apologetics
 title: "Pseudonimien käyttö"
 description: "Yksi historiallis-kriittisen kirjallisuuskritiikin käsittelemistä kysymyksistä koskee pseudonimien käyttöä."
 tags: [apowiki, eksegetiikka]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Pseudonimien käyttö".
@@ -58,8 +58,6 @@ Uuden testamentin kaikkein kiistellyin kirja, mitä tulee kirjan tekijään, on 
 Kysymys Raamatun kirjojen kanonisuudesta ei ollut alkukristityille pelkkä akateemisen ja teoreettisen pohdinnan aihe vaan elämän ja kuoleman kysymys. Esimerkiksi keisari Diokletianuksen aikana toteutettiin kahdeksan vuoden mittainen (303-311) verinen vaino kristittyjä vastaan. Sitä on pidetty pakanallisuuden viimeisenä yrityksenä tappaa kristityt sukupuuttoon. Osana tätä kristinuskon vastaista vainoa kristittyjen pyhät kirjoitukset pyrittiin tuhoamaan. Kun Rooman imperiumin poliisiviranomaiset koputtivat ovelle ja vaativat kristittyjä luovuttamaan pyhät kirjoituksensa, heidän oli ratkaistava, mitä kirjoituksia he saattoivat luovuttaa syyllistymättä pyhäinhäväistykseen. Kanonisten kirjoitusten luovuttamista pidettiin pyhäinhäväistyksenä. Ei-kanonisten kirjoitusten luovuttamista ei sen sijaan pidetty samalla tavalla ongelmallisena. Tällaisena hetkenä kristitty joutui huolellisesti pohtimaan, minkä kirjojen tähden hän olisi valmis kärsimään. Tämä pakotti kristityt löytämään vahvat perusteet käsityksilleen siitä, mitkä kirjoitukset olivat Jumalan sanaa. Kerrotaan, että Diokletianuksen vainon aikana Karthagon piispa Mensurius kätki omistamansa Raamatun kirjoitukset turvalliseen paikkaan ja niiden sijaan luovutti ovella odottaville viranomaisille harhaoppisten kirjoituksia.[^9]
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Räisänen, Heikki, *Miten ymmärrän Raamattua oikein?*, Helsinki: Kirjapaja, 1981, s. 120
 [^2]: Wilder, Terry L., *Pseudonymity, the New Testament and Deception. An Inquiry into Intention and Reception*, Lanham, Mar.: University Press of America, 2004

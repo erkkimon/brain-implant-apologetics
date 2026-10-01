@@ -4,7 +4,7 @@ about: apologetics
 title: "Sukupuoli muutoksessa (kirja)"
 description: "Sukupuoli muutoksessa on Tapio Puolimatkan kirjoittama kirja, joka analysoi sukupuoli-käsitettä ja sen muutoksen yhteiskunnallisia vaikutuksia."
 tags: [apowiki, kirjat, seksuaalietiikka, ihmisoikeudet]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Sukupuoli muutoksessa (kirja)".
@@ -165,7 +165,3 @@ Kirjan ensimmäisessä luvussa esitellään sukupuoli-ideologian käsitettä ja 
 * [Yhteiskuntakoe lapsilla (kirja)](yhteiskuntakoe-lapsilla-kirja.md)
 
 ### Viitteet
-
-  1. Viitteet
-
-<!-- footnotes render here -->

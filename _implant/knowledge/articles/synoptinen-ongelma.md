@@ -4,7 +4,7 @@ about: apologetics
 title: "Synoptinen ongelma"
 description: "Lähdekriittinen ongelma, jonka tulkintaan vaikuttavat maailmankatsomukselliset ja tutkimusohjelmalliset tekijät, on niin sanottu synoptinen ongelma."
 tags: [apowiki, eksegetiikka]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Synoptinen ongelma".
@@ -152,8 +152,6 @@ Luukkaan evankeliumi puolestaan viittaa muita evankeliumeita useammin laajempaan
 On tuskin perusteltua uskoa enemmän lähes parintuhannen vuoden takaa asiaa spekuloivia tutkijoita kuin apostolisia isiä, jotka elivät paljon lähempänä itse tapahtumia. Viimeisten parin vuosikymmenen aikana tutkimus on ottanut apostolisten isien todistuksen yhä vakavammin. Tutkimus kiinnittää entistä enemmän huomiota silminnäkijätodistajien merkitykseen evankeliumien kirjoittamisessa. Tässä suhteessa ehkä merkittävin on Richard Bauckhamin teos Jesus and the Eyewitnesses[^36]. Bauckham ei pelkästään argumentoi, että evankeliumit perustuvat silminnäkijöiden todistukseen vaan myös, että evankeliumien ensimmäiset lukijat tunnistivat monia näistä silminnäkijöistä. Graham Stantonin arvion mukaan ”Richard Bauckhamin viimeisin kirja ravistelee vuosisadan mittaista evankeliumitutkimusta perusteitaan myöten.”
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Riesner, R., *Wie sicher is die Zwei-Quellen-Theorie?*, Theologische Beiträge, 2/77, 51
 [^2]: Haacker, Klaus, *Neutestamentliche Wissenschaft*, Wuppertal, 1985, s. 47

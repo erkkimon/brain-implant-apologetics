@@ -4,7 +4,7 @@ about: apologetics
 title: "Pekka Reinikainen"
 description: "Pekka Jussi Reinikainen (s. 16. syyskuuta 1947, Helsinki) on suomalainen lääkäri, kirjailija ja poliitikko, joka kuuluu Kristillisdemokraattiseen puolueeseen."
 tags: [apowiki, henkilöt, luomisoppi]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Pekka Reinikainen".
@@ -54,7 +54,3 @@ Reinikainen on näkyvästi puhunut näennäistieteiksi katsottuja uskomushoitoja
 * [Pekka Reinikaisen Blogi Seurakuntalainen.fi -sivustolla](http://www.seurakuntalainen.fi/blogisti/pekka-reinikainen/)
 
 ### Viitteet
-
-  1. Viitteet
-
-<!-- footnotes render here -->

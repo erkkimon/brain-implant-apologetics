@@ -4,7 +4,7 @@ about: apologetics
 title: "Projektiivinen ateistinen teoria"
 description: "Projektiivinen ateistinen teoria on yksi tunnetuimmista esitetyistä kumoajista teismille."
 tags: [apowiki, jumala, ateismi]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Projektiivinen ateistinen teoria".
@@ -46,8 +46,6 @@ Lisäksi projektiivinen ateistinen teoria on kaksiteräinen miekka sikäli, ett�
 * Jasu Markkanen: [Turvaa olemattomasta? – Onko usko vain kainalosauva lohtua tarvitseville?](http://raapustus.net/?id=117)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Quinn, Philip L: *Defeating Theistic Beliefs*, teoksessa [Craig, William Lane](william-lane-craig.md) (toim.), *Philosophy of Religion. A Reader and Guide*, Edinburgh: Edinburgh University Press, 2002
 [^2]: *Tuntematon Jumala: Kohti hengellistä täyttymystä*, (The unknown God: Searching for spiritual fulfilment, 1999.) Suomentanut Ulla Salava, Sley-kirjat, 2000, s. 23, ISBN 951-618-421-9

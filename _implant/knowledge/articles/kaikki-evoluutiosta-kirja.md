@@ -4,7 +4,7 @@ about: apologetics
 title: "Kaikki evoluutiosta (kirja)"
 description: "Kaikki evoluutiosta on Gaudeamuksen julkaisema kokoomateos, joka julkaistiin Tieteen päivillä 2009."
 tags: [apowiki, kirjat]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kaikki evoluutiosta (kirja)".
@@ -101,10 +101,6 @@ Ateistien tarve nähdä luonto irrallaan Jumalasta johtaa heidät kuitenkin täs
 Jos omaksutaan teistinen lähtökohta, samat tosiasiat nähdään eri valossa. Luonnon hienosäätö sopii paremmin yhteen sen väitteen kanssa, että Jumala ohjaa luonnon prosesseja kuin että prosessit olisivat perimmältään ohjaamattomia ja sokeita. Kuitenkin naturalistinen maailmankatsomus johtaa yllä mainittujen ajattelijoiden kohdalla uskomukseen, että luonnon eliöiden monimutkaisesti hienosäädetty kyky sopeutua ympäristöönsä sisältää vakuuden siitä, ettei Jumala ole luonut maailmaa. Tällaista järjenvastaista päättelyä ohjaa tarve uskoa ja tarve vakuuttaa muita siitä, että Jumala ei hallitse todellisuutta. Niinpä tieteellinen päättely ei ole tässä kohdassa uskonnollisesti ja maailmankatsomuksellisesti neutraalia, vaan se on selvästi riippuvainen uskonnollisista ja maailmankatsomuksellisista taustaoletuksista.
 
 ### Viiteet
-
-  1. Viitteet
-
-
 
 ## Viitteet
 

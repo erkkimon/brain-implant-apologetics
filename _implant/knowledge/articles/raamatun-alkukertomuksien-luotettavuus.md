@@ -4,7 +4,7 @@ about: apologetics
 title: "Raamatun alkukertomuksien luotettavuus"
 description: "Tässä tekstissä referoidaan lyhyttä osaa professori K. A. Kitchenin vuonna 2003 ilmestyneestä teoksesta “On the Reliability of the Old Testament”."
 tags: [apowiki, historia, raamattu]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Raamatun alkukertomuksien luotettavuus".
@@ -146,7 +146,5 @@ Yhteenvetona edeltävästä voidaan todeta:
 1. Mesopotamialaiset myytit ja ensimmäisen Mooseksen kirjan eleetön kuvaus pohjautuvat mahdollisesti yhteen ja samaan traditioon. Patriarkat tulivat Israelin maahan juuri Mesopotamiasta. Kuitenkaan Ensimmäisen Mooseksen kirjan alun tai Lähi-Idän myyttien välillä ei ole tapahtunut suoraa kopiointia. 1. Moos. 1-11 on vanhinta heprealaista perimää.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Mikä tahansa Raamatun heprean kielioppi, ks. esim. Ernst, Alexander B. 2015: Kurze Grammatik des Biblischen Hebräisch. Neukirchen-Vluyn: Neukirchener Verlagsgesellschaft mbH. § 28k & §29d.

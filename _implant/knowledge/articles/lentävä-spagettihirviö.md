@@ -4,7 +4,7 @@ about: apologetics
 title: "Lentävä spagettihirviö"
 description: "Lentävä spagettihirviö on erityisesti suunnitteluteoriaa (intelligent design, ID) vastaan usein esitetty parodia."
 tags: [apowiki, suunnitteluteoria, parodiaa-käsittelevät-artikkelit]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Lentävä spagettihirviö".
@@ -42,7 +42,5 @@ Koko parodian suurin ongelma on siinä, että pastafarianismi on suunnitteluteor
 * [<!-- http://www.reasonablefaith.org/site/News2?page=NewsArticle&id=5933 -->https://www.reasonablefaith.org/writings/question-answer/god-and-the-flying-spaghetti-monster/ William Lane Craig: God and the Flying Spaghetti Monster]
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: [Bobby Henderson: Open Letter To Kansas School Board](http://www.venganza.org/about/open-letter/)

@@ -4,7 +4,7 @@ about: apologetics
 title: "God's battalions (kirja)"
 description: "God's battalions on sosiologi Rodney Starkin apologeettinen teos, jossa käsitellään ristiretkien historiaa."
 tags: [apowiki, islam, ristiretket, kirjat]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "God's battalions (kirja)".
@@ -94,8 +94,6 @@ Vallatut alueet jaetaan provinsseihin, joita johtavat kalifin valitsemat kuvern�
 Stark huomauttaa, ettei tämän analyysin tarkoituksena ole osoittaa, että muslimit olisivat olleet julmempia ja suvaitsemattomampia kuin kristityt taikka juutalaiset. Aikakausi itsessään oli hyvin julma. Tarkoituksena on huomauttaa, että väitteet muslimeista varhaisina monikulttuurisuuden[^3] edustajina perustuvat parhaimmillaankin tietämättömyyteen.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: erityisesti uskonnonsosiologi mutta myös lukuisina painoksina ilmestyneen yleisen sosiologian yliopistollisen peruskurssioppikirjan kirjoittaja
 [^2]: eli länsigoottien

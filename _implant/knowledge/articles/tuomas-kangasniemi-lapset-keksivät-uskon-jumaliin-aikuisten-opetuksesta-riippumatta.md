@@ -4,7 +4,7 @@ about: apologetics
 title: "Tuomas Kangasniemi: Lapset keksivät uskon jumaliin aikuisten opetuksesta riippumatta"
 description: "Yksi ateistien suosimista perusteluista maailmankuvalleen on vetoaminen siihen, että ihminen syntyy ateistina."
 tags: [apowiki, tekijänoikeuden-alaiset-artikkelit, teismi, ateismi, synnynnäinen, usko, jumala, tutkimus, koetulos, koe, taipumus-uskoa, tarkoitus, luotu, teleologia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tuomas Kangasniemi: Lapset keksivät uskon jumaliin aikuisten opetuksesta riippumatta".
@@ -126,8 +126,6 @@ Vielä kyseenalaisemmaksi joutuu monien – ei kaikkien – ateistien ylpeys hei
 Kuitenkaan koetulosten valossa ylpeilyyn ei ole aihetta. Sen enempää eksplisiittistä kuin implisiittistäkään ateismia ei voi esittää itsestäänselvyytenä, joka jokaisen järkevän ihmisen tulisi huomata todeksi.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: *Anon.; Mihin ateistit uskovat? ; artikkelin keskusteluosa*, blogissa Usko itseesi, 25.09.2008, viitattu 24.9.2008
 [^2]: Anon.;, *Ateismi on luonnollista*, Kauppalehti.fi, keskustelu, 2.2.2009

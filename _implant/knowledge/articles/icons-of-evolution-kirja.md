@@ -4,7 +4,7 @@ about: apologetics
 title: "Icons of Evolution (kirja)"
 description: "Icons of Evolution on amerikkalaisen biologin Jonathan Wellsin kirjoittama kirja, jossa hän käsittelee merkittävimpiä evoluutioteorian markkinoinnissa käytettyjä todisteita."
 tags: [apowiki, kirjat, evoluutioteoria]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Icons of Evolution (kirja)".
@@ -117,8 +117,6 @@ Tämä artikkeli ei ole osoittanut evoluutioteoriaa vääräksi. Itse asiassa en
 === Internet ===-->
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Ks. ApologetiikkaWikin artikkeli [Rekapitulaatioteoria](rekapitulaatioteoria.md)
 [^2]: `http://gamma.nic.fi/~shn/linkit/linkitev.htm`, sivusto poistunut 17.4.2017 mennessä

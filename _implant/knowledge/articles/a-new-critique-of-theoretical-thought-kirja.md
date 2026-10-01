@@ -4,7 +4,7 @@ about: apologetics
 title: "A New Critique of Theoretical Thought (kirja)"
 description: "Hollantilainen Herman Dooyeweerd (1894 - 1977) oli yksi viime vuosisadan omaperäisimmistä filosofeista."
 tags: [apowiki, kirjat, filosofia]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "A New Critique of Theoretical Thought (kirja)".
@@ -442,8 +442,6 @@ Tieteellisen käsitteenmuodostuksen rakenteen analyysi osoittaa, että tieteelli
 *Dooyeweerd, Herman, *A New Critique of Theoretical Thought II*, Philadelphia: Presbyterian and Reformed Publishing Co, 1955
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Klapwijk, Jacob, *Dooyeweerd's Christian Philosophy: Antithesis and Critique*, Reformed Journal, 22
 [^2]: Dooyeweerd 1953: ix

@@ -4,7 +4,7 @@ about: apologetics
 title: "Lapsen ihmisoikeus: oikeus isään ja äitiin (kirja)"
 description: "Lapsen ihmisoikeus: oikeus isään ja äitiin on Tapio Puolimatkan kirjoittama kirja, joka analysoi lapsen keskeistä ihmisoikeutta: oikeutta isään ja äitiin."
 tags: [apowiki, kirjat, seksuaalietiikka, ihmisoikeudet]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Lapsen ihmisoikeus: oikeus isään ja äitiin (kirja)".
@@ -186,8 +186,6 @@ Neljännessä luvussa argumentoidaan, että perherakenteiden erojen merkitystä 
 * [Yhteiskuntakoe lapsilla (kirja)](yhteiskuntakoe-lapsilla-kirja.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Stefanowics, Dawn, *Out From Under. The Impact of Homosexual Parenting*, Enumclaw, WA: Annotation Press, 2007, s. xvii
 [^2]: Sandel, Michael J., *Oikeudenmukaisuus*, Suom. Anni Lassila, Janne Luotola, Petja Pelli ja Juha Sainio, Helsinki: HS kirjat, 2012, s. 293

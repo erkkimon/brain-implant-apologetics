@@ -4,7 +4,7 @@ about: apologetics
 title: "Entropian lain evoluutioteoreettinen merkitys"
 description: "Ohjaamattoman evoluution mahdollisuuteen tai mahdottomuuteen liittyvissä väittelyissä tulee usein esille termodynamiikan toinen pääsääntö eli entropian laki."
 tags: [apowiki, evoluutioteoria]
-timestamp: 2026-10-01T20:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Entropian lain evoluutioteoreettinen merkitys".
@@ -165,8 +165,6 @@ Järkevästi ajatellen mistään lähteestä löytyneisiin ajatuksiin ei ole syy
 <!---->
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: esim. `http://www.argumentti.fi/argumentti/2011/10/termodynamiikan-toinen-paasaanto-evoluutio/`
 [^2]: hiukkaset voivat asettua "epäjärjestykseen" valtavan paljon useammin tavoin kuin "järjestykseen"

@@ -4,7 +4,7 @@ about: apologetics
 title: "Dekonstruktio (raamatuntutkimus)"
 description: "Dekonstruktiivinen lähestymistapa perustuu erityisesti ranskalaisen Jacques Derridan (1930-2004) ajatteluun."
 tags: [apowiki, raamattu, historia, eksegetiikka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Dekonstruktio (raamatuntutkimus)".
@@ -93,8 +93,6 @@ Derrida ei tee eroa tosiasian ja puheessa ilmaistun merkityksen välillä. Täm�
 Derridan ja koko dekonstruktiivisen ajattelutavan sisäinen ristiriitaisuus kertoo siitä, että jos ihminen perustautuu vain itseensä ja johonkin todellisuuden perusosaan, tässä tapauksessa kieleen, hän päätyy luomaan itsensä kumoavan ajatusjärjestelmän. Dekonstruktionismin umpikuja tuo omalta osaltaan esille supranaturalistisen lähtökohdan tarpeellisuuden.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Jacques Derrida, *Platonin apteekki ja muita kirjoituksia*, Gaudeamus, 2003, s. 24-25, ISBN 9789516628618
 [^2]: Jokinen, Arja & Juhila, Kirsi & Suoninen, Eero, *Diskurssianalyysin aakkoset*, Tampere: Vastapaino, 2. p. 2000, s. 20, ISBN 951-9066-70-5

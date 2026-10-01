@@ -4,7 +4,7 @@ about: apologetics
 title: "Ensimmäinen kuninkaiden kirja"
 description: "Keväällä 1993 Helsingin Sanomat julkaisi artikkelin, joka oli otsikoitu näin: ”Amerikkalaistutkijan mukaan iso osa Vanhasta testamentista on satua”."
 tags: [apowiki, raamattu, historia]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ensimmäinen kuninkaiden kirja".
@@ -44,8 +44,6 @@ Yllä olevien arkeologisten löytöjen valossa Laato toteaakin:
 Laato kiinnittää huomiota siihen, että viisitoista Israelin ja Juudan kuningasta mainitaan nimeltä Raamatun ulkopuolisissa teksteissä. Vaikka Raamatun ulkopuolinen historiallinen todistusaineisto onkin kaikkein selvintä Israelin ja Juudan kuninkaiden historian osalta, se ei rajoitu siihen. Laato esittää yhteenvetona tutkimuksistaan: ”Jokainen Vanhan testamentin luku voidaan liittää kiinteästi Lähi-idän historialliseen maailmaan.”[^3]
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Antti Laato, *Vanha testamenti läpi yhdessä päivässä: Mitä moderni eksegetiikka opettaa meille Vanhasta testamentista*, 2004, s. 4
 [^2]: Antti Laato, *Vanha testamenti läpi yhdessä päivässä: Mitä moderni eksegetiikka opettaa meille Vanhasta testamentista*, 2004, s. 5

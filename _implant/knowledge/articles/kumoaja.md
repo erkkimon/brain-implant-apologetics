@@ -4,7 +4,7 @@ about: apologetics
 title: "Kumoaja"
 description: "Nykyisin tietoteoriassa vallitsevan maltillisen perustusteorian mukaan pätevät perususkomukset ovat tiedollisesti oikeutettuja ilman argumentteja."
 tags: [apowiki, filosofia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kumoaja".
@@ -65,8 +65,6 @@ Toiseksi on mahdollista pohtia, onko kyseisille kumoajille tyhjäksi tekeviä ul
 Plantingan mukaan Jumalaa koskevien uskomusten tiedollista statusta voidaan arvioida kolmen eri kriteerin avulla, joita ovat tiedollinen oikeutus, ulkoinen ja sisäinen rationaalisuus ja tiedollinen vakuus tai tae (warrant). Näiden kriteerien valossa arvioituna uskolla Jumalaan on Plantingan argumentin[^9] mukaan kolme myönteistä tiedollista statusta: usko Jumalaan on tiedollisesti oikeutettu, sekä ulkoisesti että sisäisesti rationaalinen ja tiedollisesti taattu (warranted). Jumala on antanut ihmiselle erityisen älyllisen kyvyn muodostaa luotettavia Jumalaa koskevia uskomuksia. Tällaiset uskomukset voivat helposti täyttää tiedollisen takuun (warrant) ehdot ja jos kyseiset uskomukset ovat tosia ja niihin uskotaan riittävän voimakkaasti, ne ovat tietoa.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Meeker, Kevin: *Religous Epistemology: Introduction*, teoksessa [Craig, William Lane](william-lane-craig.md) (toim.), *Philosophy of Religion. A Reader and Guide*, Edinburgh: Edinburgh University Press, 2002, s. 13
 [^2]: Pollock, John, *Contemporary Theories of Knowledge*, Totowa N. J.: Rowman Littlefield, 1986, s. 37 ss.

@@ -4,7 +4,7 @@ about: apologetics
 title: "Naturalistinen tutkimusohjelma"
 description: "Tutkimusohjelmalla tarkoitetaan niiden tiedon lähteiden kokonaisuutta, jotka ovat tutkimuksen perustana."
 tags: [apowiki, tieteenfilosofia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Naturalistinen tutkimusohjelma".
@@ -186,8 +186,6 @@ Naturalistisen tutkimusohjelman käyttämät tiedonlähteet ovat yhteisiä myös
 * [Rea, Michael C.](michael-c-rea.md), *[World Without Design](world-without-design-kirja.md)*, Clarendon Press, 2002, 0-19-924760-9
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Rea 2002
 [^2]: Devitt, Michael, *Realism and Truth*, Oxford: Blackwell, 1991, s. 235 Suomennos Lammenranta, Markus, *Tietoteoria*, Tampere: Gaudeamus, 1993, s. 58

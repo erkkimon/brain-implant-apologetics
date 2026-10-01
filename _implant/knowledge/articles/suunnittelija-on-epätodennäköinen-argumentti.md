@@ -4,7 +4,7 @@ about: apologetics
 title: "\"Suunnittelija on epätodennäköinen\" (argumentti)"
 description: "Jumalharha-kirjassaan evoluutiobiologi Richard Dawkins esittää pääargumenttinaan Jumalan olemassaoloa vastaan väitteen, jonka mukaan Jumala on epätodennäköinen."
 tags: [apowiki, jumala, argumentit, richard-dawkins, lukusuositukset]
-timestamp: 2026-10-01T19:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article ""Suunnittelija on epätodennäköinen" (argumentti)".
@@ -139,7 +139,5 @@ Mitä monimutkaisempia suunnitellulta näyttäviä asioita löydämme, sitä ep�
 * [Who Designed the Designer? – William Lane-Craig vastaa Richard Dawkinsille](http://www.youtube.com/watch?v=jnhMmJPnnDo) (YouTube)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Richard Dawkins, *Jumalharha*, (The God delusion, 2006.) Suomentanut Kimmo Pietiläinen, Terra Cognita, 2007, ISBN 978-952-5697-00-1

@@ -4,7 +4,7 @@ about: apologetics
 title: "Todistuksen taakka"
 description: "Usein kuulee sanottavan, ettei olematonta voi todistaa olemattomaksi."
 tags: [apowiki, tieteenfilosofia, maailmankatsomus, argumentointi]
-timestamp: 2026-10-01T20:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Todistuksen taakka".
@@ -86,7 +86,5 @@ Metodia, jossa arvioidaan väitettä ja väitteen negaatiota puoltavia argumentt
 -->
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: viitaten cogito-argumenttiin, vain subjektin olemassaolo on mahdollista todistaa aukottomasti

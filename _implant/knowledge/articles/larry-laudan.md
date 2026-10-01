@@ -4,7 +4,7 @@ about: apologetics
 title: "Larry Laudan"
 description: "Larry Laudan (s. 1941 Austin, Texas) on yhdysvaltalainen filosofi, jonka erikoisaloja ovat tieteenfilosofia ja tietoteoria."
 tags: [apowiki, henkilöt, filosofia]
-timestamp: 2026-10-01T20:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Larry Laudan".
@@ -241,8 +241,6 @@ Tieteenfilosofi **Barry Gross** toimi evoluutionäkemystä edustaneen lakifirman
 * Schick, Theodore Jr., (toim.), *Readings in the Philosophy of Science: From Positivism to Postmodernism*, Mountain View, Cal.: Mayfield Publishing Company, 2000
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Laudan 1996a
 [^2]: Laudan 1996a: 342–343

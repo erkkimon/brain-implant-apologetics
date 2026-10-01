@@ -4,7 +4,7 @@ about: apologetics
 title: "Muotokritiikki"
 description: "Muotokritiikki on yksi historiallis-kriittisen raamattututkimuksen tutkimusmenetelmistä."
 tags: [apowiki, raamattu, historia, eksegetiikka]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Muotokritiikki".
@@ -177,8 +177,6 @@ Miksi Jeesuksen seuraajat olisivat toimineet eri tavalla? Miksi he olisivat luon
 Jos alkukristityt olivat näin petollisia, valheellisia ja itsepetoksen valtaamia, heidän moraalinen heikkoutensa olisi tullut ilmi siinä koetuksessa, johon he joutuivat. Oletus aikamme moraalin ylemmyydestä alkukristittyjen moraaliin nähden ei tee oikeutta historian tosiasioille ja perustuu edistyksen myyttiin. Evankeliumit puolustavat totuutta sen korkeimmassa muodossa ja niissä on kaikki aidon ja totuudenmukaisen kuvauksen tunnusmerkit.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Bock, D., *Studying the Historical Jesus: A Guide to Sources and Methods*, Grand Rapids, Mich.: Baker Academics, 2002, s. 181-182
 [^2]: Bock, D., *Studying the Historical Jesus: A Guide to Sources and Methods*, Grand Rapids, Mich.: Baker Academics, 2002, s. 183

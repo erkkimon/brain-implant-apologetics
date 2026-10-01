@@ -4,7 +4,7 @@ about: apologetics
 title: "Toinen kirje korinttilaisille"
 description: "Luke Timothy Johnson kritisoi sitä, että monien mielessä vakaumus tutkimuksen kyvystä analysoida Raamatun kirjojen oletettuja lähteitä on muuttunut eräänlaiseksi alkemistien viisauden kiveksi, jonka avulla kuvitellaan voitavan ratkaista kaikenlaisia historiallisia ongelmia."
 tags: [apowiki, eksegetiikka, tyngät]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Toinen kirje korinttilaisille".
@@ -32,8 +32,6 @@ Onko tämä kuitenkaan aitoa historiallista tutkimusta. Johnsonin[^2] vastaus on
 Lähdekritiikkiä on naturalistisen raamattukritiikin historiassa käytetty pitkälle menevien arvausten tekemiseen, jotka saattavat olla kokonaan vailla historiallista pohjaa. Tämä johtuu osittain akateemisen maailman urakehityksen perusehdosta, joka on uusien tutkimustulosten saavuttaminen. Koska naturalistinen lähdekritiikki ei vaadi, että lähteiden olemassaolosta pitäisi olla mitään itsenäistä todistusaineistoa, on mahdollista esittää arvauksia ja keksiä niiden olemassaololle uskottavan tuntuisia perusteluja. Tätä arvaustehtailua mahdollistaa myös se, että sitä voidaan toteuttaa länsimaisessa tiedeyhteisössä, jossa alkukielten ja alkuperäisen kulttuurin tuntemus on omaksuttu akateemisten opintojen yhteydessä. Tällainen teoreettinen hallinta ei tietenkään voi vastata synnynnäisten kulttuurin jäsenten kielellistä ja kulttuurista tajua.
 
 ### Viitteet
-
-  1. Viitteet
 
 
 

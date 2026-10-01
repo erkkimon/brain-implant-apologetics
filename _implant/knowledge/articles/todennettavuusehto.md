@@ -4,7 +4,7 @@ about: apologetics
 title: "Todennettavuusehto"
 description: "Loogisen empirismin perusajatus on ns. todennettavuusehto eli verifikaatioperiaate."
 tags: [apowiki, tieteenfilosofia]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Todennettavuusehto".
@@ -112,8 +112,6 @@ Viimeaikaisessa uskonnonfilosofiassa on kuitenkin yhä enemmän tuotu esille sit
 * [*Can the Universe Exist Without God?*](http://www.youtube.com/watch?v=prYeIU0NrSY) – [William Lane Craigin](william-lane-craig.md) keskustelutilaisuus professori [Kari Enqvistin](kari-enqvist.md) kanssa Helsingin yliopistolla 16.4.2012.
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Hume, David, *An Enquiry Concerning Human Understanding*, Toim. L. A. Selby-Bigge, 3rd editon, Oxford: Clarendon Press, 1975, s. 165
 [^2]: Carnap, Rudolf: *The Elimination of Metaphysics Through Logical analysis of Language*, teoksessa Ayer A. J. (toim.), *Logical Positivism*, Glencoe, Ill.: Greenwood Press, 1959, s. 63

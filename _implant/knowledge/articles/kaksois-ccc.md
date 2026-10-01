@@ -4,7 +4,7 @@ about: apologetics
 title: "Kaksois-CCC"
 description: "Kuva: Klorokiniini-lääkemolekyyli. Kaksois-CCC on biokemian professori Michael Behen mukaan ohjaamattomalle evoluutioprosessille globaalisti mahdottoman yksittäisen evoluutioaskeleen probabilistista vaativuustasoa esittävä kvantitatiivinen…"
 tags: [apowiki, suunnitteluteoria, evoluutiokritiikki]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kaksois-CCC".
@@ -81,8 +81,6 @@ Proteiinien muotoavaruudessa tietyn kiinnittymispaikan muodon löytäminen vaati
 * [Joululahja totuudelle – evoluution rajat (Intelligentdesign.fi)](http://www.intelligentdesign.fi/2007/12/29/joululahja-totuudelle-evoluution-rajat/#more-134)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: siis esim. uusdarvinistiselle
 [^2]: oletetun vuosimiljardien mittaisen tarkastelujakson puitteissa

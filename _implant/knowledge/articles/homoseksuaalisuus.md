@@ -4,7 +4,7 @@ about: apologetics
 title: "Homoseksuaalisuus"
 description: "Homoseksuaalisuus on seksuaalinen suuntautuminen, jossa yksilön emotionaaliset, eroottiset ja/tai seksuaaliset tunteet kohdistuvat ensisijaisesti omaan sukupuoleen."
 tags: [apowiki, seksuaalietiikka, lukusuositukset]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Homoseksuaalisuus".
@@ -259,8 +259,6 @@ Yhdysvalloissa kuvatussa Tällaisia jotkut teistä olivat ennen (engl. *Such Wer
 *Tapio Puolimatka, *[Yhteiskuntakoe lapsilla?](yhteiskuntakoe-lapsilla-kirja.md)*, Kuva ja Sana, 2016, ISBN 978-951-585-315-6
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: ”*homoseksuaalinen* omaan sukupuoleen sukupuolista vetoa tunteva.” ”*lesbous* (rinn. lesbolaisuus) naisten homoseksuaalisuus.” *Kielitoimiston sanakirja*, Kotimaisten kielten tutkimuskeskuksen julkaisuja 132. Internet-versio MOT Kielitoimiston sanakirja 1.0, Helsinki: Kotimaisten kielten tutkimuskeskus ja Kielikone Oy, 2004, ISBN 952-5446-11-5
 [^2]: [Hlbtiq-sanasto](http://seta.fi/hlbtiq-sanasto/), Seta ry, viitattu 22.5.2017, [Hlbtiq-sanasto](http://transtukipiste.fi/hlbtiq-sanasto/), Seta ry: Transtukipiste, viitattu 22.5.2017

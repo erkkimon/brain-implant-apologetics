@@ -4,7 +4,7 @@ about: apologetics
 title: "Pahan ongelma"
 description: "Pahan ja erityisesti kärsimyksen ongelma ilmenee kaksitasoisesti: älyllisenä ja kokemuksellisena."
 tags: [apowiki, etiikka, lukusuositukset, kärsimys, kärsimyksen-ongelma, pahan-ongelma, teodikea]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Pahan ongelma".
@@ -76,8 +76,6 @@ Voidaan jopa argumentoida, että ihmisen aiheuttaman pahan ja luonnollisen pahan
 The Veritas Forum: Corbin Carnellin luento aiheesta [C. S. Lewis ja kärsimyksen ongelma (englanniksi)](http://www.veritas.org/c-s-lewis-and-problem-pain/),
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: We can, perhaps, conceive of a world in which God corrected the results of this abuse of free will by His creatures at every moment: so that a wooden beam became soft as grass when it was used as a weapon, and the air refused to obey me if I attempted to set up in it the sound waves that carry lies or insults. But such a world would be one in which wrong actions were impossible, and in which, therefore, freedom of the will would be void; nay, if the principle were carried out to its logical conclusion, evil thoughts would be impossible, for the cerebral matter which we use in thinking would refuse its task when we attempted to frame them
 [^2]: Katastrofien ja tragedioiden sattuessa ateistit ovatkin hyvin hiljaa, 'materia vain uudelleenjärjestäytyi, mitään merkittävää ei tapahtunut', ei lohduta ketään eikä vaikuta todelta kenestäkään läheisensä menettäneestä.

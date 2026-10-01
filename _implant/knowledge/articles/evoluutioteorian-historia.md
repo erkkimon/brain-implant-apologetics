@@ -4,7 +4,7 @@ about: apologetics
 title: "Evoluutioteorian historia"
 description: "Evoluutoajatuksia ovat esittäneet jo antiikin Kreikan materialistit, erityisesti Lucretius, joiden katsomukset vaativat jonkinlaisen materiasta itsestään syntymisen."
 tags: [apowiki, evoluutioteoria]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Evoluutioteorian historia".
@@ -78,8 +78,6 @@ Myös useat muut huomattavat tiedemiehet esittivät Darwinin teoriaan kohdistuva
 * [Evoluutioteoria](evoluutioteoria.md)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Robert Crowther, *A Dissenter in Darwin's Shadow*, ID the future, July 20, 2009
 [^2]: Michael A. Flannery, *[Alfred Russel Wallace's Theory of Intelligent Evolution](http://www.amazon.com/gp/product/0981520413?ie=UTF8&tag=discoveryinsti06&linkCode=as2&camp=1789&creative=390957&creativeASIN=0981520413)*, Erasmus Press, February 16, 2009, ISBN 978-0981520414

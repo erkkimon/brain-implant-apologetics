@@ -4,7 +4,7 @@ about: apologetics
 title: "Apostolien teot"
 description: "Naturalistisen Uuden testamentin tutkimuksen yksi ensimmäisiä pyrkimyksiä on ollut kyseenalaistaa Apostolien tekojen historiallisuus, koska Apostolien teot tarjoaa kuvauksen kristinuskon historian ensimmäisistä vuosista."
 tags: [apowiki, raamattu, historia]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Apostolien teot".
@@ -125,8 +125,6 @@ Ei ole epäilystäkään, että Luukas on ollut näiden tapahtumien silminnäkij
 Naturalistien kannalta on epämiellyttävää, että Luukas raportoi yhteensä 35 yliluonnollista ihmettä samassa kirjassa, jossa hän raportoi kaikki nämä 84 historiallisen tutkimuksen vahvistamaa yksityiskohtaa. Luukas kertoo ihmeistä osana historiallista kuvaustaan samalla koruttomalla tavalla kuin muistakin historiallisista yksityiskohdista. Ei ole luultavaa, että Luukas olisi tarkka kuvatessaan suhteellisen merkityksettömiä yksityiskohtia kuten tuulen suuntaa, meriveden syvyyttä ja erikoisia kaupunkien nimiä, mutta olisi epätarkka kuvatessaan tärkeitä tapahtumia kuten ihmeitä. Koska Luukas on osoittautunut kaikin puolin luotettavaksi historian kirjoittajaksi, olisi ennakkoluuloista pitää häntä epäluotettavana hänen kuvatessaan ihmeitä. Luukkaan luotettavuus historioitsijana on vahvistettu niin monissa yksityiskohdissa, että on syytä luottaa häneen niissäkin kohdissa, joissa asian luonteen vuoksi emme voi saada ulkopuolista vahvistusta.[^6]
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Johnson, Luke Timothy, *The Real Jesus*, San Francisco, Harper, 1997, s. 92-95
 [^2]: Bock, Darell, *Luke 1:1-9:50. Baker Exegetical Commentary on the New Testament*, Grand Rapids, Mich. Baker Books, 2004, s. 283

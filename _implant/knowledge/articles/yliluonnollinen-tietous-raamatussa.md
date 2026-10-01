@@ -4,7 +4,7 @@ about: apologetics
 title: "Yliluonnollinen tietous Raamatussa"
 description: "Yliluonnollisella tietoudella tarkoitetaan tietämystä, joka todetaan oikeelliseksi vasta myöhemmin."
 tags: [apowiki, raamattu]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Yliluonnollinen tietous Raamatussa".
@@ -62,8 +62,6 @@ Todennäköisyyttä voidaan tutkia, kun sitä verrataan Hesekielin lausumaan enn
 Kaupungille ennustetaan siis sotaa ja hävitystä, muttei lopullista hävitystä, autioitumista tai sen muuttumista pieneksi kalastajakyläksi. Sidon onkin hävitetty useaan otteeseen historiansa aikana, muttei kertaakaan lopullisesti vaan se on vuosisatojen ajan palvellut Damaskosta satamakaupunkina. Mikäli Tyyroksen ja Sidonin nimet olisivat vaihtuneet ennustuksissa, kumpikaan ennustus ei enää olisi totta. Tyrosta koskevat ennustukset ovatkin riittävän tämällisiä Raamatun luotettavuuden arviointia ajatellen.[^3]
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: http://en.wikipedia.org/wiki/SS_Great_Britain
 [^2]: ([Hes. 26](../books/ezk.md))

@@ -4,7 +4,7 @@ about: apologetics
 title: "Kirjat"
 description: "62 ApoWiki-artikkelia aihepiiristä kirjat — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, kirjat]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 
 # Kirjat
@@ -32,7 +32,7 @@ Aihepiirin kirjat artikkelit, tuotu [ApoWikistä](https://apowiki.fi). Luettelo 
 * [Icons of Evolution (kirja)](../articles/icons-of-evolution-kirja.md) — Icons of Evolution on amerikkalaisen biologin Jonathan Wellsin kirjoittama kirja, jossa hän käsittelee merkittävimpiä evoluutioteorian….
 * [Jeesus (kirja)](../articles/jeesus-kirja.md) — Jeesus on eksegetiikan dosentti Tom Holménin kirjoittama yleistajuinen tietokirja, joka käsittelee Jeesus Nasaretilaisena tunnettua henkilöä….
 * [Jesus and the Eyewitnesses (kirja)](../articles/jesus-and-the-eyewitnesses-kirja.md) — St.
-* [Jumalharha (kirja)](../articles/jumalharha-kirja.md) — Jumalharha (The God Delusion, (https://fi.wikipedia.org/wiki/2006)) on uusateismin huomattavimman saarnamiehen Richard Dawkinsin kirjoittama….
+* [Jumalharha (kirja)](../articles/jumalharha-kirja.md) — Jumalharha (The God Delusion, 2006) on uusateismin huomattavimman saarnamiehen Richard Dawkinsin kirjoittama uskontokriittinen kirja, jossa Dawkins….
 * [Justice: Rights and Wrongs (kirja)](../articles/justice-rights-and-wrongs-kirja.md) — Yalen yliopiston professorin Nicholas Wolterstorffin kirja Justice: Rights and Wrongs (Princeton: Princeton University Press) on herättänyt paljon….
 * [Jälkikristillisen maailman kauhut (kirja)](../articles/jälkikristillisen-maailman-kauhut-kirja.md) — Jälkikristillisen maailman kauhut on Tapio Puolimatkan kirjoittama kirja, joka pyrkii vastaamaan kysymykseen: Mihin suuntaan yhteiskunta kehittyy,….
 * [Kaikki evoluutiosta (kirja)](../articles/kaikki-evoluutiosta-kirja.md) — Kaikki evoluutiosta on Gaudeamuksen julkaisema kokoomateos, joka julkaistiin Tieteen päivillä 2009.

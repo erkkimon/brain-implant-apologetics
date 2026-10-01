@@ -4,7 +4,7 @@ about: apologetics
 title: "Francis Bacon"
 description: "Tätä henkilöä käsitellään ApologetiikkaWikissä, koska hänen työllään on ollut suuri merkitys tieteen kehitykselle sekä tieteen ja kristinuskon väliselle suhteelle Sir Francis Bacon (22."
 tags: [apowiki, henkilöt]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Francis Bacon".
@@ -77,8 +77,6 @@ Niille, jotka pitivät ihmisen nykyistä tietämättömyyden tilaa syntiinlankee
 *[Francis Bacon: The new Organon](https://constitution.org/2-Authors/bacon/nov_org.htm)
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Francis Bacon, *The Works of Francis Bacon*, Toim. James Spedding et al., 14 vols., Lontoo: Green, Longman and Roberts, 1857-74, s. 14:49-50
 [^2]: Stanley L. Jaki, *Science and Creation: From Eternal Cycles to an Oscillating Universe*, Glasgow: Scottish Academic Press, 1986

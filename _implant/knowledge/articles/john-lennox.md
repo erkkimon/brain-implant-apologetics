@@ -4,7 +4,7 @@ about: apologetics
 title: "John Lennox"
 description: "John Carson Lennox on matematiikan emeritus professori Oxfordin yliopistossa ja matematiikan ja tieteenfilosofian luennoitsija Green Templeton Collegessa Oxfordissa."
 tags: [apowiki, henkilöt, filosofia]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "John Lennox".
@@ -72,8 +72,6 @@ Hänellä on veli nimeltä Gilbert Lennox, joka toimii pastorina Glennabbey kirk
 * [Premier Christian Radio](https://www.premierchristianradio.com/Shows/Saturday/Unbelievable/Episodes/Unbelievable-17-Apr-2010-Are-we-alone-in-the-universe-Paul-Davies-John-Lennox) Radio debate on "Are we alone in the Universe?"
 
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: *verkkolähde*
 [^2]: Budapest: Harmat-Keve

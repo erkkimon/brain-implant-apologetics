@@ -4,7 +4,7 @@ about: apologetics
 title: "Ufot"
 description: "Viime vuosina elokuvateollisuus on entistä voimakkaammin ammentanut aiheita Ufoista, paranormaaleista ilmiöistä, ulkoavaruuden muukalaisista ja muista vastaavista yliluonnollisista tai muuten oudoista teemoista."
 tags: [apowiki, paranormaalit-ilmiöt]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T21:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ufot".
@@ -213,8 +213,6 @@ Ufo-ilmiöllä ja Raamatun mukaan demoniseksi luokiteltavilla ilmiöillä vaikut
 *[Matti Kankaanniemi: X-files ja hengellinen todellisuus](http://gamma.nic.fi/~shn/tekstit/ufot.htm)
 -->
 ### Viitteet
-
-  1. Viitteet
 
 [^1]: Doug Patter, UFOs, ETs and the New Age: A Christian Perspective, Christian Apologetics Journal, Volume 1, No. 1, Spring 1998. Southern Evangelical Seminary.
 [^2]: Taneli Heikka, Viidennes uskoo ufojen vierailleen Suomessa, Aamulehti 2. 3. 1999.
