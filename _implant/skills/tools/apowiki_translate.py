@@ -217,7 +217,14 @@ def translate_chunk(text, rules, endpoint, model, retries, dry):
         prompt = PROMPT.format(glossary=gl, feedback=feedback, text=text)
         if dry:
             return text, [], required
-        en = generate(endpoint, model, prompt)
+        try:
+            en = generate(endpoint, model, prompt)
+        except (OSError, ValueError) as e:
+            # A shared CPU host can starve a request past the timeout. Lose
+            # the chunk, not the article (2026-10-01: one timeout discarded
+            # four finished chunks).
+            problems = [f"the model call failed ({type(e).__name__})"]
+            continue
         problems = check(text, en, required)
         if not problems:
             return en, [], required

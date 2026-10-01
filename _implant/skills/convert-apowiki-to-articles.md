@@ -2,7 +2,7 @@
 type: skill
 title: Convert ApoWiki wikitext into implant articles
 description: Use when turning the ApoWiki export in raw/apowiki-export/ into searchable articles under knowledge/ — the deterministic, token-free conversion that produces the MVP, including wiki-link resolution, citation footnotes and the topic spine that grounds every page.
-timestamp: 2026-10-01T21:30:00Z
+timestamp: 2026-10-01T22:00:00Z
 depends_on: [skills/using-the-brain-implant.md]
 tools:
   - skills/tools/apowiki_convert.py
@@ -76,7 +76,7 @@ references linked to their book pages, zero ghosts.
   revision 11402). Wiki tables become markdown tables, with colspan padded
   and a caption as an italic line; a table markdown cannot express (rowspan
   above 1, a nested table) stays fenced and counts as `table_kept_fenced`.
-  All 41 converted on 2026-10-01 ([journal](../journals/2026-10-01.md)). A
+  All 41 converted on 2026-10-01 ([journal](../journals/archive/2026/10/2026-10-01.md)). A
   converter that drops what it cannot parse looks successful while
   destroying the archive.
 * **Red links are honest.** A wiki link whose target does not exist becomes
@@ -87,14 +87,14 @@ references linked to their book pages, zero ghosts.
   match that prefers an article over a redirect. Before 2026-10-01 the
   lower-cased lookup let the redirect *Michael behe* shadow the article
   *Michael Behe*, and the corpus's most-linked person read as a red link
-  ([journal](../journals/2026-10-01.md)). Invisible marks (U+200E), a
+  ([journal](../journals/archive/2026/10/2026-10-01.md)). Invisible marks (U+200E), a
   leading colon, underscores and `#section` are stripped first.
 * **A red link to a glossary term lands on the glossary.** When ApoWiki
   never wrote an article on a term its own [Sanasto](../knowledge/glossary/sanasto.md)
   defines (*perususkomus*, *äskettäisluomisnäkemys*), the label links to that
   entry, in the wiki's own sense, and the red-link comment stays. This
   comes before the Wikipedia fallback. 28 links, added 2026-10-01
-  ([journal](../journals/2026-10-01.md)).
+  ([journal](../journals/archive/2026/10/2026-10-01.md)).
 * **A red link to a subject Wikipedia covers links there and stays red.**
   `red-link-wikipedia.json` (written by `apowiki_redlinks.py`, then reviewed
   by hand) maps a target such as *Immanuel Kant* to its Finnish Wikipedia
@@ -108,19 +108,19 @@ references linked to their book pages, zero ghosts.
   ended with a stray "1. Viitteet" list item. It now leaves a placeholder
   that becomes the heading at the end, or vanishes when the wiki already
   wrote a *Viitteet* heading right above it. Found while reviewing the first
-  translation ([journal](../journals/2026-10-01.md)).
+  translation ([journal](../journals/archive/2026/10/2026-10-01.md)).
 * **Glossary links land somewhere useful.** An `AW:S#term` link to a term
   the glossary defines lands on its anchor. The 41 terms it does not define
   were decided once, in `GLOSSARY_FALLBACKS` in the converter: a near-variant
   glossary term, an ApoWiki article, a Finnish Wikipedia page, or plain text
-  when nothing fits ([journal](../journals/2026-10-01.md)). A new undefined
+  when nothing fits ([journal](../journals/archive/2026/10/2026-10-01.md)). A new undefined
   term shows up in the report under `missing_glossary_terms` and lands on the
   glossary page until it is added to the table.
 * **Vandalism stays raw.** A page filed under `Luokka:Vandalismi` (one joke
   page in revision 11402's corpus) is kept in `raw/apowiki-export/` as the
   faithful record but is not converted, so it never reaches search or a topic
   page. The report lists it under `skipped_vandalism`
-  ([journal](../journals/2026-10-01.md)).
+  ([journal](../journals/archive/2026/10/2026-10-01.md)).
 
 ## Gotchas that cost time once
 

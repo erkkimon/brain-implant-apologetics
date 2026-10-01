@@ -3,7 +3,7 @@ type: plan
 title: "MVP first, then daily iteration (apologetics)"
 description: "The apologetics half of the shared plan: convert ApoWiki's wikitext to Finnish markdown pages with parsed implant links, hang the book corpus on the shared book spine, compile with multilingual embeddings, and only then start cooldown-batched translation and improvement."
 tags: [plan, mvp, roadmap]
-timestamp: 2026-10-01T20:30:00Z
+timestamp: 2026-10-01T22:00:00Z
 ---
 
 # MVP first, then daily iteration (apologetics)
@@ -62,7 +62,7 @@ cooldown-sized batches).
    the entire reason Finnish-first is allowed.
 6. **Gate** — contract green, implant compiled and served, Tom using it. Then
    translation starts. On 2026-10-01 Tom dropped the gate as a blocker
-   ([journal](../journals/2026-10-01.md)): he dogfoods the implant in
+   ([journal](../journals/archive/2026/10/2026-10-01.md)): he dogfoods the implant in
    parallel, and what he finds lands in todo/open.md as bug fixes.
 
 ## The daily loop after the gate
@@ -96,7 +96,7 @@ procedure and its reasoning are in
 
 ## Where English pages live, and in what order
 
-Decided on 2026-10-01 ([journal](../journals/2026-10-01.md)):
+Decided on 2026-10-01 ([journal](../journals/archive/2026/10/2026-10-01.md)):
 
 * **knowledge/en/, under the Finnish file name.** `articles/x.md` becomes
   `en/x.md`. The folder sits at the same depth as `articles/`, so links to
