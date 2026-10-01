@@ -4,7 +4,7 @@ about: apologetics
 title: "Rekapitulaatioteoria"
 description: "Kuva: Ernst Haeckelin väärentämät kuvat selkärankaisten alkioista."
 tags: [apowiki, evoluutiokritiikki, lukusuositukset, haeckel, ernst, sikiöväärennökset, sikiöpiirros, sikiöpiirrokset, sikiöpiirroskiista, sikiökuva, sikiökuvat, alkio, kidukset, häntä, lapsivesi]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T00:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Rekapitulaatioteoria".
@@ -74,7 +74,7 @@ Reinikainen jatkaa:
 
 > Kuuloluista vasara ja alasin muodostuvat kiduskaaren ensimmäisestä rustosta, josta myös alaleuka kehittyy. Jalustin puolestaan syntyy toisen kiduskaaren rustosta, Reichertin rustosta, josta myös processus styloideus ja kieliluu muodostuvat. Korvakäytävä muodostuu ektodermaalisesta ensimmäisestä kidustaskusta. Kidustaskua ympäröivistä kiduskaarista alkaa muotoutua korvalehti. Ilman näitä "muinaisjäänteitä" (ns. kiduskaaria) meiltä puuttuisivat kateenkorva, lisäkilpirauhaset, alaleuka ja yksi kuuloluista.[^15]
 
-Kyseisessä rypyssä ei siis ole mitään kidusta muistuttavaa. Se vain sattuu olemaan samassa kohtaa, kuin mistä kalan sikiöllä kehittyy kidukset. Koko tämän sikiövaiheen homologioiden etsimisen taustalla oleva ajattelutapa on kyseenalainen. Selkärankaisten eturaajoja pidetään klassisena esimerkkinä homologiasta eli yhteisestä alkuperästä. Australialaisen molekyylibiologin Michael Dentonin <!-- red link: Michael Denton --> mukaan homologiset rakenteet syntyvät kuitenkin usein ei-homologisten geneettisten järjestelmien ohjaamina.[^16] Esimerkiksi monet sikiövaiheessa näennäisesti samankaltaiset rakenteet syntyvät eri kohdista ja eri geenien synnyttäminä. Vaikka kaikilla selkärankaisilla on ruuansulatuskanava, se kehittyy eri tavoin eri eläimillä. Kehitysbiologi [Pere Alberch](https://fi.wikipedia.org/wiki/pere_Alberch) onkin todennut, että "*on pikemminkin sääntö kuin poikkeus, että homologiset rakenteet muodostuvat erilaisista alkuperäisvaiheista."[^17]* Denton jatkaa:
+Kyseisessä rypyssä ei siis ole mitään kidusta muistuttavaa. Se vain sattuu olemaan samassa kohtaa, kuin mistä kalan sikiöllä kehittyy kidukset. Koko tämän sikiövaiheen homologioiden etsimisen taustalla oleva ajattelutapa on kyseenalainen. Selkärankaisten eturaajoja pidetään klassisena esimerkkinä homologiasta eli yhteisestä alkuperästä. Australialaisen molekyylibiologin [Michael Dentonin](../pages/michael-denton.md) mukaan homologiset rakenteet syntyvät kuitenkin usein ei-homologisten geneettisten järjestelmien ohjaamina.[^16] Esimerkiksi monet sikiövaiheessa näennäisesti samankaltaiset rakenteet syntyvät eri kohdista ja eri geenien synnyttäminä. Vaikka kaikilla selkärankaisilla on ruuansulatuskanava, se kehittyy eri tavoin eri eläimillä. Kehitysbiologi [Pere Alberch](https://fi.wikipedia.org/wiki/pere_Alberch) onkin todennut, että "*on pikemminkin sääntö kuin poikkeus, että homologiset rakenteet muodostuvat erilaisista alkuperäisvaiheista."[^17]* Denton jatkaa:
 
 > Ei ole epäilystäkään siitä, että koska eri selkärankaisten sikiövaiheiden erot ovat niin suuria, aikuisien selkärankaisten homologisina pidettyjä elimiä ja rakenteita ei voida johtaa homologisiin soluihin ja alueisiin sikiönkehityksen alkuvaiheissa. Toisin sanoen, homologiset rakenteet syntyvät eri reittejä.[^16]
 

@@ -113,6 +113,29 @@ GLOSSARY_FALLBACKS: dict[str, str | None] = {
 }
 
 
+# Pages written for this implant (knowledge/pages/) answer red links: each
+# lists the titles it stands for in `aliases:` frontmatter. ApoWiki never had
+# these pages, so the converter links to them instead of leaving the red link.
+_PAGES = Path(__file__).resolve().parents[2] / "knowledge" / "pages"
+
+
+def _written_pages() -> dict[str, str]:
+    out: dict[str, str] = {}
+    for f in sorted(_PAGES.glob("*.md")) if _PAGES.exists() else []:
+        if f.name == "index.md":
+            continue
+        head = f.read_text(encoding="utf-8").split("\n---", 1)[0]
+        names = re.findall(r'^title:\s*"?([^"\n]+)"?\s*$', head, re.M)
+        m = re.search(r"^aliases:\s*\[(.*)\]\s*$", head, re.M)
+        if m:
+            names += [a.strip().strip('"') for a in m.group(1).split(",")]
+        for n in names:
+            out[n.strip().lower()] = f.stem
+    return out
+
+
+WRITTEN_PAGES = _written_pages()
+
 # Red-link targets with a reviewed Finnish Wikipedia page (apowiki_redlinks.py).
 _RLW = Path(__file__).resolve().parent / "red-link-wikipedia.json"
 RED_LINK_WIKIPEDIA: dict[str, str | None] = (
@@ -378,6 +401,11 @@ class Converter:
             if book:
                 self.stats["link_book_spine"] += 1
                 return f"[{label}](../{book})"
+            page = WRITTEN_PAGES.get(
+                target.replace("_", " ").strip().lower())
+            if page:
+                self.stats["link_written_page"] += 1
+                return f"[{label}](../pages/{page}.md)"
             self.red_links[target] += 1
             self.stats["link_red"] += 1
             # A red link that still reads as prose, and is greppable. Where
@@ -1039,6 +1067,8 @@ def main() -> int:
           f"({len(conv.red_links)} distinct, "
           f"{conv.stats['link_red_to_wikipedia']} to Wikipedia, "
           f"{conv.stats['link_red_to_glossary']} to the glossary)")
+    print(f"written pages answering red links: "
+          f"{conv.stats['link_written_page']}")
     print(f"footnotes: {conv.stats['refs']}")
     if conv.unknown_templates:
         print(f"unknown templates (kept visible): "

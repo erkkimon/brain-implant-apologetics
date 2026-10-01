@@ -4,7 +4,7 @@ about: apologetics
 title: "Suunnitteluteoria"
 description: "Ainahan voi väittää, että rinta viiden luodinreiän lävistämänä makaavan miehen kuolema oli sittenkin luonnollinen."
 tags: [apowiki, suunnitteluteoria, id-teoria, älykkään-suunnittelun-teoria, älykkään-suunnitelman-teoria, älyllisen-suunnittelun-teoria, älykäs-suunnitelma, älykäs-suunnittelu, älyllinen-suunnittelu, optimaalinen-suunnittelu, aito-suunnittelu, näennäissuunnittelu, tarkoituksellisuuspäättely]
-timestamp: 2026-10-01T21:30:00Z
+timestamp: 2026-10-02T00:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Suunnitteluteoria".
@@ -166,7 +166,7 @@ Tieteellä on harjoittajilleen aina myös henkilökohtaista merkitystä. Monet (
 #### Rajanvetokysymyksestä
 Ymmärrettävää keskustelua vaikeuttaa myös se, että suunnitteluteoriaan sisältyvä väite suunnittelun todennettavuudesta suunnittelijaa nimeämättä tulkitaan ulkopuolisten käymässä julkisessa keskustelussa useinkin **eksklusiivisesti** niin, että kyseessä olisi jokin erillinen kokonaisajattelutapa, johon kuuluisi mm. kieltäytyminen ottamasta henkilökohtaisella tasolla kantaa esim. kysymyksiin maapallon iästä tai Suunnittelijan henkilöllisyydestä. Tämä on kuitenkin virheellinen tulkinta. Suunnitteluteoria rajaa itsensä havaittujen kohteiden alkuperäselityksiin liittyvien luonnontieteellisten kysymyksenasettelujen piiriin eikä siksi **[tutkimusohjelmana](tutkimusohjelma.md)** sisällä mitään kantaa esim. iänmääritys- tai sielunpelastuskysymyksiin. Tämä ei kuitenkaan tarkoita sitä, että se kieltäisi kannattajiaan muodostamasta henkilökohtaisia vakaumuksia näistä asioista, kuulumasta tällaisia kannanmäärityksiä esittäviin yhteisöihin tai kertomasta näistä näkemyksistään julkisesti. Nämä näkemykset vain yksinkertaisesti jäävät suunnitteluteorian omaksi tutkimuskohteekseen rajaamien kysymyksenasettelujen ulkopuolelle eivätkä niihin liittyvät yksi- tai erimielisyydet siksi kuulu **suunnitteluteoriasta** käytävään keskusteluun.
 
-Muussa asiayhteydessä esitettyihin kannanmäärityksiin ID-tutkimusyhteisö sitä vastoin suhtautuu **inklusiivisesti**, ts. hyväksyy eri tavoin niistä ajattelevat ja halutessaan julkisestikin keskustelevat tahot täysivaltaisina jäseninä yhteyteensä mitään itsesensuuria näiltä edellyttämättä. Niinpä esim. [Michael Behe](michael-behe.md) pitäytyy yhä [polveutumisoppiin](../glossary/sanasto.md#polveutumisoppi), kun taas toinen varsin tunnettu suunnitteluteoreetikko Paul Nelson <!-- red link: Paul Nelson --> on [YEC-näkemyksen](../glossary/sanasto.md#yec-näkemys) julkinen kannattaja, eikä tässä asiaintilassa ID-tutkimuksen kannalta ole mitään ongelmaa tai salailun tarvetta. Myöskin ateisti filosofian tohtori [Bradley Monton](bradley-monton.md) ja agnostikko [David Berlinski](https://fi.wikipedia.org/wiki/David_Berlinski) <!-- red link: David Berlinski --> ovat ID:n puolestapuhujia[^29].
+Muussa asiayhteydessä esitettyihin kannanmäärityksiin ID-tutkimusyhteisö sitä vastoin suhtautuu **inklusiivisesti**, ts. hyväksyy eri tavoin niistä ajattelevat ja halutessaan julkisestikin keskustelevat tahot täysivaltaisina jäseninä yhteyteensä mitään itsesensuuria näiltä edellyttämättä. Niinpä esim. [Michael Behe](michael-behe.md) pitäytyy yhä [polveutumisoppiin](../glossary/sanasto.md#polveutumisoppi), kun taas toinen varsin tunnettu suunnitteluteoreetikko [Paul Nelson](../pages/paul-nelson.md) on [YEC-näkemyksen](../glossary/sanasto.md#yec-näkemys) julkinen kannattaja, eikä tässä asiaintilassa ID-tutkimuksen kannalta ole mitään ongelmaa tai salailun tarvetta. Myöskin ateisti filosofian tohtori [Bradley Monton](bradley-monton.md) ja agnostikko [David Berlinski](https://fi.wikipedia.org/wiki/David_Berlinski) <!-- red link: David Berlinski --> ovat ID:n puolestapuhujia[^29].
 
 ### Tiedettä vai ei?
 Kysymys suunnitteluteorian tieteellisyydestä on jaettavissa kolmeen osakysymykseen:
@@ -259,7 +259,7 @@ Suunnitteluteoria voi olla hyödyllinen myös kristityn oman uskon kannalta. Kri
 *Kuva: [Discovery Instituutti](http://www.discovery.org/) ylläpitää laajaa [ID-sivustoa](http://www.intelligentdesign.org/).*
 
 * http://teoria.fi Suunnitteluteorian suomalainen portaali
-* http://www.discovery.org/multimedia/idtf/ [Discovery Instituutin](https://fi.wikipedia.org/wiki/Discovery_Institute) <!-- red link: Discovery Institute --> ylläpitämä podcast-sivusto, joka käsittelee evoluutioon ja ID:n liittyviä aiheita.
+* http://www.discovery.org/multimedia/idtf/ [Discovery Instituutin](../pages/discovery-institute.md) ylläpitämä podcast-sivusto, joka käsittelee evoluutioon ja ID:n liittyviä aiheita.
 * Rope Kojonen, [Kertooko luonnon järjestys suunnittelusta](https://helda.helsinki.fi/handle/10138/21668), Systemaattisen teologian laitos, 20.1.2008, Michael Behe älykkään suunnittelun ajatuksen puolustajana, viitattu 23.6.2016
 * [Michael Behe: Philosophical Objections to Intelligent Design](http://www.discovery.org/a/445)
 * [A Positive, Testable Case for Intelligent Design](https://www.evolutionnews.org/2011/03/a_closer_look_at_one_scientist/) (Evolution News & Views)
@@ -271,7 +271,7 @@ Suunnitteluteoria voi olla hyödyllinen myös kristityn oman uskon kannalta. Kri
 
 ### Viitteet
 
-[^1]: [Questions about intelligent design: 1. What is the theory of intelligent design?](http://www.discovery.org/csc/topQuestions.php#questionsAboutIntelligentDesign), [Discovery Institute](https://fi.wikipedia.org/wiki/Discovery_Institute) <!-- red link: Discovery Institute -->
+[^1]: [Questions about intelligent design: 1. What is the theory of intelligent design?](http://www.discovery.org/csc/topQuestions.php#questionsAboutIntelligentDesign), [Discovery Institute](../pages/discovery-institute.md)
 [^2]: Dalvin Lee Ratzsch: Nature, Design, and Science. 2001.
 [^3]: Kojonen, Rope, *Kertooko luonnon järjestys suunnittelusta?*, Michael Behe älykkään suunnittelun ajatuksen puolustajana, Helsingin Yliopisto, 2008, s. 27 (*Ratzschin mielestä älykästä suunnittelu koskevassa kirjallisuudessa ei ole määritelty useita keskeisiä käsitteitä kunnolla.*)
 [^4]: Rope Kojonen, [Kertooko luonnon järjestys suunnittelusta](https://helda.helsinki.fi/handle/10138/21668), Systemaattisen teologian laitos, 20.1.2008, Michael Behe älykkään suunnittelun ajatuksen puolustajana, viitattu 28.4.2017

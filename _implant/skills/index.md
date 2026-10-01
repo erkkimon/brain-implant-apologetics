@@ -17,7 +17,8 @@ the tree.
   gitignored provenance sidecar.
 * `tools/apowiki_convert.py` — convert the wikitext export into Finnish
   articles in `knowledge/articles/`: links resolved through the importer's
-  slug map, citations as footnotes, redirects resolved, red links reported.
+  slug map, citations as footnotes, redirects resolved, red links reported
+  (or linked to a page written here in `knowledge/pages/`).
 * `tools/apowiki_topics.py` — turn ApoWiki's categories into topic pages in
   `knowledge/topics/` and give every article a breadcrumb back to them.
 * `tools/apowiki_glossary.py` — ApoWiki's official glossary
