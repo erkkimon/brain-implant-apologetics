@@ -4,7 +4,7 @@ about: apologetics
 title: "Kirjallisuutta"
 description: "Alla hyvää kirjallisuutta kristinuskon perusteluihin tutustumiseen."
 tags: [apowiki, yleistä-tietoa, kirjat]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-02T01:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kirjallisuutta".
@@ -42,7 +42,7 @@ Alla hyvää kirjallisuutta [kristinuskon perusteluihin](kristinuskon-perustelut
 *[Usko, tiede ja evoluutio](usko-tiede-ja-evoluutio-kirja.md), Tapio Puolimatka
 
 #### [Suunnitteluteoria](suunnitteluteoria.md)
-*Älykkään suunnitelman idea <!-- red link: Älykkään suunnitelman idea (kirja) -->, [William A. Dembski](william-dembski.md)
+*[Älykkään suunnitelman idea](../pages/älykkään-suunnitelman-idea-kirja.md), [William A. Dembski](william-dembski.md)
 
 #### [Kreationismi](kreationismi.md)
 *Myytti apinaihmisistä <!-- red link: Myytti apinaihmisistä (kirja) -->, Marvin L. Lubenow

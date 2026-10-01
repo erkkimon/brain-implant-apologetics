@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to be done — the implant's live work queue.
-timestamp: 2026-10-02T00:30:00Z
+timestamp: 2026-10-02T01:00:00Z
 ---
 
 # Open
@@ -44,7 +44,7 @@ testaments in `knowledge/books/`, each pointing at the theology spine.
 - [ ] Before each translation batch, fill `knowledge/glossary/english.md` rows for the glossary terms that batch uses (321 of 413 terms still lack one; `apowiki_translate.py --dry-run` lists them per chunk). Batch 1's rows are in
 - [ ] Batch 1 (design theory, 6 articles; william-dembski landed and reviewed 2026-10-01, the rest running as `_temp/run-batch1.sh`, then a retry pass `_temp/run-batch1b.sh`, log in `_temp/batch1.log`; re-run `run-batch1.sh` if both died, it skips finished ones. Throughput depends on how busy the shared CPU host is: on 2026-10-01/02 two articles timed out while the host was saturated: suunnitteluteoria, william-dembski, kosminen-hienosäätö, teleologinen-argumentti, the-edge-of-evolution-kirja, tarkoituksellisuuspäättelyn-logiikka): machine run → review against the Finnish (translate title and description, fix failed chunks, set `translation_status: reviewed`) → `apowiki_land.py` → commit
 - [ ] Per batch: machine-translate one themed slice to English → improve that slice (ground claims, close its red links, enrich links) → commit. Themed, not alphabetical.
-- [ ] Create the pages the graph asks for, per the [wanted-page skill](../skills/write-a-wanted-page.md). Paul Nelson, Michael Denton and Discovery Institute are done (knowledge/pages/, 10 links, 2026-10-02). Next for design theory: Jaki, Gonzalez, Richards. *Nasaretilaisen haaste* (5 links, Kankaanniemi 2000, ISBN 952-5374-00-9) belongs with the Jesus batch and needs a library record; Finna's API answered scripted requests with a Cloudflare challenge. The 330 others link to Finnish Wikipedia but stay wanted. Do it with the translation batch that touches the theme, since a new page is token work
+- [ ] Create the pages the graph asks for, per the [wanted-page skill](../skills/write-a-wanted-page.md). Paul Nelson, Michael Denton, Discovery Institute and *Älykkään suunnitelman idea* are done (knowledge/pages/, 2026-10-02). Next for design theory: Jaki, Gonzalez, Richards. *Nasaretilaisen haaste* (5 links, Kankaanniemi 2000, ISBN 952-5374-00-9) belongs with the Jesus batch and needs a library record; Finna's API answered scripted requests with a Cloudflare challenge. The 330 others link to Finnish Wikipedia but stay wanted. Do it with the translation batch that touches the theme, since a new page is token work
 
 ## Deferred (after the MVP, still open)
 

@@ -8,6 +8,9 @@ procedure is [Write a wanted page](../../skills/write-a-wanted-page.md).
 
 * [Discovery Institute](discovery-institute.md): the think tank whose
   Center for Science and Culture is the hub of the design movement.
+* [Älykkään suunnitelman idea](älykkään-suunnitelman-idea-kirja.md): the
+  Finnish edition of Dembski's *Intelligent Design* (2002), which ApoWiki
+  cites in eleven articles.
 * [Michael Denton](michael-denton.md): the biochemist whose 1985 book set
   Behe doubting.
 * [Paul Nelson](paul-nelson.md): philosopher of science, design theorist

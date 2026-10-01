@@ -4,7 +4,7 @@ about: apologetics
 title: "Tiede"
 description: "Tiede tarkoittaa todellisuuden ilmiöiden ja niiden välisten suhteiden järjestelmällistä ja arvostelevaa tutkimista sekä sen avulla saatua tietojen jäsentynyttä kokonaisuutta."
 tags: [apowiki, tieteenfilosofia]
-timestamp: 2026-10-01T21:30:00Z
+timestamp: 2026-10-02T01:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tiede".
@@ -166,7 +166,7 @@ Asian ydin on siis siinä, että metodologinen naturalismi on käynyt aivan liia
 
 [^1]: *Kielitoimiston sanakirja*, Kotimaisten kielten tutkimuskeskuksen julkaisuja 132. Internet-versio MOT Kielitoimiston sanakirja 1.0, Helsinki: Kotimaisten kielten tutkimuskeskus ja Kielikone Oy, 2004, ISBN 952-5446-11-5
 [^2]: [Tapio Puolimatka](tapio-puolimatka.md), *[Usko, tieto ja myytit](usko-tieto-ja-myytit-kirja.md), takakansi*
-[^3]: [William Dembski](william-dembski.md), *[Älykkään suunnitelman idea](../glossary/sanasto.md#älykkään-suunnitelman-idea) <!-- red link: Älykkään suunnitelman idea -->, Liite A.4, s. 195*
+[^3]: [William Dembski](william-dembski.md), *[Älykkään suunnitelman idea](../pages/älykkään-suunnitelman-idea-kirja.md), Liite A.4, s. 195*
 [^4]: [Metodologiseen naturalismiin](../glossary/sanasto.md#metodologinen-naturalismi) on kohdistettu juuri tältä pohjalta [tieteenfilosofista kritiikkiä](http://www.arn.org/docs/meyer/sm_moreland.htm).
 [^5]: Iso Raamatun tietosanakirja (2.p., 1974), Laajennettu johdanto (Kirja Raamatusta), Kirjojen Kirja, Johannes Kepler''
 [^6]: Del Ratzsch, Nature, Design, and Science: the Status of Design in Natural Science, 2001, State University of New York Press.
