@@ -2,16 +2,16 @@
 type: article
 about: apologetics
 title: "Muut"
-description: "25 ApoWiki-artikkelia aihepiiristä muut — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
+description: "24 ApoWiki-artikkelia aihepiiristä muut — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, muut]
-timestamp: 2026-09-25T23:30:00Z
+timestamp: 2026-10-01T18:00:00Z
 ---
 
 # Muut
 
 Aihepiirin muut artikkelit, tuotu [ApoWikistä](https://apowiki.fi). Luettelo on koostettu artikkelien luokista, jotka ApoWikin toimittajat ovat valinneet; se on siis wikin oma jäsennys, ei tämän implantin tulkinta. Katso myös [aihepiirien luettelo](index.md).
 
-## Artikkelit (25)
+## Artikkelit (24)
 
 * [Apologetiikan apologia](../articles/apologetiikan-apologia.md) — Koska monet ovat ryhtyneet tekemään kertomusta meidän keskuudessamme tosiksi tunnetuista tapahtumista, sen mukaisesti kuin meille ovat kertoneet ne,….
 * [Apologetiikka](../articles/apologetiikka.md) — Apologetiikka on jonkin näkökulman, kristillisessä viitekehyksessä kristillisen uskon, rationaalista puolustamista.
@@ -32,7 +32,6 @@ Aihepiirin muut artikkelit, tuotu [ApoWikistä](https://apowiki.fi). Luettelo on
 * [Ristiretket](../articles/ristiretket.md) — Kristinusko johti historiansa alkuvaiheissa rakkauden yhteisöjen syntymiseen, joissa köyhistä ja vähäosaisista huolehdittiin.
 * [Rukoileminen](../articles/rukoileminen.md) — Rukoilu eli rukoileminen tarkoittaa uskonnoissa Jumalan tai jumalien, henkien ja muiden korkeampina pidettyjen voimien puoleen kääntymistä.
 * [The Two Babylons (kirja)](../articles/the-two-babylons-kirja.md) — The Two Babylons: The Papal Worship Proved to Be the Worship of Nimrod and His Wife on Alexander Hislopin (1807–1862) vuonna 1858 julkaisema teos,….
-* [Todisteet Jeesuksen homoseksuaalisuudesta](../articles/todisteet-jeesuksen-homoseksuaalisuudesta.md) — Sekä Raamatusta että perimätiedosta löytyy lukuisia viittauksia Jeesuksen homoseksuaalisuuteen.
 * [Umpilisäke](../articles/umpilisäke.md) — Ihmisen umpilisäke on tunnetuimpia esimerkkejä polveutumisopin todisteena pidetystä surkastumasta.
 * [Usko ja järki](../articles/usko-ja-järki.md) — Usko ja järki ovat kaksi asiaa, joille käsitykset todellisuudesta voivat perustua.
 * [Videot](../articles/videot.md) — __NOTOC__ The Case for Christ, Lee Strobelin dokumentti Jeesuksen olemassaolon ja ylösnousemuksen historiallisista todisteista.

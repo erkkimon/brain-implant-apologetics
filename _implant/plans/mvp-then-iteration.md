@@ -3,7 +3,7 @@ type: plan
 title: "MVP first, then daily iteration (apologetics)"
 description: "The apologetics half of the shared plan: convert ApoWiki's wikitext to Finnish markdown pages with parsed implant links, hang the book corpus on the shared book spine, compile with multilingual embeddings, and only then start cooldown-batched translation and improvement."
 tags: [plan, mvp, roadmap]
-timestamp: 2026-09-27T14:00:00Z
+timestamp: 2026-10-01T18:00:00Z
 ---
 
 # MVP first, then daily iteration (apologetics)
@@ -74,7 +74,7 @@ early.
 
 ## Which models translate
 
-Decided on 2026-09-27 ([journal](../journals/2026-09-27.md)): translation
+Decided on 2026-09-27 ([journal](../journals/archive/2026/09/2026-09-27.md)): translation
 runs on a small local model, and frontier tokens go only to review. The
 procedure and its reasoning are in
 [Translate an article](../skills/translate-an-article.md). In short:

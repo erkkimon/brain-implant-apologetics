@@ -10,7 +10,7 @@ ApoWikin luokista koostetut aihepiirisivut. Kukin listaa oman alansa artikkelit,
 * [Eksegetiikka](eksegetiikka.md) — 37 artikkelia.
 * [Raamattu](raamattu.md) — 36 artikkelia.
 * [Maailmankatsomus](maailmankatsomus.md) — 25 artikkelia.
-* [Muut](muut.md) — 25 artikkelia.
+* [Muut](muut.md) — 24 artikkelia.
 * [Evoluutioteoria](evoluutioteoria.md) — 23 artikkelia.
 * [Seksuaalietiikka](seksuaalietiikka.md) — 21 artikkelia.
 * [Jumala](jumala.md) — 20 artikkelia.

@@ -2,7 +2,7 @@
 type: skill
 title: Convert ApoWiki wikitext into implant articles
 description: Use when turning the ApoWiki export in raw/apowiki-export/ into searchable articles under knowledge/ — the deterministic, token-free conversion that produces the MVP, including wiki-link resolution, citation footnotes and the topic spine that grounds every page.
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T18:00:00Z
 depends_on: [skills/using-the-brain-implant.md]
 tools:
   - skills/tools/apowiki_convert.py
@@ -72,6 +72,11 @@ references linked to their book pages, zero ghosts.
 * **Red links are honest.** A wiki link whose target does not exist becomes
   plain text plus an HTML comment (`<!-- red link: Target -->`), so it is
   greppable and reported, never a path that merely looks plausible.
+* **Vandalism stays raw.** A page filed under `Luokka:Vandalismi` (one joke
+  page in revision 11402's corpus) is kept in `raw/apowiki-export/` as the
+  faithful record but is not converted, so it never reaches search or a topic
+  page. The report lists it under `skipped_vandalism`
+  ([journal](../journals/2026-10-01.md)).
 
 ## Gotchas that cost time once
 

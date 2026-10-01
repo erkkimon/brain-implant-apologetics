@@ -714,6 +714,10 @@ class Converter:
         return unicodedata.normalize("NFC", out)
 
 
+# Category slugs that mark a page as vandalism (see the skip in main()).
+VANDALISM_CATEGORIES = {"vandalismi", "vandalism"}
+
+
 def _revision_text(rev: dict) -> str:
     """Wikitext out of a MediaWiki revision record.
 
@@ -764,6 +768,7 @@ def main() -> int:
     out.mkdir(parents=True, exist_ok=True)
 
     written = 0
+    skipped_vandalism = []
     for title in sorted(titles):
         if title in redirects:
             continue
@@ -772,6 +777,13 @@ def main() -> int:
         ef = export / f"{stems[title]}.wiki"
         if ef.exists():
             wikitext = ef.read_text(encoding="utf-8", errors="replace")
+        # Pages the wiki itself files under a vandalism category are joke or
+        # defaced pages, not apologetics: the raw export keeps them (it is
+        # the faithful record), the distilled implant does not.
+        _, cats = conv.categories(wikitext)
+        if any(slug(c) in VANDALISM_CATEGORIES for c in cats):
+            skipped_vandalism.append(title)
+            continue
         md = conv.convert(title, wikitext, revid_of.get(title))
         (out / f"{stems[title]}.md").write_text(md, encoding="utf-8")
         written += 1
@@ -780,6 +792,7 @@ def main() -> int:
 
     report = {
         "articles_written": written,
+        "skipped_vandalism": skipped_vandalism,
         "redirects_resolved": len(redirects),
         "stats": dict(conv.stats),
         "red_links_total": sum(conv.red_links.values()),
@@ -796,6 +809,7 @@ def main() -> int:
 
     print(f"wrote {written} articles to {out}")
     print(f"redirects resolved: {len(redirects)}")
+    print(f"skipped as vandalism: {len(skipped_vandalism)}")
     print(f"internal links: {conv.stats['link_internal']}, "
           f"wikipedia: {conv.stats['link_wikipedia']}, "
           f"red: {conv.stats['link_red']} "

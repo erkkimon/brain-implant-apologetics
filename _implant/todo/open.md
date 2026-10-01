@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to be done — the implant's live work queue.
-timestamp: 2026-09-27T14:00:00Z
+timestamp: 2026-10-01T18:00:00Z
 ---
 
 # Open
@@ -20,7 +20,6 @@ Everything after the gate is token work, one themed batch per cooldown burst.
 Done 2026-09-25 — see [archive/2026-09-25.md](archive/2026-09-25.md). Left over:
 
 - [ ] Glossary links to terms the Sanasto page does not define (41 distinct, e.g. *usko*, *looginen*, *monoteismi*; listed under `missing_glossary_terms` in `_temp/convert-report.json`) land on the glossary page itself. Decide per term whether a Wikipedia link or a new glossary-style page serves better
-- [ ] Filter vandalism categories (e.g. `vandalismi`) out of the tags and topics
 
 ## Phase 2 — The book spine (machine time)
 
