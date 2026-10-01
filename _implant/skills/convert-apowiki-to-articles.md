@@ -2,7 +2,7 @@
 type: skill
 title: Convert ApoWiki wikitext into implant articles
 description: Use when turning the ApoWiki export in raw/apowiki-export/ into searchable articles under knowledge/ — the deterministic, token-free conversion that produces the MVP, including wiki-link resolution, citation footnotes and the topic spine that grounds every page.
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-01T21:30:00Z
 depends_on: [skills/using-the-brain-implant.md]
 tools:
   - skills/tools/apowiki_convert.py
@@ -89,6 +89,12 @@ references linked to their book pages, zero ghosts.
   *Michael Behe*, and the corpus's most-linked person read as a red link
   ([journal](../journals/2026-10-01.md)). Invisible marks (U+200E), a
   leading colon, underscores and `#section` are stripped first.
+* **A red link to a glossary term lands on the glossary.** When ApoWiki
+  never wrote an article on a term its own [Sanasto](../knowledge/glossary/sanasto.md)
+  defines (*perususkomus*, *äskettäisluomisnäkemys*), the label links to that
+  entry, in the wiki's own sense, and the red-link comment stays. This
+  comes before the Wikipedia fallback. 28 links, added 2026-10-01
+  ([journal](../journals/2026-10-01.md)).
 * **A red link to a subject Wikipedia covers links there and stays red.**
   `red-link-wikipedia.json` (written by `apowiki_redlinks.py`, then reviewed
   by hand) maps a target such as *Immanuel Kant* to its Finnish Wikipedia

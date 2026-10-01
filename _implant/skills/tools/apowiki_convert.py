@@ -384,6 +384,14 @@ class Converter:
             # the Finnish Wikipedia has a page on the subject (reviewed in
             # red-link-wikipedia.json, see apowiki_redlinks.py) the label links
             # there, and the comment stays: the page is still wanted here.
+            # ApoWiki's own glossary comes before Wikipedia: it defines the
+            # term in the sense the wiki uses it (perususkomus is Plantinga's
+            # properly basic belief there, not the Wikipedia article's).
+            g = glossary_anchor(target.replace("_", " ").strip())
+            if g in GLOSSARY_TERMS:
+                self.stats["link_red_to_glossary"] += 1
+                return (f"[{label}](../glossary/sanasto.md#{g}) "
+                        f"<!-- red link: {target} -->")
             wp = RED_LINK_WIKIPEDIA.get(target)
             if wp:
                 self.stats["link_red_to_wikipedia"] += 1
@@ -1029,7 +1037,8 @@ def main() -> int:
           f"wikipedia: {conv.stats['link_wikipedia']}, "
           f"red: {conv.stats['link_red']} "
           f"({len(conv.red_links)} distinct, "
-          f"{conv.stats['link_red_to_wikipedia']} to Wikipedia)")
+          f"{conv.stats['link_red_to_wikipedia']} to Wikipedia, "
+          f"{conv.stats['link_red_to_glossary']} to the glossary)")
     print(f"footnotes: {conv.stats['refs']}")
     if conv.unknown_templates:
         print(f"unknown templates (kept visible): "

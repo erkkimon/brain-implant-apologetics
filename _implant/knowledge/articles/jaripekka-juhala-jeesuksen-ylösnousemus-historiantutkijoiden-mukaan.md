@@ -4,7 +4,7 @@ about: apologetics
 title: "Jaripekka Juhala: Jeesuksen ylösnousemus historiantutkijoiden mukaan"
 description: "__NOTOC__ Jeesuksen ylösnousemuksen varassa kristinusko joko seisoo tai kaatuu."
 tags: [apowiki, jeesus, ihmeet, historia, lukusuositukset]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-01T21:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jaripekka Juhala: Jeesuksen ylösnousemus historiantutkijoiden mukaan".
@@ -24,7 +24,7 @@ __NOTOC__
 
 Antiikin historia on kuitenkin väitettyjä ihmeitä täynnä, eikä historiantutkimus voi kumartaa toiveita jättää jotkut tietyt niistä rauhaan. Koska koko kristinusko alkoi siitä, kun opetuslapset julistivat Jeesuksen nousseen kuolleista, aihe on myös vääjäämättä tärkeä osa varhaisen kristinuskon historiaa. [Kristinuskon historiaa](https://fi.wikipedia.org/wiki/Kristinuskon_historia) <!-- red link: Kristinuskon historia --> ei voi tutkia tutkimatta myös opetuslasten ylösnousemusväitettä. Tietenkin ihmeväitteiden tutkiminen on aina tieteessä ongelmallista ja nostaa monia tieteenfilosofisia kysymyksiä. Voiko tutkimus edes periaatteessa päätyä vahvistamaan jonkin ihmeen aidoksi?
 
-**Tieteellisen raamatuntutkimuksen** voi itse asiassa katsoa alkaneen juuri opetuslasten ylösnousemusväitteen tutkimuksesta. Vuonna 1778 julkaistiin edesmenneen [deistin](https://fi.wikipedia.org/wiki/Deismi) <!-- red link: deismi --> Hermann Samuel Reimaruksen essee, jossa kirjoittaja päätteli opetuslasten varastaneen Jeesuksen ruumiin turvatakseen taloudellisen ja yhteiskunnallisen asemansa.[^2]
+**Tieteellisen raamatuntutkimuksen** voi itse asiassa katsoa alkaneen juuri opetuslasten ylösnousemusväitteen tutkimuksesta. Vuonna 1778 julkaistiin edesmenneen [deistin](../glossary/sanasto.md#deismi) <!-- red link: deismi --> Hermann Samuel Reimaruksen essee, jossa kirjoittaja päätteli opetuslasten varastaneen Jeesuksen ruumiin turvatakseen taloudellisen ja yhteiskunnallisen asemansa.[^2]
 
 > right
 >

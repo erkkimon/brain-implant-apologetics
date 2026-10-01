@@ -4,7 +4,7 @@ about: apologetics
 title: "Tiede"
 description: "Tiede tarkoittaa todellisuuden ilmiöiden ja niiden välisten suhteiden järjestelmällistä ja arvostelevaa tutkimista sekä sen avulla saatua tietojen jäsentynyttä kokonaisuutta."
 tags: [apowiki, tieteenfilosofia]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-01T21:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tiede".
@@ -91,7 +91,7 @@ On mahdollista erottaa käsitteellisesti toisistaan **perimmäiset syyt** ja **v
 
 #### Kysymys tieteen pelisäännöistä
 
-Naturalistisen näkemyksen mukaanhan mitään tieteellisen tutkimuksen yläpuolisia perimmäisiä syitä ei ole olemassakaan, vaan kaikki on perimmältäänkin silkkaa ohjaamattoman, tarkoituksettoman sattuman ja itsestään syntyneen, niinikään tarkoituksettoman luonnonlakivälttämättömyyden varaista tapahtumavirtaa. Tämän näkemyksen mukaan tämä todellisuuden perimmäinen luonne siis "tiedetään" jo ennen ja ilman mitään varsinaista tieteellistä tutkimusta, joten muunlainen tutkimus olisi joka tapauksessa "tieteen voimavarojen haaskausta huuhaa-tutkimukseen", joka siksi yleisen edun nimissä olisi kiellettävä.  Jos siis Jumala ei missään vaiheessa ole sallittu selitys, kaiken selittämiseen pyrkivä tiede johtaa ateismiin pelkän määritelmän avulla – ja naturalistien rukkaamiin "tieteen pelisääntöihin" mukautuneet teistiset tutkijat ovat ymmärtämättömyyttään osallisina tässä tragediassa. Naturalistinen näkemys on näet teistisen katsomuksen tavoin perimmältään uskonvarainen tai uskonnollinen – sen [perususkomukset](https://fi.wikipedia.org/wiki/Perususkomus) <!-- red link: perususkomus --> vain ovat erilaiset. Sitä paitsi naturalismin ja siitä loogisesti seuraavan evolutionismin muodostama kokonaisuus johtaa siihen, ettei ihmisellä voi perustellusti väittää olevan kykyä luotettavan tiedon saamiseen, jolloin koko tieteen ideakin [perustavalla tavalla kyseenalaistuu](evolutiivinen-argumentti-naturalismia-vastaan.md).
+Naturalistisen näkemyksen mukaanhan mitään tieteellisen tutkimuksen yläpuolisia perimmäisiä syitä ei ole olemassakaan, vaan kaikki on perimmältäänkin silkkaa ohjaamattoman, tarkoituksettoman sattuman ja itsestään syntyneen, niinikään tarkoituksettoman luonnonlakivälttämättömyyden varaista tapahtumavirtaa. Tämän näkemyksen mukaan tämä todellisuuden perimmäinen luonne siis "tiedetään" jo ennen ja ilman mitään varsinaista tieteellistä tutkimusta, joten muunlainen tutkimus olisi joka tapauksessa "tieteen voimavarojen haaskausta huuhaa-tutkimukseen", joka siksi yleisen edun nimissä olisi kiellettävä.  Jos siis Jumala ei missään vaiheessa ole sallittu selitys, kaiken selittämiseen pyrkivä tiede johtaa ateismiin pelkän määritelmän avulla – ja naturalistien rukkaamiin "tieteen pelisääntöihin" mukautuneet teistiset tutkijat ovat ymmärtämättömyyttään osallisina tässä tragediassa. Naturalistinen näkemys on näet teistisen katsomuksen tavoin perimmältään uskonvarainen tai uskonnollinen – sen [perususkomukset](../glossary/sanasto.md#perususkomus) <!-- red link: perususkomus --> vain ovat erilaiset. Sitä paitsi naturalismin ja siitä loogisesti seuraavan evolutionismin muodostama kokonaisuus johtaa siihen, ettei ihmisellä voi perustellusti väittää olevan kykyä luotettavan tiedon saamiseen, jolloin koko tieteen ideakin [perustavalla tavalla kyseenalaistuu](evolutiivinen-argumentti-naturalismia-vastaan.md).
 
 ##### Vaihtoehtoisia pelisäännöstöjä
 
@@ -166,7 +166,7 @@ Asian ydin on siis siinä, että metodologinen naturalismi on käynyt aivan liia
 
 [^1]: *Kielitoimiston sanakirja*, Kotimaisten kielten tutkimuskeskuksen julkaisuja 132. Internet-versio MOT Kielitoimiston sanakirja 1.0, Helsinki: Kotimaisten kielten tutkimuskeskus ja Kielikone Oy, 2004, ISBN 952-5446-11-5
 [^2]: [Tapio Puolimatka](tapio-puolimatka.md), *[Usko, tieto ja myytit](usko-tieto-ja-myytit-kirja.md), takakansi*
-[^3]: [William Dembski](william-dembski.md), *Älykkään suunnitelman idea <!-- red link: Älykkään suunnitelman idea -->, Liite A.4, s. 195*
+[^3]: [William Dembski](william-dembski.md), *[Älykkään suunnitelman idea](../glossary/sanasto.md#älykkään-suunnitelman-idea) <!-- red link: Älykkään suunnitelman idea -->, Liite A.4, s. 195*
 [^4]: [Metodologiseen naturalismiin](../glossary/sanasto.md#metodologinen-naturalismi) on kohdistettu juuri tältä pohjalta [tieteenfilosofista kritiikkiä](http://www.arn.org/docs/meyer/sm_moreland.htm).
 [^5]: Iso Raamatun tietosanakirja (2.p., 1974), Laajennettu johdanto (Kirja Raamatusta), Kirjojen Kirja, Johannes Kepler''
 [^6]: Del Ratzsch, Nature, Design, and Science: the Status of Design in Natural Science, 2001, State University of New York Press.

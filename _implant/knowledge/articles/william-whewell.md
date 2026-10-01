@@ -4,7 +4,7 @@ about: apologetics
 title: "William Whewell"
 description: "William Whewell (1794-1866) oli eräs modernin tieteenfilosofian ja -historian tärkeimmistä pioneereista."
 tags: [apowiki, henkilöt, filosofia]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-01T21:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "William Whewell".
@@ -22,7 +22,7 @@ William Whewell (1794-1866) oli eräs modernin tieteenfilosofian ja -historian t
 
 ### Whewellin kritiikki Comtea vastaan
 
-[Positivismin](https://fi.wikipedia.org/wiki/Positivismi) <!-- red link: Positivismi --> oppi-isä [Auguste Comte](auguste-comte.md) (1798–1857) hahmotteli ihmiskunnan älyllisen kehityksen etenevän kolmen kehitysvaiheen kautta, jotka ovat teologinen, metafyysinen ja positivistis-tieteellinen. Teologisessa vaiheessa ihmiset uskovat Jumalaan tai jumaliin ja hahmottavat maailmaa jumaluskon näkökulmasta. Metafyysisessä vaiheessa he tekevät laaja-alaisia oletuksia maailmankaikkeudesta ja kuvittelevat jonkin kokonaisvaltaisen idean avaavan olennaisen todellisuudesta. Positivistis-tieteellisessä vaiheessa ihmiset perustavat käsityksensä havaintoihin ja havaintojen avulla testattuihin teorioihin.
+[Positivismin](../glossary/sanasto.md#positivismi) <!-- red link: Positivismi --> oppi-isä [Auguste Comte](auguste-comte.md) (1798–1857) hahmotteli ihmiskunnan älyllisen kehityksen etenevän kolmen kehitysvaiheen kautta, jotka ovat teologinen, metafyysinen ja positivistis-tieteellinen. Teologisessa vaiheessa ihmiset uskovat Jumalaan tai jumaliin ja hahmottavat maailmaa jumaluskon näkökulmasta. Metafyysisessä vaiheessa he tekevät laaja-alaisia oletuksia maailmankaikkeudesta ja kuvittelevat jonkin kokonaisvaltaisen idean avaavan olennaisen todellisuudesta. Positivistis-tieteellisessä vaiheessa ihmiset perustavat käsityksensä havaintoihin ja havaintojen avulla testattuihin teorioihin.
 
 Comten aikalainen Whewell osoitti yksityiskohtaisesti Comten näkemysten olevan ristiriidassa sekä tieteen historian tosiasioiden että tieteenfilosofisen analyysin kanssa: ”Comten tapa järjestää tieteen kehitys toisiaan seuraaviin metafyysiseen ja positiiviseen vaiheeseen, on vastoin historian tosiasioita ja vastakkainen terveelle filosofialle.”[^1]Whewellin oli helppo osoittaa filosofisesti, että laaja-alaisten hypoteesien sulkeminen tieteen ulkopuolelle tekisi tieteen kehityksen mahdottomaksi. Historiallisen tutkimuksen alueella Whewell oli, jos mahdollista vieläkin ylivertaisempi Comteen nähden. Yksi aikamme johtavista tieteen historioitsijoista, H. Floris Cohen, analysoi tätä keskustelua:
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Aitouskriteerit"
 description: "Historiallis-kriittisen tutkimuksen periaatteiden ymmärtäminen on välttämätöntä mielekkäälle Uuden testamentin historiallisuuden pohtimiselle."
 tags: [apowiki, historia, tieteenfilosofia]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-01T21:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Aitouskriteerit".
@@ -28,7 +28,7 @@ Aidon ja epäaidon erottamiseksi on kehitelty lukuisia aitouskriteerejä, joiden
 
 Syreeni määrittelee *moninkertaisen todistuksen kriteerin* siten, että "aitouden todennäköisyys kasvaa, kun sama lauselma esiintyy useissa toisistaan riippumattomissa lähteissä".[^3] Tähän liittyy läheisesti brittiläisen muotokriitikko C. H. Doddin korostama *moninkertaisen muodon kriteeri*. Jos esimerkiksi jokin Jeesuksen opetuksen teema esiintyy erilaisissa [traditionmuodoissa](https://fi.wikipedia.org/wiki/Perinne), sitä on syytä pitää aitona ja alkuperäisenä. Esimerkiksi Jumalan valtakunta esiintyy teemana hyvin erilaisissa traditioissa ja tekstikatkelmissa. Tämän vuoksi on loogista olettaa, että teema juontaa juurensa Jeesukselta itseltään. Samalla tavoin Jeesuksen [eksorkistinen](../glossary/sanasto.md#eksorkismi) toiminta ja ihmeet näkyvät monissa lähteissä ja monenlaisissa muodoissa.
 
-Usein nämä lähteet erotellaan kaksilähde-teorian <!-- red link: kaksilähde-teoria --> tai sitä lähellä olevan nelilähde-teorian <!-- red link: nelilähde-teoria --> puitteissa. Melko merkittävä konsensus pitää Markusta ensimmäisenä evankeliumina, josta Matteus ja Luukas kokosivat omat evankeliuminsa. Markuksen lisäksi Matteus ja Luukas oletetaan käyttäneen apunaan [Q-lähdettä](https://fi.wikipedia.org/wiki/Q-lähde) <!-- red link: Q-lähde -->, jonka tarkasta luonteesta keskustellaan ja kiistellään jatkuvasti.[^4] Nelilähde-teoria lisää tähän vielä erillisen M-lähteen (Matteuksen erityinen lähde) ja L-lähteen (Luukkaan erityinen lähde). Johanneksen evankeliumia pidetään omana lähteenään kuten myös Paavalin kirjeitä. Viime aikoina myös Tuomaan evankeliumia ja Pietarin evankeliumia[^5] on pyritty nostamaan tärkeäksi lähteeksi historiallista Jeesusta tutkittaessa.
+Usein nämä lähteet erotellaan kaksilähde-teorian <!-- red link: kaksilähde-teoria --> tai sitä lähellä olevan nelilähde-teorian <!-- red link: nelilähde-teoria --> puitteissa. Melko merkittävä konsensus pitää Markusta ensimmäisenä evankeliumina, josta Matteus ja Luukas kokosivat omat evankeliuminsa. Markuksen lisäksi Matteus ja Luukas oletetaan käyttäneen apunaan [Q-lähdettä](../glossary/sanasto.md#q-lähde) <!-- red link: Q-lähde -->, jonka tarkasta luonteesta keskustellaan ja kiistellään jatkuvasti.[^4] Nelilähde-teoria lisää tähän vielä erillisen M-lähteen (Matteuksen erityinen lähde) ja L-lähteen (Luukkaan erityinen lähde). Johanneksen evankeliumia pidetään omana lähteenään kuten myös Paavalin kirjeitä. Viime aikoina myös Tuomaan evankeliumia ja Pietarin evankeliumia[^5] on pyritty nostamaan tärkeäksi lähteeksi historiallista Jeesusta tutkittaessa.
 
 Lähteiden keskinäinen suhde ei kuitenkaan ole yksinkertainen. Kaksi eri traditiota voi periaatteessa juontua samastakin lähteestä, vaikka matkalla ne olisivat olennaisesti muuttuneet. Tosin esimerkiksi ylösnousemuskertomuksissa on siinä määrin eroa, että niiden juontaminen yhdestä ja samasta traditiosta ei ole kovin todennäköistä. On myös huomautettu, että samankaltaiset sosiologiset tilanteet voivat synnyttää samantapaisia ”keksintöjä”.[^6]
 

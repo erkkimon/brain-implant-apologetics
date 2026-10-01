@@ -4,7 +4,7 @@ about: apologetics
 title: "Apologetiikka"
 description: "Apologetiikka on jonkin näkökulman, kristillisessä viitekehyksessä kristillisen uskon, rationaalista puolustamista."
 tags: [apowiki, yleistä-tietoa, apologetiikka, apologeetta, apologisti, apologi, apoloogikko, apologetiikan-historia, negatiivinen-apologetiikka, positiivinen-apologetiikka]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-01T21:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Apologetiikka".
@@ -46,7 +46,7 @@ Varhaisia apologeettoja olivat muiden muassa pakanoita vastustaneet Kordatos, Ar
 
 Joskus kuulee väitettävän, että uskoa ei tarvitse tai edes saa perustella järjellisesti. Väite on kuitenkin täysin järjetön. Jos uskolla ei olisi järjellisiä perusteita, kuka tahansa voisi pitää uskoa Marsissa asuviin jalkapallokuoriaisiin tai sohvan takana asuvaan näkymättömään lohikäärmeeseen ihan yhtä mielekkäänä kuin uskoa Jumalaankin. Tai jos uskolle ei tarvittaisi järjellisiä perusteita, yhdelläkään hindulla ei olisi mitään syytä kääntyä kristityksi. Järjellinen syy uskoa on tae sille, että uskomme todennäköisemmin totuuteen. Valheeseen ei kannata uskoa.
 
-Historia osoittaa, että useat ateistit ovat kääntyneet kristityiksi alettuaan epäillä omia olettamuksiaan, sekä tutustuttuaan kristinuskon perusteluihin. Esimerkiksi [C. S. Lewis](c-s-lewis-v2.md), [Alister McGrath](alister-mcgrath.md), ja [Lee Strobel](lee-strobel.md) olivat vakaumuksellisia ateisteja, joiden kääntyminen kristityksi tapahtui suurelta osin älyllisten perusteluiden myötävaikutuksesta. Lisäksi viime vuosisadan tunnetuin ateisti [Antony Flew](antony-flew.md) kääntyi [deistiksi](https://fi.wikipedia.org/wiki/Deismi) <!-- red link: Deismi --> älyllisten argumenttien takia.[^15]
+Historia osoittaa, että useat ateistit ovat kääntyneet kristityiksi alettuaan epäillä omia olettamuksiaan, sekä tutustuttuaan kristinuskon perusteluihin. Esimerkiksi [C. S. Lewis](c-s-lewis-v2.md), [Alister McGrath](alister-mcgrath.md), ja [Lee Strobel](lee-strobel.md) olivat vakaumuksellisia ateisteja, joiden kääntyminen kristityksi tapahtui suurelta osin älyllisten perusteluiden myötävaikutuksesta. Lisäksi viime vuosisadan tunnetuin ateisti [Antony Flew](antony-flew.md) kääntyi [deistiksi](../glossary/sanasto.md#deismi) <!-- red link: Deismi --> älyllisten argumenttien takia.[^15]
 
 Erilaiset [uskonkriisit](https://fi.wikipedia.org/wiki/Uskonkriisi) <!-- red link: uskonkriisi --> voivat aiheuttaa uskosta luopumista. Uskonkriisin voi aiheuttaa vaikkapa vakuuttuminen siitä, ettei Jumalaa ole olemassa – tavalla tai toisella. 2000-luvulla länsimainen ajan henki on sellainen, että ihmiset alkavat vaatia kaikelle todisteita. Hetki hetkeltä kristitty toisensa jälkeen luopuu uskostaan järkiperustein. Järjellisin perustein ei pelkästään luovuta uskosta; ihmiset myös jättävät tulematta uskoon järjellisin perustein.
 
