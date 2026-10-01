@@ -4,7 +4,7 @@ about: apologetics
 title: "Huuhaa-palkinto 2008"
 description: "Kuva: Vuoden 2008 Huuhaa-palkinto Skepsis ry antoi vuoden 2008 Huuhaa-palkintonsa Kustannus Oy Uudelle Tielle kasvatustieteen professori Tapio Puolimatkan Usko, tiede ja Raamattu sekä Usko, tiede ja evoluutio -kirjojen julkaisemisesta."
 tags: [apowiki, tapio-puolimatka, media, lukusuositukset]
-timestamp: 2026-10-01T19:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Huuhaa-palkinto 2008".
@@ -53,7 +53,7 @@ Perustelut vaikuttavat olevan sikäli ongelmallisia, että ne rikkovat Skepsikse
 
 > *1) [Henkilöä vastaan hyökkääminen](argumentum-ad-hominem.md) – Hyökätään väitteen esittäjää eikä itse väitettä vastaan.*
 
-> *2) *"Straw man"* eli olkinukke <!-- red link: olkinukke --> – Ohitetaan vastustettava väite tekemällä siitä [karikatyyri](https://fi.wikipedia.org/wiki/Karikatyyri), olkinukke.*
+> *2) *"Straw man"* eli [olkinukke](https://fi.wikipedia.org/wiki/Olkinukke) <!-- red link: olkinukke --> – Ohitetaan vastustettava väite tekemällä siitä [karikatyyri](https://fi.wikipedia.org/wiki/Karikatyyri), olkinukke.*
 > *Sitä vastaan hyökkäämällä ja naurettavaksi tekemällä pyritään mitätöimään vastustajan väite.*
 
 "Huuhaa-palkinnon" perusteluissa Skepsis aloittaa
@@ -74,7 +74,7 @@ Skepsiksen hallitus jatkaa:
 
 > Tämä päämäärä naamioidaan huolellisesti puheeseen ”kriittisestä avoimuudesta” kouluopetuksessa. Tällainen argumentointi kuulostaa paljon paremmalta kuin vaatimus, että lapsille tulisi tieteen hyvin perusteltujen teorioiden vaihtoehtona opettaa: ”Jumala sen teki”.
 
-Skepsis ry siis uskoo professori Puolimatkan olevan ovela pettäjä, joka ”naamioi” kantansa kriittiseen avoimuuteen. Mutta entä jos Puolimatka todella on peräämässä kriittistä avoimuutta? Puolimatka on ammattifilosofina analysoinut kirjoissaan tieteellisen tutkimuksen peruslähtökohtia yli tuhannen sivun verran. Hän perustaa argumenttinsa kansainvälisesti tunnettujen filosofien kuten [**Charles Taylor**in](charles-taylor.md), **Alvin Plantinga**n <!-- red link: :Alvin Plantinga --> ja [**William Alston**in](william-alston.md) ja tieteenhistorioitsijoiden kuten [**H. Floris Cohen**in](http://en.wikipedia.org/wiki/H._Floris_Cohen), [**Peter Harrison**in](http://en.wikipedia.org/wiki/Peter_Harrison_(historian)) ja [**Margaret Osler**in](http://en.wikipedia.org/wiki/Margaret_J._Osler) tutkimuksille. Ehkä tämä avoimuus on liian kipeää Skepsikselle. Puolimatkan kirjat edustavat paljon syvällisempää analyysiä tieteen olemuksesta kuin perustelematon toteamus *"Jumala sen teki."* Puolimatka toki kannattaa sitä, että kukin tutkija saa tehdä tutkimustaan avoimesti omista maailmankatsomuksellisista lähtökohdistaan käsin, koska tiede (parhaimmillaan) etsii totuutta. Ilmeisesti Skepsis haluaa sulkea tieteeltä tämän mahdollisuuden omien naturalistis-uskonnollisten sitoumustensa perusteella?
+Skepsis ry siis uskoo professori Puolimatkan olevan ovela pettäjä, joka ”naamioi” kantansa kriittiseen avoimuuteen. Mutta entä jos Puolimatka todella on peräämässä kriittistä avoimuutta? Puolimatka on ammattifilosofina analysoinut kirjoissaan tieteellisen tutkimuksen peruslähtökohtia yli tuhannen sivun verran. Hän perustaa argumenttinsa kansainvälisesti tunnettujen filosofien kuten [**Charles Taylor**in](charles-taylor.md), [**Alvin Plantinga**n](alvin-plantinga.md) ja [**William Alston**in](william-alston.md) ja tieteenhistorioitsijoiden kuten [**H. Floris Cohen**in](http://en.wikipedia.org/wiki/H._Floris_Cohen), [**Peter Harrison**in](http://en.wikipedia.org/wiki/Peter_Harrison_(historian)) ja [**Margaret Osler**in](http://en.wikipedia.org/wiki/Margaret_J._Osler) tutkimuksille. Ehkä tämä avoimuus on liian kipeää Skepsikselle. Puolimatkan kirjat edustavat paljon syvällisempää analyysiä tieteen olemuksesta kuin perustelematon toteamus *"Jumala sen teki."* Puolimatka toki kannattaa sitä, että kukin tutkija saa tehdä tutkimustaan avoimesti omista maailmankatsomuksellisista lähtökohdistaan käsin, koska tiede (parhaimmillaan) etsii totuutta. Ilmeisesti Skepsis haluaa sulkea tieteeltä tämän mahdollisuuden omien naturalistis-uskonnollisten sitoumustensa perusteella?
 
 Perustelujensa lyhykäisyydestä huolimatta Skepsis onnistuu siis rikkomaan myös listansa kohtaa 5.
 

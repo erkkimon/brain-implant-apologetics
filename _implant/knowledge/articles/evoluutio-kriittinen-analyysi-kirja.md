@@ -4,7 +4,7 @@ about: apologetics
 title: "Evoluutio – kriittinen analyysi (kirja)"
 description: "Evoluutio – kriittinen analyysi on Siegfried Schererin ja Reinhard Junkerin kirjoittama kirja, joka arvostelee naturalistista) ja makroevolutiivista maailmankuvaa."
 tags: [apowiki, kirjat, evoluutioteoria]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Evoluutio – kriittinen analyysi (kirja)".
@@ -64,7 +64,7 @@ Kirjan viimeisessä osassa pohditaan luontoa älykkään suunnittelun näkökulm
 
 Suomeksi toimittanut:
 
-* Professori Matti Leisola <!-- red link: Matti Leisola -->, [biokemia](https://fi.wikipedia.org/wiki/biokemia), [Espoo](https://fi.wikipedia.org/wiki/Espoo)
+* Professori [Matti Leisola](matti-leisola.md), [biokemia](https://fi.wikipedia.org/wiki/biokemia), [Espoo](https://fi.wikipedia.org/wiki/Espoo)
 
 Avustajina:
 

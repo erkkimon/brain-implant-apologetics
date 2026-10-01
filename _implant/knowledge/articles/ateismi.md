@@ -4,7 +4,7 @@ about: apologetics
 title: "Ateismi"
 description: "Ateismi tarkoittaa maailmankatsomusta josta puuttuu jumalusko, tai uskonvaraista käsitystä, jonka mukaan Jumalaa tai jumalia ei ole olemassa."
 tags: [apowiki, ateismi]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ateismi".
@@ -73,7 +73,7 @@ Kristillisen apologetiikan näkökulmasta ei ole perusteltua pitää totena edes
 
 *Pääartikkeli: [Ihme](ihme.md)*
 
-Useiden ateistien ateismi ei ole osoitettavissa vääräksi koska he eivät pidä ateisminsa vastaisia todisteita luotettavina. Ateistit esittävät usein [ihmeitä](ihme.md) vastaan virheellisen David Humen <!-- red link: David Hume --> argumentin, jonka mukaan ihmeisiin ei ole järkevää uskoa, koska ne ovat erittäin harvinaisia (esimerkiksi :"erityiset väitteet vaativat erityisiä perusteluja"). Luotettavinkin historiallinen evidenssi voidaan kyseenalaistaa jollain tapaa ja suorat havainnot, kokemukset ja fyysinen todistusaineisto voidaan aina kuitata erehdyksiksi tai huijaukseksi.
+Useiden ateistien ateismi ei ole osoitettavissa vääräksi koska he eivät pidä ateisminsa vastaisia todisteita luotettavina. Ateistit esittävät usein [ihmeitä](ihme.md) vastaan virheellisen [David Humen](https://fi.wikipedia.org/wiki/David_Hume) <!-- red link: David Hume --> argumentin, jonka mukaan ihmeisiin ei ole järkevää uskoa, koska ne ovat erittäin harvinaisia (esimerkiksi :"erityiset väitteet vaativat erityisiä perusteluja"). Luotettavinkin historiallinen evidenssi voidaan kyseenalaistaa jollain tapaa ja suorat havainnot, kokemukset ja fyysinen todistusaineisto voidaan aina kuitata erehdyksiksi tai huijaukseksi.
 
 On tietysti totta, kuten David Hume on sanonut, että "Mikään todistus ei riitä osoittamaan ihmettä todeksi, ellei todistuksen epätotuus olisi vielä suurempi ihme, kuin se seikka, jonka se yrittää todistaa." Tämä pätee minkä tahansa väitteen suhteen: todistusaineisto ei voi osoittaa väitettä todeksi, ellei väitteen vastakohdan totuus olisi todistusaineiston huomioon ottaen vieläkin epätodennäköisempää. Tämä ei kuitenkaan auta osoittamaan ihmeestä, kuten [Jeesuksen ylösnousemuksesta](jeesuksen-ylösnousemus.md), kertovia todisteita huonoiksi, ellei ihmeen oleteta olevan jo lähtökohtaisesti mielivaltaisen epätodennäköinen. Mutta juuri tämähän argumentin piti todistaa!
 
@@ -172,7 +172,7 @@ Samoista syistä ateismi näyttää johtavan kommunismissa myös keskustelun raj
 [^4]: Austin Cline,, [Strong Atheism vs. Weak Atheism](http://atheism.about.com/od/atheismquestions/a/strong_weak.htm), about.com
 [^5]: ”Humanism”, teoksessa Ted Honderich (Editor), *The Oxford Companion to Philosophy*, Oxford: Oxford University Press, 1995, s. 376, ISBN 0-19-866132-0
 [^6]: Evan Fales: ”Naturalism and Physicalism”, teoksessa Michael Martin (Editor), *Cambridge Companion to Atheism*, Cambridge Companions to Philosophy, New York: Cambridge University Press, 2007, s. 122–131, ISBN 0-521-60367-6
-[^7]: Julian Baggini, *Ateismi: Lyhyt johdanto <!-- red link: Ateismi: Lyhyt johdanto -->*, (Atheism: A very short introduction, 2003.) Suomentaneet Erkki Hartikainen, Suvi Laukkanen ja Paula Vasama, Kustannus Oy Vapaa Ajattelija, 2005, ISBN 951-98702-1-0
+[^7]: Julian Baggini, *[Ateismi: Lyhyt johdanto](https://fi.wikipedia.org/wiki/Ateismi:_Lyhyt_johdanto) <!-- red link: Ateismi: Lyhyt johdanto -->*, (Atheism: A very short introduction, 2003.) Suomentaneet Erkki Hartikainen, Suvi Laukkanen ja Paula Vasama, Kustannus Oy Vapaa Ajattelija, 2005, ISBN 951-98702-1-0
 [^8]: Giuseppe Tanzella-Nitti, Philip Larrey and Alberto Strumìa, [Atheism](http://inters.org/atheism), Interdisciplinary Encyclopedia of Religion and Science
 [^9]: Mikäli ateisti väittää muuta, häneltä on hyvä kysyä, mikä nimenomainen tieteen tutkimustulos todistaa Jumalan olemassaolemattomaksi.
 [^10]: Näin esimerkiksi [Antony Flew](antony-flew.md): God and Philosophy, 1966.

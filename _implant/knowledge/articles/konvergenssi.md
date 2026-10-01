@@ -4,7 +4,7 @@ about: apologetics
 title: "Konvergenssi"
 description: "Konvergenssilla tarkoitetaan rakenteellista samankaltaisuutta, joka selittyy rakenteen samanlaisella toiminnalla tilanteessa, jossa eliöiden oletetulla yhteisellä kantamuodolla ei ole ollut kyseistä rakennetta."
 tags: [apowiki, evoluutioteoria, suunnitteluteoria]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Konvergenssi".
@@ -31,7 +31,7 @@ Konvergenssien kanssa tulee kuitenkin ongelmia heti jos kyseessä on vähänkin 
 
 #### Konvergenssit ja homologiat
 
-Konvergenttisen evoluution mahdollisuus tekee myös evoluutioteoriaan pohjautuvan taksonomian erittäin haastavaksi, kun ei voi olla varma siitä, onko yhteinen piirre merkki sukulaissuhteesta, vai onko kyseessä konvergenssi. Joissain tapauksissa konvergenssit ovat niin samanlaisia etteivät biologit osaa päätellä onko kyseessä homologia <!-- red link: homologia --> vai konvergenssi, ennen kuin tarkastellaan eliöiden muita tuntomerkkejä. Homologiassahan on kyse yhteisen polveutumisen takia saadusta yhteisestä rakenteesta. Homologia-argumentin mukaan jo yhteisellä kantamuodolla olisi ollut kyseinen rakenne, eikä sen olisi siis tarvinut kehittyä molemmille eliöille erikseen. Eri lajeilla havaittavat samanlaiset rakenteet on sitten tulkittu todisteeksi yhteisestä polveutumisesta. Tapauskohtaisesti täytyy kuitenkin "tietää" lajien välinen evolutiivinen yhteys ennen kuin voi tietää onko kyseessä homologia vai konvergenssi. Konvergenttisen evoluution mahdollisuus syö siis erityisesti pohjan koko homologia-argumentilta.
+Konvergenttisen evoluution mahdollisuus tekee myös evoluutioteoriaan pohjautuvan taksonomian erittäin haastavaksi, kun ei voi olla varma siitä, onko yhteinen piirre merkki sukulaissuhteesta, vai onko kyseessä konvergenssi. Joissain tapauksissa konvergenssit ovat niin samanlaisia etteivät biologit osaa päätellä onko kyseessä [homologia](https://fi.wikipedia.org/wiki/Homologia) <!-- red link: homologia --> vai konvergenssi, ennen kuin tarkastellaan eliöiden muita tuntomerkkejä. Homologiassahan on kyse yhteisen polveutumisen takia saadusta yhteisestä rakenteesta. Homologia-argumentin mukaan jo yhteisellä kantamuodolla olisi ollut kyseinen rakenne, eikä sen olisi siis tarvinut kehittyä molemmille eliöille erikseen. Eri lajeilla havaittavat samanlaiset rakenteet on sitten tulkittu todisteeksi yhteisestä polveutumisesta. Tapauskohtaisesti täytyy kuitenkin "tietää" lajien välinen evolutiivinen yhteys ennen kuin voi tietää onko kyseessä homologia vai konvergenssi. Konvergenttisen evoluution mahdollisuus syö siis erityisesti pohjan koko homologia-argumentilta.
 
 ### Katso myös
 #### ApologetiikkaWiki

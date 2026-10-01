@@ -4,7 +4,7 @@ about: apologetics
 title: "Peliteoria apologeettisesta näkökulmasta"
 description: "Peliteoria on matematiikan osa-alue, joka tarkastelee agenttien valintojen probabilistista optimaalisuutta."
 tags: [apowiki, filosofia]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Peliteoria apologeettisesta näkökulmasta".
@@ -45,7 +45,7 @@ Peliteoriat voidaan esittää erilaisina kaavioina. Peli koostuu agenttien jouko
 
 #### Matriisi
 
-Peliä, jossa agentit tekevät valintansa yhtäaikaisesti tai jossa agentit eivät tiedä toistensa valinnoista tai jossa agenttien valinnat eivät vaikuta toistensa valintoihin, kuvataan matriisilla <!-- red link: matriisi -->. Matriisi esittää agentit, strategiat sekä pelaajien valinnoillaan saavuttamat hyödyt (esimerkki oikeassa reunassa). Esimerkin matriisissa on kaksi pelaajaa, joista toinen valitsee rivin ja toinen sarakkeen. Molemmilla pelaajilla on kaksi strategiaa, joita edustaa rivien sekä sarakkeiden lukumäärä. Pelaajien hyödyt on kuvattu matriisin soluissa, joissa ensin oleva luku kuvaa A-pelaajan hyötyä ja toinen luku B-pelaajan. Jos A-pelaaja valitsee ylös-vaihtoehdon ja B-pelaaja vasen-vaihtoehdon, niin A-pelaajan saaman hyödyn määrä on 4 ja B-pelaajan 3.
+Peliä, jossa agentit tekevät valintansa yhtäaikaisesti tai jossa agentit eivät tiedä toistensa valinnoista tai jossa agenttien valinnat eivät vaikuta toistensa valintoihin, kuvataan [matriisilla](https://fi.wikipedia.org/wiki/Matriisi) <!-- red link: matriisi -->. Matriisi esittää agentit, strategiat sekä pelaajien valinnoillaan saavuttamat hyödyt (esimerkki oikeassa reunassa). Esimerkin matriisissa on kaksi pelaajaa, joista toinen valitsee rivin ja toinen sarakkeen. Molemmilla pelaajilla on kaksi strategiaa, joita edustaa rivien sekä sarakkeiden lukumäärä. Pelaajien hyödyt on kuvattu matriisin soluissa, joissa ensin oleva luku kuvaa A-pelaajan hyötyä ja toinen luku B-pelaajan. Jos A-pelaaja valitsee ylös-vaihtoehdon ja B-pelaaja vasen-vaihtoehdon, niin A-pelaajan saaman hyödyn määrä on 4 ja B-pelaajan 3.
 
 *Kuva: Esimerkki peliä kuvaavasta puukaaviosta*
 

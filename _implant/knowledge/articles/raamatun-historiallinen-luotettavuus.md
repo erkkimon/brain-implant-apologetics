@@ -4,7 +4,7 @@ about: apologetics
 title: "Raamatun historiallinen luotettavuus"
 description: "Kuva: pienoiskuva Raamattu on sidottu tunnettuihin aikoihin, paikkoihin, hallitsijoihin ja henkilöihin, joista löytyy riittävästi tietoa, jotta tiedämme tekstin olevan pääpiirteissään luotettavaa."
 tags: [apowiki, raamattu, historia, lukusuositukset]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Raamatun historiallinen luotettavuus".
@@ -111,7 +111,7 @@ Näin, myös historiallisen luotettavuuden kautta, Raamatun välittämä maailma
 #### ApologetiikkaWiki
 * [Jeesuksen historiallisuus](jeesuksen-historiallisuus.md)
 * [Raamatun alkukertomuksien luotettavuus](raamatun-alkukertomuksien-luotettavuus.md)
-* Arkeologia ja Raamattu <!-- red link: Arkeologia ja Raamattu -->
+* [Arkeologia ja Raamattu](arkeologia-ja-raamattu.md)
 * [Danielin kirja](danielin-kirja.md)
 * [Apostolien teot](apostolien-teot.md)
 

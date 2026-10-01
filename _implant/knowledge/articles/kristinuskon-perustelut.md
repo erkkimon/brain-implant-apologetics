@@ -4,7 +4,7 @@ about: apologetics
 title: "Kristinuskon perustelut"
 description: "Perustelun käsitteelle on tunnusomaista se, että ensin on esitettävä jokin kanta ja vasta sitten sitä voi pyrkiä perustelemaan."
 tags: [apowiki, yleistä-tietoa, argumentit, lukusuositukset]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kristinuskon perustelut".
@@ -33,7 +33,7 @@ Ei ole vaikea nähdä, että nämä kolme käsitystä ovat toisensa poissulkevia
 
 ### Perusteet ja perustelut
 
-Käsitteellisen selkeyden vuoksi on syytä käsittää "perusteet" ja "perustelut" eri asioiksi: **Perustelu** on väitelausein esitetty[^6] argumentti. **Peruste** taas on henkilökohtaiseen vakuuttuneisuuteen liittyvä laajempi käsite, jonka piiriin kuuluu esimerkiksi sisäinen vakuuttuminen välittömän kokemuksen pohjalta tai siksi, että jokin käsityskanta[^7] on oikea[^8] perususkomus <!-- red link: perususkomus -->. Monenkin henkilön kristillinen usko voi siis olla tiedollisesti täysin oikeutettua[^9], vaikkei hänellä olisikaan väitelauseiksi puettuja perusteluita uskolleen: hänellä voi olla välitön kokemus Jumalasta ja Jumalan toiminnasta elämässään.
+Käsitteellisen selkeyden vuoksi on syytä käsittää "perusteet" ja "perustelut" eri asioiksi: **Perustelu** on väitelausein esitetty[^6] argumentti. **Peruste** taas on henkilökohtaiseen vakuuttuneisuuteen liittyvä laajempi käsite, jonka piiriin kuuluu esimerkiksi sisäinen vakuuttuminen välittömän kokemuksen pohjalta tai siksi, että jokin käsityskanta[^7] on oikea[^8] [perususkomus](https://fi.wikipedia.org/wiki/Perususkomus) <!-- red link: perususkomus -->. Monenkin henkilön kristillinen usko voi siis olla tiedollisesti täysin oikeutettua[^9], vaikkei hänellä olisikaan väitelauseiksi puettuja perusteluita uskolleen: hänellä voi olla välitön kokemus Jumalasta ja Jumalan toiminnasta elämässään.
 
 Samoin esimerkiksi havaintojen luotettavuuden tai oman tajunnan ulkopuolisten asioiden olemassaolon uskomiselle on perusteita, vaikkei tietoteoriassa kyetäkään väitelausein esittämään mitään vakuuttavia perusteluja, miksi ne olisi uskottava. Nämä asiat voidaan nähdä oikeina perususkomuksina, jotka eivät tarvitse perusteluita.
 

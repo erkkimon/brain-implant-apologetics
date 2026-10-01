@@ -4,7 +4,7 @@ about: apologetics
 title: "Lee Strobel"
 description: "Lee Patrick Strobel (s. 25.01.1952) on ateistista kristityksi kääntynyt entinen Chicago Tribune -lehden toimittaja."
 tags: [apowiki, henkilöt]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Lee Strobel".
@@ -41,15 +41,15 @@ Hän oli edelleen ateisti, mutta hän että jos kristinusko on totta, sillä on 
 * *Inside the Mind of Unchurched <!-- red link: Unchurched --> Harry and Mary* (1993) ISBN 0310375614
 * *What Jesus Would Say* (1994) ISBN 0310485118
 * *God's Outrageous Claims* (1998) ISBN 0310266122
-* *The Case for Christ*, September 1, 1998, Zondervan <!-- red link: Zondervan -->, ISBN 0310226058
-* *The Case for Faith: A Journalist Investigates the Toughest Objections to Christianity*, October 1, 2000, Zondervan <!-- red link: Zondervan -->, ISBN 0310220157
+* *The Case for Christ*, September 1, 1998, [Zondervan](https://fi.wikipedia.org/wiki/Zondervan) <!-- red link: Zondervan -->, ISBN 0310226058
+* *The Case for Faith: A Journalist Investigates the Toughest Objections to Christianity*, October 1, 2000, [Zondervan](https://fi.wikipedia.org/wiki/Zondervan) <!-- red link: Zondervan -->, ISBN 0310220157
 * *Surviving a Spiritual Mismatch in Marriage* (2002) ISBN 0310220149
 * *The Case for a Creator: A Journalist Investigates Scientific Evidence That Points Toward God* (2004), Zondervan, ISBN 0310263867
 * *The Case for Easter: Journalist Investigates the Evidence for the Resurrection* (2004), Zondervan, ISBN 0310254752
 * *Experiencing the Passion of Jesus* (2004), with Garry Poole, Zondervan, ISBN 0310263751
 * * The Case for Christmas: A Journalist Investigates the Identity of the Child in the Manger* (2005), Zondervan, ISBN 0310254760
 * *Discussing the Da Vinci Code : Exploring the Issues Raised by the Book and Movie* (2006) ISBN 0310272637
-* * The Case for the Real Jesus: A Journalist Investigates Current Attacks on the Identity of Christ* September 10, 2007, Zondervan <!-- red link: Zondervan -->, ISBN 031024210X
+* * The Case for the Real Jesus: A Journalist Investigates Current Attacks on the Identity of Christ* September 10, 2007, [Zondervan](https://fi.wikipedia.org/wiki/Zondervan) <!-- red link: Zondervan -->, ISBN 031024210X
 
 #### Lasten apologetiikkasarja
 * *The Case for Faith for Kids* (2006), Zonderkidz, ISBN 978-0310711469

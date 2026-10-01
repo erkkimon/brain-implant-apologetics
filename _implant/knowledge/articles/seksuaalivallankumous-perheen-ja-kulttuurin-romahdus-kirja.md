@@ -4,7 +4,7 @@ about: apologetics
 title: "Seksuaalivallankumous: perheen ja kulttuurin romahdus (kirja)"
 description: "Seksuaalivallankumous on Tapio Puolimatkan kirjoittama kirja, joka analysoi yhteiskuntaelämän keskeistä paradoksia: kun yksilön vapaus korotetaan ylimmäksi arvoksi, seurauksena on perheen ja yhteiskunnan hajoamisprosessi, jonka lopputuloksena yksilön vapaus kaventuu."
 tags: [apowiki, kirjat, seksuaalietiikka, tapio-puolimatka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Seksuaalivallankumous: perheen ja kulttuurin romahdus (kirja)".
@@ -134,7 +134,7 @@ Omana aikanamme on toteutumassa sama prosessi, joka etenee seksuaalisen vapauden
 
 ### Kritiikkiä
 
-Filosofisen etiikan professori Timo Airaksinen <!-- red link: Timo Airaksinen --> kritisoi sitä, että Puolimatka tukeutuu kirjassaan niin vahvasti Harvardin yliopiston sosiologeihin Carle Zimmermaniin ja Pitirim Sorokiniin, joiden tuotanto painottuu viime vuosisadan puoliväliin.[^2] Mika Bergmanin kritiikin mukaan "Rooman tuhon selittäminen avioliittoinstituution heikkemisellä voi olla osittain totta, mutta on paljon sanottu, että se olisi ollut perimmäinen syy" [^3].
+Filosofisen etiikan professori [Timo Airaksinen](https://fi.wikipedia.org/wiki/Timo_Airaksinen) <!-- red link: Timo Airaksinen --> kritisoi sitä, että Puolimatka tukeutuu kirjassaan niin vahvasti Harvardin yliopiston sosiologeihin Carle Zimmermaniin ja Pitirim Sorokiniin, joiden tuotanto painottuu viime vuosisadan puoliväliin.[^2] Mika Bergmanin kritiikin mukaan "Rooman tuhon selittäminen avioliittoinstituution heikkemisellä voi olla osittain totta, mutta on paljon sanottu, että se olisi ollut perimmäinen syy" [^3].
 Timo Hännikäisen mukaan Puolimatkan teoksessa näkemykset ovat paikoin puutteellisesti perusteltuja. Hännikäisen mukaan "parhaimmillaan Puolimatka taas on kirjan loppuosassa, käsitellessään seksuaalisen vapautumisen modernien teoreetikkojen kuten Margaret Meadin ja Alfred Kinseyn heppoisia tutkimusmenetelmiä".[^4]
 
 ### Aiheesta muualla

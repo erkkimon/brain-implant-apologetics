@@ -4,7 +4,7 @@ about: apologetics
 title: "Kristityt luonnontieteilijät"
 description: "Oxfordin yliopiston tieteen ja uskonnon professori Peter Harrison kiinnittää huomiota siihen, että monet merkittävistä luonnontieteilijöistä tieteen historiassa ovat olleet kristittyjä."
 tags: [apowiki, henkilöt]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kristityt luonnontieteilijät".
@@ -36,7 +36,7 @@ Raamatullinen maailmankatsomus on ohjannut tieteellistä tutkimusta myös korost
 ! | Täsmennys
 ! | Lähteet
 |-
-|Nikolai Kopernikus <!-- red link: Nikolai Kopernikus --> (1473–1543)
+|[Nikolai Kopernikus](https://fi.wikipedia.org/wiki/Nikolaus_Kopernikus) <!-- red link: Nikolai Kopernikus --> (1473–1543)
 |
 
 *Kuva: Copernicus.jpg*
@@ -92,12 +92,12 @@ Raamatullinen maailmankatsomus on ohjannut tieteellistä tutkimusta myös korost
 |Merkittävä englantilainen tieteentekijä ja yksi kokeellisen luonnontieteen metodin kehittäjistä.
 |[Dictionary of the History of Ideas](http://etext.lib.virginia.edu/cgi-local/DHI/dhi.cgi?id=dv1-25)
 |-
-|Johannes Kepler <!-- red link: Johannes Kepler --> (1571–1630)
+|[Johannes Kepler](https://fi.wikipedia.org/wiki/Johannes_Kepler) <!-- red link: Johannes Kepler --> (1571–1630)
 |
 
 *Kuva: Johannes Kepler 1610.jpg*
 
-|Hän loi kosmokselle mallin, joka perustui uskonnollisiin lähtökohtaoletuksiin. Hänet tunnetaan erityisesti siitä, että hän muotoili Keplerin planetaariset liikelait. Se perustui Tycho Brahen tarkkoihin tähtitieteellisiin havaintoihin. Hän oli alun perin halunnut tulla teologiksi ja hänen kirjansa Harmonice Mundi <!-- red link: Harmonice Mundi --> käsittelee paikoitellen Kristuksen merkitystä.
+|Hän loi kosmokselle mallin, joka perustui uskonnollisiin lähtökohtaoletuksiin. Hänet tunnetaan erityisesti siitä, että hän muotoili Keplerin planetaariset liikelait. Se perustui Tycho Brahen tarkkoihin tähtitieteellisiin havaintoihin. Hän oli alun perin halunnut tulla teologiksi ja hänen kirjansa [Harmonice Mundi](https://fi.wikipedia.org/wiki/Harmonices_Mundi) <!-- red link: Harmonice Mundi --> käsittelee paikoitellen Kristuksen merkitystä.
 |[Galileo Project](http://galileo.rice.edu/sci/kepler.html) and [Adherents.com](http://www.adherents.com/people/pk/Johannes_Kepler.html) and
 |-
 |Laurentius Paulinus Gothus (1565–1646)
@@ -148,7 +148,7 @@ Raamatullinen maailmankatsomus on ohjannut tieteellistä tutkimusta myös korost
 |Hän kuului jansenistiseen herätysliikkeeseen, johon katolinen kirkko suhtauitui torjuvasti. Hänet tunnetaan Pascalin laista fysiikassa, Pascalin teoreemasta matematiikassa ja Pascalin uhkapeliargumentista filosofiassa ja teologiassa.
 |[McTutor](http://www-gap.dcs.st-and.ac.uk/~history/Mathematicians/Pascal.html)
 |-
-|Isaac Barrow <!-- red link: Isaac Barrow --> (1630–1677)
+|[Isaac Barrow](https://fi.wikipedia.org/wiki/Isaac_Barrow) <!-- red link: Isaac Barrow --> (1630–1677)
 |
 
 *Kuva: Isaac Barrow.jpg*
@@ -181,14 +181,14 @@ Raamatullinen maailmankatsomus on ohjannut tieteellistä tutkimusta myös korost
 |Saliburyn anglikaaninen piispa ja tähtitietelijä. Hän kirjoitti *Ismaelis Bullialdi astro-nomiae philolaicae fundamenta inquisitio brevis* ja *Astronomia geometrica.*  Hän väitteli teologiasta ja filosofiasta Thomas Hobbesin kanssa.
 |[Galileo Project](http://galileo.rice.edu/Catalog/NewFiles/ward.html) and [University of Hanover's philosophy seminar](http://72.14.207.104/search?q=cache:co4nPD_3iY4J:www.philosem.uni-hannover.de/downloads/wallisdivine.pdf+%22John+Wallis%22+theological&hl=en&gl=us&ct=clnk&cd=4)
 |-
-|Robert Boyle <!-- red link: Robert Boyle -->  (1627–1691)
+|[Robert Boyle](https://fi.wikipedia.org/wiki/Robert_Boyle) <!-- red link: Robert Boyle -->  (1627–1691)
 |
 
 *Kuva: Robert Boyle.jpg*
 
-|Tieteentekijä ja teologi, joka argumentoi, että tieteellinen tutkimus voi tuoda kunniaa Jumalalle. [ASA](http://www.asa3.org/ASA/PSCF/1997/PSCF3-97Woodall.html) and Stanford University <!-- red link: Stanford University -->[http://plato.stanford.edu/entries/boyle/](http://plato.stanford.edu/entries/boyle/)
+|Tieteentekijä ja teologi, joka argumentoi, että tieteellinen tutkimus voi tuoda kunniaa Jumalalle. [ASA](http://www.asa3.org/ASA/PSCF/1997/PSCF3-97Woodall.html) and [Stanford University](https://fi.wikipedia.org/wiki/Stanfordin_yliopisto) <!-- red link: Stanford University -->[http://plato.stanford.edu/entries/boyle/](http://plato.stanford.edu/entries/boyle/)
 |-
-|John Wallis <!-- red link: John Wallis --> (1616–1703)
+|[John Wallis](https://fi.wikipedia.org/wiki/John_Wallis) <!-- red link: John Wallis --> (1616–1703)
 |
 
 *Kuva: John Wallis by Sir Godfrey Kneller, Bt.jpg*
@@ -196,15 +196,15 @@ Raamatullinen maailmankatsomus on ohjannut tieteellistä tutkimusta myös korost
 |Matemaatikkona hän kirjoitti kirjan *Arithmetica Infinitorumis*, loi termin continued fraction, teki työtä kryptografian parissa. Hän oli kalvinistinen kappalainen, joka osallistui aktiivisesti teologisiin väittelyihin.
 |[Galileo Project](http://galileo.rice.edu/Catalog/NewFiles/wallis.html) and [University of Hanover's philosophy seminar](http://72.14.207.104/search?q=cache:co4nPD_3iY4J:www.philosem.uni-hannover.de/downloads/wallisdivine.pdf+%22John+Wallis%22+theological&hl=en&gl=us&ct=clnk&cd=4)
 |-
-|John Ray <!-- red link: John Ray -->    (1627–1705)
+|[John Ray](https://fi.wikipedia.org/wiki/John_Ray) <!-- red link: John Ray -->    (1627–1705)
 |
 
 *Kuva: John Ray from NPG.jpg*
 
 |Englantilainen kasvitieteilijä, joka kirjoitti kirjan **The Wisdom of God manifested in the Works of the Creation.** (1691 <!-- red link: 1691 -->) The [John Ray Initiative](http://www.jri.org.uk/) of Environment and Christianity is also named for him.
-|University of California, Berkeley <!-- red link: University of California, Berkeley -->[http://www.ucmp.berkeley.edu/history/ray.html](http://www.ucmp.berkeley.edu/history/ray.html)
+|[University of California, Berkeley](https://fi.wikipedia.org/wiki/Kalifornian_yliopisto_(Berkeley)) <!-- red link: University of California, Berkeley -->[http://www.ucmp.berkeley.edu/history/ray.html](http://www.ucmp.berkeley.edu/history/ray.html)
 |-
-|Gottfried Leibniz <!-- red link: Gottfried Leibniz --> (1646–1716)
+|[Gottfried Leibniz](https://fi.wikipedia.org/wiki/Gottfried_Leibniz) <!-- red link: Gottfried Leibniz --> (1646–1716)
 |
 
 *Kuva: Gottfried Wilhelm von Leibniz.jpg*
@@ -236,7 +236,7 @@ Raamatullinen maailmankatsomus on ohjannut tieteellistä tutkimusta myös korost
 |Kasvifysiologiaa tutkinut tieteentekijä, joka sai tutkimuksistaan Copley mitalin. Hän keksi yhdenlaisen tuuletusjärjestelmän, tavan säilöä lihaa jne. Hän oli anglikaaninen curate, joka teki työtä yhdistykselle Society for the Promotion of Christian Knowledge ja pyrki edistämään evankelioimistyötä Länsi-Intian mustien orjien parissa.
 |[The Galileo Project](http://galileo.rice.edu/Catalog/NewFiles/hales.html) and [1902 Encyclopedia](http://www.1902encyclopedia.com/H/HAL/stephen-hales.html)
 |-
-|Thomas Bayes <!-- red link: Thomas Bayes --> (1701–1761)
+|[Thomas Bayes](https://fi.wikipedia.org/wiki/Thomas_Bayes) <!-- red link: Thomas Bayes --> (1701–1761)
 |
 
 *Kuva: Thomas Bayes.gif*
@@ -252,7 +252,7 @@ Raamatullinen maailmankatsomus on ohjannut tieteellistä tutkimusta myös korost
 |Fyysikko ja teologi. Hän käänsi Uuden testamentin ranskaksi ja korjasi virheen Newtonin teoksessa Principia.
 |Encyclopædia Britannica Eleventh Edition <!-- red link: Encyclopædia Britannica Eleventh Edition -->
 |-
-|Carl von Linné <!-- red link: Carl von Linné --> (1707–1778)
+|[Carl von Linné](https://fi.wikipedia.org/wiki/Carl_von_Linné) <!-- red link: Carl von Linné --> (1707–1778)
 |
 
 *Kuva: Carl von Linné.jpg*
@@ -260,7 +260,7 @@ Raamatullinen maailmankatsomus on ohjannut tieteellistä tutkimusta myös korost
 |Linné tunnetaan "modernin taksonomian isänä" ja hän antoi panoksensa myös ekologiaan. Häntä ohjasi luokittelutyössään teologinen näkemys, jonka mukaan Jumala on luonut organismit erillisiksi, luokiteltaviksi tyypeiksi ja lajeiksi. Luonnollinen teologia ja Raamattu olivat tärkeitä hänen teoksissaan *Systema Naturae* ja *Systema Vegetabilium.*
 |[Berkeley bio](http://www.ucmp.berkeley.edu/history/linnaeus.html)
 |-
-|Leonhard Euler <!-- red link: Leonhard Euler --> (1707–1783)
+|[Leonhard Euler](https://fi.wikipedia.org/wiki/Leonhard_Euler) <!-- red link: Leonhard Euler --> (1707–1783)
 |
 
 *Kuva: Leonhard Euler 2.jpg*
@@ -268,7 +268,7 @@ Raamatullinen maailmankatsomus on ohjannut tieteellistä tutkimusta myös korost
 |Merkittävä matemaatikko ja fyysikko. Ks. englanninkielisessä wikipediassa List of topics named after Leonhard Euler <!-- red link: List of topics named after Leonhard Euler -->. Hän kirjoitti teoksen *Defense of the Divine Revelation against the Objections of the Freethinkers* ja luterilainen kirkko muistaa hänet merkittäviä kristittyjä käsittelevässä kalenterissaan toukokuun 24. päivänä.
 |[Mathematics and the Divine By T Koetsier, L Bergmans, Inc NetLibrary](http://books.google.com/books?id=AMOQZfrZq-EC&pg=PA519&dq=%22Euler%22+divine+reflection&sig=ACfU3U2CV0fxHyWVfNIgI1Q6zuPH_MalAA)
 |-
-|Maria Gaetana Agnesi <!-- red link: Maria Gaetana Agnesi -->    (1718–1799)
+|[Maria Gaetana Agnesi](https://fi.wikipedia.org/wiki/Maria_Gaetana_Agnesi) <!-- red link: Maria Gaetana Agnesi -->    (1718–1799)
 |
 
 *Kuva: Maria Gaetana Agnesi.jpg*
@@ -281,7 +281,7 @@ Raamatullinen maailmankatsomus on ohjannut tieteellistä tutkimusta myös korost
 
 *Kuva: Isaac-Milner.gif*
 
-|Hän oli Lucasian Professor of Mathematics <!-- red link: Lucasian Professor of Mathematics -->, joka tunnetaan työstään valmistaa Nitrous acid <!-- red link: Nitrous acid -->. Hän oli myös evankeelinen anglikaani, joka yhdessä veljensä kanssa kirjoitti kirjan *Ecclesiastical History of the Church of Christ* ja vaikutti William Wilberforcen <!-- red link: William Wilberforce --> uskonnolliseen heräämiseen.
+|Hän oli Lucasian Professor of Mathematics <!-- red link: Lucasian Professor of Mathematics -->, joka tunnetaan työstään valmistaa Nitrous acid <!-- red link: Nitrous acid -->. Hän oli myös evankeelinen anglikaani, joka yhdessä veljensä kanssa kirjoitti kirjan *Ecclesiastical History of the Church of Christ* ja vaikutti [William Wilberforcen](https://fi.wikipedia.org/wiki/William_Wilberforce) <!-- red link: William Wilberforce --> uskonnolliseen heräämiseen.
 |[Lucasian Chair](http://www.lucasianchair.org/19/milner.html)
 |-
 |Samuel Vince <!-- red link: Samuel Vince --> (1749–1821)
@@ -300,7 +300,7 @@ Raamatullinen maailmankatsomus on ohjannut tieteellistä tutkimusta myös korost
 |Hän oli matemaatikko, joka kirjoitti teoksen *Lessons Astronomical and Philosophical* vuonna 1793 <!-- red link: 1793 -->. Hänen teoksestaan *Letters on the Evidences of Christianity* tehtiin lyhennelmä, jota levitettiin laajalti.
 |[Preface to "Evidences"](http://www.google.com/search?hl=en&lr=&safe=active&q=%22&btnG=Search) and [1911 Encyclopedia](http://www.google.com/search?hl=en&lr=&safe=active&q=%22olinthus+gilbert+gregory%22+biography+-wikipedia&btnG=Search)
 |-
-|William Buckland <!-- red link: William Buckland --> (1784–1856)
+|[William Buckland](https://fi.wikipedia.org/wiki/William_Buckland) <!-- red link: William Buckland --> (1784–1856)
 |
 
 *Kuva: William Buckland c1845.jpg*
@@ -308,15 +308,15 @@ Raamatullinen maailmankatsomus on ohjannut tieteellistä tutkimusta myös korost
 |Anglikaaninen pappi ja geologi, joka kirjoitti teoksen *Vindiciae Geologiae; or the Connexion of Geology with Religion explained.*
 |University of Oxford site.[http://www.oum.ox.ac.uk/geocolls/buckland/bio3.htm](http://www.oum.ox.ac.uk/geocolls/buckland/bio3.htm)
 |-
-|Augustin Louis Cauchy <!-- red link: Augustin Louis Cauchy --> (1789–1857)
+|[Augustin Louis Cauchy](https://fi.wikipedia.org/wiki/Augustin_Louis_Cauchy) <!-- red link: Augustin Louis Cauchy --> (1789–1857)
 |
 
 *Kuva: Augustin Louis Cauchy.JPG*
 
 |Matemaatikko, joka puolusti jesuiittoja ja yritti voittaa muita matemaatikkoja katolisuudelle.
-|Catholic Encyclopedia <!-- red link: Catholic Encyclopedia --> and [Istanbul Technical University](http://www.google.com/search?q=cache:osx8sBHt7UYJ:www.mat.itu.edu.tr/gungor/bioindex.pdf+%22Cauchy%22+%22Catholicism%22&hl=en&gl=us&ct=clnk&cd=9)
+|[Catholic Encyclopedia](https://fi.wikipedia.org/wiki/Catholic_Encyclopedia) <!-- red link: Catholic Encyclopedia --> and [Istanbul Technical University](http://www.google.com/search?q=cache:osx8sBHt7UYJ:www.mat.itu.edu.tr/gungor/bioindex.pdf+%22Cauchy%22+%22Catholicism%22&hl=en&gl=us&ct=clnk&cd=9)
 |-
-|Lars Levi Læstadius <!-- red link: Lars Levi Læstadius --> (1800–1861)
+|[Lars Levi Læstadius](https://fi.wikipedia.org/wiki/Lars_Levi_Laestadius) <!-- red link: Lars Levi Læstadius --> (1800–1861)
 |
 
 *Kuva: larslevilaestadius.jpg*
@@ -340,24 +340,24 @@ Raamatullinen maailmankatsomus on ohjannut tieteellistä tutkimusta myös korost
 |Mineralogian ja moraalifilosofian professori ja merkittävä tieteenhistorioitsija. Hän kirjoitti tutkimukset *An Elementary Treatise on Mechanics* vuonna 1819 <!-- red link: 1819 --> ja *Astronomy and General Physics considered with reference to Natural Theology* vuonna 1833 <!-- red link: 1833 -->.
 |[Stanford philosophy site](http://plato.stanford.edu/archives/sum2004/entries/whewell/#1) and [Middlesex University article](http://64.233.167.104/search?q=cache:Gmc_EJ2XFBoJ:mubs.mdx.ac.uk/research/Discussion_Papers/Mathematics_and_Statistics/maths_dpaper_no_5.pdf+%22Christianity+and+Mathematics%22+middlesex&hl=en&ct=clnk&cd=1)
 |-
-|Michael Faraday <!-- red link: Michael Faraday --> (1791–1867)
+|[Michael Faraday](https://fi.wikipedia.org/wiki/Michael_Faraday) <!-- red link: Michael Faraday --> (1791–1867)
 |
 
 *Kuva: Faraday.jpg*
 
 |Merkittävä tieteentekijä, joka käsitteli tieteen ja uskonnon suhdetta ja kuului kristillisen seurakunnan vanhemmistoon.
-|BBC <!-- red link: BBC -->[http://www.bbc.co.uk/history/historic_figures/faraday_michael.shtml](http://www.bbc.co.uk/history/historic_figures/faraday_michael.shtml) and [Adherents.com](http://www.adherents.com/people/pf/Michael_Faraday.html)
+|[BBC](https://fi.wikipedia.org/wiki/BBC) <!-- red link: BBC -->[http://www.bbc.co.uk/history/historic_figures/faraday_michael.shtml](http://www.bbc.co.uk/history/historic_figures/faraday_michael.shtml) and [Adherents.com](http://www.adherents.com/people/pf/Michael_Faraday.html)
 |-
-|Charles Babbage <!-- red link: Charles Babbage --> (1791–1871)
+|[Charles Babbage](https://fi.wikipedia.org/wiki/Charles_Babbage) <!-- red link: Charles Babbage --> (1791–1871)
 |
 
 *Kuva: CharlesBabbage.jpg*
 
 |The Difference Engine <!-- red link: Difference Engine --> and the Ninth Bridgewater Treatise.
 |[Victorian Web](http://www.victorianweb.org/science/science_texts/bridgewater/babbage_intro.htm) and
-Virginia Polytechnic Institute and State University <!-- red link: Virginia Polytechnic Institute and State University -->[http://ei.cs.vt.edu/~history/Babbage.html](http://ei.cs.vt.edu/~history/Babbage.html)
+[Virginia Polytechnic Institute and State University](https://fi.wikipedia.org/wiki/Virginia_Polytechnic_Institute_and_State_University) <!-- red link: Virginia Polytechnic Institute and State University -->[http://ei.cs.vt.edu/~history/Babbage.html](http://ei.cs.vt.edu/~history/Babbage.html)
 |-
-|Adam Sedgwick <!-- red link: Adam Sedgwick --> (1785–1873)
+|[Adam Sedgwick](https://fi.wikipedia.org/wiki/Adam_Sedgwick) <!-- red link: Adam Sedgwick --> (1785–1873)
 |
 
 *Kuva: Adam sedgwick.JPG*
@@ -405,7 +405,7 @@ Virginia Polytechnic Institute and State University <!-- red link: Virginia Poly
 |Sveitsiläis-amerikkalainen geologi, joka teki merkittävää työtä jäätiköiden tutkimisessa. Guyot jäätikkö on nimetty hänen mukaansa. Hän kirjoitti myös teoksen *Creation, or the Biblical Cosmogony in the Light of Modern Science.*
 |["Guyot's Geoscience and Geohistory", Princeton article](http://74.125.95.132/search?q=cache:xoXPvWrT5wIJ:www.princeton.edu/geosciences/about/publications/guyot_brochure.pdf+%22arnold+henry+guyot%22+glaciers&cd=17&hl=en&ct=clnk&gl=us) [Creation, or the Biblical Cosmogony in the Light of Modern Science](http://books.google.com/books?id=jb-QJKKOVJYC&dq=arnold+henry+guyot&printsec=frontcover&source=in&hl=en&ei=nsdwS9S4PImFnQevr_2MCw&sa=X&oi=book_result&ct=result&resnum=11&ved=0CCEQ6AEwCg#v=onepage&q=&f=false)
 |-
-|Gregor Mendel <!-- red link: Gregor Mendel --> (1822–1884)
+|[Gregor Mendel](https://fi.wikipedia.org/wiki/Gregor_Mendel) <!-- red link: Gregor Mendel --> (1822–1884)
 |
 
 *Kuva: Gregor Mendel.png*
@@ -413,15 +413,15 @@ Virginia Polytechnic Institute and State University <!-- red link: Virginia Poly
 |Augustinolainen abotti, joka on nimetty "modernin genetiikan isäksi". Mendel oli luostarissa koulutettu munkki, joka teki systemaattisia geneettisiä kokeita herneillä luostarin puutarhassa. Hänen vuosia jatkuneet, huolellisesti suunnitellut risteytyskokeensa loivat perustan perinnöllisyystieteen myöhemmälle kehitykselle.
 |Catholic Encyclopedia.[http://www.newadvent.org/cathen/10180b.htm](http://www.newadvent.org/cathen/10180b.htm)
 |-
-|Philip Henry Gosse <!-- red link: Philip Henry Gosse --> (1810–1888)
+|[Philip Henry Gosse](https://fi.wikipedia.org/wiki/Philip_Henry_Gosse) <!-- red link: Philip Henry Gosse --> (1810–1888)
 |
 
 *Kuva: Philip Henry Gosse & Edmund Gosse (1857).jpg*
 
 |Meribiologi, joka kirjoitti teoksen **Aquarium** vuonna 1854, ja **A Manual of Marine Zoology** vuosina 1855–56. Hänet tunnetaan Raamatulle uskollisena kristittynä.
-|University of Houston <!-- red link: University of Houston --> hosted article.[http://www.uh.edu/engines/epi1864.htm](http://www.uh.edu/engines/epi1864.htm)
+|[University of Houston](https://fi.wikipedia.org/wiki/Houstonin_yliopisto) <!-- red link: University of Houston --> hosted article.[http://www.uh.edu/engines/epi1864.htm](http://www.uh.edu/engines/epi1864.htm)
 |-
-|Asa Gray <!-- red link: Asa Gray --> (1810–1888)
+|[Asa Gray](https://fi.wikipedia.org/wiki/Asa_Gray) <!-- red link: Asa Gray --> (1810–1888)
 |
 
 *Kuva: Asa Gray, US botanist.jpg*
@@ -437,7 +437,7 @@ Virginia Polytechnic Institute and State University <!-- red link: Virginia Poly
 |Italialainen matemaatikko, joka tunnetaan Faà di Bruno's formulasta ja hengellisistä kirjoituksista.
 |[McTutor](http://www-gap.dcs.st-and.ac.uk/~history/Mathematicians/Faa_di_Bruno.html)
 |-
-|James Dwight Dana <!-- red link: James Dwight Dana --> (1813–1895)
+|[James Dwight Dana](https://fi.wikipedia.org/wiki/James_Dwight_Dana) <!-- red link: James Dwight Dana --> (1813–1895)
 |
 
 *Kuva: James Dwight Dana.jpg*
@@ -445,7 +445,7 @@ Virginia Polytechnic Institute and State University <!-- red link: Virginia Poly
 |Geologi, minerologi ja eläintieteilijä. Hän kirjoitti kirjan nimeltä *Science and the Bible* ja hänen uskoaan on kuvattu sekä "oikeaoppiseksi että voimakkaaksi".
 |["Science and the Bible" at Google Books](http://books.google.com/books?id=eSIZAAAAYAAJ&printsec=frontcover&dq=inauthor:%22+James+Dwight+Dana%22&lr=&as_brr=1&cd=24#v=onepage&q=&f=false) and [Engines of Our Ingenuity](http://uh.edu/engines/epi1949.htm)
 |-
-|Louis Pasteur <!-- red link: Louis Pasteur --> (1822–1895)
+|[Louis Pasteur](https://fi.wikipedia.org/wiki/Louis_Pasteur) <!-- red link: Louis Pasteur --> (1822–1895)
 |
 
 *Kuva: Louis Pasteur.jpg*
@@ -459,9 +459,9 @@ Virginia Polytechnic Institute and State University <!-- red link: Virginia Poly
 *Kuva: St George Jackson Mivart.jpg*
 
 |Lontoon eläintieteellisen seuran jäsen, joka teki merkittävää työtä hyönteisten tutkimisessa ja kiisteli Charles Darwinin kanssa. Hän kääntyi katolisuuteen ja opetti Leuvenin katolisessa yliopistossa.
-|*  Also the end of the Catholic Encyclopedia <!-- red link: Catholic Encyclopedia --> article on Hell mentions him.[http://www.newadvent.org/cathen/07207a.htm](http://www.newadvent.org/cathen/07207a.htm)
+|*  Also the end of the [Catholic Encyclopedia](https://fi.wikipedia.org/wiki/Catholic_Encyclopedia) <!-- red link: Catholic Encyclopedia --> article on Hell mentions him.[http://www.newadvent.org/cathen/07207a.htm](http://www.newadvent.org/cathen/07207a.htm)
 |-
-|Armand David <!-- red link: Armand David --> (1826–1900)
+|[Armand David](https://fi.wikipedia.org/wiki/Armand_David) <!-- red link: Armand David --> (1826–1900)
 |
 
 *Kuva: Mission armand david.jpg*
@@ -469,15 +469,15 @@ Virginia Polytechnic Institute and State University <!-- red link: Virginia Poly
 |Katolinen lähetystyöntekijä Kiinassa, joka piti uskonnollisia velvollisuuksiaan ensisijaisina. Hän oli myös kasvitieteilijä ja eläintieteilijänä hän kuvasi useita lajeja, jotka olivat tuntemattomia länsimaille.
 |[The Vicentians](http://www.google.com/search?q=cache:K2hG-HY891wJ:www.vincentians.org.au/David.pdf+%22Jean+Pierre+Armand+David%22&hl=en&gl=us&ct=clnk&cd=1)
 |-
-|George Stokes <!-- red link: George Gabriel Stokes --> (1819–1903)
+|[George Stokes](https://fi.wikipedia.org/wiki/George_Gabriel_Stokes) <!-- red link: George Gabriel Stokes --> (1819–1903)
 |
 
 *Kuva: Gstokes.jpg*
 
 |Ministerin poika, joka kirjoitti kirjan luonnollisesta teologiasta. Hän oli yksi Royal Societyn presidenteistä, ja tutki Fluid dynamics.
-|Gifford Lectures <!-- red link: Gifford Lectures --> site.[http://www.giffordlectures.org/Author.asp?AuthorID=160](http://www.giffordlectures.org/Author.asp?AuthorID=160)[http://www.giffordlectures.org/Search.asp?PubID=TPNATT&Volume=0&Issue=0&ArticleID=1](http://www.giffordlectures.org/Search.asp?PubID=TPNATT&Volume=0&Issue=0&ArticleID=1)
+|[Gifford Lectures](https://fi.wikipedia.org/wiki/Gifford-luennot) <!-- red link: Gifford Lectures --> site.[http://www.giffordlectures.org/Author.asp?AuthorID=160](http://www.giffordlectures.org/Author.asp?AuthorID=160)[http://www.giffordlectures.org/Search.asp?PubID=TPNATT&Volume=0&Issue=0&ArticleID=1](http://www.giffordlectures.org/Search.asp?PubID=TPNATT&Volume=0&Issue=0&ArticleID=1)
 |-
-|George Salmon <!-- red link: George Salmon --> (1819–1904)
+|[George Salmon](https://fi.wikipedia.org/wiki/George_Salmon) <!-- red link: George Salmon --> (1819–1904)
 |
 
 *Kuva: Portrait of George Salmon.jpg*
@@ -485,7 +485,7 @@ Virginia Polytechnic Institute and State University <!-- red link: Virginia Poly
 |Hän sai Copley mitalin matemaattisten tutkimustensa ansiosta. Hänen teologinen tutkimuksensa *An Historical Introduction to the Study of the Books of the New Testament* oli laajalti luettu.
 |[George Salmon: from mathematics to theology](http://turnbull.mcs.st-and.ac.uk/history/Miscellaneous/other_links/Salmon_theology.html)
 |-
-|Henry Baker Tristram <!-- red link: Henry Baker Tristram --> (1822–1906)
+|[Henry Baker Tristram](https://fi.wikipedia.org/wiki/Henry_Baker_Tristram) <!-- red link: Henry Baker Tristram --> (1822–1906)
 |
 
 *Kuva: Henry Baker Tristram 1822-1906.jpg*
@@ -499,9 +499,9 @@ Virginia Polytechnic Institute and State University <!-- red link: Virginia Poly
 *Kuva: Lord Kelvin photograph.jpg*
 
 |Hän piti kuuluisan puheen yhdistyksessä nimeltä Christian Evidence Society. Tieteessä hän voitti Copley mitalin, kuninkaallisen mitalin. Hänellä oli tärkeä merkitys tutkimusalueilla kuten Timeline of thermodynamics, statistical mechanics, and random processes Thermodynamics.
-|Institute of Physics <!-- red link: Institute of Physics -->[http://physicsweb.org/articles/world/15/12/6](http://physicsweb.org/articles/world/15/12/6) and his own article.
+|[Institute of Physics](https://fi.wikipedia.org/wiki/Institute_of_Physics) <!-- red link: Institute of Physics -->[http://physicsweb.org/articles/world/15/12/6](http://physicsweb.org/articles/world/15/12/6) and his own article.
 |-
-|Pierre Duhem <!-- red link: Pierre Duhem --> (1861–1916)
+|[Pierre Duhem](https://fi.wikipedia.org/wiki/Pierre_Duhem) <!-- red link: Pierre Duhem --> (1861–1916)
 |
 
 *Kuva: Pierre Duhem.jpg*
@@ -509,7 +509,7 @@ Virginia Polytechnic Institute and State University <!-- red link: Virginia Poly
 |Hän tutki termodynaamista potentiaali ja kirjoitti tieteenhistoriallisia tutkimuksia, joissa hän osoitti Roomalaiskatolisen kirkon edistäneen tiedettä.
 |[McTutor](http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Duhem.html) and **Scientist and Catholic: Pierre Duhem** by Stanley Jaki <!-- red link: Stanley Jaki -->[http://pirate.shu.edu/~jakistan/JakisBooks/PierreDuhem.htm](http://pirate.shu.edu/~jakistan/JakisBooks/PierreDuhem.htm)
 |-
-|Georg Cantor <!-- red link: Georg Cantor --> (1845–1918)
+|[Georg Cantor](https://fi.wikipedia.org/wiki/Georg_Cantor) <!-- red link: Georg Cantor --> (1845–1918)
 |
 
 *Kuva: Matematiker georg cantor.jpg*
@@ -517,7 +517,7 @@ Virginia Polytechnic Institute and State University <!-- red link: Virginia Poly
 |Sai aikaan vallankumouksellisen muutoksen matemaattisissa käsityksissä äärettömistä joukoista tukeutumalla Augustinuksen teokseen Jumalan valtio. Luterilainen, joka kirjoitti uskonnollisista aiheista ja oli kiinnostunut keskiaikaisesta teologiasta.
 |IUPUI <!-- red link: IUPUI -->[http://www.engr.iupui.edu/~orr/webpages/cpt120/mathbios/gcant.htm](http://www.engr.iupui.edu/~orr/webpages/cpt120/mathbios/gcant.htm)
 |-
-|Henrietta Swan Leavitt <!-- red link: Henrietta Swan Leavitt --> (1868–1921)
+|[Henrietta Swan Leavitt](https://fi.wikipedia.org/wiki/Henrietta_Swan_Leavitt) <!-- red link: Henrietta Swan Leavitt --> (1868–1921)
 |
 
 *Kuva: Leavitt aavso.jpg*
@@ -541,15 +541,15 @@ Virginia Polytechnic Institute and State University <!-- red link: Virginia Poly
 |Serbialais-amerikkalainen fyysikko, kemisti ja keksijä. Hänen teoksensa **The New Reformation: From Physical to Spiritual Realities** käsittelee uskontoa ja hengellisyyttä.
 |[On pg 267 he refers to "we Christians."](http://books.google.com/books?id=mX4ruWYWpE4C&printsec=frontcover&dq=%22New+Reformation&sig=ACfU3U1BgjcEwpwy3i4ZRMD5rTnkyaoZ-Q)
 |-
-|John Ambrose Fleming <!-- red link: John Ambrose Fleming --> (1849–1945)
+|[John Ambrose Fleming](https://fi.wikipedia.org/wiki/John_Ambrose_Fleming) <!-- red link: John Ambrose Fleming --> (1849–1945)
 |
 
 *Kuva: Fleming Valve - US Patent 803,684.jpg*
 
-|In science he is noted for the Right-hand rule <!-- red link: Right-hand rule --> and work on vacuum tubes <!-- red link: vacuum tube -->, hence the picture of a Fleming valve. He also won the Hughes Medal <!-- red link: Hughes Medal -->. In religious activities he was President of the Victoria Institute <!-- red link: Victoria Institute -->, involved in the Creation Science Movement <!-- red link: Creation Science Movement -->, and preached at St Martin-in-the-Fields <!-- red link: St Martin-in-the-Fields -->.
+|In science he is noted for the Right-hand rule <!-- red link: Right-hand rule --> and work on vacuum tubes <!-- red link: vacuum tube -->, hence the picture of a Fleming valve. He also won the Hughes Medal <!-- red link: Hughes Medal -->. In religious activities he was President of the Victoria Institute <!-- red link: Victoria Institute -->, involved in the Creation Science Movement <!-- red link: Creation Science Movement -->, and preached at [St Martin-in-the-Fields](https://fi.wikipedia.org/wiki/St_Martin-in-the-Fields) <!-- red link: St Martin-in-the-Fields -->.
 |[IEEE biography](http://www.ieee.org/web/aboutus/history_center/biography/fleming.html) [University College London](http://74.125.45.132/search?q=cache:xj4iUZjON6YJ:people.clarkson.edu/~ekatz/scientists/fleming_paper.pdf+%22John+Ambrose+Fleming%22+christianity+-wikipedia&hl=en&ct=clnk&cd=9&gl=us)
 |-
-|Max Planck <!-- red link: Max Planck --> (1858–1947)
+|[Max Planck](https://fi.wikipedia.org/wiki/Max_Planck) <!-- red link: Max Planck --> (1858–1947)
 |
 
 *Kuva: Max planck.jpg*
@@ -557,7 +557,7 @@ Virginia Polytechnic Institute and State University <!-- red link: Virginia Poly
 |Hänelle myönnettiin Nobelin palkinto fysiikassa vuonna 1918 ja häntä pidetään kvanttimekaniikan perustajana. Hän oli luterilainen, joka toimi seurakuntansa vanhimpana vuodesta 1920 kuolemaansa asti. Vuonna 1937 hän piti luennon "Religion and Natural Science", jossa hän sanoi, että "Sekä uskonto että tiede edellyttävät uskoa Jumalaan. Uskoville Jumala on kaiken pohdinnan alku ja fyysikoille hän on kaiken pohdinnan loppupiste. - - Uskoville Jumala on perusta, fyysikoille hän on jokaisen yleistävän maailmankäsityksen kruunu ja huippu."
 |[Adherents,com](http://www.adherents.com/people/pp/Max_Planck.html) and Religion and Natural Science (Lecture Given 1937) Scientific Autobiography and Other Papers, trans. F. Gaynor (New York, 1949), pp. 184
 |-
-|Edward Arthur Milne <!-- red link: Edward Arthur Milne --> (1896–1950)
+|[Edward Arthur Milne](https://fi.wikipedia.org/wiki/Edward_Arthur_Milne) <!-- red link: Edward Arthur Milne --> (1896–1950)
 |
 
 *Kuva: Asaph Hall Gold Medal.jpg*
@@ -565,7 +565,7 @@ Virginia Polytechnic Institute and State University <!-- red link: Virginia Poly
 |Brittiläinen astrofyysikko ja matemaatikko, joka loi Milne mallin ja jonka mukaan nimettiin yksi kuun kraatereistas. Hänen viimeisin kirjansa oli **Modern Cosmology and the Christian Idea of God.**
 |[Civilized Life in the Universe By George Basalla, pg 128](http://books.google.com/books?id=lbpw1mBIfycC&pg=PA128&dq=%22E.+A.+Milne%22+Christianity&as_brr=3&sig=ACfU3U3t90yZq6d7cxmf5DtGxbdnmTBo3Q) and [Incarnation and Resurrection By Paul D. Molnar, pg 95](http://books.google.com/books?id=0qXBpoIE_QwC&pg=PA95&dq=%22E.+A.+Milne%22+Christianity&lr=&as_brr=3&sig=ACfU3U2JiWkKCjC0EeovLJjVo32DxCVu3w)
 |-
-|Robert Millikan <!-- red link: Robert Millikan --> (1868–1953)
+|[Robert Millikan](https://fi.wikipedia.org/wiki/Robert_Andrews_Millikan) <!-- red link: Robert Millikan --> (1868–1953)
 |
 
 *Kuva: Robert-millikan2.jpg*
@@ -589,15 +589,15 @@ Virginia Polytechnic Institute and State University <!-- red link: Virginia Poly
 |Hän sai Copley mitalin ja teki tutkimusta matemaattisesta fysiikasta. Hän piti luennon aiheesta *Space and Spirit. Theories of the Universe and the Arguments for the Existence of God.*
 |[McTutor](http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Whittaker.html)
 |-
-|Arthur Compton <!-- red link: Arthur Compton --> (1892–1962)
+|[Arthur Compton](https://fi.wikipedia.org/wiki/Arthur_H._Compton) <!-- red link: Arthur Compton --> (1892–1962)
 |
 
 *Kuva: Time Cover Arthur H Compton.jpg*
 
 |Sai Nobelin palkinnon fysiikassa. Hän toimi myös baptisti-kirkon diakonina ja kirjoitti artikkelin *Christianity Takes a Stand*.
-|American Physical Society <!-- red link: American Physical Society -->[http://www.aps.org/units/fps/newsletters/2003/april/commentary.html](http://www.aps.org/units/fps/newsletters/2003/april/commentary.html) and Time (magazine) <!-- red link: Time (magazine) -->[http://www.time.com/time/magazine/article/0,9171,755635-5,00.html](http://www.time.com/time/magazine/article/0,9171,755635-5,00.html)
+|[American Physical Society](https://fi.wikipedia.org/wiki/American_Physical_Society) <!-- red link: American Physical Society -->[http://www.aps.org/units/fps/newsletters/2003/april/commentary.html](http://www.aps.org/units/fps/newsletters/2003/april/commentary.html) and Time (magazine) <!-- red link: Time (magazine) -->[http://www.time.com/time/magazine/article/0,9171,755635-5,00.html](http://www.time.com/time/magazine/article/0,9171,755635-5,00.html)
 |-
-|Georges Lemaître <!-- red link: Georges Lemaître --> (1894–1966)
+|[Georges Lemaître](https://fi.wikipedia.org/wiki/Georges_Lemaître) <!-- red link: Georges Lemaître --> (1894–1966)
 |
 
 *Kuva: Lemaitre.jpg*
@@ -605,7 +605,7 @@ Virginia Polytechnic Institute and State University <!-- red link: Virginia Poly
 |Roomalaiskatolinen pappi, joka ensimmäinen esitti alkuräjähdysteorian.
 |[Catholic Education Resource Center](http://www.catholiceducation.org/articles/science/sc0022.html)
 |-
-|David Lack <!-- red link: David Lack --> (1910–1973)
+|[David Lack](https://fi.wikipedia.org/wiki/David_Lack) <!-- red link: David Lack --> (1910–1973)
 |
 
 *Kuva: Euplectes-orix-1.jpg*
@@ -613,7 +613,7 @@ Virginia Polytechnic Institute and State University <!-- red link: Virginia Poly
 |Kristityksi kääntynyt lintutieteen instituutin johtaja, joka kirjoitti teoksen *Evolutionary Theory and Christian Belief* in 1957. As he is in part known for his study of the genus Euplectes a Black-winged Red Bishop <!-- red link: Black-winged Red Bishop --> is pictured.
 |[Western Kentucky University](http://www.wku.edu/~smithch/chronob/LACK1910.htm) and [ASA's book reviews section](http://www.asa3.org/ASA/BookReviews1949-1989/12-60.html)
 |-
-|Theodosius Dobzhansky <!-- red link: Theodosius Dobzhansky --> (1900–1975)
+|[Theodosius Dobzhansky](https://fi.wikipedia.org/wiki/Theodosius_Dobzhansky) <!-- red link: Theodosius Dobzhansky --> (1900–1975)
 |
 
 *Kuva: St Basils Cathedral closeup.jpg*
@@ -621,7 +621,7 @@ Virginia Polytechnic Institute and State University <!-- red link: Virginia Poly
 |Ortodoksipappi ja geneetikko, joka kritisoi nuoren Maan kreationismia essessään: "Nothing in Biology Makes Sense Except in the Light of Evolution," ja argumentoi, että tiede ja usko eivät ole ristiriidassa toistensa kanssa.
 | [http://people.delphiforums.com/lordorman/light.htm](http://people.delphiforums.com/lordorman/light.htm)[http://www.newscientist.com/channel/life/evolution/mg14920155.100](http://www.newscientist.com/channel/life/evolution/mg14920155.100)
 |-
-|Michael Polanyi <!-- red link: Michael Polanyi --> (1891–1976)
+|[Michael Polanyi](https://fi.wikipedia.org/wiki/Michael_Polanyi) <!-- red link: Michael Polanyi --> (1891–1976)
 |
 
 *Kuva: Manchester Mechanics Institute (1825).jpg*
@@ -662,7 +662,7 @@ Virginia Polytechnic Institute and State University <!-- red link: Virginia Poly
 |Brittiläisen avaruustutkimuksen pioneri, joka oli kuninkaallisen tähtitieteellisen seuran varapresidentti. Hän luennoi kristinuskoon liittyvistä kysymyksistä ja oli perustamassa yhdistystä nimeltä "Research Scientists' Christian Fellowship" ja sen edeltäjää "Christians in Science".
 |[Obituary](http://www.blackwellpublishing.com/products/journals/aag/AAG_June04/aag_45339.htm) and [CiS](http://www.cis.org.uk/resources/articles/articles.shtml)
 |-
-|Richard Smalley <!-- red link: Richard Smalley -->
+|[Richard Smalley](https://fi.wikipedia.org/wiki/Richard_Smalley) <!-- red link: Richard Smalley -->
 (1943–2005)
 |
 
@@ -680,7 +680,7 @@ Virginia Polytechnic Institute and State University <!-- red link: Virginia Poly
 |Anglikaaninen pappi ja biokemisti, jonka käsitykset ovat vaikuttaneet anglikaanisiin ja luterilaisiin käsityksiin evoluutiosta.
 |Society of Ordained Scientists' website [http://home.earthlink.net/~jjkeggi/SOSc/22_Peacocke.html](http://home.earthlink.net/~jjkeggi/SOSc/22_Peacocke.html)
 |-
-|C. F. von Weizsäcker <!-- red link: Carl Friedrich von Weizsäcker -->
+|[C. F. von Weizsäcker](https://fi.wikipedia.org/wiki/Carl_Friedrich_von_Weizsäcker) <!-- red link: Carl Friedrich von Weizsäcker -->
 (1912–2007)
 |
 
@@ -696,27 +696,27 @@ Virginia Polytechnic Institute and State University <!-- red link: Virginia Poly
 *Kuva: Father Jaki June 2007.jpg*
 
 |Katolinen pappi ja Seton Hall yliopiston professori New Jerseyssä. Hän puolusti käsitystä, jonka mukaan moderni tiede saattoi syntyä ainoastan kristillisen kulttuurin pohjalta.
-|Seton Hall University <!-- red link: Seton Hall University --> site.[http://pirate.shu.edu/~jakistan/JakisBooks/SaviorOfScience.htm](http://pirate.shu.edu/~jakistan/JakisBooks/SaviorOfScience.htm)
+|[Seton Hall University](https://fi.wikipedia.org/wiki/Seton_Hallin_yliopisto) <!-- red link: Seton Hall University --> site.[http://pirate.shu.edu/~jakistan/JakisBooks/SaviorOfScience.htm](http://pirate.shu.edu/~jakistan/JakisBooks/SaviorOfScience.htm)
 |-
-|Charles Hard Townes <!-- red link: Charles Hard Townes -->
+|[Charles Hard Townes](https://fi.wikipedia.org/wiki/Charles_Hard_Townes) <!-- red link: Charles Hard Townes -->
 (s. 1915)
 |
 
 *Kuva: Charles Hard Townes.jpg*
 
 |Sai Nobelin palkinnon fysiikassa vuonna 1964 ja kirjoitti vuonna 1966 kirjan *The Convergence of Science and Religion*.
-|University of California, Berkeley <!-- red link: University of California, Berkeley -->[http://www.berkeley.edu/news/media/releases/2005/06/17_townes.shtml](http://www.berkeley.edu/news/media/releases/2005/06/17_townes.shtml) and Templeton Prize's site.[http://www.templetonprize.org/townes_pressrelease.html](http://www.templetonprize.org/townes_pressrelease.html)
+|[University of California, Berkeley](https://fi.wikipedia.org/wiki/Kalifornian_yliopisto_(Berkeley)) <!-- red link: University of California, Berkeley -->[http://www.berkeley.edu/news/media/releases/2005/06/17_townes.shtml](http://www.berkeley.edu/news/media/releases/2005/06/17_townes.shtml) and Templeton Prize's site.[http://www.templetonprize.org/townes_pressrelease.html](http://www.templetonprize.org/townes_pressrelease.html)
 |-
-|Ian Barbour <!-- red link: Ian Barbour -->
+|[Ian Barbour](https://fi.wikipedia.org/wiki/Ian_Barbour) <!-- red link: Ian Barbour -->
 (s. 1923)
 |
 
 *Kuva: Carleton chapel.JPG*
 
 |Fyysikko, joka kirjoitti kirjan **Christianity and the Scientists** vuonna 1960, ja **When Science Meets Religion** ISBN 0-06-060381-X vuonna 2000.
-|Templeton Prize <!-- red link: Templeton Prize --> site.[http://www.templetonprize.org/bios_recent.html](http://www.templetonprize.org/bios_recent.html)
+|[Templeton Prize](https://fi.wikipedia.org/wiki/Templeton-palkinto) <!-- red link: Templeton Prize --> site.[http://www.templetonprize.org/bios_recent.html](http://www.templetonprize.org/bios_recent.html)
 |-
-|Freeman Dyson <!-- red link: Freeman Dyson -->
+|[Freeman Dyson](https://fi.wikipedia.org/wiki/Freeman_Dyson) <!-- red link: Freeman Dyson -->
 (s. 1923)
 |
 
@@ -725,7 +725,7 @@ Virginia Polytechnic Institute and State University <!-- red link: Virginia Poly
 |Sai Lorentz mitalin ja Max Planck mitalin sekä Lewis Thomas palkinnon. Hänet on luokiteltu sijalle 25 maailmanlaajuisessa intellektuellin äänestyksessä. Hän sai Templeton palkinnon ja piti Gifford luennon.
 |[New York Review of Books](http://www.nybooks.com/articles/15220)
 |-
-|Allan Sandage <!-- red link: Allan Sandage -->
+|[Allan Sandage](https://fi.wikipedia.org/wiki/Allan_Sandage) <!-- red link: Allan Sandage -->
 (s. 1926)
 |
 
@@ -743,7 +743,7 @@ Virginia Polytechnic Institute and State University <!-- red link: Virginia Poly
 |Italialainen ydinfyysikko ja entinen Italin ydinfyysikko-yhdistyksen presidentti. Hän on tehnyt Vatikaanille työtä kirkon ja tieteen suhteista.
 |[Official Biography of Zichichi at the Ettore Majorana Foundation](http://www.ccsem.infn.it/em/zichichi/short_bio.html) [International Seminar on Nuclear War and Planetary Emergencies: 25th session ... by Antonino Zichichi, Richard C. Ragaini, Ettore M, pg 4](http://books.google.com/books?id=icoiYmJHO-MC&printsec=frontcover#v=onepage&q=holiness&f=false)
 |-
-|John Polkinghorne <!-- red link: John Polkinghorne -->
+|[John Polkinghorne](https://fi.wikipedia.org/wiki/John_Polkinghorne) <!-- red link: John Polkinghorne -->
 (s. 1930)
 |
 
@@ -779,7 +779,7 @@ Virginia Polytechnic Institute and State University <!-- red link: Virginia Poly
 |Hän on toiminut presidenttinä sekä yhdistyksessä Linnean Society of London että kristittyjen luonnontieteilijöiden yhdistyksessä **Christians in Science**. Hän kirjoitti teoksen **God and the Biologist: Personal Exploration of Science and Faith** (Apollos 1996) ISBN 0-85111-446-6 Hän opetti Lontoon yliopistossa yli 20 vuoden ajan.
 |[http://www.ivpress.com/cgi-ivpress/author.pl/author_id=43 iv press](http://www.cis.org.uk/about/vice-presidents) and [Christians in Science](http://www.cis.org.uk/about/past_presidents.shtml)
 |-
-|Michał Heller <!-- red link: Michał Heller -->
+|[Michał Heller](https://fi.wikipedia.org/wiki/Michał_Heller) <!-- red link: Michał Heller -->
 (s. 1936)
 |
 
@@ -797,7 +797,7 @@ Virginia Polytechnic Institute and State University <!-- red link: Virginia Poly
 |Tunnettu kasvitieteilijä, joka on myös kristittyjen luonnontieteellisen yhdistyksen Christians in Science presidentti.
 |[CiS interview](http://cis.org.uk/resources/interviews/interview_g_prance.shtml)
 |-
-|Donald Knuth <!-- red link: Donald Knuth -->
+|[Donald Knuth](https://fi.wikipedia.org/wiki/Donald_Knuth) <!-- red link: Donald Knuth -->
 (s. 1938)
 |
 
@@ -824,7 +824,7 @@ Virginia Polytechnic Institute and State University <!-- red link: Virginia Poly
 |Teoreettinen fyysikko, joka kehitti HPO formalismin. Sen lisäksi että hän on fyysikko, hän on myös filosofi ja teologi.
 |[***Stephen Hawking, the Big Bang, and God***, by H. F. Schaefer](http://www.leaderu.com/offices/schaefer/docs/bigbang.html) and [Foundational Questions Institute](http://docs.google.com/viewer?a=v&q=cache:dc2N-3UPd4cJ:www.fqxi.org/community/articles/download/__details/Isham_Christopher.pdf+christopher+isham+physicist&hl=en&gl=us&pid=bl&srcid=ADGEEShU0T2RqmXJOydIR31_2TL4ir6aeMwwWBI3Di0b-lH13Mj_hwnD0nlpp2Viaw7Pd9IhB6jEi45d0rX5nKizPYZt3TWx1Jv0TUjHYqqLEmdg9Lh9CSw41_Guw0i3Mt0VKR6BiXcE&sig=AHIEtbQopkUaNrcAgVpyR2CBIdsZfu-1sw)
 |-
-|Henry F. Schaefer, III <!-- red link: Henry F. Schaefer, III -->
+|[Henry F. Schaefer, III](https://fi.wikipedia.org/wiki/Henry_F._Schaefer,_III) <!-- red link: Henry F. Schaefer, III -->
 (s. 1944)
 |
 
@@ -833,7 +833,7 @@ Virginia Polytechnic Institute and State University <!-- red link: Virginia Poly
 |Hän kirjoitti teoksen *Science and Christianity: Conflict or Coherence?* ISBN 0-9742975-0-X ja on allekirjoittanut lausuman A Scientific Dissent From Darwinism. Hän sai Amerikan kemiayhdistyksen palkinnon kemiasa vuonna 1979.
 |[University of Georgia Athens](http://www.google.com/search?q=cache:WdDpip0T0IkJ:www.uga.edu/cff/testimonies/schaefer.pdf+%22Henry+F.+Schaefer,+III%22+%22Christianity%22&hl=en&gl=us&ct=clnk&cd=5)
 |-
-|Robert T. Bakker <!-- red link: Robert T. Bakker -->
+|[Robert T. Bakker](https://fi.wikipedia.org/wiki/Robert_T._Bakker) <!-- red link: Robert T. Bakker -->
 (s. 1945)
 |
 
@@ -860,7 +860,7 @@ Virginia Polytechnic Institute and State University <!-- red link: Virginia Poly
 |Brittiläinen paleontologi, joka sai mainetta tutkimalla Burgess Shale fossiileja. Hän sai Charles Doolittle Walcott mitalin ja Lyell mitalin. Hän toimii aktiivisesti Faraday instituutissa, jossa tutkitaan tieteen ja uskonnon suhdetta ja hänet tunnetaan teististä evoluutiota koskevista keskusteluistaan.
 |[Gifford Lectures](http://www.ed.ac.uk/news/070206gifford.html), [Boyle Lecture](http://64.233.169.104/search?q=cache:mlCMfcdJLU4J:www.stmarylebow.co.uk/%3Fdownload%3DBoyleLecture05.pdf+%22Simon+Conway+Morris%22+christian+-wikipedia&hl=en&ct=clnk&cd=14&gl=us), [Boston University](http://www.bu.edu/sjmag/scimag2005/features/evolution.htm).
 |-
-|John D. Barrow <!-- red link: John D. Barrow -->
+|[John D. Barrow](https://fi.wikipedia.org/wiki/John_D._Barrow) <!-- red link: John D. Barrow -->
 (s. 1952)
 |
 

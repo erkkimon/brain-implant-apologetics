@@ -4,7 +4,7 @@ about: apologetics
 title: "Usko ja tieto"
 description: "Länsimaisessa populaarikulttuurissa vallitsevan näkemyksen mukaan usko ja tieto ovat toistensa vastakohtia tai ainakin täysin riippumattomia toisistaan."
 tags: [apowiki, epistemologia, lukusuositukset]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Usko ja tieto".
@@ -66,7 +66,7 @@ Tämän näkemyksen mukaan uskonnollisten uskomusten totuuden tai epätotuuden r
 
 Tämä näkemys kuitenkin liioittelee tieteessä vallitsevaa yksimielisyyttä. Samalla lienee totta, että uskonnon osalta erimielisyydet ovat suurempia kuin [luonnontieteen](../glossary/sanasto.md#luonnontiede) osalta. Tällöin on kuitenkin huomattava, että uskonto koskettaa suurta osaa ihmisistä kaikkialla maailmassa, joten sen kannattajajoukko on kulttuurisesti, etnisesti ja koulutuksellisesti paljon sekalaisempi kuin luonnontieteilijöiden. Siksi on odotettavaa, että uskontoa koskevat erimielisyydet ovat suurempia ja konkreettisempia, koska uskonnonharjoittajien joukkoon kuuluu hyvin erilaisia ihmisiä erilaisista elämänoloista. Tämä erimielisyys ei sinänsä todista, etteikö olisi mitään keinoja ratkaista uskonnollisten käsitysten pätevyyttä. Lienee totta, ettei uskonnon kannattajan ole useinkaan mahdollista järkiperusteluilla vakuuttaa toisen uskonnon kannattajaa oman näkemyksensä pätevyydestä. Tällä psykologisella ja sosiologisella tosiseikalla ei kuitenkaan ole välttämättä mitään tekemistä sen kysymyksen kanssa, voidaanko uskonnollisia väitteitä yleensä arvioida järkiperäisesti.
 
-[Tiede](tiede.md) ja filosofia <!-- red link: filosofia --> ovat täynnä kiistoja mitä moninaisimmista kysymyksistä. Oletus, jonka mukaan uskonnolliset käsitykset ovat kiistanalaisia jossain paljon syvemmässä mielessä kuin muut yhtä laaja-alaiset käsitykset, on itsessään kiistanalainen. Läpi ajattelun historian on kiistelty siitä, onko Jumalasta mahdollista saada tietoa. Useat nykyajan uskonnonfilosofit <!-- red link: uskonnonfilosofia --> väittävät, että uskonnollisista kysymyksistä on mahdollista saada tietoa ja niitä koskevia kantoja voidaan perustella järkiperäisesti.
+[Tiede](tiede.md) ja [filosofia](https://fi.wikipedia.org/wiki/Filosofia) <!-- red link: filosofia --> ovat täynnä kiistoja mitä moninaisimmista kysymyksistä. Oletus, jonka mukaan uskonnolliset käsitykset ovat kiistanalaisia jossain paljon syvemmässä mielessä kuin muut yhtä laaja-alaiset käsitykset, on itsessään kiistanalainen. Läpi ajattelun historian on kiistelty siitä, onko Jumalasta mahdollista saada tietoa. Useat nykyajan [uskonnonfilosofit](https://fi.wikipedia.org/wiki/Uskonnonfilosofia) <!-- red link: uskonnonfilosofia --> väittävät, että uskonnollisista kysymyksistä on mahdollista saada tietoa ja niitä koskevia kantoja voidaan perustella järkiperäisesti.
 
 Kaikki metafyysiset, olevaisen perimmäistä luonnetta koskevat lauseet ovat kiistanalaisia, eivät pelkästään uskonnolliset. Tällainen metafyysinen kysymys on esimerkiksi kysymys aineellisen todellisuuden olemassaolosta. Onko olemassa aineellista todellisuutta? Mikä on inhimillisen kokemuksen ja ulkopuolisen todellisuuden suhde? Aineellisen todellisuuden olemassaolon todistus vetoaa väistämättä inhimilliseen kokemukseen ilman, että se pystyy vastaansanomattomasti todistamaan, että tämä kokemus vastaa todellisuutta. Merkitseekö tämä sitä, ettemme voi tietää, onko aineellista todellisuutta olemassa?
 

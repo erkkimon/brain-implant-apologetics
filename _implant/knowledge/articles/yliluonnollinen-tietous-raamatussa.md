@@ -4,7 +4,7 @@ about: apologetics
 title: "Yliluonnollinen tietous Raamatussa"
 description: "Yliluonnollisella tietoudella tarkoitetaan tietämystä, joka todetaan oikeelliseksi vasta myöhemmin."
 tags: [apowiki, raamattu]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Yliluonnollinen tietous Raamatussa".
@@ -24,7 +24,7 @@ Yliluonnollisella tietoudella tarkoitetaan tietämystä, joka todetaan oikeellis
 
 Vuonna 1844 **Isambard K.** rakennutti jättiläislaivan nimeltään *Great Britain*. Hänen rakennuttamansa laivan mittojen suhde oli osapuilleen 30:5:3.[^1] Laiva rakennettiin kyseisissä mittasuhteissa siksi, että ne ovat ilmeisesti optimaaliset suurelle laivalle, jonka ensisijainen tarkoitus ei ole liikkua kovaa.
 
-Ensimmäisessä Mooseksen kirjassa ( ([Gen. 6:15](../books/gen.md))) Jumala kehottaa Moosesta rakentamaan 300 [kyynärää](https://fi.wikipedia.org/wiki/kyynärä) pitkän, 50 leveän ja 30 korkean arkin <!-- red link: Nooan arkki -->, eli sen  mittojen suhde oli 30:5:3. Voidaan kysyä, että jos tieto ei todella tullut Jumalalta, mistä hatusta paimentolaiskansa nykäisi kyseisen mittasuhteen tarustoonsa?
+Ensimmäisessä Mooseksen kirjassa ( ([Gen. 6:15](../books/gen.md))) Jumala kehottaa Moosesta rakentamaan 300 [kyynärää](https://fi.wikipedia.org/wiki/kyynärä) pitkän, 50 leveän ja 30 korkean [arkin](https://fi.wikipedia.org/wiki/Nooan_arkki) <!-- red link: Nooan arkki -->, eli sen  mittojen suhde oli 30:5:3. Voidaan kysyä, että jos tieto ei todella tullut Jumalalta, mistä hatusta paimentolaiskansa nykäisi kyseisen mittasuhteen tarustoonsa?
 
 ### Hesekielin ennustus Tyyroksesta
 

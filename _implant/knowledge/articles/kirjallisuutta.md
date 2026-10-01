@@ -4,7 +4,7 @@ about: apologetics
 title: "Kirjallisuutta"
 description: "Alla hyvää kirjallisuutta kristinuskon perusteluihin tutustumiseen."
 tags: [apowiki, yleistä-tietoa, kirjat]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kirjallisuutta".
@@ -75,7 +75,7 @@ Alla hyvää kirjallisuutta [kristinuskon perusteluihin](kristinuskon-perustelut
 *[Five Views on Apologetics](http://isbndb.com/d/book/five_views_on_apologetics.html), William Lane Graig, Gary R. Habermas <!-- red link: Gary Robert Habermas -->, John M. Frame, Kelly James Clark, Paul D. Feinberg, Stanley N. Gundry (series editor), Steven B. Cowan (general editor)
 
 #### Evoluutioteoria
-*[Darwin's Black Box](darwins-black-box-kirja.md), Michael J. Behe <!-- red link: Michael J. Behe -->
+*[Darwin's Black Box](darwins-black-box-kirja.md), [Michael J. Behe](michael-behe.md)
 *[The Edge of Evolution](the-edge-of-evolution-kirja.md), Michael J. Behe
 
 #### Suunnitteluteoria

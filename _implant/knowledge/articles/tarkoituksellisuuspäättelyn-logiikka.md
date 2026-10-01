@@ -4,7 +4,7 @@ about: apologetics
 title: "Tarkoituksellisuuspäättelyn logiikka"
 description: "Tarkoituksellisuuspäättely on suunnitteluteoreettinen päättely, joka johtaa tutkittavaan kohteeseen liittyvän suunnitteluhypoteesin vahvistamiseen tai hylkäämiseen."
 tags: [apowiki, suunnitteluteoria]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tarkoituksellisuuspäättelyn logiikka".
@@ -123,7 +123,7 @@ Yksityiskohtaisempi vertailutaulukko on [Todennäköisyysrajojen vertailu](toden
 | 66,4
 | Evoluutiobiologia
 | 1 *CCC*
-| Biokemisti Michael Behen <!-- red link: Michael Behe --> [mukaan](the-edge-of-evolution-kirja.md) tämä on probabilistinen vaativuusaste, jonka ohjaamaton mutaatio-luonnonvalintamekanismi voi vielä ylittää melko usein jos lajin populaatiokoko ja mutaatiotaajuus ovat riittävän suuria.
+| Biokemisti [Michael Behen](michael-behe.md) [mukaan](the-edge-of-evolution-kirja.md) tämä on probabilistinen vaativuusaste, jonka ohjaamaton mutaatio-luonnonvalintamekanismi voi vielä ylittää melko usein jos lajin populaatiokoko ja mutaatiotaajuus ovat riittävän suuria.
 
 |-
 | 10<sup>-40</sup>
@@ -131,7 +131,7 @@ Yksityiskohtaisempi vertailutaulukko on [Todennäköisyysrajojen vertailu](toden
 | 132,9
 | Evoluutiobiologia
 | 2 *CCC*
-| Biokemisti Michael Behen <!-- red link: Michael Behe --> [mukaan](the-edge-of-evolution-kirja.md) tämä on probabilistinen vaativuusaste, jota ohjaamaton mutaatio-luonnonvalintamekanismi todennäköisesti *ei ole kyennyt ylittämään* teoreettisen tarkastelun sen enempää kuin käytännön havaintojenkaan mukaan *kertaakaan elämän historian aikana*.
+| Biokemisti [Michael Behen](michael-behe.md) [mukaan](the-edge-of-evolution-kirja.md) tämä on probabilistinen vaativuusaste, jota ohjaamaton mutaatio-luonnonvalintamekanismi todennäköisesti *ei ole kyennyt ylittämään* teoreettisen tarkastelun sen enempää kuin käytännön havaintojenkaan mukaan *kertaakaan elämän historian aikana*.
 
 |-
 | 10<sup>-50</sup>

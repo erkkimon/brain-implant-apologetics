@@ -4,7 +4,7 @@ about: apologetics
 title: "Vapaa-ajattelijat"
 description: "Vapaa-ajattelijat ovat Vapaa-ajattelijain liiton jäseniä. Vapaa-ajattelijoilla voidaan viitata myös Vapaa-ajattelijain liittoon."
 tags: [apowiki, vapaa-ajattelu]
-timestamp: 2026-10-01T19:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Vapaa-ajattelijat".
@@ -23,7 +23,7 @@ Vapaa-ajattelijat ovat Vapaa-ajattelijain liiton jäseniä. Vapaa-ajattelijoilla
 ### Vapaa-ajattelijain liitto
 Vapaa-ajattelijain liitto on suomalainen vuonna 1937 perustettu uskonnottomien aatteellinen oikeusturva- ja etujärjestö.[^1] Järjestö ilmoittaa tavoiteekseen [kirkon ja valtion erottamisen](https://fi.wikipedia.org/wiki/Kirkon_ja_valtion_ero) sekä [tieteellisen todellisuuskäsityksen](tieteellinen-maailmankatsomus.md) edistämisen.[^2]
 
-Sääntöjensä mukaan liitto on uskonnottomien ja uskontokuntiin kuulumattomien henkilöiden muodostamien yhdistysten keskusjärjestö. Vapaa-ajattelijain liitto on osa kansainvälistä vapaa-ajattelija-, humanisti-, sekularisti-, [ateisti](ateismi.md)- ja rationalistiliikettä.[^3] Liitto on poliittisesti sitoutumaton. Sen tavoitteena on ajaa uskonnottomien etuja, oikeuksia ja oikeusturvaa sekä edistää [tieteeseen](tiede.md) perustuvan uskonnottoman todellisuuskäsityksen <!-- red link: Maailmankuva --> leviämistä, uskontokritiikkiä <!-- red link: Uskontokritiikki --> ja ajatuksenvapautta. Liiton sääntöjen mukaan liiton kotipaikka on Helsingin kaupunki ja toiminta-alueena koko Suomi.[^2] Liitto koostuu jäsenjärjestöistä, jotka toimivat eri puolilla maata[^3]. Jäsenyhdistyksiin kuuluu noin 1 700 jäsentä.[^4]
+Sääntöjensä mukaan liitto on uskonnottomien ja uskontokuntiin kuulumattomien henkilöiden muodostamien yhdistysten keskusjärjestö. Vapaa-ajattelijain liitto on osa kansainvälistä vapaa-ajattelija-, humanisti-, sekularisti-, [ateisti](ateismi.md)- ja rationalistiliikettä.[^3] Liitto on poliittisesti sitoutumaton. Sen tavoitteena on ajaa uskonnottomien etuja, oikeuksia ja oikeusturvaa sekä edistää [tieteeseen](tiede.md) perustuvan uskonnottoman [todellisuuskäsityksen](https://fi.wikipedia.org/wiki/Maailmankuva) <!-- red link: Maailmankuva --> leviämistä, [uskontokritiikkiä](https://fi.wikipedia.org/wiki/Uskontokritiikki) <!-- red link: Uskontokritiikki --> ja ajatuksenvapautta. Liiton sääntöjen mukaan liiton kotipaikka on Helsingin kaupunki ja toiminta-alueena koko Suomi.[^2] Liitto koostuu jäsenjärjestöistä, jotka toimivat eri puolilla maata[^3]. Jäsenyhdistyksiin kuuluu noin 1 700 jäsentä.[^4]
 
 Liiton on tarkoituksena toimia uskonnottomien yhteiskunnallisen ja oikeudellisen aseman parantamiseksi tekemällä aloitteita valtiovallalle ja kunnille ja toimimalla uskonnottomien puolestapuhujana julkisessa keskustelussa. Liiton tavoitteina on myös antaa tietoa uskonnottomien ihmisten oikeuksista ja velvollisuuksista. Liitto myös valistaa ihmisiä [uskonnottomaan tapakulttuuriin](https://fi.wikipedia.org/wiki/Uskonnoton_tapakulttuuri) liittyvissä tavoissa kuten [nimenantojuhlassa](https://fi.wikipedia.org/wiki/Nimiäiset), [aikuistumiskoulutuksessa](https://fi.wikipedia.org/wiki/Uskonnoton_aikuistumiskoulutus) ja -juhlassa, avioliiton solmimisessa ja hautajaisten järjestämisestä.[^3]
 

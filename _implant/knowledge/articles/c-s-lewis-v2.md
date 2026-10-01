@@ -4,7 +4,7 @@ about: apologetics
 title: "C. S. Lewis"
 description: "Clive Staples Lewis (29. marraskuuta 1898 – 22. marraskuuta 1963) on legendaarisimmaksi tituleerattu kristitty apologeetta."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-01T19:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "C. S. Lewis".
@@ -83,7 +83,7 @@ Lewisin uskonnäkemys oli klassinen. Hän pitäytyi kirkkojen vanhoihin uskontun
 
 Lewisin tapa argumentoida kristillisen uskon puolesta oli apologeettinen ja yleiseen järkeen vetoava. Hän käytti Raamattu-argumentteja hyvin vähän, ja pyrki puolustamaan klassisen kristinuskon oppeja selittämällä niitä arkikokemuksen kautta. Lewisin uskon mukaan kristinusko kestää kriittisenkin tarkastelun – kunhan tarkastelija itse on vapaa tiedostamattomista ennakkokäsityksistä. Tällaisia ennakkokäsityksiä oli muun muassa Lewisin keksimä termi "kronologinen snobbailu". Tällä hän tarkoitti modernille ihmiselle ominaista asennetta, jonka mukaan kaikki vanhat asiat ja ideat ovat epäuskottavia yksinkertaisesti sen tähden, että ne ovat vanhoja. Lewisin mukaan väitteiden uskottavuutta ei voida kumota niiden iän perusteella.
 
-Filosofiassa ja teologiassa Lewis liittyy monin osin augustinolais-platonistiseen perinteeseen. Tämä näkyy muun muassa voimakkaana tuonpuoleisuuden korostuksena, sielu–ruumis-erottelun <!-- red link: mieli–ruumis-ongelma --> tekemisenä ja käsityksenä Jumalasta "sielun valona", joka mahdollistaa ihmiselle järkevän ajattelun.
+Filosofiassa ja teologiassa Lewis liittyy monin osin augustinolais-platonistiseen perinteeseen. Tämä näkyy muun muassa voimakkaana tuonpuoleisuuden korostuksena, [sielu–ruumis-erottelun](https://fi.wikipedia.org/wiki/Mieli–ruumis-ongelma) <!-- red link: mieli–ruumis-ongelma --> tekemisenä ja käsityksenä Jumalasta "sielun valona", joka mahdollistaa ihmiselle järkevän ajattelun.
 
 ### Aiheesta muualla
 <!--=== Internet ===

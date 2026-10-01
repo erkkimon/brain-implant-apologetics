@@ -4,7 +4,7 @@ about: apologetics
 title: "Evoluutioteorian historia"
 description: "Evoluutoajatuksia ovat esittäneet jo antiikin Kreikan materialistit, erityisesti Lucretius, joiden katsomukset vaativat jonkinlaisen materiasta itsestään syntymisen."
 tags: [apowiki, evoluutioteoria]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Evoluutioteorian historia".
@@ -34,7 +34,7 @@ Darwin kertoo, kunka vuonna 1838, lokakuun 3. päivänä hän sai äkillisen oiv
 
 Juuri, kun Darwin oli saamaisillaan pääteoksensa valmiiksi, ilmeni, että Alfred Russell Wallace oli Malaijien saaristossa tullut samoihin johtopäätöksiin kuin Darwin.
 
-Darwinin pääteos *Lajien synty <!-- red link: Lajien synty -->* ilmestyi marraskuun 24. päivänä vuonna 1859. 1250 kappaleen painos myytiin loppuun seuraavana päivänä.
+Darwinin pääteos *[Lajien synty](https://fi.wikipedia.org/wiki/Lajien_synty) <!-- red link: Lajien synty -->* ilmestyi marraskuun 24. päivänä vuonna 1859. 1250 kappaleen painos myytiin loppuun seuraavana päivänä.
 
 Charles Darwinin teoriat herättivät runsaasti vastustusta heti julkaisunsa jälkeen pudottamalla ihmisen luomakunnan kruunun paikalta muiden eliölajien joukkoon. Ajatus ihmisestä eläimen sukulaisena herätti inhoa, ja lehdissä julkaistiin pilapiirroksia Darwinista apinaserkkujensa kanssa. Toinen ajatus oli, että ihmisistä tulisi julmia ja moraalittomia, koska he ovat periytyneet eläimistä.
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "The Bible, Protestantism, and the Rise of Natural Science (kirja)"
 description: "Oxfordin yliopiston tieteen ja uskonnon Andreas Idreos -professori Peter Harrison argumentoi kirjassaan, että yksi modernin luonnontieteen syntyyn vaikuttaneista tekijöistä oli sanakeskeisen kulttuurin kehitys."
 tags: [apowiki, kirjat, historia]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "The Bible, Protestantism, and the Rise of Natural Science (kirja)".
@@ -26,7 +26,7 @@ Sanakeskeisen kulttuurin kehityksessä keskeinen merkitys oli [Raamatulla](raama
 >
 > — Harrison[^1]
 
-Keskiaikaa hallinnut allegorinen Raamatun lukutapa liittyi Harrisonin[^2] mukaan yhteen luonnon symbolisen lukemisen ja järjestämisen kanssa. Platoninen <!-- red link: Platon --> lähestymistapa teki mahdolliseksi tulkita luonnon maailmaa sellaisen merkitysopin pohjalta, jossa jokaista näkyvää piirrettä luomakunnassa vastasi jokin näkymättömässä maailmassa. Tätä lähestymistapaa edusti esimerkiksi kirkkoisä Origenes <!-- red link: Origenes -->: ”Jokainen näkyvä olio on suhteutettava niihin, jotka ovat näkymättömiä – – kaikella näkyvällä on jokin näkymätön hahmo ja malli.”[^3]
+Keskiaikaa hallinnut allegorinen Raamatun lukutapa liittyi Harrisonin[^2] mukaan yhteen luonnon symbolisen lukemisen ja järjestämisen kanssa. [Platoninen](https://fi.wikipedia.org/wiki/Platon) <!-- red link: Platon --> lähestymistapa teki mahdolliseksi tulkita luonnon maailmaa sellaisen merkitysopin pohjalta, jossa jokaista näkyvää piirrettä luomakunnassa vastasi jokin näkymättömässä maailmassa. Tätä lähestymistapaa edusti esimerkiksi kirkkoisä [Origenes](https://fi.wikipedia.org/wiki/Origenes) <!-- red link: Origenes -->: ”Jokainen näkyvä olio on suhteutettava niihin, jotka ovat näkymättömiä – – kaikella näkyvällä on jokin näkymätön hahmo ja malli.”[^3]
 
 Luonnon tulkintaperiaatteet olivat läheisessä yhteydessä Raamatun tulkinnan periaatteisiin. Origeneen mukaan sekä luontoon että Raamattuun sisältyy voimallisia symboleja. ”Tämä suhde [näkyvän ja näkymättömän välillä] ei päde ainoastaan luontokappaleisiin. Itse jumalallinen Raamattu on kirjoitettu samanlaisella viisaudella.”[^4] Sekä Raamatun että luonnon tulkinnan edellytyksenä oli määrittää niihin sisältyvien symbolien salattu merkitys. Tulkinnan piti pystyä kuljettamaan lukija kirjaimellisen merkityksen taakse tekstin salattuun hengelliseen merkitykseen. Avain tällaiseen tulkintatapaan oli allegoria. Kreikkalaiset filosofit olivat jo pitkään käyttäneet allegorista lukemistapaa siistiäkseen Homeroksen ja Hesiodoksen kertomia myyttejä jumalista. Herakleitos kirjoitti Homeroksesta: ”Jos kaikki hänen kirjoittamansa ei ole allegoriaa, kaikki on jumalatonta.”[^5]
 

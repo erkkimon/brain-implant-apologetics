@@ -2,7 +2,7 @@
 type: skill
 title: Convert ApoWiki wikitext into implant articles
 description: Use when turning the ApoWiki export in raw/apowiki-export/ into searchable articles under knowledge/ — the deterministic, token-free conversion that produces the MVP, including wiki-link resolution, citation footnotes and the topic spine that grounds every page.
-timestamp: 2026-10-01T19:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 depends_on: [skills/using-the-brain-implant.md]
 tools:
   - skills/tools/apowiki_convert.py
@@ -10,6 +10,7 @@ tools:
   - skills/tools/apowiki_books.py
   - skills/tools/apowiki_glossary.py
   - skills/tools/apowiki_stamp.py
+  - skills/tools/apowiki_redlinks.py
 ---
 
 # Convert ApoWiki wikitext into implant articles
@@ -31,6 +32,11 @@ python3 _implant/skills/tools/apowiki_glossary.py
 
 # 1. wikitext -> markdown articles (reads raw/ and the fetch cache, writes knowledge/articles/)
 python3 _implant/skills/tools/apowiki_convert.py
+
+# 1b. only when red links changed: look new red-link targets up in the
+#     Finnish Wikipedia, review the additions to red-link-wikipedia.json by
+#     hand (null keeps a target red), then re-run step 1
+# python3 _implant/skills/tools/apowiki_redlinks.py
 
 # 2. categories -> topic pages, and a breadcrumb on every article
 python3 _implant/skills/tools/apowiki_topics.py
@@ -72,6 +78,20 @@ references linked to their book pages, zero ghosts.
 * **Red links are honest.** A wiki link whose target does not exist becomes
   plain text plus an HTML comment (`<!-- red link: Target -->`), so it is
   greppable and reported, never a path that merely looks plausible.
+* **Titles resolve the way MediaWiki resolves them.** An exact match comes
+  first, then a capitalised first letter, and only then a case-insensitive
+  match that prefers an article over a redirect. Before 2026-10-01 the
+  lower-cased lookup let the redirect *Michael behe* shadow the article
+  *Michael Behe*, and the corpus's most-linked person read as a red link
+  ([journal](../journals/2026-10-01.md)). Invisible marks (U+200E), a
+  leading colon, underscores and `#section` are stripped first.
+* **A red link to a subject Wikipedia covers links there and stays red.**
+  `red-link-wikipedia.json` (written by `apowiki_redlinks.py`, then reviewed
+  by hand) maps a target such as *Immanuel Kant* to its Finnish Wikipedia
+  page. The label links there and the `<!-- red link -->` comment stays, so
+  the page still counts as wanted. Reviewing matters: *David Quinn* the
+  debater is a hockey player in Wikipedia, and *perusryhmä* (a created kind)
+  is a topology term there; such entries are null.
 * **Glossary links land somewhere useful.** An `AW:S#term` link to a term
   the glossary defines lands on its anchor. The 41 terms it does not define
   were decided once, in `GLOSSARY_FALLBACKS` in the converter: a near-variant

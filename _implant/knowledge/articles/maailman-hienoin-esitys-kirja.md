@@ -4,7 +4,7 @@ about: apologetics
 title: "Maailman hienoin esitys (kirja)"
 description: "Richard Dawkinsin kirja Maailman hienoin esitys: Evoluution todisteet (Terra Cognita 2009) on yksi viimeaikaisista yrityksistä tuoda tavallisen kansan tietoon evoluutioteorian todisteita."
 tags: [apowiki, kirjat, richard-dawkins, evoluutioteoria]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Maailman hienoin esitys (kirja)".
@@ -68,7 +68,7 @@ Dogmaattisen naturalistin kannalta vaihtoehtoja ei ole, koska hän edeltä sulke
 
 ### Lenskin tutkimukset: Behe vastaan Dawkins
 
-Biokemisti **Michael Behe <!-- red link: Michael Behe -->** osoittaa kirjassaan *[The Edge of Evolution](the-edge-of-evolution-kirja.md)*, että ohjaamaton evoluutio ei selitä sellaista geneettisen monimutkaisuuden kehittymistä, joka edellyttää sellaista samanaikaista mutaatioiden rypästä, jonka tilastollinen kokonaistodennäköisyys on vähemmän kuin 10<sup>-40</sup>. Tällä tavalla biokemiallinen todistusaineisto muodostaa ratkaisevan testin, jota ohjaamaton evoluutioteoria ei läpäise, mutta jonka luomisteoria kestää. Luomisteoria tarjoaa pohjan ennusteille, jotka ovat osoittautuneet yhteensopiviksi tieteellisen todistusaineiston kanssa. Sen sijaan darvinismin pohjalta tehdyt vastaavat ennusteet ovat kumoutuneet.
+Biokemisti **[Michael Behe](michael-behe.md)** osoittaa kirjassaan *[The Edge of Evolution](the-edge-of-evolution-kirja.md)*, että ohjaamaton evoluutio ei selitä sellaista geneettisen monimutkaisuuden kehittymistä, joka edellyttää sellaista samanaikaista mutaatioiden rypästä, jonka tilastollinen kokonaistodennäköisyys on vähemmän kuin 10<sup>-40</sup>. Tällä tavalla biokemiallinen todistusaineisto muodostaa ratkaisevan testin, jota ohjaamaton evoluutioteoria ei läpäise, mutta jonka luomisteoria kestää. Luomisteoria tarjoaa pohjan ennusteille, jotka ovat osoittautuneet yhteensopiviksi tieteellisen todistusaineiston kanssa. Sen sijaan darvinismin pohjalta tehdyt vastaavat ennusteet ovat kumoutuneet.
 
 Väitteensä tueksi Behe[^13] vetoaa bakteereihin ja malarialoiseen kohdistuneisiin tutkimuksiin. Behen mukaan malarialoiseen kohdistuva kokeellinen tutkimus osoittaa, ettei darvinistinen evoluutioteoria pysty selittämään elämän perustana olevien monimutkaisten rakenteiden kehittymistä. Malarialoiseen kohdistuvalla tutkimuksella on vastaava merkitys darvinistisen teorian totuuden empiirisessä testaamisessa kuin mikä oli [Michelson-Morley-kokeella](https://fi.wikipedia.org/wiki/Michelsonin–Morleyn_koe) arvioitaessa [eetteri](https://fi.wikipedia.org/wiki/Valoeetteri)-teorian uskottavuutta. Michelson-Morley-koe ei ehdottomasti todistanut, ettei eetteriä ole olemassa, mutta se horjutti vakavasti eetteri-teorian uskottavuutta. Samalla tavoin malarialoiseen kohdistuva tutkimus ei ehdottomasti todista, että darvinistiset mekanismit eivät pysty tuottamaan elämän edellyttämiä monimutkaisia rakenteita. Tutkimus kuitenkin horjuttaa vakavasti darvinistisen teorian uskottavuutta.
 

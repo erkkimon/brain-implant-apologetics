@@ -4,7 +4,7 @@ about: apologetics
 title: "Raamatun ulkopuoliset viittaukset Jeesukseen"
 description: "Historiallisen Jeesuksen olemassaoloa ei juuri kukaan vakavasti otettava tutkija epäile."
 tags: [apowiki, historia, jeesus]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Raamatun ulkopuoliset viittaukset Jeesukseen".
@@ -110,7 +110,7 @@ Edellä mainitut kolme ei-kristittyä historioitsijaa ovat kirjoittaneet tärkei
 
 Raamatun ulkopuolisen historian kirjoituksen todistus Jeesus Nasaretilaisen historiallisuuden puolesta on siis kaiken kaikkiaan suhteellisen vahva. Vaikka pelkästään kyseisen aineiston perusteella ei pystytä luomaan kovin selvää kuvaa Jeesuksesta, voidaan marxilainen teoria Jeesuksen epähistoriallisuudesta hylätä. Toisaalta mainintojen sivuseikkamaisuutta voidaan pitää tärkeänä, koska se osoittaa tekstin tarkoituksen olleen joku muu kuin Kristuksen historiallisuuden vahvistaminen.
 
-Raamatun ulkopuoliset lähteet ovat historian Jeesuksen <!-- red link: historian Jeesus --> rekunstroimisen kannalta tärkeitä, vaikka on muistutettava että juuri [Uusi Testamentti](uusi-testamentti.md) on historiallisesti merkittävimpien Jeesuksesta kertovien lähteiden kokoelma. Keskittyminen UT:n ulkopuolisiin lähteisiin on siis yhtä viisasta kuin Julius Ceasarin yhteen kansiin koottujen lähdeteosten sivuuttaminen ja kokoelman ulkopuolisiin lähteisiin keskittyminen.
+Raamatun ulkopuoliset lähteet ovat [historian Jeesuksen](https://fi.wikipedia.org/wiki/Historiallinen_Jeesus) <!-- red link: historian Jeesus --> rekunstroimisen kannalta tärkeitä, vaikka on muistutettava että juuri [Uusi Testamentti](uusi-testamentti.md) on historiallisesti merkittävimpien Jeesuksesta kertovien lähteiden kokoelma. Keskittyminen UT:n ulkopuolisiin lähteisiin on siis yhtä viisasta kuin Julius Ceasarin yhteen kansiin koottujen lähdeteosten sivuuttaminen ja kokoelman ulkopuolisiin lähteisiin keskittyminen.
 
 Mutta myös UT:n ulkopuolisista lähteistä voidaan rekonstruoida Jeesuksen elämää melko kattavasti, kuten että häntä kutsuttiin Messiaaksi ja teki ihmetekoja, kuoli ristillä ja että opetuslapset uskoivat hänen nousseen kuolleista ja kuolivat tämän uskonsa puolesta – ja heillä oli silminnäkijöinä todellinen tieto asiasta, he olisivat tienneet jos juttu olisi ollut valetta.
 

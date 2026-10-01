@@ -4,7 +4,7 @@ about: apologetics
 title: "Evoluution määritelmä"
 description: "Tämä artikkeli käsittelee \"evoluutio\"-termin erilaisia määritelmiä."
 tags: [apowiki, evoluutioteoria]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Evoluution määritelmä".
@@ -31,7 +31,7 @@ Tällöin evoluutio on asia, jota kukaan tuskin kieltää. Tässä merkityksess�
 
 ### Ristiriitaisten määritelmien aiheuttamia ongelmia
 
-Evoluution todisteita arvioitaessa on tärkeätä varoa syyllistymästä [virheelliseen analogiaan](https://fi.wikipedia.org/wiki/Virheellinen_analogia). Jos todisteet puhuvat yhdenlaisen evoluution puolesta, ne voivat kuitenkin puhua samalla jotakin toisenlaista evoluutiota vastaan. Monet tunnetut evoluutioskeptikot, kuten Philip Johnson <!-- red link: Philip Johnson -->, Paul Nelson <!-- red link: Paul Nelson --> ja Jonathan Wells <!-- red link: Jonathan Wells -->, kiinnittävät huomiota evoluutiokeskusteluissa termin määrittelyn sekavuuteen.
+Evoluution todisteita arvioitaessa on tärkeätä varoa syyllistymästä [virheelliseen analogiaan](https://fi.wikipedia.org/wiki/Virheellinen_analogia). Jos todisteet puhuvat yhdenlaisen evoluution puolesta, ne voivat kuitenkin puhua samalla jotakin toisenlaista evoluutiota vastaan. Monet tunnetut evoluutioskeptikot, kuten [Philip Johnson](https://fi.wikipedia.org/wiki/Philip_Johnson) <!-- red link: Philip Johnson -->, Paul Nelson <!-- red link: Paul Nelson --> ja [Jonathan Wells](https://fi.wikipedia.org/wiki/John_Corrigan_Wells) <!-- red link: Jonathan Wells -->, kiinnittävät huomiota evoluutiokeskusteluissa termin määrittelyn sekavuuteen.
 
 > *"Evoluutio"* on konstikas sana. Jos sillä tarkoitetaan *"pieniä muutoksia ajan saatossa"*, niin luupäisinkin fundamentalisti tietää, että Maapallon historiassa on tapahtunut muutoksia. Mikäli evoluutiolla tarkoitetaan oppia, jonka mukaan *"Kaikki eliöt polveutuvat yhteisestä esi-isästä ohjaamattomien mutaatioden ja luonnonvalinnan kautta"* (tämä on oppikirjan määritelmä evoluutiolle), herättää se ensiluokkaisissakin biologeissa vaikeita kysymyksiä.
 >
@@ -112,7 +112,7 @@ Evoluutioteorian ympärillä pyörii runsaasti epäselviä käsitteitä, joiden 
 #### ApologetiikkaWiki
 * [Suunnitteluteoria](suunnitteluteoria.md)
 * [Luomisoppi](kreationismi.md)
-* Rushmore-vuoren kansallinen muistomerkki‎ <!-- red link: Rushmore-vuoren kansallinen muistomerkki‎ -->
+* [Rushmore-vuoren kansallinen muistomerkki‎](rushmore-vuoren-kansallinen-muistomerkki.md)
 
 #### Internet
 * Marko Grönroos: [Evoluutio – mitä se on?](http://www.nic.funet.fi/~magi/artikk/evoluutio/maaritelma.html)

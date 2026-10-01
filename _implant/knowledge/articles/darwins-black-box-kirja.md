@@ -4,7 +4,7 @@ about: apologetics
 title: "Darwin's Black Box (kirja)"
 description: "Darwin's Black Box: The Biochemical Challenge to Evolution (DBB) on ensimmäinen Michael Behen suunnitteluteoreettisia asioita käsittelevä kirja."
 tags: [apowiki, tyngät, kirjat, evoluutioteoria, suunnitteluteoria]
-timestamp: 2026-10-01T19:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Darwin's Black Box (kirja)".
@@ -31,7 +31,7 @@ Luvut 1 ja 2 valottavat Behen oivallusta, jota hän kutsuu *[palautumattomaksi m
 * [Palautumaton monimutkaisuus](palautumaton-monimutkaisuus.md)
 * [Suunnitteluteoria](suunnitteluteoria.md)
 * [Evoluutioteoria](evoluutioteoria.md)
-* Michael Behe <!-- red link: Michael Behe -->
+* [Michael Behe](michael-behe.md)
 * [The Edge of Evolution (kirja)](the-edge-of-evolution-kirja.md)
 
 #### Internet

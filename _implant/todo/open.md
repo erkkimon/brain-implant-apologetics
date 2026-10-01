@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to be done — the implant's live work queue.
-timestamp: 2026-10-01T19:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 
 # Open
@@ -45,7 +45,7 @@ testaments in `knowledge/books/`, each pointing at the theology spine.
 - [ ] Decide where English pages live (a sibling `articles-en/` folder or `lang`-suffixed files) with the first batch, and record it in the plan
 - [ ] Decide the theme order for translation batches (suggested: the highest-link hubs first — Plantinga, Puolimatka, suunnitteluteoria — so each batch strengthens the graph most)
 - [ ] Per batch: machine-translate one themed slice to English → improve that slice (ground claims, close its red links, enrich links) → commit. Themed, not alphabetical.
-- [ ] First improvement pass on the red-link report from Phase 1: create the pages the graph asked for
+- [ ] Create the pages the graph asks for. 254 red-link targets (273 links) still have no target at all; the most wanted are *Nasaretilaisen haaste* (5), *Paul Nelson* (3) and a run of ID-movement people and books (Denton, Jaki, Gonzalez, Richards, Discovery Institute). The 330 others link to Finnish Wikipedia but stay wanted. Do it with the translation batch that touches the theme, since a new page is token work
 - [ ] Fix conversion degradation where the visible raw markup shows it is worth fixing (tables, exotic templates)
 
 ## Deferred (after the MVP, still open)

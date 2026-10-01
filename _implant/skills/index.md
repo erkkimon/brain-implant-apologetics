@@ -24,6 +24,9 @@ the tree.
   (`ApoWiki:Sanasto`) into `raw/apowiki-project/` and
   `knowledge/glossary/sanasto.md`, one anchor per term, so the articles'
   `AW:S#term` links land.
+* `tools/apowiki_redlinks.py` — look red-link targets up in the Finnish
+  Wikipedia and record the hits in `tools/red-link-wikipedia.json` for
+  review; the converter links reviewed hits there and keeps them red.
 * `tools/apowiki_stamp.py` — after regenerating, restore the committed
   timestamp on every page that did not change and bump the rest.
 * `tools/apowiki_translate.py` — translate one article with a small local

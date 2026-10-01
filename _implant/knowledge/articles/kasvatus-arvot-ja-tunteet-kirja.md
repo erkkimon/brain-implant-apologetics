@@ -4,7 +4,7 @@ about: apologetics
 title: "Kasvatus, arvot ja tunteet (kirja)"
 description: "Kasvatus, arvot ja tunteet on Tapio Puolimatkan kirjoittama kirja, joka tarkastelee erilaisia tunneteorioita ja niiden maailmankatsomuksellista taustaa, omantunnon eri merkityksiä, tunteiden merkitystä oppimisessa, tieteessä ja yhteiskunnallisissa liikkeissä."
 tags: [apowiki, filosofia, kirjat, tapio-puolimatka]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kasvatus, arvot ja tunteet (kirja)".
@@ -26,7 +26,7 @@ Arvojen ja tunteiden ymmärtämisen näkökulmasta voidaan länsimaisessa kulttu
 
 (1)	Viime vuosisatoina kulttuurissa on päässyt vallalle näkemys, jonka mukaan olemassaololla ei ole perimmältään mitään tarkoitusta tai päämäärää vaan kaikki on seurausta ohjaamattomien luonnollisten prosessien vaikutuksesta. Kutsun tätä näkemystä naturalismiksi, koska sen mukaan luonto (natura) on selitys omalle olemassaololleen eikä tarvitse mitään itsensä ulkopuolella olevaa päämäärää, tarkoitusta tai arvoa. Pyrin osoittamaan, että naturalismin pelkistävä todellisuusnäkemys vie pohjan elämän tarkoitukselta ja arvojen yleispätevyydeltä ja samalla inhimillisen tunne-elämän keskeisiltä ulottuvuuksilta. Naturalistinen lähestymistapa ei pysty tekemään oikeutta tunteiden koko rikkaudelle, koska se on kadottanut näkemyksen tunteiden arvoperustasta.
 
-(2)	Sokrateen <!-- red link: Sokrates -->, Platonin <!-- red link: Platon --> ja Aristoteleen <!-- red link: Aristoteles --> sekä stoalaisuuden varaan rakentuva hyve-eettinen perinne opettaa ihmisen tulevan onnelliseksi elämällä hyveellistä elämää. Siksi tätä lähestymistapaa kutsutaan myös eudaimonismiksi (eudaimon = onnellisuus). Tämä lähestymistapa tekee oikeutta tunteiden tiedolliselle luonteelle ja arvojen yleispätevyydelle. Se ei kuitenkaan pysty tekemään oikeutta ihmisen haavoittuvuudelle, koska se kiinnittää kaiken huomion ihmisen hyveellisyyden kehitykseen ja pitää aineellisia elinehtoja toisarvoisina.
+(2)	[Sokrateen](https://fi.wikipedia.org/wiki/Sokrates) <!-- red link: Sokrates -->, [Platonin](https://fi.wikipedia.org/wiki/Platon) <!-- red link: Platon --> ja [Aristoteleen](https://fi.wikipedia.org/wiki/Aristoteles) <!-- red link: Aristoteles --> sekä stoalaisuuden varaan rakentuva hyve-eettinen perinne opettaa ihmisen tulevan onnelliseksi elämällä hyveellistä elämää. Siksi tätä lähestymistapaa kutsutaan myös eudaimonismiksi (eudaimon = onnellisuus). Tämä lähestymistapa tekee oikeutta tunteiden tiedolliselle luonteelle ja arvojen yleispätevyydelle. Se ei kuitenkaan pysty tekemään oikeutta ihmisen haavoittuvuudelle, koska se kiinnittää kaiken huomion ihmisen hyveellisyyden kehitykseen ja pitää aineellisia elinehtoja toisarvoisina.
 
 (3)	Kristinusko tuo korostetusti esille tunteiden arvopohjan opissaan, jonka mukaan ihminen on [Jumalan](jumala.md) kuvaksi luotu olento, jonka tulisi tunne-elämässään heijastaa Jumalan täydellisen hyviä tunteita. Sen lisäksi kristinusko tuo esille ihmisen haavoittuvuuteen liittyvien tunteiden merkityksen erityisesti [Kristuksen](jeesus-nasaretilainen.md) kärsimyshistoriassa. Kristillinen näkemys arvojen ja tunteiden asemasta ihmiselämässä saa keskeisen ilmauksensa kristillisessä opissa inkarnaatiosta: Jumala on ilmoittanut itsensä tulemalla ihmiseksi Jeesus Nasaretilaisessa, joka sovitti ihmisen synnin kärsimyksellään ja kuolemallaan.
 

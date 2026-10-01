@@ -4,7 +4,7 @@ about: apologetics
 title: "Maailman ikä – teologinen näkökulma"
 description: "Tämän tekstin tavoite on esitellä ja verrata näkyvän universumin (maailmankaikkeuden) ja maapallon ikää koskevia erilaisia raamatuntulkintoja."
 tags: [apowiki, raamattu, luomisoppi]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Maailman ikä – teologinen näkökulma".
@@ -72,7 +72,7 @@ Eli 4. päivänä ei ehkä luoda taivaankappaleita vaan niille annetaan tarkoitu
 
 Inhimillisessä mittakaavassa mitä valtavimpien taivaankappaleiden aikaansaamiseen sen sijaan riittivät laadullisesti yksinkertaisemmat jo luodun materian siirrot paikasta toiseen, joten vaikka taivaankappaleet tässä vaiheessa näin tehtiinkin, mitään laadullisesti uutta ei siinä silti kutsuttu olemattomuudesta olemaan, vaan taivaankappaleiden toiminta (kuten vetovoima, liiketila ja mahdollinen säteily) perustuvat suoraan jo aiemmin luodun todellisuuden (kuten ajan, tilan, aineen ja energian) ominaisuuksiin.
 
-Luomiseen liittyviä raamatunkohtia <!-- red link: luominen raamatussa -->
+[Luomiseen liittyviä raamatunkohtia](luominen-raamatussa.md)
 
 ### Maapallon ikään liittyvät tulkinnat
 

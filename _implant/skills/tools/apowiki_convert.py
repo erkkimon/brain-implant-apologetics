@@ -113,6 +113,11 @@ GLOSSARY_FALLBACKS: dict[str, str | None] = {
 }
 
 
+# Red-link targets with a reviewed Finnish Wikipedia page (apowiki_redlinks.py).
+_RLW = Path(__file__).resolve().parent / "red-link-wikipedia.json"
+RED_LINK_WIKIPEDIA: dict[str, str | None] = (
+    json.loads(_RLW.read_text(encoding="utf-8")) if _RLW.exists() else {})
+
 # ---------------------------------------------------------------------------
 # Slug — byte-identical to apowiki_import.slug(). Do not "improve" it here:
 # the two must agree or the links this tool writes will not match the files
@@ -245,8 +250,12 @@ class Converter:
     def __init__(self, stems: dict[str, str], redirects: dict[str, str]):
         self.stems = stems           # title -> stem
         self.redirects = redirects   # title -> target title
-        # Case-insensitive title lookup, since wiki links vary in case.
-        self.by_lower = {t.lower(): t for t in stems}
+        # Case-insensitive fallback lookup, since wiki links vary in case.
+        # Where two titles differ only in case, the article wins over the
+        # redirect, so the fallback never lands on a redirect loop.
+        self.by_lower = {}
+        for t in sorted(stems, key=lambda t: t in redirects):
+            self.by_lower.setdefault(t.lower(), t)
         self.stats = Counter()
         self.red_links: Counter = Counter()
         self.unknown_templates: Counter = Counter()
@@ -261,20 +270,29 @@ class Converter:
         seen = set()
         cur = target
         for _ in range(10):
-            key = cur.lower()
-            if key in seen:
+            # Strip the invisible marks that pasted titles carry (U+200E LRM
+            # and friends), and treat underscores as spaces, as MediaWiki does.
+            cur = re.sub(r"[\u200b-\u200f\u202a-\u202e\ufeff]", "",
+                         cur).replace("_", " ").strip()
+            if cur.startswith(":"):
+                cur = cur[1:].strip()
+            cur = cur.split("#", 1)[0].strip()
+            if not cur or cur in seen:
                 return None
-            seen.add(key)
-            real = self.by_lower.get(key)
+            seen.add(cur)
+            # MediaWiki titles are case-sensitive except for the first letter,
+            # so an exact match comes first. Lower-casing first lets a redirect
+            # such as "Michael behe" -> "Michael Behe" shadow the article it
+            # points at, and the article then reads as a red link (it did, for
+            # 30 links, until 2026-10-01).
+            real = cur if cur in self.stems else None
             if real is None:
-                # MediaWiki treats the first letter as case-insensitive and
-                # underscores as spaces.
-                alt = cur.replace("_", " ").strip()
-                real = self.by_lower.get(alt.lower())
-                if real is None and alt:
-                    real = self.by_lower.get((alt[0].upper() + alt[1:]).lower())
-                if real is None:
-                    return None
+                up = cur[0].upper() + cur[1:]
+                real = up if up in self.stems else None
+            if real is None:
+                real = self.by_lower.get(cur.lower())
+            if real is None:
+                return None
             if real in self.redirects:
                 cur = self.redirects[real]
                 continue
@@ -362,7 +380,15 @@ class Converter:
                 return f"[{label}](../{book})"
             self.red_links[target] += 1
             self.stats["link_red"] += 1
-            # A red link that still reads as prose, and is greppable.
+            # A red link that still reads as prose, and is greppable. Where
+            # the Finnish Wikipedia has a page on the subject (reviewed in
+            # red-link-wikipedia.json, see apowiki_redlinks.py) the label links
+            # there, and the comment stays: the page is still wanted here.
+            wp = RED_LINK_WIKIPEDIA.get(target)
+            if wp:
+                self.stats["link_red_to_wikipedia"] += 1
+                url = "https://fi.wikipedia.org/wiki/" + wp.replace(" ", "_")
+                return f"[{label}]({url}) <!-- red link: {target} -->"
             return f"{label} <!-- red link: {target} -->"
         self.stats["link_internal"] += 1
         return f"[{label}]({self.stems[real]}.md)"
@@ -870,6 +896,7 @@ def main() -> int:
         "red_links_total": sum(conv.red_links.values()),
         "red_links_distinct": len(conv.red_links),
         "red_links_top": conv.red_links.most_common(60),
+        "red_links_all": conv.red_links.most_common(),
         "unknown_templates": conv.unknown_templates.most_common(40),
         "missing_project_pages": conv.missing_project_pages.most_common(20),
         "missing_glossary_terms": conv.missing_glossary_terms.most_common(60),
@@ -885,7 +912,8 @@ def main() -> int:
     print(f"internal links: {conv.stats['link_internal']}, "
           f"wikipedia: {conv.stats['link_wikipedia']}, "
           f"red: {conv.stats['link_red']} "
-          f"({len(conv.red_links)} distinct)")
+          f"({len(conv.red_links)} distinct, "
+          f"{conv.stats['link_red_to_wikipedia']} to Wikipedia)")
     print(f"footnotes: {conv.stats['refs']}")
     if conv.unknown_templates:
         print(f"unknown templates (kept visible): "

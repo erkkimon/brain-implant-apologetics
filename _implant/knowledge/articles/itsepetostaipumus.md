@@ -4,7 +4,7 @@ about: apologetics
 title: "Itsepetostaipumus"
 description: "Yksi kristillisen syntiinlankeemusopin johdannaisista on usko siihen, että kaikille ihmisille on ominaista itsepetostaipumus erityisesti kysymyksissä, jotka koskettavat Jumalaa ja häntä koskevaa tietoa, jota ihminen ei voi olla tietämättä."
 tags: [apowiki, filosofia]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Itsepetostaipumus".
@@ -30,7 +30,7 @@ Käsityksellä on myös muita puolustajia.
 
 **Vern S. Poythress**in mukaan naturalistinen filosofia on niin ihmisten perusintuitioiden vastainen, että siitä yleisessä tietoisuudessa on toistaiseksi omaksuttu vain sen pintataso. Ihmiset omaksuvat mielellään naturalismin tarjoaman moraalisen vapauden toimia omien mielihalujensa mukaan. Tätä varten he voivat käyttää naturalismista nousevia [ateistisia](ateismi.md) tai [agnostisia](agnostisismi.md) ajatuksia. Heidän on kuitenkin paljon vaikeampi hylätä jumaluskosta nousevaa uskoa luonnon järjestykseen ja ymmärrettävyyteen.
 
-Vern S. Poythress konkretisoi tieteellisen tutkimuksen perustana olevaa intuitiivista <!-- red link: intuitio --> vakaumusta seuraavaan tapaan:
+Vern S. Poythress konkretisoi tieteellisen tutkimuksen perustana olevaa [intuitiivista](https://fi.wikipedia.org/wiki/Intuitio) <!-- red link: intuitio --> vakaumusta seuraavaan tapaan:
 
 > Kaikki tieteentekijät – mukaan luettuna agnostikot ja ateistit – uskovat Jumalaan. Heidän on uskottava voidakseen tehdä työtään. Voi kuulostaa törkeältä lukea agnostikot ja ateistit mukaan tähän laaja-alaiseen väittämään. Mutta tekojensa välityksellä ihmiset joskus osoittavat eräässä mielessä uskovansa johonkin sellaiseen, mihin he julkisissa kannanotoissaan kieltävät uskovansa. Bakht, vedanttinen hindufilosofi, voi sanoa, että maailma on illuusiota. Mutta hän ei muina miehinä kävele kadulla ajavan bussin eteen. Sue, radikaali relativisti, voi sanoa, ettei totuutta ole olemassa. Mutta hän matkustaa tyynenä 10 000 metrin korkeudessa lentokoneessa, jonka turvallinen lento perustuu aerodynamiikan ja rakennemekaniikan muuttumattomiin totuuksiin.
 >

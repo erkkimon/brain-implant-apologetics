@@ -4,7 +4,7 @@ about: apologetics
 title: "Apologetiikan apologia"
 description: "Koska monet ovat ryhtyneet tekemään kertomusta meidän keskuudessamme tosiksi tunnetuista tapahtumista, sen mukaisesti kuin meille ovat kertoneet ne, jotka alusta asti ovat omin silmin ne nähneet ja olleet sanan palvelijoita, niin olen…"
 tags: [apowiki, yleistä-tietoa]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Apologetiikan apologia".
@@ -38,7 +38,7 @@ Historia osoittaa, että useat ateistit ovat kääntyneet kristityiksi alettuaan
 
 #### Tapauskertomuksia Suomesta
 
-Myös uskonkriisit <!-- red link: uskonkriisi --> voivat aiheuttaa uskosta luopumista. Uskonkriisin voi aiheuttaa vaikkapa vakuuttuminen siitä, ettei Jumalaa ole olemassa – tavalla tai toisella. Esimerkkinä voidaan mainita Vesa Maanselän kääntymys [agnostisismiin](agnostisismi.md) 2005.[^6] Markus Hirsilä ja Vesa Maanselkä päättivät tutkia, tapahtuuko ihmeparantumisia todella. Tutkimuksessaan he päätyivät tulokseen, ettei niitä ilmeisesti tapahdu.[^7] Apologeettisen [agendan](../glossary/sanasto.md#agenda) mukaista olisi todistaa, että ihmeparantumisia todella tapahtuu. Ihmeparantumisen dokumentoiminen siis olisi myös kristillisen agendan mukaista, sillä Maanselkä mitä todennäköisimmin olisi tällä hetkellä kristitty, jos ihmeparantumisista olisi vakuuttavaa todistusaineistoa.
+Myös [uskonkriisit](https://fi.wikipedia.org/wiki/Uskonkriisi) <!-- red link: uskonkriisi --> voivat aiheuttaa uskosta luopumista. Uskonkriisin voi aiheuttaa vaikkapa vakuuttuminen siitä, ettei Jumalaa ole olemassa – tavalla tai toisella. Esimerkkinä voidaan mainita Vesa Maanselän kääntymys [agnostisismiin](agnostisismi.md) 2005.[^6] Markus Hirsilä ja Vesa Maanselkä päättivät tutkia, tapahtuuko ihmeparantumisia todella. Tutkimuksessaan he päätyivät tulokseen, ettei niitä ilmeisesti tapahdu.[^7] Apologeettisen [agendan](../glossary/sanasto.md#agenda) mukaista olisi todistaa, että ihmeparantumisia todella tapahtuu. Ihmeparantumisen dokumentoiminen siis olisi myös kristillisen agendan mukaista, sillä Maanselkä mitä todennäköisimmin olisi tällä hetkellä kristitty, jos ihmeparantumisista olisi vakuuttavaa todistusaineistoa.
 
 Timo Tiainen oli ollut 23 vuotta kristillisessä uskossa, mutta kääntyi ateistiksi älyllisten perusteiden puuttuessa:
 
@@ -62,7 +62,7 @@ Tämän kerrottuaan Tiainen esittelee oman uskonsa älyllisenä perusteluna toim
 
 ### Todisteiden tarpeellisuudesta
 
-2000-luvulla länsimainen ajan henki on sellainen, että ihmiset alkavat vaatia kaikelle todisteita. Hetki hetkeltä kristitty toisensa jälkeen luopuu uskostaan järkiperustein. Kielilläpuhuminen <!-- red link: Kielilläpuhuminen --> selitetään psykologialla, ihmeparantumiset <!-- red link: ihmeparantuminen --> huijauksilla ja usko <!-- red link: usko --> hulluudella. Järjellisin perustein ei vain luovuta uskosta; ihmiset jättävät tulematta uskoon järjellisin perustein.
+2000-luvulla länsimainen ajan henki on sellainen, että ihmiset alkavat vaatia kaikelle todisteita. Hetki hetkeltä kristitty toisensa jälkeen luopuu uskostaan järkiperustein. [Kielilläpuhuminen](https://fi.wikipedia.org/wiki/Kielilläpuhuminen) <!-- red link: Kielilläpuhuminen --> selitetään psykologialla, [ihmeparantumiset](https://fi.wikipedia.org/wiki/Henkiparannus) <!-- red link: ihmeparantuminen --> huijauksilla ja [usko](https://fi.wikipedia.org/wiki/Usko) <!-- red link: usko --> hulluudella. Järjellisin perustein ei vain luovuta uskosta; ihmiset jättävät tulematta uskoon järjellisin perustein.
 
 Evankelioiminen tapahtui muutama kymmentä vuotta sitten jotakuinkin näin:
 1. Evankelioitavalle lausutaan seuraava mantra: "Jeesus rakastaa sinua, on kuollut sinun puolestasi ja haluaa pelastaa sinut."

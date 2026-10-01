@@ -4,7 +4,7 @@ about: apologetics
 title: "Matti Leisola"
 description: "Matti Leisola on bioprosessitekniikan emeritusprofessori. Lisäksi hän on toiminut Aalto-yliopiston teknillisen korkeakoulun (TKK) kemian ja materiaalitieteiden tiedekunnan dekaanina vuoteen 2011 asti."
 tags: [apowiki, henkilöt, suunnitteluteoria, evoluutiokritiikki]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Matti Leisola".
@@ -94,11 +94,11 @@ Leisola oli perustamassa Lahdessa toimivaa Datakirjat Oy:tä[^22], joka on julka
 1. Marvin Lubenow: *Myytti apinaihmisistä – kiista fossiilien ajoituksesta* (2005, 380 s.) pureutuu hominidifossiileihin liittyviin kysymyksiin[^23]; teoksen liitteenä on myös Heidelbergin yliopiston suurenergiafysiikan instituutin emeritusprofessorin Hermann Schneiderin radioaktiiviseen hajoamiseen perustuvia ja muita iänmääritystekniikoita ruotiva artikkeli.
 1. John Sanford: *Eliömaailma rappeutuu – geneettinen entropia ja perimän salaisuus* (2015, 192 s.)[^24] John Sanford[^25] on kasvigeneetikko ja Cornellin yliopiston professori, joka käsittelee kirjassaan populaatiogenetiikan löytöjen vaikutusta evoluutioteoriaan.[^26]
 
-Leisolaa on haastateltu vuonna 1995 Ylen v. 1998 televisioimaan [*Evoluution syvät vedet*](http://www.netikka.net/mpeltonen/syvatvedet.htm) -ohjelmaan ja vuonna 2009 tehtyyn australialaiseen *The Voyage that Shook the World* -dokumenttiin. Leisola on toiminut puheenjohtajana Helsingin yliopistolla vuonna 1999 järjestetyssä *Evoluutioteorian maailmankatsomuksellinen luonne* -symposiumissa ja TKK:lla vuonna 2004 järjestetyssä *Biology – Tackling Ultimate Complexity* -seminaarissa, jonka luennoitsijoina olivat yhdysvaltalaiset Paul Nelson <!-- red link: Paul Nelson --> ja Richard Sternberg <!-- red link: Richard Sternberg -->. Tähän seminaariin Skepsis-yhdistys reagoi antamalla TKK:n bioprosessitekniikan laboratoriolle Huuhaa-palkinnon[^27]. Skepsikselle antamassaan *[Miksi skeptisyys darvinismia kohtaan olisi huuhaata?](http://www.intelligentdesign.fi/2005/11/22/leisolan-vastaus-skepsis/)* -palautteessa Leisola kritisoi palkitsemisperusteita, todeten niiden olevan perusteiltaan virheellisiä. Vastineessaan Leisola myös ehdottaa "seuraavaksi Huuhaa-paljastimen suuntaamista koulujen oppikirjoihin, jotta niistä saataisiin poistettua runsas virheellinen ja arvoton evoluution todistusaineisto."
+Leisolaa on haastateltu vuonna 1995 Ylen v. 1998 televisioimaan [*Evoluution syvät vedet*](http://www.netikka.net/mpeltonen/syvatvedet.htm) -ohjelmaan ja vuonna 2009 tehtyyn australialaiseen *The Voyage that Shook the World* -dokumenttiin. Leisola on toiminut puheenjohtajana Helsingin yliopistolla vuonna 1999 järjestetyssä *Evoluutioteorian maailmankatsomuksellinen luonne* -symposiumissa ja TKK:lla vuonna 2004 järjestetyssä *Biology – Tackling Ultimate Complexity* -seminaarissa, jonka luennoitsijoina olivat yhdysvaltalaiset Paul Nelson <!-- red link: Paul Nelson --> ja [Richard Sternberg](https://fi.wikipedia.org/wiki/Richard_Sternberg) <!-- red link: Richard Sternberg -->. Tähän seminaariin Skepsis-yhdistys reagoi antamalla TKK:n bioprosessitekniikan laboratoriolle Huuhaa-palkinnon[^27]. Skepsikselle antamassaan *[Miksi skeptisyys darvinismia kohtaan olisi huuhaata?](http://www.intelligentdesign.fi/2005/11/22/leisolan-vastaus-skepsis/)* -palautteessa Leisola kritisoi palkitsemisperusteita, todeten niiden olevan perusteiltaan virheellisiä. Vastineessaan Leisola myös ehdottaa "seuraavaksi Huuhaa-paljastimen suuntaamista koulujen oppikirjoihin, jotta niistä saataisiin poistettua runsas virheellinen ja arvoton evoluution todistusaineisto."
 
 ### Teoksia
 
-* *Luonnontieteet eivät tunne evoluutiota*, A. E. Wilder-Smith <!-- red link: A. E. Wilder-Smith -->. WSOY 1980.
+* *Luonnontieteet eivät tunne evoluutiota*, [A. E. Wilder-Smith](https://fi.wikipedia.org/wiki/A._E._Wilder-Smith) <!-- red link: A. E. Wilder-Smith -->. WSOY 1980.
 * *[Evoluutio - Kriittinen analyysi](evoluutio-kriittinen-analyysi-kirja.md)*, Siegfried Scherer, Reinhard Junker. Datakirjat Oy 2000.
 * *Pieniä kertomuksia suurista asioista*, Wilhelm Busch. Datakirjat Oy 2002.
 * *Älykkään suunnitelman idea - silta luonnontieteen ja teologian välillä <!-- red link: Älykkään suunnitelman idea - silta luonnontieteen ja teologian välillä -->*, W. A. Dembski. Datakirjat Oy 2002.

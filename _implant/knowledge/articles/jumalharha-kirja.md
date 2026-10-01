@@ -4,7 +4,7 @@ about: apologetics
 title: "Jumalharha (kirja)"
 description: "Jumalharha (The God Delusion, (https://fi.wikipedia.org/wiki/2006)) on uusateismin huomattavimman saarnamiehen Richard Dawkinsin kirjoittama uskontokriittinen kirja, jossa Dawkins yrittää osoittaa teismin irrationaalisuuden."
 tags: [apowiki, kirjat, ateismi, richard-dawkins, jumala]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jumalharha (kirja)".
@@ -98,13 +98,13 @@ Dawkins jatkaa ateisteille tyypillistä uskonnonvapauksia loukkaavaa linjaa väi
 
 #### Muita argumentteja
 
-Lisäksi Dawkins tutkii erilaisia jumalakäsityksiä ”Vanhan testamentin tyrannista” eräiden [valistuksen](https://fi.wikipedia.org/wiki/valistus) ajattelijoiden lempeämpään muunnelmaan. Dawkins käsittelee myös [Jumalan olemassaoloa](https://fi.wikipedia.org/wiki/Jumalan_olemassaolo) puoltavia todisteluja ja katsoo osoittavansa, että jumala on äärimmäisen epätodennäköinen. Dawkinsin mukaan uskonto on muun muassa sotien <!-- red link: sota -->, kiihkoilun ja lasten kaltoin kohtelun käyttövoima, kätevästi unohtaen, että kommunistisissa maissa juuri ateismin nimissä vainottiin toisinajattelijoita sekä aivopestiin lapsia ateistiseen ajatteluun. Dawkins pyrkii myös osoittamaan kristinuskon vääräksi evankeliumien ja antiikin myyttien yhtäläisyyksiin viittaamalla[^3] Tässä Dawkins liioittelee yhtäläisyyksiä sekä tulkitsee antiikin tarinoiden käsitteitä kristillisessä kehyksessä. Lisäksi voidaan osoittaa, että useat antiikin tarujen yhtäläisyydet ovat kristinuskon synnyn jälkeisiä lisäyksiä. Lisäksi, koska antiikin tarustoja ja niiden henkilöitä on paljon, on selvää että joitain samankaltaisuuksia löytyy kun etsimällä etsitään ja tekstejä sopivasti tulkitaan.
+Lisäksi Dawkins tutkii erilaisia jumalakäsityksiä ”Vanhan testamentin tyrannista” eräiden [valistuksen](https://fi.wikipedia.org/wiki/valistus) ajattelijoiden lempeämpään muunnelmaan. Dawkins käsittelee myös [Jumalan olemassaoloa](https://fi.wikipedia.org/wiki/Jumalan_olemassaolo) puoltavia todisteluja ja katsoo osoittavansa, että jumala on äärimmäisen epätodennäköinen. Dawkinsin mukaan uskonto on muun muassa [sotien](https://fi.wikipedia.org/wiki/Sota) <!-- red link: sota -->, kiihkoilun ja lasten kaltoin kohtelun käyttövoima, kätevästi unohtaen, että kommunistisissa maissa juuri ateismin nimissä vainottiin toisinajattelijoita sekä aivopestiin lapsia ateistiseen ajatteluun. Dawkins pyrkii myös osoittamaan kristinuskon vääräksi evankeliumien ja antiikin myyttien yhtäläisyyksiin viittaamalla[^3] Tässä Dawkins liioittelee yhtäläisyyksiä sekä tulkitsee antiikin tarinoiden käsitteitä kristillisessä kehyksessä. Lisäksi voidaan osoittaa, että useat antiikin tarujen yhtäläisyydet ovat kristinuskon synnyn jälkeisiä lisäyksiä. Lisäksi, koska antiikin tarustoja ja niiden henkilöitä on paljon, on selvää että joitain samankaltaisuuksia löytyy kun etsimällä etsitään ja tekstejä sopivasti tulkitaan.
 
 Useat ateistitkin ovat olleet pahoillaan Dawkinsin äärikannasta ja argumenttien huonosta tasosta. Hän ei selvästikään ole perehtynyt uskonnonfilosofiseen keskusteluun. Toisaalta Dawkinsin pinnalliset mutta retorisesti taitavat argumentit varmasti vakuuttavat vähemmän perehtyneitä ja niitä, jotka haluavat uskoa ateisminsa älylliseen ylivertaisuuteen tai Jumalan olemattomuuteen. Ihminen uskoo enemmän siihen puoleen, jonka perusteluita eniten kuulee.
 
 ### Kirja-arvioita
 Johtava uskonnonfilosofi Alvin Plantinga toteaa kirja-arvoiossaan[^4], että Dawkinsin argumentteja ei hyväksyttäisi argumentteina filosofian perusopintojen esseissä.
-[Helsingin Sanomien](https://fi.wikipedia.org/wiki/Helsingin_Sanomat) kirja-arvioija [Martti-Tapio Kuuskosken](https://fi.wikipedia.org/wiki/Martti-Tapio_Kuuskoski) mukaan teos houkuttelee ateisteja tulemaan ulos kaapista. Arvioijan mukaan teos antaa löylytyksen myös maltillisille uskovaisille, vaikka kirja tuskin lopettaa uskontoja.[^5] [Aamulehden](https://fi.wikipedia.org/wiki/Aamulehti) kirja-arvioija Vesa Vanhalakan <!-- red link: Vesa Vanhalakka --> mukaan Dawkins puhuu suoraan ja käy ristiretkelle kaikkia uskontoja vastaan. Arviojan mukaan Dawkins julistaa ateismin ilosanomaa. Hän arvioi, että Dawkinsin toive uskovaisten kääntymisestä ateismiin jää haaveeksi.[^6]
+[Helsingin Sanomien](https://fi.wikipedia.org/wiki/Helsingin_Sanomat) kirja-arvioija [Martti-Tapio Kuuskosken](https://fi.wikipedia.org/wiki/Martti-Tapio_Kuuskoski) mukaan teos houkuttelee ateisteja tulemaan ulos kaapista. Arvioijan mukaan teos antaa löylytyksen myös maltillisille uskovaisille, vaikka kirja tuskin lopettaa uskontoja.[^5] [Aamulehden](https://fi.wikipedia.org/wiki/Aamulehti) kirja-arvioija [Vesa Vanhalakan](https://fi.wikipedia.org/wiki/Vesa_Vanhalakka) <!-- red link: Vesa Vanhalakka --> mukaan Dawkins puhuu suoraan ja käy ristiretkelle kaikkia uskontoja vastaan. Arviojan mukaan Dawkins julistaa ateismin ilosanomaa. Hän arvioi, että Dawkinsin toive uskovaisten kääntymisestä ateismiin jää haaveeksi.[^6]
 
 ### Oikeusjuttu
 
@@ -125,8 +125,8 @@ Yhdysvalloissa nuori mies teki itsemurhan luettuaan Dawkinsin kirjan.[^8] Pojan 
 <!--*[piispa Eero Huovisen juttu uusateismista](http://www.helsinginhiippakunta.evl.fi/piispa/helsingin_hiippakunnan_piispat/eero_huovinen/puheenvuoroja/?x20117=31485)-->
 * McGrath, Alister & McGrath, Joanna Collicutt, *Dawkins-harha? Ateistinen fundamentalismi ja jumalallisen olemassaolon kieltäminen*, (The Dawkins delusion? Atheist fundamentalism and the denial of the divine, 2007.) Suomentanut Jani Kurki, Cranite, 2008, ISBN 978-952-92-4259-7
 <!--*Alister McGrathin keskustelu aiheesta kuunneltavissa: http://www.veritas.org/media/talks/496-->
-* Eco, Umberto & Martini, Carlo Maria, *Mihin uskot jos et usko? <!-- red link: Mihin uskot jos et usko? -->*, (In cosa crede chi non crede?, 1996.) Suomentanut Lea Peuronpuro, Kirja-Aurora, 2002, ISBN 951-29-2298-3
-* McGrath, Alister, *Dawkinsin jumala: Geenit, meemit ja elämän tarkoitus <!-- red link: Dawkinsin jumala: Geenit, meemit ja elämän tarkoitus -->*, (Dawkins' God: Genes, memes, and the meaning of life, 2005.) Suomentanut Kirsi Nisula, Kirjapaja, 2006, ISBN 951-607-279-8
+* Eco, Umberto & Martini, Carlo Maria, *[Mihin uskot jos et usko?](https://fi.wikipedia.org/wiki/Mihin_uskot_jos_et_usko?) <!-- red link: Mihin uskot jos et usko? -->*, (In cosa crede chi non crede?, 1996.) Suomentanut Lea Peuronpuro, Kirja-Aurora, 2002, ISBN 951-29-2298-3
+* McGrath, Alister, *[Dawkinsin jumala: Geenit, meemit ja elämän tarkoitus](https://fi.wikipedia.org/wiki/Dawkinsin_jumala) <!-- red link: Dawkinsin jumala: Geenit, meemit ja elämän tarkoitus -->*, (Dawkins' God: Genes, memes, and the meaning of life, 2005.) Suomentanut Kirsi Nisula, Kirjapaja, 2006, ISBN 951-607-279-8
 * Puolimatka, Tapio, *Usko, tiede ja Raamattu*, 3. painos 2008, Uusi tie, 2007, ISBN 978-951-619-467-0 (teoksessa virh. ISBN 978-951-619-497-0)
 * Puolimatka, Tapio, *Usko, tiede ja evoluutio*, Kustannus Oy Uusi Tie, 2008, ISBN 978-951-619-498-4
 * Puolimatka, Tapio, *Usko, tieto ja myytit*, Tammi, 2005, ISBN 951-26-5347-8

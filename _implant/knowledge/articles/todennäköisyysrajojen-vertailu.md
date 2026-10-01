@@ -4,7 +4,7 @@ about: apologetics
 title: "Todennäköisyysrajojen vertailu"
 description: "Suunnitteluteoreettisen tarkoituksellisuuspäättelyn keskeinen, vertaisarvioitu menetelmä on William Dembskin kehittämä, klassisen tilastotieteen lähestymistapaa soveltava suunnittelusignaalien tunnistus."
 tags: [apowiki, suunnitteluteoria]
-timestamp: 2026-10-01T19:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Todennäköisyysrajojen vertailu".
@@ -184,7 +184,7 @@ Oheisesta taulukosta näemme sekä klassisen tilastotieteen omaksumat että Demb
 | 66,4
 | Evoluutiobiologia
 | 1 *CCC*
-| Biokemisti Michael Behen <!-- red link: Michael Behe --> [mukaan](the-edge-of-evolution-kirja.md) tämä on probabilistinen vaativuusaste, jonka ohjaamaton mutaatio-luonnonvalintamekanismi voi vielä ylittää melko usein, jos lajin populaatiokoko ja mutaatiotaajuus ovat riittävän suuria.
+| Biokemisti [Michael Behen](michael-behe.md) [mukaan](the-edge-of-evolution-kirja.md) tämä on probabilistinen vaativuusaste, jonka ohjaamaton mutaatio-luonnonvalintamekanismi voi vielä ylittää melko usein, jos lajin populaatiokoko ja mutaatiotaajuus ovat riittävän suuria.
 
 |-
 |
@@ -248,7 +248,7 @@ Oheisesta taulukosta näemme sekä klassisen tilastotieteen omaksumat että Demb
 | 132,9
 | Evoluutiobiologia
 | 2 *CCC*
-| Biokemisti Michael Behen <!-- red link: Michael Behe --> [mukaan](the-edge-of-evolution-kirja.md) tämä on probabilistinen vaativuusaste, jota ohjaamaton mutaatio-luonnonvalintamekanismi todennäköisesti *ei ole kyennyt ylittämään* teoreettisen tarkastelun sen enempää kuin käytännön havaintojenkaan mukaan *kertaakaan elämän historian aikana*.
+| Biokemisti [Michael Behen](michael-behe.md) [mukaan](the-edge-of-evolution-kirja.md) tämä on probabilistinen vaativuusaste, jota ohjaamaton mutaatio-luonnonvalintamekanismi todennäköisesti *ei ole kyennyt ylittämään* teoreettisen tarkastelun sen enempää kuin käytännön havaintojenkaan mukaan *kertaakaan elämän historian aikana*.
 
 |-
 |

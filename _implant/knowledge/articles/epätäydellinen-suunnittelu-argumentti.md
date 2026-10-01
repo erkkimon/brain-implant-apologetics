@@ -4,7 +4,7 @@ about: apologetics
 title: "Epätäydellinen suunnittelu (argumentti)"
 description: "Useat biologit antavat ymmärtää, ettei suunnitteluteorian puolesta voida esittää mitään empiiristä näyttöä, mutta voivat jopa samaan hengenvetoon todeta, että biologiassa havaitut epätäydelliset rakenteet tarjoavat suoranaista empiiristä näyttöä suunnittelua vastaan."
 tags: [apowiki, suunnitteluteoria, lukusuositukset]
-timestamp: 2026-10-01T19:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Epätäydellinen suunnittelu (argumentti)".
@@ -93,7 +93,7 @@ Rappeutuminen selittää joidenkin huonojen rakenteiden olemassaolon, sillä kys
 
 ##### Rappeutumat polveutumisopin todisteena
 
-Rappeutuneet rakenteet eivät ole sellaisenaan todisteita [evoluutioteorian](evoluutioteoria.md) väitteelle, jonka mukaan tunnetut muuntelumekanismit voisivat synnyttää kaikki polveutumisopin edellyttämät muutokset eliöiden rakenteessa. Rappeumat voivat kuitenkin olla [polveutumisopin](polveutumisoppi.md) todisteita. Suunnitteluteoria ei ole ristiriidassa polveutumisopin kanssa, vaan molempien kannattaminen samanaikaisesti on täysin [koherenttia](../glossary/sanasto.md#koherentti), ja esimerkiksi Michael Behe <!-- red link: Michael Behe --> pitää surkastuneita pseudogeenejä polveutumisopin vakuuttavimpana todisteena.[^4]
+Rappeutuneet rakenteet eivät ole sellaisenaan todisteita [evoluutioteorian](evoluutioteoria.md) väitteelle, jonka mukaan tunnetut muuntelumekanismit voisivat synnyttää kaikki polveutumisopin edellyttämät muutokset eliöiden rakenteessa. Rappeumat voivat kuitenkin olla [polveutumisopin](polveutumisoppi.md) todisteita. Suunnitteluteoria ei ole ristiriidassa polveutumisopin kanssa, vaan molempien kannattaminen samanaikaisesti on täysin [koherenttia](../glossary/sanasto.md#koherentti), ja esimerkiksi [Michael Behe](michael-behe.md) pitää surkastuneita pseudogeenejä polveutumisopin vakuuttavimpana todisteena.[^4]
 
 Evoluutioteoreettisen tulkinnan mukaan elinten surkastuminen kompensoituu usein toisten rakenteiden syntymisellä. Esimerkiksi valaan pyrstön syntyminen korvaa takaraajojen menetyksen. Siten surkastuneita elimiä pidetään osittain myös polveutumisopin todisteina.[^5] Ihmisen umpilisäke on myös kuuluisa esimerkki polveutumisopin todisteena pidetystä surkastumasta.
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Joulu"
 description: "Joulu keskitalven juhla, jota kristityt viettävät Jeesuksen syntymän ja ihmiseksi tulemisen muistoksi."
 tags: [apowiki]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Joulu".
@@ -80,7 +80,7 @@ Suomenkielen sana "joulupukki" juontaa puolestaan juurensa perinteeseen, jossa n
 
 #### Joulukuusi
 
-Joulukuusen on joskus väitetty olevan muinaisesta lähi-idästä olevan pakanakultin perinne. Tälle ei kuitenkaan löydy tukea muinaisista kirjallisista lähteistä tai arkeologiasta. Väite näyttääkin saaneen alkunsa Alexander Hislopin kirjasta The Two Babylons <!-- red link: The Two Babylons -->.
+Joulukuusen on joskus väitetty olevan muinaisesta lähi-idästä olevan pakanakultin perinne. Tälle ei kuitenkaan löydy tukea muinaisista kirjallisista lähteistä tai arkeologiasta. Väite näyttääkin saaneen alkunsa Alexander Hislopin kirjasta [The Two Babylons](the-two-babylons-kirja.md).
 
 Todellisuudessa joulukuuset ovat peräisin 1400- ja 1500-luvun eurooppalaisesta jouluperinteestä[^17]. Todennäköisimmin niiden alkuperä on paratiisikuvaelmien paratiisipuissa, sillä Aadamin ja Eevan paratiisikertomusta esitettiin joulun aikaan usein kuvaelmana.[^18]
 
@@ -92,7 +92,7 @@ Toisinaan joulun väitetään saaneen vaikutteita itäisistä mysteeriuskonnoist
 >
 > — Jouko Koistinen[^19]
 
-Näitä väitteitä ei kuitenkaan koskaan lähteytetä antiikin asiakirjalähteisiin. Todellisuudessa nämä ja vastaavat väitteet mysteerikulttien ja joulun yhtäläisyyksistä ovat kerta toisensa jälkeen joko perättömiä, pinnallisia tai tekemällä tehtyjä.[^20] Monet katteettomista väitteistä ovatkin peräisin Alexander Hislopin kirjasta The Two Babylons <!-- red link: The Two Babylons -->.[^21]
+Näitä väitteitä ei kuitenkaan koskaan lähteytetä antiikin asiakirjalähteisiin. Todellisuudessa nämä ja vastaavat väitteet mysteerikulttien ja joulun yhtäläisyyksistä ovat kerta toisensa jälkeen joko perättömiä, pinnallisia tai tekemällä tehtyjä.[^20] Monet katteettomista väitteistä ovatkin peräisin Alexander Hislopin kirjasta [The Two Babylons](the-two-babylons-kirja.md).[^21]
 
 ### Lähteet
 

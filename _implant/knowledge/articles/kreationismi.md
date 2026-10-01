@@ -4,7 +4,7 @@ about: apologetics
 title: "Kreationismi"
 description: "\"Kreationismi\" on yleisnimitys käsityksille, joiden mukaan havaintotodellisuus (kaikkeus ja sen elolliset olennot) ovat olemassa tarkoituksellisesti luotuina."
 tags: [apowiki, luomisoppi]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kreationismi".
@@ -59,7 +59,7 @@ Kehitysoppia vastustavat kreationistit eivät useinkaan pidä totena kokonaan uu
 
 Kulttuurista valta-asemaa länsimaissa toistaiseksi nauttivan naturalistisen tieteen mukainen kosmologia ja geologia edellyttävät maapallolle ja sen biosfäärille vuosimiljoonien ja -miljardienkin mittaista kehityshistoriaa[^13]. Raamatun kronologiaan sitoutuva tiede näkee aikaa olleen kertaluokkia vähemmän[^14] ja vastustaa siksi naturalistisen tieteen käsitystä maankuoren kehityksestä<!-- ja maaperän rakenteesta – viite tähän?--> sekä tarjoaa Raamatun kuvaamaan vedenpaisumukseen olennaisesti perustuvan teorian sen pintakerrosten syntytavasta; tämä **äskettäisluomisnäkemys** tunnetaan englanniksi nimityksellä *Young Earth Creationism* (*YEC*, "nuoren Maan kreationismi").
 
-Perustellessaan havaintojen yhteensopivuutta perususkomustensa kanssa kreationistit vetoavat muun muassa laskelmiinsa eroosionopeuksista <!-- red link: eroosio -->[^15] ja radioaktiivisten isotooppien <!-- red link: isotooppi --> suhteista[^16]. On myös esitetty kreationistisia kosmologisia malleja, joiden mukaan tähdistä tuleva valo on todella ehtinytkin suhteellisuusteoreettisen <!-- red link: suhteellisuusteoria --> aikavääristymän ansiosta matkata miljardeja vuosia,[^17] joten astronomian miljardit valovuodet ja kaukaiset tähtiräjähdykset <!-- red link: supernova --> eivät ole ratkaisematon ongelma äskettäisluomisopinkaan kannattajille[^18].
+Perustellessaan havaintojen yhteensopivuutta perususkomustensa kanssa kreationistit vetoavat muun muassa laskelmiinsa [eroosionopeuksista](https://fi.wikipedia.org/wiki/Eroosio) <!-- red link: eroosio -->[^15] ja radioaktiivisten [isotooppien](https://fi.wikipedia.org/wiki/Isotooppi) <!-- red link: isotooppi --> suhteista[^16]. On myös esitetty kreationistisia kosmologisia malleja, joiden mukaan tähdistä tuleva valo on todella ehtinytkin [suhteellisuusteoreettisen](https://fi.wikipedia.org/wiki/Suhteellisuusteoria) <!-- red link: suhteellisuusteoria --> aikavääristymän ansiosta matkata miljardeja vuosia,[^17] joten astronomian miljardit valovuodet ja kaukaiset [tähtiräjähdykset](https://fi.wikipedia.org/wiki/Supernova) <!-- red link: supernova --> eivät ole ratkaisematon ongelma äskettäisluomisopinkaan kannattajille[^18].
 
 On myös kreationisteja, jotka kannattavat käsitystä vanhasta maapallosta; tämä **muinaisluomisnäkemys** tunnetaan englanniksi nimellä *Old Earth Creationism* (*OEC*, "vanhan Maan kreationismi").
 
@@ -87,7 +87,7 @@ Kuten evoluutioteorian eri suuntausten lajittelemiseksi, myös kreationismin eri
 | Pitää maapallon suurta ikää luotettavana: 4,3 miljardia vuotta. Tyypillisesti paikallinen Nooan tulva.
 |-
 | style="background-color:#ddd;" | **Kaikkeus**
-| Saattaa hyväksyä miljardien vuosien [iän](https://fi.wikipedia.org/wiki/Iänmääritys) kaikkeuden meistä etäisille osille, mikäli käytetään yleistä suhteellisuusteoriaa ja aikadilataatiota <!-- red link: aikadilataatio --> maapallolla ([**Hartnett**in](john-hartnettin-kosmologinen-malli.md) ja **Humphreys**in[^25] kosmologiat).[^26]
+| Saattaa hyväksyä miljardien vuosien [iän](https://fi.wikipedia.org/wiki/Iänmääritys) kaikkeuden meistä etäisille osille, mikäli käytetään yleistä suhteellisuusteoriaa ja [aikadilataatiota](https://fi.wikipedia.org/wiki/Erityinen_suhteellisuusteoria) <!-- red link: aikadilataatio --> maapallolla ([**Hartnett**in](john-hartnettin-kosmologinen-malli.md) ja **Humphreys**in[^25] kosmologiat).[^26]
 | 17–14 miljardia vuotta.
 |-
 | style="background-color:#ddd;" | **Perusteoksia muiden muassa**
@@ -103,7 +103,7 @@ Kuten evoluutioteorian eri suuntausten lajittelemiseksi, myös kreationismin eri
 <!--
 #### Äskettäisluomisnäkemys[^20]
 
-*Pääartikkeli: Nuoren Maan kreationismi <!-- red link: Nuoren Maan kreationismi -->*
+*Pääartikkeli: [Nuoren Maan kreationismi](https://fi.wikipedia.org/wiki/Nuoren_Maan_kreationismi) <!-- red link: Nuoren Maan kreationismi -->*
 
 #### Muinaisluomisnäkemys[^21]
 -->
@@ -177,13 +177,13 @@ Muista teistisistä uskontokunnista [Jehovan todistajat](https://fi.wikipedia.or
 
 1980-luvun alussa kreationismi voimistui Suomessakin. Kreationismi-sanakin tuli yleiseen käyttöön juuri tällöin; esimerkiksi vuonna 1973 ilmestynyt *Nykysuomen sivistyssanakirja* ei vielä sitä tunne. Päivälehtien sivuilta saatiin lukea kreationismia puolustavia yleisönosastokirjoituksia, ja 1980-luvun lopulla [helluntailaisten](https://fi.wikipedia.org/wiki/helluntaiherätys) johdolla kirjoitetussa, kouluhallituksen pääjohtaja **[Erkki Aholle](https://fi.wikipedia.org/wiki/Erkki_Aho_(pääjohtaja))** osoitetussa 14 220 nimen adressissa vaadittiin luomisopin opetusta Suomen kouluihin kehitysopin opetuksen rinnalle.
 
-"Imperiumin vastaiskuakaan" ei tarvinnut turhaan odottaa: vuonna 1989 Skepsis ry <!-- red link: Skepsis --> antoi Huuhaa-palkintonsa <!-- red link: Huuhaa-palkinto --> [WSOY](https://fi.wikipedia.org/wiki/WSOY):lle luonnontieteiden kolminkertaisen tohtorin, professori **A. E. Wilder-Smith**in *Luonnontieteet eivät tunne evoluutiota* -kirjan (1980) julkaisemisesta.[^54]
+"Imperiumin vastaiskuakaan" ei tarvinnut turhaan odottaa: vuonna 1989 Skepsis ry <!-- red link: Skepsis --> antoi [Huuhaa-palkintonsa](https://fi.wikipedia.org/wiki/Skepsis_(yhdistys)) <!-- red link: Huuhaa-palkinto --> [WSOY](https://fi.wikipedia.org/wiki/WSOY):lle luonnontieteiden kolminkertaisen tohtorin, professori **A. E. Wilder-Smith**in *Luonnontieteet eivät tunne evoluutiota* -kirjan (1980) julkaisemisesta.[^54]
 
-Professori **Matti Leisola <!-- red link: Matti Leisola -->**[^55] sai vuonna 2004 tyypillisen propagandistisesti perustellun Huuhaa-palkinnon[^56] järjestettyään evoluutioteoriaan tieteellisen kriittisesti suhtautuvan luentosarjan nimeltään *Biology - Tackling Ultimate Complexity* [Teknillisellä korkeakoululla](https://fi.wikipedia.org/wiki/Aalto-yliopiston_teknillinen_korkeakoulu). Seminaari oli alun perin tarkoitus järjestää Helsingin yliopistolla väittelynä, jossa osanottajat olisivat olleet älykkään suunnittelun kannattaja **Paul Nelson**, makroevoluutioteoriaan kriittisesti suhtautuva **Richard Sternberg** ja kaksi suomalaista, evoluutioteoriaa puolustavaa tunnettua professoria. [Äärinaturalistien](../glossary/sanasto.md#äärinaturalismi) nostettua asiasta äläkän[^57] yliopiston silloinen rehtori **[Ilkka Niiniluoto](https://fi.wikipedia.org/wiki/Ilkka_Niiniluoto)** – itsekin tunnettu naturalisti – lopulta, hieman ennen tilaisuuden aiottua ajankohtaa, kielsi sen järjestämisen Helsingin yliopistossa. Tällöin professori Leisola järjesti seminaarin sen sijaan Teknillisessä korkeakoulussa[^58]. Leisola kritisoi purevasti palkitsemisperusteita *Miksi skeptisyys darvinismia kohtaan olisi huuhaata?*[^59] -vastineessaan.
+Professori **[Matti Leisola](matti-leisola.md)**[^55] sai vuonna 2004 tyypillisen propagandistisesti perustellun Huuhaa-palkinnon[^56] järjestettyään evoluutioteoriaan tieteellisen kriittisesti suhtautuvan luentosarjan nimeltään *Biology - Tackling Ultimate Complexity* [Teknillisellä korkeakoululla](https://fi.wikipedia.org/wiki/Aalto-yliopiston_teknillinen_korkeakoulu). Seminaari oli alun perin tarkoitus järjestää Helsingin yliopistolla väittelynä, jossa osanottajat olisivat olleet älykkään suunnittelun kannattaja **Paul Nelson**, makroevoluutioteoriaan kriittisesti suhtautuva **Richard Sternberg** ja kaksi suomalaista, evoluutioteoriaa puolustavaa tunnettua professoria. [Äärinaturalistien](../glossary/sanasto.md#äärinaturalismi) nostettua asiasta äläkän[^57] yliopiston silloinen rehtori **[Ilkka Niiniluoto](https://fi.wikipedia.org/wiki/Ilkka_Niiniluoto)** – itsekin tunnettu naturalisti – lopulta, hieman ennen tilaisuuden aiottua ajankohtaa, kielsi sen järjestämisen Helsingin yliopistossa. Tällöin professori Leisola järjesti seminaarin sen sijaan Teknillisessä korkeakoulussa[^58]. Leisola kritisoi purevasti palkitsemisperusteita *Miksi skeptisyys darvinismia kohtaan olisi huuhaata?*[^59] -vastineessaan.
 
 #### Nykytila
 
-Suomen tunnetuimpiin kreationismin kannattajiin lukeutuvat muiden muassa [Aalto-yliopiston teknillisen korkeakoulun](https://fi.wikipedia.org/wiki/Aalto-yliopiston_teknillinen_korkeakoulu) [dekaani](https://fi.wikipedia.org/wiki/dekaani) Matti Leisola <!-- red link: Matti Leisola -->[^60], kuvataiteilija, kirjailija Kimmo Pälikkö <!-- red link: Kimmo Pälikkö -->[^61] sekä lääkäri, kirjailija [Pekka Reinikainen](pekka-reinikainen.md)[^62].
+Suomen tunnetuimpiin kreationismin kannattajiin lukeutuvat muiden muassa [Aalto-yliopiston teknillisen korkeakoulun](https://fi.wikipedia.org/wiki/Aalto-yliopiston_teknillinen_korkeakoulu) [dekaani](https://fi.wikipedia.org/wiki/dekaani) [Matti Leisola](matti-leisola.md)[^60], kuvataiteilija, kirjailija [Kimmo Pälikkö](https://fi.wikipedia.org/wiki/Kimmo_Pälikkö) <!-- red link: Kimmo Pälikkö -->[^61] sekä lääkäri, kirjailija [Pekka Reinikainen](pekka-reinikainen.md)[^62].
 
 Systemaattista seurantaa kreationismin kannatuksen laajuudesta Suomessa ei ole juuri tehty, joskin irrallinen gallup-tulos evoluutioteoriaa epäilevien suomalaisten huomattavasta määrästä on jo ehtinyt antaa naturalisteillemme lisää julkisen huolestuneisuuden aihetta.[^63]
 
@@ -197,7 +197,7 @@ Uudet kristinuskon vahvat alueet[^64], joilla seurakuntaopetus on tyypillisesti 
 
 #### Roomalaiskatolisen kirkon lähestymiskulma
 
-[Roomalaiskatolinen kirkko](https://fi.wikipedia.org/wiki/Katolinen_kirkko) on eräänlainen oma maailmansa. [Paavi](https://fi.wikipedia.org/wiki/paavi) [Pius XII](https://fi.wikipedia.org/wiki/Pius_XII) antoi v. 1950 [*Humani Generis*](http://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis_en.html) -kiertokirjeen (ihmisen synnystä <!-- red link: Ihmisen evoluutio -->); siinä kehitysopille sallitaan jonkinlainen asema[^65] vain ihmis*ruumiin* biologisen alkuperän pohdiskelussa – ihmis*sielun* synnyssä sillä ei tämän kiertokirjeen mukaan voi olla eikä saa opettaa olevan mitään osaa[^66]. <!-- Esimerkiksi kaikkeuden alkuperässä sillä ei tule kiertokirjeen mukaan olla mitään osaa. ?-->
+[Roomalaiskatolinen kirkko](https://fi.wikipedia.org/wiki/Katolinen_kirkko) on eräänlainen oma maailmansa. [Paavi](https://fi.wikipedia.org/wiki/paavi) [Pius XII](https://fi.wikipedia.org/wiki/Pius_XII) antoi v. 1950 [*Humani Generis*](http://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis_en.html) -kiertokirjeen ([ihmisen synnystä](https://fi.wikipedia.org/wiki/Ihmisen_evoluutio) <!-- red link: Ihmisen evoluutio -->); siinä kehitysopille sallitaan jonkinlainen asema[^65] vain ihmis*ruumiin* biologisen alkuperän pohdiskelussa – ihmis*sielun* synnyssä sillä ei tämän kiertokirjeen mukaan voi olla eikä saa opettaa olevan mitään osaa[^66]. <!-- Esimerkiksi kaikkeuden alkuperässä sillä ei tule kiertokirjeen mukaan olla mitään osaa. ?-->
 
 Sittemminkin Vatikaani on antanut puheenvuoroja aiheesta: puolivirallisesti[^67] paavi [Johannes Paavali II](https://fi.wikipedia.org/wiki/Johannes_Paavali_II):n suulla se on [todennut](http://www.ewtn.com/library/papaldoc/jp961022.htm) evoluution voivan jossain täsmentämättömässä merkityksessä olla "enemmän kuin hypoteesi". Kontekstissaan tarkasteltuna tämä lausuma on lopultakin hyvin ympäripyöreä ja pidättyväinen[^68], ja kokonaisuutena katsoen tämä puheenvuoro itse asiassa tulee (suppeaakin) kreationismia puolitiehen vastaan todetessaan, ettei erityistä ilmoitusta[^69] voi alkuperäkysymyksissä sivuuttaa. Naturalistit ovat silti hehkuttaneet paavin tulkinnanvaraista, yhteydestään irrotettua evoluutioviittausta julkisuudessa innolla, joka tuo helposti mieleen hukkuvan takertumisen oljenkorteenkin.[^70]
 
@@ -234,16 +234,16 @@ Kreationismin ja suunnitteluteorian välisen suhteen voi tiivistää toteamuksee
 |-valign=top
 |width=33%|
 * [Alkuhistorianäkemykset](alkuhistorianäkemykset.md)
-* Kelloseppävertaus <!-- red link: Kelloseppävertaus -->
+* [Kelloseppävertaus](https://fi.wikipedia.org/wiki/Kelloseppävertaus) <!-- red link: Kelloseppävertaus -->
 * [Kosmologinen argumentti](kosmologinen-argumentti.md)
 * [Lentävä spagettihirviö](lentävä-spagettihirviö.md)
-* Luomiskertomus <!-- red link: Luomiskertomus -->
-* Luonnonteologia <!-- red link: Luonnonteologia -->
+* [Luomiskertomus](https://fi.wikipedia.org/wiki/Raamatun_luomiskertomus) <!-- red link: Luomiskertomus -->
+* [Luonnonteologia](https://fi.wikipedia.org/wiki/Luonnollinen_teologia) <!-- red link: Luonnonteologia -->
 |width=33%|
 * [Suunnitteluteoria ja kreationismi](suunnitteluteoria-ja-kreationismi.md)
 * [Teismi](teismi.md)
 * [Teleologinen argumentti](teleologinen-argumentti.md)
-* Ussherin–Lightfootin kalenteri <!-- red link: Ussherin–Lightfootin kalenteri -->
+* [Ussherin–Lightfootin kalenteri](https://fi.wikipedia.org/wiki/Ussherin–Lightfootin_kalenteri) <!-- red link: Ussherin–Lightfootin kalenteri -->
 * [Suunnitteluteoria](suunnitteluteoria.md)
 
 |}
@@ -303,7 +303,7 @@ Kreationismin ja suunnitteluteorian välisen suhteen voi tiivistää toteamuksee
 [^23]: luomisviikon aikana
 [^24]: suppean biologisen lajimääritelmän merkityksessä
 [^25]: http://luominen.fi/tahtien-etaisyys-ja-aika
-[^26]: Mahdollisuus, että kaikkeuden etäosat ovat aikadilataation <!-- red link: aikadilataatio --> vaikutuksesta ehtineet olla paikallisesti olemassa maapallon paikallisikää huomattavasti kauemmin, vaikkapa miljardejakin vuosia, on siis avoin ja kiinnostava tutkimusongelma, johon on jo saatu lupaavia teorioita ja niiden mukaisia, keskenään kilpailevia matemaattisia YEC-malleja; maailmankaikkeuden "paikallista aikaa mitaten vanhimpien osien" ikä ei siis ole etukäteen lukkoon lyöty eikä luomisen "äskettäisyys" *välttämättä* koske muuta kuin maanpäällistä historiaa.
+[^26]: Mahdollisuus, että kaikkeuden etäosat ovat [aikadilataation](https://fi.wikipedia.org/wiki/Erityinen_suhteellisuusteoria) <!-- red link: aikadilataatio --> vaikutuksesta ehtineet olla paikallisesti olemassa maapallon paikallisikää huomattavasti kauemmin, vaikkapa miljardejakin vuosia, on siis avoin ja kiinnostava tutkimusongelma, johon on jo saatu lupaavia teorioita ja niiden mukaisia, keskenään kilpailevia matemaattisia YEC-malleja; maailmankaikkeuden "paikallista aikaa mitaten vanhimpien osien" ikä ei siis ole etukäteen lukkoon lyöty eikä luomisen "äskettäisyys" *välttämättä* koske muuta kuin maanpäällistä historiaa.
 [^27]: lähde: http://www.patheos.com/Resources/Additional-Resources/BioLogos-and-Theistic-Evolution-William-Dembski-04-27-2011?offset=3&max=1; siinä **William Dembski**, joka ei itse pitäydy äskettäisluomisnäkemykseen, toteaa kirkkohistoriasta mm. seuraavan: "*For the details, see chapter five of my book **[The End of Christianity](http://www.amazon.de/End-Christianity-Finding-Good-World/dp/0805427430/ref=sr_1_1?ie=UTF8&qid=1307807616&sr=1-1)**, where I show that the young-earth position was universally accepted by Christians through the Reformation (yes, Luther and Calvin were also young-earth creationists).*"
 [^28]: ja muidenkin alojen edustajat
 [^29]: Ainoastaan tällä tavoin, omilla ehdoillaan ymmärrettynä Raamattu voi toimia luterilaisen tunnustuksen edellyttämällä tavalla "kaikkien oppien ja opettajien tuomarina" – kuvaannollistajat taas kiilaavat selityksineen tekstin ja lukijan väliin vedoten Raamatun arvovallan sijasta omaan oppineisuuteensa ja kaunopuheisuuteensa sekä kuulijoidensa esiymmärrykseen.

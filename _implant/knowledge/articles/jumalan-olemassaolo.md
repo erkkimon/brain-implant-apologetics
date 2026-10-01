@@ -4,7 +4,7 @@ about: apologetics
 title: "Jumalan olemassaolo"
 description: "Jumalan olemassaoloa ei voida koskaan todistaa aukottomasti. Tämän tekstinkään olemassaoloa ei voida todistaa aukottomasti."
 tags: [apowiki, jumala, argumentit]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jumalan olemassaolo".
@@ -26,7 +26,7 @@ Jumalan olemassaoloa ei voida koskaan todistaa aukottomasti. Tämän tekstinkä�
 
 ### Argumentteja Jumalan olemassaolon puolesta
 
-Jumalan olemassaolon puolesta esitettyjä [argumentteja](https://fi.wikipedia.org/wiki/argumentti) sanotaan Jumalatodistuksiksi. Ensimmäiset merkittävät jumalatodistukset muotoili [Aristoteles](https://fi.wikipedia.org/wiki/Aristoteles),[^1] ja erityisesti keskiajan <!-- red link: keskiaika --> skolastiikan <!-- red link: skolastiikka --> teologiassa <!-- red link: teologia --> jumalatodistuksilla oli keskeinen rooli.[^1] Jumalatodistukset eivät [Tapio Puolimatkan](tapio-puolimatka.md) mukaan todista Jumalan olemassaoloa vastaansanomattomasti,[^2] joten yksittäisistä jumalatodistuksista puhuttaessa onkin ehkä oikeellisempaa puhua jumalatodistuksista argumentteina. Merkittävää onkin argumenttien kumulatiivisuus: usein jumalatodistuksen johtopäätöksenä voidaan todeta, että Jumalan olemassaolo on esitetyin perustein todennäköistä, ja mitä useammasta argumentista kyseinen johtopäätös seuraa, sitä todennäköisempänä Jumalan olemassaoloa voi pitää.
+Jumalan olemassaolon puolesta esitettyjä [argumentteja](https://fi.wikipedia.org/wiki/argumentti) sanotaan Jumalatodistuksiksi. Ensimmäiset merkittävät jumalatodistukset muotoili [Aristoteles](https://fi.wikipedia.org/wiki/Aristoteles),[^1] ja erityisesti [keskiajan](https://fi.wikipedia.org/wiki/Keskiaika) <!-- red link: keskiaika --> [skolastiikan](https://fi.wikipedia.org/wiki/Skolastiikka) <!-- red link: skolastiikka --> [teologiassa](https://fi.wikipedia.org/wiki/Teologia) <!-- red link: teologia --> jumalatodistuksilla oli keskeinen rooli.[^1] Jumalatodistukset eivät [Tapio Puolimatkan](tapio-puolimatka.md) mukaan todista Jumalan olemassaoloa vastaansanomattomasti,[^2] joten yksittäisistä jumalatodistuksista puhuttaessa onkin ehkä oikeellisempaa puhua jumalatodistuksista argumentteina. Merkittävää onkin argumenttien kumulatiivisuus: usein jumalatodistuksen johtopäätöksenä voidaan todeta, että Jumalan olemassaolo on esitetyin perustein todennäköistä, ja mitä useammasta argumentista kyseinen johtopäätös seuraa, sitä todennäköisempänä Jumalan olemassaoloa voi pitää.
 
 Merkittävimmät jumalatodistukset ovat
 

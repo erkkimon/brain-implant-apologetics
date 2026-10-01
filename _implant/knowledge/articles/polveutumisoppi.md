@@ -4,7 +4,7 @@ about: apologetics
 title: "Polveutumisoppi"
 description: "Polveutumisopin mukaan kaikki eliöt ovat polveutuneet yhteisestä kantamuodostaan ohjatusti tai ohjaamattomasti."
 tags: [apowiki, evoluutioteoria]
-timestamp: 2026-10-01T19:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Polveutumisoppi".
@@ -69,7 +69,7 @@ Esimerkiksi ihmisen häntäluu on elintärkeä lantiolihasten kiinnityskohta. Sa
 
 [Molekyylibiologia](https://fi.wikipedia.org/wiki/molekyylibiologia) on biologian osa-alue, jonka avulla pyritään esimerkiksi päättelemään eri eliöiden sukulaissuhteita sekä kehityshistoriaa vertailemalla [homologisia](../glossary/sanasto.md#homologia) geenejä tai homologisia molekyylejä eliöiden välillä. Elollisten olentojen samankaltaisuudet ulottuvat molekyylitasolle asti. Kaikki eliöt käyttävät aineenvaihdunnassaan samoja kemiallisia perusrakenteita. Tämä mahdollistaa esim. proteinien- ja DNA/RNA sekvenssien analysoimisen, joiden pohjalta voidaan laatia molekyylisukupuita. On kuitenkin huomattu, että mitä enemmän eri proteiini- ja geenisekvenssejä on analysoitu, sitä vaikeammaksi ristiriidattomien molekyylisukupuiden rakentaminen käy. Eri molekyylejä vertailemalla päädytään erilaisiin päätelmiin. Lisäksi vertailtavien molekyylien erojen kasvaessa tulkinnanvaraisuus kasvaa nopeasti.[^1]
 
-Kun molekyylibiologisia homologioita käytetään todistamaan polveutumisoppia, vedotaan useimmiten niin sanottuihin pseudogeeneihin, eli varsinaisten geenien kopioihin, joilla ei tunnu olevan mitään toiminnallista vaikutusta. Esimerkiksi [suunnitteluteoreetikko](suunnitteluteoria.md) Michael Behe <!-- red link: Michael Behe --> esittää pseudogeenien homologiat polveutumisopin todisteena kirjassaan [The Edge of Evolution](the-edge-of-evolution-kirja.md):
+Kun molekyylibiologisia homologioita käytetään todistamaan polveutumisoppia, vedotaan useimmiten niin sanottuihin pseudogeeneihin, eli varsinaisten geenien kopioihin, joilla ei tunnu olevan mitään toiminnallista vaikutusta. Esimerkiksi [suunnitteluteoreetikko](suunnitteluteoria.md) [Michael Behe](michael-behe.md) esittää pseudogeenien homologiat polveutumisopin todisteena kirjassaan [The Edge of Evolution](the-edge-of-evolution-kirja.md):
 
 > Kun kaksi sukulinjaa jakavat yhteisen, ilmeisen sattumanvaraisen geneettisen virheen, näyttö näiden sukujen yhteisen polveutumisen puolesta on vakuuttavaa, aivan kuten plagioinnin puolesta esitetty näyttö alkaa olla ylivoimaista kun huomataan yhden kirjoittajan tehneen samat epätavalliset kirjoitusvirheet kuin toinen, käyttäen tismalleen samoja sanoja. Tällaisia todisteita on nähtävissä ihmisten ja simpanssien genomeissa. Esimerkiksi sekä ihmisillä että simpansseilla on rikkinäinen kopio sellaisesta geenistä, joka osallistuu muilla nisäkkäillä C-vitamiinin tuotantoon. Tämän takia ihmiset ja simpanssit eivät kykene itse tuottamaan C-vitamiinia. Jos tämä mutaatio jäi näiden kahden lajin esi-isän genomiin pysyvästi, ja sen jälkeen siirtyi edelleen molemmille jälkeläislajeille, tämä selittäisi tilanteen näppärästi.
 
@@ -130,7 +130,7 @@ Vastaavasti analogian tapauksessa homologiaa ei otaksuttu ilmenevän yksilönkeh
 
 > Ja näin on yleisesti havaittu: mitä enemmän todisteita, että lajit ovat lähellä toisiaan, sitä enemmän löytyy myös elinten homologioita. Evoluutioteorian edellyttämä sukulaisuussuhde eli ”yhteinen polveutuminen” on ainoa teoria joka **vaatii** tätä, ja sen puuttuminen olisi evoluutioteorian kohtalokas vastatodistus.
 
-> Mielenkiintoisia ovat myös ns. rudimentaariset eli surkastuneet elimet: ihmisillä muun muassa viisaudenhammas ja umpilisäke. Darwin itse mainitsi Boa-käärmeiden surkastuneet takatassut. Muilla käärmeillä sellaisia löytyy vain alkiovaiheessa eikä enää aikuisyksilössä. Myös linnuilla on alkiovaiheessa hampaiden alkuja (vrt. Archaeopteryx <!-- red link: Archaeopteryx -->), jotka sitten häviävät.
+> Mielenkiintoisia ovat myös ns. rudimentaariset eli surkastuneet elimet: ihmisillä muun muassa viisaudenhammas ja umpilisäke. Darwin itse mainitsi Boa-käärmeiden surkastuneet takatassut. Muilla käärmeillä sellaisia löytyy vain alkiovaiheessa eikä enää aikuisyksilössä. Myös linnuilla on alkiovaiheessa hampaiden alkuja (vrt. [Archaeopteryx](https://fi.wikipedia.org/wiki/Archaeopteryx) <!-- red link: Archaeopteryx -->), jotka sitten häviävät.
 
 <!--lähteitä sitaatteihin!-->
 

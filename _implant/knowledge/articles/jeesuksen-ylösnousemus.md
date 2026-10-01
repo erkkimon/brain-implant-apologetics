@@ -4,7 +4,7 @@ about: apologetics
 title: "Jeesuksen ylösnousemus"
 description: "Kristinusko poikkeaa siten muista uskonnoista, että se perustuu olennaisesti historialliseen tapahtumaan, Jeesuksen ylösnousemukseen."
 tags: [apowiki, jeesus, ihmeet, historia, lukusuositukset]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jeesuksen ylösnousemus".
@@ -102,7 +102,7 @@ On erittäin merkittävää, että jopa varhaiset juutalaiset argumentit myönt�
 >
 > — Matt. 28:11-15
 
-Matteuksen evankeliumin mukaan juutalaiset eivät yrittäneetkään väittää Jeesuksen olevan haudassa, vaan antoivat vaihtoehtoisen selityksen haudan tyhjentymiselle. Matteuksen evankeliumin kerronnan autenttisuutta tukee myös mm. juutalainen antievankeliumi, *[Toledot Jesu](http://en.wikipedia.org/wiki/Toledot_Yeshu)*, jonka mukaan hauta oli tyhjä siksi, että puutarhuri oli ottanut Jeesuksen pois haudastaan ja haudannut hänet puutarhaansa.[^21] Sen lisäksi 100-luvulla[^22] käydyssä **Trifonin** ja **Justinus Marttyyrin <!-- red link: Justinus Marttyyri -->** välisessä väittelyssä Trifon väittää haudan olevan tyhjä, koska opetuslapset olivat varastaneet ruumiin.[^23] Tertullianus vahvistaa tämän olevan juutalaisten selitys tyhjälle haudalle vuonna 197 kirjoitetussa, tunnetuimmassa teoksessaan *[Apologeticus](http://en.wikipedia.org/wiki/Apologeticus)*.[^24]
+Matteuksen evankeliumin mukaan juutalaiset eivät yrittäneetkään väittää Jeesuksen olevan haudassa, vaan antoivat vaihtoehtoisen selityksen haudan tyhjentymiselle. Matteuksen evankeliumin kerronnan autenttisuutta tukee myös mm. juutalainen antievankeliumi, *[Toledot Jesu](http://en.wikipedia.org/wiki/Toledot_Yeshu)*, jonka mukaan hauta oli tyhjä siksi, että puutarhuri oli ottanut Jeesuksen pois haudastaan ja haudannut hänet puutarhaansa.[^21] Sen lisäksi 100-luvulla[^22] käydyssä **Trifonin** ja **[Justinus Marttyyrin](https://fi.wikipedia.org/wiki/Justinos_Marttyyri) <!-- red link: Justinus Marttyyri -->** välisessä väittelyssä Trifon väittää haudan olevan tyhjä, koska opetuslapset olivat varastaneet ruumiin.[^23] Tertullianus vahvistaa tämän olevan juutalaisten selitys tyhjälle haudalle vuonna 197 kirjoitetussa, tunnetuimmassa teoksessaan *[Apologeticus](http://en.wikipedia.org/wiki/Apologeticus)*.[^24]
 
 ### Vaihtoehtoteoriat tyhjälle haudalle
 

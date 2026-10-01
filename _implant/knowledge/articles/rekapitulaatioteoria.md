@@ -4,7 +4,7 @@ about: apologetics
 title: "Rekapitulaatioteoria"
 description: "Kuva: Ernst Haeckelin väärentämät kuvat selkärankaisten alkioista."
 tags: [apowiki, evoluutiokritiikki, lukusuositukset, haeckel, ernst, sikiöväärennökset, sikiöpiirros, sikiöpiirrokset, sikiöpiirroskiista, sikiökuva, sikiökuvat, alkio, kidukset, häntä, lapsivesi]
-timestamp: 2026-10-01T19:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Rekapitulaatioteoria".
@@ -84,7 +84,7 @@ Tässä valossa aihioalueen vastaavuuteen perustaminen "kidusargumentissa" on jo
 
 Jonkin verran vahvasti yhteisen alkuperän puolesta puhuvia piirteitä sikiötasolta toki löytyy. Esimerkiksi eräs kalalaji jakautuu näkeviin ja sokeisiin alalajeihin.[^20] Molempien lajien sikiöillä on silmien aihiot, joskin vain toiselle niistä kehittyvät silmät. Tämä selittyy luonnollisesti hyvin yhteisellä kantamuodolla, jonka jälkeläisten yksi haara on menettänyt jonkin mutaation johdosta näkökykynsä ympäristössä, jossa näkökyvystä ei ole selviytymisen ja lisääntymisen kannalta ratkaisevaa hyötyä. Kyseessä on kaikkien evoluutiokeskustelun osapuolien hyväksymä [muuntelu](perinnöllisen-muuntelun-mekanismit.md). Aistielinten kehittymistä säätelee kyseisellä lajilla sama geeni, joten sikälikin esimerkki mahtuu homologian "samat geenit luovat homologisia rakenteita" -periaatteen piiriin. Toisaalta näkökykyä ja siihen liittyviä biologisia prosesseja on pohdittu evoluutiokeskusteluissa paljon.[^21] Näkökyvyn arvioidaan kehittyneen elämänhistorian aikana 40-65 kertaa,[^22] joten näkökyky voi olla homologinen tai analoginen piirre. On myös huomautettu, että silmien kehittymistä monilla toisistaan kaukaisilla lajeilla ohjaa nk. Pax-6-geeni.
 
-Ongelmana darwinistisen luonnonvalinnan puitteissa on se, että nämä lajit ovat niin kaukaisia, että niiden yhteisellä esi-isällä ei ollut silmiä lainkaan. Tämä taas herättää kysymyksen kyseisen geenin "valintaedusta" vaiheessa, jossa se ei synnyttänyt näkökykyä.[^23] Matemaatikko David Berlinski <!-- red link: David Berlinski --> ihmettelee, miten "luonnon valinnan ja sattumavariaation muodostama mekanismi voi tuottaa instrumentin, joka pystyy ennakoimaan morfologisen kehityksen suunnan ja kontrolloimaan tuotoksiaan hyvin erilaisissa organismeissa?"[^24]
+Ongelmana darwinistisen luonnonvalinnan puitteissa on se, että nämä lajit ovat niin kaukaisia, että niiden yhteisellä esi-isällä ei ollut silmiä lainkaan. Tämä taas herättää kysymyksen kyseisen geenin "valintaedusta" vaiheessa, jossa se ei synnyttänyt näkökykyä.[^23] Matemaatikko [David Berlinski](https://fi.wikipedia.org/wiki/David_Berlinski) <!-- red link: David Berlinski --> ihmettelee, miten "luonnon valinnan ja sattumavariaation muodostama mekanismi voi tuottaa instrumentin, joka pystyy ennakoimaan morfologisen kehityksen suunnan ja kontrolloimaan tuotoksiaan hyvin erilaisissa organismeissa?"[^24]
 
 ### Kuvien käyttö nykypäivänä
 
@@ -101,7 +101,7 @@ On valitettavaa, että suomalainen tiedepopulismi on näinkin rähmällään.
 
 #### Opetusmateriaalina
 ##### Yhdysvallat
-Huolimatta siitä, että Haeckelin sikiösarjojen väärennösluonne tiedettiin jo tämän elinaikana, "taideteos" on säilyttänyt sitkeästi asemansa biologian oppikirjoissa. Amerikkalainen embryologi Jonathan Wells <!-- red link: Jonathan Wells --> tutki kymmenen amerikkalaisen biologian oppikirjan esittämiä todisteita evoluutioteorian puolesta ja julkaisi tutkimuksensa kirjassa [Icons of Evolution](icons-of-evolution-kirja.md).[^5] Kymmenestä tutkitusta kirjasta kahdeksan käytti Haeckelin piirrustukseen perustuvaa kuvasarjaa. Jokainen kirjoista oli kirjoitettu (copyright-vuodesta päätellen) vuonna 1998 tai myöhemmin. Ehkä eniten keskustelua on herättänyt evoluutiobiologi Douglas Futuyman kirjoittama kirja Evolutionary Biology, jossa tämä Haeckelin piirros oli sovellettuna evoluutioteorian todisteeksi.
+Huolimatta siitä, että Haeckelin sikiösarjojen väärennösluonne tiedettiin jo tämän elinaikana, "taideteos" on säilyttänyt sitkeästi asemansa biologian oppikirjoissa. Amerikkalainen embryologi [Jonathan Wells](https://fi.wikipedia.org/wiki/John_Corrigan_Wells) <!-- red link: Jonathan Wells --> tutki kymmenen amerikkalaisen biologian oppikirjan esittämiä todisteita evoluutioteorian puolesta ja julkaisi tutkimuksensa kirjassa [Icons of Evolution](icons-of-evolution-kirja.md).[^5] Kymmenestä tutkitusta kirjasta kahdeksan käytti Haeckelin piirrustukseen perustuvaa kuvasarjaa. Jokainen kirjoista oli kirjoitettu (copyright-vuodesta päätellen) vuonna 1998 tai myöhemmin. Ehkä eniten keskustelua on herättänyt evoluutiobiologi Douglas Futuyman kirjoittama kirja Evolutionary Biology, jossa tämä Haeckelin piirros oli sovellettuna evoluutioteorian todisteeksi.
 
 ```wikitext
 {|
@@ -171,7 +171,7 @@ Leikola jatkaa
 [^1]: Richardson MK, Hanken J, Gooneratne ML, Pieau C, Raynaud A, Selwood L & Wright GM, *There is no highly conserved embryonic stage in the verterbrates*, Anatomy and Embryology, vol.196, 91-106
 [^2]: Elizabeth Pennisi, *[Haeckel's Embryos: Fraud Rediscovered](http://www.sciencemag.org/cgi/content/summary/277/5331/1435a)*, Science, Vol. 277, 1435
 [^3]: Stephen Jay Gould, *Abscheulich! (Atrocious!)*, Natural History, Vol. 109 Issue 2, p42, 8p, 5bw
-[^4]: [Pekka Reinikainen](pekka-reinikainen.md), *Dinosaurusten arvoitus ja Raamattu <!-- red link: Dinosaurusten arvoitus ja Raamattu -->*, Kuva ja Sana, 2004, s. 150, ISBN 951-585-117-3
+[^4]: [Pekka Reinikainen](pekka-reinikainen.md), *[Dinosaurusten arvoitus ja Raamattu](https://fi.wikipedia.org/wiki/Dinosaurusten_arvoitus_ja_Raamattu) <!-- red link: Dinosaurusten arvoitus ja Raamattu -->*, Kuva ja Sana, 2004, s. 150, ISBN 951-585-117-3
 [^5]: Jonathan Wells, *The Icons of Evolution*, Regnery Publishing, 2000, s. 61,83-84, ISBN 0895262762
 [^6]: Siegfried Scherer, Reinhard Junker, *[Evoluutio – kriittinen analyysi](evoluutio-kriittinen-analyysi-kirja.md)*, [Datakirjat](http://www.datakirjatkustannus.fi/), 2000, ISBN 951-98558-0-7
 [^7]: Frair W, *Embryology and Evolution*, Creation Research Society Quarterly, Vol 36, No 2
@@ -188,7 +188,7 @@ Leikola jatkaa
 [^18]: Bergman Jerry, *Does Homology Provide Evidence of Evolutionary Naturalism?*, Creation Ex Nihilo Technical Journal, 15(1), 26-33
 [^19]: Lovejoy NR, *Reinterpreting recapitulation: systematics of needlefishes and their allies (Teleostei: Beloniformes)*, International Journal of Organic Evolution, 54(4), 1349-62
 [^20]: Jeffery W. R., *Cavefish as a model system in evolutionary developmental biology*, Dev Biol, 1;231(1), 1-12 tässä viitataan PubMed-haulla löytyneeseen tiivistelmään kyseistä artikkelista. Toinen artikkeli samasta aiheesta: Jeffery W, Strickler A, Guiney S, Heyser D, Tomarev S, *Prox 1 in eye degeneration and sensory organ compensation during development and evolution of the cavefish Astyanax.*, Dev Genes Evol, 210(5), 223-30 Konvergenssievoluutioon liittyviä ongelmia käsittelee mm. Rana F, *Repeatable Evolution or Repeated Creation*, Facts for Faith, 4, 13-21
-[^21]: Mm. Michael Behe <!-- red link: Michael Behe --> "syventää" silmäargumenttia kirjassaan [Darwin's Black Box](darwins-black-box-kirja.md). Free Press, ss. 15-22. Myös S. J. Gould <!-- red link: Steven Jay Gould --> ja [R. Dawkins](richard-dawkins.md) ovat kisailleet silmän kehityksestä kuten luonnollisesti lukemattomat muut evoluutioteoriaa pohtineet.
+[^21]: Mm. [Michael Behe](michael-behe.md) "syventää" silmäargumenttia kirjassaan [Darwin's Black Box](darwins-black-box-kirja.md). Free Press, ss. 15-22. Myös [S. J. Gould](https://fi.wikipedia.org/wiki/Stephen_Jay_Gould) <!-- red link: Steven Jay Gould --> ja [R. Dawkins](richard-dawkins.md) ovat kisailleet silmän kehityksestä kuten luonnollisesti lukemattomat muut evoluutioteoriaa pohtineet.
 [^22]: Salvini-Plawen L. von and E. Mayr, *On the evolution of photoreceptors and eyes*, Evolutionary Biology, 10, 207-63 lain. Wells Jonathan (1998) "Unseating Naturalism" teoksessa Mere Creation toim. William Dembski, InterVarsity,
 [^23]: Tätä pohtii Mm. Wells (1998).
 [^24]: Berlinski mainitsee tämän vastineessaan Commentary - lehdessä olleen artikkelinsa "Deniable Darwin" saamaan kritiikkiin.

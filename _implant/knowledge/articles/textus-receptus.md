@@ -4,7 +4,7 @@ about: apologetics
 title: "Textus Receptus"
 description: "Textus Receptus (latinaa \"Vastaanotettu Teksti\") on nimi, jolla tarkoitetaan ensimmäiseen, vuonna 1516 julkaistuun kreikankieliseen Uuden testamentin alkutekstiin perustuvaa Uuden testamentin tekstiperhettä."
 tags: [apowiki, raamatun-tekstit]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Textus Receptus".
@@ -26,7 +26,7 @@ Nykyään Textus Receptus on suurimmaksi osaksi jäänyt pois käytöstä, koska
 
 Ensimmäisen julkaistun Uuden testamentin painetun tekstilaitoksen laati [Erasmus Rotterdamilainen](https://fi.wikipedia.org/wiki/Erasmus_Rotterdamilainen) kääntäessään [Raamattua](raamattu.md) alkukielestä kreikasta latinaksi. Tekstilaitos perustuu itäisessä [ortodoksikirkossa](https://fi.wikipedia.org/wiki/ortodoksinen_kirkko) käytössä olleeseen Uuden testamentin niin kutsuttuun bysanttilaiseen tekstimuotoon, jonka luotettavuutta nykyisin useimmat tekstikriitikot, vaikkakaan eivät kaikki (katso [Bysantin tekstilaitos](bysantin-tekstilaitos.md)), pitävät kyseenalaisena.
 
-Erasmuksen ensimmäinen vuoden 1516 painos kreikankielisestä Uudesta testamentista oli tehty kiiressä, ja se sisälsi paljon virheitä. Tekstilaitos perustui muutamiin myöhäisiin käsikirjoituksiin. Jotkin kohdat Erasmus, johtuen osaksi hänen käytössään olleen käsikirjoitusmateriaalin puutteellisuudesta, käänsi latinankielisestä *Vulgatasta <!-- red link: Vulgata -->* takaisin kreikkaan, ja johtuen tästä sekä laatimisvaiheessa tehdyistä huolimattomuusvirheistä Textus Receptuksen tekstissä on useita kohtia, joissa sillä ei ole lainkaan tukea kreikankielisissä käsikirjoituksissa. Pääosin Textus Receptus edustaa kuitenkin edellä mainittua Uuden testamentin bysanttilaista tekstimuotoa, jota sen pohjana olevat käsikirjoitukset edustavat.
+Erasmuksen ensimmäinen vuoden 1516 painos kreikankielisestä Uudesta testamentista oli tehty kiiressä, ja se sisälsi paljon virheitä. Tekstilaitos perustui muutamiin myöhäisiin käsikirjoituksiin. Jotkin kohdat Erasmus, johtuen osaksi hänen käytössään olleen käsikirjoitusmateriaalin puutteellisuudesta, käänsi latinankielisestä *[Vulgatasta](https://fi.wikipedia.org/wiki/Vulgata) <!-- red link: Vulgata -->* takaisin kreikkaan, ja johtuen tästä sekä laatimisvaiheessa tehdyistä huolimattomuusvirheistä Textus Receptuksen tekstissä on useita kohtia, joissa sillä ei ole lainkaan tukea kreikankielisissä käsikirjoituksissa. Pääosin Textus Receptus edustaa kuitenkin edellä mainittua Uuden testamentin bysanttilaista tekstimuotoa, jota sen pohjana olevat käsikirjoitukset edustavat.
 
 Erasmuksen kreikankielinen Uusi testamentti herätti laajaa mielenkiintoa. Ensimmäistä painosta seurasi pian toinen painos, jossa oli korjattu monia ensimmäisen painoksen virheitä. Kolmannessa painoksessa (1522) [Ensimmäisen Johanneksen kirjeen](../books/1jn.md) tekstiin oli lisätty [pyhään kolminaisuuteen](https://fi.wikipedia.org/wiki/kolminaisuusoppi) viittaava kohta, joka tunnetaan nimellä *Comma Johanneum* ([1. Joh. 5:7-8](http://raamattu.uskonkirjat.net/servlet/biblesite.Bible?formname=search&formrnd=1112089887555&search=&rng=0&submit1=Hae&ref=1.+Joh.+5%3A7-8&ctx=0&mod1=FinBiblia&mod2=KJV&mod3=TR)):
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Jeesuksen historiallisuus"
 description: "Jeesus Nasaretilaisen olemassaolon kieltäminen on yleinen ja muodikas tapa leimata kristinusko naurettavaksi."
 tags: [apowiki, jeesus, historia]
-timestamp: 2026-10-01T19:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jeesuksen historiallisuus".
@@ -51,7 +51,7 @@ Evankeliumeja ei ole kirjoitettu ensisijaisesti historiallisiksi teoksiksi, vaan
 
 ##### Uuden testamentin kirjeet
 
-Apostoli Paavalin <!-- red link: Paavali --> aidot kirjeet ovat Uuden testamentin vanhimpia tekstejä. Paavali ei ollut omien kirjeidensä eikä [Apostolien tekojen](apostolien-teot.md) perusteella koskaan tavannut Jeesusta henkilökohtaisesti. Hän tunsi Jeesuksen ainoastaan näkemiensä näkyjen ja Jeesuksen opetuslapsien kanssa käymiensä keskustelujen kautta. Paavali viittaa historialliseen Jeesukseen puhuessaan tästä "naisesta syntyneenä"[^18] ja Daavidin <!-- red link: Daavid --> jälkeläisenä[^19] sekä mainitessaan tämän veljen [Jaakobin](https://fi.wikipedia.org/wiki/Jaakob_(Jeesuksen_veli))[^20]. Paavalin kirjeissä on lisäksi viittauksia sekä Jeesuksen lausumiin, joita ei löydy kanonisista evankeliumeista, että Jeesusta koskevaan perimätietoon.[^21]
+Apostoli [Paavalin](https://fi.wikipedia.org/wiki/Paavali) <!-- red link: Paavali --> aidot kirjeet ovat Uuden testamentin vanhimpia tekstejä. Paavali ei ollut omien kirjeidensä eikä [Apostolien tekojen](apostolien-teot.md) perusteella koskaan tavannut Jeesusta henkilökohtaisesti. Hän tunsi Jeesuksen ainoastaan näkemiensä näkyjen ja Jeesuksen opetuslapsien kanssa käymiensä keskustelujen kautta. Paavali viittaa historialliseen Jeesukseen puhuessaan tästä "naisesta syntyneenä"[^18] ja [Daavidin](https://fi.wikipedia.org/wiki/Daavid) <!-- red link: Daavid --> jälkeläisenä[^19] sekä mainitessaan tämän veljen [Jaakobin](https://fi.wikipedia.org/wiki/Jaakob_(Jeesuksen_veli))[^20]. Paavalin kirjeissä on lisäksi viittauksia sekä Jeesuksen lausumiin, joita ei löydy kanonisista evankeliumeista, että Jeesusta koskevaan perimätietoon.[^21]
 
 ##### Kaanonin ulkopuoliset kirjoitukset
 
@@ -163,7 +163,7 @@ Vuonna 1961 tilanne muuttui, kun Juudean pääkaupungissa [Caesarea Palaestinass
 
 *Pääartikkeli: [Torinon käärinliina](torinon-käärinliina.md)*
 
-Torinon käärinliina on erittäin tunnettu, kansainvälisesti keskusteltu ja kiistelty [pyhäinjäännös](https://fi.wikipedia.org/wiki/pyhäinjäännös). Se on [Torinossa](https://fi.wikipedia.org/wiki/Torino) Pyhän Johannes Kastajan katedraalissa säilytettävä käärinliina, jossa on ristiinnaulitun <!-- red link: ristiinnaulitseminen --> miehen hahmo. Jotkut kristityt ja käärinliinaa tutkineet henkilöt uskovat, että kyseessä on [Jeesuksen](jeesus-nasaretilainen.md) hahmo, joka on siirtynyt liinaan tämän [ylösnousemuksen](jeesuksen-ylösnousemus.md) hetkellä.[^41] Skeptikkojen mielestä kyseessä on keskiaikainen väärennös.[^42]
+Torinon käärinliina on erittäin tunnettu, kansainvälisesti keskusteltu ja kiistelty [pyhäinjäännös](https://fi.wikipedia.org/wiki/pyhäinjäännös). Se on [Torinossa](https://fi.wikipedia.org/wiki/Torino) Pyhän Johannes Kastajan katedraalissa säilytettävä käärinliina, jossa on [ristiinnaulitun](https://fi.wikipedia.org/wiki/Ristiinnaulitseminen) <!-- red link: ristiinnaulitseminen --> miehen hahmo. Jotkut kristityt ja käärinliinaa tutkineet henkilöt uskovat, että kyseessä on [Jeesuksen](jeesus-nasaretilainen.md) hahmo, joka on siirtynyt liinaan tämän [ylösnousemuksen](jeesuksen-ylösnousemus.md) hetkellä.[^41] Skeptikkojen mielestä kyseessä on keskiaikainen väärennös.[^42]
 
 ### Muut todisteet
 
@@ -177,23 +177,23 @@ Ismo Dunderbergin mukaan Jeesuksen kuolintapa on myös todiste hänen historiall
 
 ##### Kritiikki
 
-[Robert M. Pricen](https://fi.wikipedia.org/wiki/Robert_M._Price) mukaan Jeesuksen kuolemasta on syntynyt monta erilaista versiota, jotka eroavat toisistaan niin merkittävällä tavalla, että ne ovat todennäköisesti fiktiota. Hän väittää evankeliumien vanhimman vanhin ristiinnaulitsemiskertomuksen lainaavan koko lyhyen tekstin Vanhan testamentin kirjasta, [psalmista](../books/psa.md) numero 22, mutta ei kuitenkaan käytä lähdeviittausta. Price olettaa Matteuksen täydentävän Markuksen kertomusta uusilla lainauksilla Vanhan testamentin [Sakarjan kirjasta](../books/zec.md) sekä Viisauden kirjasta <!-- red link: Viisauden kirja -->.[^47]
+[Robert M. Pricen](https://fi.wikipedia.org/wiki/Robert_M._Price) mukaan Jeesuksen kuolemasta on syntynyt monta erilaista versiota, jotka eroavat toisistaan niin merkittävällä tavalla, että ne ovat todennäköisesti fiktiota. Hän väittää evankeliumien vanhimman vanhin ristiinnaulitsemiskertomuksen lainaavan koko lyhyen tekstin Vanhan testamentin kirjasta, [psalmista](../books/psa.md) numero 22, mutta ei kuitenkaan käytä lähdeviittausta. Price olettaa Matteuksen täydentävän Markuksen kertomusta uusilla lainauksilla Vanhan testamentin [Sakarjan kirjasta](../books/zec.md) sekä [Viisauden kirjasta](https://fi.wikipedia.org/wiki/Viisauden_kirja) <!-- red link: Viisauden kirja -->.[^47]
 
 #### Jeesuksen hauta
 
-On olemassa useita paikkoja, joita pidetään Jeesuksen hautana tai on väittetty hautapaikaksi. [Pyhän haudan kirkko](https://fi.wikipedia.org/wiki/Pyhän_haudan_kirkko)  on Jeesuksen hautapaikka perimätiedon mukaan ja jotkut kristityt sekä tutkijat hyväksyvät, että kirkko olisi rakennettu Jeesuksen hautapaikan päälle. Toinen on [Puutarhahauta](https://fi.wikipedia.org/wiki/Puutarhahauta), joka on 1800-luvulla löytynyt hauta. Puutarhahauta on joidenkin kristittyjen mukaan Jeesuksen todellinen hautapaikka. Puutarhahaudan puolesta on esitelty perusteita sen sijainnin, ympäristön sekä muodon yhteneväisyyksien kanssa evankeliumien ilmoituksiin nähden Jeesuksen haudasta. Ei-kristillisä tai Raamatun ilmoituksesta poikkeavia esityksiä Jeesuksen hautapaikasta ovat: [Roza Bal](https://fi.wikipedia.org/wiki/Roza_Bal), [Shingo](https://fi.wikipedia.org/wiki/Shingo_(Aomori)), Talpiotin hauta <!-- red link: Talpiotin hauta -->
+On olemassa useita paikkoja, joita pidetään Jeesuksen hautana tai on väittetty hautapaikaksi. [Pyhän haudan kirkko](https://fi.wikipedia.org/wiki/Pyhän_haudan_kirkko)  on Jeesuksen hautapaikka perimätiedon mukaan ja jotkut kristityt sekä tutkijat hyväksyvät, että kirkko olisi rakennettu Jeesuksen hautapaikan päälle. Toinen on [Puutarhahauta](https://fi.wikipedia.org/wiki/Puutarhahauta), joka on 1800-luvulla löytynyt hauta. Puutarhahauta on joidenkin kristittyjen mukaan Jeesuksen todellinen hautapaikka. Puutarhahaudan puolesta on esitelty perusteita sen sijainnin, ympäristön sekä muodon yhteneväisyyksien kanssa evankeliumien ilmoituksiin nähden Jeesuksen haudasta. Ei-kristillisä tai Raamatun ilmoituksesta poikkeavia esityksiä Jeesuksen hautapaikasta ovat: [Roza Bal](https://fi.wikipedia.org/wiki/Roza_Bal), [Shingo](https://fi.wikipedia.org/wiki/Shingo_(Aomori)), [Talpiotin hauta](https://fi.wikipedia.org/wiki/Talpiotin_hauta) <!-- red link: Talpiotin hauta -->
 
 ### Arkeologiset huijaukset
 
 #### Jaakobin luuarkku
 
-*Pääartikkeli: Jaakobin luuarkku <!-- red link: Jaakobin luuarkku -->*
+*Pääartikkeli: [Jaakobin luuarkku](https://fi.wikipedia.org/wiki/Jaakobin_luuarkku) <!-- red link: Jaakobin luuarkku -->*
 
-Jaakobin luuarkku on kuolleen henkilön luiden hautaamiseen käytetty arkku, joka löytyi Israelista vuonna 2002. Hautakirjoituksen ja ajoituksen perusteella sen väitettiin olevan Jeesuksen veljen Jaakobin <!-- red link: Jaakob (Jeesuksen veli) --> arkku, ja jotkut katsoivat sen todistavan, että ajanlaskun alun tienoilla eli merkittävä Jeesus, jonka isä oli Joosef ja veli Jaakob. Arkun aitous on kuitenkin nykyään akateemisissa piireissä hyvin kyseenalaistettu ja sitä pidetään nykyaikana tehtynä väärennöksenä — tekstin Jeesukseen viittaava osa vaikuttaa lisätyn nykyaikana.[^48]
+Jaakobin luuarkku on kuolleen henkilön luiden hautaamiseen käytetty arkku, joka löytyi Israelista vuonna 2002. Hautakirjoituksen ja ajoituksen perusteella sen väitettiin olevan Jeesuksen veljen [Jaakobin](https://fi.wikipedia.org/wiki/Jaakob_(Jeesuksen_veli)) <!-- red link: Jaakob (Jeesuksen veli) --> arkku, ja jotkut katsoivat sen todistavan, että ajanlaskun alun tienoilla eli merkittävä Jeesus, jonka isä oli Joosef ja veli Jaakob. Arkun aitous on kuitenkin nykyään akateemisissa piireissä hyvin kyseenalaistettu ja sitä pidetään nykyaikana tehtynä väärennöksenä — tekstin Jeesukseen viittaava osa vaikuttaa lisätyn nykyaikana.[^48]
 
 #### Talpiotin hauta
 
-*Pääartikkeli: Talpiotin hauta <!-- red link: Talpiotin hauta -->*
+*Pääartikkeli: [Talpiotin hauta](https://fi.wikipedia.org/wiki/Talpiotin_hauta) <!-- red link: Talpiotin hauta -->*
 
 Talpiotin hauta on Talpiotista, Jerusalemin läheltä Israelista vuonna 1980 löydetty hauta. Hauta sisälsi löytöhetkellä kymmenen luuarkkua, joista yksi on myöhemmin kadonnut. Hauta tuli laajempaan julkisuuteen helmikuussa 2007, kun [James Cameronin](https://fi.wikipedia.org/wiki/James_Cameron) ja [Simcha Jacobovicin](https://fi.wikipedia.org/wiki/Simcha_Jacobovic) tuottama dokumenttiohjelma *The Lost Tomb of Jesus* ja Jacobovicin kirjoittama kirja *The Jesus Family Tomb* esittivät teorian, jonka mukaan hauta olisi ollut Jeesuksen ja eräiden toisten häneen liittyvien Uudessa testamentissa mainittujen henkilöiden hautapaikka.
 

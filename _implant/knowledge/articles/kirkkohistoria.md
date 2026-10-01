@@ -4,7 +4,7 @@ about: apologetics
 title: "Kirkkohistoria"
 description: "Kirkkohistoria on tutkimusala, jonka tehtävänä on kristinuskon, kirkon ja kristillisten liikkeiden menneisyyden selvittely ja saatujen tulosten tunnetuksi tekeminen."
 tags: [apowiki, historia, keskeneräiset-artikkelit]
-timestamp: 2026-10-01T19:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kirkkohistoria".
@@ -91,7 +91,7 @@ Rooman politiikan osana olivat myös erilaiset kultit. Näistä todennäköisest
 
 ##### Kreikkalainen vaikutus
 
-* Jo ennen roomalaisten valloituksia n. viidennellä vuosisadalla Ateenassa käytetty attikan murre siirtyi kirjakieleksi, jonka otti myös käyttöönsä Aleksanteri Suuri sotilaineen. Myös kauppiaat ottivat sen yhteiseksi kieleksi vieden sen kaikkialle ja vakiinnuttaen sen asemaan kansainvälisenä kielenä. Tämä tavallisten ihmisten "slangi" tai kielimurre – koine – joka poikkeaa klassisesta kreikasta, on se yleiskieli (vrt. nykyenglanti tai tiedeyhteisön latina), jolla sekä Vanha Testamentti Septuaginta <!-- red link: Septuaginta --> että Uusi Testamentti kirjoitettiin.
+* Jo ennen roomalaisten valloituksia n. viidennellä vuosisadalla Ateenassa käytetty attikan murre siirtyi kirjakieleksi, jonka otti myös käyttöönsä Aleksanteri Suuri sotilaineen. Myös kauppiaat ottivat sen yhteiseksi kieleksi vieden sen kaikkialle ja vakiinnuttaen sen asemaan kansainvälisenä kielenä. Tämä tavallisten ihmisten "slangi" tai kielimurre – koine – joka poikkeaa klassisesta kreikasta, on se yleiskieli (vrt. nykyenglanti tai tiedeyhteisön latina), jolla sekä Vanha Testamentti [Septuaginta](https://fi.wikipedia.org/wiki/Septuaginta) <!-- red link: Septuaginta --> että Uusi Testamentti kirjoitettiin.
 * Kreikkalainen filosofia haastoi vanhat käsitykset kuten [polyteismin](../glossary/sanasto.md#polyteismi). Filosofia ajoi kuitenkin myös ihmisiä umpikujaan, koska se ei kyennyt antamaan tyydyttäviä korvaavia selityksiä tai neuvoja ihmisille. Mm. kysymykset hyvästä omastatunnosta, sovituksesta, pelastuksesta, kuolemanjälkeisestä elämästä yms. aiheuttivat hämmennystä niin kansan kuin filosofien parissa.
 
 Tuon ajanjakson merkittäviä suuntauksia olivat [stoalaisuus](https://fi.wikipedia.org/wiki/stoalaisuus) ja [epikurolaisuus](https://fi.wikipedia.org/wiki/epikurolaisuus). Merkittäviä filosofeja olivat mm. [Platon](https://fi.wikipedia.org/wiki/Platon), [Sokrates](https://fi.wikipedia.org/wiki/Sokrates), [Epikuros](https://fi.wikipedia.org/wiki/Epikuros) ja [Zenon](https://fi.wikipedia.org/wiki/Zenon).
@@ -100,30 +100,30 @@ Tuon ajanjakson merkittäviä suuntauksia olivat [stoalaisuus](https://fi.wikipe
 
 Merkittävin muutos pakkosiirtolaisuutta edeltävään temppelijärjestelmään ovat seuraavat pakkosiirtolaisuuden aikana tulleet lisäelementit:
 * [Synagoga](https://fi.wikipedia.org/wiki/Synagoga)-järjestelmä, joka mahdollisti uskonnollisen toimen kaikkialla maailmassa riippumattomana temppelistä.
-* Voimistunut profetioihin perustunut Messias <!-- red link: Messias -->-odotus, jonka odotettiin täyttyvän tietyntyyppisenä.
+* Voimistunut profetioihin perustunut [Messias](https://fi.wikipedia.org/wiki/Messias) <!-- red link: Messias -->-odotus, jonka odotettiin täyttyvän tietyntyyppisenä.
 
-Muut tutut kristillisen seurakunnuan synnylle kontekstina toimineet uskonnolliset puitteet, jotka liittyivät kiinteästi Jeesuksen ja apostolien elämään, olivat [monoteismi](https://fi.wikipedia.org/wiki/Monoteismi), Mooseksen laki <!-- red link: Mooseksen laki -->, eettinen järjestelmä ja muut Vanhan Testamentin kirjoitukset osana historian kirjoitusta.
+Muut tutut kristillisen seurakunnuan synnylle kontekstina toimineet uskonnolliset puitteet, jotka liittyivät kiinteästi Jeesuksen ja apostolien elämään, olivat [monoteismi](https://fi.wikipedia.org/wiki/Monoteismi), [Mooseksen laki](https://fi.wikipedia.org/wiki/Mooseksen_laki) <!-- red link: Mooseksen laki -->, eettinen järjestelmä ja muut Vanhan Testamentin kirjoitukset osana historian kirjoitusta.
 
 ### Ajanlaskun alusta eteenpäin
 
 #### Jeesus
 [Jeesusta](jeesus-nasaretilainen.md) luonnostaan pidetään kristillisen kirkon keskeisimpänä hahmona, ja siten perustajana. Jeesuksen opetusten, joita seurakunta tutkii [evankeliumit](evankeliumit.md) tärkeimpinä lähteinään, ymmärretään sisältävän elämän tarkoituksen ja ratkaisut ihmisten merkittävimpiin ongelmiin.
 
-Opetusta vasten seurakunta pitää [Jeesuksen elämän](jeesus-nasaretilainen.md) tutkimista tärkeänä siksi, että "Mitä Jeesus opetti, sitä meidän on toteltava. Miten Jeesus eli, niin meidänkin on elettävä. Mitä Jeesus teki, niitä tekoja meidänkin on tehtävä". Jeesuksen seuraajat näyttävät sisäistäneen nämä vahvasti elämässään, ja ne olivat kristittyjen <!-- red link: kristitty --> valintojen pohjalla vaikuttamassa.
+Opetusta vasten seurakunta pitää [Jeesuksen elämän](jeesus-nasaretilainen.md) tutkimista tärkeänä siksi, että "Mitä Jeesus opetti, sitä meidän on toteltava. Miten Jeesus eli, niin meidänkin on elettävä. Mitä Jeesus teki, niitä tekoja meidänkin on tehtävä". Jeesuksen seuraajat näyttävät sisäistäneen nämä vahvasti elämässään, ja ne olivat [kristittyjen](https://fi.wikipedia.org/wiki/Kristitty) <!-- red link: kristitty --> valintojen pohjalla vaikuttamassa.
 
-Kristillinen kirkko ja [messiaaniset juutalaiset](https://fi.wikipedia.org/wiki/messiaaniset_juutalaiset) pitävät Jeesusta Messiaana <!-- red link: Messias -->. Kreikan sana "kristus" tarkoittaa suomeksi "voideltua". Tämä merkitsee Jeesuksen asemaa kuninkaana, pappina ja profeettana. Lisäksi kristityt pitävät Jeesusta [Jumalana](jumala.md).
+Kristillinen kirkko ja [messiaaniset juutalaiset](https://fi.wikipedia.org/wiki/messiaaniset_juutalaiset) pitävät Jeesusta [Messiaana](https://fi.wikipedia.org/wiki/Messias) <!-- red link: Messias -->. Kreikan sana "kristus" tarkoittaa suomeksi "voideltua". Tämä merkitsee Jeesuksen asemaa kuninkaana, pappina ja profeettana. Lisäksi kristityt pitävät Jeesusta [Jumalana](jumala.md).
 
 #### Jeesuksen seuraajat
 
 Opetuslapset oletetaan useasti 12 apostolin muodostamaksi pieneksi joukoksi. Evankeliumien pohjalta opetuslapsia oli kuitenkin merkittävästi suurempi joukko. Jeesusta ympäröineet sosiologiset ryhmät voidaan jakaa seuraavanlaisiin ryhmiin:
 * Jeesuksen sukulaiset
-* Apostolit <!-- red link: Apostolit -->
+* [Apostolit](https://fi.wikipedia.org/wiki/Apostoli) <!-- red link: Apostolit -->
 * Koko ajan mukana olleet opetuslapset <!-- red link: opetuslapset -->
 * Jeesuksen hylänneet opetuslapset
-* Muut [juutalaiset](https://fi.wikipedia.org/wiki/juutalaiset) kuulijat kuten [Israelin](https://fi.wikipedia.org/wiki/Israel) kansa, saddukeukset <!-- red link: saddukeukset --> ja fariseukset <!-- red link: fariseukset -->
+* Muut [juutalaiset](https://fi.wikipedia.org/wiki/juutalaiset) kuulijat kuten [Israelin](https://fi.wikipedia.org/wiki/Israel) kansa, [saddukeukset](https://fi.wikipedia.org/wiki/Saddukeukset) <!-- red link: saddukeukset --> ja [fariseukset](https://fi.wikipedia.org/wiki/Farisealaiset) <!-- red link: fariseukset -->
 * Muut [pakanakuulijat](https://fi.wikipedia.org/wiki/pakana) kuten [samarialaiset](https://fi.wikipedia.org/wiki/samarialaiset), [kreikkalaiset](https://fi.wikipedia.org/wiki/kreikkalaiset) ja roomalaiset viranomaiset.
 
-Evankeliumien ja perimätiedon valossa näyttää siltä, että Jeesuksen ensimmäiset seuraajat olivat Johannes Kastajan <!-- red link: Johannes Kastaja --> seuraajia, esim. Andreas ( ([Joh. 1:40](../books/jhn.md))). Hänen kerrotaan ilmoittaneen messiaan löytymisestä veljelleen Pietarille. Filippus ja Natanael liittyivät seuraavana päivänä joukkoon ( ([Joh. 1:43,45](../books/jhn.md))). Nämä tapahtuivat arviolta noin vuonna 27 jKr. 46 vuotta sen jälkeen, kun Herodes oli alkanut rakentamaan Jerusalemin kolmannen temppelin laajennusta ( ([Joh. 2:20](../books/jhn.md))).
+Evankeliumien ja perimätiedon valossa näyttää siltä, että Jeesuksen ensimmäiset seuraajat olivat [Johannes Kastajan](https://fi.wikipedia.org/wiki/Johannes_Kastaja) <!-- red link: Johannes Kastaja --> seuraajia, esim. Andreas ( ([Joh. 1:40](../books/jhn.md))). Hänen kerrotaan ilmoittaneen messiaan löytymisestä veljelleen Pietarille. Filippus ja Natanael liittyivät seuraavana päivänä joukkoon ( ([Joh. 1:43,45](../books/jhn.md))). Nämä tapahtuivat arviolta noin vuonna 27 jKr. 46 vuotta sen jälkeen, kun Herodes oli alkanut rakentamaan Jerusalemin kolmannen temppelin laajennusta ( ([Joh. 2:20](../books/jhn.md))).
 
 Muita opetuslapsia luetellaan olleen Matteus ( ([Matt. 9:9](../books/mat.md))) Leevi ( ([Mark. 2:14](../books/mrk.md))), Jaakob Sebedeuksen poika ( ([Matt. 10:2](../books/mat.md))), Jaakob (tai Leevi) Alfeuksen poika ( ([Matt. 10:3](../books/mat.md))), Lebbeus tunnettu myös Taddeuksena ( ([Matt. 10:3](../books/mat.md))), Simon Kananeus ( ([Matt. 10:4](../books/mat.md))) ja Juudas Iskariot ( ([Matt. 10:4](../books/mat.md))).
 
@@ -134,11 +134,11 @@ Jeesuksen <!-- kastamis epätarkkuus?-->toiminta oli Juudeassa voimakkaampaa kui
 Jerusalemin seurakunnan alkusanat yleisesti katsotaan tapahtuneen kolmen tilanteen kautta:
 * Kun Pietari tunnusti Jeesuksen: "Sinä olet Messias, elävän Jumalan Poika" niin Jeesus vastasi siihen, että "..tälle kalliolle minä rakennan seurakuntani, ja tuonelan portit eivät sitä voita." ( ([Matt. 16:13-20](../books/mat.md)),  ([Mark. 8:27-30](../books/mrk.md)),  ([Luuk. 9:18-21](../books/luk.md)))
 * Kun Jeesus antoi ennen ylösottoaan (taivaaseen astuminen) lähetyskäskyn ( ([Matt. 28:16-20](../books/mat.md)),  ([Mark. 16:15-18](../books/mrk.md)))
-* Kun helluntaina Pyhä Henki <!-- red link: Pyhä Henki --> tuli ja aloitti työnsä <!-- Jeesuksen "sijaisena" --> ( ([Apt. 2](../books/act.md)))
+* Kun helluntaina [Pyhä Henki](https://fi.wikipedia.org/wiki/Pyhä_Henki) <!-- red link: Pyhä Henki --> tuli ja aloitti työnsä <!-- Jeesuksen "sijaisena" --> ( ([Apt. 2](../books/act.md)))
 
 Jerusalemin seurakunnan muodostivat 11 apostolia ja Juudas Iskariotin tilalle apostoliksi valittu Mattias. Muita jäseniä olivat kerrotun mukaan Maria (Jeesuksen äiti) ja Jeesuksen veljiä sekä "vaimoja". Vaimoilla viitataan todennäköisesti opetuslasten vaimoihin. Evankeliumeissa kerrotaan Pietarin anopin sairastaneen, eikä anoppia voi olla ilman vaimoa. Mattiaksen valintapäivänä koolla oli ainakin 120 henkeä.
 
-Helluntaipäivänä Pyhä Henki <!-- red link: Pyhä Henki --> tuli aamupäivällä ja täytti opetuslapset. Tämän seurauksena ilmeni kielillä puhumista eri kielillä. Näitä kieliä luetellaan olleen ainakin seuraavien alueiden kielet: [Parthia](https://fi.wikipedia.org/wiki/Parthia), [Meedia](https://fi.wikipedia.org/wiki/Meedia), [Eelam](https://fi.wikipedia.org/wiki/Eelam), [Mesopotamia](https://fi.wikipedia.org/wiki/Mesopotamia), [Juudea](https://fi.wikipedia.org/wiki/Juudea), [Kappadokia](https://fi.wikipedia.org/wiki/Kappadokia), [Pontos](https://fi.wikipedia.org/wiki/Pontos), [Aasia](https://fi.wikipedia.org/wiki/Asia_(provinssi)), [Fryygia](https://fi.wikipedia.org/wiki/Fryygia), [Pamfylia](https://fi.wikipedia.org/wiki/Pamfylia), [Egypti](https://fi.wikipedia.org/wiki/Muinainen_Egypti), [Kyrenen Libya](https://fi.wikipedia.org/wiki/Kyrene), [Rooma](https://fi.wikipedia.org/wiki/Rooma), [Kreeta](https://fi.wikipedia.org/wiki/Kreeta) ja [Arabia](https://fi.wikipedia.org/wiki/Arabia_Petraea). Monelle Jerusalemiin saapuneelle juhlijalle julistus asuinmaansa kielellä "Jumalan suurista teoista" yhdessä Pietarin puheen kanssa oli niin osuva, että noin 3 000 henkeä liittyi opetuslasten joukkoon. Vähän myöhemmin kerrotaan miesten määrän nousseen 5 000 mieheen ( ([Apt. 4:4](../books/act.md))). Tämän jälkeen Apostolien tekojen kirjoittaja mainitsee silloin tällöin että joka päivä opetuslasten joukkoon liittyi miehiä ja naisia.
+Helluntaipäivänä [Pyhä Henki](https://fi.wikipedia.org/wiki/Pyhä_Henki) <!-- red link: Pyhä Henki --> tuli aamupäivällä ja täytti opetuslapset. Tämän seurauksena ilmeni kielillä puhumista eri kielillä. Näitä kieliä luetellaan olleen ainakin seuraavien alueiden kielet: [Parthia](https://fi.wikipedia.org/wiki/Parthia), [Meedia](https://fi.wikipedia.org/wiki/Meedia), [Eelam](https://fi.wikipedia.org/wiki/Eelam), [Mesopotamia](https://fi.wikipedia.org/wiki/Mesopotamia), [Juudea](https://fi.wikipedia.org/wiki/Juudea), [Kappadokia](https://fi.wikipedia.org/wiki/Kappadokia), [Pontos](https://fi.wikipedia.org/wiki/Pontos), [Aasia](https://fi.wikipedia.org/wiki/Asia_(provinssi)), [Fryygia](https://fi.wikipedia.org/wiki/Fryygia), [Pamfylia](https://fi.wikipedia.org/wiki/Pamfylia), [Egypti](https://fi.wikipedia.org/wiki/Muinainen_Egypti), [Kyrenen Libya](https://fi.wikipedia.org/wiki/Kyrene), [Rooma](https://fi.wikipedia.org/wiki/Rooma), [Kreeta](https://fi.wikipedia.org/wiki/Kreeta) ja [Arabia](https://fi.wikipedia.org/wiki/Arabia_Petraea). Monelle Jerusalemiin saapuneelle juhlijalle julistus asuinmaansa kielellä "Jumalan suurista teoista" yhdessä Pietarin puheen kanssa oli niin osuva, että noin 3 000 henkeä liittyi opetuslasten joukkoon. Vähän myöhemmin kerrotaan miesten määrän nousseen 5 000 mieheen ( ([Apt. 4:4](../books/act.md))). Tämän jälkeen Apostolien tekojen kirjoittaja mainitsee silloin tällöin että joka päivä opetuslasten joukkoon liittyi miehiä ja naisia.
 
 Ensimmäisen seurakunnan säännöllistä toimintaa olivat mm. ( ([Apt. 2:41-47](../books/act.md)))
 
@@ -172,7 +172,7 @@ Uuden Testamentin mukaan evankeliumi levisi seuraaville alueille: [Etiopia](http
 
 Nimeltä mainittuja tai muuten täsmennettyjä kristittyjä ovat:
 
-1. Paavali <!-- red link: Paavali --> (eli Saulus Tarsosta) ( ([Apt. 7:58](../books/act.md)))
+1. [Paavali](https://fi.wikipedia.org/wiki/Paavali) <!-- red link: Paavali --> (eli Saulus Tarsosta) ( ([Apt. 7:58](../books/act.md)))
 1. Simon (entinen noita) ( ([Apt. 8:9](../books/act.md)))
 1. Etiopian kuningatar Kandaken hoviherra ( ([Apt. 8:27](../books/act.md)))
 1. Ananias ( ([Apt. 9:10](../books/act.md)))

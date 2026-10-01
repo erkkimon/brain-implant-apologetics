@@ -4,7 +4,7 @@ about: apologetics
 title: "Tiede"
 description: "Tiede tarkoittaa todellisuuden ilmiöiden ja niiden välisten suhteiden järjestelmällistä ja arvostelevaa tutkimista sekä sen avulla saatua tietojen jäsentynyttä kokonaisuutta."
 tags: [apowiki, tieteenfilosofia]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-01T19:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tiede".
@@ -91,7 +91,7 @@ On mahdollista erottaa käsitteellisesti toisistaan **perimmäiset syyt** ja **v
 
 #### Kysymys tieteen pelisäännöistä
 
-Naturalistisen näkemyksen mukaanhan mitään tieteellisen tutkimuksen yläpuolisia perimmäisiä syitä ei ole olemassakaan, vaan kaikki on perimmältäänkin silkkaa ohjaamattoman, tarkoituksettoman sattuman ja itsestään syntyneen, niinikään tarkoituksettoman luonnonlakivälttämättömyyden varaista tapahtumavirtaa. Tämän näkemyksen mukaan tämä todellisuuden perimmäinen luonne siis "tiedetään" jo ennen ja ilman mitään varsinaista tieteellistä tutkimusta, joten muunlainen tutkimus olisi joka tapauksessa "tieteen voimavarojen haaskausta huuhaa-tutkimukseen", joka siksi yleisen edun nimissä olisi kiellettävä.  Jos siis Jumala ei missään vaiheessa ole sallittu selitys, kaiken selittämiseen pyrkivä tiede johtaa ateismiin pelkän määritelmän avulla – ja naturalistien rukkaamiin "tieteen pelisääntöihin" mukautuneet teistiset tutkijat ovat ymmärtämättömyyttään osallisina tässä tragediassa. Naturalistinen näkemys on näet teistisen katsomuksen tavoin perimmältään uskonvarainen tai uskonnollinen – sen perususkomukset <!-- red link: perususkomus --> vain ovat erilaiset. Sitä paitsi naturalismin ja siitä loogisesti seuraavan evolutionismin muodostama kokonaisuus johtaa siihen, ettei ihmisellä voi perustellusti väittää olevan kykyä luotettavan tiedon saamiseen, jolloin koko tieteen ideakin [perustavalla tavalla kyseenalaistuu](evolutiivinen-argumentti-naturalismia-vastaan.md).
+Naturalistisen näkemyksen mukaanhan mitään tieteellisen tutkimuksen yläpuolisia perimmäisiä syitä ei ole olemassakaan, vaan kaikki on perimmältäänkin silkkaa ohjaamattoman, tarkoituksettoman sattuman ja itsestään syntyneen, niinikään tarkoituksettoman luonnonlakivälttämättömyyden varaista tapahtumavirtaa. Tämän näkemyksen mukaan tämä todellisuuden perimmäinen luonne siis "tiedetään" jo ennen ja ilman mitään varsinaista tieteellistä tutkimusta, joten muunlainen tutkimus olisi joka tapauksessa "tieteen voimavarojen haaskausta huuhaa-tutkimukseen", joka siksi yleisen edun nimissä olisi kiellettävä.  Jos siis Jumala ei missään vaiheessa ole sallittu selitys, kaiken selittämiseen pyrkivä tiede johtaa ateismiin pelkän määritelmän avulla – ja naturalistien rukkaamiin "tieteen pelisääntöihin" mukautuneet teistiset tutkijat ovat ymmärtämättömyyttään osallisina tässä tragediassa. Naturalistinen näkemys on näet teistisen katsomuksen tavoin perimmältään uskonvarainen tai uskonnollinen – sen [perususkomukset](https://fi.wikipedia.org/wiki/Perususkomus) <!-- red link: perususkomus --> vain ovat erilaiset. Sitä paitsi naturalismin ja siitä loogisesti seuraavan evolutionismin muodostama kokonaisuus johtaa siihen, ettei ihmisellä voi perustellusti väittää olevan kykyä luotettavan tiedon saamiseen, jolloin koko tieteen ideakin [perustavalla tavalla kyseenalaistuu](evolutiivinen-argumentti-naturalismia-vastaan.md).
 
 ##### Vaihtoehtoisia pelisäännöstöjä
 
