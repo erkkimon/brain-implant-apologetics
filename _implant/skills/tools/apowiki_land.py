@@ -49,7 +49,7 @@ def _front(p: Path) -> dict[str, str]:
     out = {}
     for line in (m.group(1) if m else "").splitlines():
         k, _, v = line.partition(":")
-        out[k.strip()] = v.strip().strip('"')
+        out[k.strip()] = v.strip().strip('"').replace('\\"', '"')
     return out
 
 

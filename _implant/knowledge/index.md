@@ -17,6 +17,6 @@ and point here to the skill.
   wikitext in `../raw/apowiki-export/` by the
   [convert skill](../skills/convert-apowiki-to-articles.md). They are the
   Finnish source of truth.
-* `en/` (from the first batch on) — translated articles, one per Finnish page under
+* [English](en/index.md) — translated articles, one per Finnish page under
   the same file name, added batch by batch per the
   [translation skill](../skills/translate-an-article.md).
