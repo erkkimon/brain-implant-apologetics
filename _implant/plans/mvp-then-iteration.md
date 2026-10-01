@@ -3,7 +3,7 @@ type: plan
 title: "MVP first, then daily iteration (apologetics)"
 description: "The apologetics half of the shared plan: convert ApoWiki's wikitext to Finnish markdown pages with parsed implant links, hang the book corpus on the shared book spine, compile with multilingual embeddings, and only then start cooldown-batched translation and improvement."
 tags: [plan, mvp, roadmap]
-timestamp: 2026-10-01T18:00:00Z
+timestamp: 2026-10-01T18:30:00Z
 ---
 
 # MVP first, then daily iteration (apologetics)
@@ -61,7 +61,9 @@ cooldown-sized batches).
    without this the MVP does not exist, because cross-language retrieval is
    the entire reason Finnish-first is allowed.
 6. **Gate** — contract green, implant compiled and served, Tom using it. Then
-   translation starts.
+   translation starts. On 2026-10-01 Tom dropped the gate as a blocker
+   ([journal](../journals/2026-10-01.md)): he dogfoods the implant in
+   parallel, and what he finds lands in todo/open.md as bug fixes.
 
 ## The daily loop after the gate
 
@@ -117,11 +119,14 @@ happened last.
 
 **Next, in order:**
 
-1. Phase 4, the gate: Tom uses the implant for a real question. Nothing
-   below starts before he calls it lovable. Machine-time polish meanwhile:
-   the leftovers in todo/open.md (red links, tables, missing glossary
-   terms).
-2. Translation batches, one theme at a time, per the skill.
+1. Machine-time polish, top to bottom in todo/open.md: the missing
+   glossary terms, the most-wanted red links, the wiki tables.
+2. Translation setup (where English pages live, theme order, glossary rows
+   for the batch), then translation batches one theme at a time, per the
+   skill.
+
+Tom dogfoods in parallel and is not a gate (decided 2026-10-01). His bug
+reports go to the top of todo/open.md and take priority over polish.
 
 **To resume on any machine:**
 

@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to be done — the implant's live work queue.
-timestamp: 2026-10-01T18:00:00Z
+timestamp: 2026-10-01T18:30:00Z
 ---
 
 # Open
@@ -12,8 +12,14 @@ Check this list before planning new work. Tick an item as `- [x] … (done:
 YYYY-MM-DD)` and move it to `archive/YYYY-MM-DD.md` the same or the next day.
 
 Plan behind this list: [../plans/mvp-then-iteration.md](../plans/mvp-then-iteration.md).
-Phases 1–3 are machine time (run them, spend no tokens). Phase 4 is the gate.
-Everything after the gate is token work, one themed batch per cooldown burst.
+Phases 1–3 are machine time (run them, spend no tokens). Phase 4 is no longer
+a gate (Tom, 2026-10-01): he dogfoods in parallel, and his bug reports go under
+"Bugs from dogfooding" and come first. Translation is one themed batch per
+cooldown burst.
+
+## Bugs from dogfooding
+
+(none reported yet)
 
 ## Phase 1 — Algorithmic conversion (machine time)
 
@@ -31,10 +37,9 @@ testaments in `knowledge/books/`, each pointing at the theology spine.
 ## Phase 3 — Make Finnish findable by English queries (machine time)
 
 
-## Phase 4 — The MVP gate
+## Phase 4 — Dogfooding (not a gate)
 
-- [ ] `henxels check --all` green, implant compiled, served with `brainpick init`
-- [ ] Tom uses it for a real question and calls it lovable — **do not start spending translation tokens before this**
+- [ ] Tom uses it on real questions; every rough edge becomes an item under "Bugs from dogfooding"
 
 ## Phase 5+ — Daily iteration (token work, one batch per cooldown burst)
 
