@@ -714,6 +714,14 @@ class Converter:
         # Wiki links next, so their labels are not mangled by the quote rules.
         def wl(m: re.Match) -> str:
             inner = m.group(1)
+            ext = re.match(r"^\s*(https?://\S+)\s+(.+?)\s*$", inner, re.S)
+            if ext:
+                # [[http://url label]] is a typo for [url label]; MediaWiki
+                # shows it as an external link in literal brackets. Render
+                # the link, not a red link to a URL (the-edge-of-evolution-
+                # kirja, 2026-10-02).
+                self.stats["link_external_double_bracket"] += 1
+                return f"[{ext.group(2)}]({ext.group(1)})" + (m.group(2) or "")
             if "|" in inner:
                 tgt, lbl = inner.split("|", 1)
             else:
