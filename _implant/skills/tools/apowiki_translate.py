@@ -104,6 +104,27 @@ def glossary_rules() -> list[tuple[re.Pattern, str, str]]:
     return rules
 
 
+def missing_terms(blocks) -> list[str]:
+    """Glossary terms that occur in the visible text but have no English
+    row yet: the rows to fill before this article's batch runs."""
+    english = load_english()
+    try:
+        ents = entries(source()[0])
+    except FileNotFoundError:
+        return []
+    seen = visible("\n".join(t for kind, t in blocks if kind != "keep"))
+    out = []
+    for term, _ in ents:
+        a = anchor(term)
+        if a in english or term in out:
+            continue
+        words = term.strip("*").lower().split()
+        pat = r"\b" + r"\w*\s+".join(re.escape(_stem(w)) for w in words) + r"\w*"
+        if re.search(pat, seen, re.I):
+            out.append(term.strip("*"))
+    return out
+
+
 def visible(text: str) -> str:
     """The words a reader sees: link targets, comments and footnote markers
     removed. A term inside `(suunnitteluteoria.md)` is a file name, not a
@@ -284,6 +305,15 @@ def main() -> int:
               f"{len(req)} glossary terms, "
               f"{'FAILED' if en is None else 'ok'}", flush=True)
 
+    if args.dry_run:
+        # A dry run writes nothing: a file in _temp/translations/ is a
+        # finished translation to the batch runner and to apowiki_land.py
+        # (2026-10-02, a dry run over batch 2 left 13 Finnish "translations").
+        missing = missing_terms(blocks)
+        print(f"{args.article.stem}: dry run, nothing written; "
+              f"{len(missing)} glossary terms here have no English yet"
+              + (": " + ", ".join(missing) if missing else ""))
+        return 0
     stem = args.article.stem
     args.out.mkdir(parents=True, exist_ok=True)
     out = args.out / f"{stem}.md"

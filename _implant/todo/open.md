@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to be done — the implant's live work queue.
-timestamp: 2026-10-02T01:30:00Z
+timestamp: 2026-10-02T02:00:00Z
 ---
 
 # Open
@@ -41,8 +41,9 @@ testaments in `knowledge/books/`, each pointing at the theology spine.
 
 ## Phase 5+ — Daily iteration (token work, one batch per cooldown burst)
 
-- [ ] Before each translation batch, fill `knowledge/glossary/english.md` rows for the glossary terms that batch uses (321 of 413 terms still lack one; `apowiki_translate.py --dry-run` lists them per chunk). Batch 1's rows are in
+- [ ] Before each translation batch, fill `knowledge/glossary/english.md` rows for the glossary terms that batch uses (293 of 413 terms still lack one; `apowiki_translate.py --dry-run` lists them per chunk). Batch 1's rows are in Batch 2's rows (God and the arguments, 28 rows) were added 2026-10-02; 120 of 413 terms now have English.
 - [ ] Batch 1 (design theory, 6 articles; william-dembski landed and reviewed 2026-10-01, the rest running as `_temp/run-batch1.sh`, then a retry pass `_temp/run-batch1b.sh`, log in `_temp/batch1.log`; re-run `run-batch1.sh` if both died, it skips finished ones. Throughput depends on how busy the shared CPU host is: on 2026-10-01/02 two articles timed out while the host was saturated: suunnitteluteoria, william-dembski, kosminen-hienosäätö, teleologinen-argumentti, the-edge-of-evolution-kirja, tarkoituksellisuuspäättelyn-logiikka): machine run → review against the Finnish (translate title and description, fix failed chunks, set `translation_status: reviewed`) → `apowiki_land.py` → commit
+- [ ] Batch 2 (God and the arguments, 13 articles, about 15 500 words; *alvin-plantinga*, 12 000 words, gets a run of its own later): queued as `_temp/run-batch2.sh`, which waits for batch 1's runners and logs to `_temp/batch2.log`. Glossary rows done. When it finishes: review, `apowiki_land.py`, commit.
 - [ ] Per batch: machine-translate one themed slice to English → improve that slice (ground claims, close its red links, enrich links) → commit. Themed, not alphabetical.
 - [ ] Create the pages the graph asks for, per the [wanted-page skill](../skills/write-a-wanted-page.md). Done on 2026-10-02 (knowledge/pages/): Paul Nelson, Michael Denton, Discovery Institute, *Älykkään suunnitelman idea*, Guillermo Gonzalez, Jay W. Richards, Stanley Jaki. Next: the most-linked bare targets of each theme as its batch comes up (`_temp/convert-report.json` lists them after a convert run). *Nasaretilaisen haaste* (5 links, Kankaanniemi 2000, ISBN 952-5374-00-9) belongs with the Jesus batch and needs a library record; Finna's API answered scripted requests with a Cloudflare challenge. The 330 others link to Finnish Wikipedia but stay wanted. Do it with the translation batch that touches the theme, since a new page is token work
 

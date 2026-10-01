@@ -4,7 +4,7 @@ about: apologetics
 title: "English renderings of ApoWiki's glossary terms"
 description: "The translation contract: the one fixed English rendering of each ApoWiki glossary (Sanasto) term, so every translated article says the same thing the same way. Edited by hand, read by apowiki_glossary.py and by the translation check."
 tags: [glossary, sanasto, translation, terminology, english]
-timestamp: 2026-10-01T20:30:00Z
+timestamp: 2026-10-02T02:00:00Z
 half_life: 0
 ---
 
@@ -127,3 +127,47 @@ and the next translation batch picks the correction up.
 | kriteeri | criterion | |
 | mekanismi | mechanism | |
 | analogia | analogy | |
+| jumala | God | capitalised for the God of theism, "a god" or "gods" otherwise |
+| moraali | morality | also renders *moraalinen* (moral) |
+| etiikka | ethics | |
+| aksiologia | axiology | the theory of value |
+| intuitio | intuition | |
+| kontingentti | contingent | not necessary; the sense used in cosmological arguments |
+| kontingenssi | contingency | |
+| aktuaali | actual | as opposed to potential |
+| induktio | induction | |
+| induktiivinen | inductive | |
+| objektiivinen | objective | |
+| tieteellinen | scientific | |
+| falsifikaatio | falsification | Popper's sense |
+| dualismi | dualism | |
+| panteismi | pantheism | |
+| polyteismi | polytheism | |
+| eksistentialismi | existentialism | |
+| okkultismi | occultism | |
+| agentti | agent | one who chooses and acts |
+| prosessi | process | |
+| konteksti | context | |
+| variaatio | variation | |
+| frekvenssi | frequency | |
+| illuusio | illusion | |
+| despootti | despot | |
+| retoriikka | rhetoric | |
+| propaganda | propaganda | |
+| DNA | DNA | |
+
+## Left free on purpose
+
+Batch 2 (God and the arguments, 2026-10-02) met these terms and gave them
+no row ([journal](../../journals/2026-10-02.md)). They are either everyday
+Finnish whose English the model already gets right, or their stem catches
+unrelated words, so a row would fail correct chunks: *hyvä*, *käsite*,
+*halu*, *tahto*, *tarkoitus* (also *tarkoittaa*), *kohtalo* (also *kohta*),
+*määritys*, *ilmiö*, *järki*, *kosmos*, *olio*, *annettu*, *arvo*,
+*arvostus*, *eliö*, *laji*, *normaali*, *absoluutti*, *absurdi* (also
+*absurdum*), *negaatio*, *konteksti*, *humanisti* (also *humanismi*),
+*monismi* (also *monista*), *agenda* (also *agentti*), *per se* (also
+*perusteella sen*), *apologi*, *apologia*, *apologeetta*, *apologeetti*,
+*apologeetikko* (one stem, several English words), *argumentointi*,
+*argumentaatio*, *teoreema* (also *teoreettinen*), *ID*, *abiogeneettinen*,
+*olevainen*.

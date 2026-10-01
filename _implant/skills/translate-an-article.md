@@ -2,7 +2,7 @@
 type: skill
 title: Translate an article into English
 description: "Use when translating a converted Finnish ApoWiki article into English: a small local model does the prose, ApoWiki's own glossary (Sanasto) fixes the terminology, and deterministic checks (links, footnotes, glossary terms) decide whether a chunk is accepted. Frontier-model tokens are spent only on review."
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T02:00:00Z
 depends_on: [skills/convert-apowiki-to-articles.md]
 tools:
   - skills/tools/apowiki_glossary.py
@@ -71,8 +71,15 @@ of them. Finnish is matched by word stem, so inflected forms (*naturalismin*,
    has no row in `english.md`, add the row, following the rules at the top
    of that page. This is the only step that needs judgement about
    vocabulary. Doing it before translating means the checks enforce it.
-   A dry run lists the terms each chunk uses:
+   A dry run calls no model and writes nothing. It lists the glossary
+   terms in the article that still have no English row:
    `python3 skills/tools/apowiki_translate.py --dry-run ARTICLE.md`.
+   Not every listed term needs a row. A term that is everyday Finnish
+   (*hyvä*, *käsite*, *halu*) or whose stem also catches unrelated words
+   (*apologi* catches *apologia*, *agenda* catches *agentti*, *per se*
+   catches *perusteella sen*) is better left free: a row would force a
+   word where the model already writes the right one, or fail correct
+   chunks. Such terms are listed at the end of `english.md`.
 4. **Translate** with the local model. The endpoint is machine-local, so
    pass it in the environment, never in a committed file:
    `OLLAMA_HOST=http://<host>:11434 python3 skills/tools/apowiki_translate.py ARTICLE.md`.

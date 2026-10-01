@@ -4,7 +4,7 @@ about: apologetics
 title: "Sanasto — ApoWikin virallinen sanasto"
 description: "ApoWiki's official Finnish glossary: 413 terms with the definitions ApoWiki articles use them in, struck-through senses marked as usage ApoWiki avoids. The fixed term list for translation."
 tags: [apowiki, glossary, sanasto, terminology, translation]
-timestamp: 2026-10-01T20:30:00Z
+timestamp: 2026-10-02T02:00:00Z
 half_life: 0
 ---
 <!--
@@ -137,6 +137,8 @@ English: **abiogenesis**
 
 ### agentti
 
+English: **agent**
+
 - valitsija; valintoja tekevä mieli
 - toimija
 
@@ -183,12 +185,16 @@ English: **circumstantial evidence**
 
 ### aksiologia
 
+English: **axiology**
+
 - oppi arvoista
 - arvoteoria; tutkii sitä, mikä on arvokasta ja miten arvostuksia voidaan perustella
 
 <a id="aktuaali"></a>
 
 ### aktuaali
+
+English: **actual**
 
 - *[aktuaalinen](#aktuaalinen)*
 
@@ -527,6 +533,8 @@ English: **deism**
 
 ### despootti
 
+English: **despot**
+
 - itsevaltias
 - hirmuhallitsija
 
@@ -562,6 +570,8 @@ English: **determinism**
 
 ### DNA
 
+English: **DNA**
+
 - deoksiribonukleiinihappo
 - perinnöllistä informaatiota varastoiva [molekyyli](#molekyyli)
 
@@ -574,6 +584,8 @@ English: **determinism**
 <a id="dualismi"></a>
 
 ### dualismi
+
+English: **dualism**
 
 - kaksijakoinen käsitys todellisuudesta
 - kahden itsenäisen alkuperusteen eli substanssin olettamista
@@ -630,6 +642,8 @@ English: **exegesis**
 <a id="eksistentialismi"></a>
 
 ### eksistentialismi
+
+English: **existentialism**
 
 - filosofian suuntaus, joka korostaa yksilön kokemuksen ainutlaatuisuutta
 - oppi, jonka mukaan ihmisen olemassaolossa on ensisijaista kokemus yksilöllisestä, ainutlaatuisesta olemassaolosta; ihmisyyttä ei ole ennalta määrätty, vaan jokainen on vapaa valitsemaan olemisen tapansa itse ja on toisaalta siihen myös pakotettu
@@ -816,6 +830,8 @@ English: **epistemology**
 
 ### etiikka
 
+English: **ethics**
+
 - tekoja, arvoja ja niiden hyväksyttävyyttä tutkiva filosofian haara
 
 <a id="evidentialismi"></a>
@@ -879,6 +895,8 @@ English: **theory of evolution**
 <a id="falsifikaatio"></a>
 
 ### falsifikaatio
+
+English: **falsification**
 
 - vääräksi osoittaminen
 - väärentäminen
@@ -948,6 +966,8 @@ English: **fideism**
 <a id="frekvenssi"></a>
 
 ### frekvenssi
+
+English: **frequency**
 
 - tapahtumien lukumäärän suhde kokonaismäärään
 - esiintymistiheys
@@ -1123,6 +1143,8 @@ English: **ideology**
 
 ### illuusio
 
+English: **illusion**
+
 - aistiharha
 - haavekuva
 - kuvitelma
@@ -1187,11 +1209,15 @@ English: **ideology**
 
 ### induktiivinen
 
+English: **inductive**
+
 - [induktioon](#induktio) perustuva
 
 <a id="induktio"></a>
 
 ### induktio
+
+English: **induction**
 
 - yleisen väitteen tai säännön johtaminen yksityistapauksista
 
@@ -1255,6 +1281,8 @@ English: **intension**
 
 ### intuitio
 
+English: **intuition**
+
 - välitön tajuaminen
 - sisäinen näkemys
 - miettimättä päätelty
@@ -1283,6 +1311,8 @@ English: **intension**
 <a id="jumala"></a>
 
 ### jumala
+
+English: **God**
 
 - olemassaolon aikaansaaja
 - luoja
@@ -1452,11 +1482,15 @@ English: **consensus**
 
 ### konteksti
 
+English: **context**
+
 - asiayhteys, lauseyhteys, tekstiyhteys
 
 <a id="kontingenssi"></a>
 
 ### kontingenssi
+
+English: **contingency**
 
 - kontingenttisuus
 - satunnaisuus, epävarmuus
@@ -1465,6 +1499,8 @@ English: **consensus**
 <a id="kontingentti"></a>
 
 ### kontingentti
+
+English: **contingent**
 
 - nykyisen tietämyksemme valossa ennustamattomissa oleva
 - satunnainen, epävarma
@@ -1795,6 +1831,8 @@ English: **molecule**
 
 ### moraali
 
+English: **morality**
+
 - se mikä on oikein tai väärin
 - käsitys oikeasta ja väärästä
 
@@ -1886,6 +1924,8 @@ English: **negative atheism**
 
 ### objektiivinen
 
+English: **objective**
+
 - henkilökohtaisesta näkemyksestä tai asenteesta riippumatonta
 - tasapuolinen
 - yleispätevä
@@ -1902,6 +1942,8 @@ English: **old-earth creationism**
 <a id="okkultismi"></a>
 
 ### okkultismi
+
+English: **occultism**
 
 - salaoppi
 - salatiede
@@ -2001,6 +2043,8 @@ English: **ontology**
 
 ### panteismi
 
+English: **pantheism**
+
 - käsitys, jonka mukaan maailma on [jumalan](#jumala) keho
 
 <a id="paradigma"></a>
@@ -2081,6 +2125,8 @@ English: **common descent**
 <a id="polyteismi"></a>
 
 ### polyteismi
+
+English: **polytheism**
 
 - katsomus, jonka mukaan maailma(nkaikkeude)ssa on olemassa ja vaikuttamassa ihmistä mahtavampia persoonallisia olentoja – "jumalia" – joiden kanssa ihmisen (ehkä) on oman etunsa nimissä pyrittävä pysymään jonkinlaisissa väleissä (esim. "henkiä on lepytettävä")
 
@@ -2195,6 +2241,8 @@ English: **premise**
 
 ### propaganda
 
+English: **propaganda**
+
 - tietoa, jota levitetään tarkoituksena muokata kohteen mielipidettä
 - idean järjestelmällinen levitys
 - valheellinen tai vain osittain tosi tieto
@@ -2209,6 +2257,8 @@ English: **premise**
 <a id="prosessi"></a>
 
 ### prosessi
+
+English: **process**
 
 - tapahtumasarja
 - kehityskulku
@@ -2326,6 +2376,8 @@ English: **relativism**
 <a id="retoriikka"></a>
 
 ### retoriikka
+
+English: **rhetoric**
 
 - puheella vaikuttaminen tai puheella vaikuttamisen taito
 - kaunopuheisuus tai puhetaito
@@ -2734,6 +2786,8 @@ English: **science**
 
 ### tieteellinen
 
+English: **scientific**
+
 - [tieteen](#tiede) kanssa tekemisissä oleva tai siihen sisältyvä
 - tieteellisellä metodilla hankittuun tietoon perustuva
 - termin käyttäjän näkökulmasta erittäin luotettava
@@ -2867,6 +2921,8 @@ English: **free will**
 <a id="variaatio"></a>
 
 ### variaatio
+
+English: **variation**
 
 - vaihtelu, muuntelu
 - *[variantti](#variantti)*, muunnelma
