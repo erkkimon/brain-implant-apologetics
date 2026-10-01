@@ -104,10 +104,21 @@ def glossary_rules() -> list[tuple[re.Pattern, str, str]]:
     return rules
 
 
+def visible(text: str) -> str:
+    """The words a reader sees: link targets, comments and footnote markers
+    removed. A term inside `(suunnitteluteoria.md)` is a file name, not a
+    word to translate; matching it failed 3 of 5 chunks of the first
+    batch's teleologinen-argumentti (2026-10-01)."""
+    text = re.sub(r"<!--.*?-->", " ", text, flags=re.S)
+    text = re.sub(r"\]\([^)\s]*\)", "]", text)
+    return re.sub(r"\[\^[^\]]+\]", " ", text)
+
+
 def terms_in(text: str, rules) -> list[tuple[str, str]]:
     # Longest term first: "metodologinen naturalismi" also contains
     # "naturalismi", and both are then required, which is correct.
-    return [(fi, en) for pat, fi, en in rules if pat.search(text)]
+    seen = visible(text)
+    return [(fi, en) for pat, fi, en in rules if pat.search(seen)]
 
 
 # ---------------------------------------------------------------------------
@@ -134,7 +145,7 @@ def check(fi: str, en: str, required: list[tuple[str, str]]) -> list[str]:
     if sorted(NOTE.findall(fi)) != sorted(NOTE.findall(en)):
         problems.append("footnote markers changed; keep exactly: "
                         + " ".join(NOTE.findall(fi)))
-    low = en.lower()
+    low = visible(en).lower()
     for fi_t, en_t in required:
         # "extreme naturalism" is satisfied by "extreme naturalist" too.
         core = _stem(en_t.strip("*").lower()) if len(en_t) > 6 else en_t.lower()
@@ -294,6 +305,7 @@ def selftest() -> int:
     assert [k for k, _ in chunks(b)] == ["prose", "keep"]
     rules = [(re.compile(r"\bnaturalism\w*", re.I), "naturalismi", "naturalism")]
     assert terms_in("naturalismia vastaan", rules) == [("naturalismi", "naturalism")]
+    assert terms_in("[idea](naturalismi.md)", rules) == []
     print("apowiki_translate: selftest ok")
     return 0
 
