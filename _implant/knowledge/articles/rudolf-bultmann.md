@@ -4,7 +4,7 @@ about: apologetics
 title: "Rudolf Bultmann"
 description: "Rudolf Karl Bultmann (20. elokuuta 1884 Wiefelstede, Saksa – 30."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T04:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Rudolf Bultmann".
@@ -40,7 +40,9 @@ Bultmann uskoi, että tiede pystyy selvittämään Raamatun tekstien ”todellis
 
 Gerhard Bergmann luonnehtii Bultmannin näkemystä:
 
-> keerygmassa]] (= julistuksessa) samassa mielessä kuin Goethe herää henkiin ylioppilaiden ajatuksissa heidän kuunnellessaan yliopiston luentosalissa häntä käsittelevää luentoa. Goethe ei elä sinänsä. Goethe on kuollut. Siten myöskään Jeesus ei elä sinänsä. Jeesus on kuollut. Bultmann sanoo: *"Kristus, ristiinnaulittu ja ylösnoussut, kohtaa meidät julistuksen sanassa, ei missään muualla.*" - -  *"Keerygman Kristus ei ole historiallinen hahmo, jolla voisi olla suoranainen yhteys historialliseen Jeesukseen.*" - - Kirjeessään Julius Schniewindille - - Bultmann kirjoittaa valaisevan tunnustuksen: *"Minun on tunnustettava, ja kenties se osoittaa selvimmin välillämme vallitsevan eron, että minä pidän mytologisena myös puhetta persoonallisesta suhteesta Kristukseen.*"
+> Koska modernille teologialle - johtuen siitä, että se on liittoutunut autonomisen filosofian kanssa ja omaksunut naturalistisen tiedekäsityksen - ei voi olla olemassa Jeesuksen ruumiillista ylösnousemusta, on Kristus ylösnoussut [keerygmassa](https://fi.wikipedia.org/wiki/Keerygma) (= julistuksessa) samassa mielessä kuin Goethe herää henkiin ylioppilaiden ajatuksissa heidän kuunnellessaan yliopiston luentosalissa häntä käsittelevää luentoa. Goethe ei elä sinänsä. Goethe on kuollut. Siten myöskään Jeesus ei elä sinänsä. Jeesus on kuollut. Bultmann sanoo: *"Kristus, ristiinnaulittu ja ylösnoussut, kohtaa meidät julistuksen sanassa, ei missään muualla.*" - -  *"Keerygman Kristus ei ole historiallinen hahmo, jolla voisi olla suoranainen yhteys historialliseen Jeesukseen.*" - - Kirjeessään Julius Schniewindille - - Bultmann kirjoittaa valaisevan tunnustuksen: *"Minun on tunnustettava, ja kenties se osoittaa selvimmin välillämme vallitsevan eron, että minä pidän mytologisena myös puhetta persoonallisesta suhteesta Kristukseen.*"
+>
+> — Bergmann[^4]
 
 Herman Ridderbos[^5] kuvaa Bultmannin käsityksen ongelmaa seuraavasti:
 

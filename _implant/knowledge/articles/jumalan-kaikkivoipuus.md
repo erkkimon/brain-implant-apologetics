@@ -4,7 +4,7 @@ about: apologetics
 title: "Jumalan kaikkivoipuus"
 description: "__NOTOC__ Kristillisessä teismissä uskotaan yleisesti kaikkivaltiuden olevan yksi Jumalan ominaisuuksista."
 tags: [apowiki, jumala]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T04:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jumalan kaikkivoipuus".
@@ -54,9 +54,7 @@ Usein väitetään, ettei Jumala voisi muuttua tai valehdella. Jos Jumala on kai
 > # Jumala on kaikkivoipa.
 > # Kaikkivoipa Jumala voi tehdä mitä vain.
 > # Jumala ei voi valehdella.
-> # Kohtien 2 ja 3 välillä on AW:S#a priori
->
-> — apriorinen ristiriita.
+> # Kohtien 2 ja 3 välillä on [apriorinen](../glossary/sanasto.md#a-priori) ristiriita.
 
 Näin ollen voimme todeta, että kaikkivaltias Jumala 1) voi muuttua ja 2) Jumala voi valehdella. Hän ei kuitenkaan välttämättä tee niin. Jos oletamme Jumalan olevan kaikkivaltias [agentti](https://fi.wikipedia.org/wiki/agentti), hän voisi luoda jokaisen ihmisen pään päälle puolen metrin korkeudessa leijuvan henkilökohtaisen [jalkapallon](https://fi.wikipedia.org/wiki/Jalkapallo). Hänellä ei kuitenkaan ole mitään pakkoa tehdä niin. Vaikka Martti voisi teoriassa tappaa Maurin milloin tahansa, hän ei välttämättä tee sitä. Kaikkea, mitä voidaan tehdä, ei ole pakko tehdä. Sitä kutsutaan vapaaksi tahdoksi.
 

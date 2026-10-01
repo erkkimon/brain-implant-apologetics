@@ -4,7 +4,7 @@ about: apologetics
 title: "Rekapitulaatioteoria"
 description: "Kuva: Ernst Haeckelin väärentämät kuvat selkärankaisten alkioista."
 tags: [apowiki, evoluutiokritiikki, lukusuositukset, haeckel, ernst, sikiöväärennökset, sikiöpiirros, sikiöpiirrokset, sikiöpiirroskiista, sikiökuva, sikiökuvat, alkio, kidukset, häntä, lapsivesi]
-timestamp: 2026-10-02T00:00:00Z
+timestamp: 2026-10-02T04:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Rekapitulaatioteoria".
@@ -52,9 +52,7 @@ Suurempaan julkisuuteen piirrosten jo laajalti tiedetty harhaanjohtavuus tuli vu
 
 Darvinistisen argumentin perusidea oli von Baerin näkemyksen mukaisesti se, että alkuvaiheissa sikiöt muistuttavat suuresti toisiaan. Futuyma kirjoitti vuonna 1983 ilmestyneessä antikreationistisessa kirjassaan:
 
-> Miksi lajien, jotka lopulta kehittävät adaptaatioita täysin erilaisia elämäntapoja varten, tulisi olla lähes erottamattoman samankaltaisia varhaisvaiheissa? Miten Jumalan suunnitelma ihmisiä ja haita varten edellyttää niiden sikiöiden olevan lähes AW:AS#identtinen
->
-> — identtisiä?[^10]
+> Miksi lajien, jotka lopulta kehittävät adaptaatioita täysin erilaisia elämäntapoja varten, tulisi olla lähes erottamattoman samankaltaisia varhaisvaiheissa? Miten Jumalan suunnitelma ihmisiä ja haita varten edellyttää niiden sikiöiden olevan lähes identtisiä?[^10]
 
 Todellisuudessa kehityksen alkuvaiheessa sikiöt ovat varsin erilaisia. Vuodesta 1980 lähtien sikiönkehityksen varhaisvaiheiden ja Darwinin näkemyksen välinen ristiriita on kasvavissa määrin tunnustettu.[^5][^11] [Hedelmöitymisen](https://fi.wikipedia.org/wiki/hedelmöitys) jälkeen [tsygootti](https://fi.wikipedia.org/wiki/tsygootti) käy läpi useita halkijakoja (cleavages) joiden tuloksena syntyy rypäleasteeksi kutsuttu solupallo. Tämän jälkeen prosessi jatkuu [gastrulaatioksi](https://fi.wikipedia.org/wiki/gastrulaatio) kutsutulla vaiheella, jonka jälkeen alkaa elinten muotoutuminen.[^12] Tämä on siis varsinainen sikiökehityksen alkuvaihe, jossa erot eri lajien välillä ovat merkittäviä. Von Baerin laki kertoo näin ollen eräänlaisen puolitotuuden. Ns. pharyngula-vaihe, jossa yhtäläisyys on suurin, tulee vasta gastrulaation jälkeen. Lisäksi tämänkin vaiheen käyttäminen monien "post-darwinistien" tavoin osoittamaan sikiöiden homologisuutta on ongelmallinen. Mm. valokuvausprojektin isän, Michael Richardsonin mielenkiinto Haeckelin väärennöksiin heräsi, "koska ne eivät vastanneet hänen käsitystään niistä nopeuksista, joilla kalat, matelijat, linnut ja nisäkkäät kehittävät erityiset piirteensä."[^1] Tähän fylotyyppiseen vaiheeseen liittyviin näennäisiin yhtäläisyyksiin liittyy ns. heterokronian ongelma, joka koskee tähän vaiheeseen saapumisen ajallisia eroja eri lajeilla.[^13] Richardson ja muut toteavat yhden artikkelinsa lopuksi:
 

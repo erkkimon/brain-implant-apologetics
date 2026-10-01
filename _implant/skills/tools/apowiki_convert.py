@@ -69,6 +69,9 @@ except FileNotFoundError:  # glossary not generated yet
 # mapped to None has no fitting target and becomes plain text, because a link
 # to the top of a 400-term glossary tells the reader nothing.
 GLOSSARY_FALLBACKS: dict[str, str | None] = {
+    # Two more surfaced on 2026-10-02, once quotes stopped swallowing links:
+    "eksistentaalinen": "glossary:eksistenssi",  # misspelt adjective
+    "likvidoida": None,  # Stalin's purges; no glossary or wiki sense fits
     "usko": "wp:Usko",
     "looginen": "wp:Logiikka",
     "idealismi": "wp:Idealismi",
@@ -185,6 +188,26 @@ def resolve_filenames(titles: list[str]) -> dict[str, str]:
 # ---------------------------------------------------------------------------
 # Citation templates -> footnote text
 # ---------------------------------------------------------------------------
+
+def _split_top(body: str) -> list[str]:
+    """Split a template body on the pipes that are not inside [[...]] or
+    {{...}}: the pipe in [[target|label]] is the link's, not the template's."""
+    parts, depth, cur = [], 0, []
+    for ch in body:
+        if ch in "{[":
+            depth += 1
+        elif ch in "}]":
+            # max(): a stray "]" in the source must not hide every later
+            # pipe (messias-ennustukset has "{{rp|Sak. 9:9}}]").
+            depth = max(0, depth - 1)
+        if ch == "|" and depth == 0:
+            parts.append("".join(cur))
+            cur = []
+        else:
+            cur.append(ch)
+    parts.append("".join(cur))
+    return parts
+
 
 def _fields(body: str) -> dict[str, str]:
     """Parse `| Key = Value` pairs, respecting nested braces and brackets."""
@@ -488,11 +511,20 @@ class Converter:
         if name in ("sitaatti", "lainaus", "quotation", "sitaatti3",
                     "sitaatti2", "cquote", "blockquote"):
             self.stats["tmpl_quote"] += 1
-            segments = [p.strip() for p in re.split(r"\|", raw)[1:] if p.strip()]
+            # Split on the template's own pipes only. A plain split also cut
+            # [[target|label]] in two, so the label became the "attribution"
+            # and the link swallowed the quote (aukkojen-jumala-v2,
+            # usko-ja-tieto, teleologinen-argumentti; fixed 2026-10-02).
+            segments = [p.strip() for p in _split_top(raw)[1:] if p.strip()]
             # Drop named parameters (lähde=, source=); keep positional text.
             body_parts, attribution = [], ""
             for seg in segments:
                 head = seg.split("=", 1)[0]
+                if re.fullmatch(r"\s*\d\s*", head) and "=" in seg:
+                    # "1=text" is positional text named explicitly
+                    # (rudolf-bultmann's quote), not a parameter to drop.
+                    body_parts.append(seg.split("=", 1)[1].strip())
+                    continue
                 if "=" in seg and " " not in head.strip() and len(head) < 20:
                     continue
                 body_parts.append(seg)

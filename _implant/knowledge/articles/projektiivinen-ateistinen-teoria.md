@@ -4,7 +4,7 @@ about: apologetics
 title: "Projektiivinen ateistinen teoria"
 description: "Projektiivinen ateistinen teoria on yksi tunnetuimmista esitetyistä kumoajista teismille."
 tags: [apowiki, jumala, ateismi]
-timestamp: 2026-10-01T21:30:00Z
+timestamp: 2026-10-02T04:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Projektiivinen ateistinen teoria".
@@ -32,9 +32,7 @@ Freudin ja Marxin teoriat olettavat, ettei ole perusteita uskoa Jumalaan. Ne eiv
 
 Lisäksi projektiivinen ateistinen teoria on kaksiteräinen miekka sikäli, että sen pohjalta voidaan myös selittää ateistisen vakaumuksen johtuvan salaisista kaipuuntunteista ja pelosta. Ateismi voidaan ymmärtää uskonnolliseksi käsitykseksi, johon ihmisellä on tarve uskoa. Esimerkiksi *Tohtori Živago*n kirjoittaja **Boris Pasternak** (1890–1960) suhtautuu ateismiin näin sanoessaan: "Olen ateisti, joka on menettänyt uskonsa." Usko siihen, ettei Jumalaa ole, voi perustua toivoon ja haluun, että asia todella olisi näin. Ateistisen uskon voidaan tulkita saavan motivaationsa kaipauksesta täydelliseen itsemääräämiseen. **Alister McGrath** pohtii tällaista mahdollisuutta:
 
-> Ei ole vaikea keksiä henkilöitä, joilla näyttäisi olevan erinomainen syy toivoa ja uskoa, että Jumalaa ei ole. Ajatellaanpa vaikka jotakin AW:S#likvidoida
->
-> — likvidointiryhmän johtajaa Stalinin puhdistusten aikana 1930-luvulla tai natsien keskitysleirin päällikköä toisen maailmansodan aikana. Tällainen henkilö saattaisi kokea ajatuksen Jumalasta erittäin uhkaavana. Entä jos Jumala pitäisikin hänen toimintaansa, suurten ihmisjoukkojen teurastusta, äärimmäisen vastenmielisenä ja päättäisi rangaista häntä siitä? Eikö tällaisella henkilöllä olisi erittäin hyvä syy toivoa, että Jumalaa ei ole? Vältettyään rangaistuksen tähän asti ihminen luultavimmin toivoo, että näin tapahtuisi ikuisiksi ajoiksi.[^2]
+> Ei ole vaikea keksiä henkilöitä, joilla näyttäisi olevan erinomainen syy toivoa ja uskoa, että Jumalaa ei ole. Ajatellaanpa vaikka jotakin likvidointiryhmän johtajaa Stalinin puhdistusten aikana 1930-luvulla tai natsien keskitysleirin päällikköä toisen maailmansodan aikana. Tällainen henkilö saattaisi kokea ajatuksen Jumalasta erittäin uhkaavana. Entä jos Jumala pitäisikin hänen toimintaansa, suurten ihmisjoukkojen teurastusta, äärimmäisen vastenmielisenä ja päättäisi rangaista häntä siitä? Eikö tällaisella henkilöllä olisi erittäin hyvä syy toivoa, että Jumalaa ei ole? Vältettyään rangaistuksen tähän asti ihminen luultavimmin toivoo, että näin tapahtuisi ikuisiksi ajoiksi.[^2]
 
 **[Alvin Plantinga](alvin-plantinga.md)** on perusteellisesti käsitellyt Freudin ja Marxin argumentteja kirjassaan [*Warranted Christian Belief*](warranted-christian-belief-kirja.md), joka on kokonaisuudessaan luettavissa netissä.
 

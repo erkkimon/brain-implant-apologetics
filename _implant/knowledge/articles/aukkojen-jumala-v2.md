@@ -4,7 +4,7 @@ about: apologetics
 title: "Aukkojen jumala"
 description: "Aukkojen jumala on argumentti jonkin yliluonnollisen syyn olemassaolon puolesta tilanteessa, jossa havainnoitavissa on vain seurauksia."
 tags: [apowiki, lukusuositukset, argumentointi, jumala, tieteenfilosofia]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T04:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Aukkojen jumala".
@@ -61,11 +61,7 @@ Mikä tahansa havaitsemamme pitkä tapahtumasarja on erittäin epätodennäköin
 
 #### Tietämättömyyteen vetoamisen erikoistapaus
 
-> On tietämättömyyteen vetoaminen
->
-> — tietämättömyyteen vetoamista <!-- red link: tietämättömyyteen vetoaminen
->
-> — tietämättömyyteen vetoamista --> väittää, että jos asialle tai ilmiölle ei tunneta luonnollista selitystä, selityksen täytyy olla yliluonnollinen.
+> On [tietämättömyyteen vetoamista](argumentum-ad-ignorantiam.md) väittää, että jos asialle tai ilmiölle ei tunneta luonnollista selitystä, selityksen täytyy olla yliluonnollinen.
 
 Väitettä voidaan soveltaa mihin vain, esimerkiksi: "On tietämättömyyteen vetoamista väittää, että koska [salamointia](https://fi.wikipedia.org/wiki/salama) ei osata selittää mitenkään muuten, sen täytyy johtua sähkömagnetismista". [Sähkömagnetismiin](https://fi.wikipedia.org/wiki/sähkömagnetismi) sovellettuna väite ei olekaan enää yhtä vakuuttava. Mikä tahansa selitysmalli voidaan sulkea pois täysin perusteettomasti, jos väitetään sen olevan tietämättömyyteen vetoamista. [Tieteelliset](../glossary/sanasto.md#tieteellinen) selitykset pyrkivät yleisesti hyväksytyn määritelmän mukaan aina olemaan saatavilla olevan tiedon perusteella parhaita selityksiä. Itse asiassa jokainen sellainen tieteellinen teoria on tietyssä mielessä tietämättömyyteen vetoamista, jossa teoria [postuloi](../glossary/sanasto.md#postuloida) havaintojen selitykseksi jonkun havaitsemattoman entiteetin, mutta joka ei loogisesti välttämättömällä tavalla seuraa havainnoista. Suurin osa tieteellisistä teorioista on tällaisia. Ei ole [loogisesti](https://fi.wikipedia.org/wiki/Logiikka) kestävää perustella jonkin asian sulkemista tieteen ulkopuolelle sellaisella kriteerillä, jota ei voida järkevästi soveltaa muihin tieteellisiin [teorioihin](https://fi.wikipedia.org/wiki/teoria). Vaikka Jumala olisikin loogisesti mahdollinen selitys kaikille mahdollisille ilmiöille, joista useat ovat kuitenkin selitettävissä paremmin toisenlaisilla tekijöillä, on kuitenkin mahdollista, että osaa ilmiöistä ei voida koskaan selittää muilla tekijöillä.
 
@@ -84,9 +80,7 @@ Päästään siis siihen tulokseen, että koska "aukkojen [jumala][^5] -argument
 
 #### Aukkojen Jumala -argumentti ei ole falsifioitavissa
 
-> Koska Jumalalle ei voida esittää AW:S#falsifikaatiokriteeri
->
-> — falsifikaatiokriteeriä, se ei ole tieteellinen hypoteesi.
+> Koska Jumalalle ei voida esittää [falsifikaatiokriteeriä](../glossary/sanasto.md#falsifikaatiokriteeri), se ei ole tieteellinen hypoteesi.
 
 Väitteen voi ymmärtää kahdella tavalla:
 1. Jumala ei ole kyseisen "aukon" kohdalla falsifioitavissa.
@@ -109,11 +103,7 @@ Falsifikaatioperiaate ei siis käytännössä toimi edes itsestään selvissä t
 
 #### Tiede tulee täyttämään aukot
 
-> Tieteellisen [wp:tieto
->
-> — tiedon](https://fi.wikipedia.org/wiki/tieto
->
->_—_tiedon) lisääntyessä aukot vähenevät ja lopulta loppuvat, eikä Jumalaa voida sijoittaa enää yhteenkään aukkoon.
+> Tieteellisen [tiedon](https://fi.wikipedia.org/wiki/tieto) lisääntyessä aukot vähenevät ja lopulta loppuvat, eikä Jumalaa voida sijoittaa enää yhteenkään aukkoon.
 
 Ei ole lainkaan selvää, että kaikki aukot tullaan selittämään [luonnollisilla](../glossary/sanasto.md#luonnollinen) selityksillä. Se, että aukot sulkeutuvat yksi toisensa jälkeen, antaa vain näennäisen perustelun oletukselle, että kaikki aukot tulevat vielä sulkeutumaan. Aukkojen järjestelmällinen sulkeutuminen ennustaa kaikkien aukkojen sulkeutumista vain, jos kaikki aukot on suljettavissa (= kaikelle on olemassa luonnollinen selitys). Tilanteessa, jossa kaikki aukot eivät ole suljettavissa (= on yliluonnollisia ilmiöitä), aukkojen järjestelmällinen sulkeutuminen kertoo vain siitä, että suljetut aukot ovat suljettavissa (= luonnollisesti selitetyt ilmiöt ovat selitettävissä luonnollisesti). On tietysti älyllistä epärehellisyyttä yrittää ennustaa kaikkien aukkojen sulkeutumista päättelyketjulla, jonka premissinä on, että kaikki aukot ovat suljettavissa.
 

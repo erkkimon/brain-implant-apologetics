@@ -4,7 +4,7 @@ about: apologetics
 title: "Epätäydellinen suunnittelu: Siemenjohdin ja munasarjat"
 description: "Eläinekologian professori Hanna Kokko pitää kirjassaan Kutistuva turska ohjaamattoman evoluutioteorian todisteena sitä, että on olemassa epätarkkoja ja kehnoja sopeumia."
 tags: [apowiki, suunnitteluteoria]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T04:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Epätäydellinen suunnittelu: Siemenjohdin ja munasarjat".
@@ -32,11 +32,7 @@ Katja Bargumin ja Hanna Kokon mukaan esimerkiksi tasalämpöisten eläinten naur
 
 Lääkäri [Pekka Reinikainen](pekka-reinikainen.md) kyseenalaistaa väitteen, että siemenjohtimet olisivat liian pitkät.
 
-> Siemenjohtimet ja niiden päässä olevat kivekset vaeltavat sikiöaikaisesta paikastaan vatsaontelon takaseinän tuntumasta kivespusseihin ja näin menevät virtsanjohtimen yli. Ne eivät voisi kehittyä vatsaontelon etuseinässä sikiöaikana, sillä tämä edellyttäisi epäedullisia verenkierrollisia ratkaisuja. Jos kivekset kiertäisivät virtsatiet ulkokautta, seurauksena voisi olla kaksi yhden kiveksen pussia molempien reisien etupuolella, missä ne olisivat alttiina vammautumiselle ja kuumenemiselle. Kuumeneminen taas haittaisi siittiötuotantoa ja voisi johtaa syöpään. Lenkki virtsanjohtimen yli on välttämätön, koska siemenjohtimien on kuljettava [wp:eturauhanen
-> eturauhasen](https://fi.wikipedia.org/wiki/eturauhanen
->_eturauhasen) kautta, sillä siellä tapahtuu myöhemmän hedelmöityksen kannalta välttämätön emäksisen prostatanesteen lisääminen happamaan [wp:siemenneste
-> siemennesteeseen](https://fi.wikipedia.org/wiki/siemenneste
->_siemennesteeseen). Tämä neutraloi myös emättimen happamat nesteet. Näin siittiöiden liikkuvuus alkaa oikealla hetkellä siten, että niillä on riittävästi energiaa perille asti.
+> Siemenjohtimet ja niiden päässä olevat kivekset vaeltavat sikiöaikaisesta paikastaan vatsaontelon takaseinän tuntumasta kivespusseihin ja näin menevät virtsanjohtimen yli. Ne eivät voisi kehittyä vatsaontelon etuseinässä sikiöaikana, sillä tämä edellyttäisi epäedullisia verenkierrollisia ratkaisuja. Jos kivekset kiertäisivät virtsatiet ulkokautta, seurauksena voisi olla kaksi yhden kiveksen pussia molempien reisien etupuolella, missä ne olisivat alttiina vammautumiselle ja kuumenemiselle. Kuumeneminen taas haittaisi siittiötuotantoa ja voisi johtaa syöpään. Lenkki virtsanjohtimen yli on välttämätön, koska siemenjohtimien on kuljettava [eturauhasen](https://fi.wikipedia.org/wiki/eturauhanen) kautta, sillä siellä tapahtuu myöhemmän hedelmöityksen kannalta välttämätön emäksisen prostatanesteen lisääminen happamaan [siemennesteeseen](https://fi.wikipedia.org/wiki/siemenneste). Tämä neutraloi myös emättimen happamat nesteet. Näin siittiöiden liikkuvuus alkaa oikealla hetkellä siten, että niillä on riittävästi energiaa perille asti.
 > Pekka Reinikainen (2010)
 >
 > — Tiedekeskustelun avoimuuskoe[^3]

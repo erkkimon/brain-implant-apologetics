@@ -4,7 +4,7 @@ about: apologetics
 title: "Teologinen konstruktivismi"
 description: "Teologiseksi konstruktivismiksi nimitetään näkemystä, jonka mukaan \"Jumala\" on pelkkä ihmismielen luomus."
 tags: [apowiki, eksegetiikka]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T04:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Teologinen konstruktivismi".
@@ -30,8 +30,7 @@ Teologista konstruktivismia edustaa mm. Gordon Kaufman, jonka mielestä inhimill
 
 Kun puhumme Jumalasta, käytämme Kaufmanin mukaan oman mielikuvituksemme luomaa ajatuskonstruktiota. Jumalaa koskevilla inhimillisillä ajatusrakennelmilla ja käsityksillä ei ole mitään vastaavuutta todellisuudessa, tai emme ainakaan voi tietää niillä olevan sellaista. Ei ole mahdollista tietää, onko Jumala olemassa vai ei. Vaikka Jumala olisi olemassa, ei ole mitään tapaa puhua hänestä, kuvata hänen olemustaan tai saada tietoa hänen ominaisuuksistaan.
 
-> Merkitseekö tämä sitä, että loppujen lopuksi päätelmänä on, että Jumalaa ei ole olemassa, että hän on vain mielikuvituksemme tuotetta? Jos noiden sanojen tarkoituksena on ilmaista AW:S#spekulaatio
-> spekulatiivinen kysymys asioiden perimmäisestä luonteesta, silloin, kuten olemme nähneet, ei ole mitään mahdollista tapaa antaa vastausta.
+> Merkitseekö tämä sitä, että loppujen lopuksi päätelmänä on, että Jumalaa ei ole olemassa, että hän on vain mielikuvituksemme tuotetta? Jos noiden sanojen tarkoituksena on ilmaista [spekulatiivinen](../glossary/sanasto.md#spekulaatio) kysymys asioiden perimmäisestä luonteesta, silloin, kuten olemme nähneet, ei ole mitään mahdollista tapaa antaa vastausta.
 >
 > — Kaufman[^2]
 

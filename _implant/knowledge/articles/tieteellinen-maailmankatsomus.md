@@ -4,7 +4,7 @@ about: apologetics
 title: "Tieteellinen maailmankatsomus"
 description: "Tieteellistä maailmankatsomusta pidetään usein uskonnollisen ajattelun vastakohtana."
 tags: [apowiki, maailmankatsomus]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T04:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tieteellinen maailmankatsomus".
@@ -74,10 +74,7 @@ Puhuessaan yhdestä ja yhtenäisestä tieteellisestä menetelmästä, joka tarjo
 
 Voidaan perustellusti väittää, että tiede joutuu tekemään koko joukon maailmankatsomuksellisia oletuksia. John Kekes on kiteyttänyt joitakin näistä oletuksista seuraavalla tavalla:
 
-> Luonnontiede on sitoutunut useisiin ennakko-olettamuksiin: Luonnontieteen AW:S#eksistentaalinen
-> eksistentiaalisia ennakko-olettamuksia ovat, että luonto on olemassa, että sillä on järjestys, josta voidaan päästä selville ja että se on yhtenäinen. Luokitteluun perustuvia ennakko-olettamuksia ovat erottelut ajan ja avaruuden, syyn ja seurauksen, havainnoitsijan ja havaitun, todellisen ja näennäisen, järjestyneen ja kaoottisen välillä. Luonnontieteen metodologisia ennakko-olettamuksia ovat AW:S#intersubjektiivisuus
-> intersubjektiivinen testattavuus, AW:S#kvantiteetti
-> kvantifioitavuus ja tosiasia-aineiston julkinen saatavuus. Sen arvo-olettamuksia ovat tulosten rehellinen raportointi, tosiasioiden oikean kuvauksen arvo ja tarkkuus vältettäessä havaintoon ja kokeisiin liittyviä virheitä. Jos mikä tahansa näistä ennakko-oletuksista hylättäisiin, ei luonnontiedettä enää voitaisi toteuttaa sellaisena kuin sen tunnemme. Kuitenkaan minkään näiden ennakko-oletusten hyväksyminen ei ole itsestäänselvyys, koska jokainen niistä on kyseenalaistettu ja jokaiselle on olemassa vaihtoehtoja.
+> Luonnontiede on sitoutunut useisiin ennakko-olettamuksiin: Luonnontieteen [eksistentiaalisia](../glossary/sanasto.md#eksistenssi) ennakko-olettamuksia ovat, että luonto on olemassa, että sillä on järjestys, josta voidaan päästä selville ja että se on yhtenäinen. Luokitteluun perustuvia ennakko-olettamuksia ovat erottelut ajan ja avaruuden, syyn ja seurauksen, havainnoitsijan ja havaitun, todellisen ja näennäisen, järjestyneen ja kaoottisen välillä. Luonnontieteen metodologisia ennakko-olettamuksia ovat [intersubjektiivinen](../glossary/sanasto.md#intersubjektiivisuus) testattavuus, [kvantifioitavuus](../glossary/sanasto.md#kvantiteetti) ja tosiasia-aineiston julkinen saatavuus. Sen arvo-olettamuksia ovat tulosten rehellinen raportointi, tosiasioiden oikean kuvauksen arvo ja tarkkuus vältettäessä havaintoon ja kokeisiin liittyviä virheitä. Jos mikä tahansa näistä ennakko-oletuksista hylättäisiin, ei luonnontiedettä enää voitaisi toteuttaa sellaisena kuin sen tunnemme. Kuitenkaan minkään näiden ennakko-oletusten hyväksyminen ei ole itsestäänselvyys, koska jokainen niistä on kyseenalaistettu ja jokaiselle on olemassa vaihtoehtoja.
 >
 > — Kekes[^7]
 

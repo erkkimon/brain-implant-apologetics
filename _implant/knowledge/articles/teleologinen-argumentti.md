@@ -4,7 +4,7 @@ about: apologetics
 title: "Teleologinen argumentti"
 description: "Teleologisen argumentin lähtökohtana on luonnossa ilmenevä tarkoituksenmukaisuus (telos = päämäärä) ja järjestys."
 tags: [apowiki, filosofia, argumentit, suunnitteluteoria]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T04:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Teleologinen argumentti".
@@ -80,9 +80,7 @@ Onko teleologinen argumentti pätevä ja vakuuttava? Älykkään suunnitelman tu
 Ateismin esitaistelijana tunnetuksi tullut filosofi [Antony Flew](antony-flew.md) pitää nimenomaan teleologisen argumentin moderneja muunnelmia riittävän vakuuttavina älyllisesti, jotta hän niiden perusteella katsoo perustelluksi luopua ateismista ja omaksua sen sijaan teismin. Flew huomauttaa, että Darwin ei [evoluutioteoriassaan](evoluutioteoria.md) edes väitä selittävänsä [elämän syntyä](abiogeneesi.md) vaan ainoastaan niitä mekanismeja, jotka ohjaavat eliöiden kehittymistä.
 
 > center
-> Minusta näyttää, että [Richard Dawkins](richard-dawkins.md) jättää koko ajan huomiotta sen, mitä Darwin itse sanoo teoksensa *Origin of Species* neljännessätoista luvussa. Siellä hän huomauttaa, että hänen koko argumenttinsa lähtee liikkeelle oliosta, joka on lisääntymiskykyinen. Tämä on se evoluution luomus, joka todella kokonaisvaltaisen evoluutioteorian pitäisi selittää. Darwin itse oli hyvin tietoinen siitä, ettei hän ollut tarjonnut tällaista selitystä. Minusta näyttää nyt, että yli viidenkymmenen vuoden DNA-tutkimus on tuottanut aineistoa uudelle ja valtavan vakuuttavalle argumentille suunnitteluteoria
-> älykkään suunnitelman <!-- red link: suunnitteluteoria
-> älykkään suunnitelman --> puolesta.
+> Minusta näyttää, että [Richard Dawkins](richard-dawkins.md) jättää koko ajan huomiotta sen, mitä Darwin itse sanoo teoksensa *Origin of Species* neljännessätoista luvussa. Siellä hän huomauttaa, että hänen koko argumenttinsa lähtee liikkeelle oliosta, joka on lisääntymiskykyinen. Tämä on se evoluution luomus, joka todella kokonaisvaltaisen evoluutioteorian pitäisi selittää. Darwin itse oli hyvin tietoinen siitä, ettei hän ollut tarjonnut tällaista selitystä. Minusta näyttää nyt, että yli viidenkymmenen vuoden DNA-tutkimus on tuottanut aineistoa uudelle ja valtavan vakuuttavalle argumentille [älykkään suunnitelman](suunnitteluteoria.md) puolesta.
 > Flew
 >
 > — lainannut Habermas[^11]

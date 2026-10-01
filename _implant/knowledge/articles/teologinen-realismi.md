@@ -4,7 +4,7 @@ about: apologetics
 title: "Teologinen realismi"
 description: "Teologiseksi tai teistiseksi realismiksi kutsutaan näkemystä, jonka mukaan Jumala on todella olemassa oleva olento, joka on luonut maailmankaikkeuden."
 tags: [apowiki, eksegetiikka]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T04:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Teologinen realismi".
@@ -24,9 +24,7 @@ Realistisesta teistisestä näkökulmasta on luonnollista olettaa, että inhimil
 
 Cambridgen yliopiston kirjallisuuden professori **George Steiner** (1929–) argumentoi, että inhimillinen kulttuuri edellyttää teististä perustaa. Kielellisen ilmaisun, keskustelun ja kriitiikin varaan rakentuva kulttuuri edellyttää luottamusta siihen, että sanojen avulla on mahdollista ilmaista maailmaa koskevia tosiasioita.
 
-> Historiaa ei olisi olemassa sellaisena kuin sen tunnemme, sen enempää kuin uskontoa, AW:S#metafysiikka
-> metafysiikkaa, politiikkaa tai AW:S#estetiikka
-> estetiikkaa sellaisena kuin olemme ne eläneet, ilman perustavaa luottamusta ja uskoa – – sanan ja maailman suhteeseen. Ainoastaan tämän luottamuksen valossa voi olla merkityksen historiaa tai vastaavasti historian merkitystä.
+> Historiaa ei olisi olemassa sellaisena kuin sen tunnemme, sen enempää kuin uskontoa, [metafysiikkaa](../glossary/sanasto.md#metafysiikka), politiikkaa tai [estetiikkaa](../glossary/sanasto.md#estetiikka) sellaisena kuin olemme ne eläneet, ilman perustavaa luottamusta ja uskoa – – sanan ja maailman suhteeseen. Ainoastaan tämän luottamuksen valossa voi olla merkityksen historiaa tai vastaavasti historian merkitystä.
 >
 > — Steiner[^1]
 

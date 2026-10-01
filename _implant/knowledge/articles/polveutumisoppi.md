@@ -4,7 +4,7 @@ about: apologetics
 title: "Polveutumisoppi"
 description: "Polveutumisopin mukaan kaikki eliöt ovat polveutuneet yhteisestä kantamuodostaan ohjatusti tai ohjaamattomasti."
 tags: [apowiki, evoluutioteoria]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T04:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Polveutumisoppi".
@@ -80,11 +80,7 @@ Kun molekyylibiologisia homologioita käytetään todistamaan polveutumisoppia, 
 
 Uudemman tiedon valossa pseudogeeneihin perustuvat argumentit ovat kuitenkin kyseenalaisia. Vuonna 2012 RNA Biology julkaisussa ilmestyneen katsausartikkelin mukaan pseudogeeneillä on havaittu lukuisia tehtäviä, erityisesti proteiineja koodaavien vastineittensa tuotannon säätelyssä.[^5] Kun otetaan lisäksi huomioon kuinka rajusti hemoglobiinin tuotanto riippuu solutyypistä, on selvää että tähän liittyy voimakasta säätelyä.[^6]
 
-> Molekyylikellomenetelmä ei ole ongelmaton: kellojen kalibrointi voi olla vaikeaa ja kellojen "tikitysnopeus" riippuu mm. siitä, kohdistuuko tiettyyn geenisekvenssiin ns. selektiivinen paine. Parhaat molekyylikellot ovat ns. [tilke-DNA](tilke-dna.md)-alueet, jotka eivät koodaa mitään proteiinia eivätkä siis tule ilmentyneeksi [wp:fenotyyppi
->
-> — fenotyypissä](https://fi.wikipedia.org/wiki/fenotyyppi
->
->_—_fenotyypissä). DNA-alueet, jotka koodaavat toimivaa proteiinia (eli *geenit*), muuttuvat yleensä paljon hitaammin, koska mutaatiot toimivassa geenissä ovat suurilta osin vahingollisia ja siksi luonnonvalinta hoitaa ne pois populaatiosta.
+> Molekyylikellomenetelmä ei ole ongelmaton: kellojen kalibrointi voi olla vaikeaa ja kellojen "tikitysnopeus" riippuu mm. siitä, kohdistuuko tiettyyn geenisekvenssiin ns. selektiivinen paine. Parhaat molekyylikellot ovat ns. [tilke-DNA](tilke-dna.md)-alueet, jotka eivät koodaa mitään proteiinia eivätkä siis tule ilmentyneeksi [fenotyypissä](https://fi.wikipedia.org/wiki/fenotyyppi). DNA-alueet, jotka koodaavat toimivaa proteiinia (eli *geenit*), muuttuvat yleensä paljon hitaammin, koska mutaatiot toimivassa geenissä ovat suurilta osin vahingollisia ja siksi luonnonvalinta hoitaa ne pois populaatiosta.
 
 <!--lähde?-->
 
@@ -94,11 +90,7 @@ Uudemman tiedon valossa pseudogeeneihin perustuvat argumentit ovat kuitenkin kys
 
 Sittemmin on huomattu, että useat väitetyt "yhteiset virheet" johtuvat yleisesti usein tapahtuvista korreloiduista mutaatioista (nk. *hotspot*) tai väitetyillä virheillä on hyödyllinen toiminto.[^7][^8]
 
-> Molekyylibiologian myötä huomattiin, että myös molekyylit kehittyvät samalla tavalla kuten somaattiset rakenteet. Mitä lähempänä kaksi lajia on toisiaan, sitä samankaltaisempia myös niiden molekyylit ovat. Monissa tapauksissa morfologisen aineiston epäselvyys on herättänyt epäilyksiä, mutta molekyylejä vertailemalla on saatu paljastettua lajien todellinen suhde. Molekyylibiologia on nykyisin yksi tärkein tietolähde tutkittaessa [wp:fylogenia
->
-> — fylogeneettisiä](https://fi.wikipedia.org/wiki/fylogenia
->
->_—_fylogeneettisiä) suhteita.
+> Molekyylibiologian myötä huomattiin, että myös molekyylit kehittyvät samalla tavalla kuten somaattiset rakenteet. Mitä lähempänä kaksi lajia on toisiaan, sitä samankaltaisempia myös niiden molekyylit ovat. Monissa tapauksissa morfologisen aineiston epäselvyys on herättänyt epäilyksiä, mutta molekyylejä vertailemalla on saatu paljastettua lajien todellinen suhde. Molekyylibiologia on nykyisin yksi tärkein tietolähde tutkittaessa [fylogeneettisiä](https://fi.wikipedia.org/wiki/fylogenia) suhteita.
 
 Tosiasiassa molekyylien avulla tehdyt sukupuut eroavat merkittävästi morfologian avulla tehdyistä.[^9][^10][^11][^12][^13]
 
