@@ -17,6 +17,12 @@ Disambiguation pages are never proposed.
 
     python3 _implant/skills/tools/apowiki_redlinks.py            # update
     python3 _implant/skills/tools/apowiki_redlinks.py --report r.json
+    python3 _implant/skills/tools/apowiki_redlinks.py --lang en
+
+--lang en looks up, in the English Wikipedia, the targets the Finnish map
+holds as null, and writes red-link-wikipedia-en.json. The converter tries
+Finnish first, then English. Review the English map the same way: bare
+years and surnames resolve to the wrong page.
 
 It reads the red links from the converter's report (run the converter first),
 asks the Wikipedia API in batches of 50 with a pause between them, and leaves
@@ -83,10 +89,20 @@ def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--report", default="_temp/convert-report.json")
+    ap.add_argument("--lang", choices=["fi", "en"], default="fi")
     args = ap.parse_args()
+    global API, MAP
+    if args.lang == "en":
+        fi_map = (json.loads(MAP.read_text(encoding="utf-8"))
+                  if MAP.exists() else {})
+        API = "https://en.wikipedia.org/w/api.php"
+        MAP = HERE / "red-link-wikipedia-en.json"
 
     report = json.loads(Path(args.report).read_text(encoding="utf-8"))
     wanted = [t for t, _ in report["red_links_all"]]
+    if args.lang == "en":
+        # Only what Finnish Wikipedia could not answer.
+        wanted = [t for t in wanted if t in fi_map and fi_map[t] is None]
     current: dict[str, str | None] = (
         json.loads(MAP.read_text(encoding="utf-8")) if MAP.exists() else {})
 

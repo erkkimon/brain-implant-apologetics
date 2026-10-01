@@ -4,7 +4,7 @@ about: apologetics
 title: "Andreas J. Köstenberger"
 description: "Andreas J. Köstenberger on Uuden testamentin eksegetiikan professori korkeakoulussa nimeltään Southeastern Baptist Theological Seminary."
 tags: [apowiki, henkilöt, eksegetiikka, tyngät]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-02T03:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Andreas J. Köstenberger".
@@ -24,7 +24,7 @@ Köstenbergerillä on tohtorinarvo *Trinity Evangelical Divinity School* -korkea
 
 ### Teokset
 
-* Köstenberger, Andreas J. and David W. Jones. *God, Marriage, and Family: Rebuilding the Biblical Foundation*. Wheaton, Illinois: Crossway Books <!-- red link: Good News Publishers -->, 2004. ISBN 1581345801 ([preface](http://www.gnpcb.org/assets/products/excerpts/1581345801.1.pdf))
+* Köstenberger, Andreas J. and David W. Jones. *God, Marriage, and Family: Rebuilding the Biblical Foundation*. Wheaton, Illinois: [Crossway Books](https://en.wikipedia.org/wiki/Crossway) <!-- red link: Good News Publishers -->, 2004. ISBN 1581345801 ([preface](http://www.gnpcb.org/assets/products/excerpts/1581345801.1.pdf))
 
 ### Aiheesta muualla
 

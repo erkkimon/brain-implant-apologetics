@@ -4,7 +4,7 @@ about: apologetics
 title: "N. T. Wright"
 description: "Nicholas Thomas \"Tom\" Wright (s. 1. joulukuuta 1948) on johtava Uuden testamentin eksegetiikan tutkija, joka toimii Uuden testamentin ja varhaisen kristinuskon tutkijaprofessorina St."
 tags: [apowiki, henkilöt, eksegetiikka]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-02T03:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "N. T. Wright".
@@ -48,7 +48,7 @@ Vuonna 2008 Wright herätti kiistaa sanomalla, että "maallinen utopianismi peru
 
 ### Historiallinen Jeesus
 
-Wright torjuu William Wreden läpikotaisen [skeptisismin](../glossary/sanasto.md#skeptisismi) ja sen modernin vastineen, [Jeesus-seminaarin](jeesus-seminaari.md). Hänen mielestään Sanders <!-- red link: Sanders --> ja Meyer <!-- red link: Meyer --> menevät liian pitkälle muotokritiikin käytössä. Wrightin mielestä on virhe väittää, että Jeesus odotti historian pian tulevaa loppua, kuten Schweitzer <!-- red link: Schweitzer --> oletti. Wrightin mielestä Jeesus tarkoitti puheillaan Jumalan valtakuntaa, joka on sekä nykyinen että tuleva. Wright on myös puolustanut kirjaimellista uskoa Jeesuksen toiseen tulemiseen ja kuolleiden ylösnousemukseen, ja pitää niitä keskeisinä kristinuskolle.
+Wright torjuu William Wreden läpikotaisen [skeptisismin](../glossary/sanasto.md#skeptisismi) ja sen modernin vastineen, [Jeesus-seminaarin](jeesus-seminaari.md). Hänen mielestään Sanders <!-- red link: Sanders --> ja Meyer <!-- red link: Meyer --> menevät liian pitkälle muotokritiikin käytössä. Wrightin mielestä on virhe väittää, että Jeesus odotti historian pian tulevaa loppua, kuten [Schweitzer](https://fi.wikipedia.org/wiki/Albert_Schweitzer) <!-- red link: Schweitzer --> oletti. Wrightin mielestä Jeesus tarkoitti puheillaan Jumalan valtakuntaa, joka on sekä nykyinen että tuleva. Wright on myös puolustanut kirjaimellista uskoa Jeesuksen toiseen tulemiseen ja kuolleiden ylösnousemukseen, ja pitää niitä keskeisinä kristinuskolle.
 
 ### Suhtautuminen homoseksuaalisuuteen
 

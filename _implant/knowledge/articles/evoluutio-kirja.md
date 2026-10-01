@@ -4,7 +4,7 @@ about: apologetics
 title: "Evoluutio (kirja)"
 description: "Evoluutio on maineikkaan evoluutiobiologi Ernst Mayrin kirjoittama evoluutioteorian yleistajuinen oppikirja."
 tags: [apowiki, kirjat, darwinismi]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T03:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Evoluutio (kirja)".
@@ -46,7 +46,7 @@ Auringonvalon säteilyenergia ei esimerkiksi suoraan elätä ihmistä, vaan täm
 
 Perinnöllisen muuntelun kohdalla ainoa ohjaava tekijä on kuitenkin luonnonvalinta, joka ei pyri kehittämään eliöitä monimutkaisemmiksi. Luonnonvalinnan kautta lajit muuntuvat ainoastaan sellaisiksi, että ne selviävät ja tuottavat mahdollisimman paljon jälkeläisiä mahdollisimman tehokkaasti vallitsevissa olosuhteissa. Tällainen muuntelu tapahtuu kuitenkin pääsääntöisesti tuhoamalla olemassaolevia monimutkaisia rakenteita, eikä rakentamalla uusia. Siksi auringon valon energia ei itsessään riitä rakentamaan eliöissä uudenlaista monimutkaisuutta.
 
-Leedsin yliopiston termodynamiikan ja palamisen teorian professori Andrew McIntoshin <!-- red link: Andrew McIntosh --> mukaan termodynamiikka estää eliöiden geneettisen informaation lisääntymisen evoluutiossa. Hän pyrkii osoittamaan tutkimuksessaan, ettei maan kaltaisessa järjestelmässä auringosta saatava vapaa energia ratkaise tätä ongelmaa.[^11] Älykkään suunnittelun kannattaja Granville Sewell <!-- red link: Granville Sewell --> on myös esittänyt, että elämän monimutkaisten rakenteiden kehittyminen edustaa entropian vähenemistä, mikä rikkoisi termodynamiikan toista pääsääntöä ja sitä vastoin tukisi älykästä suunnittelua.[^12]
+Leedsin yliopiston termodynamiikan ja palamisen teorian professori Andrew McIntoshin <!-- red link: Andrew McIntosh --> mukaan termodynamiikka estää eliöiden geneettisen informaation lisääntymisen evoluutiossa. Hän pyrkii osoittamaan tutkimuksessaan, ettei maan kaltaisessa järjestelmässä auringosta saatava vapaa energia ratkaise tätä ongelmaa.[^11] Älykkään suunnittelun kannattaja [Granville Sewell](https://en.wikipedia.org/wiki/Granville_Sewell) <!-- red link: Granville Sewell --> on myös esittänyt, että elämän monimutkaisten rakenteiden kehittyminen edustaa entropian vähenemistä, mikä rikkoisi termodynamiikan toista pääsääntöä ja sitä vastoin tukisi älykästä suunnittelua.[^12]
 
 * [Granwille Sewell: A Mathematican's view of Evolution](http://www.math.utep.edu/Faculty/sewell/articles/mathint.html) (video, 15 min)
 

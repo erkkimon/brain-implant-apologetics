@@ -28,6 +28,8 @@ the tree.
 * `tools/apowiki_redlinks.py` — look red-link targets up in the Finnish
   Wikipedia and record the hits in `tools/red-link-wikipedia.json` for
   review; the converter links reviewed hits there and keeps them red.
+  `--lang en` fills `tools/red-link-wikipedia-en.json` from the English
+  Wikipedia for the targets Finnish lacks.
 * `tools/apowiki_stamp.py` — after regenerating, restore the committed
   timestamp on every page that did not change and bump the rest.
 * `tools/apowiki_translate.py` — translate one article with a small local

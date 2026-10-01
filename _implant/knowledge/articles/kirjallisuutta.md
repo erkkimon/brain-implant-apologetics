@@ -4,7 +4,7 @@ about: apologetics
 title: "Kirjallisuutta"
 description: "Alla hyvää kirjallisuutta kristinuskon perusteluihin tutustumiseen."
 tags: [apowiki, yleistä-tietoa, kirjat]
-timestamp: 2026-10-02T01:00:00Z
+timestamp: 2026-10-02T03:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kirjallisuutta".
@@ -72,7 +72,7 @@ Alla hyvää kirjallisuutta [kristinuskon perusteluihin](kristinuskon-perustelut
 *[Van Til's Apologetics: Readings & Analysis](http://isbndb.com/d/book/van_tils_apologetic.html), Dr. Greg L. Bahnsen
 *[Apologetics to the Glory of God](http://isbndb.com/d/book/apologetics_to_the_glory_of_god.html), John M. Frame
 *[Defending Your Faith: An introduction to Apologetics](http://isbndb.com/d/book/defending_your_faith_a01.html), R.C. Sproul
-*[Five Views on Apologetics](http://isbndb.com/d/book/five_views_on_apologetics.html), William Lane Graig, Gary R. Habermas <!-- red link: Gary Robert Habermas -->, John M. Frame, Kelly James Clark, Paul D. Feinberg, Stanley N. Gundry (series editor), Steven B. Cowan (general editor)
+*[Five Views on Apologetics](http://isbndb.com/d/book/five_views_on_apologetics.html), William Lane Graig, [Gary R. Habermas](https://en.wikipedia.org/wiki/Gary_Habermas) <!-- red link: Gary Robert Habermas -->, John M. Frame, Kelly James Clark, Paul D. Feinberg, Stanley N. Gundry (series editor), Steven B. Cowan (general editor)
 
 #### Evoluutioteoria
 *[Darwin's Black Box](darwins-black-box-kirja.md), [Michael J. Behe](michael-behe.md)

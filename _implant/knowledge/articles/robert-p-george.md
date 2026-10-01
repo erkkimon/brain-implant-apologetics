@@ -4,7 +4,7 @@ about: apologetics
 title: "Robert P. George"
 description: "Robert Peter George (syntynyt kesäkuun 10., 1955) on amerikkalainen oikeusoppinut ja poliittinen filosofi, joka toimii oikeustieteen professorina Princetonin yliopistossa."
 tags: [apowiki, henkilöt, seksuaalietiikka]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T03:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Robert P. George".
@@ -65,8 +65,8 @@ Koska oikea käsitys avioliitosta on edellytys ihmisten hyvinvoinnille, valtioll
 * *Body-Self Dualism in Contemporary Ethics and Politics*, 2007 ISBN 978-0-521-88248-4
 * *Embryo: A Defense of Human Life*, 2008 ISBN 0-385-52282-7
 * *Moral Pública: Debates Actuales*, 2009 ISBN 978-956-8639-05-1
-* *What Is Marriage? Man and Woman: A Defense <!-- red link: What Is Marriage? Man and Woman: A Defense -->*, 2012 ISBN 978-1594036224
-* *Conscience and Its Enemies: Confronting the Dogmas of Liberal Secularism <!-- red link: Conscience and Its Enemies: Confronting the Dogmas of Liberal Secularism -->*, 2013 ISBN 978-1610170703
+* *[What Is Marriage? Man and Woman: A Defense](https://en.wikipedia.org/wiki/What_Is_Marriage?) <!-- red link: What Is Marriage? Man and Woman: A Defense -->*, 2012 ISBN 978-1594036224
+* *[Conscience and Its Enemies: Confronting the Dogmas of Liberal Secularism](https://en.wikipedia.org/wiki/Conscience_and_Its_Enemies) <!-- red link: Conscience and Its Enemies: Confronting the Dogmas of Liberal Secularism -->*, 2013 ISBN 978-1610170703
 
 #### Artikkelit
 * "Law, Democracy, and Moral Disagreement", *Harvard Law Review*, Vol. 110, pp. 1388–1406 (1997)

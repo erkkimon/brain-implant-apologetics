@@ -4,7 +4,7 @@ about: apologetics
 title: "Tapio Puolimatka"
 description: "Timo Tapio Puolimatka (KT, VTT) toimii kasvatustieteen teorian ja tradition professorina Jyväskylän yliopistossa."
 tags: [apowiki, henkilöt, tapio-puolimatka]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T03:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tapio Puolimatka".
@@ -154,7 +154,7 @@ Asiantuntijalausunto eduskunnalle liittyen kansalaisaloitteeseen KAA 2/2016 vp K
 
 Pääartikkeli [Huuhaa-palkinto 2008](huuhaa-palkinto-2008-v3.md)
 
-Skepsis ry <!-- red link: Skepsis --> antoi [vuoden 2008 Huuhaa-palkinnon](huuhaa-palkinto-2008-v3.md) [Kustannus Oy Uusi Tielle](https://fi.wikipedia.org/wiki/Uusi_Tie) Tapio Puolimatkan kirjojen *[Usko, tiede ja Raamattu](usko-tiede-ja-raamattu-kirja.md)* ja *[Usko, tiede ja evoluutio](usko-tiede-ja-evoluutio-kirja.md)* julkaisemisesta. Skepsis ei puuttunut kirjojen varsinaiseen asiasisältöön vaan katsoi kirjojen tarkoitukseksi [luomisopin](kreationismi.md) tuomisen kouluopetukseen ja sanoi olevansa huolissaan kasvatustieteen puolesta, kun alan professori esittää tällaista.[^11]
+[Skepsis ry](https://fi.wikipedia.org/wiki/Skepsis_(yhdistys)) <!-- red link: Skepsis --> antoi [vuoden 2008 Huuhaa-palkinnon](huuhaa-palkinto-2008-v3.md) [Kustannus Oy Uusi Tielle](https://fi.wikipedia.org/wiki/Uusi_Tie) Tapio Puolimatkan kirjojen *[Usko, tiede ja Raamattu](usko-tiede-ja-raamattu-kirja.md)* ja *[Usko, tiede ja evoluutio](usko-tiede-ja-evoluutio-kirja.md)* julkaisemisesta. Skepsis ei puuttunut kirjojen varsinaiseen asiasisältöön vaan katsoi kirjojen tarkoitukseksi [luomisopin](kreationismi.md) tuomisen kouluopetukseen ja sanoi olevansa huolissaan kasvatustieteen puolesta, kun alan professori esittää tällaista.[^11]
 
 *Skeptikko*-lehteen (6/2008) kirjoittamansa [vastineen](tapio-puolimatka-käsitykset-testataan-moniäänisessä-dialogissa.md) Puolimatka aloittaa seuraavalla mielikuvalla:
 

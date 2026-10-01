@@ -4,7 +4,7 @@ about: apologetics
 title: "Tietoteoria"
 description: "Tietoteoria (myös tieto-oppi, epistemologia, gnoseologia) on filosofian osa, jossa tutkitaan käsitteellisin, filosofisin menetelmin tietoa , tiedon mahdollisuutta, luonnetta, alkuperää ja rajoja sekä käsitysten tai teorioiden oikeutusta yleensä."
 tags: [apowiki, filosofia]
-timestamp: 2026-10-01T21:30:00Z
+timestamp: 2026-10-02T03:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tietoteoria".
@@ -154,7 +154,7 @@ Nyt skeptisen todistelun perusta voidaan esittää ytimekkäässä muodossa:
 1. ¬*q*;
 1. Siis: ¬*p*.
 
-Yllä rivit 1 ja 2 edustavat todistelun alkuehtoja eli oletuksia, 3 on skeptinen johtopäätös. Esitetyssä muodossa todistelu on muodoltaan moitteeton modus tollendo tollens <!-- red link: modus tollendo tollens -->. Jos siis emme ole valmiit hyväksymään skeptistä johtopäätöstä, ehkä muiden perustelujen vuoksi, meidän on siis kiistettävä toinen alkuehdoista. Filosofisessa kirjallisuudessa on paljon esimerkkejä erilaisista yrityksistä näyttää, että meillä on hyviä syitä pitää jompaakumpaa alkuehtoa epätotena.
+Yllä rivit 1 ja 2 edustavat todistelun alkuehtoja eli oletuksia, 3 on skeptinen johtopäätös. Esitetyssä muodossa todistelu on muodoltaan moitteeton [modus tollendo tollens](https://en.wikipedia.org/wiki/Modus_tollens) <!-- red link: modus tollendo tollens -->. Jos siis emme ole valmiit hyväksymään skeptistä johtopäätöstä, ehkä muiden perustelujen vuoksi, meidän on siis kiistettävä toinen alkuehdoista. Filosofisessa kirjallisuudessa on paljon esimerkkejä erilaisista yrityksistä näyttää, että meillä on hyviä syitä pitää jompaakumpaa alkuehtoa epätotena.
 
 #### Skeptisten perustelujen arvostelu
 

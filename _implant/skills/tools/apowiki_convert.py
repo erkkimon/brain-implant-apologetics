@@ -140,6 +140,12 @@ WRITTEN_PAGES = _written_pages()
 _RLW = Path(__file__).resolve().parent / "red-link-wikipedia.json"
 RED_LINK_WIKIPEDIA: dict[str, str | None] = (
     json.loads(_RLW.read_text(encoding="utf-8")) if _RLW.exists() else {})
+# Second choice: the English Wikipedia, for targets the Finnish one lacks
+# (apowiki_redlinks.py --lang en). Many red links name English-language
+# scholars and books, which only English Wikipedia covers.
+_RLW_EN = Path(__file__).resolve().parent / "red-link-wikipedia-en.json"
+RED_LINK_WIKIPEDIA_EN: dict[str, str | None] = (
+    json.loads(_RLW_EN.read_text(encoding="utf-8")) if _RLW_EN.exists() else {})
 
 # ---------------------------------------------------------------------------
 # Slug — byte-identical to apowiki_import.slug(). Do not "improve" it here:
@@ -424,6 +430,11 @@ class Converter:
             if wp:
                 self.stats["link_red_to_wikipedia"] += 1
                 url = "https://fi.wikipedia.org/wiki/" + wp.replace(" ", "_")
+                return f"[{label}]({url}) <!-- red link: {target} -->"
+            wp = RED_LINK_WIKIPEDIA_EN.get(target)
+            if wp:
+                self.stats["link_red_to_wikipedia_en"] += 1
+                url = "https://en.wikipedia.org/wiki/" + wp.replace(" ", "_")
                 return f"[{label}]({url}) <!-- red link: {target} -->"
             return f"{label} <!-- red link: {target} -->"
         self.stats["link_internal"] += 1
@@ -1065,7 +1076,8 @@ def main() -> int:
           f"wikipedia: {conv.stats['link_wikipedia']}, "
           f"red: {conv.stats['link_red']} "
           f"({len(conv.red_links)} distinct, "
-          f"{conv.stats['link_red_to_wikipedia']} to Wikipedia, "
+          f"{conv.stats['link_red_to_wikipedia']} to Finnish and "
+          f"{conv.stats['link_red_to_wikipedia_en']} to English Wikipedia, "
           f"{conv.stats['link_red_to_glossary']} to the glossary)")
     print(f"written pages answering red links: "
           f"{conv.stats['link_written_page']}")

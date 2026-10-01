@@ -2,7 +2,7 @@
 type: skill
 title: Convert ApoWiki wikitext into implant articles
 description: Use when turning the ApoWiki export in raw/apowiki-export/ into searchable articles under knowledge/ — the deterministic, token-free conversion that produces the MVP, including wiki-link resolution, citation footnotes and the topic spine that grounds every page.
-timestamp: 2026-10-01T22:00:00Z
+timestamp: 2026-10-02T03:00:00Z
 depends_on: [skills/using-the-brain-implant.md]
 tools:
   - skills/tools/apowiki_convert.py
@@ -37,6 +37,9 @@ python3 _implant/skills/tools/apowiki_convert.py
 #     Finnish Wikipedia, review the additions to red-link-wikipedia.json by
 #     hand (null keeps a target red), then re-run step 1
 # python3 _implant/skills/tools/apowiki_redlinks.py
+#     then the English Wikipedia for what Finnish lacked
+#     (red-link-wikipedia-en.json; review it: bare years resolve to the year)
+# python3 _implant/skills/tools/apowiki_redlinks.py --lang en
 
 # 2. categories -> topic pages, and a breadcrumb on every article
 python3 _implant/skills/tools/apowiki_topics.py
@@ -102,6 +105,11 @@ references linked to their book pages, zero ghosts.
   the page still counts as wanted. Reviewing matters: *David Quinn* the
   debater is a hockey player in Wikipedia, and *perusryhmä* (a created kind)
   is a topology term there; such entries are null.
+  What the Finnish Wikipedia lacks, the English one is tried for next
+  (`red-link-wikipedia-en.json`, `--lang en`): many red links name
+  English-language scholars and books. 117 targets, added 2026-10-02
+  ([journal](../journals/2026-10-02.md)); bare years (*1623*) were rejected
+  by hand.
 * **Headings are inserted after the list pass, never before it.** `blocks()`
   reads a line starting with `#` as a wikitext numbered item. The
   `{{viitteet}}` template used to emit `## Viitteet` early, and 350 articles

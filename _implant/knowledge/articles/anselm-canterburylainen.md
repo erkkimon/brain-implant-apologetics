@@ -4,7 +4,7 @@ about: apologetics
 title: "Anselm Canterburylainen"
 description: "Pyhä Anselm Canterburylainen (1033 tai 1034 – 21. huhtikuuta 1109) oli keskiaikainen filosofi ja teologi."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-02T03:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Anselm Canterburylainen".
@@ -64,7 +64,7 @@ Anselmin tietoteorian perusteet sisältyvät hänen teokseensa *De Veritate*, jo
 
 *Pääartikkeli: [Anselmin jumalatodistus](anselmin-jumalatodistus.md)*
 
-Anselmin jumalatodistukset ovat hänen teostensa *Monologion* ja *Proslogion* pääaiheena. *Monologionissa* todistus perustuu realismin tavallisiin perusteisiin ja muistuttaa hyvin paljon [Augustinuksen](augustinus.md) <!--vai [Augustinus Canterburylainen](https://fi.wikipedia.org/wiki/Augustinus_Canterburylainen) <!-- red link: Augustinus Canterburylainen -->, tuskin??? "coincides to some extent with the earlier theory of Augustine <!-- red link: Augustine of Canterbury -->, though it is carried out with singular boldness and fulness"--> aiempaa teoriaa. Asioita kutsutaan hyviksi monilla tavoilla ja monessa määrin. Tämä ei olisi mahdollista, jos ei olisi olemassa ehdotonta mittapuuta, jotain joka on hyvää itsessään, josta kaikki hyvät asiat olisivat osallisia. Sama pätee sellaisiin asioihin kuin suuruus, oikeudenmukaisuus ja niin edelleen. — ne ovat osallisia jostain tietystä suuruudesta ja oikeudenmukaisuudesta. Asioiden olemassaolo olisi mahdotonta ilman jotain Olemassa olevaa, josta ne tulevat oleviksi. Tämä absoluuttinen Olemassaolo, tämä hyvyys, suuruus ja oikeudenmukaisuus, on Jumala.
+Anselmin jumalatodistukset ovat hänen teostensa *Monologion* ja *Proslogion* pääaiheena. *Monologionissa* todistus perustuu realismin tavallisiin perusteisiin ja muistuttaa hyvin paljon [Augustinuksen](augustinus.md) <!--vai [Augustinus Canterburylainen](https://fi.wikipedia.org/wiki/Augustinus_Canterburylainen) <!-- red link: Augustinus Canterburylainen -->, tuskin??? "coincides to some extent with the earlier theory of [Augustine](https://en.wikipedia.org/wiki/Augustine_of_Canterbury) <!-- red link: Augustine of Canterbury -->, though it is carried out with singular boldness and fulness"--> aiempaa teoriaa. Asioita kutsutaan hyviksi monilla tavoilla ja monessa määrin. Tämä ei olisi mahdollista, jos ei olisi olemassa ehdotonta mittapuuta, jotain joka on hyvää itsessään, josta kaikki hyvät asiat olisivat osallisia. Sama pätee sellaisiin asioihin kuin suuruus, oikeudenmukaisuus ja niin edelleen. — ne ovat osallisia jostain tietystä suuruudesta ja oikeudenmukaisuudesta. Asioiden olemassaolo olisi mahdotonta ilman jotain Olemassa olevaa, josta ne tulevat oleviksi. Tämä absoluuttinen Olemassaolo, tämä hyvyys, suuruus ja oikeudenmukaisuus, on Jumala.
 
 Anselm ei ollut täysin tyytyväinen tähän päättelyyn – se alkoi *[a posteriori](../glossary/sanasto.md#a-posteriori)* -perustelulla ja sisälsi useita toisistaan lähteviä todistuksia. Hän halusi muotoilla yhden, lyhyen todistuksen. Tämän todistuksen hän esitti *Proslogionissa*. Kyseessä on hänen kuuluisa [ontologinen todistuksensa](ontologinen-argumentti.md) Jumalan olemassaolosta. Todistuksen mukaan Jumala oli se, mitä suurempaa ei voida kuvitella. Jos tämä, mitä suurempaa ei voida kuvitella, olisi vain ajatuksissa, se ei voisi olla kaikkein suurin, koska siihen voitaisiin lisätä myös olemassaolo, jolloin se tulisi vielä suuremmaksi. Tästä seuraa, että olennolla jota suurempaa ei voida käsittää, eli Jumalalla, on todellinen olemassaolo.
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Ateismin määritelmä"
 description: "Kuvittele, että sinulta kysyttäisiin, uskotko hattivattien olemassaoloon."
 tags: [apowiki, ateismi]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T03:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ateismin määritelmä".
@@ -51,7 +51,7 @@ On esitetty myös muunlaisia määritelmiä. Erään määritelmän mukaan[^7] a
 
 ### Ontologinen ateismin määritelmä
 
-Väitelauseena jumalausko eli teismi on väite, jonka mukaan on olemassa jumala tai jumalia: *Jumala on olemassa*. Tällöin jumalauskon kielto on väite *Jumala ei ole olemassa*. Henkilö X, joka on sitä mieltä, että jumala on olemassa on jumalauskoinen eli *teisti*. Henkilö X, joka on sitä mieltä että jumala ei ole olemassa on jumalaton eli *ateisti*.[^8]</br>Esimerkiksi George H. Smithin <!-- red link: George H. Smith --> mukaan ateismi on väitelause: ”ei ole olemassa jumalaa tai jumalia”. [^9] Tämä määritelmä esittää [ontologisen](../glossary/sanasto.md#ontologia) eli olemassaoloa koskevan käsityksen.[^10]
+Väitelauseena jumalausko eli teismi on väite, jonka mukaan on olemassa jumala tai jumalia: *Jumala on olemassa*. Tällöin jumalauskon kielto on väite *Jumala ei ole olemassa*. Henkilö X, joka on sitä mieltä, että jumala on olemassa on jumalauskoinen eli *teisti*. Henkilö X, joka on sitä mieltä että jumala ei ole olemassa on jumalaton eli *ateisti*.[^8]</br>Esimerkiksi [George H. Smithin](https://en.wikipedia.org/wiki/George_H._Smith) <!-- red link: George H. Smith --> mukaan ateismi on väitelause: ”ei ole olemassa jumalaa tai jumalia”. [^9] Tämä määritelmä esittää [ontologisen](../glossary/sanasto.md#ontologia) eli olemassaoloa koskevan käsityksen.[^10]
 
 Olemassaoloa koskevina kantoina nämä ovat toisensa poissulkevat, eli kukaan järkevä henkilö ei voi olla yhtä aikaa teisti ja ateisti, koska väitteet muodostaisivat ristiriitaisen käsitysten joukon.[^11] Sen sijaan jotkut ajattelevat, että on pidättäydyttävä kannanotosta jumalan olemassaoloon puolesta tai vastaan. Tällöin henkilö X ei kannata teismiä eikä ateismia. Tätä kantaa jumalan olemassaoloon voidaan luonnehtia epäilyksi. Tämäkin käsitys on silti kannanotto, joka perustuu harkintaan ja perusteiden punnitsemiseen. [Thomas Henry Huxley](https://fi.wikipedia.org/wiki/Thomas_Henry_Huxley) <!-- red link: Thomas Henry Huxley --> esitti, että tätä kannanottoa kutsuttaisiin [agnostismiksi](agnostisismi.md).[^8]
 
@@ -59,7 +59,7 @@ Olemassaoloa koskevina kantoina nämä ovat toisensa poissulkevat, eli kukaan j�
 
 Kun ateismilla tarkoitetaan tiedollista asennetta (joku henkilö X on sitä mieltä, että on olemassa jumala), on mahdollista kieltää jumalausko kahdella tavalla. Kielto voi tapahtua Ilkka Niiniluodon luonnehdinnan mukaan ”ulkoapäin”, jolloin a-teismi eli ei-teismi on (henkilö X:n osalta) *uskon puutetta jumalan olemassaoloon*. Sen sijaan ”sisäinen kielto” johtaa kapeaan määritelmään, jonka mukaan ateismi on *käsitys, jonka mukaan jumalia ei ole olemassa*. Ilkka Niiniluoto pitää jälkimmäistä tulkintaa loogisesti vahvempana siinä mielessä, että, olettaen henkilö X:n käsitysten ristiriidattomuuden, jälkimmäisestä väitteestä seuraa ensimmäinen, mutta ei päinvastoin.[^12]
 
-Filosofi Michael Scriven <!-- red link: Michael Scriven --> on muotoillut ateistin, [agnostikon](agnostisismi.md) ja teistin määritelmän [tietoteoreettisena](../glossary/sanasto.md#tietoteoria) käsityksenä, jolloin käsitys ateismin, agnostisismin ja teismin suhteen voi olla eriasteinen.[^13]
+Filosofi [Michael Scriven](https://en.wikipedia.org/wiki/Michael_Scriven) <!-- red link: Michael Scriven --> on muotoillut ateistin, [agnostikon](agnostisismi.md) ja teistin määritelmän [tietoteoreettisena](../glossary/sanasto.md#tietoteoria) käsityksenä, jolloin käsitys ateismin, agnostisismin ja teismin suhteen voi olla eriasteinen.[^13]
 
 | \| Käsitys jumalan olemassaolosta | \| Nimitys |
 |---|---|

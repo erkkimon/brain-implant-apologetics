@@ -4,7 +4,7 @@ about: apologetics
 title: "Aitouskriteerit"
 description: "Historiallis-kriittisen tutkimuksen periaatteiden ymmärtäminen on välttämätöntä mielekkäälle Uuden testamentin historiallisuuden pohtimiselle."
 tags: [apowiki, historia, tieteenfilosofia]
-timestamp: 2026-10-01T21:30:00Z
+timestamp: 2026-10-02T03:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Aitouskriteerit".
@@ -80,7 +80,7 @@ Historiaa tutkittaessa lähteiden aitoutta historiallisen totuuden kuvaajana pyr
 ### Viitteet
 
 [^1]: Crossan John Dominic (1995) Who Killed Jesus? Harper, San Francisco, s. 4
-[^2]: Tällaiseksi voidaan luokitella mm. vapaa-ajattelijoiden markkinoima Earl Doherty <!-- red link: Earl Doherty -->: http://www.vapaa-ajattelijat.fi
+[^2]: Tällaiseksi voidaan luokitella mm. vapaa-ajattelijoiden markkinoima [Earl Doherty](https://en.wikipedia.org/wiki/Earl_Doherty) <!-- red link: Earl Doherty -->: http://www.vapaa-ajattelijat.fi
 [^3]: Syreeni Kari ”Mitä Jeesus todella sanoi” teoksessa Nasaretilaisen historia (1997) toim. Uro R. ja O. Lehtipuu, Kirjapaja, Jyväskylä, ss. 146-177
 [^4]: Kts. yleisesittelynä Myllykoski M. & A. Järvinen toim. (1997) Varhaiskristilliset evankeliumit, Yliopistopaino, Helsinki . Teos sisältää useita tähän aiheeseen liittyviä artikkeleita. Katsaus synoptiseen onglmaan löytyy lähes kaikista Uuden testamentin johdantoteoksista.
 [^5]: Pietarin evankeliumin käyttöä ikkunana historialliseen Jeesukseen kritisoi voimakkaasti mm. Meier J. P. (1991) A Marginal Jew – Rethinking Historical Jesus – Part One, Doubleday, ss. 116-118

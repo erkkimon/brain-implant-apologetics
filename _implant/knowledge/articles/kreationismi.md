@@ -4,7 +4,7 @@ about: apologetics
 title: "Kreationismi"
 description: "\"Kreationismi\" on yleisnimitys käsityksille, joiden mukaan havaintotodellisuus (kaikkeus ja sen elolliset olennot) ovat olemassa tarkoituksellisesti luotuina."
 tags: [apowiki, luomisoppi]
-timestamp: 2026-10-01T21:30:00Z
+timestamp: 2026-10-02T03:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kreationismi".
@@ -153,7 +153,7 @@ Muista teistisistä uskontokunnista [Jehovan todistajat](https://fi.wikipedia.or
 
 1980-luvun alussa kreationismi voimistui Suomessakin. Kreationismi-sanakin tuli yleiseen käyttöön juuri tällöin; esimerkiksi vuonna 1973 ilmestynyt *Nykysuomen sivistyssanakirja* ei vielä sitä tunne. Päivälehtien sivuilta saatiin lukea kreationismia puolustavia yleisönosastokirjoituksia, ja 1980-luvun lopulla [helluntailaisten](https://fi.wikipedia.org/wiki/helluntaiherätys) johdolla kirjoitetussa, kouluhallituksen pääjohtaja **[Erkki Aholle](https://fi.wikipedia.org/wiki/Erkki_Aho_(pääjohtaja))** osoitetussa 14 220 nimen adressissa vaadittiin luomisopin opetusta Suomen kouluihin kehitysopin opetuksen rinnalle.
 
-"Imperiumin vastaiskuakaan" ei tarvinnut turhaan odottaa: vuonna 1989 Skepsis ry <!-- red link: Skepsis --> antoi [Huuhaa-palkintonsa](https://fi.wikipedia.org/wiki/Skepsis_(yhdistys)) <!-- red link: Huuhaa-palkinto --> [WSOY](https://fi.wikipedia.org/wiki/WSOY):lle luonnontieteiden kolminkertaisen tohtorin, professori **A. E. Wilder-Smith**in *Luonnontieteet eivät tunne evoluutiota* -kirjan (1980) julkaisemisesta.[^54]
+"Imperiumin vastaiskuakaan" ei tarvinnut turhaan odottaa: vuonna 1989 [Skepsis ry](https://fi.wikipedia.org/wiki/Skepsis_(yhdistys)) <!-- red link: Skepsis --> antoi [Huuhaa-palkintonsa](https://fi.wikipedia.org/wiki/Skepsis_(yhdistys)) <!-- red link: Huuhaa-palkinto --> [WSOY](https://fi.wikipedia.org/wiki/WSOY):lle luonnontieteiden kolminkertaisen tohtorin, professori **A. E. Wilder-Smith**in *Luonnontieteet eivät tunne evoluutiota* -kirjan (1980) julkaisemisesta.[^54]
 
 Professori **[Matti Leisola](matti-leisola.md)**[^55] sai vuonna 2004 tyypillisen propagandistisesti perustellun Huuhaa-palkinnon[^56] järjestettyään evoluutioteoriaan tieteellisen kriittisesti suhtautuvan luentosarjan nimeltään *Biology - Tackling Ultimate Complexity* [Teknillisellä korkeakoululla](https://fi.wikipedia.org/wiki/Aalto-yliopiston_teknillinen_korkeakoulu). Seminaari oli alun perin tarkoitus järjestää Helsingin yliopistolla väittelynä, jossa osanottajat olisivat olleet älykkään suunnittelun kannattaja **Paul Nelson**, makroevoluutioteoriaan kriittisesti suhtautuva **Richard Sternberg** ja kaksi suomalaista, evoluutioteoriaa puolustavaa tunnettua professoria. [Äärinaturalistien](../glossary/sanasto.md#äärinaturalismi) nostettua asiasta äläkän[^57] yliopiston silloinen rehtori **[Ilkka Niiniluoto](https://fi.wikipedia.org/wiki/Ilkka_Niiniluoto)** – itsekin tunnettu naturalisti – lopulta, hieman ennen tilaisuuden aiottua ajankohtaa, kielsi sen järjestämisen Helsingin yliopistossa. Tällöin professori Leisola järjesti seminaarin sen sijaan Teknillisessä korkeakoulussa[^58]. Leisola kritisoi purevasti palkitsemisperusteita *Miksi skeptisyys darvinismia kohtaan olisi huuhaata?*[^59] -vastineessaan.
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Islamismi"
 description: "Islamismi tai poliittinen islam (myös \"islamilainen fundamentalismi\" -nimitystä näkee käytettävän) tarkoittaa islamin tulkintoja, jotka painottavat uskonnon poliittis-yhteiskunnallista luonnetta, mitä kautta islam ymmärretään paitsi uskonnoksi myös poliittiseksi ideologiaksi."
 tags: [apowiki, islam, keskeneräiset-artikkelit]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T03:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Islamismi".
@@ -36,7 +36,7 @@ Islamistit haluavat rakentaa yhteiskunnan, joka soveltaa arkielämään islamin 
 
 Poliittinen islam on ilmiönä yhtä vanha kuin islam uskontona, ja perinteisissä valtavirran islam tulkinnoissa islam on aina ymmärretty myös yhteiskunnalliseksi järjestykseksi, jossa valtiollinen lainsäädäntö on johdettu Koraanista ja Sunnasta. Islamismi-sanalla viitataan kuitenkin yleensä moderneihin poliittisen islamin muotoihin, jotka ovat syntyneet vastustamaan islamilaisen sekulaaria kehitystä ja vaatineet paluuta oikeaoppiseen islamiin, jonka suhteen tulkinnat kuitenkin vaihtelevat suuresti.
 
-Modernin islamismin luoja oli intialainen, sittemmin pakistanilainen lakimies [Sayyid Abul Ala Maududi](https://en.wikipedia.org/wiki/Abul_A%27la_Maududi) (1903–1979), jonka kirjoituksista suuri osa käsitteli šariaa, hallintoa ja [ihmisoikeuksia](ihmisoikeudet.md). Hän perusti Jamaat-e-Islami <!-- red link: Jamaat-e-Islami -->-puolueen 1941 ja oli sen johdossa vuoteen 1972 asti.<!--  --> Maududi kannatti islamilaisen Pakistanin muuttamista šura-tuomioistuinten tulkitseman šarian mukaan hallituksi. Hänen vaikutusvaltaisin teoksensa oli *Risalat Diniyat*.
+Modernin islamismin luoja oli intialainen, sittemmin pakistanilainen lakimies [Sayyid Abul Ala Maududi](https://en.wikipedia.org/wiki/Abul_A%27la_Maududi) (1903–1979), jonka kirjoituksista suuri osa käsitteli šariaa, hallintoa ja [ihmisoikeuksia](ihmisoikeudet.md). Hän perusti [Jamaat-e-Islami](https://en.wikipedia.org/wiki/Jamaat-e-Islami) <!-- red link: Jamaat-e-Islami -->-puolueen 1941 ja oli sen johdossa vuoteen 1972 asti.<!--  --> Maududi kannatti islamilaisen Pakistanin muuttamista šura-tuomioistuinten tulkitseman šarian mukaan hallituksi. Hänen vaikutusvaltaisin teoksensa oli *Risalat Diniyat*.
 
 Maududin ideat vaikuttivat [Muslimiveljeskuntaan](https://fi.wikipedia.org/wiki/Muslimiveljeskunta), joka perustettiin liberaalin islamilaisuuden kritiikiksi [Egyptissä](https://fi.wikipedia.org/wiki/Egypti) 1900-luvun alussa. Muslimiveljeskunta käytti mottonaan ”Koraani on perustuslakimme.”
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Argumentointivirheet"
 description: "Argumentointivirheet eli perusteluvirheet ovat keskustelutekniikan ja mielipiteen esittämisen virheitä, jotka muodollisesti näyttävät oikeilta, mutta joissa lähemmin tarkasteltuina on joko looginen virhe, ne kohdistuvat johonkin muuhun…"
 tags: [apowiki, argumentointi]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-02T03:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Argumentointivirheet".
@@ -65,15 +65,15 @@ Jollei tätä tajuta, koko perusteluvirheen käsite menee [sekaisin](https://fi.
 #### Henkilöön kohdistuvat argumentointivirheet
 
 *[Argumentum ad auctoritatem](argumentum-ad-auctoritatem.md) (auktoriteettiin vetoaminen)
-**Argumentum ad verecundiam <!-- red link: Argumentum ad verecundiam --> (arvovaltaan vetoaminen)
-**Ipse dixit <!-- red link: Ipse dixit --> (hän sanoi niin)
-**Argumentum ad populum <!-- red link: Argumentum ad populum --> (suosituimmuuteen vetoaminen)
-**Argumentum ad hitlerum <!-- red link: Argumentum ad hitlerum --> (kompromettointi)
+**[Argumentum ad verecundiam](https://en.wikipedia.org/wiki/Argument_from_authority) <!-- red link: Argumentum ad verecundiam --> (arvovaltaan vetoaminen)
+**[Ipse dixit](https://en.wikipedia.org/wiki/Ipse_dixit) <!-- red link: Ipse dixit --> (hän sanoi niin)
+**[Argumentum ad populum](https://en.wikipedia.org/wiki/Argumentum_ad_populum) <!-- red link: Argumentum ad populum --> (suosituimmuuteen vetoaminen)
+**[Argumentum ad hitlerum](https://en.wikipedia.org/wiki/Reductio_ad_Hitlerum) <!-- red link: Argumentum ad hitlerum --> (kompromettointi)
 **Suutari pysyköön lestissään <!-- red link: Suutari pysyköön lestissään --> (omahyväisyys)
 *[Argumentum ad hominem](argumentum-ad-hominem.md) (henkilökohtaisuuksiin meneminen)
 **ad hominem abusivis <!-- red link: ad hominem abusivis --> (loukkaus)
 **ad hominem circumstantiae <!-- red link: ad hominem circumstantiae --> (argumentaation asianhaaroihin vetoaminen)
-**ad hominem tu quoque <!-- red link: ad hominem tu quoque --> (argumentoijan sosiaaliseen habitukseen vetoaminen)
+**[ad hominem tu quoque](https://en.wikipedia.org/wiki/Tu_quoque) <!-- red link: ad hominem tu quoque --> (argumentoijan sosiaaliseen habitukseen vetoaminen)
 **kaivon myrkyttäminen <!-- red link: kaivon myrkyttäminen -->
 **ad hominem motivum <!-- red link: ad hominem motivum --> (motiiviin vetoaminen, oma lehmä ojassa)
 *[Argumentum ad crumenam](https://fi.wikipedia.org/wiki/Varallisuuteen_vetoaminen) <!-- red link: Argumentum ad crumenam --> (varallisuuteen vetoaminen)
@@ -169,8 +169,8 @@ Jollei tätä tajuta, koko perusteluvirheen käsite menee [sekaisin](https://fi.
 *Keskitermivirhe <!-- red link: Keskitermivirhe -->
 *Tautologia <!-- red link: Tautologia -->
 *Jatkumovirhe <!-- red link: Jatkumovirhe -->
-*Illicit major <!-- red link: Illicit major -->
-*Illicit minor <!-- red link: Illicit minor -->
+*[Illicit major](https://en.wikipedia.org/wiki/Illicit_major) <!-- red link: Illicit major -->
+*[Illicit minor](https://en.wikipedia.org/wiki/Illicit_minor) <!-- red link: Illicit minor -->
 
 #### Jakaumavirheet
 

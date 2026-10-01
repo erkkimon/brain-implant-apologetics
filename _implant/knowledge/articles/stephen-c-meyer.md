@@ -4,7 +4,7 @@ about: apologetics
 title: "Stephen C. Meyer"
 description: "Stephen C. Meyer väitteli tohtoriksi Cambridgen yliopistossa tieteenfilosofiasta."
 tags: [apowiki, henkilöt, filosofia]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-02T03:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Stephen C. Meyer".
@@ -23,6 +23,6 @@ Stephen C. Meyer väitteli tohtoriksi Cambridgen yliopistossa tieteenfilosofiast
 ### Teokset:
 
 *Stephen C. Meyer, *[Signature in the Cell: DNA and the Evidence for Intelligent Design](signature-in-the-cell-kirja.md)*. HarperOne (June 23, 2009) ISBN 0061472786
-* David K. DeWolf, Stephen C. Meyer, and Mark E. DeForrest (1999) *Intelligent Design in Public School Science Curriculum: A Legal Guidebook*. Foundation for Thought and Ethics <!-- red link: Foundation for Thought and Ethics -->. ISBN 0-9642104-1-X
-* [Michael J. Behe](michael-behe.md), [William A. Dembski](william-dembski.md) and Stephen C. Meyer (2000) *Science and Evidence of Design in the Universe*. Ignatius Press <!-- red link: Ignatius Press --> ISBN 0-89870-809-5
-* John Angus Campbell <!-- red link: John Angus Campbell --> and Stephen C. Meyer (2003) *Darwinism, Design, and Public Education*, Michigan State University Press. ISBN 0-87013-675-5
+* David K. DeWolf, Stephen C. Meyer, and Mark E. DeForrest (1999) *Intelligent Design in Public School Science Curriculum: A Legal Guidebook*. [Foundation for Thought and Ethics](https://en.wikipedia.org/wiki/Foundation_for_Thought_and_Ethics) <!-- red link: Foundation for Thought and Ethics -->. ISBN 0-9642104-1-X
+* [Michael J. Behe](michael-behe.md), [William A. Dembski](william-dembski.md) and Stephen C. Meyer (2000) *Science and Evidence of Design in the Universe*. [Ignatius Press](https://en.wikipedia.org/wiki/Ignatius_Press) <!-- red link: Ignatius Press --> ISBN 0-89870-809-5
+* [John Angus Campbell](https://en.wikipedia.org/wiki/John_Angus_Campbell) <!-- red link: John Angus Campbell --> and Stephen C. Meyer (2003) *Darwinism, Design, and Public Education*, Michigan State University Press. ISBN 0-87013-675-5

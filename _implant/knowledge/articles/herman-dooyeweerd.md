@@ -4,7 +4,7 @@ about: apologetics
 title: "Herman Dooyeweerd"
 description: "Herman Dooyeweerd (7.10.1894 - 12.2.1977) oli hollantilainen kristitty filosofi, joka perusti filosofisen suuntauksen nimeltä kosmonominen filosofia."
 tags: [apowiki, henkilöt, filosofia]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T03:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Herman Dooyeweerd".
@@ -73,7 +73,7 @@ Dooyeweerd määrittelee filosofian teoreettiseksi ajatteluksi, joka pyrkii anta
 * [The Dooyeweerd pages](http://www.dooy.salford.ac.uk/) (hosted by Andrew Basden, University of Salford)
 * [The Dooyeweerd Centre for Christian Philosophy](https://www.redeemer.ca/academics/research/centre-for-christian-scholarship/dooyeweerd/)
 *[Andrew Basden (2002-12-01) The critical theory of Herman Dooyeweerd?  Journal of Information Technology 17(4):257-269](http://dooy.info/papers/jit.html)
-* ["Herman Dooyeweerd's Contribution to the Philosophy of the Social Sciences"](http://www.asa3.org/ASA/PSCF/1979/JASA3-79Skillen.html). James W. Skillen <!-- red link: James Skillen --> *JASA <!-- red link: PSCF -->''. Volume 31 (March 1979): 20-24.
+* ["Herman Dooyeweerd's Contribution to the Philosophy of the Social Sciences"](http://www.asa3.org/ASA/PSCF/1979/JASA3-79Skillen.html). [James W. Skillen](https://en.wikipedia.org/wiki/James_Skillen) <!-- red link: James Skillen --> *[JASA](https://en.wikipedia.org/wiki/Perspectives_on_Science_and_Christian_Faith) <!-- red link: PSCF -->''. Volume 31 (March 1979): 20-24.
 
 ### Katso myös
 #### ApologetiikkaWiki

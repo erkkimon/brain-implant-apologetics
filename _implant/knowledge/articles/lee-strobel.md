@@ -4,7 +4,7 @@ about: apologetics
 title: "Lee Strobel"
 description: "Lee Patrick Strobel (s. 25.01.1952) on ateistista kristityksi kääntynyt entinen Chicago Tribune -lehden toimittaja."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T03:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Lee Strobel".
@@ -38,7 +38,7 @@ Hän oli edelleen ateisti, mutta hän että jos kristinusko on totta, sillä on 
 
 #### Englanniksi
 * *Reckless Homicide? Ford's Pinto Trial* (1980) ISBN 0-89708-022-X
-* *Inside the Mind of Unchurched <!-- red link: Unchurched --> Harry and Mary* (1993) ISBN 0310375614
+* *Inside the Mind of [Unchurched](https://en.wikipedia.org/wiki/Unchurched) <!-- red link: Unchurched --> Harry and Mary* (1993) ISBN 0310375614
 * *What Jesus Would Say* (1994) ISBN 0310485118
 * *God's Outrageous Claims* (1998) ISBN 0310266122
 * *The Case for Christ*, September 1, 1998, [Zondervan](https://fi.wikipedia.org/wiki/Zondervan) <!-- red link: Zondervan -->, ISBN 0310226058
