@@ -3,7 +3,7 @@ type: plan
 title: "MVP first, then daily iteration (apologetics)"
 description: "The apologetics half of the shared plan: convert ApoWiki's wikitext to Finnish markdown pages with parsed implant links, hang the book corpus on the shared book spine, compile with multilingual embeddings, and only then start cooldown-batched translation and improvement."
 tags: [plan, mvp, roadmap]
-timestamp: 2026-10-01T22:00:00Z
+timestamp: 2026-10-02T21:00:00Z
 ---
 
 # MVP first, then daily iteration (apologetics)
@@ -152,8 +152,14 @@ happened last.
 
 1. Machine-time polish is done (glossary terms, red links, tables;
    2026-10-01). So is the translation setup (above).
-2. Translation batches one theme at a time, per the skill, starting with
-   batch 1. Its state is in todo/open.md.
+2. Translation batches one theme at a time, per the skill. As of
+   2026-10-02: batch 1 (design theory) has four of six articles reviewed
+   and landed in [knowledge/en/](../knowledge/en/index.md); batches 2–4
+   (God and the arguments, atheism, evolution) have their glossary rows
+   and run unattended behind it. The exact state is in todo/open.md.
+3. Between batches, the pages the graph asks for, per the
+   [wanted-page skill](../skills/write-a-wanted-page.md); the ones written
+   so far are listed in [knowledge/pages/](../knowledge/pages/index.md).
 
 Tom dogfoods in parallel and is not a gate (decided 2026-10-01). His bug
 reports go to the top of todo/open.md and take priority over polish.
@@ -172,3 +178,10 @@ reports go to the top of todo/open.md and take priority over polish.
    [Convert ApoWiki wikitext](../skills/convert-apowiki-to-articles.md).
 4. Work down todo/open.md top to bottom, record in today's journal, and
    commit through the contract.
+5. The translation runs are machine-local and live only in `_temp/`: a
+   private llama-server and one runner script per batch
+   (`_temp/run-batches.sh`, `run-batch3.sh`, `run-batch4.sh`), each logging
+   beside itself. On another machine, or after a reboot, start the server
+   per the [translate skill](../skills/translate-an-article.md) and
+   re-create a runner from the article lists in todo/open.md; a runner skips
+   any article already in `_temp/translations/`.
