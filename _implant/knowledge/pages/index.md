@@ -28,6 +28,8 @@ procedure is [Write a wanted page](../../skills/write-a-wanted-page.md).
   Datakirjat.
 * [Phillip Johnson](phillip-johnson.md): law professor, author of *Darwin
   on Trial*, a founder of the design movement.
+* [Evoluution maailmankuva](evoluution-maailmankuva-kirja.md): the Finnish
+  edition of Johnson's *Defeating Darwinism by Opening Minds* (2000).
 * [Stanley Jaki](stanley-jaki.md): Benedictine priest and physicist,
   historian of science and Christianity.
 

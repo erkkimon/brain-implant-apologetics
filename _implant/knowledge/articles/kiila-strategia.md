@@ -4,7 +4,7 @@ about: apologetics
 title: "Kiila-strategia"
 description: "Kiilastrategia ylipäänsä on jonkin tahon pyrkimys edistää kannattamansa näkemyksen yhteiskunnallista vaikuttavuutta koettamalla eristää vastakkaisen näkemyksen vakaumukselliset kannattajat näiden mahdollisista liittolaisista \"lyömällä kiiloja\" vastustettavan näkemyksen ydinkannattajakunnan ympärille."
 tags: [apowiki, evoluutiokritiikki, suunnitteluteoria]
-timestamp: 2026-10-02T07:30:00Z
+timestamp: 2026-10-02T20:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kiila-strategia".
@@ -83,6 +83,6 @@ Näinkin kömpelön, läpinäkyvän ja räikeän "hajoita ja hallitse" -manipula
 [^1]: [Wedge.pdf](http://www.antievolution.org/features/wedge.pdf), AntiEvolution.org
 [^2]: [The "Wedge Document": So What?](http://www.discovery.org/a/2101), Discovery Institute, 3.2.2006, viitattu 18.2.2009
 [^3]: [Wedge Document Response (pdf)](http://www.discovery.org/scripts/viewDB/filesDB-download.php?id=349)
-[^4]: [Phillip E. Johnson](../pages/phillip-johnson.md), *Evoluution Maailmankuva <!-- red link: Evoluutio Maailmankuva (kirja) -->*, Uusi Tie, 2000, ISBN 951-619-317-X
+[^4]: [Phillip E. Johnson](../pages/phillip-johnson.md), *[Evoluution Maailmankuva](../pages/evoluution-maailmankuva-kirja.md)*, Uusi Tie, 2000, ISBN 951-619-317-X
 [^5]: Phillip E. Johnson, *Reason in the Balance: The Case Against Naturalism in Science, Law & Education*, InterVarsity Press, 1998, ISBN 978-0830819294
 [^6]: Phillip E. Johnson, *The Wedge of Truth: Splitting the Foundations of Naturalism*, InterVarsity Press, 2000, ISBN 978-0830822676
