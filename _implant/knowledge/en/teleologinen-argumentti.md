@@ -4,7 +4,7 @@ about: apologetics
 title: "Teleological argument"
 description: "The teleological argument starts from the purposiveness (telos = end) and order found in nature."
 tags: [apowiki, filosofia, argumentit, suunnitteluteoria]
-timestamp: 2026-10-02T04:21:00Z
+timestamp: 2026-10-02T04:44:26Z
 lang: en
 translated_from: ../articles/teleologinen-argumentti.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -33,7 +33,7 @@ The variants of the argument developed before the 1700s were based on the idea t
 
 For example, biological systems function purposively and as if according to an intelligent plan.
 
-With the development of modern natural science thinking, in newer variants of the teleological argument one no longer appeals merely to the order prevailing in the universe, but rather more attention is paid to the complexity of the world's order. [William Paley](https://fi.wikipedia.org/wiki/William_Paley) <!-- red link: William Paley --> (1743-1805) takes, for example, the situation where we find a [pocket watch in a meadow](https://fi.wikipedia.org/wiki/Kelloseppävertaus) <!-- red link: Kelloseppävertaus -->. Since the structure of the watch is complex and intricately built for a specific purpose, we assume that it has an intelligent designer. According to Paley, we can meaningfully apply the same reasoning to plants and animals, because their structure manifests traces of a complex and advanced intelligent plan.
+With the development of modern natural science thinking, in newer variants of the teleological argument one no longer appeals merely to the order prevailing in the universe, but rather more attention is paid to the complexity of the world's order. [William Paley](../pages/william-paley.md) (1743-1805) takes, for example, the situation where we find a [pocket watch in a meadow](https://fi.wikipedia.org/wiki/Kelloseppävertaus) <!-- red link: Kelloseppävertaus -->. Since the structure of the watch is complex and intricately built for a specific purpose, we assume that it has an intelligent designer. According to Paley, we can meaningfully apply the same reasoning to plants and animals, because their structure manifests traces of a complex and advanced intelligent plan.
 
 Generally, it is assumed that [David Hume](https://fi.wikipedia.org/wiki/David_Hume) <!-- red link: David Hume --> (1711–1776) and [Charles Darwin](https://fi.wikipedia.org/wiki/Charles_Darwin) <!-- red link: Charles Darwin --> (1809-1882) refuted the teleological argument. Hume argued against Paley by stating that, based on our experience, we know that a clock is the result of an intelligent design, but we lack corresponding experience regarding plants and animals. In his work *Dialogues Concerning Natural Religion*, Hume did not reject the argument entirely, but in his view, it justifies only a weak conclusion: that the first cause of the order in the universe probably possesses properties that are, in a loose sense, analogous to human intelligence.
 

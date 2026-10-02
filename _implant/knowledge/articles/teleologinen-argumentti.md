@@ -4,7 +4,7 @@ about: apologetics
 title: "Teleologinen argumentti"
 description: "Teleologisen argumentin lähtökohtana on luonnossa ilmenevä tarkoituksenmukaisuus (telos = päämäärä) ja järjestys."
 tags: [apowiki, filosofia, argumentit, suunnitteluteoria]
-timestamp: 2026-10-02T04:21:00Z
+timestamp: 2026-10-02T04:43:46Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Teleologinen argumentti".
@@ -30,7 +30,7 @@ Ennen 1700-lukua kehitetyt muunnelmat argumentista perustuivat siihen, että maa
 
 Esimerkiksi biologiset järjestelmät toimivat tarkoituksenmukaisesti ja ikään kuin älykkään suunnitelman mukaisesti.
 
-Modernin luonnontieteellisen ajattelun kehityksen myötä teleologisen argumentin uudemmissa muunnelmissa ei enää vedota pelkkään maailmankaikkeudessa vallitsevaan järjestykseen, vaan yhä enemmän kiinnitetään huomiota maailman järjestyksen monimutkaisuuteen. [William Paley](https://fi.wikipedia.org/wiki/William_Paley) <!-- red link: William Paley --> (1743-1805) ottaa esimerkiksi tilanteen, jossa löydämme [taskukellon niityltä](https://fi.wikipedia.org/wiki/Kelloseppävertaus) <!-- red link: Kelloseppävertaus -->. Koska kellon rakenne on monimutkainen ja tiettyä tarkoitusta varten yksityiskohtaisesti rakennettu, oletamme sillä olevan älykkään suunnittelijan. Paleyn mukaan voimme mielekkäästi soveltaa samaa päättelyä kasveihin ja eläimiin, koska niiden rakenne ilmentää monimutkaisen ja kehittyneen älykkään suunnitelman jälkiä.
+Modernin luonnontieteellisen ajattelun kehityksen myötä teleologisen argumentin uudemmissa muunnelmissa ei enää vedota pelkkään maailmankaikkeudessa vallitsevaan järjestykseen, vaan yhä enemmän kiinnitetään huomiota maailman järjestyksen monimutkaisuuteen. [William Paley](../pages/william-paley.md) (1743-1805) ottaa esimerkiksi tilanteen, jossa löydämme [taskukellon niityltä](https://fi.wikipedia.org/wiki/Kelloseppävertaus) <!-- red link: Kelloseppävertaus -->. Koska kellon rakenne on monimutkainen ja tiettyä tarkoitusta varten yksityiskohtaisesti rakennettu, oletamme sillä olevan älykkään suunnittelijan. Paleyn mukaan voimme mielekkäästi soveltaa samaa päättelyä kasveihin ja eläimiin, koska niiden rakenne ilmentää monimutkaisen ja kehittyneen älykkään suunnitelman jälkiä.
 
 Yleisesti oletetaan, että [David Hume](https://fi.wikipedia.org/wiki/David_Hume) <!-- red link: David Hume --> (1711–1776) ja [Charles Darwin](https://fi.wikipedia.org/wiki/Charles_Darwin) <!-- red link: Charles Darwin --> (1809-1882) kumosivat teleologisen argumentin. Hume argumentoi Paleyä vastaan toteamalla, että tiedämme kokemuksemme pohjalta kellon olevan älykkään suunnitelman tulosta, mutta meillä ei ole vastaavaa kokemusta kasvien ja eläinten osalta. Teoksessaan *Dialogues Concerning Natural Religion* Hume ei hylännyt argumenttia kokonaan, mutta se oikeuttaa hänen mielestään vain heikon päätelmän, että maailmankaikkeudessa olevan järjestyksen alkusyyllä on todennäköisesti ominaisuuksia, jotka ovat väljässä mielessä analogisia inhimilliselle järjelle.
 

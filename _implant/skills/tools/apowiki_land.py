@@ -31,6 +31,26 @@ ARTICLES = ROOT / "knowledge" / "articles"
 EN = ROOT / "knowledge" / "en"
 
 LINK = re.compile(r"\]\((?:\.\./articles/)?([^)/#\s]+)\.md(#[^)\s]*)?\)")
+# A red link the converter kept (label, maybe a Wikipedia fallback, and the
+# greppable comment). When a page written later in knowledge/pages/ answers
+# it, the Finnish article picks that up on the next convert, but a landed
+# English page would not: it is a copy. So landing re-points those too.
+# (A red link kept as plain text has no delimited label, so it is left for
+# the reviewer; the converter links those itself in the Finnish page.)
+RED = re.compile(r"\[([^\]]*)\]\([^)\s]*\) <!-- red link: ([^>]*?) -->")
+
+
+def written_pages() -> dict[str, str]:
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from apowiki_convert import WRITTEN_PAGES  # one parser for aliases
+    return WRITTEN_PAGES
+
+
+def relink_red(text: str, pages: dict[str, str]) -> str:
+    def repl(m: re.Match) -> str:
+        page = pages.get(m.group(2).replace("_", " ").strip().lower())
+        return f"[{m.group(1)}](../pages/{page}.md)" if page else m.group(0)
+    return RED.sub(repl, text)
 
 
 def relink(text: str, have_en: set[str], have_fi: set[str]) -> str:
@@ -81,12 +101,13 @@ def main(argv: list[str]) -> int:
         print(f"landed {src.name}")
     have_en = {p.stem for p in EN.glob("*.md") if p.name != "index.md"}
     have_fi = {p.stem for p in ARTICLES.glob("*.md")}
+    pages = written_pages()
     changed = 0
     for p in sorted(EN.glob("*.md")):
         if p.name == "index.md":
             continue
         t = p.read_text(encoding="utf-8")
-        n = relink(t, have_en, have_fi)
+        n = relink_red(relink(t, have_en, have_fi), pages)
         if n != t:
             p.write_text(n, encoding="utf-8")
             changed += 1
@@ -100,6 +121,11 @@ def selftest() -> int:
     out = relink(t, {"x"}, {"x", "y"})
     assert out == ("See [a](x.md), [b](../articles/y.md#s), [c](x.md) "
                    "and [d](../topics/t.md)."), out
+    t = ("[P](https://fi.wikipedia.org/wiki/P) <!-- red link: P -->, "
+         "[Q](https://fi.wikipedia.org/wiki/Q) <!-- red link: Q -->")
+    out = relink_red(t, {"p": "p-page"})
+    assert out == ("[P](../pages/p-page.md), "
+                   "[Q](https://fi.wikipedia.org/wiki/Q) <!-- red link: Q -->"), out
     print("apowiki_land: selftest ok")
     return 0
 
