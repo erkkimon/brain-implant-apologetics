@@ -4,7 +4,7 @@ about: apologetics
 title: "Alkuhistorianäkemykset"
 description: "Alkuhistorianäkemykset ovat käsityksiä siitä, mitä on tapahtunut ennen kuin kukaan meistä ihmisistä oli tarkkailemassa tapahtumia."
 tags: [apowiki, alkuperähypoteesit]
-timestamp: 2026-10-02T04:21:00Z
+timestamp: 2026-10-02T04:54:13Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Alkuhistorianäkemykset".
@@ -58,7 +58,7 @@ Alla olevaan taulukkoon on tiivistetty päänäkemykset:
 [^6]: suppean tulkinnan mukaan
 [^7]: eli *"nuoren Maan kreationismi"* (engl. *Young Earth Creationism*, josta lyh. YEC)
 [^8]: Nämä vuorokaudet ymmärretään siis yleensä kestoltaan aivan nykyisenkaltaisiksi, 24-tuntisiksi vuorokausiksi; tämä ei ole kuitenkaan sinänsä mikään perustava YEC-uskomus, vaan myös ajatuksella, että vuorokautemme ja/tai vuotemme pituus on luomisen jälkeen *jossain määrin* muuttunut, on kannatusta. Olennaista siis on, että luomispäivät olivat *jokseenkin samanmittaisia* kuin nykyvuorokaudet (suurin piirtein arvioiden: yli puolet, alle kaksi nykyvuorokauden pituutta eli yli 12, alle 48 -tuntisia).
-[^9]: heprealaisittain *baramini*t; mahdollinen nykybiologinen vastine: perusryhmä <!-- red link: perusryhmä -->
+[^9]: heprealaisittain *baramini*t; mahdollinen nykybiologinen vastine: [perusryhmä](../pages/perusryhmä.md)
 [^10]: suppean biologisen lajimääritelmän merkityksessä
 [^11]: Maailmankaikkeuden "paikallista aikaa mitaten vanhimpien osien" iästä ja vaiheista on olemassa keskenään kilpailevia YEC-malleja. Luomisen "äskettäisyys" ei siis *välttämättä* koske muuta kuin maanpäällistä historiaa.
 [^12]: eli *"vanhan Maan kreationismi"* (engl. *Old Earth Creationism*, josta lyh. OEC)

@@ -154,6 +154,15 @@ def wiki_url(lang: str, title: str) -> str:
     page, _, frag = t.partition("#")
     return f"https://{lang}.wikipedia.org/wiki/{page}" + (f"#{frag}" if frag else "")
 
+# Interwiki links whose Wikipedia page is a different concept that merely
+# shares the name. ApoWiki's [[wp:perusryhmä]] means the creationist
+# taxonomic unit (baramin), but Finnish Wikipedia's "Perusryhmä" is the
+# fundamental group of algebraic topology. Each entry is listed by hand,
+# verified against the article lead, and points at the page written here.
+WRONG_CONCEPT_INTERWIKI = {
+    "perusryhmä": "perusryhmä",
+}
+
 # Red links that are only misspellings of an article ApoWiki has. A typo is
 # an editorial fix, so each one is listed here by hand rather than guessed
 # by fuzzy matching (which would pair "homologia-argumentti" with
@@ -471,6 +480,10 @@ class Converter:
         # Interwiki: Finnish Wikipedia.
         if target.lower().startswith(("wp:", "w:")):
             page = target.split(":", 1)[1].strip()
+            wrong = WRONG_CONCEPT_INTERWIKI.get(page.lower())
+            if wrong:
+                self.stats["link_wikipedia_wrong_concept"] += 1
+                return f"[{label}](../pages/{wrong}.md)"
             url = wiki_url("fi", page)
             self.stats["link_wikipedia"] += 1
             return f"[{label}]({url})"

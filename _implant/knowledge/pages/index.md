@@ -49,6 +49,12 @@ procedure is [Write a wanted page](../../skills/write-a-wanted-page.md).
 * [Stanley Jaki](stanley-jaki.md): Benedictine priest and physicist,
   historian of science and Christianity.
 
+## Evolution
+
+* [Perusryhmä](perusryhmä.md): the creationist unit of interbreeding species
+  (baramin) by which ApoWiki draws the line between micro- and
+  macroevolution. Finnish Wikipedia's page of that name is topology.
+
 ## The arguments for God
 
 * [Richard Swinburne](richard-swinburne.md): the Oxford philosopher of
