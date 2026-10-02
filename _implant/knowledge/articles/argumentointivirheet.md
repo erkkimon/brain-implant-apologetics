@@ -4,7 +4,7 @@ about: apologetics
 title: "Argumentointivirheet"
 description: "Argumentointivirheet eli perusteluvirheet ovat keskustelutekniikan ja mielipiteen esittämisen virheitä, jotka muodollisesti näyttävät oikeilta, mutta joissa lähemmin tarkasteltuina on joko looginen virhe, ne kohdistuvat johonkin muuhun…"
 tags: [apowiki, argumentointi]
-timestamp: 2026-10-02T04:21:00Z
+timestamp: 2026-10-02T04:40:41Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Argumentointivirheet".
@@ -69,7 +69,7 @@ Jollei tätä tajuta, koko perusteluvirheen käsite menee [sekaisin](https://fi.
   * [Ipse dixit](https://en.wikipedia.org/wiki/Ipse_dixit) <!-- red link: Ipse dixit --> (hän sanoi niin)
   * [Argumentum ad populum](https://en.wikipedia.org/wiki/Argumentum_ad_populum) <!-- red link: Argumentum ad populum --> (suosituimmuuteen vetoaminen)
   * [Argumentum ad hitlerum](https://en.wikipedia.org/wiki/Reductio_ad_Hitlerum) <!-- red link: Argumentum ad hitlerum --> (kompromettointi)
-  * Suutari pysyköön lestissään <!-- red link: Suutari pysyköön lestissään --> (omahyväisyys)
+  * [Suutari pysyköön lestissään](https://en.wikipedia.org/wiki/Ne_supra_crepidam) <!-- red link: Suutari pysyköön lestissään --> (omahyväisyys)
 * [Argumentum ad hominem](argumentum-ad-hominem.md) (henkilökohtaisuuksiin meneminen)
   * [ad hominem abusivis](https://fi.wikipedia.org/wiki/Argumentum_ad_hominem) <!-- red link: ad hominem abusivis --> (loukkaus)
   * [ad hominem circumstantiae](https://fi.wikipedia.org/wiki/Argumentum_ad_hominem) <!-- red link: ad hominem circumstantiae --> (argumentaation asianhaaroihin vetoaminen)
@@ -120,7 +120,7 @@ Jollei tätä tajuta, koko perusteluvirheen käsite menee [sekaisin](https://fi.
 * [Metaforaan vetoaminen](https://fi.wikipedia.org/wiki/Metaforaan_vetoaminen) <!-- red link: Metaforaan vetoaminen -->
 * [Reifikaatio](https://fi.wikipedia.org/wiki/Esineellistäminen) <!-- red link: Reifikaatio --> (abstraktion kohteleminen reaalisena)
 * [Yksikään todellinen skotti](https://fi.wikipedia.org/wiki/Yksikään_todellinen_skotti) <!-- red link: Yksikään todellinen skotti --> (käänteinen kehäpäätelmä)
-* Jos-viina-on <!-- red link: Jos-viina-on --> (kaksoismerkitys)
+* [Jos-viina-on](https://en.wikipedia.org/wiki/If-by-whiskey) <!-- red link: Jos-viina-on --> (kaksoismerkitys)
 * [Virheellinen todistelu](https://fi.wikipedia.org/wiki/Virheellinen_todistelu) <!-- red link: Virheellinen todistelu -->
 
 #### Loogiset argumentointivirheet
@@ -158,9 +158,9 @@ Jollei tätä tajuta, koko perusteluvirheen käsite menee [sekaisin](https://fi.
 #### Syllogismivirheet
 
 * [Dicto simpliciter](https://fi.wikipedia.org/wiki/Dicto_simpliciter) <!-- red link: Dicto simpliciter -->
-  * Virheellinen poikkeuksen kielto <!-- red link: Virheellinen poikkeuksen kielto --> (dicto simpliciter ad dictum secundum quid)
-  * Virheellinen yleistys <!-- red link: Virheellinen yleistys --> (dicto secundum quid ad dictum simpliciter)
-* Virheellinen konjunktio <!-- red link: Virheellinen konjunktio -->
+  * [Virheellinen poikkeuksen kielto](https://en.wikipedia.org/wiki/Accident_(fallacy)) <!-- red link: Virheellinen poikkeuksen kielto --> (dicto simpliciter ad dictum secundum quid)
+  * [Virheellinen yleistys](https://en.wikipedia.org/wiki/Converse_accident) <!-- red link: Virheellinen yleistys --> (dicto secundum quid ad dictum simpliciter)
+* [Virheellinen konjunktio](https://en.wikipedia.org/wiki/Conjunction_fallacy) <!-- red link: Virheellinen konjunktio -->
 * [Virheellinen disjunktio](https://en.wikipedia.org/wiki/Affirming_a_disjunct) <!-- red link: Virheellinen disjunktio -->
 * [Kaksoisnegatiivisen premissin virhe](https://en.wikipedia.org/wiki/Fallacy_of_exclusive_premises) <!-- red link: Kaksoisnegatiivisen premissin virhe -->
 * [Eksistentiaalinen virhe](https://en.wikipedia.org/wiki/Existential_fallacy) <!-- red link: Eksistentiaalinen virhe -->
@@ -182,7 +182,7 @@ Jollei tätä tajuta, koko perusteluvirheen käsite menee [sekaisin](https://fi.
 
 * [Vinoutunut otos](https://fi.wikipedia.org/wiki/Vinoutunut_otos) <!-- red link: Vinoutunut otos -->
 * [Hätäinen yleistys](https://fi.wikipedia.org/wiki/Hätäinen_yleistys) <!-- red link: Hätäinen yleistys -->
-* Vinoutunut poikkeus <!-- red link: Vinoutunut poikkeus -->
+* [Vinoutunut poikkeus](https://en.wikipedia.org/wiki/Overwhelming_exception) <!-- red link: Vinoutunut poikkeus -->
 * [Tilaston virhetulkinta](https://en.wikipedia.org/wiki/Misuse_of_statistics) <!-- red link: Tilaston virhetulkinta -->
 * [Pelurin virhepäätelmä](https://fi.wikipedia.org/wiki/Pelurin_virhepäätelmä) <!-- red link: Pelurin virhepäätelmä -->
 * [Vinoutunut lähdeaineisto](https://en.wikipedia.org/wiki/Cherry_picking) <!-- red link: Vinoutunut lähdeaineisto -->
