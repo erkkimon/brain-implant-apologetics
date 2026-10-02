@@ -361,7 +361,10 @@ class Converter:
     def resolve_title(self, target: str) -> str | None:
         """Follow redirects to a title that has an article, or None."""
         seen = set()
-        cur = target
+        # MediaWiki decodes character entities in a title, so
+        # "Evoluutio &ndash; kriittinen analyysi (kirja)" (evoluution-
+        # määritelmä) named the same page as the one with a literal dash.
+        cur = html.unescape(target)
         for _ in range(10):
             # Strip the invisible marks that pasted titles carry (U+200E LRM
             # and friends), and treat underscores as spaces, as MediaWiki does.
