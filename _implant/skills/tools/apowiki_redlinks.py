@@ -31,6 +31,7 @@ existing decisions untouched.
 from __future__ import annotations
 
 import argparse
+import html
 import json
 import re
 import time
@@ -51,6 +52,12 @@ NOT_A_SUBJECT = re.compile(r"^(?:user|käyttäjä|template|malline|special|toimi
 def clean(target: str) -> str:
     t = re.sub(r"[\u200b-\u200f\u202a-\u202e\ufeff]", "", target)
     t = t.replace("_", " ").split("#", 1)[0].strip().lstrip(":").strip()
+    # ApoWiki names its book pages "Title (kirja)"; Wikipedia's article on
+    # the same book is plain "Title". Some titles carry HTML entities
+    # ("Evoluutio &ndash; kriittinen analyysi"). Both hid four books whose
+    # Finnish Wikipedia pages exist (2026-10-02).
+    t = html.unescape(t)
+    t = re.sub(r"\s*\(kirja\)$", "", t)
     return t[:1].upper() + t[1:]
 
 

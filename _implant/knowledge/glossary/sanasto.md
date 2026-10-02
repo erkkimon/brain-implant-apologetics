@@ -4,7 +4,7 @@ about: apologetics
 title: "Sanasto — ApoWikin virallinen sanasto"
 description: "ApoWiki's official Finnish glossary: 413 terms with the definitions ApoWiki articles use them in, struck-through senses marked as usage ApoWiki avoids. The fixed term list for translation."
 tags: [apowiki, glossary, sanasto, terminology, translation]
-timestamp: 2026-10-02T02:00:00Z
+timestamp: 2026-10-02T08:00:00Z
 half_life: 0
 ---
 <!--
@@ -106,6 +106,8 @@ English: **abiogenesis**
 
 ### ad hoc
 
+English: **ad hoc**
+
 - [ad hoc -hypoteesi](#ad-hoc-hypoteesi)
 - sanan mukaisesti "tätä (tarkoitusta, tehtävää) varten" ([lat.](https://fi.wikipedia.org/wiki/latina))
 - varta vasten
@@ -153,6 +155,8 @@ English: **agnosticism**
 <a id="agnostismi"></a>
 
 ### agnostismi
+
+English: **agnosticism**
 
 - väite, jonka mukaan ei ole mahdollista tietää, onko olemassa [yliluonnollisia olentoja](#yliluonnollinen-olento)
 - käsitys, jonka mukaan jumalan olemassaoloa koskevia väitteitä on mahdotonta perustella
@@ -227,6 +231,8 @@ English: **actual**
 
 ### alleeli
 
+English: **allele**
+
 - yksittäisen [geenin](#geeni) vaihtoehtoinen muoto, joilla on [kromosomissa](#kromosomi) tai [plasmidissa](#plasmidi) tälle geenille ominainen [lokus](#lokus) eli paikka
 
 <a id="aminohappo"></a>
@@ -257,12 +263,16 @@ English: **analogy**
 
 ### anarkia
 
+English: **anarchy**
+
 - hallituksettomuus
 - sekasorto
 
 <a id="anarkismi"></a>
 
 ### anarkismi
+
+English: **anarchism**
 
 - kaikkea hallitus- ja valtiovaltaa vastustava ajatussuunta
 
@@ -418,6 +428,8 @@ English: **atheism**
 <a id="auktoriteetti"></a>
 
 ### auktoriteetti
+
+English: **authority**
 
 - tiedon lähde, johon luotetaan tämän erityisaseman takia
 - arvostettu ja käskyvaltainen henkilö
@@ -977,6 +989,8 @@ English: **frequency**
 
 ### fysikaalinen
 
+English: **physical**
+
 - fysiikkaan palautuva
 - fysiikkaan perustuva
 
@@ -991,6 +1005,8 @@ English: **frequency**
 <a id="geeni"></a>
 
 ### geeni
+
+English: **gene**
 
 - perintötekijä
 - perinnöllisyyden perusyksikkö
@@ -1175,6 +1191,8 @@ English: **illusion**
 
 ### implisiittinen
 
+English: **implicit**
+
 - pääteltävissä oleva
 - epäsuorasti ilmaistu
 - johonkin sisältyvä
@@ -1182,6 +1200,8 @@ English: **illusion**
 <a id="implisiittinen-ateismi"></a>
 
 ### implisiittinen ateismi
+
+English: **implicit atheism**
 
 - jumalia koskevan uskomuksen puutetta vailla tietoista ymmärrystä siitä, että se puuttuu
 - Implisiittisen ateistin ajatusmaailmassa ei ole olemassa mitään sellaista käsitettä kuin 'jumala', eikä hän voi väittää sen enempää "jumalia on" kuin että niitä ei ole.
@@ -1445,6 +1465,8 @@ English: **canon**
 <a id="kommentaari"></a>
 
 ### kommentaari
+
+English: **commentary**
 
 - järjestelmällisesti etenevä selitysteos
 - jonkin tekstin taustoja tai kontekstia järjestelmällisesti selvittävä teos
@@ -1773,6 +1795,8 @@ English: **metaphysics**
 
 ### metafyysinen
 
+English: **metaphysical**
+
 - [metafysiikkaan](#metafysiikka) kuuluva tai liittyvä
 
 <a id="metafyysinen-luoja"></a>
@@ -1854,6 +1878,8 @@ English: **mutation**
 
 ### myytti
 
+English: **myth**
+
 - tarina tai uskomus, joka selittää asioita, joista ei ole ensikäden tietoa, tai joiden paikkansapitävyyttä ei voida todistaa
 
 <a id="määritys"></a>
@@ -1900,6 +1926,8 @@ English: **negative atheism**
 <a id="nihilismi"></a>
 
 ### nihilismi
+
+English: **nihilism**
 
 - kaikki tai useammat arvot kieltävä ajatussuunta
 
@@ -2012,6 +2040,8 @@ English: **ontology**
 <a id="ortodoksia"></a>
 
 ### ortodoksia
+
+English: **orthodoxy**
 
 - oikeaoppisuus
 - ortodoksisuus
@@ -2150,6 +2180,8 @@ English: **positive atheism**
 
 ### positivismi
 
+English: **positivism**
+
 - käsitys jonka mukaan tieto voi perustua vain havaintokokemuksiin
 
 <a id="postuloida"></a>
@@ -2200,6 +2232,8 @@ English: **premise**
 <a id="professori"></a>
 
 ### professori
+
+English: **professor**
 
 - yliopiston korkein opetus- ja tutkimustehtävä
 - yliopiston korkein arvonimi
@@ -2319,6 +2353,8 @@ English: **Q source**
 <a id="rationaalinen"></a>
 
 ### rationaalinen
+
+English: **rational**
 
 - [järjellinen](#järjellinen), järjenmukainen
 - järkeen ja tiedostettuun päättelyyn perustuva
@@ -2450,6 +2486,8 @@ English: **chance origin**
 
 ### satunnaisuus
 
+English: **randomness**
+
 - tilastollista lakia noudattava ennustamattomuus
 
 <a id="sauvasolu"></a>
@@ -2462,6 +2500,8 @@ English: **chance origin**
 <a id="sekulaari"></a>
 
 ### sekulaari
+
+English: **secular**
 
 - ei-uskonnollinen
 - maallinen
@@ -2500,6 +2540,8 @@ English: **explanatory filter**
 
 ### solu
 
+English: **cell**
+
 - kaikkien elävien organismien rakenteellinen ja toiminnallinen perusyksikkö
 - itsensä kopioimiseen kykenevä [orgaanisista yhdisteistä](#orgaaninen-yhdiste) muodostunut kokonaisuus, jota ympäröi [lipidien](#lipidi) muodostama [solukalvo](#solukalvo) ja jossa on aineenvaihdunnan ja rakentumisen kannalta tarpeellinen [proteiinikoneisto](#proteiini) ja [geneettinen materiaali](#geneettinen-materiaali)
 
@@ -2512,6 +2554,8 @@ English: **explanatory filter**
 <a id="spekulaatio"></a>
 
 ### spekulaatio
+
+English: **speculation**
 
 - kuvitteleva pohdinta
 - oletusten pohjalta lähtevä mahdollisuuksien kehittely
@@ -2666,6 +2710,8 @@ English: **Synoptic Gospels**
 <a id="systemaattinen"></a>
 
 ### systemaattinen
+
+English: **systematic**
 
 - järjestelmällinen
 
@@ -2899,6 +2945,8 @@ English: **specified complexity**
 
 ### vakaumus
 
+English: **conviction**
+
 - vakaa käsitys jostakin perustavanlaatuisesta asiasta
 
 <a id="valtatraditio"></a>
@@ -2984,6 +3032,8 @@ English: **variation**
 <a id="verkkokalvo"></a>
 
 ### verkkokalvo
+
+English: **retina**
 
 - silmän aistiva osa
 

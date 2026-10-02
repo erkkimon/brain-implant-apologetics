@@ -4,7 +4,7 @@ about: apologetics
 title: "Evoluution määritelmä"
 description: "Tämä artikkeli käsittelee \"evoluutio\"-termin erilaisia määritelmiä."
 tags: [apowiki, evoluutioteoria]
-timestamp: 2026-10-02T07:00:00Z
+timestamp: 2026-10-02T08:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Evoluution määritelmä".
@@ -47,7 +47,7 @@ Kun lukija kohtaa termin "evoluutio" hänen olisikin syytä kysyä itseltään, 
 
 ### Termit "mikroevoluutio" ja "makroevoluutio"
 
-Evoluutioteorian kritiikissä on monesti tehty käsitteellinen jako mikro- ja markoevoluutioon. Näiden käsitteiden käyttö keskustelussa on käytännössä kuitenkin ongelmallista, koska yleensä on vaikea saavuttaa yksimielisyyttä näiden [termien](../glossary/sanasto.md#termi) määritelmistä. Mikroevoluutiolla tarkoitetaan pientä muuntelua, kun taas makroevoluutiolla jotakin suurempaa. Termien tarkoituksena on määrittää muuntelun mahdollisuudet ja rajat. Esimerkiksi Evoluutio – kriittinen analyysi <!-- red link: Evoluutio – kriittinen analyysi (kirja) --> (myöhemmin: "E-ka") antaa termeille määritelmät:
+Evoluutioteorian kritiikissä on monesti tehty käsitteellinen jako mikro- ja markoevoluutioon. Näiden käsitteiden käyttö keskustelussa on käytännössä kuitenkin ongelmallista, koska yleensä on vaikea saavuttaa yksimielisyyttä näiden [termien](../glossary/sanasto.md#termi) määritelmistä. Mikroevoluutiolla tarkoitetaan pientä muuntelua, kun taas makroevoluutiolla jotakin suurempaa. Termien tarkoituksena on määrittää muuntelun mahdollisuudet ja rajat. Esimerkiksi [Evoluutio – kriittinen analyysi](https://fi.wikipedia.org/wiki/Evoluutio_–_kriittinen_analyysi) <!-- red link: Evoluutio – kriittinen analyysi (kirja) --> (myöhemmin: "E-ka") antaa termeille määritelmät:
 
 |  |
 |---|
