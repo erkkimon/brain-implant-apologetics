@@ -4,7 +4,7 @@ about: apologetics
 title: "Bayesin teoreema"
 description: "Bayesin teoreema (myös Bayesin sääntö tai Bayesin laki) on ehdolliseen todennäköisyyteen liittyvä teoreema."
 tags: [apowiki, tieteenfilosofia]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T09:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Bayesin teoreema".
@@ -107,31 +107,30 @@ Tässä osiossa pureudutaan kaavamuodossa esitetyn Bayesin teoreeman yksityiskoh
 Bayesin teoreeman mielekkäiden käyttötapojen ymmärtämisen lähtökohtana on itse kaavan hahmottaminen. Tämä ei näköjään välttämättä ole kovinkaan helppoa, kuten seuraava esimerkkiparikin osoittanee.[^15]
 
 ##### Englanninkielisen Wikipedia-artikkelin *Simple statement of theorem* -osio
-{{Malline:quotation|
-Bayes gave a special case involving [continuous](http://en.wikipedia.org/wiki/Continuous_probability_distribution) prior and posterior probability distributions and [discrete probability distributions](http://en.wikipedia.org/wiki/Discrete_probability_distribution) of data, but in its simplest setting involving only discrete distributions, Bayes' theorem relates the [conditional](http://en.wikipedia.org/wiki/Conditional_probability) and [marginal](http://en.wikipedia.org/wiki/Marginal_probability) probabilities of events *A* and *B*, where *B* has a non-vanishing probability:
 
-> <math>P(A|B) = \frac{P(B | A)\, P(A)}{P(B)}\,\! </math>.
-
-Each term in Bayes' theorem has a conventional name:
-* P(*A*) is the [prior probability](http://en.wikipedia.org/wiki/Prior_probability) or [marginal probability](http://en.wikipedia.org/wiki/Marginal_probability) of *A*. It is "prior" in the sense that it does not take into account any information about *B*.
-* P(*A**'B*) is the [conditional probability](http://en.wikipedia.org/wiki/Conditional_probability) of *A*, given *B*. It is also called the [posterior probability](http://en.wikipedia.org/wiki/Posterior_probability) because it is derived from or depends upon the specified value of *B*.
-* P(*B**'A*) is the conditional probability of *B* given *A*.
-* P(*B*) is the prior or marginal probability of *B*, and acts as a [normalizing constant](http://en.wikipedia.org/wiki/Normalizing_constant).
-
-Bayes' theorem in this form gives a mathematical representation of how the conditional probability of event *A* given *B* is related to the converse conditional probability of *B* given *A*.}}
+> Bayes gave a special case involving [continuous](http://en.wikipedia.org/wiki/Continuous_probability_distribution) prior and posterior probability distributions and [discrete probability distributions](http://en.wikipedia.org/wiki/Discrete_probability_distribution) of data, but in its simplest setting involving only discrete distributions, Bayes' theorem relates the [conditional](http://en.wikipedia.org/wiki/Conditional_probability) and [marginal](http://en.wikipedia.org/wiki/Marginal_probability) probabilities of events *A* and *B*, where *B* has a non-vanishing probability:
+>
+> :<math>P(A|B) = \frac{P(B | A)\, P(A)}{P(B)}\,\! </math>.
+>
+> Each term in Bayes' theorem has a conventional name:
+> * P(*A*) is the [prior probability](http://en.wikipedia.org/wiki/Prior_probability) or [marginal probability](http://en.wikipedia.org/wiki/Marginal_probability) of *A*. It is "prior" in the sense that it does not take into account any information about *B*.
+> * P(*A**'B*) is the [conditional probability](http://en.wikipedia.org/wiki/Conditional_probability) of *A*, given *B*. It is also called the [posterior probability](http://en.wikipedia.org/wiki/Posterior_probability) because it is derived from or depends upon the specified value of *B*.
+> * P(*B**'A*) is the conditional probability of *B* given *A*.
+> * P(*B*) is the prior or marginal probability of *B*, and acts as a [normalizing constant](http://en.wikipedia.org/wiki/Normalizing_constant).
+>
+> Bayes' theorem in this form gives a mathematical representation of how the conditional probability of event *A* given *B* is related to the converse conditional probability of *B* given *A*.
 
 ##### Suomenkielisen Wikipedia-artikkelin *Teoreeman esittely* -osio
-{{Malline:Quotation|
-Tapahtuman *A* todennäköisyys ehdolla *B* (merkitään P(AB)) on yleisessä tapauksessa eri asia kuin todennäköisyys tapahtumalle *B* ehdolla *A* (merkitään P(BA)). Näiden kahden ehdollisen todennäköisyyden välillä on kuitenkin suhde, jota Bayesin teoreema kuvaa. Teoreema kuuluu seuraavasti:
 
-> <math>P(B | A) = \frac{P(A | B)\;P(B)}{P(A)}\!</math>
-
-missä
-* <math>P(A)\,</math> on *A*:n priori-todennäköisyys. Se ei riipu *B*:stä (jota joskus kutsutaan havainnoksi).
-* <math>P(A \mid B)</math> on *A*:n todennäköisyys ehdolla *B*. Tätä kutsutaan myös posterioritodennäköisyydeksi.
-* <math>P(B \mid A)</math> on *B*:n todennäköisyys ehdolla *A*.
-* <math>P(B)\,</math> on B:n priori-todennäköisyys.
-}}
+> Tapahtuman *A* todennäköisyys ehdolla *B* (merkitään P(AB)) on yleisessä tapauksessa eri asia kuin todennäköisyys tapahtumalle *B* ehdolla *A* (merkitään P(BA)). Näiden kahden ehdollisen todennäköisyyden välillä on kuitenkin suhde, jota Bayesin teoreema kuvaa. Teoreema kuuluu seuraavasti:
+>
+> :<math>P(B | A) = \frac{P(A | B)\;P(B)}{P(A)}\!</math>
+>
+> missä
+> * <math>P(A)\,</math> on *A*:n priori-todennäköisyys. Se ei riipu *B*:stä (jota joskus kutsutaan havainnoksi).
+> * <math>P(A \mid B)</math> on *A*:n todennäköisyys ehdolla *B*. Tätä kutsutaan myös posterioritodennäköisyydeksi.
+> * <math>P(B \mid A)</math> on *B*:n todennäköisyys ehdolla *A*.
+> * <math>P(B)\,</math> on B:n priori-todennäköisyys.
 
 ##### Vertailevaa kommentointia
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Muotokritiikki"
 description: "Muotokritiikki on yksi historiallis-kriittisen raamattututkimuksen tutkimusmenetelmistä."
 tags: [apowiki, raamattu, historia, eksegetiikka]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T09:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Muotokritiikki".
@@ -49,7 +49,7 @@ Ninehamin mukaan on mahdollista päätellä, että silminnäkijöillä ei ollut 
 
 T. Francis Glasson antaa esimerkin siitä, miten ihmiset omaksuvat kertomuksissaan samanlaisen pelkistetyn muodon, mikä on ominaista evankeliumien kertomuksille:
 
-{{sitaatti|Sain kirjeen kuuluisalta kapellimestarilta Sir Adrian Boultilta, jossa hän kertoo omasta kokemuksestaan. Voimme kutsua hänen kertomustaan opetuskertomukseksi. Se alkaa: ”Olin kerran johtamassa harjoituksia, kun yksi puhallinsoittajista, jonka tiedettiin nauttivan ryyppäämisestä, alkoi yskiä - -.” Ei ole tarpeellista kertoa koko kertomusta. Se koostuu vain neljästä lauseesta ja on huomattava, ettei siinä mainita päivämäärää, paikkaa, ihmisen nimeä tai soitetun kappaleen nimeä. Ei edes mainita tarkemmin, mitä puhallinsoitinta kyseinen henkilö soitti. Tämä yksityiskohtien puute ei johdu siitä, että kyseiset yksityiskohdat olisivat hävinneet vuosikymmenten aikana suullisen perinteen siirtymisen myötä, vaan siitä, etteivät ne ole tärkeitä kertomuksen pääasian kannalta. - - Sir Adrian kertoo tapahtumasta, jossa hän oli itse läsnä ja johon hän itse osallistui.[^6]
+> Sain kirjeen kuuluisalta kapellimestarilta Sir Adrian Boultilta, jossa hän kertoo omasta kokemuksestaan. Voimme kutsua hänen kertomustaan opetuskertomukseksi. Se alkaa: ”Olin kerran johtamassa harjoituksia, kun yksi puhallinsoittajista, jonka tiedettiin nauttivan ryyppäämisestä, alkoi yskiä - -.” Ei ole tarpeellista kertoa koko kertomusta. Se koostuu vain neljästä lauseesta ja on huomattava, ettei siinä mainita päivämäärää, paikkaa, ihmisen nimeä tai soitetun kappaleen nimeä. Ei edes mainita tarkemmin, mitä puhallinsoitinta kyseinen henkilö soitti. Tämä yksityiskohtien puute ei johdu siitä, että kyseiset yksityiskohdat olisivat hävinneet vuosikymmenten aikana suullisen perinteen siirtymisen myötä, vaan siitä, etteivät ne ole tärkeitä kertomuksen pääasian kannalta. - - Sir Adrian kertoo tapahtumasta, jossa hän oli itse läsnä ja johon hän itse osallistui.[^6]
 
 Glassonin päättely perustuu tavalliseen kokemukseen, ja siihen on tärkeä kiinnittää huomiota, koska oppineet tutkijat näyttävät usein kadottavan yhteyden tavalliseen kokemukseen pohtiessaan sellaisia teknisiä yksityiskohtia kuin evankeliumien perikooppien luokittelua niiden muotojen perusteella. Tämä Glassonin tavalliseen kokemukseen perustuva esimerkki saa tukea muistitutkimuksesta, kuten Bauckham yksityiskohtaisesti osoittaa[^7]. Kertomusten muokkautuminen tiettyjen muotojen mukaiseksi tapahtuu jo ennen kuin silminnäkijä ensimmäisen kerran kertoo kokemuksistaan. Kertomuksen muoto virtaviivaistuu edelleen, kun silminnäkijä kertoo useita kertoja kokemuksistaan. Hän oppii tiivistämään kokemuksensa yhä paremmin kuulijoille helposti ymmärrettävään muotoon. Muodon kehittymisen prosessi on hyvin nopea ja se tapahtuu silminnäkijän kertoessa kertomustaan yhä uusille kuulijoille, kuten tapahtui evankeliumien silminnäkijöiden kohdalla, jotka olivat samalla evankeliumin julistajia.
 

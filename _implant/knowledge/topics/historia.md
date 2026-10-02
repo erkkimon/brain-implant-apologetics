@@ -4,7 +4,7 @@ about: apologetics
 title: "Historia"
 description: "37 ApoWiki-artikkelia aihepiiristä historia — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, historia]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-02T09:00:00Z
 ---
 
 # Historia
@@ -22,7 +22,7 @@ Aihepiirin historia artikkelit, tuotu [ApoWikistä](https://apowiki.fi). Luettel
 * [Dekonstruktio (raamatuntutkimus)](../articles/dekonstruktio-raamatuntutkimus.md) — Dekonstruktiivinen lähestymistapa perustuu erityisesti ranskalaisen Jacques Derridan (1930-2004) ajatteluun.
 * [Ensimmäinen kuninkaiden kirja](../articles/ensimmäinen-kuninkaiden-kirja.md) — Keväällä 1993 Helsingin Sanomat julkaisi artikkelin, joka oli otsikoitu näin: ”Amerikkalaistutkijan mukaan iso osa Vanhasta testamentista on satua”.
 * [Heettiläiset](../articles/heettiläiset.md) — Naturalistiset raamattukriitikot pitivät 1800-luvulla yleisesti virheenä Raamatun mainintaa heettiläisistä.
-* [Jaripekka Juhala: Jeesuksen ylösnousemus historiantutkijoiden mukaan](../articles/jaripekka-juhala-jeesuksen-ylösnousemus-historiantutkijoiden-mukaan.md) — __NOTOC__ Jeesuksen ylösnousemuksen varassa kristinusko joko seisoo tai kaatuu.
+* [Jaripekka Juhala: Jeesuksen ylösnousemus historiantutkijoiden mukaan](../articles/jaripekka-juhala-jeesuksen-ylösnousemus-historiantutkijoiden-mukaan.md) — Jeesuksen ylösnousemuksen varassa kristinusko joko seisoo tai kaatuu.
 * [Jeesuksen ajan maailma](../articles/jeesuksen-ajan-maailma.md) — Jeesus eli Rooman valtakunnassa noin vuosina 5 eKr.
 * [Jeesuksen historiallisuus](../articles/jeesuksen-historiallisuus.md) — Jeesus Nasaretilaisen olemassaolon kieltäminen on yleinen ja muodikas tapa leimata kristinusko naurettavaksi.
 * [Jeesuksen ylösnousemus](../articles/jeesuksen-ylösnousemus.md) — Kristinusko poikkeaa siten muista uskonnoista, että se perustuu olennaisesti historialliseen tapahtumaan, Jeesuksen ylösnousemukseen.

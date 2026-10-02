@@ -4,7 +4,7 @@ about: apologetics
 title: "Jumala"
 description: "20 ApoWiki-artikkelia aihepiiristä jumala — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, jumala]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T09:00:00Z
 ---
 
 # Jumala
@@ -25,7 +25,7 @@ Aihepiirin jumala artikkelit, tuotu [ApoWikistä](https://apowiki.fi). Luettelo 
 * [Jumala](../articles/jumala.md) — Sanalla jumala voidaan viitata monenlaisiin yliluonnollisiin olentoihin, ja esimerkiksi hindulaisuudessa on monia jumalia, mutta ei persoonallista….
 * [Jumala ja ääretön](../articles/jumala-ja-ääretön.md) — Klassiseen kristinuskoon kuuluva tunnustautuminen Jumalan äärettömyyteen on saanut niinikään klassisen ilmauksensa jo vanhalla ajalla Athanasioksen….
 * [Jumalan hyvyys](../articles/jumalan-hyvyys.md) — Raamatun mukaan vain Jumala on hyvä.
-* [Jumalan kaikkivoipuus](../articles/jumalan-kaikkivoipuus.md) — __NOTOC__ Kristillisessä teismissä uskotaan yleisesti kaikkivaltiuden olevan yksi Jumalan ominaisuuksista.
+* [Jumalan kaikkivoipuus](../articles/jumalan-kaikkivoipuus.md) — Kristillisessä teismissä uskotaan yleisesti kaikkivaltiuden olevan yksi Jumalan ominaisuuksista.
 * [Jumalan olemassaolo](../articles/jumalan-olemassaolo.md) — Jumalan olemassaoloa ei voida koskaan todistaa aukottomasti.
 * [Jumalharha (kirja)](../articles/jumalharha-kirja.md) — Jumalharha (The God Delusion, 2006) on uusateismin huomattavimman saarnamiehen Richard Dawkinsin kirjoittama uskontokriittinen kirja, jossa Dawkins….
 * [Luonnollinen Jumalatieto](../articles/luonnollinen-jumalatieto.md) — Ateistinen uskontotieteilijä Jesse Bering kertoo kirjassaan Jumalvaisto (The God Instinct, 2011), kuinka hän seitsemän vuotta vanhana oli rikkonut….

@@ -4,7 +4,7 @@ about: apologetics
 title: "Muut"
 description: "24 ApoWiki-artikkelia aihepiiristä muut — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, muut]
-timestamp: 2026-10-01T18:00:00Z
+timestamp: 2026-10-02T09:00:00Z
 ---
 
 # Muut
@@ -34,6 +34,6 @@ Aihepiirin muut artikkelit, tuotu [ApoWikistä](https://apowiki.fi). Luettelo on
 * [The Two Babylons (kirja)](../articles/the-two-babylons-kirja.md) — The Two Babylons: The Papal Worship Proved to Be the Worship of Nimrod and His Wife on Alexander Hislopin (1807–1862) vuonna 1858 julkaisema teos,….
 * [Umpilisäke](../articles/umpilisäke.md) — Ihmisen umpilisäke on tunnetuimpia esimerkkejä polveutumisopin todisteena pidetystä surkastumasta.
 * [Usko ja järki](../articles/usko-ja-järki.md) — Usko ja järki ovat kaksi asiaa, joille käsitykset todellisuudesta voivat perustua.
-* [Videot](../articles/videot.md) — __NOTOC__ The Case for Christ, Lee Strobelin dokumentti Jeesuksen olemassaolon ja ylösnousemuksen historiallisista todisteista.
+* [Videot](../articles/videot.md) — The Case for Christ, Lee Strobelin dokumentti Jeesuksen olemassaolon ja ylösnousemuksen historiallisista todisteista.
 * [Ylösnousseen seuraajina (kirja)](../articles/ylösnousseen-seuraajina-kirja.md) — Ylösnousseen seuraajina on Tapio Puolimatkan kirjoittama kirja, joka analysoi kristillistä ylösnousemususkoa ja sen kulttuurista vaikutusta.
 * [Zeitgeist](../articles/zeitgeist.md) — Zeitgeist on Peter Josephin tuottama propagandistinen dokumenttielokuva, joka julkaistiin alunperin Google Videos -palvelussa vuonna 2007.

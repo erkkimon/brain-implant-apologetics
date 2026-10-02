@@ -4,7 +4,7 @@ about: apologetics
 title: "Jeesus"
 description: "16 ApoWiki-artikkelia aihepiiristä jeesus — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, jeesus]
-timestamp: 2026-09-25T23:30:00Z
+timestamp: 2026-10-02T09:00:00Z
 ---
 
 # Jeesus
@@ -14,7 +14,7 @@ Aihepiirin jeesus artikkelit, tuotu [ApoWikistä](https://apowiki.fi). Luettelo 
 ## Artikkelit (16)
 
 * [A.D. 30 (kirja)](../articles/ad-30-kirja.md) — A.D.
-* [Jaripekka Juhala: Jeesuksen ylösnousemus historiantutkijoiden mukaan](../articles/jaripekka-juhala-jeesuksen-ylösnousemus-historiantutkijoiden-mukaan.md) — __NOTOC__ Jeesuksen ylösnousemuksen varassa kristinusko joko seisoo tai kaatuu.
+* [Jaripekka Juhala: Jeesuksen ylösnousemus historiantutkijoiden mukaan](../articles/jaripekka-juhala-jeesuksen-ylösnousemus-historiantutkijoiden-mukaan.md) — Jeesuksen ylösnousemuksen varassa kristinusko joko seisoo tai kaatuu.
 * [Jeesuksen ajan maailma](../articles/jeesuksen-ajan-maailma.md) — Jeesus eli Rooman valtakunnassa noin vuosina 5 eKr.
 * [Jeesuksen historiallisuus](../articles/jeesuksen-historiallisuus.md) — Jeesus Nasaretilaisen olemassaolon kieltäminen on yleinen ja muodikas tapa leimata kristinusko naurettavaksi.
 * [Jeesuksen ylösnousemus](../articles/jeesuksen-ylösnousemus.md) — Kristinusko poikkeaa siten muista uskonnoista, että se perustuu olennaisesti historialliseen tapahtumaan, Jeesuksen ylösnousemukseen.

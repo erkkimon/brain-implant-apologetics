@@ -4,7 +4,7 @@ about: apologetics
 title: "Kirjat"
 description: "62 ApoWiki-artikkelia aihepiiristä kirjat — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, kirjat]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T09:00:00Z
 ---
 
 # Kirjat
@@ -59,7 +59,7 @@ Aihepiirin kirjat artikkelit, tuotu [ApoWikistä](https://apowiki.fi). Luettelo 
 * [The Bible, Protestantism, and the Rise of Natural Science (kirja)](../articles/the-bible-protestantism-and-the-rise-of-natural-science-kirja.md) — Oxfordin yliopiston tieteen ja uskonnon Andreas Idreos -professori Peter Harrison argumentoi kirjassaan, että yksi modernin luonnontieteen syntyyn….
 * [The Edge of Evolution (kirja)](../articles/the-edge-of-evolution-kirja.md) — The Edge of Evolution: The Search for the Limits of Darwinism (EOE) on biokemian professori Michael Behen kirjoittama kirja, jossa hän käsittelee….
 * [The Fall of Man and the Foundations of Science (kirja)](../articles/the-fall-of-man-and-the-foundations-of-science-kirja.md) — Tieteenhistorioitsija Peter Harrison osoittaa kirjassaan, että modernin luonnontieteellisen menetelmän kehittämistä ohjasi alun perin kristillinen….
-* [The Mystery of Life’s Origin (kirja)](../articles/the-mystery-of-lifes-origin-kirja.md) — __NOTOC__ Mystery of Life’s Origin: Reassessing Current Theories on Kemisti Charles Thaxtonin, konetekniikan professori Walter Bradleyn ja kemisti….
+* [The Mystery of Life’s Origin (kirja)](../articles/the-mystery-of-lifes-origin-kirja.md) — Mystery of Life’s Origin: Reassessing Current Theories on Kemisti Charles Thaxtonin, konetekniikan professori Walter Bradleyn ja kemisti Roger….
 * [The Myth of Religious Neutrality (kirja)](../articles/the-myth-of-religious-neutrality-kirja.md) — Roy Clouser argumentoi kirjassaan, että tieteellinen ajattelu on aina uskonnollisesti sitoutunutta.
 * [The Nature of Necessity (kirja)](../articles/the-nature-of-necessity-kirja.md) — The Nature of Necessity on Alvin Plantingan vuonna 1974 kirjoittama….
 * [The Privileged Planet (kirja)](../articles/the-privileged-planet-kirja.md) — The Privileged Planet on tähtitieteilijä Guillermo Gonzalezin ja filosofi Jay W.

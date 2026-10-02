@@ -4,7 +4,7 @@ about: apologetics
 title: "Raamattu"
 description: "36 ApoWiki-artikkelia aihepiiristä raamattu — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, raamattu]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-02T09:00:00Z
 ---
 
 # Raamattu
@@ -38,7 +38,7 @@ Aihepiirin raamattu artikkelit, tuotu [ApoWikistä](https://apowiki.fi). Luettel
 * [Raamattua tukevat ulkopuoliset lähteet](../articles/raamattua-tukevat-ulkopuoliset-lähteet.md) — Raamattu on teos, johon on alun perin koottu kaikkein luotettavimmat tekstit Jeesuksesta ja Jumalan toiminnasta.
 * [Raamatun alkukertomuksien luotettavuus](../articles/raamatun-alkukertomuksien-luotettavuus.md) — Tässä tekstissä referoidaan lyhyttä osaa professori K.
 * [Raamatun historiallinen luotettavuus](../articles/raamatun-historiallinen-luotettavuus.md) — Kuva: pienoiskuva Raamattu on sidottu tunnettuihin aikoihin, paikkoihin, hallitsijoihin ja henkilöihin, joista löytyy riittävästi tietoa, jotta….
-* [Raamatun ristiriidat](../articles/raamatun-ristiriidat.md) — __NOTOC__ Raamatussa havaitaan joitain kohtia jotka eivät näytä sopivan hyvin yhteen jonkun toisen kohdan kanssa.
+* [Raamatun ristiriidat](../articles/raamatun-ristiriidat.md) — Raamatussa havaitaan joitain kohtia jotka eivät näytä sopivan hyvin yhteen jonkun toisen kohdan kanssa.
 * [Redaktiokritiikki](../articles/redaktiokritiikki.md) — Redaktiokritiikki yksi historiallis-kriittisen raamatuntutkimuksen metodi.
 * [Sanainspiraatio-oppi](../articles/sanainspiraatio-oppi.md) — Kun puhumme Raamatun luotettavuudesta ja totuudenmukaisuudesta, tarkoitamme sanallisen ilmoituksen luonnetta.
 * [Sosiologinen kritiikki (raamatuntutkimus)](../articles/sosiologinen-kritiikki-raamatuntutkimus.md) — Uuden testamentin tutkimuksessa on viime vuosikymmeninä yhä enemmän alettu soveltaa esimerkiksi sosiokriittistä lähestymistapaa, jossa huomio….

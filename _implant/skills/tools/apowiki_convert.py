@@ -299,6 +299,34 @@ CITATION_FORMATTERS = {
 DROP_TEMPLATES = {"hl2", "viestipohja", "kirja-päivitys", ",", "clear", "-"}
 
 
+
+def _close_open_quotes(text: str) -> str:
+    """Close a {{sitaatti|… that never gets its "}}" at the end of its
+    paragraph. Only an unclosed template is touched: a quote that spans
+    blank lines and closes later (bayesin-teoreema) is left alone."""
+    starts = list(re.finditer(
+        r"\{\{\s*(sitaatti\d?|lainaus|quotation|cquote)\s*\|", text, re.I))
+    for m in reversed(starts):
+        depth, k = 0, m.start()
+        while k < len(text) - 1:
+            two = text[k:k + 2]
+            if two == "{{":
+                depth += 1
+                k += 2
+                continue
+            if two == "}}":
+                depth -= 1
+                k += 2
+                if depth == 0:
+                    break
+                continue
+            k += 1
+        if depth > 0:
+            end = re.compile(r"\n\s*\n").search(text, m.start())
+            cut = end.start() if end else len(text)
+            text = text[:cut] + "}}" + text[cut:]
+    return text
+
 class Converter:
     def __init__(self, stems: dict[str, str], redirects: dict[str, str]):
         self.stems = stems           # title -> stem
@@ -473,17 +501,30 @@ class Converter:
 
     def expand_templates(self, text: str) -> str:
         """Replace {{...}} innermost-first so nesting resolves correctly."""
+        # TeX braces inside <math> are not template braces: "\\frac{1}{2}}"
+        # kept a quote around a formula from ever matching (bayesin-teoreema
+        # until 2026-10-02). Mask the formulas, restore them afterwards.
+        maths: list[str] = []
+
+        def _mask(m: re.Match) -> str:
+            maths.append(m.group(0))
+            return f"\x00MATH{len(maths) - 1}\x00"
+
+        text = re.sub(r"<math>.*?</math>", _mask, text, flags=re.S)
         pattern = re.compile(r"\{\{([^{}]*)\}\}", re.S)
         for _ in range(12):
             new = pattern.sub(self._one_template, text)
             if new == text:
                 break
             text = new
-        return text
+        return re.sub(r"\x00MATH(\d+)\x00", lambda m: maths[int(m.group(1))], text)
 
     def _one_template(self, m: re.Match) -> str:
         raw = m.group(1)
         name = raw.split("|", 1)[0].strip().lower()
+        # "{{Malline:quotation|…}}" names the template with its namespace
+        # (bayesin-teoreema); MediaWiki treats it as plain "quotation".
+        name = re.sub(r"^(malline|template):\s*", "", name)
         f = _fields(raw)
         pos = f.get("_positional", "")
 
@@ -951,6 +992,14 @@ class Converter:
     def convert(self, title: str, wikitext: str, revid: str | None) -> str:
         self.pending_keywords = []
         body = re.sub(r"^<!--.*?-->\s*", "", wikitext, flags=re.S)
+        # Behaviour switches (__NOTOC__, __TOC__ …) steer MediaWiki's own
+        # rendering and are not text; two descriptions began "__NOTOC__"
+        # until 2026-10-02.
+        body = re.sub(r"__[A-ZÄÖ]+__", "", body)
+        # A quote template its author never closed ({{sitaatti|… in
+        # muotokritiikki): MediaWiki shows it as text; close it at the end
+        # of its paragraph so it renders as the quote that was meant.
+        body = _close_open_quotes(body)
         body, cats = self.categories(body)
         body = self.tables(body)
         body, notes = self.extract_refs(body)
