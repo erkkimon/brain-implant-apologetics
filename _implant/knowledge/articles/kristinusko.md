@@ -4,7 +4,7 @@ about: apologetics
 title: "Kristinusko"
 description: "Kristinusko on monoteistinen, maailman suurin uskonto, joka perustuu Raamattuun ja sitä tukeviin todisteisiin."
 tags: [apowiki, maailmankatsomus, yleistä-tietoa]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T14:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kristinusko".
@@ -35,7 +35,7 @@ Kristinuskon historia tunnetaan kirkkohistoriana. Kirkkohistoriasta puhuttaessa 
 ### Kristinuskon sisältö
 
 #### Kristinuskon keskeiset opit
-Kristinusko on uskoa [Jumalaan](jumala.md), joka on kaiken [Luoja](jumala.md) ja jolla on yksi olemus, mutta kolme persoonaa: Isä <!-- red link: Isä -->, [Poika](jeesus-nasaretilainen.md) ja [Pyhä Henki](https://fi.wikipedia.org/wiki/Pyhä_Henki) <!-- red link: Pyhä Henki -->. Kristinuskon pyhä kirja on [Raamattu](raamattu.md), joka jakautuu [Vanhaan testamenttiin](../books/ot.md) ja [Uuteen testamenttiin](uusi-testamentti.md). Raamattu on kristittyjen mukaan on Jumalan sanoma ihmisille ihmisten kautta ilmoitettuna.[^2] Raamatun keskeisenä ideana on, että Jumala loi alussa kaiken hyväksi, mutta ihminen ryhtyi kapinaan Jumalaa vastaan syntiinlankeemuksessa. Tilanteen korjaamiseksi Jumala lähetti Poikansa Jeesuksen Kristuksen samaan aikaan sekä täytenä ihmisenä että täytenä Jumalana kuolemaan koko ihmiskunnan puolesta ristillä sovitusuhrina. Kristinuskon päämääränä on ikuinen elämä Jumalan kanssa. Sen saavuttaminen on mahdollista ainoastaan Jeesuksen kautta:
+Kristinusko on uskoa [Jumalaan](jumala.md), joka on kaiken [Luoja](jumala.md) ja jolla on yksi olemus, mutta kolme persoonaa: [Isä](https://en.wikipedia.org/wiki/God_the_Father) <!-- red link: Isä -->, [Poika](jeesus-nasaretilainen.md) ja [Pyhä Henki](https://fi.wikipedia.org/wiki/Pyhä_Henki) <!-- red link: Pyhä Henki -->. Kristinuskon pyhä kirja on [Raamattu](raamattu.md), joka jakautuu [Vanhaan testamenttiin](../books/ot.md) ja [Uuteen testamenttiin](uusi-testamentti.md). Raamattu on kristittyjen mukaan on Jumalan sanoma ihmisille ihmisten kautta ilmoitettuna.[^2] Raamatun keskeisenä ideana on, että Jumala loi alussa kaiken hyväksi, mutta ihminen ryhtyi kapinaan Jumalaa vastaan syntiinlankeemuksessa. Tilanteen korjaamiseksi Jumala lähetti Poikansa Jeesuksen Kristuksen samaan aikaan sekä täytenä ihmisenä että täytenä Jumalana kuolemaan koko ihmiskunnan puolesta ristillä sovitusuhrina. Kristinuskon päämääränä on ikuinen elämä Jumalan kanssa. Sen saavuttaminen on mahdollista ainoastaan Jeesuksen kautta:
 
 > Jeesus sanoi hänelle: "Minä olen tie ja totuus ja elämä; ei kukaan tule Isän tykö muutoin kuin minun kauttani.
 >

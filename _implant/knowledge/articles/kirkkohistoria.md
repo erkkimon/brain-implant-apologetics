@@ -4,7 +4,7 @@ about: apologetics
 title: "Kirkkohistoria"
 description: "Kirkkohistoria on tutkimusala, jonka tehtävänä on kristinuskon, kirkon ja kristillisten liikkeiden menneisyyden selvittely ja saatujen tulosten tunnetuksi tekeminen."
 tags: [apowiki, historia, keskeneräiset-artikkelit]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T14:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kirkkohistoria".
@@ -118,7 +118,7 @@ Kristillinen kirkko ja [messiaaniset juutalaiset](https://fi.wikipedia.org/wiki/
 Opetuslapset oletetaan useasti 12 apostolin muodostamaksi pieneksi joukoksi. Evankeliumien pohjalta opetuslapsia oli kuitenkin merkittävästi suurempi joukko. Jeesusta ympäröineet sosiologiset ryhmät voidaan jakaa seuraavanlaisiin ryhmiin:
 * Jeesuksen sukulaiset
 * [Apostolit](https://fi.wikipedia.org/wiki/Apostoli) <!-- red link: Apostolit -->
-* Koko ajan mukana olleet opetuslapset <!-- red link: opetuslapset -->
+* Koko ajan mukana olleet [opetuslapset](https://en.wikipedia.org/wiki/Disciple_(Christianity)) <!-- red link: opetuslapset -->
 * Jeesuksen hylänneet opetuslapset
 * Muut [juutalaiset](https://fi.wikipedia.org/wiki/juutalaiset) kuulijat kuten [Israelin](https://fi.wikipedia.org/wiki/Israel) kansa, [saddukeukset](https://fi.wikipedia.org/wiki/Saddukeukset) <!-- red link: saddukeukset --> ja [fariseukset](https://fi.wikipedia.org/wiki/Farisealaiset) <!-- red link: fariseukset -->
 * Muut [pakanakuulijat](https://fi.wikipedia.org/wiki/pakana) kuten [samarialaiset](https://fi.wikipedia.org/wiki/samarialaiset), [kreikkalaiset](https://fi.wikipedia.org/wiki/kreikkalaiset) ja roomalaiset viranomaiset.
