@@ -2,7 +2,7 @@
 type: skill
 title: Translate an article into English
 description: "Use when translating a converted Finnish ApoWiki article into English: a small local model does the prose, ApoWiki's own glossary (Sanasto) fixes the terminology, and deterministic checks (links, footnotes, glossary terms) decide whether a chunk is accepted. Frontier-model tokens are spent only on review."
-timestamp: 2026-10-02T03:30:00Z
+timestamp: 2026-10-02T12:00:00Z
 depends_on: [skills/convert-apowiki-to-articles.md]
 tools:
   - skills/tools/apowiki_glossary.py
@@ -99,6 +99,12 @@ of them. Finnish is matched by word stem, so inflected forms (*naturalismin*,
    `translation failed its checks` are translated by the reviewer. This is
    the only step that spends frontier tokens, and it reads rather than
    writes, which is cheaper.
+   A translation is made from the Finnish page as it was when the run
+   started. If the converter changed that page since (`git diff` the
+   Finnish file from the run's start to now), carry the change over in
+   review. Most such changes are formatting only, such as bullets that
+   gained a space in [2026-10-02's converter
+   fix](../journals/2026-10-02.md); the wording rarely changes.
 6. **Land it:** `python3 skills/tools/apowiki_land.py _temp/translations/X.md …`.
    It copies the pages to `knowledge/en/` under the Finnish file name. It
    points article links at English pages where they exist and at
