@@ -4,7 +4,7 @@ about: apologetics
 title: "A Case of Demonic Possession (artikkeli)"
 description: "Maaliskuussa 2008 New Oxford Review julkaisi lääketieteen tohtori Richard E."
 tags: [apowiki, paranormaalit-ilmiöt, lukusuositukset, riivaus, demonit, demonologia, riivaaminen, eksorkismi, eksorkisti, riivaajien-ulos-ajaminen, manaaminen, julia, a-case-of-demonic-possession, artikkeli, tutkimus]
-timestamp: 2026-10-02T09:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "A Case of Demonic Possession (artikkeli)".

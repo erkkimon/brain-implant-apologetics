@@ -4,7 +4,7 @@ about: apologetics
 title: "Matti Kankaanniemi"
 description: "Kuva: Matti Kankaanniemi vammalassa.jpg Matti Kankaanniemi (TT, KTM) on Åbo Akademin Jeesus-tutkija."
 tags: [apowiki, henkilöt, jeesus, eksegetiikka, tyngät]
-timestamp: 2026-10-02T19:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Matti Kankaanniemi".

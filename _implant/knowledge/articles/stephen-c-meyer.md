@@ -4,7 +4,7 @@ about: apologetics
 title: "Stephen C. Meyer"
 description: "Stephen C. Meyer väitteli tohtoriksi Cambridgen yliopistossa tieteenfilosofiasta."
 tags: [apowiki, henkilöt, filosofia]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Stephen C. Meyer".

@@ -4,7 +4,7 @@ about: apologetics
 title: "Kristinusko"
 description: "Kristinusko on monoteistinen, maailman suurin uskonto, joka perustuu Raamattuun ja sitä tukeviin todisteisiin."
 tags: [apowiki, maailmankatsomus, yleistä-tietoa]
-timestamp: 2026-10-02T14:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kristinusko".

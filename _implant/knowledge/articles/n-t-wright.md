@@ -4,7 +4,7 @@ about: apologetics
 title: "N. T. Wright"
 description: "Nicholas Thomas \"Tom\" Wright (s. 1. joulukuuta 1948) on johtava Uuden testamentin eksegetiikan tutkija, joka toimii Uuden testamentin ja varhaisen kristinuskon tutkijaprofessorina St."
 tags: [apowiki, henkilöt, eksegetiikka]
-timestamp: 2026-10-02T14:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "N. T. Wright".

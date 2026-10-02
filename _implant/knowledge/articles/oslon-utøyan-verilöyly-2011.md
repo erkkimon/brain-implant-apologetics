@@ -4,7 +4,7 @@ about: apologetics
 title: "Oslon-Utøyan verilöyly 2011"
 description: "Norjalainen Anders Behring Breivik nousi yleiseen tietoisuuteen surmaamalla 22.7.2011 Oslossa ja vajaat 40 km siitä luoteeseen sijaitsevalla Utøyan saarella tarkoitushakuisen suunnitelmallisesti ja kylmäverisesti 77 ihmistä, joista räjähtein kahdeksan ja tuliasein 69."
 tags: [apowiki, henkilöt, keskeneräiset-artikkelit]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Oslon-Utøyan verilöyly 2011".

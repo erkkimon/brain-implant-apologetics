@@ -4,7 +4,7 @@ about: apologetics
 title: "Timo Eskola: Vapaa-ajattelun sietämätön keveys"
 description: "Timo Eskola Suomalainen ateismi on nostanut päätään kansainvälisen puhurin jälkimainingeissa niin vahvasti, että luterilaiset piispatkin kiinnittävät siihen jo huomiota."
 tags: [apowiki, vapaa-ajattelu, tekijänoikeuden-alaiset-artikkelit]
-timestamp: 2026-10-02T09:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Timo Eskola: Vapaa-ajattelun sietämätön keveys".

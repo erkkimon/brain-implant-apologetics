@@ -5,7 +5,7 @@ title: "Valokuva Jeesuksesta? (kirja)"
 aliases: ["Valokuva Jeesuksesta?", "Valokuva Jeesuksesta", "Valokuva Jeesuksesta? Torinon käärinliina tieteen, historian ja Uuden testamentin valossa"]
 description: "Valokuva Jeesuksesta? Torinon käärinliina tieteen, historian ja Uuden testamentin valossa (Kirjapaja 2009) on dosentti Juha Hiltusen kirja Torinon käärinliinan historiasta ja tutkimuksesta."
 tags: [kirjat, written-here]
-timestamp: 2026-10-02T18:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Written for this implant, not converted from ApoWiki: ApoWiki lists this

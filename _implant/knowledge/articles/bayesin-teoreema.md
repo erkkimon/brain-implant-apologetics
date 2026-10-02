@@ -4,7 +4,7 @@ about: apologetics
 title: "Bayesin teoreema"
 description: "Bayesin teoreema (myös Bayesin sääntö tai Bayesin laki) on ehdolliseen todennäköisyyteen liittyvä teoreema."
 tags: [apowiki, tieteenfilosofia]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Bayesin teoreema".

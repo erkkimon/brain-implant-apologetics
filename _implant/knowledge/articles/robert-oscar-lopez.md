@@ -4,7 +4,7 @@ about: apologetics
 title: "Robert Oscar Lopez"
 description: "Robert Oscar Lopez (syntynyt 1971) on toiminut englannin kielen ja klassisen kirjallisuuden professorina Kalifornian valtionyliopistossa Northridgessä, Los Angelesissa."
 tags: [apowiki, henkilöt, seksuaalietiikka]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Robert Oscar Lopez".

@@ -4,7 +4,7 @@ about: apologetics
 title: "Maailman ikä – teologinen näkökulma"
 description: "Tämän tekstin tavoite on esitellä ja verrata näkyvän universumin (maailmankaikkeuden) ja maapallon ikää koskevia erilaisia raamatuntulkintoja."
 tags: [apowiki, raamattu, luomisoppi]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Maailman ikä – teologinen näkökulma".

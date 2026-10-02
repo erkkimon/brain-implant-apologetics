@@ -4,7 +4,7 @@ about: apologetics
 title: "Kasvatus, arvot ja tunteet (kirja)"
 description: "Kasvatus, arvot ja tunteet on Tapio Puolimatkan kirjoittama kirja, joka tarkastelee erilaisia tunneteorioita ja niiden maailmankatsomuksellista taustaa, omantunnon eri merkityksiä, tunteiden merkitystä oppimisessa, tieteessä ja yhteiskunnallisissa liikkeissä."
 tags: [apowiki, filosofia, kirjat, tapio-puolimatka]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kasvatus, arvot ja tunteet (kirja)".

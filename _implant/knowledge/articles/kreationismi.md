@@ -4,7 +4,7 @@ about: apologetics
 title: "Kreationismi"
 description: "\"Kreationismi\" on yleisnimitys käsityksille, joiden mukaan havaintotodellisuus (kaikkeus ja sen elolliset olennot) ovat olemassa tarkoituksellisesti luotuina."
 tags: [apowiki, luomisoppi]
-timestamp: 2026-10-02T05:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kreationismi".

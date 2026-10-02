@@ -2,7 +2,7 @@
 type: skill
 title: Translate an article into English
 description: "Use when translating a converted Finnish ApoWiki article into English: a small local model does the prose, ApoWiki's own glossary (Sanasto) fixes the terminology, and deterministic checks (links, footnotes, glossary terms) decide whether a chunk is accepted. Frontier-model tokens are spent only on review."
-timestamp: 2026-10-02T12:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 depends_on: [skills/convert-apowiki-to-articles.md]
 tools:
   - skills/tools/apowiki_glossary.py

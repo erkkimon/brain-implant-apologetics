@@ -4,7 +4,7 @@ about: apologetics
 title: "Sijaissynnytys"
 description: "Sijaissynnytys on yksi avusteinen lisääntymismenetelmä (assisted reproductive technology,ART) Sijaissynnyttäjä (surrogate) saatetaan raskaaksi ja synnytyksen jälkeen hän luovuttaa lapsen aiotuille vanhemmille (intended parents), jotka kasvattavat ja hoitavat lapsen."
 tags: [apowiki, seksuaalietiikka]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Sijaissynnytys".

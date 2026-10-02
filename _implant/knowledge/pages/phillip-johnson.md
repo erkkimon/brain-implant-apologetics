@@ -5,7 +5,7 @@ title: "Phillip Johnson"
 aliases: ["Phillip E. Johnson", "Philip Johnson"]
 description: "Phillip E. Johnson (1940–2019) oli yhdysvaltalainen oikeustieteen professori, Darwin on Trial -kirjan kirjoittaja ja suunnitteluteoriaa ajavan liikkeen johtohahmoja."
 tags: [henkilöt, written-here]
-timestamp: 2026-10-03T00:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Written for this implant, not converted from ApoWiki: ApoWiki links to

@@ -4,7 +4,7 @@ about: apologetics
 title: "Uskonnon olemus, logiikka ja myytit"
 description: "Erästä viimeaikaista uskonrauhan rikkomissyytettä käsitelleeseen juttuun antamassaan ratkaisussa Helsingin käräjäoikeus oli lausunut mm."
 tags: [apowiki, media, maailmankatsomus]
-timestamp: 2026-10-02T05:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Uskonnon olemus, logiikka ja myytit".

@@ -4,7 +4,7 @@ about: apologetics
 title: "Muut"
 description: "24 ApoWiki-artikkelia aihepiiristä muut — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, muut]
-timestamp: 2026-10-02T09:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 
 # Muut

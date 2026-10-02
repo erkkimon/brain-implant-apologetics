@@ -4,7 +4,7 @@ about: apologetics
 title: "Ylösnousseet pyhät Matteuksen evankeliumissa"
 description: "Argumentti menee seuraavaan tapaan: ”Merkittävä ja hämmästyttävä tapahtuma X kuvataan Raamatussa."
 tags: [apowiki, raamattu]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ylösnousseet pyhät Matteuksen evankeliumissa".

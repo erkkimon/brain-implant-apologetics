@@ -4,7 +4,7 @@ about: apologetics
 title: "Tieteisusko"
 description: "Tieteisusko eli skientismi eli tieteisuskovaisuus on epistemologinen käsitys, jonka mukaan vain tieteellinen tieto on luotettavaa tietoa ja tiede pystyy ratkaisemaan kaikki ongelmat."
 tags: [apowiki, maailmankatsomus, lukusuositukset]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tieteisusko".

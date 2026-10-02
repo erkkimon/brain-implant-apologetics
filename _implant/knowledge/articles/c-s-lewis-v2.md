@@ -4,7 +4,7 @@ about: apologetics
 title: "C. S. Lewis"
 description: "Clive Staples Lewis (29. marraskuuta 1898 – 22. marraskuuta 1963) on legendaarisimmaksi tituleerattu kristitty apologeetta."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "C. S. Lewis".

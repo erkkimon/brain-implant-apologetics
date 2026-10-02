@@ -4,7 +4,7 @@ about: apologetics
 title: "Eleonore Stump"
 description: "Eleonore Stump (s. 1947) toimii filosofian professorina St. Louisin yliopistossa."
 tags: [apowiki, henkilöt, filosofia, tyngät]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Eleonore Stump".

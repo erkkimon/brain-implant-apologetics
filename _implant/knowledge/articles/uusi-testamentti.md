@@ -4,7 +4,7 @@ about: apologetics
 title: "Uusi testamentti"
 description: "Uusi testamentti (lyh. UT) on Raamatun, kristinuskon peruskirjan, jälkimmäinen osa."
 tags: [apowiki, raamatun-tekstit]
-timestamp: 2026-10-02T05:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Uusi testamentti".

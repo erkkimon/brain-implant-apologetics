@@ -4,7 +4,7 @@ about: apologetics
 title: "Tieteellinen maailmankatsomus"
 description: "Tieteellistä maailmankatsomusta pidetään usein uskonnollisen ajattelun vastakohtana."
 tags: [apowiki, maailmankatsomus]
-timestamp: 2026-10-02T05:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tieteellinen maailmankatsomus".

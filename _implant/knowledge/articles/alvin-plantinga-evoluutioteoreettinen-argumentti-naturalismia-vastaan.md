@@ -4,7 +4,7 @@ about: apologetics
 title: "Alvin Plantinga: Evoluutioteoreettinen argumentti naturalismia vastaan"
 description: "Esitin evoluutioteoreettisen argumentin naturalismia vastaan ensimmäisen kerran kirjani Warrant and Proper Function viimeisessä luvussa."
 tags: [apowiki, filosofia, naturalismi, argumentit, tekijänoikeuden-alaiset-artikkelit, alvin-plantinga]
-timestamp: 2026-10-02T05:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Alvin Plantinga: Evoluutioteoreettinen argumentti naturalismia vastaan".

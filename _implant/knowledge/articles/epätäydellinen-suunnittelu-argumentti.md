@@ -4,7 +4,7 @@ about: apologetics
 title: "Epätäydellinen suunnittelu (argumentti)"
 description: "Useat biologit antavat ymmärtää, ettei suunnitteluteorian puolesta voida esittää mitään empiiristä näyttöä, mutta voivat jopa samaan hengenvetoon todeta, että biologiassa havaitut epätäydelliset rakenteet tarjoavat suoranaista empiiristä näyttöä suunnittelua vastaan."
 tags: [apowiki, suunnitteluteoria, lukusuositukset]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Epätäydellinen suunnittelu (argumentti)".

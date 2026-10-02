@@ -4,7 +4,7 @@ about: apologetics
 title: "The Edge of Evolution (kirja)"
 description: "The Edge of Evolution: The Search for the Limits of Darwinism (EOE) on biokemian professori Michael Behen kirjoittama kirja, jossa hän käsittelee evoluutiomekanismien empiirisesti todettuja rajoitteita."
 tags: [apowiki, kirjat, suunnitteluteoria, evoluutioteoria]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "The Edge of Evolution (kirja)".

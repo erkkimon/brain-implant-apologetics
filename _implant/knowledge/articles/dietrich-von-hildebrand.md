@@ -4,7 +4,7 @@ about: apologetics
 title: "Dietrich von Hildebrand"
 description: "Dietrich von Hildebrand (12 lokakuuta 1889 - 26 tammikuuta 1977) oli saksalainen kristitty filosofi, jonka ajattelu sijoittuu realistisen fenomenologian perinteeseen."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Dietrich von Hildebrand".

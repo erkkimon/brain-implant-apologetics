@@ -5,7 +5,7 @@ title: "Evolution: A Theory in Crisis (kirja)"
 aliases: ["Evolution: A Theory in Crisis", "A Theory in Crisis"]
 description: "Evolution: A Theory in Crisis (1985) on biokemisti Michael Dentonin kirja, joka arvosteli uusdarwinismia ja vaikutti suunnitteluteorian syntyyn."
 tags: [kirjat, written-here]
-timestamp: 2026-10-02T23:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Written for this implant, not converted from ApoWiki: ApoWiki cites this

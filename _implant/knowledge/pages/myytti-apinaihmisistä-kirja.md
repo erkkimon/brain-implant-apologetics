@@ -5,7 +5,7 @@ title: "Myytti apinaihmisistä (kirja)"
 aliases: ["Myytti apinaihmisistä", "Myytti apinaihmisistä - kiista fossiilien ajoituksesta", "Myytti apinaihmisistä – kiista fossiilien ajoituksesta"]
 description: "Myytti apinaihmisistä – kiista fossiilien ajoituksesta (2005) on Datakirjojen suomennos Marvin L. Lubenow'n hominidifossiileja käsittelevästä kirjasta Bones of Contention (1992)."
 tags: [kirjat, written-here]
-timestamp: 2026-10-02T16:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Written for this implant, not converted from ApoWiki: ApoWiki cites this

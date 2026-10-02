@@ -4,7 +4,7 @@ about: apologetics
 title: "Kirkkohistoria"
 description: "Kirkkohistoria on tutkimusala, jonka tehtävänä on kristinuskon, kirkon ja kristillisten liikkeiden menneisyyden selvittely ja saatujen tulosten tunnetuksi tekeminen."
 tags: [apowiki, historia, keskeneräiset-artikkelit]
-timestamp: 2026-10-02T14:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kirkkohistoria".

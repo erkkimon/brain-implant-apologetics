@@ -4,7 +4,7 @@ about: apologetics
 title: "Kosminen lähiömme"
 description: "Maapallo on erittäin hyvä paikka asua universumissamme. Suurin osa planeetoista on elämälle kelpaamattomia."
 tags: [apowiki, kosmologia, suunnitteluteoria, hienosäätö, astrobiologia, kosminen, paikka, maapallo, linnunrata, kuu, aurinko, antrooppinen-periaate, kosminen-hienosäätö]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kosminen lähiömme".

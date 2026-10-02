@@ -4,7 +4,7 @@ about: apologetics
 title: "Alfred Kinsey"
 description: "Kuva: Alfred Kinsey. Alfred Charles Kinsey 23.6. 1894- 25.8. 1956 oli yhdysvaltalainen hyönteistutkija ja eläintieteen professori."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Alfred Kinsey".

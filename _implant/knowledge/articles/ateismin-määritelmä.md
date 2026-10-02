@@ -4,7 +4,7 @@ about: apologetics
 title: "Ateismin määritelmä"
 description: "Kuvittele, että sinulta kysyttäisiin, uskotko hattivattien olemassaoloon."
 tags: [apowiki, ateismi]
-timestamp: 2026-10-02T14:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ateismin määritelmä".

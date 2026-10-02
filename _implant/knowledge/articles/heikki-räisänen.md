@@ -4,7 +4,7 @@ about: apologetics
 title: "Heikki Räisänen"
 description: "Heikki Martti Räisänen (s. 10. joulukuuta 1941 Helsinki – 30."
 tags: [apowiki, henkilöt, eksegetiikka]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Heikki Räisänen".

@@ -4,7 +4,7 @@ about: apologetics
 title: "Palautumaton monimutkaisuus"
 description: "Michael Behe määrittelee palautumattoman monimutkaisuuden (engl."
 tags: [apowiki, redusoimattomat-järjestelmät]
-timestamp: 2026-10-02T14:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Palautumaton monimutkaisuus".

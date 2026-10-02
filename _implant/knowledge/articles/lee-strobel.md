@@ -4,7 +4,7 @@ about: apologetics
 title: "Lee Strobel"
 description: "Lee Patrick Strobel (s. 25.01.1952) on ateistista kristityksi kääntynyt entinen Chicago Tribune -lehden toimittaja."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Lee Strobel".

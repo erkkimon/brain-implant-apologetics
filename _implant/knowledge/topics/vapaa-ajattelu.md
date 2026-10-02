@@ -4,7 +4,7 @@ about: apologetics
 title: "Vapaa ajattelu"
 description: "4 ApoWiki-artikkelia aihepiiristä vapaa ajattelu — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, vapaa-ajattelu]
-timestamp: 2026-10-02T09:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 
 # Vapaa ajattelu

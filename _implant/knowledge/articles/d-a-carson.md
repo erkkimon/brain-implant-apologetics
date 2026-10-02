@@ -4,7 +4,7 @@ about: apologetics
 title: "D. A. Carson"
 description: "Donald Arthur Carson (s. 21. joulukuuta, 1946) on kanadalaissyntyinen evankeelinen eksegeetti ja Uuden testamentin professori."
 tags: [apowiki, henkilöt, eksegetiikka, tyngät]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "D. A. Carson".

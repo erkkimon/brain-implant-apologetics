@@ -4,7 +4,7 @@ about: apologetics
 title: "Raamattua tukevat ulkopuoliset lähteet"
 description: "Raamattu on teos, johon on alun perin koottu kaikkein luotettavimmat tekstit Jeesuksesta ja Jumalan toiminnasta."
 tags: [apowiki, tyngät, raamattu, historia]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Raamattua tukevat ulkopuoliset lähteet".

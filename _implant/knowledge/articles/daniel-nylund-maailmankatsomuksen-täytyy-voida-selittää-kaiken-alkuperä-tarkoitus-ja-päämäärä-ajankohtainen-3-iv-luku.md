@@ -4,7 +4,7 @@ about: apologetics
 title: "Daniel Nylund: Maailmankatsomuksen täytyy voida selittää kaiken alkuperä, tarkoitus ja päämäärä (Ajankohtainen 3, IV luku)"
 description: "Modernin taiteen edelläkävijä Paul Gauguin (1848-1903) kirjoitti viimeiseen maalaukseensa ennen epäonnistunutta itsemurhayritystään: \"Mistä tulemme?"
 tags: [apowiki, maailmankatsomus, tekijänoikeuden-alaiset-artikkelit]
-timestamp: 2026-10-02T05:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Daniel Nylund: Maailmankatsomuksen täytyy voida selittää kaiken alkuperä, tarkoitus ja päämäärä (Ajankohtainen 3, IV luku)".

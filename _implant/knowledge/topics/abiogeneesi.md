@@ -4,7 +4,7 @@ about: apologetics
 title: "Abiogeneesi"
 description: "5 ApoWiki-artikkelia aihepiiristä abiogeneesi — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, abiogeneesi]
-timestamp: 2026-10-02T10:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 
 # Abiogeneesi

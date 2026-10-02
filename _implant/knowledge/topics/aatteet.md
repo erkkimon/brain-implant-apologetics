@@ -4,7 +4,7 @@ about: apologetics
 title: "Aatteet"
 description: "5 ApoWiki-artikkelia aihepiiristä aatteet — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, aatteet]
-timestamp: 2026-10-02T05:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 
 # Aatteet

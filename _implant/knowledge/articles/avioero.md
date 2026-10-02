@@ -4,7 +4,7 @@ about: apologetics
 title: "Avioero"
 description: "Kuva: Avioeron vaikutukset lapsiin ovat tutkimusten perusteella kielteisiä, mutta kielteiset vaikutukset näkyvät vasta yli 12-vuotiailla lapsilla ja eritoten näiden lasten kasvettua aikuisiksi heidän muodostaessa parisuhteita."
 tags: [apowiki, seksuaalietiikka]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Avioero".

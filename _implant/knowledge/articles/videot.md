@@ -4,7 +4,7 @@ about: apologetics
 title: "Videot"
 description: "The Case for Christ, Lee Strobelin dokumentti Jeesuksen olemassaolon ja ylösnousemuksen historiallisista todisteista."
 tags: [apowiki, yleistä-tietoa]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Videot".

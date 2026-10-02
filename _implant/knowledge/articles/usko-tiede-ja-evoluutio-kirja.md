@@ -4,7 +4,7 @@ about: apologetics
 title: "Usko, tiede ja evoluutio (kirja)"
 description: "Teologian tohtori Sammeli Juntunen arvioi Kotimaan-lehden verkkosivuilla kirjan olevan kenties merkittävin teologinen puheenvuoro Suomessa sitten Tuomo Mannermaan teoksen In ipsa fide Christus adest ."
 tags: [apowiki, evoluutioteoria, filosofia, kirjat, tapio-puolimatka]
-timestamp: 2026-10-02T17:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Usko, tiede ja evoluutio (kirja)".

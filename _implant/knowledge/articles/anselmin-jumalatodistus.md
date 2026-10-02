@@ -4,7 +4,7 @@ about: apologetics
 title: "Anselmin jumalatodistus"
 description: "Tämä sivu keskittyy Anselm Canterburylaisen alkuperäiseen, Jumalan olemassaolon perustelevaan argumenttiin liittyviin näkökohtiin."
 tags: [apowiki, jumala]
-timestamp: 2026-10-02T05:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Anselmin jumalatodistus".

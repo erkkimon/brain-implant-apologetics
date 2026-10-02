@@ -4,7 +4,7 @@ about: apologetics
 title: "Kohu kirjoituksesta \"Kampanja pedofilian laillistamiseksi\""
 description: "Elokuussa 2018 nousi kohu Tapio Puolimatkan kirjoittamasta mielipidekirjoituksesta \"Kampanja pedofilian laillistamiseksi\", joka julkaistiin Oikea Media -julkaisun vieraskynäpalstalla."
 tags: [apowiki, tapio-puolimatka, media]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kohu kirjoituksesta "Kampanja pedofilian laillistamiseksi"".

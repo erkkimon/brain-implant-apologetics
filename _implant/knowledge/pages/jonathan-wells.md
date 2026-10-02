@@ -5,7 +5,7 @@ title: "Jonathan Wells"
 aliases: ["John Corrigan Wells"]
 description: "Jonathan Wells (1942–2024) oli yhdysvaltalainen molekyyli- ja solubiologi ja teologi, suunnitteluteorian puolestapuhuja ja Icons of Evolution -kirjan kirjoittaja."
 tags: [henkilöt, written-here]
-timestamp: 2026-10-02T07:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Written for this implant, not converted from ApoWiki: ApoWiki links to

@@ -4,7 +4,7 @@ about: apologetics
 title: "Liberaali kristinusko"
 description: "Liberaali kristinusko on kulttuuri-ilmiö, jolle on tyypillistä yhtäältä kristillisten, toisaalta vallitsevasta nykylänsimaisesta (tieteellisenä markkinoidusta) naturalistisesta todellisuuskäsityksestä peräisin olevien elementtien…"
 tags: [apowiki, aatteet, raamattukäsitykset]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Liberaali kristinusko".

@@ -4,7 +4,7 @@ about: apologetics
 title: "Richard Dawkins"
 description: "Clinton Richard Dawkins (s. 26. maaliskuuta 1941 Nairobi, Kenia) on englantilainen eläintieteilijä, evoluutiobiologi ja materialistisen evoluutionäkemyksen kansantajuistaja."
 tags: [apowiki, henkilöt, richard-dawkins, ateismi]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Richard Dawkins".

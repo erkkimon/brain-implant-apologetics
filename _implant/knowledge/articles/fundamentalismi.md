@@ -4,7 +4,7 @@ about: apologetics
 title: "Fundamentalismi"
 description: "Fundamentalismi on akateeminen kirosana. Alvin Plantinga on analysoinut fundamentalistin käsitettä ja hänen mukaansa se tarkoittaa \"fasistista öykkäriä, joka on mun kanssa eri mieltä\"."
 tags: [apowiki, raamattukäsitykset, aatteet]
-timestamp: 2026-10-02T05:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Fundamentalismi".

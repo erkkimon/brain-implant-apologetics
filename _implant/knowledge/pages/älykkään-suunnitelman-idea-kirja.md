@@ -5,7 +5,7 @@ title: "Älykkään suunnitelman idea (kirja)"
 aliases: ["Älykkään suunnitelman idea", "Älykkään suunnitelman idea - silta luonnontieteen ja teologian välillä", "Älykkään suunnitelman idea: silta luonnontieteen ja teologian välillä"]
 description: "Älykkään suunnitelman idea (2002) on William Dembskin kirjan Intelligent Design: The Bridge Between Science and Theology (1999) suomennos, Matti Leisolan toimittama."
 tags: [kirjat, written-here]
-timestamp: 2026-10-02T07:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Written for this implant, not converted from ApoWiki: ApoWiki cites this

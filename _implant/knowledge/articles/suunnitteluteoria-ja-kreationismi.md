@@ -4,7 +4,7 @@ about: apologetics
 title: "Suunnitteluteoria ja kreationismi"
 description: "Jo etymologiansakin mukaan kreationismin perustava käsite on erityinen luominen; suunnitteluteorian perustava käsite taas on älyllinen suunnittelu."
 tags: [apowiki, luomisoppi, suunnitteluteoria]
-timestamp: 2026-10-02T14:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Suunnitteluteoria ja kreationismi".

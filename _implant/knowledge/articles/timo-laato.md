@@ -4,7 +4,7 @@ about: apologetics
 title: "Timo Laato"
 description: "Timo Ilmari Laato (s. 30.10.63) opiskeli teologiaa Åbo Akademissa 1981-1989, jossa hänestä tuli teologian maisteri 1985 ja teologian lisensiaatti 1987."
 tags: [apowiki, henkilöt, eksegetiikka]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Timo Laato".

@@ -4,7 +4,7 @@ about: apologetics
 title: "Orjuus"
 description: "Orjuus on 1. yhteiskunnallinen järjestelmä (\"Orjuus vallitsi antiikin Kreikassa ja Roomassa\") ja 1."
 tags: [apowiki, etiikka, raamattu, historia]
-timestamp: 2026-10-02T15:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Orjuus".

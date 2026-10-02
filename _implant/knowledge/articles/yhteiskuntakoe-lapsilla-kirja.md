@@ -4,7 +4,7 @@ about: apologetics
 title: "Yhteiskuntakoe lapsilla (kirja)"
 description: "Yhteiskuntakoe lapsilla on Tapio Puolimatkan kirjoittama kirja, joka kritisoi sukupuolineutraalia avioliittolakia laajamittaisena yhteiskuntakokeena, jossa lapset altistetaan monille tunnetuille ja tuntemattomille riskeille."
 tags: [apowiki, kirjat, seksuaalietiikka]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Yhteiskuntakoe lapsilla (kirja)".

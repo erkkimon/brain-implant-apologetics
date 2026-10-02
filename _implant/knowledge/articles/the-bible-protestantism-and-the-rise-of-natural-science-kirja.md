@@ -4,7 +4,7 @@ about: apologetics
 title: "The Bible, Protestantism, and the Rise of Natural Science (kirja)"
 description: "Oxfordin yliopiston tieteen ja uskonnon Andreas Idreos -professori Peter Harrison argumentoi kirjassaan, että yksi modernin luonnontieteen syntyyn vaikuttaneista tekijöistä oli sanakeskeisen kulttuurin kehitys."
 tags: [apowiki, kirjat, historia]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "The Bible, Protestantism, and the Rise of Natural Science (kirja)".

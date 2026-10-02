@@ -4,7 +4,7 @@ about: apologetics
 title: "Alkuräjähdys"
 description: "Alkuräjähdys oli tapahtuma, josta alkuräjähdysteorian mukaan nykyinen maailmankaikkeus sai alkunsa."
 tags: [apowiki, kosmologia, alkuperähypoteesit]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Alkuräjähdys".

@@ -4,7 +4,7 @@ about: apologetics
 title: "Molekyylikone"
 description: "Lista tunnetuista molekyylikoneista: Molecular Machines in the Cell Discovery Institute The Inner Life of the Cell, XVIVO, Harvard University Powering the Cell: Mitochondria, XVIVO, Harvard University Flagellum (2min) ATP-syntaasi Creation…"
 tags: [apowiki, tyngät, suunnitteluteoria]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Molekyylikone".

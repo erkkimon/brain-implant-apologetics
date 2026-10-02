@@ -4,7 +4,7 @@ about: apologetics
 title: "Teleological argument"
 description: "The teleological argument starts from the purposiveness (telos = end) and order found in nature."
 tags: [apowiki, filosofia, argumentit, suunnitteluteoria]
-timestamp: 2026-10-02T06:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 lang: en
 translated_from: ../articles/teleologinen-argumentti.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K

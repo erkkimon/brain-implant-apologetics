@@ -4,7 +4,7 @@ about: apologetics
 title: "Richard Bauckham"
 description: "Richard Bauckham (syntynyt syyskuussa 22, 1946, Lontoo) on Uuden testamentin eksegetiikan tutkija, joka toimii nykyään tutkijana Ridley Hallissa, Cambridgessa."
 tags: [apowiki, henkilöt, eksegetiikka, tyngät]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Richard Bauckham".

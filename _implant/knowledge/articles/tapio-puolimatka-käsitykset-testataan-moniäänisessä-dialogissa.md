@@ -4,7 +4,7 @@ about: apologetics
 title: "Tapio Puolimatka: Käsitykset testataan moniäänisessä dialogissa"
 description: "Artikkeli on julkaistu Skeptikko –lehdessä 4/2008 vastineena Skepsiksen huuhaa-palkinnolle."
 tags: [apowiki, filosofia, alkuperähypoteesit, evoluutiokritiikki, tapio-puolimatka, tekijänoikeuden-alaiset-artikkelit]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tapio Puolimatka: Käsitykset testataan moniäänisessä dialogissa".

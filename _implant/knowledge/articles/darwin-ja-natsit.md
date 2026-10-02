@@ -4,7 +4,7 @@ about: apologetics
 title: "Darwin ja natsit"
 description: "Darwinismia on joskus syytetty siitä, että se oli omalta osaltaan luomassa pohjaa natsien toteuttamalle juutalaisten joukkotuholle ja vammaisten eliminoimiselle sekä kommunistien toteuttamille laajamittaisille \"puhdistuksille\"."
 tags: [apowiki, aatteet]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Darwin ja natsit".

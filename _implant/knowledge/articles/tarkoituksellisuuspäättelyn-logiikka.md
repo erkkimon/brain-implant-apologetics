@@ -4,7 +4,7 @@ about: apologetics
 title: "Tarkoituksellisuuspäättelyn logiikka"
 description: "Tarkoituksellisuuspäättely on suunnitteluteoreettinen päättely, joka johtaa tutkittavaan kohteeseen liittyvän suunnitteluhypoteesin vahvistamiseen tai hylkäämiseen."
 tags: [apowiki, suunnitteluteoria]
-timestamp: 2026-10-02T05:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tarkoituksellisuuspäättelyn logiikka".

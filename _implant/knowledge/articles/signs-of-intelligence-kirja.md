@@ -4,7 +4,7 @@ about: apologetics
 title: "Signs of intelligence (kirja)"
 description: "Signs of Intelligence on W. A. Dembskin ja James M. Kushinerin toimittama tietokirja, joka käsittelee ID-teoriaa."
 tags: [apowiki, kirjat, suunnitteluteoria, tyngät]
-timestamp: 2026-10-02T07:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Signs of intelligence (kirja)".

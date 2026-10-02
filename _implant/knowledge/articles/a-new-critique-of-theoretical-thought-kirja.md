@@ -4,7 +4,7 @@ about: apologetics
 title: "A New Critique of Theoretical Thought (kirja)"
 description: "Hollantilainen Herman Dooyeweerd (1894 - 1977) oli yksi viime vuosisadan omaperäisimmistä filosofeista."
 tags: [apowiki, kirjat, filosofia]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "A New Critique of Theoretical Thought (kirja)".

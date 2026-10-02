@@ -4,7 +4,7 @@ about: apologetics
 title: "Torinon käärinliina"
 description: "Torinon käärinliina on Torinossa Pyhän Johannes Kastajan katedraalissa säilytettävä pellavakangas, jossa uskotaan näkyvän ristiinnaulitun miehen hahmon."
 tags: [apowiki, tyngät, historia, jeesus]
-timestamp: 2026-10-02T18:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Torinon käärinliina".

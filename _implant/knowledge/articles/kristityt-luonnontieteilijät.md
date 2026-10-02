@@ -4,7 +4,7 @@ about: apologetics
 title: "Kristityt luonnontieteilijät"
 description: "Oxfordin yliopiston tieteen ja uskonnon professori Peter Harrison kiinnittää huomiota siihen, että monet merkittävistä luonnontieteilijöistä tieteen historiassa ovat olleet kristittyjä."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-02T14:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kristityt luonnontieteilijät".

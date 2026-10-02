@@ -3,7 +3,7 @@ type: plan
 title: "MVP first, then daily iteration (apologetics)"
 description: "The apologetics half of the shared plan: convert ApoWiki's wikitext to Finnish markdown pages with parsed implant links, hang the book corpus on the shared book spine, compile with multilingual embeddings, and only then start cooldown-batched translation and improvement."
 tags: [plan, mvp, roadmap]
-timestamp: 2026-10-02T21:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 
 # MVP first, then daily iteration (apologetics)

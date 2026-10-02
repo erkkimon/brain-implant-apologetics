@@ -4,7 +4,7 @@ about: apologetics
 title: "Tapio Puolimatka: Opetuksen rajankäyntejä"
 description: "Indoktrinaatiolla tarkoitetaan opetuksen vääristymää, joka voi ilmetä useissa eri muodoissa: joko opetuksen sisältö ei ole tietoa tai sitä ei opeteta niin, että oppilas tulee tietämään asian."
 tags: [apowiki, tapio-puolimatka]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tapio Puolimatka: Opetuksen rajankäyntejä".

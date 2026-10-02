@@ -5,7 +5,7 @@ title: "The Guards of the Tomb (kirja)"
 aliases: ["The Guards of the Tomb", "The guards of the tomb (Matt 27:62-66 and 28:11-15)", "The Guards of the Tomb: Matthew's Apologetic Legend Revisited"]
 description: "The Guards of the Tomb (Matt 27:62-66 and 28:11-15): Matthew's Apologetic Legend Revisited (Åbo Akademi University Press 2010) on Matti Kankaanniemen väitöskirja Matteuksen evankeliumin kertomuksesta haudan vartijoista."
 tags: [kirjat, written-here]
-timestamp: 2026-10-02T19:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Written for this implant, not converted from ApoWiki: ApoWiki lists this

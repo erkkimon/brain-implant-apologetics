@@ -4,7 +4,7 @@ about: apologetics
 title: "Usko, tiede ja Raamattu (kirja)"
 description: "Usko, tiede ja Raamattu on Tapio Puolimatkan kirjoittama kirja, joka analysoi raamattututkimuksen peruslähtökohtia ja lähestymistapoja."
 tags: [apowiki, kirjat, raamattu, eksegetiikka]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Usko, tiede ja Raamattu (kirja)".

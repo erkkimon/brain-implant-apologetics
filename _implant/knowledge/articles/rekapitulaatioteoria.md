@@ -4,7 +4,7 @@ about: apologetics
 title: "Rekapitulaatioteoria"
 description: "Kuva: Ernst Haeckelin väärentämät kuvat selkärankaisten alkioista."
 tags: [apowiki, evoluutiokritiikki, lukusuositukset, haeckel, ernst, sikiöväärennökset, sikiöpiirros, sikiöpiirrokset, sikiöpiirroskiista, sikiökuva, sikiökuvat, alkio, kidukset, häntä, lapsivesi]
-timestamp: 2026-10-02T07:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Rekapitulaatioteoria".

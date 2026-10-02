@@ -4,7 +4,7 @@ about: apologetics
 title: "Elsberry–Shallit–2003:n kritiikki: Osa 1"
 description: "a grand total of one peer-reviewed paper in any mathematics journal at all any journal specializing in applied probability theory any peer-reviewed journal devoted to information theory Itse asiassa kaikkein arvostetuimmat tiedejulkaisut,…"
 tags: [apowiki, suunnitteluteorian-kritiikki]
-timestamp: 2026-10-02T15:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Elsberry–Shallit–2003:n kritiikki: Osa 1".

@@ -4,7 +4,7 @@ about: apologetics
 title: "Lapsen ihmisoikeus: oikeus isään ja äitiin (kirja)"
 description: "Lapsen ihmisoikeus: oikeus isään ja äitiin on Tapio Puolimatkan kirjoittama kirja, joka analysoi lapsen keskeistä ihmisoikeutta: oikeutta isään ja äitiin."
 tags: [apowiki, kirjat, seksuaalietiikka, ihmisoikeudet]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Lapsen ihmisoikeus: oikeus isään ja äitiin (kirja)".

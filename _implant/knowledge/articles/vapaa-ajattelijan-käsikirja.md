@@ -4,7 +4,7 @@ about: apologetics
 title: "Vapaa-ajattelijan käsikirja"
 description: "Tässä artikkelissa käsitellään Vapaa-ajattelijan käsikirjaa, johon \"on koottu perustietoa vapaa-ajattelusta, uskonnottomien perusoikeuksista ja uskonnottomasta tapakulttuurista\"."
 tags: [apowiki, vapaa-ajattelu]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Vapaa-ajattelijan käsikirja".

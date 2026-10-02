@@ -4,7 +4,7 @@ about: apologetics
 title: "The Mystery of Life’s Origin (kirja)"
 description: "Mystery of Life’s Origin: Reassessing Current Theories on Kemisti Charles Thaxtonin, konetekniikan professori Walter Bradleyn ja kemisti Roger Olsonin kirjoittama kirja, joka käsittelee abiogeneettisten hypoteesien ongelmia."
 tags: [apowiki, kirjat, abiogeneesi]
-timestamp: 2026-10-02T09:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "The Mystery of Life’s Origin (kirja)".

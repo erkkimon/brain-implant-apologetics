@@ -4,7 +4,7 @@ about: apologetics
 title: "Alkuhistorianäkemykset"
 description: "Alkuhistorianäkemykset ovat käsityksiä siitä, mitä on tapahtunut ennen kuin kukaan meistä ihmisistä oli tarkkailemassa tapahtumia."
 tags: [apowiki, alkuperähypoteesit]
-timestamp: 2026-10-02T09:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Alkuhistorianäkemykset".

@@ -4,7 +4,7 @@ about: apologetics
 title: "Kosminen hienosäätö"
 description: "Kosmisella hienosäädöllä tarkoitetaan sitä havaittua tosiasiaa, että universumin rakenne ja fysiikan lakien rakenne ja erityisesti luonnonvakiot on täytynyt säätää todella tarkasti, jotta elämä olisi mahdollista."
 tags: [apowiki, kosmologia, suunnitteluteoria, lukusuositukset, hienosäätö, astrobiologia, kosminen, paikka, maapallo, linnunrata, kuu, aurinko, antrooppinen-periaate, kosminen-hienosäätö, fysiikan-lait, dna-koodi]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kosminen hienosäätö".

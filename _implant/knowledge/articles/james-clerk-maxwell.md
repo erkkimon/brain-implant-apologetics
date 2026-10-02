@@ -4,7 +4,7 @@ about: apologetics
 title: "James Clerk Maxwell"
 description: "Tätä henkilöä käsitellään ApologetiikkaWikissä, koska hänen työllään on ollut suuri merkitys tieteen kehitykselle sekä tieteen ja kristinuskon väliselle suhteelle James Clerk Maxwell (13."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "James Clerk Maxwell".

@@ -4,7 +4,7 @@ about: apologetics
 title: "Opetuksen teoria konstruktivismista realismiin (kirja)"
 description: "Opetuksen teoria konstruktivismista realismiin on Tapio Puolimatkan kirjoittama kirja, joka analysoi realistisen ja konstruktivistisen ontologian, tietoteorian, arvoteorian, oppimisen teorian ja opetuksen teorian suhdetta."
 tags: [apowiki, kirjat, filosofia]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Opetuksen teoria konstruktivismista realismiin (kirja)".

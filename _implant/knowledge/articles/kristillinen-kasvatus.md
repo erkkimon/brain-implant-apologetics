@@ -4,7 +4,7 @@ about: apologetics
 title: "Kristillinen kasvatus"
 description: "Ihmisen perusoikeuksiin kuuluu uskonnonvapaus, joka siis on aina tarkoittanut vapautta uskontoon, ei vapautta uskonnosta."
 tags: [apowiki, etiikka]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kristillinen kasvatus".

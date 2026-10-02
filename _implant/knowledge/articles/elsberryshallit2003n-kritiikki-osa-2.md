@@ -4,7 +4,7 @@ about: apologetics
 title: "Elsberry–Shallit–2003:n kritiikki: Osa 2"
 description: "We will see that there is simply no reason to accept Dembski's \"Law\", and that his justification is fatally flawed in several respects."
 tags: [apowiki, suunnitteluteorian-kritiikki]
-timestamp: 2026-10-02T05:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Elsberry–Shallit–2003:n kritiikki: Osa 2".

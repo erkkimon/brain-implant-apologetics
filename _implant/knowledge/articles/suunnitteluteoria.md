@@ -4,7 +4,7 @@ about: apologetics
 title: "Suunnitteluteoria"
 description: "Ainahan voi väittää, että rinta viiden luodinreiän lävistämänä makaavan miehen kuolema oli sittenkin luonnollinen."
 tags: [apowiki, suunnitteluteoria, id-teoria, älykkään-suunnittelun-teoria, älykkään-suunnitelman-teoria, älyllisen-suunnittelun-teoria, älykäs-suunnitelma, älykäs-suunnittelu, älyllinen-suunnittelu, optimaalinen-suunnittelu, aito-suunnittelu, näennäissuunnittelu, tarkoituksellisuuspäättely]
-timestamp: 2026-10-02T14:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Suunnitteluteoria".

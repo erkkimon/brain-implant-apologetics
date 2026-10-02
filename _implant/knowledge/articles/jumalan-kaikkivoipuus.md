@@ -4,7 +4,7 @@ about: apologetics
 title: "Jumalan kaikkivoipuus"
 description: "Kristillisessä teismissä uskotaan yleisesti kaikkivaltiuden olevan yksi Jumalan ominaisuuksista."
 tags: [apowiki, jumala]
-timestamp: 2026-10-02T09:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jumalan kaikkivoipuus".

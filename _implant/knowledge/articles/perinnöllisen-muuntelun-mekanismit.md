@@ -4,7 +4,7 @@ about: apologetics
 title: "Perinnöllisen muuntelun mekanismit"
 description: "Perinnöllisen muuntelun mekanismeja ovat muun muassa luonnonvalinta, seksuaalivalinta, mutaatiot) ja migraatio."
 tags: [apowiki, evoluutioteoria]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Perinnöllisen muuntelun mekanismit".

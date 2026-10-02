@@ -4,7 +4,7 @@ about: apologetics
 title: "Paranormaalit ilmiöt"
 description: "6 ApoWiki-artikkelia aihepiiristä paranormaalit ilmiöt — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, paranormaalit-ilmiöt]
-timestamp: 2026-10-02T09:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 
 # Paranormaalit ilmiöt

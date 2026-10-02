@@ -4,7 +4,7 @@ about: apologetics
 title: "Kirjat"
 description: "62 ApoWiki-artikkelia aihepiiristä kirjat — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, kirjat]
-timestamp: 2026-10-02T09:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 
 # Kirjat

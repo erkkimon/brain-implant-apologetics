@@ -5,7 +5,7 @@ title: "The Design Inference (kirja)"
 aliases: ["The Design Inference", "The Design Inference: Eliminating Chance through Small Probabilities"]
 description: "The Design Inference: Eliminating Chance through Small Probabilities (Cambridge University Press 1998) on William Dembskin kirja, jossa hän esittää selityssuodattimen suunnittelun havaitsemiseksi."
 tags: [kirjat, written-here]
-timestamp: 2026-10-02T22:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Written for this implant, not converted from ApoWiki: ApoWiki cites this

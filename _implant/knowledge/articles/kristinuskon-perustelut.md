@@ -4,7 +4,7 @@ about: apologetics
 title: "Kristinuskon perustelut"
 description: "Perustelun käsitteelle on tunnusomaista se, että ensin on esitettävä jokin kanta ja vasta sitten sitä voi pyrkiä perustelemaan."
 tags: [apowiki, yleistä-tietoa, argumentit, lukusuositukset]
-timestamp: 2026-10-02T21:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kristinuskon perustelut".

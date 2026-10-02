@@ -4,7 +4,7 @@ about: apologetics
 title: "Viisauden ja tiedon aarteet Kristuksessa (kirja)"
 description: "Viisauden ja tiedon aarteet on Tapio Puolimatkan kirjoittama kirja, joka vertailee aikamme keskeisiä maailmankatsomuksia niiden yhteiskunnallisen hedelmän perusteella."
 tags: [apowiki, kirjat]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Viisauden ja tiedon aarteet Kristuksessa (kirja)".

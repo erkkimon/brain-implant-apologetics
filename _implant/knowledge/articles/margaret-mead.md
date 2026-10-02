@@ -4,7 +4,7 @@ about: apologetics
 title: "Margaret Mead"
 description: "Margaret Mead (16. joulukuuta 1901, Philadelphia–15. marraskuuta 1978, New York City) oli amerikkalainen tutkija, joka oli yksi viime vuosisadan kuuluisimmista antropologeista."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Margaret Mead".

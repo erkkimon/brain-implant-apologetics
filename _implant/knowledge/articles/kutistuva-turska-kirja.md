@@ -4,7 +4,7 @@ about: apologetics
 title: "Kutistuva turska (kirja)"
 description: "Kirjassaan Kutistuva turska Katja Bargum ja Hanna Kokko pitävät ohjaamattoman evoluution todisteena sitä, että on olemassa epätarkkoja ja kehnoja sopeumia."
 tags: [apowiki, kirjat]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kutistuva turska (kirja)".

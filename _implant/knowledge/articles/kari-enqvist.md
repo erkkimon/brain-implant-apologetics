@@ -4,7 +4,7 @@ about: apologetics
 title: "Kari Enqvist"
 description: "Kari-Pekka Enqvist (s. 16. helmikuuta 1954, Lahti) on Helsingin yliopiston fysikaalisten tieteiden laitoksen teoreettisen fysiikan professori."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kari Enqvist".

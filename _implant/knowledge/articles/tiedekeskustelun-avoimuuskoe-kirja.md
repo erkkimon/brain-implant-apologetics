@@ -4,7 +4,7 @@ about: apologetics
 title: "Tiedekeskustelun avoimuuskoe (kirja)"
 description: "Tiedekeskustelun avoimuuskoe on Tapio Puolimatkan kirjoittama kirja, joka analysoi tieteellisen tutkimuksen ja itsekriittisen tiedeyhteisön perusedellytyksiä."
 tags: [apowiki, kirjat, tapio-puolimatka, tieteenfilosofia]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tiedekeskustelun avoimuuskoe (kirja)".

@@ -4,7 +4,7 @@ about: apologetics
 title: "Jeesuksen ylösnousemus"
 description: "Kristinusko poikkeaa siten muista uskonnoista, että se perustuu olennaisesti historialliseen tapahtumaan, Jeesuksen ylösnousemukseen."
 tags: [apowiki, jeesus, ihmeet, historia, lukusuositukset]
-timestamp: 2026-10-02T15:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jeesuksen ylösnousemus".

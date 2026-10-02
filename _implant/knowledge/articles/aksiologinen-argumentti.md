@@ -4,7 +4,7 @@ about: apologetics
 title: "Aksiologinen argumentti"
 description: "Aksiologia tarkoittaa oppia arvoista eli teoriaa siitä, mikä on arvokasta ja miten arvostuksia voidaan perustella."
 tags: [apowiki, filosofia]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Aksiologinen argumentti".

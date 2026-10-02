@@ -4,7 +4,7 @@ about: apologetics
 title: "Sukupuoli"
 description: "Biologinen sukupuoliero perustuu naisen ja miehen toisiaan täydentäviin tehtäviin lisääntymisessä."
 tags: [apowiki, etiikka, lukusuositukset]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Sukupuoli".

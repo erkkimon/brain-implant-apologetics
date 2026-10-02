@@ -4,7 +4,7 @@ about: apologetics
 title: "Kiila-strategia"
 description: "Kiilastrategia ylipäänsä on jonkin tahon pyrkimys edistää kannattamansa näkemyksen yhteiskunnallista vaikuttavuutta koettamalla eristää vastakkaisen näkemyksen vakaumukselliset kannattajat näiden mahdollisista liittolaisista \"lyömällä kiiloja\" vastustettavan näkemyksen ydinkannattajakunnan ympärille."
 tags: [apowiki, evoluutiokritiikki, suunnitteluteoria]
-timestamp: 2026-10-02T20:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kiila-strategia".

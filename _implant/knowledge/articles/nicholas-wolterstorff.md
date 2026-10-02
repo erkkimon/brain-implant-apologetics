@@ -4,7 +4,7 @@ about: apologetics
 title: "Nicholas Wolterstorff"
 description: "Nicholas Wolterstorff (s. 21. tammikuuta 1932, Bigelow, Minnesota) on yhdysvaltalainen filosofi, Yalen yliopiston Noah Porter -oppituolin filosofisen teologian emeritusprofessori ja Berkeley Collegen jäsen."
 tags: [apowiki, henkilöt, tyngät]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Nicholas Wolterstorff".

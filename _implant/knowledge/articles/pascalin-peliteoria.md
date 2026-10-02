@@ -4,7 +4,7 @@ about: apologetics
 title: "Pascalin peliteoria"
 description: "Pascalin peliteoria (Pascalin vaaka, Pascalin vedonlyönti, Pascalin argumentti, peliteoreettinen argumentti, pelurin todistus) on yksi peruste uskoa Jumalaan."
 tags: [apowiki, maailmankatsomus, pascalin-veto, pascalin-vaaka, blaise-pascal, pascalin-gambiitti, pascalin-peliteoria, ateismi, teismi, järki, usko, tieto]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Pascalin peliteoria".

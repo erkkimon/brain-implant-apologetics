@@ -4,7 +4,7 @@ about: apologetics
 title: "Argumentointivirheet"
 description: "Argumentointivirheet eli perusteluvirheet ovat keskustelutekniikan ja mielipiteen esittämisen virheitä, jotka muodollisesti näyttävät oikeilta, mutta joissa lähemmin tarkasteltuina on joko looginen virhe, ne kohdistuvat johonkin muuhun…"
 tags: [apowiki, argumentointi]
-timestamp: 2026-10-02T15:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Argumentointivirheet".

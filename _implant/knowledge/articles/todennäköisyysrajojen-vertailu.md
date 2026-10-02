@@ -4,7 +4,7 @@ about: apologetics
 title: "Todennäköisyysrajojen vertailu"
 description: "Suunnitteluteoreettisen tarkoituksellisuuspäättelyn keskeinen, vertaisarvioitu menetelmä on William Dembskin kehittämä, klassisen tilastotieteen lähestymistapaa soveltava suunnittelusignaalien tunnistus."
 tags: [apowiki, suunnitteluteoria]
-timestamp: 2026-10-02T05:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Todennäköisyysrajojen vertailu".

@@ -4,7 +4,7 @@ about: apologetics
 title: "Avioliitto"
 description: "Avioliitto on yleismaailmallinen instituutio, joka on jo vuosituhansien ajan muodostanut osan kaikkia inhimillisiä kulttuureja."
 tags: [apowiki, seksuaalietiikka, lukusuositukset]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Avioliitto".

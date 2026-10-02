@@ -4,7 +4,7 @@ about: apologetics
 title: "RNA-maailma"
 description: "Kuva: RNA-maailma-hypoteesin mukaiset abiogeneesin päävaiheet: Runsaasti yksinkertaisia molekyylejä sisältäneessä alkuliemessä olisi – mahdollisesti (hieman mutkikkaampien) välivaihemolekyylien (1) jälkeen – muodostunut jonkin verran RNA-nukleotidejä (2) (ribonukleiinihapon rakennemolekyylejä)."
 tags: [apowiki, abiogeneesi]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "RNA-maailma".

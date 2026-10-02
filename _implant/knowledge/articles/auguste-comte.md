@@ -4,7 +4,7 @@ about: apologetics
 title: "Auguste Comte"
 description: "Auguste Comte (17. tammikuuta, kirjattu syntymäaika 19. tammikuuta 1798 – 5."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Auguste Comte".

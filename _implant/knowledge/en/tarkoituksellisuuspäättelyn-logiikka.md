@@ -4,7 +4,7 @@ about: apologetics
 title: "The logic of the design inference"
 description: "The design inference is a design-theoretic inference that leads to confirming or rejecting a design hypothesis about the object under study."
 tags: [apowiki, suunnitteluteoria]
-timestamp: 2026-10-02T18:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 lang: en
 translated_from: ../articles/tarkoituksellisuuspäättelyn-logiikka.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K

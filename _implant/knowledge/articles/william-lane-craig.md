@@ -4,7 +4,7 @@ about: apologetics
 title: "William Lane Craig"
 description: "William Lane Craig (s. 23. elokuuta 1949) on yhdysvaltalainen uskonnonfilosofi ja teologi, joka kuuluu nykyajan huomattavimpiin kristinuskon apologeettoihin."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "William Lane Craig".

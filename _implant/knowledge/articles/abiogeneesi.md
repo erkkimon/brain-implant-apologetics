@@ -4,7 +4,7 @@ about: apologetics
 title: "Abiogeneesi"
 description: "Abiogeneesi (kemiallinen evoluutio, elämän alkusynty) tarkoittaa (naturalistisen todellisuuskäsityksen edellyttämää) elämän ohjaamatonta ja tarkoituksetonta itsestäänsyntymistä elottoman aineen alun perin yksinkertaisista yhdisteistä."
 tags: [apowiki, abiogeneesi, lukusuositukset]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Abiogeneesi".

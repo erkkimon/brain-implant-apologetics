@@ -4,7 +4,7 @@ about: apologetics
 title: "Tiede"
 description: "Tiede tarkoittaa todellisuuden ilmiöiden ja niiden välisten suhteiden järjestelmällistä ja arvostelevaa tutkimista sekä sen avulla saatua tietojen jäsentynyttä kokonaisuutta."
 tags: [apowiki, tieteenfilosofia]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tiede".

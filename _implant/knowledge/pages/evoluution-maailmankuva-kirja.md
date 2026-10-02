@@ -5,7 +5,7 @@ title: "Evoluution maailmankuva (kirja)"
 aliases: ["Evoluution maailmankuva", "Evoluutio Maailmankuva (kirja)", "Evoluution Maailmankuva"]
 description: "Evoluution maailmankuva (Uusi Tie 2000) on suomennos Phillip E. Johnsonin kirjasta Defeating Darwinism by Opening Minds (1997)."
 tags: [kirjat, written-here]
-timestamp: 2026-10-02T20:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Written for this implant, not converted from ApoWiki: ApoWiki cites this

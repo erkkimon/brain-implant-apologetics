@@ -4,7 +4,7 @@ about: apologetics
 title: "Jonathan Kvanvig"
 description: "Jonathan Kvanvig on Baylor yliopiston filosofian professori. Kvanvig tunnetaan parhaiten kirjastaan The Problem of Hell (julkaistu 1993), jossa hän käsittelee kysymystä iankaikkisesta kadotuksesta teologisesta ja filosofisesta näkökulmasta."
 tags: [apowiki, henkilöt, filosofia, tyngät]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jonathan Kvanvig".

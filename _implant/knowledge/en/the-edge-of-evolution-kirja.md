@@ -4,7 +4,7 @@ about: apologetics
 title: "The Edge of Evolution (book)"
 description: "The Edge of Evolution: The Search for the Limits of Darwinism (EOE) is a book by biochemistry professor Michael Behe on the empirically observed limits of evolutionary mechanisms."
 tags: [apowiki, kirjat, suunnitteluteoria, evoluutioteoria]
-timestamp: 2026-10-02T18:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 lang: en
 translated_from: ../articles/the-edge-of-evolution-kirja.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K

@@ -4,7 +4,7 @@ about: apologetics
 title: "Aitouskriteerit"
 description: "Historiallis-kriittisen tutkimuksen periaatteiden ymmärtäminen on välttämätöntä mielekkäälle Uuden testamentin historiallisuuden pohtimiselle."
 tags: [apowiki, historia, tieteenfilosofia]
-timestamp: 2026-10-02T13:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Aitouskriteerit".

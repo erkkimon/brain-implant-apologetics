@@ -4,7 +4,7 @@ about: apologetics
 title: "Peter Harrison"
 description: "Peter Harrison on tieteen ja uskonnon Andreas Idreos -professori ja Ian Ramsey -keskuksen johtaja Oxfordin yliopistossa."
 tags: [apowiki, henkilöt, historia]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Peter Harrison".

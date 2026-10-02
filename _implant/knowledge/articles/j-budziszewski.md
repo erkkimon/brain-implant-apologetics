@@ -4,7 +4,7 @@ about: apologetics
 title: "J. Budziszewski"
 description: "J. Budziszewski (s. 1952) on hallintotieteen ja filosofian professori Texasin yliopistossa Austinissa, jossa hän on työskennellyt vuodesta 1981."
 tags: [apowiki, henkilöt, filosofia]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "J. Budziszewski".

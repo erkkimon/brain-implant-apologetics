@@ -4,7 +4,7 @@ about: apologetics
 title: "Teleologinen argumentti"
 description: "Teleologisen argumentin lähtökohtana on luonnossa ilmenevä tarkoituksenmukaisuus (telos = päämäärä) ja järjestys."
 tags: [apowiki, filosofia, argumentit, suunnitteluteoria]
-timestamp: 2026-10-02T05:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Teleologinen argumentti".

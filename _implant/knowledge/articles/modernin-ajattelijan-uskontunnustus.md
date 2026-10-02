@@ -4,7 +4,7 @@ about: apologetics
 title: "Modernin ajattelijan uskontunnustus"
 description: "Modernin ajattelijan uskontunnustus on Steve Turnerin) kirjoittama, relativistista ajattelua parodioiva uskontunnustus."
 tags: [apowiki, parodiaa-käsittelevät-artikkelit]
-timestamp: 2026-10-02T05:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Modernin ajattelijan uskontunnustus".

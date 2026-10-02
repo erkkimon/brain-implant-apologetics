@@ -4,7 +4,7 @@ about: apologetics
 title: "Ontologinen argumentti"
 description: "Ontologisen argumentin varhaisimman ja kaikkein tunnetuimman muodon esitti Anselm Canterburylainen teoksensa Proslogion toisessa luvussa."
 tags: [apowiki, filosofia, argumentit]
-timestamp: 2026-10-02T05:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ontologinen argumentti".

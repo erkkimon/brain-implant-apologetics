@@ -4,7 +4,7 @@ about: apologetics
 title: "Tapio Puolimatka"
 description: "Timo Tapio Puolimatka (KT, VTT) toimii kasvatustieteen teorian ja tradition professorina Jyväskylän yliopistossa."
 tags: [apowiki, henkilöt, tapio-puolimatka]
-timestamp: 2026-10-02T16:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tapio Puolimatka".

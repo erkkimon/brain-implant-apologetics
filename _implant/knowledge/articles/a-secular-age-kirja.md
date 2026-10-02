@@ -4,7 +4,7 @@ about: apologetics
 title: "A Secular Age (kirja)"
 description: "Charles Taylorin kirja A Secular Age analysoi aikamme vallitsevia myyttejä sekularisaatiosta."
 tags: [apowiki, kirjat, filosofia]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "A Secular Age (kirja)".

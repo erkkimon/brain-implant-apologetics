@@ -4,7 +4,7 @@ about: apologetics
 title: "Jeesus Nasaretilainen"
 description: "Jeesus Nasaretilainen on kristinuskon keskushenkilö. Kristityt uskovat, että Jeesuksessa Jumalan toinen persoona tuli lihaksi (\"sikisi Pyhästä Hengestä , syntyi neitsyt Mariasta\") ja ilmoitti Isän ."
 tags: [apowiki, jeesus]
-timestamp: 2026-10-02T15:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jeesus Nasaretilainen".

@@ -4,7 +4,7 @@ about: apologetics
 title: "Evoluutioteorian historia"
 description: "Evoluutoajatuksia ovat esittäneet jo antiikin Kreikan materialistit, erityisesti Lucretius, joiden katsomukset vaativat jonkinlaisen materiasta itsestään syntymisen."
 tags: [apowiki, evoluutioteoria]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Evoluutioteorian historia".

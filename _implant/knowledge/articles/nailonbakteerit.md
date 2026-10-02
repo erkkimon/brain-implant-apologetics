@@ -4,7 +4,7 @@ about: apologetics
 title: "Nailonbakteerit"
 description: "Nailonbakteerit ovat joukko mikrobeja, jotka kykenevät hajottamaan lyhyitä nailon 6 polymeerejä (oligomeerejä)."
 tags: [apowiki, evoluutioteoria]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Nailonbakteerit".

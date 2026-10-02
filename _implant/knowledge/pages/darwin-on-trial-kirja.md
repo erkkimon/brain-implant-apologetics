@@ -5,7 +5,7 @@ title: "Darwin on Trial (kirja)"
 aliases: ["Darwin on Trial"]
 description: "Darwin on Trial (1991) on lakiprofessori Phillip E. Johnsonin kirja, joka kyseenalaistaa uusdarwinismin ja josta tuli älykkään suunnittelun liikkeen keskeinen teos."
 tags: [kirjat, written-here]
-timestamp: 2026-10-02T22:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Written for this implant, not converted from ApoWiki: ApoWiki cites this

@@ -4,7 +4,7 @@ about: apologetics
 title: "Elsberry–Shallit–2003:n kritiikki: Osa 3"
 description: "one of Dembski's principal claims is that evolutionary computation cannot generate CSI (s."
 tags: [apowiki, suunnitteluteorian-kritiikki]
-timestamp: 2026-10-02T05:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Elsberry–Shallit–2003:n kritiikki: Osa 3".

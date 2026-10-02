@@ -5,7 +5,7 @@ title: "Voimat vastakkain (kirja)"
 aliases: ["Voimat vastakkain", "Voimat vastakkain: näkökulmia hengelliseen sodankäyntiin", "Voimat vastakkain - näkökulmia hengelliseen sodankäyntiin"]
 description: "Voimat vastakkain – näkökulmia hengelliseen sodankäyntiin (2007) on Matti Kankaanniemen ja Päivi Niemen kirja hengellisestä sodankäynnistä ja henkimaailman kokemuksista."
 tags: [kirjat, written-here]
-timestamp: 2026-10-02T16:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Written for this implant, not converted from ApoWiki: ApoWiki links this

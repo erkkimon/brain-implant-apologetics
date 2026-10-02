@@ -4,7 +4,7 @@ about: apologetics
 title: "Charles Taylor"
 description: "Kuva: Charles Taylor Charles Taylor CC, GOQ, FRSC, (s. 5. marraskuuta 1931) on kanadalainen filosofi, joka tunnetaan näkökulmistaan moraaliin ja moderniin länsimaisen yksilön ja ryhmän identiteettiin."
 tags: [apowiki, henkilöt, filosofia]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Charles Taylor".

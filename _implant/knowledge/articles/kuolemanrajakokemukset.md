@@ -4,7 +4,7 @@ about: apologetics
 title: "Kuolemanrajakokemukset"
 description: "Kysymys kuolemasta ja kuoleman jälkeisestä elämästä on aina ollut osa ihmisten uskonnollista ja filosofista pohdintaa."
 tags: [apowiki, sielu, paranormaalit-ilmiöt]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kuolemanrajakokemukset".

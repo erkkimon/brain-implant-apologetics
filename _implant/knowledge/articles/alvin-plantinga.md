@@ -4,7 +4,7 @@ about: apologetics
 title: "Alvin Plantinga"
 description: "Alvin Carl Plantinga (1932 -) on amerikkalainen kristitty filosofi."
 tags: [apowiki, alvin-plantinga, teismi, filosofia]
-timestamp: 2026-10-02T17:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Alvin Plantinga".

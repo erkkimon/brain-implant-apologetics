@@ -4,7 +4,7 @@ about: apologetics
 title: "Yliluonnollinen"
 description: "Yliluonnollisella tarkoitetaan yleensä luonnolaeista riippumatonta, luonnontieteellisesti selittämätöntä ja normaalin tai luonnollisen rajat ylittävää."
 tags: [apowiki, paranormaalit-ilmiöt, lukusuositukset]
-timestamp: 2026-10-02T16:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Yliluonnollinen".

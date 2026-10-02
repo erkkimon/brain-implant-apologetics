@@ -4,7 +4,7 @@ about: apologetics
 title: "Raamattu"
 description: "36 ApoWiki-artikkelia aihepiiristä raamattu — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, raamattu]
-timestamp: 2026-10-02T09:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 
 # Raamattu

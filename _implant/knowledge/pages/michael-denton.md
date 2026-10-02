@@ -5,7 +5,7 @@ title: "Michael Denton"
 aliases: ["Michael J. Denton"]
 description: "Michael Denton (s. 1943) on brittiläinen biokemisti ja lääkäri, jonka kirja Evolution: A Theory in Crisis (1985) vaikutti suunnitteluteorian syntyyn."
 tags: [henkilöt, written-here]
-timestamp: 2026-10-03T00:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Written for this implant, not converted from ApoWiki: ApoWiki links to

@@ -4,7 +4,7 @@ about: apologetics
 title: "Kirjallisuutta"
 description: "Alla hyvää kirjallisuutta kristinuskon perusteluihin tutustumiseen."
 tags: [apowiki, yleistä-tietoa, kirjat]
-timestamp: 2026-10-02T22:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kirjallisuutta".

@@ -4,7 +4,7 @@ about: apologetics
 title: "Mark Regnerus"
 description: "Mark Regnerus (s. 1971) on Texasin yliopiston (Austin) sosiologian professori."
 tags: [apowiki, henkilöt, seksuaalietiikka]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Mark Regnerus".

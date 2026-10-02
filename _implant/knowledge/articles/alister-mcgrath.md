@@ -4,7 +4,7 @@ about: apologetics
 title: "Alister McGrath"
 description: "Alister E. McGrath (s. 23. tammikuuta 1953 Belfast, Pohjois-Irlanti) on Oxfordin yliopiston historiallisen teologian professori ja kirjailija."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-02T08:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Alister McGrath".

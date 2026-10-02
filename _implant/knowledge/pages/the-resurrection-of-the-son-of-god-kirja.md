@@ -5,7 +5,7 @@ title: "The Resurrection of the Son of God (kirja)"
 aliases: ["The Resurrection of the Son of God", "Resurrection of the Son of God"]
 description: "The Resurrection of the Son of God (2003) on N. T. Wrightin laaja tutkimus Jeesuksen ylösnousemuksesta, Christian Origins and the Question of God -sarjan kolmas osa."
 tags: [kirjat, written-here]
-timestamp: 2026-10-02T21:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Written for this implant, not converted from ApoWiki: ApoWiki cites this

@@ -4,7 +4,7 @@ about: apologetics
 title: "Craig Keener"
 description: "Craig Keener on Uuden testamentin eksegetiikan professori Palmer Theological Seminary nimisessä korkeakoulussa."
 tags: [apowiki, henkilöt, eksegetiikka]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Craig Keener".

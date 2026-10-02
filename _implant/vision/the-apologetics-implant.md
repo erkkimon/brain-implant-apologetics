@@ -2,7 +2,7 @@
 type: vision
 title: The apologetics implant
 description: Why this implant exists — an agent-accessible, brainpick-native knowledge base for Christian apologetics, inheriting ApoWiki's 20 years of GFDL content and contributor attribution and the stem implant's evidence-graded epistemics, built so that agents and humans contribute as pull requests on an English OKF brain that preserves faithful provenance.
-timestamp: 2026-10-02T11:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 
 # The apologetics implant

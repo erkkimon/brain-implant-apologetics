@@ -4,7 +4,7 @@ about: apologetics
 title: "Realismi"
 description: "Realismi-sanan perusmerkitys viittaa siihen, että huomion kohteena oleva olio, esine tai asia on todellinen, todella olemassa."
 tags: [apowiki, aatteet]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Realismi".

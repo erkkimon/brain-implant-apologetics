@@ -4,7 +4,7 @@ about: apologetics
 title: "Concordia-teologian periaatteet"
 description: "Apologetiikkaa voi pitää teologian osa-alueena, ja näin ajatellen apologetiikkaan keskittyvä sivusto rajaa muun teologian ulkopuolelleen (samoin kuin esim."
 tags: [apowiki, yleistä-tietoa]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Concordia-teologian periaatteet".

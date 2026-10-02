@@ -4,7 +4,7 @@ about: apologetics
 title: "Naturalismi"
 description: "Naturalismi on monimerkityksinen käsite, joka voi tarkoittaa monia erilaisia asioita."
 tags: [apowiki, maailmankatsomus]
-timestamp: 2026-10-02T13:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Naturalismi".

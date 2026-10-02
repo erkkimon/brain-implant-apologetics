@@ -4,7 +4,7 @@ about: apologetics
 title: "Alkuperäisheimot ja Jumala"
 description: "Kuva: Kareneiden perimätieto tuki Raamatun luotettavuutta, mistä oli apua Adoniram Judsonin tehdessä lähetystyötä heidän parissaan."
 tags: [apowiki, historia, jumala, lukusuositukset]
-timestamp: 2026-10-02T10:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Alkuperäisheimot ja Jumala".

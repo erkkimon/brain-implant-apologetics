@@ -4,7 +4,7 @@ about: apologetics
 title: "Roger Scruton"
 description: "Sir Roger Vernon Scruton, Britannian akatemian jäsen; 27 helmikuutta 1944 – 12."
 tags: [apowiki, henkilöt, seksuaalietiikka]
-timestamp: 2026-10-02T14:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Roger Scruton".

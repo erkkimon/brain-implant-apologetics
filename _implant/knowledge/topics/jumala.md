@@ -4,7 +4,7 @@ about: apologetics
 title: "Jumala"
 description: "20 ApoWiki-artikkelia aihepiiristä jumala — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, jumala]
-timestamp: 2026-10-02T09:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 
 # Jumala

@@ -4,7 +4,7 @@ about: apologetics
 title: "Homoseksuaalisuus"
 description: "Homoseksuaalisuus on seksuaalinen suuntautuminen, jossa yksilön emotionaaliset, eroottiset ja/tai seksuaaliset tunteet kohdistuvat ensisijaisesti omaan sukupuoleen."
 tags: [apowiki, seksuaalietiikka, lukusuositukset]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Homoseksuaalisuus".

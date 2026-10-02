@@ -4,7 +4,7 @@ about: apologetics
 title: "Max Scheler"
 description: "Max Scheler (22. elokuuta 1874 München, Saksa – 19. toukokuuta 1928 Frankfurt am Main, Saksa) oli saksalainen filosofi, joka on tunnettu ennen kaikkea eettisestä teoriastaan, filosofisesta antropologiastaan, tunnefilosofiastaan ja tiedon…"
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Max Scheler".

@@ -4,7 +4,7 @@ about: apologetics
 title: "Matti Leisola"
 description: "Matti Leisola on bioprosessitekniikan emeritusprofessori. Lisäksi hän on toiminut Aalto-yliopiston teknillisen korkeakoulun (TKK) kemian ja materiaalitieteiden tiedekunnan dekaanina vuoteen 2011 asti."
 tags: [apowiki, henkilöt, suunnitteluteoria, evoluutiokritiikki]
-timestamp: 2026-10-02T16:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Matti Leisola".

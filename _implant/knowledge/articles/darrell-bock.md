@@ -4,7 +4,7 @@ about: apologetics
 title: "Darrell Bock"
 description: "Darrell L. Bock on Uuden testamentin eksegetiikan tutkijaprofessori Dallas Theological Seminary nimisessä korkeakoulussa Dallasissa, Texasissa."
 tags: [apowiki, henkilöt, eksegetiikka, tyngät]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Darrell Bock".

@@ -4,7 +4,7 @@ about: apologetics
 title: "English renderings of ApoWiki's glossary terms"
 description: "The translation contract: the one fixed English rendering of each ApoWiki glossary (Sanasto) term, so every translated article says the same thing the same way. Edited by hand, read by apowiki_glossary.py and by the translation check."
 tags: [glossary, sanasto, translation, terminology, english]
-timestamp: 2026-10-02T17:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 half_life: 0
 ---
 

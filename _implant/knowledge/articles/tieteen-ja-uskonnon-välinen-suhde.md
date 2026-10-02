@@ -4,7 +4,7 @@ about: apologetics
 title: "Tieteen ja uskonnon välinen suhde"
 description: "Ian Barbour esittää neljä yleistä mallia tieteen ja uskonnon suhteelle: 1."
 tags: [apowiki, tieteenfilosofia, maailmankatsomus]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tieteen ja uskonnon välinen suhde".

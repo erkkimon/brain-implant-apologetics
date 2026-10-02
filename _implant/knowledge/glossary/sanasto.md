@@ -4,7 +4,7 @@ about: apologetics
 title: "Sanasto — ApoWikin virallinen sanasto"
 description: "ApoWiki's official Finnish glossary: 413 terms with the definitions ApoWiki articles use them in, struck-through senses marked as usage ApoWiki avoids. The fixed term list for translation."
 tags: [apowiki, glossary, sanasto, terminology, translation]
-timestamp: 2026-10-02T17:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 half_life: 0
 ---
 <!--

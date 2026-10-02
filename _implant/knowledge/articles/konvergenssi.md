@@ -4,7 +4,7 @@ about: apologetics
 title: "Konvergenssi"
 description: "Konvergenssilla tarkoitetaan rakenteellista samankaltaisuutta, joka selittyy rakenteen samanlaisella toiminnalla tilanteessa, jossa eliöiden oletetulla yhteisellä kantamuodolla ei ole ollut kyseistä rakennetta."
 tags: [apowiki, evoluutioteoria, suunnitteluteoria]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Konvergenssi".

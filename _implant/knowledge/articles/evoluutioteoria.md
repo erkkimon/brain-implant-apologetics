@@ -4,7 +4,7 @@ about: apologetics
 title: "Evoluutioteoria"
 description: "TerminologiastaEvoluutioteorialla tarkoitetaan ApologetiikkaWikissä oppia jonka mukaan \"kaikki eliöt polveutuvat yhteisestä esi-isästä ohjaamattomien mutaatioden ja luonnonvalinnan kautta.\" Tätä käsitystä kutsutaan myös synteettiseksi evoluutioteoriaksi tai uusdarvinismiksi."
 tags: [apowiki, evoluutioteoria, keskeneräiset-artikkelit]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Evoluutioteoria".

@@ -4,7 +4,7 @@ about: apologetics
 title: "Moniavioisuus"
 description: "Moniavioisuus on avioliiton muoto, jossa yhdellä henkilöllä on samanaikaisesti useita aviopuolisoita."
 tags: [apowiki, seksuaalietiikka]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Moniavioisuus".

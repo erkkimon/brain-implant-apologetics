@@ -4,7 +4,7 @@ about: apologetics
 title: "Koulumassamurhat"
 description: "Koulumassamurhilla tarkoitetaan suomalaisessa kontekstissa lähinnä Jokelan ja Kauhajoen kouluissa tapahtuneita massamurhia."
 tags: [apowiki, yleistä-tietoa, lukusuositukset, ääriateismi, koulumassamurhat, kouluammuskelut, kouluammuskelu, koulusurmat, koulusurma, koulumassamurha, massamurha, ateismi, kritiikki, fundamentalismi, fundamentalistinen, fundamentalisti]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Koulumassamurhat".

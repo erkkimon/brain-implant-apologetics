@@ -5,7 +5,7 @@ title: "No Free Lunch (kirja)"
 aliases: ["No Free Lunch", "No Free Lunch: Why Specified Complexity Cannot Be Purchased without Intelligence"]
 description: "No Free Lunch: Why Specified Complexity Cannot Be Purchased without Intelligence (Rowman & Littlefield 2002) on William Dembskin kirja täsmennetystä monimutkaisuudesta ja evoluutioalgoritmien rajoista."
 tags: [kirjat, written-here]
-timestamp: 2026-10-02T23:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Written for this implant, not converted from ApoWiki: ApoWiki cites this

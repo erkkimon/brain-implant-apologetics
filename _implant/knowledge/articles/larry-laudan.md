@@ -4,7 +4,7 @@ about: apologetics
 title: "Larry Laudan"
 description: "Larry Laudan (s. 1941 Austin, Texas) on yhdysvaltalainen filosofi, jonka erikoisaloja ovat tieteenfilosofia ja tietoteoria."
 tags: [apowiki, henkilöt, filosofia]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Larry Laudan".

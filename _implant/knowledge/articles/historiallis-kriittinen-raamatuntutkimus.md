@@ -4,7 +4,7 @@ about: apologetics
 title: "Historiallis-kriittinen raamatuntutkimus"
 description: "Raamatun tieteellistä tutkimusta on parin vuosisadan ajan hallinnut historiallis-kriittinen tutkimus."
 tags: [apowiki, eksegetiikka]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Historiallis-kriittinen raamatuntutkimus".

@@ -4,7 +4,7 @@ about: apologetics
 title: "Huuhaa-palkinto 2008"
 description: "Kuva: Vuoden 2008 Huuhaa-palkinto Skepsis ry antoi vuoden 2008 Huuhaa-palkintonsa Kustannus Oy Uudelle Tielle kasvatustieteen professori Tapio Puolimatkan Usko, tiede ja Raamattu sekä Usko, tiede ja evoluutio -kirjojen julkaisemisesta."
 tags: [apowiki, tapio-puolimatka, media, lukusuositukset]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Huuhaa-palkinto 2008".

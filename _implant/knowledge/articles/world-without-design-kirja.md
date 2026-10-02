@@ -4,7 +4,7 @@ about: apologetics
 title: "World Without Design (kirja)"
 description: "World Without Design: The Ontological Consequences of Naturalism on Michael C."
 tags: [apowiki, kirjat, filosofia]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "World Without Design (kirja)".

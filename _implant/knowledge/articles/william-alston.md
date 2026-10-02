@@ -4,7 +4,7 @@ about: apologetics
 title: "William Alston"
 description: "William P. Alston (1921 - 2009) oli yhdysvaltalainen filosofi ja Syracuse Universityn emeritusprofessori."
 tags: [apowiki, henkilöt, filosofia, epistemologia]
-timestamp: 2026-10-02T17:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "William Alston".

@@ -5,7 +5,7 @@ title: "Nasaretilaisen haaste (kirja)"
 aliases: ["Nasaretilaisen haaste", "Nasaretilaisen haaste: Historian Jeesus ja salaliittoteoriat", "Historian Jeesus ja salaliittoteoriat"]
 description: "Nasaretilaisen haaste (2000) on Jeesus-tutkija Matti Kankaanniemen kirja Jeesuksen historiallisuudesta; uusi laitos ilmestyi Warelian kustantamana vuonna 2026."
 tags: [kirjat, written-here]
-timestamp: 2026-10-02T15:30:00Z
+timestamp: 2026-10-02T04:21:00Z
 ---
 <!--
 Written for this implant, not converted from ApoWiki: ApoWiki cites this

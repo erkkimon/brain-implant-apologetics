@@ -2,7 +2,7 @@
 type: skill
 title: Convert ApoWiki wikitext into implant articles
 description: Use when turning the ApoWiki export in raw/apowiki-export/ into searchable articles under knowledge/ — the deterministic, token-free conversion that produces the MVP, including wiki-link resolution, citation footnotes and the topic spine that grounds every page.
-timestamp: 2026-10-02T16:00:00Z
+timestamp: 2026-10-02T04:21:00Z
 depends_on: [skills/using-the-brain-implant.md]
 tools:
   - skills/tools/apowiki_convert.py
