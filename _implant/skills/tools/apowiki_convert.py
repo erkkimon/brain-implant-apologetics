@@ -794,7 +794,14 @@ class Converter:
             lambda m: f"[{(m.group(2) or m.group(1)).strip()}]({m.group(1)})",
             text)
 
-        # Emphasis: five, then three, then two quotes.
+        # Emphasis: five, then three, then two quotes. A table row whose
+        # bold is never closed (alkuhistorianäkemykset) paired its opening
+        # ''' with the next row's; MediaWiki ends bold at the end of the
+        # line, so such a row is closed there first (2026-10-02).
+        text = "\n".join(
+            ln + "'''" if ln.startswith("|")
+            and len(re.findall(r"(?<!')'''(?!')", ln)) % 2 else ln
+            for ln in text.split("\n"))
         text = re.sub(r"'''''(.+?)'''''", r"***\1***", text, flags=re.S)
         text = re.sub(r"'''(.+?)'''", r"**\1**", text, flags=re.S)
         text = re.sub(r"''(.+?)''", r"*\1*", text, flags=re.S)
