@@ -32,6 +32,8 @@ procedure is [Write a wanted page](../../skills/write-a-wanted-page.md).
   launched the design movement, cited in six articles.
 * [The Design Inference](the-design-inference-kirja.md): Dembski's 1998
   Cambridge book that sets out the explanatory filter, cited in nine articles.
+* [No Free Lunch](no-free-lunch-kirja.md): Dembski's sequel on specified
+  complexity and evolutionary algorithms (2001–2002), cited in six articles.
 * [Evoluution maailmankuva](evoluution-maailmankuva-kirja.md): the Finnish
   edition of Johnson's *Defeating Darwinism by Opening Minds* (2000).
 * [Stanley Jaki](stanley-jaki.md): Benedictine priest and physicist,
