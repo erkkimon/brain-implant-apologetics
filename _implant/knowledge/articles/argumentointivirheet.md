@@ -4,7 +4,7 @@ about: apologetics
 title: "Argumentointivirheet"
 description: "Argumentointivirheet eli perusteluvirheet ovat keskustelutekniikan ja mielipiteen esittämisen virheitä, jotka muodollisesti näyttävät oikeilta, mutta joissa lähemmin tarkasteltuina on joko looginen virhe, ne kohdistuvat johonkin muuhun…"
 tags: [apowiki, argumentointi]
-timestamp: 2026-10-02T11:00:00Z
+timestamp: 2026-10-02T15:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Argumentointivirheet".
@@ -71,11 +71,11 @@ Jollei tätä tajuta, koko perusteluvirheen käsite menee [sekaisin](https://fi.
   * [Argumentum ad hitlerum](https://en.wikipedia.org/wiki/Reductio_ad_Hitlerum) <!-- red link: Argumentum ad hitlerum --> (kompromettointi)
   * Suutari pysyköön lestissään <!-- red link: Suutari pysyköön lestissään --> (omahyväisyys)
 * [Argumentum ad hominem](argumentum-ad-hominem.md) (henkilökohtaisuuksiin meneminen)
-  * ad hominem abusivis <!-- red link: ad hominem abusivis --> (loukkaus)
-  * ad hominem circumstantiae <!-- red link: ad hominem circumstantiae --> (argumentaation asianhaaroihin vetoaminen)
+  * [ad hominem abusivis](https://fi.wikipedia.org/wiki/Argumentum_ad_hominem) <!-- red link: ad hominem abusivis --> (loukkaus)
+  * [ad hominem circumstantiae](https://fi.wikipedia.org/wiki/Argumentum_ad_hominem) <!-- red link: ad hominem circumstantiae --> (argumentaation asianhaaroihin vetoaminen)
   * [ad hominem tu quoque](https://en.wikipedia.org/wiki/Tu_quoque) <!-- red link: ad hominem tu quoque --> (argumentoijan sosiaaliseen habitukseen vetoaminen)
-  * kaivon myrkyttäminen <!-- red link: kaivon myrkyttäminen -->
-  * ad hominem motivum <!-- red link: ad hominem motivum --> (motiiviin vetoaminen, oma lehmä ojassa)
+  * [kaivon myrkyttäminen](https://en.wikipedia.org/wiki/Poisoning_the_well) <!-- red link: kaivon myrkyttäminen -->
+  * [ad hominem motivum](https://fi.wikipedia.org/wiki/Argumentum_ad_hominem) <!-- red link: ad hominem motivum --> (motiiviin vetoaminen, oma lehmä ojassa)
 * [Argumentum ad crumenam](https://fi.wikipedia.org/wiki/Varallisuuteen_vetoaminen) <!-- red link: Argumentum ad crumenam --> (varallisuuteen vetoaminen)
 * [Argumentum ad lazarum](https://fi.wikipedia.org/wiki/Köyhyyteen_vetoaminen) <!-- red link: Argumentum ad lazarum --> (köyhyyteen vetoaminen)
 * [Itseen yleistäminen](https://fi.wikipedia.org/wiki/Itseen_yleistäminen) <!-- red link: Itseen yleistäminen -->
@@ -92,8 +92,8 @@ Jollei tätä tajuta, koko perusteluvirheen käsite menee [sekaisin](https://fi.
 * [Argumentum ad odium](https://fi.wikipedia.org/wiki/Katkeruuteen_vetoaminen) <!-- red link: Argumentum ad odium --> (katkeruuteen vetoaminen)
 * [Argumentum ad traditionem](https://fi.wikipedia.org/wiki/Perinteisiin_vetoaminen) <!-- red link: Argumentum ad traditionem --> (perinteisiin vetoaminen)
 * [Asenteellinen kielenkäyttö](https://fi.wikipedia.org/wiki/Asenteellinen_kielenkäyttö) <!-- red link: Asenteellinen kielenkäyttö -->
-  * Argumentum ad ridiculum <!-- red link: Argumentum ad ridiculum --> (naurettavuuteen vetoaminen)
-  * Imartelu <!-- red link: Imartelu -->
+  * [Argumentum ad ridiculum](https://en.wikipedia.org/wiki/Appeal_to_ridicule) <!-- red link: Argumentum ad ridiculum --> (naurettavuuteen vetoaminen)
+  * [Imartelu](https://en.wikipedia.org/wiki/Appeal_to_flattery) <!-- red link: Imartelu -->
   * Sanakikkailu <!-- red link: Sanakikkailu -->
 * [Kaltevan pinnan argumentti](https://fi.wikipedia.org/wiki/Kaltevan_pinnan_argumentti) <!-- red link: Kaltevan pinnan argumentti -->
 * [Kaksi vääryyttä tuottaa yhden oikeuden](https://fi.wikipedia.org/wiki/Kaksi_vääryyttä_tuottaa_yhden_oikeuden) <!-- red link: Kaksi vääryyttä tuottaa yhden oikeuden -->
