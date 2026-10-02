@@ -4,7 +4,7 @@ about: apologetics
 title: "Teleologinen argumentti"
 description: "Teleologisen argumentin lähtökohtana on luonnossa ilmenevä tarkoituksenmukaisuus (telos = päämäärä) ja järjestys."
 tags: [apowiki, filosofia, argumentit, suunnitteluteoria]
-timestamp: 2026-10-02T04:00:00Z
+timestamp: 2026-10-02T05:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Teleologinen argumentti".
@@ -24,7 +24,6 @@ Ennen 1700-lukua kehitetyt muunnelmat argumentista perustuivat siihen, että maa
 
 [Tuomas Akvinolaisen](tuomas-akvinolainen.md) viides tie Jumalan olemassaolon todistamiseksi kiinnittää huomiota siihen, että monet älykkyyttä vailla olevat oliot toimivat tarkoituksenmukaisella tavalla.
 
-> center
 > Näemme näet joidenkin tietämiskykyä vailla olevien, nimittäin luontokappaleiden, toimivan päämäärän vuoksi. Se näkyy siinä, että ne aina tai useimmiten toimivat samalla tavalla saavuttaakseen sen, mikä on parasta. Sen vuoksi on ilmeistä, että ne eivät päädy päämäärään sattumalta vaan tarkoituksella. Mutta tietämiskykyä vailla olevat eivät suuntaudu päämäärään, ellei joku tietävä ja ymmärtävä ohjaa niitä kuten jousiampuja ohjaa nuolen pilkkaan. On siis joku ymmärtävä, joka ohjaa kaikki luontokappaleet päämäärään, ja häntä sanomme Jumalaksi.
 >
 > — Akvinolainen[^2]
@@ -54,21 +53,18 @@ Teleologisen argumentin modernit puolustajat vetoavat myös siihen tosiasiaan, e
 
 Esteettiset näkökohdat vaikuttavat joskus tieteelliseen käsitteenmuodostukseen ja mallien rakentamiseen sekä tieteellisten teorioiden arviointiin. Fyysikko Werner Heisenberg sanoi Einsteinille:
 
-> center
 > Sinun mielestäsi sovellan ehkä esteettisiä kriteereitä totuuteen puhuessani yksinkertaisuudesta ja kauneudesta, ja myönnän avoimesti, että minuun vaikuttaa voimakkaasti luonnon meille tarjoamien matemaattisten mallien yksinkertaisuus ja kauneus. Sinunkin on täytynyt tuntea niiden suhteiden melkein pelottava yksinkertaisuus ja harmonia, joita luonto yhtäkkiä levittää eteemme – –.
 >
 > — Wechsler[^7]
 
 Tunnettu englantilainen teoreettisen fysiikan tutkija Paul Dirac ilmaisee samankaltaisen näkemyksen.
 
-> center
 > On tärkeämpää saada yhtälöihinsä kauneutta kuin saada ne yhtäpitäviksi kokeiden kanssa - - Jos pyrkii saamaan yhtälöihinsä kauneutta ja omaa todella terveen näkemyksen, voi olla varma edistyksestä.
 >
 > — Davies[^8]
 
 Timothy Ferris kommentoi Diracin lausetta:
 
-> center
 > Dirac ei tietenkään tarkoittanut, että kokemusperäiset tulokset pitäisi jättää kokonaan huomiotta, vaan että kaunista teoriaa ei tarvitse hylätä pelkästään siksi, että se epäonnistuu jossakin alustavassa kokeessa. Hänellä oli mielessään Erwin Schrödingerin vastahakoisuus julkaista aaltomekaniikan yhtälöitään pelkästään siksi, että ne olivat ristiriidassa kokeellisen tosiasia-aineiston kanssa. "Teorian on erittäin tärkeä olla kaunis", Dirac kertoi tiedekirjoittaja Horace Freeland Judsonille. "Ja jos havainnot eivät tue sitä, älä ole turhan huolissasi vaan odota hetki kunnes selviää, osoittautuvatko havainnot mahdollisesti virheellisiksi."
 >
 > — Ferris[^9]
@@ -79,7 +75,6 @@ Onko teleologinen argumentti pätevä ja vakuuttava? Älykkään suunnitelman tu
 
 Ateismin esitaistelijana tunnetuksi tullut filosofi [Antony Flew](antony-flew.md) pitää nimenomaan teleologisen argumentin moderneja muunnelmia riittävän vakuuttavina älyllisesti, jotta hän niiden perusteella katsoo perustelluksi luopua ateismista ja omaksua sen sijaan teismin. Flew huomauttaa, että Darwin ei [evoluutioteoriassaan](evoluutioteoria.md) edes väitä selittävänsä [elämän syntyä](abiogeneesi.md) vaan ainoastaan niitä mekanismeja, jotka ohjaavat eliöiden kehittymistä.
 
-> center
 > Minusta näyttää, että [Richard Dawkins](richard-dawkins.md) jättää koko ajan huomiotta sen, mitä Darwin itse sanoo teoksensa *Origin of Species* neljännessätoista luvussa. Siellä hän huomauttaa, että hänen koko argumenttinsa lähtee liikkeelle oliosta, joka on lisääntymiskykyinen. Tämä on se evoluution luomus, joka todella kokonaisvaltaisen evoluutioteorian pitäisi selittää. Darwin itse oli hyvin tietoinen siitä, ettei hän ollut tarjonnut tällaista selitystä. Minusta näyttää nyt, että yli viidenkymmenen vuoden DNA-tutkimus on tuottanut aineistoa uudelle ja valtavan vakuuttavalle argumentille [älykkään suunnitelman](suunnitteluteoria.md) puolesta.
 > Flew
 >

@@ -4,7 +4,7 @@ about: apologetics
 title: "Ontologinen argumentti"
 description: "Ontologisen argumentin varhaisimman ja kaikkein tunnetuimman muodon esitti Anselm Canterburylainen teoksensa Proslogion toisessa luvussa."
 tags: [apowiki, filosofia, argumentit]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T05:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ontologinen argumentti".
@@ -67,9 +67,7 @@ Anselmin argumentti olettaa, että oleminen on ominaisuus, joka lisää jotakin 
 
 Yleinen tapa pyrkiä väittämään Anselmin argumenttia vastaan on *reductio ad absurdum* -muotoinen: väitetään Anselmin argumenttia voitavan käyttää myös "todistamaan" monien sellaisten olioiden olemassaolo, joista tiedämme varmasti, ettei niitä ole olemassa. Esimerkkejä ovat "suurin ajateltavissa oleva kadonnut saari" ja "kaikkein pahin ajateltavissa oleva olento". Anselm itse vastasi tähän vastaväitteeseen:
 
-> center
->
-> — Lupaan varmasti, että jos joku keksii jotakin, joka on olemassa joko todellisuudessa tai pelkästään käsitteellisesti (lukuun ottamatta olentoa, jota suurempaa ei voi ajatella), johon hän voi soveltaa päättelyni rakennetta, minä löydän sen esineen tai olion, ja annan hänelle hänen kadonneen saarensa, niin ettei se enää koskaan katoa.
+> Lupaan varmasti, että jos joku keksii jotakin, joka on olemassa joko todellisuudessa tai pelkästään käsitteellisesti (lukuun ottamatta olentoa, jota suurempaa ei voi ajatella), johon hän voi soveltaa päättelyni rakennetta, minä löydän sen esineen tai olion, ja annan hänelle hänen kadonneen saarensa, niin ettei se enää koskaan katoa.
 
 Millä tavalla Anselm pystyisi osoittamaan, ettei hänen argumenttiaan voi käyttää todistamaan esimerkiksi "suurimman ajateltavissa olevan kadonneen saaren" olemassaoloa? Olennainen kohta on argumentin lähtökohtalause 2: "Suurin ajateltavissa oleva olento voi mahdollisesti olla olemassa todellisuudessa, eli suurin ajateltavissa oleva olento ei ole mahdottomuus." Voidaanko tähän lauseeseen sijoittaa ilmaisu "suurin ajateltavissa oleva saari"? Jos suuruus ymmärretään merkityksessä kaikkivaltius, niin lauseesta tulee mahdoton. On mahdotonta liittää saareen ominaisuutta kaikkivaltius. On loogisesti mahdotonta, että olisi olemassa "kaikkivaltiain ajateltavissa oleva saari".
 

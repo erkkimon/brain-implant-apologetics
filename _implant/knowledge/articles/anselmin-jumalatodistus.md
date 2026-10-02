@@ -4,7 +4,7 @@ about: apologetics
 title: "Anselmin jumalatodistus"
 description: "Tämä sivu keskittyy Anselm Canterburylaisen alkuperäiseen, Jumalan olemassaolon perustelevaan argumenttiin liittyviin näkökohtiin."
 tags: [apowiki, jumala]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-02T05:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Anselmin jumalatodistus".
@@ -48,7 +48,6 @@ Anselmin argumentin looginen muoto on [*modus ponens*](argumentaatioanalyysi.md)
 
 Ensimmäisen väittämän perusteluksi Anselm osoittaa, miten käsitys siitä, mitä suurempaa ei ole mahdollista ajatella, on muodostettavissa sen kokemuksen ja ymmärryksen perusteella, joka meillä on niistä asioista, joita suurempia **on** mahdollista ajatella:
 
-> center
 > [P]ystymme vallan hyvin muodostamaan ajatuksen siitä, mitä suurempaa ei ole mahdollista ajatella, lähtien liikkeelle siitä, mitä suurempaa on mahdollista ajatella. Kukapa ei esimerkiksi pystyisi ajattelemaan – – että jos jokin, jolla on sekä alku että loppu, on hyvä, niin sellainen, jolla on alku mutta joka ei koskaan lakkaa olemasta, on paljon parempi – – samoin sellainen, jolla ei ole alkua sen enempää kuin loppuakaan, on vieläkin parempi, vaikka onkin kaiken aikaa liikkeellä menneisyydestä nykyhetken kautta tulevaisuuteen – – [j]a sellainen, jolla ei ole mitään tarvetta eikä pakkoa muuttumiseen tai siirtymiseen, on vielä sitäkin paljon parempi, olipa jotain sellaista todellisesti olemassa tai ei? Eikö tällaista voida ajatella? Voidaanko mitään tätä suurempaa ajatella? Eikö tämä pikemminkin ole esimerkki ajatuksesta, joka koskee sitä, mitä suurempaa ei ole mahdollista ajatella, niiden asioiden pohjalta, joita suurempia on mahdollista ajatella? Niinpä on todellakin olemassa tapa muodostaa ajatus siitä, mitä suurempaa ei ole mahdollista ajatella.
 > Anselmin vastine Gaunilolle
 >

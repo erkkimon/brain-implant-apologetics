@@ -527,6 +527,11 @@ class Converter:
                     continue
                 if "=" in seg and " " not in head.strip() and len(head) < 20:
                     continue
+                if seg.lower() in ("center", "left", "right"):
+                    # Sitaatti3's alignment ({{Sitaatti3|center|…}}), not
+                    # text: it showed as "> center" in 11 articles until
+                    # 2026-10-02.
+                    continue
                 body_parts.append(seg)
             if len(body_parts) > 1 and not body_parts[-1].startswith("#"):
                 attribution = body_parts[-1]

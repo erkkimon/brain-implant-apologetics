@@ -4,7 +4,7 @@ about: apologetics
 title: "Sukupuoli"
 description: "Biologinen sukupuoliero perustuu naisen ja miehen toisiaan täydentäviin tehtäviin lisääntymisessä."
 tags: [apowiki, etiikka, lukusuositukset]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T05:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Sukupuoli".
@@ -24,7 +24,6 @@ Postmoderni sukupuolikäsitys pyrkii erottamaan sukupuolen kokonaan biologiasta 
 
 On väitetty, että sukupuolen ei voida sanoa olevan kaksijakoinen biologisilla perusteilla, koska on olemassa intersukupuolisia. Tämä väite perustuu kuitenkin väärinkäsitykseen. Naisten ja miesten ero konkretisoituu kahden erilaisen sukusolun eroon, joiden yhtymisestä riippuu ihmisen lisääntyminen. Sukupuolinen kahtiajako on perustava biologinen tosiasia: on olemassa vain kahdenlaisia sukusoluja, joilla ei ole mitään merkityksellisiä välimuotoja. Tämä kaksijakoisuus ei perustu tilastolliseen yleisyyteen vaan sukusolujen väliseen toiminnalliseen eroon. Niinpä sitä eivät kyseenalaista intersukupuolisuus, kaksijakoisen sukupuolijaon ulkopuolelle sijoittuvat sukupuoli-identiteetit tai muut näennäiset poikkeukset .[^4] Myös kromosomeilla ja hormoneilla on osansa sukupuolen määräytymisessä. Kromosomit ovat joka solussa. Useimmissa tapauksissa sukupuolen voi määritellä objektiivisesti ihmisen sukupuolelle tyypillisestä kromosomien lukumäärästä ja rakenteesta, joka on miehillä 46,XY ja naisilla 46,XX.[^5] Ihminen syntyy joko mieheksi tai naiseksi sen perusteella, onko hänellä Y-kromosomia, vai ei. Naiset perivät toisen X-kromosomeistaan äidiltään ja toisen isältään, miehet taas perivät X-kromosomin äidiltään ja Y-kromosomin isältään.[^6] Myös näihin kromosomeihin voi kohdistua mutaatioita, joiden seuraukset voivat olla merkittäviäkin[^7], mutta biologisesti sukupuoli määräytyy näissäkin tapauksissa Y-kromosomin olemassaolon tai puuttumisen perusteella. Sukupuolielimissä voi olla synnynnäisesti epäselvyyttä, mutta tämä ei vaikuta sukupuolen määräytymiseen, vaikka vaikutukset yksilön elämään voivatkin olla merkittävät.[^6]
 
-> center
 > Kromosomipoikkeavuudet ja hyvin harvinaiset muista kuin sukupuolikromosomien poikkeavuuksista johtuvat fenotyypin määräytymisen häiriöt eivät muuta tätä kaksijakoa miksikään. Ne ovat kansainvälisen sairausluokittelun mukaisia sairauden tiloja. Ei ole mitään älyllisesti kelvollista perustetta puhua muusta kuin kahdesta sukupuolesta.
 >
 > — Tapio Puolimatka,[^5] kasvatustieteen teorian ja tradition professori
@@ -35,7 +34,6 @@ On väitetty, että sukupuolen ei voida sanoa olevan kaksijakoinen biologisilla 
 
 #### Postmoderni
 
-> right
 > Nuorisoikäiselle on tyypillistä identiteettihämmennys, epävarmuus siitä, kuka olen, kuka minun pitäisi olla ja mikä minä oikeasti olen. Tässä ajassa ratkaisuksi tarjoutuu sukupuoli, jonka korjauksen ajatellaan ratkaisevan kerralla kaikki ongelmat.
 >
 > — Tampereen yliopiston nuorisopsykiatrian professori Riittakerttu Kaltiala-Heino[^8]
@@ -112,7 +110,6 @@ Hollantilaissyntyinen Luisa la Serpe[^35][^36], yhdysvaltalainen Sy Rogers[^37],
 
 ### Sukupuolietiikan tutkimus ja tieteen avoimuus
 
-> right
 > Keskustelu transsukupuolisten hoidosta on kuumentunut niin, että alan asiantuntijat ja heidän perheensä ovat saaneet transaktivisteilta tappouhkauksia.
 >
 > — Ilkka Ahtokivi[^8]

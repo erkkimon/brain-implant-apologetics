@@ -4,7 +4,7 @@ about: apologetics
 title: "Raamatun historiallinen luotettavuus"
 description: "Kuva: pienoiskuva Raamattu on sidottu tunnettuihin aikoihin, paikkoihin, hallitsijoihin ja henkilöihin, joista löytyy riittävästi tietoa, jotta tiedämme tekstin olevan pääpiirteissään luotettavaa."
 tags: [apowiki, raamattu, historia, lukusuositukset]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T05:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Raamatun historiallinen luotettavuus".
@@ -49,7 +49,6 @@ Raamattu on asettanut itsensä lukemattomissa kohdissa tarkistukselle alttiiksi.
 
 #### [Uusi testamentti](uusi-testamentti.md)
 
-> right
 > Uuden testamentin alkutekstin tutkimisessa on käytettävissä 274 majuskelikäsikirjoitusta, 2 795 minuskelikäsikirjoitusta, noin 2 200 lektionaaria sekä 88 papyrusta ja ostrakonia.
 >
 > — [^1]

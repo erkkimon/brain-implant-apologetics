@@ -4,7 +4,7 @@ about: apologetics
 title: "Tieteellinen maailmankatsomus"
 description: "Tieteellistä maailmankatsomusta pidetään usein uskonnollisen ajattelun vastakohtana."
 tags: [apowiki, maailmankatsomus]
-timestamp: 2026-10-02T04:00:00Z
+timestamp: 2026-10-02T05:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tieteellinen maailmankatsomus".
@@ -98,7 +98,6 @@ Kaikkiin uskonnollisuuden muotoihin ei sisälly uskoa persoonalliseen Jumalaan, 
 
 Esimerkiksi muinaiset pythagoralaiset uskoivat että jumalallinen todellisuus muodostuu luvuista, koska he uskoivat kaiken muun syntyvän luvuista ja riippuvan lukujen yhdistelmistä. Vaikka he pitivät kaikkia lukuja jumalallisina, he pitivät ykköstä korkeimpana jumaluutena, koska kaikki muut luvut riippuivat siitä ja ykkönen puolestaan ei ole riippuvainen mistään muusta. Pythagoralaisten käsitys jumalallisesta käy ilmi yhdestä heidän rukouksistaan, joka on omistettu luvulle kymmenen.
 
-> center
 > Siunaa meitä jumalallinen luku, sinä joka synnytät jumalat ja ihmiset! Oi pyhä, pyhä kymmenluku, sinä joka sisällät ikuisesti virtaavan luomakunnan juuren ja alkuperän! Sillä jumalallinen luku alkaa syvällisellä, puhtaalla ykseydellä kunnes se tulee pyhään neloseen; sitten se synnyttää kaiken äidin, kaikkikäsittävän, ensisyntyneen, muuttumattoman, väsymättömän pyhän kymmenluvun, kaiken avainten haltijan.
 >
 > — Danzig[^12]
@@ -107,7 +106,6 @@ Pythagoralaisen näkemyksen mukaan jumalallinen on se mikä "sisältää luomaku
 
 Platonin mukaan luvut eivät ole itsessään olevia ja siten jumalallisia vaan "muodot". Hän sanoi näiden olevan "itseriittoisia" tai "itsessään olevia".[^13]
 
-> center
 > Näin ollen meidän on tehtävä se johtopäätös, että on olemassa erikseen itsessään oleva olevaisen laji. Se on syntyä vailla ja katoamaton eikä koskaan ota itseensä mitään ulkoa päin eikä mene sisälle toiseen olevaiseen. Se on näkymätön ja muutenkin havaitsematon.
 >
 > — Timaios[^14]
@@ -116,7 +114,6 @@ Platon määrittelee muodot jumalallisiksi ja kaiken muun olevaisen alkuperäksi
 
 Myös Aristoteles määrittelee selvästi mitä jumalallisella olisi tarkoitettava.
 
-> center
 > Siispä sellaista olevaa, joka on erillinen ja liikkumaton käsittelee jokin näistä molemmista erillinen tiede - -. Ja jos olioiden joukossa on jokin tällainen olio, siellä täytyy varmasti olla myös jumalallinen olio, ja sen täytyy olla ensimmäinen ja hallitsevin prinsiippi.
 > Metafysiikka
 >
@@ -143,7 +140,6 @@ Vastoin positivistien oletusta tiede perustuu aina olemassaolon alkuperästä mu
 
 Usko tieteentekijöiden neutraalisuuteen ja objektiivisuuteen sai osakseen purevaa kritiikkiä jo Nietzschen taholta. Pohtiessaan psykologien työtä moraalin syntyhistorian selvittämisessä **Friedrich Nietzsche** (1844–1900) pohtii mahdollisuutta, että heidän teorioidensa syntyyn vaikuttavat uskonnolliset asenteet, jotka ovat osittain tiedostamattomia:
 
-> center
 > Nämä englantilaiset psykologit – mitä he oikeastaan tahtovat? – – mikä oikeastaan ajaa näitä psykologeja tähän suuntaan? Onko se salainen, ilkeä, alhainen, itselle kenties tunnustamaton vaisto? Vai ehkä pessimistinen epäluulo, pettyneiden, synkistyneiden, myrkyllisiksi ja vihreiksi muuttuneiden idealistien luulevaisuus? Vai kristinuskoon (ja Platoniin) kohdistuva pieni maanalainen vihamielisyys ja kauna, joka kenties ei ole päässyt edes tietoisuuden kynnyksen yli? Vai suorastaan himokas mieltymys siihen mikä olemassaolossa on oudostuttavaa, tuskallisen paradoksaalista, epäilyttävää ja mieletöntä? Vai, viimeksi – vähän kaikkea, hiukan halpamaisuutta, hiukan synkistymistä, hiukan antikristillisyyttä, hiukan kutkaa ja pippurin tarvetta?
 >
 > — Nietzsche[^19]
@@ -174,15 +170,12 @@ Inhimillisen tiedon epävarmuudesta ei seuraa, etteikö tulisi pyrkiä pääsem�
 
 Kuvaukset tieteen kehityksestä ovat usein pitkälle vietyjä yksinkertaistuksia, jotka saavat lähes myyttisen luonteen. Robert C. Koons kuvaa yhtä tällaista tieteen kehitystä koskevaa kuvausta seuraavalla tavalla:
 
-> center
->
-> — Tiede on materialistisen filosofian voittokulun historiaa kaikkia kilpailijoitaan, mukaan luettuna teismiä vastaan.
+> Tiede on materialistisen filosofian voittokulun historiaa kaikkia kilpailijoitaan, mukaan luettuna teismiä vastaan.
 
 Koons[^24] kutsuu tätä määritelmää tieteen ykseyden materialistiseksi myytiksi. Sen mukaan tieteen historia antiikin Kreikan Thaleksesta ja Demokritoksesta alkaen aina viime päiviin saakka on ollut yhä materialistisemman ja reduktionistisemman teorian pitkä menestystarina. On osoittautunut turhaksi vastustaa tätä kehityskulkua, jossa kaikki lopulta selitetään fyysisten voimien ja mikrohiukkasten pohjalta, ja kilpailija toisensa jälkeen on kärsinyt tappion. Teismi on viimeinen vastarintapesäke ja teologit pakotetaan toistuvasti tekemään strategisia vetäytymisiä ja luovuttamaan yhä suurempia alueita materialisteille. Jumalasta on tullut yhä tarpeettomampi hypoteesi, jota emme enää tarvitse tieteessä.
 
 Niiniluoto sitoutuu naturalistiseen tulkintaan tieteen kehityksestä.
 
-> center
 > Tieteen synty antiikin Kreikassa liittyi juuri siihen, että luonnon ja elämän ilmiöille ryhdyttiin etsimään "naturalistisia" tai "luonnollisia" selityksiä erilaisten "yliluonnollisten" agenttien ja tekijöiden sijasta. (– –) Luonnontieteen vapautuminen animismista ja teologiasta on inhimillisen kulttuurin tärkeimpiä saavutuksia, jota yhä joudutaan puolustamaan erilaisia tieteen alueelle tunkeutuvia "kriittisinä" tai ennakkoluulottomina esiintyviä mutta vanhanaikaista mystiikkaa edustavia suuntauksia vastaan.
 >
 > — Niiniluoto[^25]
@@ -191,9 +184,7 @@ Niiniluoto kuvaa tieteen edistyksen siirtymisenä yliluonnollisista selityksist�
 
 Niiniluodon mukaan tiede syntyi antiikin Kreikassa. Tämä luonnehdinta yksinkertaistaa asioita. Moderni luonnontiede ei päässyt kehittymään pelkän kreikkalaisen älyllisen perinnön varassa vaan sitä varten tarvittiin joitakin perustavia olettamuksia kristillisestä maailmankatsomuksesta. **M. B. Foster**[^26] kirjoittaa:
 
-> center
->
-> — Esiin nousee yleisluontoinen kysymys: Mistä ovat lähtöisin uskonpuhdistuksen jälkeisen filosofian esiin nostamat ei-kreikkalaiset ainekset – –? Mistä ovat lähtöisin ne nykyisen luontonäkemyksen ei-kreikkalaiset ainekset, jotka vaikuttivat ratkaisevasti modernin tieteen erityisluonteeseen? Vastaus ensimmäiseen kysymykseen kuuluu: kristillinen ilmoitus. Vastaus toiseen kysymykseen kuuluu: kristillinen oppi luomisesta.
+> Esiin nousee yleisluontoinen kysymys: Mistä ovat lähtöisin uskonpuhdistuksen jälkeisen filosofian esiin nostamat ei-kreikkalaiset ainekset – –? Mistä ovat lähtöisin ne nykyisen luontonäkemyksen ei-kreikkalaiset ainekset, jotka vaikuttivat ratkaisevasti modernin tieteen erityisluonteeseen? Vastaus ensimmäiseen kysymykseen kuuluu: kristillinen ilmoitus. Vastaus toiseen kysymykseen kuuluu: kristillinen oppi luomisesta.
 
 Kristillisellä todellisuuskäsityksellä on ollut tärkeä merkitys modernin luonnontieteen kehityksessä. Niiniluodon edustama kriittinen tieteellinen realismi tekee ongelmallisen oletuksen, jonka mukaan "tieteellinen kuva (– –) maailmasta on syvempi ja ontologisessa mielessä primaarisempi kuin arkikokemuksen antama, luonnollisen kielen puitteissa ilmaistavissa oleva ilmikuva"[^27]. Tämä käsitys on sukua näkemykselle, jonka mukaan maailma jakautuu fenomenaaliseen ja noumenaaliseen puoleen. Jos tämä oletus vietäisiin loogisiin johtopäätöksiinsä ja sovellettaisiin käytännössä tieteelliseen tutkimukseen, se veisi tutkimukselta pohjan pois.
 
@@ -233,7 +224,6 @@ Kokeellisen tutkimuksen kehittymiseen liittyi osana myös ruumiillisen työn arv
 
 Ruumiillisen työn arvostusta korostavan kulttuurin kehitykseen vaikutti ratkaisevasti kristinuskon ydinajatus, jonka mukaan Jumala on tullut ihmiseksi.
 
-> center
 > – – että Jumala otti ruumiillisen muodon alhaisimman yhteiskunnallisen luokan ihmisenä, että hän vaelsi maan päällä tavallisten arkisten ihmisten parissa ja arkisten tapahtumien keskellä ja että hän joutui maallisten mittapuiden mukaan kärsimään häpeällisellä tavalla.
 >
 > — Auerbach[^37]
@@ -252,7 +242,6 @@ Vähitellen tuli yhä hallitsevammaksi raamatullinen käsitys, joka kielsi sen, 
 
 [Francis Bacon](francis-bacon.md) (1561–1626) perusteli empiiristä metodia uskonnollisesti.
 
-> center
 > Me jäljittelemme ensimmäisten vanhempiemme syntejä – – He halusivat olla Jumalan kaltaisia, mutta heidän jälkeläisensä haluavat olla vielä suurempia. Sillä me luomme maailmoita, me ohjaamme ja hallitsemme luontoa, me haluamme, että kaikki asiat ovat sellaisia kuin me typeryydessämme ajattelemme että niiden pitäisi olla, eikä niin kuin näyttää sopivimmalta jumalallisesta viisaudesta, tai niin kuin niiden havaitaan itse asiassa olevan – – Me selvästi painamme oman leimamme luotuihin olentoihin ja Jumalan tekoihin, sen sijaan että huolellisesti tutkisimme ja löytäisimme niistä itsensä Luojan leiman.
 >
 > — Bacon;sit. Hooykaas[^42]
@@ -289,7 +278,6 @@ Jos tämä myyttinen tietoisuus pääsisi todella tunkeutumaan tieteelliseen aja
 
 Raamatun maailmankuva ei jätä mitään sijaa myyttiselle kahtiajaolle. Sen mukaan tosi todellisuus on ihmiselle välittömästi annettu kokemuksessa ja havainnoissa. Siksi Jumala saattoi ilmoittaa itsensä ihmisenä, joka tuli havainnoiduksi ja tunnetuksi havaintojen välityksellä, niin kuin Johannes kirjoittaa:
 
-> center
 > Mikä on alusta alkaen ollut, minkä olemme kuulleet, minkä omin silmin nähneet, mitä katselleet ja käsin koskettaneet, siitä me puhumme: elämän Sanasta. Elämä ilmestyi, me olemme nähneet sen ja siitä me todistamme. Me ilmoitamme teille iankaikkisen elämän, joka oli Isän luona ja ilmestyi meille. Minkä olemme nähneet ja kuulleet, sen me myös teille julistamme, jotta teilläkin olisi yhteys meihin. Meillä on yhteys Isään ja hänen Poikaansa Jeesukseen Kristukseen.
 >
 > — ([1. Joh. 1:1-3](../books/1jn.md))

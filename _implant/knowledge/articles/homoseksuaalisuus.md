@@ -4,7 +4,7 @@ about: apologetics
 title: "Homoseksuaalisuus"
 description: "Homoseksuaalisuus on seksuaalinen suuntautuminen, jossa yksilön emotionaaliset, eroottiset ja/tai seksuaaliset tunteet kohdistuvat ensisijaisesti omaan sukupuoleen."
 tags: [apowiki, seksuaalietiikka, lukusuositukset]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T05:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Homoseksuaalisuus".
@@ -80,14 +80,12 @@ Brittiläiseen tutkimukseen vastanneiden homoseksuaalien nykyiset suhteet olivat
 
 #### Homoperheet ja lasten kasvatus
 
-> right
 > Äitini esitti minulle kerran kysymyksen: ”Millie, mitä jos minä ja kumppanini voisimme mennä naimisiin? Mitä jos meillä olisi se vakaa perheympäristö, joka kaikilla muillakin on?” Minä vastasin kysymykseen hyvin yksinkertaisesti toisella kysymyksellä: ”Miten psykologit olisivat hoitaneet minua ja ongelmieni taustalla vaikuttavaa isättömyyden ongelmaa, jos isättömyyden tiedostaminen tulkittaisiin jonkinlaiseksi syrjinnän muodoksi? Miten yksikään lääkäri olisi oikeuteen joutumisen pelossa hoitanut minua sellaisessa tilanteessa?” Äitini ei vastannut mitään. Hän vain oli hiljaa. Kukaan ei ajattele tätä. Ihmisillä on niin kiire naimisiin.
 >
 > — Millie Fontana lesboäidilleen[^35]
 
 Miesten ja naisten kasvatustavat ja olemus ovat erilaiset. Isäsuhteen on todettu olevan naiselle tärkeä,[^36] ja muutenkin lapselle tärkeä.[^37] Myös [homosuhteiden epävakaus](homoseksuaalisuus.md) voidaan nähdä kyseenalaisena seikkana sen kannalta, kannattaako adoptiolapsia sijoittaa homopareille varsinkaan, kun adoptionhakijoista on ainakin täällä Suomessa ylitarjontaa[^38].
 
-> center
 > - Kärjistäen isä on se, joka rohkaisee lasta kehittymään, äiti taas huolehtii tunnepuolesta. Sanotaan, että äidiltään lapsi oppii hymyilemisen taidon, mutta isältään hän oppii sanomaan lauseen tämän perässä.
 >
 > — psykologi Virpi Lahtiharju[^37]
@@ -141,7 +139,6 @@ Uskonnonvapauden kannalta on erittäin ongelmallista, mikäli tasa-arvolakien po
 
 #### Homoseksuaalisuus ja sananvapaus
 
-> right
 > "Olen homoseksuaali taustaltani, ja olen kokenut muutosta seksuaalisuudessani terapian ja rukouksen kautta. Minua jäi kiinnostamaan se, kuinka yhteiskunta ja media antavat yksipuolisen kuvan aiheesta. Se on hyvin Setan ja homoliikkeen värittämää. Tiedekeskustelu asiasta on monipuolisempaa. Kuitenkin meille yritetään syöttää näkemystä, että homoliikkeen näkemys on ainoa oikea, ja että olet suvaitsematon fasisti, jos ajattelet toisin."
 >
 > — Ari Puonti

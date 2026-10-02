@@ -4,7 +4,7 @@ about: apologetics
 title: "Kiila-strategia"
 description: "Kiilastrategia ylipäänsä on jonkin tahon pyrkimys edistää kannattamansa näkemyksen yhteiskunnallista vaikuttavuutta koettamalla eristää vastakkaisen näkemyksen vakaumukselliset kannattajat näiden mahdollisista liittolaisista \"lyömällä kiiloja\" vastustettavan näkemyksen ydinkannattajakunnan ympärille."
 tags: [apowiki, evoluutiokritiikki, suunnitteluteoria]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T05:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kiila-strategia".
@@ -61,7 +61,6 @@ Kyseisen kiilastrategian menestys perustuu olennaisesti siihen taustatekijään,
 
 Dokumentoidun esimerkin naturalistisen kiilastrategian mukaisesta toimintamallista antaa [professori Valtaoja](https://fi.wikipedia.org/wiki/Esko_Valtaoja), joka yhtäältä syyttäessään [professori Puolimatkaa](tapio-puolimatka.md) mm. "jenkkien kiilastrategian" noudattamisesta yrittää toisaalta itse viedä läpi <!-- [kiilastrategian naturalistista versiota](http://www.kotimaa.fi/index.php?option=com_content&task=view&id=7294&Itemid=38) -->kiilastrategian naturalistista versiota: "Valtaoja patistelee kirkkoa tekemään ihmisille selväksi, että Luojaan uskominen ei ole sama asia kuin usko kreationistiseen maailmankuvaan."
 
-> center
 > - Jos kukaan kirkon puolelta ei mitenkään reagoi ja protestoi, jää helposti sellainen käsitys, että kaikki kirkon väki on "litteä maa, 6000 vuotta sitten luotu" -porukkaa, jonka kanssa kukaan järkevä ihminen ei tietystikään halua olla missään tekemisissä.
 > Esko Valtaoja
 >

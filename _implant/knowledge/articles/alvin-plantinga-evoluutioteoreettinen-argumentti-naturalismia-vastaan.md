@@ -4,7 +4,7 @@ about: apologetics
 title: "Alvin Plantinga: Evoluutioteoreettinen argumentti naturalismia vastaan"
 description: "Esitin evoluutioteoreettisen argumentin naturalismia vastaan ensimmäisen kerran kirjani Warrant and Proper Function viimeisessä luvussa."
 tags: [apowiki, filosofia, naturalismi, argumentit, tekijänoikeuden-alaiset-artikkelit, alvin-plantinga]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T05:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Alvin Plantinga: Evoluutioteoreettinen argumentti naturalismia vastaan".
@@ -32,7 +32,6 @@ Perinteisen kristillisen (ja juutalaisen ja islamilaisen) ajattelun mukaan ihmin
 
 Mutta jos <i>naturalismi</i> on totta, Jumalaa ei ole olemassa, eikä Jumala (tai kukaan muukaan) ohjaa ihmisen kehitystä ja suunnittele sen etenemistä. Tämä johtaa suoraan kysymykseen, onko ollenkaan todennäköistä, että älylliset kykymme olisivat kehittyneet luotettaviksi ja kykeneviksi tarjoamaan meille enimmäkseen tosia uskomuksia, jos oletamme naturalismin ja älyllisten kykyjemme kehityksellisen alkuperän. Darwin itse ilmaisi tämän epäilyksen. Hän sanoi:
 
-> center
 > Minussa herää aina hirvittävä epäilys, onko ihmismielen muodostamilla vakaumuksilla mitään arvoa, ovatko ne ollenkaan luotettavia, ottaen huomioon, että ihmismieli on kehittynyt alempien eläinten mielistä. Luottaisiko kukaan apinan mielessä kehittyneisiin vakaumuksiin, jos sen mielessä on yleensä mitään vakaumuksia.
 >
 > — Charles Darwin[^5]
