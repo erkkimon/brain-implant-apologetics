@@ -4,7 +4,7 @@ about: apologetics
 title: "Kirjallisuutta"
 description: "Alla hyvää kirjallisuutta kristinuskon perusteluihin tutustumiseen."
 tags: [apowiki, yleistä-tietoa, kirjat]
-timestamp: 2026-10-02T16:00:00Z
+timestamp: 2026-10-02T22:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kirjallisuutta".
@@ -79,7 +79,7 @@ Alla hyvää kirjallisuutta [kristinuskon perusteluihin](kristinuskon-perustelut
 * [The Edge of Evolution](the-edge-of-evolution-kirja.md), Michael J. Behe
 
 #### Suunnitteluteoria
-* [The Design Inference](https://en.wikipedia.org/wiki/The_Design_Inference) <!-- red link: The Design Inference (kirja) -->, William Dembski
+* [The Design Inference](../pages/the-design-inference-kirja.md), William Dembski
 
 #### [Abiogeneesi](abiogeneesi.md)
 * [Signature in the Cell](signature-in-the-cell-kirja.md), [Stephen Meyer](stephen-c-meyer.md)

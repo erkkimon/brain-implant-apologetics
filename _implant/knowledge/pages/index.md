@@ -28,6 +28,8 @@ procedure is [Write a wanted page](../../skills/write-a-wanted-page.md).
   Datakirjat.
 * [Phillip Johnson](phillip-johnson.md): law professor, author of *Darwin
   on Trial*, a founder of the design movement.
+* [The Design Inference](the-design-inference-kirja.md): Dembski's 1998
+  Cambridge book that sets out the explanatory filter, cited in nine articles.
 * [Evoluution maailmankuva](evoluution-maailmankuva-kirja.md): the Finnish
   edition of Johnson's *Defeating Darwinism by Opening Minds* (2000).
 * [Stanley Jaki](stanley-jaki.md): Benedictine priest and physicist,
