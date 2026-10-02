@@ -4,7 +4,7 @@ about: apologetics
 title: "Jeesuksen historiallisuus"
 description: "Jeesus Nasaretilaisen olemassaolon kieltäminen on yleinen ja muodikas tapa leimata kristinusko naurettavaksi."
 tags: [apowiki, jeesus, historia]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T15:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jeesuksen historiallisuus".
@@ -239,8 +239,8 @@ Kenties tuotteliain Jeesuksen historiallisuuden kieltävä raamatuntutkija on [G
 [^10]: Uro & Lehtipuu 1997, s. 51, 155, 250.
 [^11]: Mäkisalo, Martti, [Junailiko Jeesus kuolemansa?](http://www.hs.fi/kulttuuri/kirja-arvostelu/art-2000002592207.html), Helsingin Sanomat, 10.4.2009, Suomalaiset tutkivat kuolemaa, joka tapahtui 1980 vuotta sitten, viitattu 18.4.2017  (*Yksi oli Johannes Kastaja, joka monien tutkijoiden mukaan oli elinaikanaan jopa tunnetumpi kuin Jeesus.*)
 [^12]: Yamauchi E. M. "Jesus Outside the New Testament: What Is the Evidence".
-[^13]: Kankaanniemi, Matti, *Nasaretilaisen haaste <!-- red link: Nasaretilaisen haaste -->*, Aikamedia Oy, 2000, 952-5374-00-9 (*Jeesuksen elämä ei nimittäin Rooman valtakunnan perspektiivistä katsottuna ollut niin merkittävä, että siitä voitaisiin olettaa olevan paljoa kirjallisia merkintöjä.*)
-[^14]: Kankaanniemi, Matti, *Nasaretilaisen haaste <!-- red link: Nasaretilaisen haaste -->*, Aikamedia Oy, 2000, 952-5374-00-9 (*Jerusalemin temppelin hävityksen yhteydessä vuonna 70 jkr tuhottiin myös suuri määrä juutalaisia asiakirjoja, joten tämä saattaa osaltaan vaikuttaa siihen, että tietoa Jeesuksesta ei juutalaisistakaan lähteistä juurikaan ole löydettävissä.*)
+[^13]: Kankaanniemi, Matti, *[Nasaretilaisen haaste](../pages/nasaretilaisen-haaste-kirja.md)*, Aikamedia Oy, 2000, 952-5374-00-9 (*Jeesuksen elämä ei nimittäin Rooman valtakunnan perspektiivistä katsottuna ollut niin merkittävä, että siitä voitaisiin olettaa olevan paljoa kirjallisia merkintöjä.*)
+[^14]: Kankaanniemi, Matti, *[Nasaretilaisen haaste](../pages/nasaretilaisen-haaste-kirja.md)*, Aikamedia Oy, 2000, 952-5374-00-9 (*Jerusalemin temppelin hävityksen yhteydessä vuonna 70 jkr tuhottiin myös suuri määrä juutalaisia asiakirjoja, joten tämä saattaa osaltaan vaikuttaa siihen, että tietoa Jeesuksesta ei juutalaisistakaan lähteistä juurikaan ole löydettävissä.*)
 [^15]: Uro & Lehtipuu 1997, s. 41-45
 [^16]: Uro & Lehtipuu 1997, s. 45-49
 [^17]: Uro & Lehtipuu 1997, s. 49-51
@@ -263,7 +263,7 @@ Kenties tuotteliain Jeesuksen historiallisuuden kieltävä raamatuntutkija on [G
 [^34]: Ap. t. 18:2
 [^35]: J. P. Holding, Shattering the Christ.Myth - The Reliability of the Secular References to Jesus. www.integrityonline15.com/jpholding/tekton//Tekton_TOC.html
 [^36]: Tacitus: Annaalit 15, 44. Risto Santalan kirjassa Juuret 1, s. 19
-[^37]: Kankaanniemi, Matti, *Nasaretilaisen haaste <!-- red link: Nasaretilaisen haaste -->*, Aikamedia Oy, 2000, 952-5374-00-9 (*Se esiintyy kyseisen teoksen kaikissa tunnetuissa kopioissa ja on kirjoitettu Tacituksen kirjoitustyylillä.*)
+[^37]: Kankaanniemi, Matti, *[Nasaretilaisen haaste](../pages/nasaretilaisen-haaste-kirja.md)*, Aikamedia Oy, 2000, 952-5374-00-9 (*Se esiintyy kyseisen teoksen kaikissa tunnetuissa kopioissa ja on kirjoitettu Tacituksen kirjoitustyylillä.*)
 [^38]: Bowman et al. 2005, s. 751.
 [^39]: Myllykoski 1994, s. 17.
 [^40]: [Babylonian Talmud: Tractate Sanhedrin](http://www.come-and-hear.com/sanhedrin/sanhedrin_43.html), viitattu 23.12.2009

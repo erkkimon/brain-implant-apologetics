@@ -36,3 +36,9 @@ procedure is [Write a wanted page](../../skills/write-a-wanted-page.md).
   from contingency, by the principle of sufficient reason.
 * [Tomistiset kosmologiset argumentit](tomistiset-kosmologiset-argumentit.md):
   Aquinas's first sustaining cause.
+
+## Jesus
+
+* [Nasaretilaisen haaste](nasaretilaisen-haaste-kirja.md): Matti
+  Kankaanniemi's book on the historicity of Jesus (2000; new edition 2026),
+  the corpus's most-linked red link.

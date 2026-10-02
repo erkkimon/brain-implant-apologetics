@@ -4,7 +4,7 @@ about: apologetics
 title: "Jeesuksen ylösnousemus"
 description: "Kristinusko poikkeaa siten muista uskonnoista, että se perustuu olennaisesti historialliseen tapahtumaan, Jeesuksen ylösnousemukseen."
 tags: [apowiki, jeesus, ihmeet, historia, lukusuositukset]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T15:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jeesuksen ylösnousemus".
@@ -124,7 +124,7 @@ Oletetaan tilanne, jossa apostolit ovat kehittäneet mielikuvitukseensa perustuv
 * [Jeesus](jeesus-kirja.md), [Tom Holmén](tom-holmén.md)
 * [A.D. 30](ad-30-kirja.md), [Tom Holmén](tom-holmén.md) ja [Matti Kankaanniemi](matti-kankaanniemi.md)
 * [Tapaus Kristus](tapaus-kristus-kirja.md), [Lee Strobel](lee-strobel.md)
-* Nasaretilaisen haaste <!-- red link: Nasaretilaisen haaste (kirja) -->, [Matti Kankaanniemi](matti-kankaanniemi.md)
+* [Nasaretilaisen haaste](../pages/nasaretilaisen-haaste-kirja.md), [Matti Kankaanniemi](matti-kankaanniemi.md)
 
 ##### Englanniksi
 * [The Resurrection of the Son of God](http://www.christendom-awake.org/pages/resurrection/wright_resurrection.htm), N.T. Wright
