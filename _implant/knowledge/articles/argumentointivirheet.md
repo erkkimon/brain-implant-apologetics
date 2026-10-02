@@ -4,7 +4,7 @@ about: apologetics
 title: "Argumentointivirheet"
 description: "Argumentointivirheet eli perusteluvirheet ovat keskustelutekniikan ja mielipiteen esittämisen virheitä, jotka muodollisesti näyttävät oikeilta, mutta joissa lähemmin tarkasteltuina on joko looginen virhe, ne kohdistuvat johonkin muuhun…"
 tags: [apowiki, argumentointi]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T11:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Argumentointivirheet".
@@ -131,28 +131,28 @@ Jollei tätä tajuta, koko perusteluvirheen käsite menee [sekaisin](https://fi.
 * [Argumentum ad nauseam](https://fi.wikipedia.org/wiki/Argumentum_ad_nauseam) <!-- red link: Argumentum ad nauseam --> (toisto ilman uutta asiaa)
 * [Humen giljotiini](humen-giljotiini.md) (naturalistinen virhepäätelmä)
 * [Occamin partaveitsi](https://fi.wikipedia.org/wiki/Occamin_partaveitsi) <!-- red link: Occamin partaveitsi --> (argumentoinnin tarpeeton kompleksointi)
-* Todennäköisyyksiin vetoaminen <!-- red link: Todennäköisyyksiin vetoaminen -->
-* Epätäydellinen vertailu <!-- red link: Epätäydellinen vertailu -->
+* [Todennäköisyyksiin vetoaminen](https://en.wikipedia.org/wiki/Appeal_to_probability) <!-- red link: Todennäköisyyksiin vetoaminen -->
+* [Epätäydellinen vertailu](https://en.wikipedia.org/wiki/Incomplete_comparison) <!-- red link: Epätäydellinen vertailu -->
 * Epäkonsistentti vertailu <!-- red link: Epäkonsistentti vertailu -->
 
 #### Korrelaatiopohjaiset argumentointivirheet
 
 * [Hätäinen päätelmä](https://fi.wikipedia.org/wiki/Hätäinen_päätelmä) <!-- red link: Hätäinen päätelmä -->
 * [Kompleksikysymys](https://fi.wikipedia.org/wiki/Kompleksikysymys) <!-- red link: Kompleksikysymys -->
-* Kompleksinen korrelaatio <!-- red link: Kompleksinen korrelaatio -->
+* [Kompleksinen korrelaatio](https://en.wikipedia.org/wiki/Spurious_relationship) <!-- red link: Kompleksinen korrelaatio -->
 * [Dilemman virheasettelu](https://fi.wikipedia.org/wiki/Väärä_dilemma) <!-- red link: Virheellinen dilemma -->
 * [Kytkykauppavirhe](https://fi.wikipedia.org/wiki/Kytkykauppavirhe) <!-- red link: Kytkykauppavirhe -->
 * [Virheellinen premissi](https://fi.wikipedia.org/wiki/Virheellinen_premissi) <!-- red link: Virheellinen premissi -->
-* Syyn ja seurauksen sekoittaminen <!-- red link: Syyn ja seurauksen sekoittaminen -->
-* Virheellinen kompromissi <!-- red link: Virheellinen kompromissi -->
+* [Syyn ja seurauksen sekoittaminen](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation) <!-- red link: Syyn ja seurauksen sekoittaminen -->
+* [Virheellinen kompromissi](https://en.wikipedia.org/wiki/Argument_to_moderation) <!-- red link: Virheellinen kompromissi -->
 * [Post hoc ergo propter hoc](https://fi.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc) <!-- red link: Post hoc ergo propter hoc -->
 * [Cum hoc ergo propter hoc](https://fi.wikipedia.org/wiki/Cum_hoc_ergo_propter_hoc) <!-- red link: Cum hoc ergo propter hoc -->
 * [Non sequitur](https://fi.wikipedia.org/wiki/Non_sequitur) <!-- red link: Non sequitur -->
 * Premissin pitäminen argumenttina <!-- red link: Premissin pitäminen argumenttina -->
-* Kausaalinen yliyksinkertaistaminen <!-- red link: Kausaalinen yliyksinkertaistaminen -->
-* Kausaalinen liittoefekti <!-- red link: Kausaalinen liittoefekti -->
-* Regressiovirhepäätelmä <!-- red link: Regressiovirhepäätelmä -->
-* Retrospektiivinen determinismi <!-- red link: Retrospektiivinen determinismi --> (se tapahtui, koska niin pitikin tapahtua)
+* [Kausaalinen yliyksinkertaistaminen](https://en.wikipedia.org/wiki/Fallacy_of_the_single_cause) <!-- red link: Kausaalinen yliyksinkertaistaminen -->
+* [Kausaalinen liittoefekti](https://en.wikipedia.org/wiki/Spurious_relationship) <!-- red link: Kausaalinen liittoefekti -->
+* [Regressiovirhepäätelmä](https://en.wikipedia.org/wiki/Regression_fallacy) <!-- red link: Regressiovirhepäätelmä -->
+* [Retrospektiivinen determinismi](https://en.wikipedia.org/wiki/Retrospective_determinism) <!-- red link: Retrospektiivinen determinismi --> (se tapahtui, koska niin pitikin tapahtua)
 * [Occamin partaveitsen virheellinen käyttö](https://fi.wikipedia.org/wiki/Occamin_partaveitsi) <!-- red link: Occamin partaveitsi -->
 
 #### Syllogismivirheet
@@ -161,14 +161,14 @@ Jollei tätä tajuta, koko perusteluvirheen käsite menee [sekaisin](https://fi.
   * Virheellinen poikkeuksen kielto <!-- red link: Virheellinen poikkeuksen kielto --> (dicto simpliciter ad dictum secundum quid)
   * Virheellinen yleistys <!-- red link: Virheellinen yleistys --> (dicto secundum quid ad dictum simpliciter)
 * Virheellinen konjunktio <!-- red link: Virheellinen konjunktio -->
-* Virheellinen disjunktio <!-- red link: Virheellinen disjunktio -->
-* Kaksoisnegatiivisen premissin virhe <!-- red link: Kaksoisnegatiivisen premissin virhe -->
-* Eksistentiaalinen virhe <!-- red link: Eksistentiaalinen virhe -->
-* Eksklusiiviset premissit <!-- red link: Eksklusiiviset premissit -->
-* Nelitermivirhe <!-- red link: Nelitermivirhe -->
-* Keskitermivirhe <!-- red link: Keskitermivirhe -->
-* Tautologia <!-- red link: Tautologia -->
-* Jatkumovirhe <!-- red link: Jatkumovirhe -->
+* [Virheellinen disjunktio](https://en.wikipedia.org/wiki/Affirming_a_disjunct) <!-- red link: Virheellinen disjunktio -->
+* [Kaksoisnegatiivisen premissin virhe](https://en.wikipedia.org/wiki/Fallacy_of_exclusive_premises) <!-- red link: Kaksoisnegatiivisen premissin virhe -->
+* [Eksistentiaalinen virhe](https://en.wikipedia.org/wiki/Existential_fallacy) <!-- red link: Eksistentiaalinen virhe -->
+* [Eksklusiiviset premissit](https://en.wikipedia.org/wiki/Fallacy_of_exclusive_premises) <!-- red link: Eksklusiiviset premissit -->
+* [Nelitermivirhe](https://en.wikipedia.org/wiki/Fallacy_of_four_terms) <!-- red link: Nelitermivirhe -->
+* [Keskitermivirhe](https://en.wikipedia.org/wiki/Fallacy_of_the_undistributed_middle) <!-- red link: Keskitermivirhe -->
+* [Tautologia](https://en.wikipedia.org/wiki/Tautology_(logic)) <!-- red link: Tautologia -->
+* [Jatkumovirhe](https://en.wikipedia.org/wiki/Sorites_paradox) <!-- red link: Jatkumovirhe -->
 * [Illicit major](https://en.wikipedia.org/wiki/Illicit_major) <!-- red link: Illicit major -->
 * [Illicit minor](https://en.wikipedia.org/wiki/Illicit_minor) <!-- red link: Illicit minor -->
 
@@ -183,11 +183,11 @@ Jollei tätä tajuta, koko perusteluvirheen käsite menee [sekaisin](https://fi.
 * [Vinoutunut otos](https://fi.wikipedia.org/wiki/Vinoutunut_otos) <!-- red link: Vinoutunut otos -->
 * [Hätäinen yleistys](https://fi.wikipedia.org/wiki/Hätäinen_yleistys) <!-- red link: Hätäinen yleistys -->
 * Vinoutunut poikkeus <!-- red link: Vinoutunut poikkeus -->
-* Tilaston virhetulkinta <!-- red link: Tilaston virhetulkinta -->
+* [Tilaston virhetulkinta](https://en.wikipedia.org/wiki/Misuse_of_statistics) <!-- red link: Tilaston virhetulkinta -->
 * [Pelurin virhepäätelmä](https://fi.wikipedia.org/wiki/Pelurin_virhepäätelmä) <!-- red link: Pelurin virhepäätelmä -->
-* Vinoutunut lähdeaineisto <!-- red link: Vinoutunut lähdeaineisto -->
+* [Vinoutunut lähdeaineisto](https://en.wikipedia.org/wiki/Cherry_picking) <!-- red link: Vinoutunut lähdeaineisto -->
 * [Syyttäjän virhepäätelmä](https://fi.wikipedia.org/wiki/Syyttäjän_virhepäätelmä) <!-- red link: Syyttäjän virhepäätelmä -->
-* Seulomisvirhepäätelmä <!-- red link: Seulomisvirhepäätelmä -->
+* [Seulomisvirhepäätelmä](https://en.wikipedia.org/wiki/Data_dredging) <!-- red link: Seulomisvirhepäätelmä -->
 * [Täydellisen ratkaisun virhepäätelmä](https://fi.wikipedia.org/wiki/Nirvana-virhepäätelmä) <!-- red link: Täydellisen ratkaisun virhepäätelmä -->
 
 ### Aiheesta muualla
