@@ -4,7 +4,7 @@ about: apologetics
 title: "Kiila-strategia"
 description: "Kiilastrategia ylipäänsä on jonkin tahon pyrkimys edistää kannattamansa näkemyksen yhteiskunnallista vaikuttavuutta koettamalla eristää vastakkaisen näkemyksen vakaumukselliset kannattajat näiden mahdollisista liittolaisista \"lyömällä kiiloja\" vastustettavan näkemyksen ydinkannattajakunnan ympärille."
 tags: [apowiki, evoluutiokritiikki, suunnitteluteoria]
-timestamp: 2026-10-02T07:00:00Z
+timestamp: 2026-10-02T07:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kiila-strategia".
@@ -55,7 +55,7 @@ Kiila-dokumentti on siis tiedepoliittinen dokumentti ja suunnitteluteorian kriti
 
 Naturalistisen kiilastrategian ytimenä on se naturalistien havainto, että tehokkain tapa lopettaa julkinen keskustelu evolutionismiin ja sen pakollisen kouluopetuksen monopoliasemaan liittyvistä tieteellisistä, eettisistä ja uskontokasvatukseen liittyvistä ongelmista on saada julkisuuteen joku arvovaltaisessa asemassa oleva "uskonnon" edustaja (esim. piispa tai vastaava) selittämään, ettei hän näe evoluutioteorian ja oman uskonsa välillä mitään ristiriitaa ja että ne, jotka näkevät tällaisen ristiriidan, ovat uskonnollisesti epäilyttäviä "fundamentalisteja" tai vastaavia. Tämä siis on epä-älyllinen mutta yhteiskunnallisesti tehokas tapa keskeyttää ja osin ennaltaehkäistä evoluutiokriittinen julkinen keskustelu.
 
-Kyseisen kiilastrategian menestys perustuu olennaisesti siihen taustatekijään, että yhteiskunnassa katsotaan kirkollisten huippuvirkojen edustavan korkeaa uskonnollista asiantuntemusta, mutta tosiasiassa se koulutus, joka näihin virkoihin pääsemiseksi vaaditaan, on osa naturalismin ehdoilla toimivaa <!-- red link: Matti_V%C3%A4is%C3%A4nen:_Mit%C3%A4_Suomeen_kuuluu%3F --> julkisen koulutuksen kokonaisuutta. Siksi naturalistisen kiilastrategian toteutus on ollut lapsellisen helppoa.
+Kyseisen kiilastrategian menestys perustuu olennaisesti siihen taustatekijään, että yhteiskunnassa katsotaan kirkollisten huippuvirkojen edustavan korkeaa uskonnollista asiantuntemusta, mutta tosiasiassa se koulutus, joka näihin virkoihin pääsemiseksi vaaditaan, on osa [naturalismin ehdoilla toimivaa](matti-väisänen-mitä-suomeen-kuuluu.md) julkisen koulutuksen kokonaisuutta. Siksi naturalistisen kiilastrategian toteutus on ollut lapsellisen helppoa.
 
 #### Esimerkkitapaus: Valtaojan Puolimatka-kritiikki
 

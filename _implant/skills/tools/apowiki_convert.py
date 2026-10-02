@@ -34,6 +34,7 @@ import argparse
 import html
 import json
 import re
+import urllib.parse
 import unicodedata
 from collections import Counter
 from pathlib import Path
@@ -356,6 +357,11 @@ class Converter:
         label = (label or target).strip()
         if not target:
             return label
+        if "%" in target:
+            # A percent-encoded title pasted from a URL
+            # ("Matti_V%C3%A4is%C3%A4nen:_Mit%C3%A4_Suomeen_kuuluu%3F" in
+            # kiila-strategia) names the same page as its decoded form.
+            target = urllib.parse.unquote(target).replace("_", " ")
 
         # ApoWiki's glossary (ApoWiki:Sanasto, shortcut AW:S). There are 415
         # of these links, and they land on the glossary page that
