@@ -4,7 +4,7 @@ about: apologetics
 title: "Abiogeneesi"
 description: "5 ApoWiki-artikkelia aihepiiristä abiogeneesi — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, abiogeneesi]
-timestamp: 2026-10-02T09:00:00Z
+timestamp: 2026-10-02T10:00:00Z
 ---
 
 # Abiogeneesi
@@ -15,6 +15,6 @@ Aihepiirin abiogeneesi artikkelit, tuotu [ApoWikistä](https://apowiki.fi). Luet
 
 * [Abiogeneesi](../articles/abiogeneesi.md) — Abiogeneesi (kemiallinen evoluutio, elämän alkusynty) tarkoittaa (naturalistisen todellisuuskäsityksen edellyttämää) elämän ohjaamatonta ja….
 * [Aminohappojen synty](../articles/aminohappojen-synty.md) — Kuva: 21 eukaryooteissa tavattua aminohappoa ryhmiteltynä sivuketjun happovakion (pKa) mukaan neutraalissa pH:ssa Tärkeitä kysymyksiä Mitä….
-* [RNA-maailma](../articles/rna-maailma.md) — Kuva: katalyyttejä; näiden ribotsyymien joukossa olisi sitten päälle päätteeksi ollut sellainenkin, joka sopivasta nukleotidien yhdistelmästä….
+* [RNA-maailma](../articles/rna-maailma.md) — Kuva: RNA-maailma-hypoteesin mukaiset abiogeneesin päävaiheet: Runsaasti yksinkertaisia molekyylejä sisältäneessä alkuliemessä olisi – mahdollisesti….
 * [Signature in the Cell (kirja)](../articles/signature-in-the-cell-kirja.md) — Signature in the Cell: DNA and the Evidence for Intelligent Design (Allekirjoitus solussa: DNA ja todisteet älyllisestä suunnittelusta) on Stephen C.
 * [The Mystery of Life’s Origin (kirja)](../articles/the-mystery-of-lifes-origin-kirja.md) — Mystery of Life’s Origin: Reassessing Current Theories on Kemisti Charles Thaxtonin, konetekniikan professori Walter Bradleyn ja kemisti Roger….

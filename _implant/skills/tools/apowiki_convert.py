@@ -733,7 +733,10 @@ class Converter:
                     continue
                 i += 1
             inner = text[m.end():i - 2]
-            parts = inner.split("|")
+            # Top-level pipes only: a caption's own [[target|label]] link
+            # was cut at its pipe, so the caption became the link's label
+            # plus a stray "]]" (darwin-ja-natsit until 2026-10-02).
+            parts = _split_top(inner)
             name = parts[0].strip()
             # The caption is the last part that is not a layout keyword.
             caption = ""

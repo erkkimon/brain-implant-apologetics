@@ -4,7 +4,7 @@ about: apologetics
 title: "Epätäydellinen suunnittelu (argumentti)"
 description: "Useat biologit antavat ymmärtää, ettei suunnitteluteorian puolesta voida esittää mitään empiiristä näyttöä, mutta voivat jopa samaan hengenvetoon todeta, että biologiassa havaitut epätäydelliset rakenteet tarjoavat suoranaista empiiristä näyttöä suunnittelua vastaan."
 tags: [apowiki, suunnitteluteoria, lukusuositukset]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Epätäydellinen suunnittelu (argumentti)".
@@ -73,7 +73,7 @@ Lisäksi täydellisyys siis on erittäin vaikeasti määriteltävä termi. Näin
 
 Toisen premissin mukaan jotkin eliörakenteet ovat epätäydellisesti suunniteltuja, mutta tämäkin voidaan helposti kyseenalaistaa.
 
-*Kuva: silmän rakenne on kokonaisuudessaan nerokas]], mikä avaa hedelmällisen tutkimuskentän esimerkiksi parempien kameroiden suunnitteluun.*
+*Kuva: Lääkäri Randolf Nesse demonstroi Dawkinsille sokeanpisteen olemassa olon. Nessen mukaan mm. sokeapiste on osoitus siitä, että silmä on huonosti suunniteltu ja siksi ohjaamattomien evoluutioprosessien tulos. Viimeisimmät tutkimukset ovat kuitenkin osoittaneet, että [silmän rakenne on kokonaisuudessaan nerokas](epätäydellinen-suunnittelu-selkärankaisten-silmä.md), mikä avaa hedelmällisen tutkimuskentän esimerkiksi parempien kameroiden suunnitteluun.*
 
 ### Toinen premissi: toteutusepätäydellisyys
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Darwin ja natsit"
 description: "Darwinismia on joskus syytetty siitä, että se oli omalta osaltaan luomassa pohjaa natsien toteuttamalle juutalaisten joukkotuholle ja vammaisten eliminoimiselle sekä kommunistien toteuttamille laajamittaisille \"puhdistuksille\"."
 tags: [apowiki, aatteet]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-02T10:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Darwin ja natsit".
@@ -24,7 +24,7 @@ Kalifornian osavaltion yliopiston (*California State University*) historianprofe
 
 Darvinismissa on kuusi ominaisuutta, jotka ovat sekä "Kolmannen valtakunnan" aikana että aina omaan aikaamme asti erityisesti vaikuttaneet ihmiselämän arvon halveksuntaan:
 
-*Kuva: petoksillisia väärennöksiään selkärankaisten siköiden kehitysvaiheista]] käytetään kouluissa evoluutioteorian tukemiseen.*
+*Kuva: Ernst Haeckel lajitteli ihmisrodut alemmista ylempiin ja papualaisten ero gorilloihin oli olematon. Suomalaisten Haeckel katsoi edustavan mongoleja. Vaikka Haeckelin kehittämä rotuoppi onkin jo kuopattu, hänen [petoksillisia väärennöksiään selkärankaisten siköiden kehitysvaiheista](rekapitulaatioteoria.md) käytetään kouluissa evoluutioteorian tukemiseen.*
 
 1. Darwin väitti, ettei ihmisillä ja eläimillä ole mitään perustavaa (laatu)eroa. [Ernst Haeckel](https://fi.wikipedia.org/wiki/Ernst_Haeckel), joka oli aikanaan Saksan johtava darvinisti, hyökkäsi sellaista “ihmiskeskeistä” näkemystä vastaan, jonka mukaan ihmiset ovat ainutkertaisia ja arvokkaita.
 1. Darwin hylkäsi ajatuksen ihmisen ikuisesta sielusta. Hän uskoi muiden darvinistien tavoin, että kaikki ihmispsyyken ulottuvuudet – järki, moraali, estetiikka ja jopa uskonto – olivat täysin luonnollisista prosesseista lähtöisin.
