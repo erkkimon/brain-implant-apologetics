@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to be done — the implant's live work queue.
-timestamp: 2026-10-02T12:00:00Z
+timestamp: 2026-10-02T12:30:00Z
 ---
 
 # Open
@@ -42,7 +42,7 @@ testaments in `knowledge/books/`, each pointing at the theology spine.
 ## Phase 5+ — Daily iteration (token work, one batch per cooldown burst)
 
 - [ ] Before each translation batch, fill `knowledge/glossary/english.md` rows for the glossary terms that batch uses (268 of 413 terms still lack one; `apowiki_translate.py --dry-run` lists them per chunk). Batch 1's, batch 2's (God and the arguments, 28 rows) and batch 3's (atheism, 25 rows) are in, the last two added 2026-10-02; 145 of 413 terms now have English.
-- [ ] Batch 1 (design theory, 6 articles; william-dembski landed and reviewed 2026-10-01, teleologinen-argumentti and tarkoituksellisuuspäättelyn-logiikka 2026-10-02). Since 2026-10-02 the rest run with batch 2 as `_temp/run-batches.sh` (two passes, log `_temp/batches.log`) on a private llama-server (`_temp/llama-server.log`; see the translate skill, step 4), because the shared Ollama sat on another job's embedding model. Restart: start llama-server again, then `setsid nohup _temp/run-batches.sh`. It skips finished articles. When an article lands in `_temp/translations/`: review it against the Finnish, `apowiki_land.py`, commit.
+- [ ] Batch 1 (design theory, 6 articles; william-dembski landed and reviewed 2026-10-01, teleologinen-argumentti and tarkoituksellisuuspäättelyn-logiikka 2026-10-02). Since 2026-10-02 the rest run with batch 2 as `_temp/run-batches.sh` (two passes, log `_temp/batches.log`) on a private llama-server (`_temp/llama-server.log`; see the translate skill, step 4), because the shared Ollama sat on another job's embedding model. Restart: start llama-server again, then `setsid nohup _temp/run-batches.sh`. It skips finished articles. When an article lands in `_temp/translations/`: review it against the Finnish, `apowiki_land.py`, commit. The-edge-of-evolution-kirja's chunk 2 ("Evoluution raja" to "Rajan rikkovia rakenteita") failed its checks; the reviewer's translation is ready in `_temp/edge-chunk2.en.md` (2026-10-02).
 - [ ] Batch 2 (God and the arguments, 13 articles, about 15 500 words; *alvin-plantinga*, 12 000 words, gets a run of its own later): runs after batch 1 in `_temp/run-batches.sh`. Glossary rows done. Review and land as for batch 1.
 - [ ] Batch 3 (atheism, 9 articles, about 21 800 words: ateismi, richard-dawkins, pascalin-peliteoria, jumalharha-kirja, ateismin-falsifioitavuus, ateismin-määritelmä, tapio-puolimatka-uusateismin-tunnekieli, uusateismi, projektiivinen-ateistinen-teoria; antony-flew is already in batch 2). Glossary rows done 2026-10-02 (25 rows; the terms left free are listed on the English glossary page). Queued in `_temp/run-batch3.sh`, which waits for `run-batches.sh` to finish and logs to `_temp/batch3.log`. Review and land as for batch 1.
 - [ ] Per batch: machine-translate one themed slice to English → improve that slice (ground claims, close its red links, enrich links) → commit. Themed, not alphabetical.
