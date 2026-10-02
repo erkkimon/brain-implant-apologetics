@@ -4,7 +4,7 @@ about: apologetics
 title: "Rekapitulaatioteoria"
 description: "Kuva: Ernst Haeckelin väärentämät kuvat selkärankaisten alkioista."
 tags: [apowiki, evoluutiokritiikki, lukusuositukset, haeckel, ernst, sikiöväärennökset, sikiöpiirros, sikiöpiirrokset, sikiöpiirroskiista, sikiökuva, sikiökuvat, alkio, kidukset, häntä, lapsivesi]
-timestamp: 2026-10-02T04:21:00Z
+timestamp: 2026-10-02T04:45:44Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Rekapitulaatioteoria".
@@ -81,7 +81,7 @@ Tässä valossa aihioalueen vastaavuuteen perustaminen "kidusargumentissa" on jo
 
 Jonkin verran vahvasti yhteisen alkuperän puolesta puhuvia piirteitä sikiötasolta toki löytyy. Esimerkiksi eräs kalalaji jakautuu näkeviin ja sokeisiin alalajeihin.[^20] Molempien lajien sikiöillä on silmien aihiot, joskin vain toiselle niistä kehittyvät silmät. Tämä selittyy luonnollisesti hyvin yhteisellä kantamuodolla, jonka jälkeläisten yksi haara on menettänyt jonkin mutaation johdosta näkökykynsä ympäristössä, jossa näkökyvystä ei ole selviytymisen ja lisääntymisen kannalta ratkaisevaa hyötyä. Kyseessä on kaikkien evoluutiokeskustelun osapuolien hyväksymä [muuntelu](perinnöllisen-muuntelun-mekanismit.md). Aistielinten kehittymistä säätelee kyseisellä lajilla sama geeni, joten sikälikin esimerkki mahtuu homologian "samat geenit luovat homologisia rakenteita" -periaatteen piiriin. Toisaalta näkökykyä ja siihen liittyviä biologisia prosesseja on pohdittu evoluutiokeskusteluissa paljon.[^21] Näkökyvyn arvioidaan kehittyneen elämänhistorian aikana 40-65 kertaa,[^22] joten näkökyky voi olla homologinen tai analoginen piirre. On myös huomautettu, että silmien kehittymistä monilla toisistaan kaukaisilla lajeilla ohjaa nk. Pax-6-geeni.
 
-Ongelmana darwinistisen luonnonvalinnan puitteissa on se, että nämä lajit ovat niin kaukaisia, että niiden yhteisellä esi-isällä ei ollut silmiä lainkaan. Tämä taas herättää kysymyksen kyseisen geenin "valintaedusta" vaiheessa, jossa se ei synnyttänyt näkökykyä.[^23] Matemaatikko [David Berlinski](https://fi.wikipedia.org/wiki/David_Berlinski) <!-- red link: David Berlinski --> ihmettelee, miten "luonnon valinnan ja sattumavariaation muodostama mekanismi voi tuottaa instrumentin, joka pystyy ennakoimaan morfologisen kehityksen suunnan ja kontrolloimaan tuotoksiaan hyvin erilaisissa organismeissa?"[^24]
+Ongelmana darwinistisen luonnonvalinnan puitteissa on se, että nämä lajit ovat niin kaukaisia, että niiden yhteisellä esi-isällä ei ollut silmiä lainkaan. Tämä taas herättää kysymyksen kyseisen geenin "valintaedusta" vaiheessa, jossa se ei synnyttänyt näkökykyä.[^23] Matemaatikko [David Berlinski](../pages/david-berlinski.md) ihmettelee, miten "luonnon valinnan ja sattumavariaation muodostama mekanismi voi tuottaa instrumentin, joka pystyy ennakoimaan morfologisen kehityksen suunnan ja kontrolloimaan tuotoksiaan hyvin erilaisissa organismeissa?"[^24]
 
 ### Kuvien käyttö nykypäivänä
 

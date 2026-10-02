@@ -23,6 +23,8 @@ procedure is [Write a wanted page](../../skills/write-a-wanted-page.md).
   Behe doubting.
 * [Evolution: A Theory in Crisis](evolution-a-theory-in-crisis-kirja.md):
   that book (1985), with its reception; cited in four articles.
+* [David Berlinski](david-berlinski.md): agnostic mathematician and
+  critic of Darwinism at the Discovery Institute.
 * [William Paley](william-paley.md): the 1802 watchmaker analogy that
   design arguments since are measured against.
 * [Paul Nelson](paul-nelson.md): philosopher of science, design theorist
