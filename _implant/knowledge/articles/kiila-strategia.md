@@ -4,7 +4,7 @@ about: apologetics
 title: "Kiila-strategia"
 description: "Kiilastrategia ylipäänsä on jonkin tahon pyrkimys edistää kannattamansa näkemyksen yhteiskunnallista vaikuttavuutta koettamalla eristää vastakkaisen näkemyksen vakaumukselliset kannattajat näiden mahdollisista liittolaisista \"lyömällä kiiloja\" vastustettavan näkemyksen ydinkannattajakunnan ympärille."
 tags: [apowiki, evoluutiokritiikki, suunnitteluteoria]
-timestamp: 2026-10-02T05:30:00Z
+timestamp: 2026-10-02T07:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kiila-strategia".
@@ -28,7 +28,7 @@ Erityiseksi puheenaiheeksi on viime aikoina noussut tieteen ja materialismin ero
 
 Suunnitteluteoreettinen kiilastrategia (t. kiila-strategia, engl. *Wedge strategy*) tähtää tieteen erottamiseen filosofisesta ja uskonnollisesta materialismista, nimittäin havaintoaineistoista riippumattomasta (ei-empiirisestä) ennakkositoumuksesta materiatason selitysten yksinomaiseen hyväksyttävyyteen. [Discovery-instituutti](http://www.discovery.org), joka mm. edistää [suunnitteluteorian](suunnitteluteoria.md) akateemista vapautta, julkaisi muistionaan kiila-strategian[^1], jossa painotettiin ei-materialistisen tutkimuksen mahdollisuuksien avaamista ja suunnitteluteorian perustutkimuksen tärkeyttä sekä käsiteltiin suppeasti joitain yhteiskunnallisia ongelmia, joita instituutti pitää materialistisen tieteenfilosofian aiheuttamina. Eräät ID-kriitikot ovat esittäneet suunnitteluteoreettisen kiilastrategian johdosta propagandistisia, jopa hysteerisyyttä hipovia syytöksiä, joihin instituutti on julkisesti vastannut [^2] [^3].
 
-[Phillip Johnson](https://fi.wikipedia.org/wiki/Phillip_Johnson) <!-- red link: Phillip Johnson --> on kirjoissaan[^4][^5][^6] valottanut tarkemmin materialismin vaikutuksia tieteessä.
+[Phillip Johnson](../pages/phillip-johnson.md) on kirjoissaan[^4][^5][^6] valottanut tarkemmin materialismin vaikutuksia tieteessä.
 
 Kiila-dokumentti toteaa muun muassa, että uskottavan tutkimuksen tekeminen on lähtökohtana muulle toiminnalle, ja pitää tutkimusta strategiansa tärkeimpänä osana. Toisaalta materialismiin sitoutumattoman tutkimuksen uskottavuus edellyttää myös varsinaisen luonnontieteellisen tutkimuksen ulkopuolista, tieteenfilosofista ja tieteenfilosofian tuloksia tunnetuksi tekevää toimintaa, joka perustelee sen, miksi materialistisista ennakkositoumuksista voidaan ja on voitava luopua. Strategia tähtää siis ensisijaisesti uskottavaan tutkimukseen, sen tulosten julkaisemiseen ja akateemisiin väittelyihin. Nämä myönteiset pääasiat ovat jääneet uhkakuvien rakentajilta kokonaan huomaamatta.
 
@@ -83,6 +83,6 @@ Näinkin kömpelön, läpinäkyvän ja räikeän "hajoita ja hallitse" -manipula
 [^1]: [Wedge.pdf](http://www.antievolution.org/features/wedge.pdf), AntiEvolution.org
 [^2]: [The "Wedge Document": So What?](http://www.discovery.org/a/2101), Discovery Institute, 3.2.2006, viitattu 18.2.2009
 [^3]: [Wedge Document Response (pdf)](http://www.discovery.org/scripts/viewDB/filesDB-download.php?id=349)
-[^4]: [Phillip E. Johnson](https://fi.wikipedia.org/wiki/Phillip_Johnson) <!-- red link: Phillip E. Johnson -->, *Evoluution Maailmankuva <!-- red link: Evoluutio Maailmankuva (kirja) -->*, Uusi Tie, 2000, ISBN 951-619-317-X
+[^4]: [Phillip E. Johnson](../pages/phillip-johnson.md), *Evoluution Maailmankuva <!-- red link: Evoluutio Maailmankuva (kirja) -->*, Uusi Tie, 2000, ISBN 951-619-317-X
 [^5]: Phillip E. Johnson, *Reason in the Balance: The Case Against Naturalism in Science, Law & Education*, InterVarsity Press, 1998, ISBN 978-0830819294
 [^6]: Phillip E. Johnson, *The Wedge of Truth: Splitting the Foundations of Naturalism*, InterVarsity Press, 2000, ISBN 978-0830822676
