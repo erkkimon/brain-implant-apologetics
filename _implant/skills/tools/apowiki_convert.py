@@ -158,9 +158,10 @@ def wiki_url(lang: str, title: str) -> str:
 # shares the name. ApoWiki's [[wp:perusryhmä]] means the creationist
 # taxonomic unit (baramin), but Finnish Wikipedia's "Perusryhmä" is the
 # fundamental group of algebraic topology. Each entry is listed by hand,
-# verified against the article lead, and points at the page written here.
+# verified against the article lead, and points at a page written here
+# ("pages/x") or at the right Wikipedia title ("wp:Title").
 WRONG_CONCEPT_INTERWIKI = {
-    "perusryhmä": "perusryhmä",
+    "perusryhmä": "pages/perusryhmä",
 }
 
 # Red links that are only misspellings of an article ApoWiki has. A typo is
@@ -483,7 +484,9 @@ class Converter:
             wrong = WRONG_CONCEPT_INTERWIKI.get(page.lower())
             if wrong:
                 self.stats["link_wikipedia_wrong_concept"] += 1
-                return f"[{label}](../pages/{wrong}.md)"
+                if wrong.startswith("wp:"):
+                    return f"[{label}]({wiki_url('fi', wrong[3:])})"
+                return f"[{label}](../{wrong}.md)"
             url = wiki_url("fi", page)
             self.stats["link_wikipedia"] += 1
             return f"[{label}]({url})"
