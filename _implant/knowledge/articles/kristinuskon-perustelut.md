@@ -4,7 +4,7 @@ about: apologetics
 title: "Kristinuskon perustelut"
 description: "Perustelun käsitteelle on tunnusomaista se, että ensin on esitettävä jokin kanta ja vasta sitten sitä voi pyrkiä perustelemaan."
 tags: [apowiki, yleistä-tietoa, argumentit, lukusuositukset]
-timestamp: 2026-10-01T21:30:00Z
+timestamp: 2026-10-02T21:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kristinuskon perustelut".
@@ -94,7 +94,7 @@ Filosofisia argumentteja Jumalan olemassaolon puolesta on esitetty yli kaksikymm
 [^15]: *verkkolähde*
 [^16]: *verkkolähde*
 [^17]: [The Blackwell Companion to Natural Theology](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1405176571.html), Wiley, 2009, William Lane Craig (Editor) ja J. P. Moreland (Editor)
-[^18]: Ks. esim. kirjat [Tapaus Kristus](tapaus-kristus-kirja.md), Lee Strobel, Reasonable Faith, William Lane-Craig, The Resurrection of the Son of God <!-- red link: The Resurrection of the Son of God -->, N.T. Wright
+[^18]: Ks. esim. kirjat [Tapaus Kristus](tapaus-kristus-kirja.md), Lee Strobel, Reasonable Faith, William Lane-Craig, [The Resurrection of the Son of God](../pages/the-resurrection-of-the-son-of-god-kirja.md), N.T. Wright
 [^19]: Ks. esim.
 [^20]: Ks. esim. [Usko, tiede ja Raamattu](usko-tiede-ja-raamattu-kirja.md), Tapio Puolimatka
 [^21]: Ks. esim.

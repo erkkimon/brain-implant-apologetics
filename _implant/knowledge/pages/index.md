@@ -49,6 +49,8 @@ procedure is [Write a wanted page](../../skills/write-a-wanted-page.md).
   the corpus's most-linked red link.
 * [The Guards of the Tomb](the-guards-of-the-tomb-kirja.md): Kankaanniemi's
   doctoral thesis on the guards at the tomb in Matthew (2010).
+* [The Resurrection of the Son of God](the-resurrection-of-the-son-of-god-kirja.md):
+  N. T. Wright's study of the resurrection (2003), cited in five articles.
 * [Voimat vastakkain](voimat-vastakkain-kirja.md): Kankaanniemi and
   Päivi Niemi on spiritual warfare (2007).
 * [Valokuva Jeesuksesta?](valokuva-jeesuksesta-kirja.md): Juha Hiltunen
