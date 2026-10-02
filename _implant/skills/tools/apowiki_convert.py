@@ -132,7 +132,10 @@ def _written_pages() -> dict[str, str]:
         names = re.findall(r'^title:\s*"?([^"\n]+)"?\s*$', head, re.M)
         m = re.search(r"^aliases:\s*\[(.*)\]\s*$", head, re.M)
         if m:
-            names += [a.strip().strip('"') for a in m.group(1).split(",")]
+            # Quoted items may themselves hold commas ("Dawkinsin jumala:
+            # Geenit, meemit ja elämän tarkoitus"), so split on the quotes.
+            names += re.findall(r'"([^"]*)"', m.group(1)) or [
+                a.strip() for a in m.group(1).split(",")]
         for n in names:
             out[n.strip().lower()] = f.stem
     return out

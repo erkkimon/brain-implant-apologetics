@@ -65,3 +65,8 @@ procedure is [Write a wanted page](../../skills/write-a-wanted-page.md).
   Päivi Niemi on spiritual warfare (2007).
 * [Valokuva Jeesuksesta?](valokuva-jeesuksesta-kirja.md): Juha Hiltunen
   on the Shroud of Turin (2009).
+
+## The New Atheism debate
+
+* [Dawkinsin jumala](dawkinsin-jumala-kirja.md): Alister McGrath's
+  assessment of Richard Dawkins's work (2005; Finnish 2006).

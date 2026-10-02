@@ -4,7 +4,7 @@ about: apologetics
 title: "Alister McGrath"
 description: "Alister E. McGrath (s. 23. tammikuuta 1953 Belfast, Pohjois-Irlanti) on Oxfordin yliopiston historiallisen teologian professori ja kirjailija."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-02T04:21:00Z
+timestamp: 2026-10-02T04:36:05Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Alister McGrath".
@@ -26,7 +26,7 @@ Vuonna 1966 Alister McGrath lähti opiskelemaan [metodistiseen](https://fi.wikip
 
 Vuonna 1971 McGrath valittiin Oxfordin yliopistoon opiskelemaan kemiaa. Vuonna 1975 hän aloitti teologian opinnot Oxfordissa, mutta teki samalla myös tutkimustyötä luonnontieteessä kolmen vuoden ajan saaden [molekulaarisen biofysiikan](https://fi.wikipedia.org/wiki/molekulaarinen_biofysiikka) tohtorin arvon 1977. Vuonna 1978 McGrath siirtyi opiskelemaan [Cambridgeen](https://fi.wikipedia.org/wiki/Cambridgen_yliopisto). Kahden vuoden kuluttua hänestä tuli diakoni ja hän alkoi toimia kappalaisena Nottinghamissa ja seuraavana vuonna hänet vihittiin papiksi Nottinghamin katedraalissa. Vuonna 1983 McGrath aloitti teologian ja etiikan luennoitsijana Wycliffe Hallissa Oxfordissa. Vuonna 1993 hänet valittiin teologian tutkijaksi ja luennoitsijaksi Oxfordiin ja professoriksi Regent Collegeen Vancouverissa (1993–1999). Vuonna 1999 McGrath valittiin [historiallisen teologian](https://fi.wikipedia.org/wiki/historiallinen_teologia) professoriksi Oxfordin yliopistoon ja 2004 juuri perustetun Oxford Centre of Christian Apologeticsin johtajaksi. Seuraava vuonna hänet valittiin jäseneksi [Royal Society of Artsiin](https://fi.wikipedia.org/wiki/Royal_Society_of_Arts).[^2]
 
-McGrath on kirjoittanut kymmenille kielille käännettyjä kristillisen teologian perusteoksia. Hänen tutkimusalueitaan teologiassa ovat muun muassa [evankelikaalisuus](https://fi.wikipedia.org/wiki/evankelikaalisuus) ja [kirkkohistoria](kirkkohistoria.md). Erityisesti hän on kiinnostunut [uskonnon ja tieteen välisestä suhteesta](tieteen-ja-uskonnon-välinen-suhde.md) ja [ateismista](ateismi.md). Näihin keskusteluihin hän on ottanut aktiivisesti osaa ja toimii tutkijana [European Scientific Network](https://fi.wikipedia.org/wiki/European_Scientific_Network) - organisaatiossa.[^2][^3] McGrath on arvostellut [Richard Dawkinsia](richard-dawkins.md) kohtaan ja hänen teoksensa *[Dawkinsin jumala: Geenit, meemit ja elämän tarkoitus](https://fi.wikipedia.org/wiki/Dawkinsin_jumala) <!-- red link: Dawkinsin jumala: Geenit, meemit ja elämän tarkoitus (kirja) -->* (2005) ja *[Dawkinsin harhaluulo](https://en.wikipedia.org/wiki/The_Dawkins_Delusion?) <!-- red link: Dawkinsin harhaluulo (kirja) -->* (2007) arvostelevat tämän kielteistä kantaa [uskonnosta](uskonnon-määritelmä.md).
+McGrath on kirjoittanut kymmenille kielille käännettyjä kristillisen teologian perusteoksia. Hänen tutkimusalueitaan teologiassa ovat muun muassa [evankelikaalisuus](https://fi.wikipedia.org/wiki/evankelikaalisuus) ja [kirkkohistoria](kirkkohistoria.md). Erityisesti hän on kiinnostunut [uskonnon ja tieteen välisestä suhteesta](tieteen-ja-uskonnon-välinen-suhde.md) ja [ateismista](ateismi.md). Näihin keskusteluihin hän on ottanut aktiivisesti osaa ja toimii tutkijana [European Scientific Network](https://fi.wikipedia.org/wiki/European_Scientific_Network) - organisaatiossa.[^2][^3] McGrath on arvostellut [Richard Dawkinsia](richard-dawkins.md) kohtaan ja hänen teoksensa *[Dawkinsin jumala: Geenit, meemit ja elämän tarkoitus](../pages/dawkinsin-jumala-kirja.md)* (2005) ja *[Dawkinsin harhaluulo](https://en.wikipedia.org/wiki/The_Dawkins_Delusion?) <!-- red link: Dawkinsin harhaluulo (kirja) -->* (2007) arvostelevat tämän kielteistä kantaa [uskonnosta](uskonnon-määritelmä.md).
 
 ### Teologia ja tiede
 
@@ -48,7 +48,7 @@ McGrathin mukaan eri tieteenaloilla on erilaiset menetelmät, mutta tästä huol
 * (toim.), *Modernin teologian ensyklopedia*, (The Blackwell encyclopedia of modern Christian thought, 1993.) Suomentaneet Satu Norja ja Kia Sammalkorpi-Soini. Theologia systematica, Kirjapaja, 2000, ISBN 951-625-495-0
 * *Tuntematon Jumala: Kohti hengellistä täyttymystä*, (The unknown God: Searching for spiritual fulfilment, 1999.) Suomentanut Ulla Salava, Sley-kirjat, 2000, ISBN 951-618-421-9
 * *Ateismin lyhyt historia*, (The twilight of Atheism: The rise and fall of disbelief in the modern world, 2001.) Suomentanut Jukka Raunu, Kirjapaja, 2004, ISBN 951-607-082-5
-* *[Dawkinsin jumala: Geenit, meemit ja elämän tarkoitus](https://fi.wikipedia.org/wiki/Dawkinsin_jumala) <!-- red link: Dawkinsin jumala: Geenit, meemit ja elämän tarkoitus (kirja) -->*, (Dawkins' God: Genes, memes, and the meaning of life, 2005.) Suomentanut Kirsi Nisula, Kirjapaja, 2006, ISBN 951-607-279-8
+* *[Dawkinsin jumala: Geenit, meemit ja elämän tarkoitus](../pages/dawkinsin-jumala-kirja.md)*, (Dawkins' God: Genes, memes, and the meaning of life, 2005.) Suomentanut Kirsi Nisula, Kirjapaja, 2006, ISBN 951-607-279-8
 * *Dawkins-harha? Ateistinen fundamentalismi ja jumalallisen olemassaolon kieltäminen*, (The Dawkins delusion? Atheist fundamentalism and the denial of the divine, 2007.) Suomentanut Jani Kurki, Cranite, 2008, ISBN 978-952-92-4259-7
 
 #### Muut teokset
