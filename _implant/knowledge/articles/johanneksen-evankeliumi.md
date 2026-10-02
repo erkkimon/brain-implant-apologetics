@@ -4,7 +4,7 @@ about: apologetics
 title: "Johanneksen evankeliumi"
 description: "Craig Blomberg on tehnyt Johanneksen evankeliumista yksityiskohtaisen tutkimuksen."
 tags: [apowiki, raamatun-tekstit]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Johanneksen evankeliumi".
@@ -55,7 +55,7 @@ Johanneksen evankeliumi ei sisällä yhtään synoptisissa evankeliumeissa esiin
 
 ### Katso myös
 #### Internet
-*Matti Kankaanniemi: [Kuukauden kirja: The Historical Reliability of John's Gospel](http://eksegeesi.blogspot.com/2010/01/kuukauden-kirja-historical-reliability.html) (Eksegeettinen safari)
+* Matti Kankaanniemi: [Kuukauden kirja: The Historical Reliability of John's Gospel](http://eksegeesi.blogspot.com/2010/01/kuukauden-kirja-historical-reliability.html) (Eksegeettinen safari)
 
 ### Viitteet
 

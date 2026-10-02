@@ -4,7 +4,7 @@ about: apologetics
 title: "Ateismi"
 description: "Ateismi tarkoittaa maailmankatsomusta josta puuttuu jumalusko, tai uskonvaraista käsitystä, jonka mukaan Jumalaa tai jumalia ei ole olemassa."
 tags: [apowiki, ateismi]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ateismi".
@@ -42,9 +42,9 @@ Ateisti voi kokea tieteen tukevan ateismia lähinnä siten, että ateisti itse p
 
 Ateismi ei suoraan esitä juuri mitään havaintojen avulla testattavia väitteitä, koska sen ainoat väitteet ovat määritelmällisesti teististen väitteiden kieltoja. Siksi se ei myöskään ennusta mitään kovin hyvin eikä siten selitä mitään hyvin. Toisaalta ateismi voisi olla yhteensovitettavissa myös useiden teististen väitteiden ennusteiden kanssa, jolloin ateismi ennustaa asioita hyvin heikosti. Ateismin empiiriset ennusteet voidaan kuitenkin muotoilla modus tollens -päättelyksi:
 
-*(1) a → b
-*(2) ¬b
-*(JP) ¬a
+* (1) a → b
+* (2) ¬b
+* (JP) ¬a
 
 Jossa a on teismi, ja ateismin ennuste on ¬b.
 
@@ -56,8 +56,8 @@ Jossa a on teismi, ja ateismin ennuste on ¬b.
 
 Voisimme esimerkiksi päätellä ettei Jumalaa ole olemassa, jos olettaisimme premissit:
 
-*(1) "Jos Jumala on olemassa, niin Jumalan olemassaolon puolesta on hyviä perusteluja."
-*(2) "Ei ole hyviä perusteluja Jumalan olemassaolon puolesta."
+* (1) "Jos Jumala on olemassa, niin Jumalan olemassaolon puolesta on hyviä perusteluja."
+* (2) "Ei ole hyviä perusteluja Jumalan olemassaolon puolesta."
 
 Teistin tai agnostikon on kyseenalaistettava vähintään toinen premisseistä, ja kristillisen apologetiikan näkökulmasta kyseenalaistetaan vähintäänkin 2. premissi. Ateistikaan tuskin kiistää sitä, että Jumalan olemassaolon puolesta on esitetty perusteluja, mutta hänen mielestään ne eivät vain ole hyviä. Ongelmaksi muodostuu varmastikin se, mitä kukin pitää riittävän hyvänä perusteluna. Argumentin kannalta olennaista ei kuitenkaan ole se, mikä on juuri 'Antti Ateistin' mielestä hyvä perustelu Jumalan olemassaolon puolesta, vaan vaadittavan perustelun vakuuttavuus on riippuvainen ainoastaan siitä, kuinka hyvien perustelujen olemassaolo Jumalan olemassaolosta tulisi seurata. Lisäksi perustelujen olemassaolosta ei edes seuraa, että ateisti olisi tietoinen kaikista näistä perusteluista. Esimerkiksi uskonnonfilosofiaan laajasti perehtynyt [Antony Flew](antony-flew.md) päätyi pitämään elämänsä loppupuolella kohtaamiaan Jumalan olemassaolon puolesta esitettyjä perusteluja niin vakuuttavina, että luopui ateismistaan.
 
@@ -107,7 +107,7 @@ Ateistit pitävät usein uskontojen lukumäärää perusteluna ateismille. Täm�
 [George H. Smith](https://fi.wikipedia.org/wiki/George_H._Smith) on esittänyt ateististen näkemysten luokittelun eksistentialistiseen, metafyysiseen, tietoteoreettiseen, käytännölliseen, psykologiseen, yhteiskunnalliseen, kielitieteelliseen ja [objektivistiseen](https://fi.wikipedia.org/wiki/Objektivismi_(Rand)) ateismiin.[^14] On mielenkiintoista, että siinä missä ateistit usein käyttävät kristinuskon eri suuntausten lukumäärää 'todisteena' kristinuskoa vastaan, he eivät käytä samaa kriteeriä ateismiin, jonka eri suuntausten pitäisi samoin olla perustelu ateismia vastaan. Itseasiassa näyttää selvältä, että kristinuskon suuntaukset ovat keskenään useammista asioista yhtä mieltä (Jumalan olemassaolo, Jeesuksen historiallisuus ja ylösnousemus, Jeesuksen Jumaluus, taivas, helvetti, oikean ja väärän olemassaolo, vastuu Jumalalle, ...)  kuin mitä ateismin suuntaukset ovat (eivät ole yhtä mieltä edes ateismin määritelmästä: Jumalaa ei ole-väite vai Jumala-uskon puute), joten kristinuskon olisi tämän ateistien kriteerin mukaan ateismia todennäköisempi.
 
 #### Pahan ongelma
-*Pääartikkeli: [Pahan ongelma](pahan-ongelma.md)
+* Pääartikkeli: [Pahan ongelma](pahan-ongelma.md)
 Yksi ateistien pääkritiikki kristinuskoa kohtaan on pahan ongelma. Eli miten hyvä, rakastava ja kaikkivaltias Jumala voisi sallia pahaa, kuten kärsimystä?
 
 1. Jos Jumala on hyvä, hän poistaisi pahan jos vain pystyisi siihen.
@@ -146,21 +146,21 @@ Samoista syistä ateismi näyttää johtavan kommunismissa myös keskustelun raj
 
 ### Katso myös
 #### ApologetiikkaWiki
-*[Tieteellinen maailmankatsomus](tieteellinen-maailmankatsomus.md)
-*[Tieteisusko](tieteisusko.md)
-*[Vapaa-ajattelijan käsikirja](vapaa-ajattelijan-käsikirja.md)
-*[Ateismin falsifioitavuus](ateismin-falsifioitavuus.md)
-*[Ateismin määritelmä](ateismin-määritelmä.md)
-*[Uusateismi](uusateismi.md)
-*[Uusateismin tunnekieli](tapio-puolimatka-uusateismin-tunnekieli.md)
-*[Yliluonnollinen](yliluonnollinen.md)
+* [Tieteellinen maailmankatsomus](tieteellinen-maailmankatsomus.md)
+* [Tieteisusko](tieteisusko.md)
+* [Vapaa-ajattelijan käsikirja](vapaa-ajattelijan-käsikirja.md)
+* [Ateismin falsifioitavuus](ateismin-falsifioitavuus.md)
+* [Ateismin määritelmä](ateismin-määritelmä.md)
+* [Uusateismi](uusateismi.md)
+* [Uusateismin tunnekieli](tapio-puolimatka-uusateismin-tunnekieli.md)
+* [Yliluonnollinen](yliluonnollinen.md)
 
 #### Internet
 * [Ateismi vs. kristinusko -debatti](https://youtu.be/HuCA4rIX4cE) (Graig Zindler & [William Lane Craig](william-lane-craig.md))
 
 #### Kirjallisuus
-*Ateismin lyhyt historia, Alister McGrath
-*[I Don't Have Enough Faith to Be an Atheist](i-dont-have-enough-faith-to-be-an-atheist-kirja.md), Norman Geisler ja Frank Turek
+* Ateismin lyhyt historia, Alister McGrath
+* [I Don't Have Enough Faith to Be an Atheist](i-dont-have-enough-faith-to-be-an-atheist-kirja.md), Norman Geisler ja Frank Turek
 
 ### Viitteet
 

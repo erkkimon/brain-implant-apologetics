@@ -4,7 +4,7 @@ about: apologetics
 title: "C. S. Lewis"
 description: "Clive Staples Lewis (29. marraskuuta 1898 – 22. marraskuuta 1963) on legendaarisimmaksi tituleerattu kristitty apologeetta."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-02T08:30:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "C. S. Lewis".
@@ -107,16 +107,16 @@ Filosofiassa ja teologiassa Lewis liittyy monin osin augustinolais-platonistisee
   * Hevonen ja poika (The Horse and His Boy, 1954). Suom. Kaarina Helakisa, 1977, Otava.
   * Taikurin sisarenpoika (The Magician's Nephew, 1955). Suom. Kyllikki Hämäläinen, 1959, Otava.
   * Narnian viimeinen taistelu (The Last Battle, 1956). Suom. Kaarina Helakisa, 1976, Otava.
-** *Narnian tarinat*, (The complete chronicles of Narnia, 1998.) Kuvitus Pauline Baynes, Otava, 2000, ISBN 951-1-16708-1
-** *Narnia: Kaikki tarinat*, Otava, 2005 (9. painos 2007), ISBN 951-1-20526-9
-***Ransom-trilogia:**
-** *Äänetön planeetta*, (Out of the silent planet, 1938.) Suomentanut Matti Kannosto, Kirjayhtymä, 1983, ISBN 951-26-2485-0
-** *Matka Venukseen*, (Perelandra, 1943.) Suomentanut Matti Kannosto. Jatkoa kirjaan: Äänetön planeetta, Kirjayhtymä, 1984, ISBN 951-26-2557-1
-** *Piinattu planeetta*, (That hideous strength, 1945.) Tekijän lyhentämästä laitoksesta suomentanut Matti Kannosto, Kirjayhtymä, 1985, ISBN 951-26-2557-1
+  * *Narnian tarinat*, (The complete chronicles of Narnia, 1998.) Kuvitus Pauline Baynes, Otava, 2000, ISBN 951-1-16708-1
+  * *Narnia: Kaikki tarinat*, Otava, 2005 (9. painos 2007), ISBN 951-1-20526-9
+* **Ransom-trilogia:**
+  * *Äänetön planeetta*, (Out of the silent planet, 1938.) Suomentanut Matti Kannosto, Kirjayhtymä, 1983, ISBN 951-26-2485-0
+  * *Matka Venukseen*, (Perelandra, 1943.) Suomentanut Matti Kannosto. Jatkoa kirjaan: Äänetön planeetta, Kirjayhtymä, 1984, ISBN 951-26-2557-1
+  * *Piinattu planeetta*, (That hideous strength, 1945.) Tekijän lyhentämästä laitoksesta suomentanut Matti Kannosto, Kirjayhtymä, 1985, ISBN 951-26-2557-1
 * **Muut teokset:**
-** *[Paholaisen kirjeopisto](https://fi.wikipedia.org/wiki/Paholaisen_kirjeopisto) <!-- red link: Paholaisen kirjeopisto (kirja) -->*, (The screwtape letters, 1942.) Suomentanut Taneli Junttila, Kirjapaja, 2007, ISBN 978-951-607-297-8
-** *Suuri avioero*, (The great divorce, 1945.) Suomennos: Kari Krohn, Karatas-kirjat, 1970
-** *Narnian mietekirja*, (The wisdom of Narnia, 2001) Kuvittanut Pauline Baynes, Otava, 2002, ISBN 951-1-17983-7
+  * *[Paholaisen kirjeopisto](https://fi.wikipedia.org/wiki/Paholaisen_kirjeopisto) <!-- red link: Paholaisen kirjeopisto (kirja) -->*, (The screwtape letters, 1942.) Suomentanut Taneli Junttila, Kirjapaja, 2007, ISBN 978-951-607-297-8
+  * *Suuri avioero*, (The great divorce, 1945.) Suomennos: Kari Krohn, Karatas-kirjat, 1970
+  * *Narnian mietekirja*, (The wisdom of Narnia, 2001) Kuvittanut Pauline Baynes, Otava, 2002, ISBN 951-1-17983-7
 * **Uskonnolliset teokset:**
   * Ehyt elämä (Mere Christianity, 1952). Suom. Ruth Wathén, 1962, Suomen Lähetysseura; 2. laitos Tätä on kristinusko, Suom. Marja Liljeqvist, 1978, Kirjaneliö.
   * Entisen ateistin kristillisiä esseitä (Christian Reflections, 1966).
@@ -124,9 +124,9 @@ Filosofiassa ja teologiassa Lewis liittyy monin osin augustinolais-platonistisee
   * Mietteitä psalmeista (Reflections on the Psalms, 1958). Suom. Marja Liljeqvist, 1982, Kirjaneliö.
   * Neljä rakkautta (The Four Loves, 1960). Suom. Taisto Nieminen, 1982, Kirjaneliö.
   * Kirjeitä rukouksesta (Letters to Malcolm: Chiefly on Prayer, 1964). Suom. Taisto Nieminen, 1984, Kirjaneliö.
-** *Muistiinpanoja surun ajalta*, (A grief observed, 1961.) Suomennos: Anna-Mari Kaskinen. 3. korjattu painos, Kirjapaja, 2009, ISBN 978-951-607-861-1
+  * *Muistiinpanoja surun ajalta*, (A grief observed, 1961.) Suomennos: Anna-Mari Kaskinen. 3. korjattu painos, Kirjapaja, 2009, ISBN 978-951-607-861-1
   * Ilon yllättämä: Elämäni varhaiset vaiheet (Surprised by Joy, 1955). Suom. Ritva Miettinen, 1986, Kirjaneliö.
-** *365 päivää C. S. Lewisin seurassa*, (A year with C. S. Lewis: Daily readings from his classic works, 2003.) Suomentanut Taneli Junttila, Kirjapaja, 2008, ISBN 978-951-607-409-5
+  * *365 päivää C. S. Lewisin seurassa*, (A year with C. S. Lewis: Daily readings from his classic works, 2003.) Suomentanut Taneli Junttila, Kirjapaja, 2008, ISBN 978-951-607-409-5
 
 #### Suomentamattomat teokset
 

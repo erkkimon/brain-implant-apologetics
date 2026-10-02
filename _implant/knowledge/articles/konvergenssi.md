@@ -4,7 +4,7 @@ about: apologetics
 title: "Konvergenssi"
 description: "Konvergenssilla tarkoitetaan rakenteellista samankaltaisuutta, joka selittyy rakenteen samanlaisella toiminnalla tilanteessa, jossa eliöiden oletetulla yhteisellä kantamuodolla ei ole ollut kyseistä rakennetta."
 tags: [apowiki, evoluutioteoria, suunnitteluteoria]
-timestamp: 2026-10-01T21:30:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Konvergenssi".
@@ -36,16 +36,16 @@ Konvergenttisen evoluution mahdollisuus tekee myös evoluutioteoriaan pohjautuva
 ### Katso myös
 #### ApologetiikkaWiki
 
-*[Epätäydellinen suunnittelu (argumentti)](epätäydellinen-suunnittelu-argumentti.md)
-*[Suunnitteluteoria](suunnitteluteoria.md)
-*[Evoluutioteoria](evoluutioteoria.md)
-*[Polveutumisoppi](polveutumisoppi.md)
+* [Epätäydellinen suunnittelu (argumentti)](epätäydellinen-suunnittelu-argumentti.md)
+* [Suunnitteluteoria](suunnitteluteoria.md)
+* [Evoluutioteoria](evoluutioteoria.md)
+* [Polveutumisoppi](polveutumisoppi.md)
 
 #### Internet
-*[Convergent Genetic Evolution: "Surprising" Under Unguided Evolution, Expected Under Intelligent Design](http://www.ideacenter.org/contentmgr/showdetails.php/id/1490) (www.ideacenter.org)
-*[Common Design in Bat and Whale Echolocation Genes?](http://www.evolutionnews.org/2011/01/common_design_in_bat_and_whale042291.html) (Evolution News & Views)
-*[*Science* Article Acknowledges Convergent Similarity Is "Contrary to Expectations" of Neo-Darwinism](http://www.evolutionnews.org/2011/03/science_article_acknowledges_c045221.html) (Evolution News & Views)
-*[Convergent Genetic Evolution in Lichen Species](http://www.evolutionnews.org/2011/05/convergent_genetic_evolution_i046651.html) (Evolution News & Views)
+* [Convergent Genetic Evolution: "Surprising" Under Unguided Evolution, Expected Under Intelligent Design](http://www.ideacenter.org/contentmgr/showdetails.php/id/1490) (www.ideacenter.org)
+* [Common Design in Bat and Whale Echolocation Genes?](http://www.evolutionnews.org/2011/01/common_design_in_bat_and_whale042291.html) (Evolution News & Views)
+* [*Science* Article Acknowledges Convergent Similarity Is "Contrary to Expectations" of Neo-Darwinism](http://www.evolutionnews.org/2011/03/science_article_acknowledges_c045221.html) (Evolution News & Views)
+* [Convergent Genetic Evolution in Lichen Species](http://www.evolutionnews.org/2011/05/convergent_genetic_evolution_i046651.html) (Evolution News & Views)
 
 ### Viitteet
 

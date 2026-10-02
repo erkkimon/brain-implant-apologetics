@@ -4,7 +4,7 @@ about: apologetics
 title: "Kari Enqvist"
 description: "Kari-Pekka Enqvist (s. 16. helmikuuta 1954, Lahti) on Helsingin yliopiston fysikaalisten tieteiden laitoksen teoreettisen fysiikan professori."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kari Enqvist".
@@ -215,8 +215,8 @@ Edellä analysoituun retoriikkaan näköjään täysin kritiikittömästi suostu
 
 ### Aiheesta muualla
 
-*["Can the Universe Exist Without God?"](http://www.youtube.com/watch?v=prYeIU0NrSY) – Enqvistin ja filosofi [William Lane Craigin](william-lane-craig.md) keskustelutilaisuus Helsingin yliopistolla, <!--[Veritas Forum Finland](http://veritasforum.fi/ajankohtaista/teologi-ja-kosmologi-keskustelevat-jumalatodistuksista-helsingin-yliopistolla-164.html), -->16.4.2012.
-*Rope Kojonen: [Kari Enqvist: Uskomaton matka uskovien maailmaan](https://www.areiopagi.fi/2013/12/kari-enqvist-uskomaton-matka-uskovien-maailmaan/) - Kirja-arvio Enqvistin kirjasta "*Uskomaton matka uskovien maailmaan*", 3.12.2013
+* ["Can the Universe Exist Without God?"](http://www.youtube.com/watch?v=prYeIU0NrSY) – Enqvistin ja filosofi [William Lane Craigin](william-lane-craig.md) keskustelutilaisuus Helsingin yliopistolla, <!--[Veritas Forum Finland](http://veritasforum.fi/ajankohtaista/teologi-ja-kosmologi-keskustelevat-jumalatodistuksista-helsingin-yliopistolla-164.html), -->16.4.2012.
+* Rope Kojonen: [Kari Enqvist: Uskomaton matka uskovien maailmaan](https://www.areiopagi.fi/2013/12/kari-enqvist-uskomaton-matka-uskovien-maailmaan/) - Kirja-arvio Enqvistin kirjasta "*Uskomaton matka uskovien maailmaan*", 3.12.2013
 
 ### Viitteet
 

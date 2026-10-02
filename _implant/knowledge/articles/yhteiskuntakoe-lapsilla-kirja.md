@@ -4,7 +4,7 @@ about: apologetics
 title: "Yhteiskuntakoe lapsilla (kirja)"
 description: "Yhteiskuntakoe lapsilla on Tapio Puolimatkan kirjoittama kirja, joka kritisoi sukupuolineutraalia avioliittolakia laajamittaisena yhteiskuntakokeena, jossa lapset altistetaan monille tunnetuille ja tuntemattomille riskeille."
 tags: [apowiki, kirjat, seksuaalietiikka]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Yhteiskuntakoe lapsilla (kirja)".
@@ -45,54 +45,54 @@ Miten sitten uusi avioliittolaki vaikuttaa lapsen asemaan? Määrittelemällä a
 
 ### Kirjan sisällysluettelo
 
-*Johdanto
-**Vertailukohtana avioerolain muutos
-**Bolševikkien yhteiskuntakokeilu
-**Riskinotto lasten kustannuksella
-**Pahanlaatuinen kehäpäättely
-**Lasten asian pettäminen
-**Riittääkö rakkaus?
+* Johdanto
+  * Vertailukohtana avioerolain muutos
+  * Bolševikkien yhteiskuntakokeilu
+  * Riskinotto lasten kustannuksella
+  * Pahanlaatuinen kehäpäättely
+  * Lasten asian pettäminen
+  * Riittääkö rakkaus?
 
-***Sukupuolineutraalin avioliittolain yhteiskunnallisia vaikutuksia**
-**Avioliiton arvostuksen lasku
-**Lisääntyvä [avioerotaipumus](avioero.md)
-**Ryhmäavioliitot, [moniavioisuus](moniavioisuus.md) ja sisarusavioliitot
-**Ystävyyssuhteet samaa sukupuolta olevien kumppanien kanssa
+* **Sukupuolineutraalin avioliittolain yhteiskunnallisia vaikutuksia**
+  * Avioliiton arvostuksen lasku
+  * Lisääntyvä [avioerotaipumus](avioero.md)
+  * Ryhmäavioliitot, [moniavioisuus](moniavioisuus.md) ja sisarusavioliitot
+  * Ystävyyssuhteet samaa sukupuolta olevien kumppanien kanssa
 
-***Ostettiinko sukupuolineutraali avioliittolaki suurella rahalla?**
-**Monimiljonäärien julkisuuskampanja
-**Upporikas ”sorrettu vähemmistö”
-**Onko ihminen ensisijaisesti seksuaalinen vai moraalinen olento?
-**Oikeuslaitos ja onnenkeksien mietelausemagia
-**Lähettääkö perinteinen avioliittolaki syrjivän viestin?
-**Aikuisten vai lasten oikeudet?
-**YK:n lapsen oikeuksien sopimuksen tulkinta
+* **Ostettiinko sukupuolineutraali avioliittolaki suurella rahalla?**
+  * Monimiljonäärien julkisuuskampanja
+  * Upporikas ”sorrettu vähemmistö”
+  * Onko ihminen ensisijaisesti seksuaalinen vai moraalinen olento?
+  * Oikeuslaitos ja onnenkeksien mietelausemagia
+  * Lähettääkö perinteinen avioliittolaki syrjivän viestin?
+  * Aikuisten vai lasten oikeudet?
+  * YK:n lapsen oikeuksien sopimuksen tulkinta
 
-***[Geneettiset orvot](geneettiset-orvot.md)**
-**Lapset teknologisina tuotteina
-**Kuuluvatko geneettiset orvot avioliittokeskusteluun?
-**Sukuyhteyksien rikkominen
-**Miljardiluokan liiketoiminta
-**Geneettisten orpojen puolustaminen
+* **[Geneettiset orvot](geneettiset-orvot.md)**
+  * Lapset teknologisina tuotteina
+  * Kuuluvatko geneettiset orvot avioliittokeskusteluun?
+  * Sukuyhteyksien rikkominen
+  * Miljardiluokan liiketoiminta
+  * Geneettisten orpojen puolustaminen
 
-***Lapset sateenkaariperheissä**
-**Lapsen yhteys biologisiin vanhempiinsa
-**Lasten epänormaalin tilanteen normalisoiminen
-**Lapset poliittisina pelinappuloina
-**Sateenkaarilasten syyllistäminen
-**Asiantuntija-avun vaikeutuminen
+* **Lapset sateenkaariperheissä**
+  * Lapsen yhteys biologisiin vanhempiinsa
+  * Lasten epänormaalin tilanteen normalisoiminen
+  * Lapset poliittisina pelinappuloina
+  * Sateenkaarilasten syyllistäminen
+  * Asiantuntija-avun vaikeutuminen
 
-***Avioliittolaki kulttuurin opettajana ja muokkaajana**
-**Avioliiton yhteiskunnallinen viesti
-**Avioliiton moraalinen ja empiirinen viesti
-**Puolisoiden moraalinen eheys
-**Lapsen identiteetti- ja suhdeoikeudet
-**Sukupuolineutraalin avioliittolain lähettämä viesti
-**Sukupuolieron merkitys
-**John Corvinon vasta-argumentti
-**Homoseksuaalista elämäntapaa suosiva viesti
-***Lopuksi**
-*Kirjallisuus
+* **Avioliittolaki kulttuurin opettajana ja muokkaajana**
+  * Avioliiton yhteiskunnallinen viesti
+  * Avioliiton moraalinen ja empiirinen viesti
+  * Puolisoiden moraalinen eheys
+  * Lapsen identiteetti- ja suhdeoikeudet
+  * Sukupuolineutraalin avioliittolain lähettämä viesti
+  * Sukupuolieron merkitys
+  * John Corvinon vasta-argumentti
+  * Homoseksuaalista elämäntapaa suosiva viesti
+* **Lopuksi**
+* Kirjallisuus
 
 ### Aiheesta muualla
 

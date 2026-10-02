@@ -4,7 +4,7 @@ about: apologetics
 title: "Usko, tiede ja Raamattu (kirja)"
 description: "Usko, tiede ja Raamattu on Tapio Puolimatkan kirjoittama kirja, joka analysoi raamattututkimuksen peruslähtökohtia ja lähestymistapoja."
 tags: [apowiki, kirjat, raamattu, eksegetiikka]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Usko, tiede ja Raamattu (kirja)".
@@ -60,149 +60,149 @@ Lisäksi on huomattava, että Raamatun keskuksessa ei ole irrallinen kokoelma to
 
 ##### 1. Arvostelukyky, oppineisuus ja itsepetos
 
-*1.1. Arvostelukyvyn ja oppineisuuden suhde
-*1.2. Itsepetoksen ongelma
-*1.3. Välittävätkö evankeliumit kuvan Jeesuksen persoonallisuudesta?
-*1.4. Looginen hyppy mahdollisuudesta totuuteen
-*1.5. Ovatko ihmeet mahdollisia?
-*1.6. Luoko tutkija Jeesuksen omaksi peilikuvakseen?
-*1.7. Heitettiinkö Jeesus joukkohautaan?
-*1.8. Tutkijan uran reunaehtoja
-*1.9. Teologia naturalistisessa tiedeyhteisössä
+* 1.1. Arvostelukyvyn ja oppineisuuden suhde
+* 1.2. Itsepetoksen ongelma
+* 1.3. Välittävätkö evankeliumit kuvan Jeesuksen persoonallisuudesta?
+* 1.4. Looginen hyppy mahdollisuudesta totuuteen
+* 1.5. Ovatko ihmeet mahdollisia?
+* 1.6. Luoko tutkija Jeesuksen omaksi peilikuvakseen?
+* 1.7. Heitettiinkö Jeesus joukkohautaan?
+* 1.8. Tutkijan uran reunaehtoja
+* 1.9. Teologia naturalistisessa tiedeyhteisössä
 
 ##### 2. Raamattukritiikki ja kristillinen uskontunnustus
 
-*2.1. Tulisiko raamattukritiikki asettaa Raamatun paikalle?
-*2.2. Erilaisia Raamatun tutkijoita – Raamatun tuntemisen merkitys
-**2.2.1. Tieteellisten uskontunnustusten merkitys
-**2.2.2. Itsekriittisyyden välttämättömyys
-*2.3. Usko Kristukseen on perususkomus
-*2.4. Tiedolliset kumoajat
-*2.5. Millaisia merkityksiä annetaan fundamentalismille?
+* 2.1. Tulisiko raamattukritiikki asettaa Raamatun paikalle?
+* 2.2. Erilaisia Raamatun tutkijoita – Raamatun tuntemisen merkitys
+  * 2.2.1. Tieteellisten uskontunnustusten merkitys
+  * 2.2.2. Itsekriittisyyden välttämättömyys
+* 2.3. Usko Kristukseen on perususkomus
+* 2.4. Tiedolliset kumoajat
+* 2.5. Millaisia merkityksiä annetaan fundamentalismille?
 
 ##### 3. Tieteen uskontunnustukset – kaksi tutkimuksen maailmaa
 
-*3.1. Tiede ja valta
-*3.2. Tutkimuksen maailmankatsomuksellinen lähtökohta
-*3.3. Suljettu keskusteluavaruus – uhka tieteellisyydelle
-*3.4. Pyrkimys löytää neutraali lähtökohta ihmisjärjessä
-**3.4.1. Lähtökohtana välttämättömät järjen totuudet
-**3.4.2. Onko olemassa neutraalia järjen käsitettä?
-*3.5. Pyrkimys löytää neutraali lähtökohta kaikille yhteisissä käsityksissä<!--Missä on 3.6 :)-->
-*3.7. Neutraalin tiedekäsityksen mytologisuus
-*3.8. Voidaanko tiede erottaa ei-tieteellisestä?
-*3.9. Käsitteellisiä erotteluja
-*3.10. Supranaturalistisen lähestymistavan alustava luonnehdinta
+* 3.1. Tiede ja valta
+* 3.2. Tutkimuksen maailmankatsomuksellinen lähtökohta
+* 3.3. Suljettu keskusteluavaruus – uhka tieteellisyydelle
+* 3.4. Pyrkimys löytää neutraali lähtökohta ihmisjärjessä
+  * 3.4.1. Lähtökohtana välttämättömät järjen totuudet
+  * 3.4.2. Onko olemassa neutraalia järjen käsitettä?
+* 3.5. Pyrkimys löytää neutraali lähtökohta kaikille yhteisissä käsityksissä<!--Missä on 3.6 :)-->
+* 3.7. Neutraalin tiedekäsityksen mytologisuus
+* 3.8. Voidaanko tiede erottaa ei-tieteellisestä?
+* 3.9. Käsitteellisiä erotteluja
+* 3.10. Supranaturalistisen lähestymistavan alustava luonnehdinta
 
 #### II AVOINTEN USKONTUNNUSTUSTEN AIKA
 
 ##### 4. Varhaiskristillisyydestä tieteen vallankumoukseen
 
-*4.1. Silminnäkijätodistajien merkitys
-*4.2. Kristus järjellisyyden perustana
-*4.3. Pahuuden aiheuttama sokeus ja pelkuruus
-*4.4. Luonnon riisuminen myyteistä
-*4.5. Tavallisen elämän merkitys
-*4.6. Tieteen perusta Jumalan ilmoituksessa
-*4.7. Sanallinen ilmoitus ja sen tulkinta
-**4.7.1. Jumalan puhe Vanhassa testamentissa
-**4.7.2. Kirkkoisien ja vanhan kirkon näkemys Raamatusta
-**4.7.3. Lutherin supranaturalismi
-**4.7.4. Jumalan luotettavuus
-**4.7.5. Sanainspiraatio
-*4.8. Kooste
+* 4.1. Silminnäkijätodistajien merkitys
+* 4.2. Kristus järjellisyyden perustana
+* 4.3. Pahuuden aiheuttama sokeus ja pelkuruus
+* 4.4. Luonnon riisuminen myyteistä
+* 4.5. Tavallisen elämän merkitys
+* 4.6. Tieteen perusta Jumalan ilmoituksessa
+* 4.7. Sanallinen ilmoitus ja sen tulkinta
+  * 4.7.1. Jumalan puhe Vanhassa testamentissa
+  * 4.7.2. Kirkkoisien ja vanhan kirkon näkemys Raamatusta
+  * 4.7.3. Lutherin supranaturalismi
+  * 4.7.4. Jumalan luotettavuus
+  * 4.7.5. Sanainspiraatio
+* 4.8. Kooste
 
 #### III USKONTUNNUSTUSTEN SALAAMISEN AIKA
 
 ##### 5. Käänne naturalismiin
-*5.1. Valistuksen järkeisusko
-**5.1.1. Valistuksen tieteellinen uskontunnustus
-**5.1.2. Tiedon ja uskon erottaminen
-**5.1.3. Vapauden ja välttämättömyyden ristiriita
-*5.2. Uusi historiallinen tieteenihanne
-**5.2.1. Historiatieteen yhdistyminen positivismiin
-**5.2.2. Positivismin kritiikkiä
-*5.3. Naturalistinen käsitys kriittisyydestä
-*5.4. Naturalistinen käsitys historiasta
-**5.4.1. Voiko Jumala toimia historiassa?
-*5.5. Naturalistisen teologian sisäisiä jännitteitä
-**5.5.1. Rationalismin suljettu maailma
-**5.5.2. Straussin myyttinen tulkinta
-**5.5.3. Onko naturalistinen filosofia neutraalia?
-**5.5.4. Bultmannin gnostilainen Kristus
-**5.5.5. Barthin kahtiajaettu maailma
-**5.5.6. Postmodernismi
-*5.6. Naturalistinen raamattukritiikki ja edistyksen myytti
-**5.6.1. Edistysusko kulttuuriuskontona
-**5.6.2. Edistysuskon kritiikkiä
-*5.7. Tieteen myytti
-**5.7.1. Onko tiede kaiken mitta?
-**5.7.2. Tutkimuksen oletettu puolueettomuus
-**5.7.3. Naturalismin puutteellinen itseymmärrys
-**5.7.4. Tieteisuskon motiivi
+* 5.1. Valistuksen järkeisusko
+  * 5.1.1. Valistuksen tieteellinen uskontunnustus
+  * 5.1.2. Tiedon ja uskon erottaminen
+  * 5.1.3. Vapauden ja välttämättömyyden ristiriita
+* 5.2. Uusi historiallinen tieteenihanne
+  * 5.2.1. Historiatieteen yhdistyminen positivismiin
+  * 5.2.2. Positivismin kritiikkiä
+* 5.3. Naturalistinen käsitys kriittisyydestä
+* 5.4. Naturalistinen käsitys historiasta
+  * 5.4.1. Voiko Jumala toimia historiassa?
+* 5.5. Naturalistisen teologian sisäisiä jännitteitä
+  * 5.5.1. Rationalismin suljettu maailma
+  * 5.5.2. Straussin myyttinen tulkinta
+  * 5.5.3. Onko naturalistinen filosofia neutraalia?
+  * 5.5.4. Bultmannin gnostilainen Kristus
+  * 5.5.5. Barthin kahtiajaettu maailma
+  * 5.5.6. Postmodernismi
+* 5.6. Naturalistinen raamattukritiikki ja edistyksen myytti
+  * 5.6.1. Edistysusko kulttuuriuskontona
+  * 5.6.2. Edistysuskon kritiikkiä
+* 5.7. Tieteen myytti
+  * 5.7.1. Onko tiede kaiken mitta?
+  * 5.7.2. Tutkimuksen oletettu puolueettomuus
+  * 5.7.3. Naturalismin puutteellinen itseymmärrys
+  * 5.7.4. Tieteisuskon motiivi
 
 #### IV TIETEEN PALUU AVOIMIIN USKONTUNNUSTUKSIIN
 
 ##### 6. Raamatun tieteellisen tutkimisen taustaoletukset
-*6.1. Tieteellinen tutkimusohjelma
-**6.1.1. Naturalistisen tutkimusohjelman ongelmia
-**6.1.2. Naturalismi metodisena ateismina/agnostismina
-**6.1.3. Ihmisen älyllisten kykyjen alkuperä
-**6.1.4. Tulkinta edellyttää teististä perustaa
-**6.1.5. Supranaturalistinen lähestymistapa
-*6.2. Sanallisen ilmoituksen merkitys
-*6.3. Aidon ilmoituksen tunnistaminen
-**6.3.1. Jumalan oma todistus
-**6.3.2. Toissijaiset tuntomerkit
-**6.3.3. Itsetuntemus
-*6.4. Kristus ajattelun kiintopisteenä
-**6.4.1. Kristus vai alkuvoimat
-**6.4.2. Alkuvoimat teologian lähtökohtana
-**6.4.3. Jumalatodistusten lähtökohta
-**6.4.4. Kristuksen usko ja tutkijan itsekriittisyys
+* 6.1. Tieteellinen tutkimusohjelma
+  * 6.1.1. Naturalistisen tutkimusohjelman ongelmia
+  * 6.1.2. Naturalismi metodisena ateismina/agnostismina
+  * 6.1.3. Ihmisen älyllisten kykyjen alkuperä
+  * 6.1.4. Tulkinta edellyttää teististä perustaa
+  * 6.1.5. Supranaturalistinen lähestymistapa
+* 6.2. Sanallisen ilmoituksen merkitys
+* 6.3. Aidon ilmoituksen tunnistaminen
+  * 6.3.1. Jumalan oma todistus
+  * 6.3.2. Toissijaiset tuntomerkit
+  * 6.3.3. Itsetuntemus
+* 6.4. Kristus ajattelun kiintopisteenä
+  * 6.4.1. Kristus vai alkuvoimat
+  * 6.4.2. Alkuvoimat teologian lähtökohtana
+  * 6.4.3. Jumalatodistusten lähtökohta
+  * 6.4.4. Kristuksen usko ja tutkijan itsekriittisyys
 
 #### V PERUSUSKOMUSTEN VAIKUTUS TUTKIMUSMENETELMIIN
 
 ##### 7. Perususkomuksen vaikutus tulkinnalliseen näkökulmaan
-*7.1. Onko Raamattu luotettava?
-**7.1.1. Naturalistinen oletus Raamatun epäluotettavuudesta
-**7.1.2. Erehtymättömyyden hermeneutiikka
-**7.1.3. Virheen käsite on sidoksissa ennakko-oletuksiin
-**7.1.4. Virhe, eroavuus ja epätarkkuus
-**7.1.5. Onko Raamattu historiallisesti luotettava?
-**7.1.6. Lähtökohtaoletusten vaikutus päättelyyn
-**7.1.7. Kooste
-*7.2. Profetioiden tulkinta
-**7.2.1. Messiasennustukset
-**7.2.2. Naturalismin ja supranaturalismin kiista
-**7.2.3. Israelia koskevia ennustuksia
-**7.2.4. Ennustus Tyroksesta
-**7.2.5. Ennustus Babylonista
+* 7.1. Onko Raamattu luotettava?
+  * 7.1.1. Naturalistinen oletus Raamatun epäluotettavuudesta
+  * 7.1.2. Erehtymättömyyden hermeneutiikka
+  * 7.1.3. Virheen käsite on sidoksissa ennakko-oletuksiin
+  * 7.1.4. Virhe, eroavuus ja epätarkkuus
+  * 7.1.5. Onko Raamattu historiallisesti luotettava?
+  * 7.1.6. Lähtökohtaoletusten vaikutus päättelyyn
+  * 7.1.7. Kooste
+* 7.2. Profetioiden tulkinta
+  * 7.2.1. Messiasennustukset
+  * 7.2.2. Naturalismin ja supranaturalismin kiista
+  * 7.2.3. Israelia koskevia ennustuksia
+  * 7.2.4. Ennustus Tyroksesta
+  * 7.2.5. Ennustus Babylonista
 
 ##### 8. Raamattukritiikin menetelmien perustavat oletukset
 
-*8.1. Historiallinen kirjallisuuskritiikki
-**8.1.1. [Pseudonimien käyttö](pseudonimien-käyttö.md)
-**8.1.2. [Evankeliumien ajoituksen](evankeliumien-ajoitus.md) taustana olevia oletuksia
-**8.1.3. Lähdekritiikin oletuksia
-**8.1.4. Esimerkkinä [dokumentaarihypoteesi](dokumentaarihypoteesi.md)
-**8.1.5. Dokumentaarihypoteesin kritiikkiä
-**8.1.6. [Synoptisen ongelman](synoptinen-ongelma.md) taustaoletuksia
-*8.2. Uskonnonhistoriallinen tutkimus
-*8.3. [Muotohistoriallinen tutkimus](muotokritiikki.md)
-**8.3.1. Muotohistoriallisen tutkimuksen ennakko-oletukset
-**8.3.2. [Traditiokritiikki](traditiokritiikki.md): kriteerejä sisällön aitouden tunnistamiseksi
-*8.4. [Redaktiokritiikki](redaktiokritiikki.md)
-*8.5. Eksegetiikan tutkimuksen metodinen murros
-*8.6. [Sosiologinen kritiikki](sosiologinen-kritiikki-raamatuntutkimus.md)
-*8.7. [Kirjallisuuskritiikki](kirjallisuuskritiikki-raamatuntutkimus.md)
-**8.7.1. [Narraatiokritiikki](narraatiokritiikki-raamatuntutkimus.md)
-**8.7.2. [Retorinen kritiikki](retorinen-kritiikki-raamatuntutkimus.md)
-**8.7.3. [Kanoninen kritiikki](kanoninen-kritiikki-raamatuntutkimus.md)
-**8.7.4. [Strukturalismi](strukturalismi-raamatuntutkimus.md)
-**8.7.5. [Lukijalähtöinen tutkimus](lukijalähtöinen-tutkimus-raamatuntutkimus.md)
-**8.7.6. [Dekonstruktio](dekonstruktio-raamatuntutkimus.md)
-*8.8. Kooste
+* 8.1. Historiallinen kirjallisuuskritiikki
+  * 8.1.1. [Pseudonimien käyttö](pseudonimien-käyttö.md)
+  * 8.1.2. [Evankeliumien ajoituksen](evankeliumien-ajoitus.md) taustana olevia oletuksia
+  * 8.1.3. Lähdekritiikin oletuksia
+  * 8.1.4. Esimerkkinä [dokumentaarihypoteesi](dokumentaarihypoteesi.md)
+  * 8.1.5. Dokumentaarihypoteesin kritiikkiä
+  * 8.1.6. [Synoptisen ongelman](synoptinen-ongelma.md) taustaoletuksia
+* 8.2. Uskonnonhistoriallinen tutkimus
+* 8.3. [Muotohistoriallinen tutkimus](muotokritiikki.md)
+  * 8.3.1. Muotohistoriallisen tutkimuksen ennakko-oletukset
+  * 8.3.2. [Traditiokritiikki](traditiokritiikki.md): kriteerejä sisällön aitouden tunnistamiseksi
+* 8.4. [Redaktiokritiikki](redaktiokritiikki.md)
+* 8.5. Eksegetiikan tutkimuksen metodinen murros
+* 8.6. [Sosiologinen kritiikki](sosiologinen-kritiikki-raamatuntutkimus.md)
+* 8.7. [Kirjallisuuskritiikki](kirjallisuuskritiikki-raamatuntutkimus.md)
+  * 8.7.1. [Narraatiokritiikki](narraatiokritiikki-raamatuntutkimus.md)
+  * 8.7.2. [Retorinen kritiikki](retorinen-kritiikki-raamatuntutkimus.md)
+  * 8.7.3. [Kanoninen kritiikki](kanoninen-kritiikki-raamatuntutkimus.md)
+  * 8.7.4. [Strukturalismi](strukturalismi-raamatuntutkimus.md)
+  * 8.7.5. [Lukijalähtöinen tutkimus](lukijalähtöinen-tutkimus-raamatuntutkimus.md)
+  * 8.7.6. [Dekonstruktio](dekonstruktio-raamatuntutkimus.md)
+* 8.8. Kooste
 
 ##### 9. Arvostelukyky ja avoin keskusteluavaruus
 

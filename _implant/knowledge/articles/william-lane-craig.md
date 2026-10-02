@@ -4,7 +4,7 @@ about: apologetics
 title: "William Lane Craig"
 description: "William Lane Craig (s. 23. elokuuta 1949) on yhdysvaltalainen uskonnonfilosofi ja teologi, joka kuuluu nykyajan huomattavimpiin kristinuskon apologeettoihin."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-02T00:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "William Lane Craig".
@@ -69,7 +69,7 @@ Tältä pohjalta hän usein aloittaa sanottavansa yleisluonteisista Jumala-todis
 * (ed. with Chad Meister) *God Is Great, God Is Good*. Downers Grove: InterVarsity. 2009.
 * (ed. with Paul Copan) *Contending with Christianity's Critics: Answering New Atheists & Other Objectors*. Nashville: Broadman & Holman. 2009.
 * *On Guard: Defending Your Faith with Reason and Precision*. Colorado Springs: David C. Cook. 2010.
-** **Suomennettu:** *[Valveilla - uskon perusteltu puolustaminen](http://hintaseuranta.fi/tuote/valveilla-uskon-perusteltu-puolustaminen-william-lane-craig-kirja/823844)*. Ryttylä: Kustannus Oy Uusi Tie. 2012.
+  * **Suomennettu:** *[Valveilla - uskon perusteltu puolustaminen](http://hintaseuranta.fi/tuote/valveilla-uskon-perusteltu-puolustaminen-william-lane-craig-kirja/823844)*. Ryttylä: Kustannus Oy Uusi Tie. 2012.
 
 #### Väittelyiden pohjalta laaditut teokset
 * *Will the Real Jesus Please Stand Up? A Debate Between William Lane Craig and [John Dominic Crossan](https://fi.wikipedia.org/wiki/John_Dominic_Crossan) <!-- red link: John Dominic Crossan -->* (ed. Paul Copan). Grand Rapids: Baker Bookhouse. 1998.

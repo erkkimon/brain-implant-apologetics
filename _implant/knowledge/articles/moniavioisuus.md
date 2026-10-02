@@ -4,7 +4,7 @@ about: apologetics
 title: "Moniavioisuus"
 description: "Moniavioisuus on avioliiton muoto, jossa yhdellä henkilöllä on samanaikaisesti useita aviopuolisoita."
 tags: [apowiki, seksuaalietiikka]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Moniavioisuus".
@@ -75,7 +75,7 @@ Edib erosi myöhemmin elämässään omasta miehestään, kun tämä halusi otta
 Vaikka mies voi mennä naimisiin kahden naisen kanssa, hän ei voi mennä naimisiin kahden naisen kanssa samalla tavalla ja samassa merkityksessä kuin hän menee naimisiin yhden naisen kanssa: ”On mieletöntä sanoa: ‘Omistan itseni kokonaan sinulle Marja, ja myös sinulle, Aino, ja sinullekin Petra, ja ehkä myös jollekin muulle naiselle, jonka tulen vielä kohtaamaan.’”[^7] Kulttuuri, joka hyväksyy moniavioisuuden ”on jo muuttanut ja halventanut avioliittosi merkityksen riippumatta siitä, mitä aikomuksia sinulla on avioliittoa solmiessasi.”
 
 ### Lähteet
-*Esolen, Anthony, *Defending Marriage: Twelve Arguments for Sanity*, Charlotte, NC: Saint Benedict Press, 2014
+* Esolen, Anthony, *Defending Marriage: Twelve Arguments for Sanity*, Charlotte, NC: Saint Benedict Press, 2014
 
 ### Viitteet
 

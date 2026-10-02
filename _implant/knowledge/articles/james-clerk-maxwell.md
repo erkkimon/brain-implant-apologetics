@@ -4,7 +4,7 @@ about: apologetics
 title: "James Clerk Maxwell"
 description: "Tätä henkilöä käsitellään ApologetiikkaWikissä, koska hänen työllään on ollut suuri merkitys tieteen kehitykselle sekä tieteen ja kristinuskon väliselle suhteelle James Clerk Maxwell (13."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "James Clerk Maxwell".
@@ -45,7 +45,7 @@ Thomas F. Torrance kiinnittää huomiota siihen, että Maxwell teki tutkimustyö
 Maxwell lähti tieteellisessä työssään siitä, että Jumala on luonut maailman ja että juuri siksi sitä on mielekästä tutkia tieteellisesti. Hänelle olisi ollut täysin vierasta ajatus, että luomisteorian varaan rakentuva tieteenharjoitus määriteltäisiin tieteen ulkopuolelle kuuluvaksi. Hän näkivät tieteellisen tutkimuksen saavan mielekkyytensä nimenomaan ajatuksesta, että Jumala on luonut maailman ja että hän on luonut ihmisen omaksi kuvakseen.
 
 ### Lähteet
-*
+* 
 
 ### Viitteet
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Lasten oikeudet"
 description: "Lapsen oikeudet ovat ihmisoikeuksia, jotka on kohdennettu erityisesti lapsiin."
 tags: [apowiki, seksuaalietiikka, ihmisoikeudet]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Lasten oikeudet".
@@ -74,10 +74,10 @@ Suomen Unicefin ja ehkä myös kahden muun järjestön tulkinta lapsen oikeuksis
 
 ### Kirjallisuus
 
-*Toim. Inka Hetemäki, *Lapsen oikeuksien sopimuksen käsikirja*, Unicef, 2011
-*Marquardt, Elizabeth & Glenn, Norval D. & Clark, Karen, *"My daddy’s name is DONOR: A New Study of Young Adults Conceived through Sperm Donation," Report from the Institute for American Values*, New York: Institute of American Values, 2010
-*Tapio Puolimatka, *[Yhteiskuntakoe lapsilla?](yhteiskuntakoe-lapsilla-kirja.md)*, Kuva ja Sana, 2016, ISBN 978-951-585-316-5
-*Somerville, Margaret, *Children’s human rights and unlinking child-parent biological bonds with adoption, same-sex marriage and new reproductive technologies*, Journal of Family Studies, Vol. 13, Issue 2, November
+* Toim. Inka Hetemäki, *Lapsen oikeuksien sopimuksen käsikirja*, Unicef, 2011
+* Marquardt, Elizabeth & Glenn, Norval D. & Clark, Karen, *"My daddy’s name is DONOR: A New Study of Young Adults Conceived through Sperm Donation," Report from the Institute for American Values*, New York: Institute of American Values, 2010
+* Tapio Puolimatka, *[Yhteiskuntakoe lapsilla?](yhteiskuntakoe-lapsilla-kirja.md)*, Kuva ja Sana, 2016, ISBN 978-951-585-316-5
+* Somerville, Margaret, *Children’s human rights and unlinking child-parent biological bonds with adoption, same-sex marriage and new reproductive technologies*, Journal of Family Studies, Vol. 13, Issue 2, November
 
 ### Viitteet
 

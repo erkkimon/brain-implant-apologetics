@@ -4,7 +4,7 @@ about: apologetics
 title: "Richard Bauckham"
 description: "Richard Bauckham (syntynyt syyskuussa 22, 1946, Lontoo) on Uuden testamentin eksegetiikan tutkija, joka toimii nykyään tutkijana Ridley Hallissa, Cambridgessa."
 tags: [apowiki, henkilöt, eksegetiikka, tyngät]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Richard Bauckham".
@@ -30,11 +30,11 @@ Bauckham on julkaissut tutkimuksia Uuden testamentin eksegetiikasta ja varhaisen
 
 ### Teokset
 
-*Bauckham, Richard (2008). Jesus and the God of Israel : God Crucified and Other Studies on the New Testament's Christology of Divine Identity.
-*Bauckham, Richard (2007). The Testimony of the Beloved Disciple : Narrative, History, and Theology in the Gospel of John.
-*Bauckham, Richard (2006). [Jesus and the Eyewitnesses](jesus-and-the-eyewitnesses-kirja.md) : The Gospels as Eyewitness Testimony.
-*Bauckham, Richard. James : Wisdom of James, Disciple of Jesus the Sage, New Testament Readings.
-*Bauckham, Richard. The Book of Acts in Its Palestinian Setting, The Book of Acts in Its First Century Setting V.
+* Bauckham, Richard (2008). Jesus and the God of Israel : God Crucified and Other Studies on the New Testament's Christology of Divine Identity.
+* Bauckham, Richard (2007). The Testimony of the Beloved Disciple : Narrative, History, and Theology in the Gospel of John.
+* Bauckham, Richard (2006). [Jesus and the Eyewitnesses](jesus-and-the-eyewitnesses-kirja.md) : The Gospels as Eyewitness Testimony.
+* Bauckham, Richard. James : Wisdom of James, Disciple of Jesus the Sage, New Testament Readings.
+* Bauckham, Richard. The Book of Acts in Its Palestinian Setting, The Book of Acts in Its First Century Setting V.
 
 ### Aiheesta muualla
 

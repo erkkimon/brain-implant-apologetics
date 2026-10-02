@@ -4,7 +4,7 @@ about: apologetics
 title: "Roy Clouser"
 description: "Roy Clouser on filosofian emeritusprofessori College of New Jersey -nimisessä korkeakoulussa."
 tags: [apowiki, henkilöt, filosofia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Roy Clouser".
@@ -26,4 +26,4 @@ Roy Clouser on filosofian emeritusprofessori College of New Jersey -nimisessä k
 * Knowing with the Heart (IVP, Downers Grove, 1999).
 
 ### Aiheesta muualla:
-*[Roy Clouserin kotisivut](http://www.allofliferedeemed.co.uk/clouser.htm)
+* [Roy Clouserin kotisivut](http://www.allofliferedeemed.co.uk/clouser.htm)

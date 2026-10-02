@@ -4,7 +4,7 @@ about: apologetics
 title: "Oslon-Utøyan verilöyly 2011"
 description: "Norjalainen Anders Behring Breivik nousi yleiseen tietoisuuteen surmaamalla 22.7.2011 Oslossa ja vajaat 40 km siitä luoteeseen sijaitsevalla Utøyan saarella tarkoitushakuisen suunnitelmallisesti ja kylmäverisesti 77 ihmistä, joista räjähtein kahdeksan ja tuliasein 69."
 tags: [apowiki, henkilöt, keskeneräiset-artikkelit]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Oslon-Utøyan verilöyly 2011".
@@ -95,11 +95,11 @@ On siis selvää, että Breivikin sairaalloisen terroristinen ja rikollinen usko
 
 
 ### Lähteet
-*http://www.kevinislaughter.com/wp-content/uploads/2083+-+A+European+Declaration+of+Independence.pdf
-*http://juhaahvio.puheenvuoro.uusisuomi.fi/78887-oslon-terroristi-anders-breivik-oikeistolainen-aarikristitty
+* http://www.kevinislaughter.com/wp-content/uploads/2083+-+A+European+Declaration+of+Independence.pdf
+* http://juhaahvio.puheenvuoro.uusisuomi.fi/78887-oslon-terroristi-anders-breivik-oikeistolainen-aarikristitty
 
 ### Katso myös
-*[Agentti ideologiansa indikaattorina](argumentum-ad-hominem.md)
+* [Agentti ideologiansa indikaattorina](argumentum-ad-hominem.md)
 
 [^1]: Hän oli itse valmistanut räjähteitä tilaamistaan lannoitteista ja virittänyt niistä autopommin.
 [^2]: Suurin osa surmatöistä tapahtui siis ampumalla.

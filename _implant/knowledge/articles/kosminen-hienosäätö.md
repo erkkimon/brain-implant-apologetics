@@ -4,7 +4,7 @@ about: apologetics
 title: "Kosminen hienosäätö"
 description: "Kosmisella hienosäädöllä tarkoitetaan sitä havaittua tosiasiaa, että universumin rakenne ja fysiikan lakien rakenne ja erityisesti luonnonvakiot on täytynyt säätää todella tarkasti, jotta elämä olisi mahdollista."
 tags: [apowiki, kosmologia, suunnitteluteoria, lukusuositukset, hienosäätö, astrobiologia, kosminen, paikka, maapallo, linnunrata, kuu, aurinko, antrooppinen-periaate, kosminen-hienosäätö, fysiikan-lait, dna-koodi]
-timestamp: 2026-10-02T03:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kosminen hienosäätö".
@@ -29,12 +29,12 @@ Fyysikko Stephen Hawking kuvailee tätä *A Brief History of Time* -kirjassaan s
 Uudemmassa kirjassaan Hawking ei kiistä hienosäädön olemassaoloa vaan pyrkii selittämään sen multiversumi-selityksellä, tähän vastine alempana.
 (Erillisessä artikkelissa [Kosminen lähiömme](kosminen-lähiömme.md) on kerrottu maapallon paikan erityisyydestä.) Suunnittelun jälkiä näyttää löytyvän joka puolelta aina hyvin suurista asioista hyvin pieniin. Näistä esimerkkejä ovat vaikkapa
 
-*Universumin juuri sopiva laajeneminen, massan sopiva tasaisuus sekä entropia
-*Galaksimme, aurinkomme ja maapallon ominaisuudet
-*Elämän usean osan systeemit, jotka eivät antaisi valintaetua ennen kuin koko systeemi olisi valmis
-*Elämän ohjelmakoodi sekä DNA:n ja proteiinien ominaisuudet
-*Alkuaineiden ja molekyylien ominaisuudet, erityisesti hiili ja happi
-*Hiukkasfysiikan ja kvanttifysiikan lait mahdollistavat alkuaineiden olemassaolon.
+* Universumin juuri sopiva laajeneminen, massan sopiva tasaisuus sekä entropia
+* Galaksimme, aurinkomme ja maapallon ominaisuudet
+* Elämän usean osan systeemit, jotka eivät antaisi valintaetua ennen kuin koko systeemi olisi valmis
+* Elämän ohjelmakoodi sekä DNA:n ja proteiinien ominaisuudet
+* Alkuaineiden ja molekyylien ominaisuudet, erityisesti hiili ja happi
+* Hiukkasfysiikan ja kvanttifysiikan lait mahdollistavat alkuaineiden olemassaolon.
 
 Käymme alla läpi joitain näistä.
 
@@ -52,10 +52,10 @@ Fysiikassa on neljä perusvuorovaikutusta: painovoima, sähkömagneettinen voima
 
 *Kuva: Fysiikan perusvuorovaikutusten tulee olla juuri oikeassa suhteessa toisiinsa nähden, jotta mm. alkuaineet ovat vakaita.*
 
-*Painovoima, vahvuus 1
-*Heikko ydinvoima, vahvuus 10<sup>32</sup>
-*Sähkömagneettinen voima, vahvuus 10<sup>36</sup>
-*Vahva ydinvoima (värivoima), vahvuus 10<sup>38</sup>
+* Painovoima, vahvuus 1
+* Heikko ydinvoima, vahvuus 10<sup>32</sup>
+* Sähkömagneettinen voima, vahvuus 10<sup>36</sup>
+* Vahva ydinvoima (värivoima), vahvuus 10<sup>38</sup>
 
 (Tilanne on oikeastaan hieman tätä monimutkaisempi koska vuorovaikutukset kohdistuvat eri asioihin ja vuorovaikutusten etäisyysriippuvuudet ovat erilaisia. Nämäkin yksityiskohdat ovat välttämättömiä elämän kannalta.)
 
@@ -73,15 +73,15 @@ Atomiytimen positiiviset protonit ovat lähellä toisiaan ja hylkivät siten toi
 Jo 0,5 prosentin muutos vahvan ydinvoiman vahvuudessa lopettaisi hiilen ja hapen tuoton tähdissä.
 
 ##### Heikko ydinvoima
-*Heikko vuorovaikutus on riittävän heikko. Jos se olisi vahvempi, sitä käyttävä protoni-protoni fuusio muuttaisi kaiken vedyn heliumiksi, jolloin ei olisi elämää eikä pitkäikäisiä tähtiä.
-*Toisaalta jos heikko vuorovaikutus olisi heikompi,  neutroneita ja protoneita olisi saman verran ja olisi vain nopeasti palavia helium-tähtiä.
+* Heikko vuorovaikutus on riittävän heikko. Jos se olisi vahvempi, sitä käyttävä protoni-protoni fuusio muuttaisi kaiken vedyn heliumiksi, jolloin ei olisi elämää eikä pitkäikäisiä tähtiä.
+* Toisaalta jos heikko vuorovaikutus olisi heikompi,  neutroneita ja protoneita olisi saman verran ja olisi vain nopeasti palavia helium-tähtiä.
 
 #### Muita fysiikan suureita
 Elektronin massa. Elektroni on noin tuhat kertaa protonia kevyempi. Tämä mahdollistaa sen, että elektronipilvi kiertää paljon raskaampaa ja siten riittävästi paikallaan pysyvää ydintä, joka taas mahdollistaa kemialliset sidokset.
 
 Protonin ja neutronin massat. Neutroni on juuri sopivasti protonia raskaampi:
-*Jos neutroni olisi hieman (1/700 -osa) raskaampi, p + p → D reaktiota ei tapahtuisi. Universumissa olisi vain protoneita eikä tähtiä olisi.
-*Jos neutroni olisi hieman kevyempi, protoniylimäärää ei olisi, olisi lähinnä heliumia. Helium palaa liian nopeasti.
+* Jos neutroni olisi hieman (1/700 -osa) raskaampi, p + p → D reaktiota ei tapahtuisi. Universumissa olisi vain protoneita eikä tähtiä olisi.
+* Jos neutroni olisi hieman kevyempi, protoniylimäärää ei olisi, olisi lähinnä heliumia. Helium palaa liian nopeasti.
 
 (Neutronin massasta suurempi osa tulee värivuorovaikutuksen vahvuudesta (kentästä) ja pienempi osa u ja d kvarkkien massoista. Mikäli tilannetta tarkastellaan kvarkkien massojen avulla, vaaditaan tarkempaa hienosäätöä.)
 
@@ -116,29 +116,29 @@ Tarkastelemme seuraavaksi miksi veden kemialliset ja fysikaaliset ominaisuudet t
 ##### Vesi
 Elämä tarvitsee nesteen. Neste mahdollistaa sen, että elämän rakennusosat voivat liikkua, mutta myös koskea toisiinsa riittävän usein. Alla joitain veden elämän mahdollistavista ominaisuuksista. Nämä ja useat veden muut ominaisuudet tekevät vedestä erittäin poikkeuksellisen nesteen.
 
-*Vesi on universaali liuotin: useimmat aineet liukenevat veteen. Kun elämä käyttää vettä, se voi käyttää useimpia alkuaineita.
-*Vesi ei ole liian reaktiivinen, useimmat aineet eivät pala tai syövy veden vaikutuksesta liian nopeasti.
-*Vedellä on sopivan pieni viskositeetti (nesteen jähmeys) esimerkiksi verenkiertoon. Veden kapillaari-ilmiö mahdollistaa sen että vesi nousee painovoimaa vastaan kapeissa putkissa mahdollistaen suurten kasvien elämän.
-*Vedellä on yksinkertainen rakenne joten vettä on saatavilla
+* Vesi on universaali liuotin: useimmat aineet liukenevat veteen. Kun elämä käyttää vettä, se voi käyttää useimpia alkuaineita.
+* Vesi ei ole liian reaktiivinen, useimmat aineet eivät pala tai syövy veden vaikutuksesta liian nopeasti.
+* Vedellä on sopivan pieni viskositeetti (nesteen jähmeys) esimerkiksi verenkiertoon. Veden kapillaari-ilmiö mahdollistaa sen että vesi nousee painovoimaa vastaan kapeissa putkissa mahdollistaen suurten kasvien elämän.
+* Vedellä on yksinkertainen rakenne joten vettä on saatavilla
 
 ###### Vesi - pysyminen nesteenä
 Elämälle on siis välttämätöntä että vesi pysyy nestemäisenä. Veden omat ominaisuudet auttavat tässä. Jos siis veden ominaisuudet olisivat toisenlaiset, emme olisi täällä.[^10][^11]:
 
-*Korkea lämpökapasiteetti. Vedellä on aineiden joukossa poikkeuksellisen korkea lämpökapasiteetti, joka tarkoittaa sitä että vesi kykenee sitomaan paljon lämpöenergiaa ilman että sen oma lämpötila muuttuu merkittävästi.
-*Korkea kiehumispiste. Vedellä on poikkeuksellisen korkea kiehumispiste, se höyrystyy vasta sadassa asteessa.
-*Vesi laajenee jäätyessään. Tämä on erittäin poikkeuksellista nesteiden joukossa ja mahdollistaa sen, että jää nestemäistä vettä kevyempänä kelluu. Mikäli jää muodostuisi merien ja järvien pohjaan, jokainen talvi lisäisi jään määrää pohjassa, eikä jää ehtisi sulaa kesän aikana. Tällöin järvet jäätyisivät pohjasta myöden, tappaen suurimman osan vesien elämästä. Jää muodostaa järviä ja meriä liialta jäätymiseltä suojaavan kerroksen koska jäällä on alhainen lämmönjohtavuus ja siinä ei tapahdu konvektiota. Näin suurin osa vedestä ei jäädy.
-*Korkea jäätymisen latenttilämpö. Jäätyessään vesi luovuttaa paljon lämpöenergiaa ympäristöönsä näin hidastaen jäätymistä jääkerroksen alarajassa.
-*Jään ja lumen alhainen lämmönjohtavuus. Jää muodostaa kylmältä suojaavan kerroksen järvien pinnalle. Näin jäätyminen hidastuu.
-*Jään sopivan pieni viskositeetti. Jää on suuremmassa paineessa muovautuvaa, joten jää ei jää maapallon navoille tai vuoristoihin vaan suuret jäämassat leviävät hajoavat reunoilta ja näin kaikki vesi ei jäädy navoille ja vuorien huipuille.
+* Korkea lämpökapasiteetti. Vedellä on aineiden joukossa poikkeuksellisen korkea lämpökapasiteetti, joka tarkoittaa sitä että vesi kykenee sitomaan paljon lämpöenergiaa ilman että sen oma lämpötila muuttuu merkittävästi.
+* Korkea kiehumispiste. Vedellä on poikkeuksellisen korkea kiehumispiste, se höyrystyy vasta sadassa asteessa.
+* Vesi laajenee jäätyessään. Tämä on erittäin poikkeuksellista nesteiden joukossa ja mahdollistaa sen, että jää nestemäistä vettä kevyempänä kelluu. Mikäli jää muodostuisi merien ja järvien pohjaan, jokainen talvi lisäisi jään määrää pohjassa, eikä jää ehtisi sulaa kesän aikana. Tällöin järvet jäätyisivät pohjasta myöden, tappaen suurimman osan vesien elämästä. Jää muodostaa järviä ja meriä liialta jäätymiseltä suojaavan kerroksen koska jäällä on alhainen lämmönjohtavuus ja siinä ei tapahdu konvektiota. Näin suurin osa vedestä ei jäädy.
+* Korkea jäätymisen latenttilämpö. Jäätyessään vesi luovuttaa paljon lämpöenergiaa ympäristöönsä näin hidastaen jäätymistä jääkerroksen alarajassa.
+* Jään ja lumen alhainen lämmönjohtavuus. Jää muodostaa kylmältä suojaavan kerroksen järvien pinnalle. Näin jäätyminen hidastuu.
+* Jään sopivan pieni viskositeetti. Jää on suuremmassa paineessa muovautuvaa, joten jää ei jää maapallon navoille tai vuoristoihin vaan suuret jäämassat leviävät hajoavat reunoilta ja näin kaikki vesi ei jäädy navoille ja vuorien huipuille.
 
 ###### Vesi - lämmönsäätely
 Veden ominaisuudet ovat juuri sopivat ihmisen, eläimien ja maapallon lämmönsäätelyyn (Lämmönsäätely ja sille edulliset ominaisuudet ovat osin päällekkäisiä yo. veden nesteenä pysymisen kanssa mutta kyse on eri tavoitteesta.):
-*Korkea lämpökapasiteetti. Vesi kykenee sitomaan paljon lämpöenergiaa ilman että sen oma lämpötila muuttuu merkittävästi. Kun ihminen tai eliö siis tekee lihaksillaan tai aineenvaihdunnallaan työtä, josta aina vapautuu lämpöenergiaa, vettä käyttävän eliön oma lämpötila ei muutu merkittävästi. Esimerkiksi (vettä käyttävän) ihmisen lämpötila nousee 10 km juoksun seurauksen 10 astetta (tämäkin olisi tappavaa, mutta keho käyttää veden <!-- Mihin? -->. Mikäli olisimme suolaa, ruumiinlämpömme nousisi 40 astetta, mikäli lyijyä, 200 astetta. Samoin koko maapallon lämpötilavaihtelut ovat huomattavan pieniä koska suuret vesimassat tasaavat vuorokausi- ja vuodenaikojen lämpötilavaihteluja.
-*Korkea kiehumispiste. Vesi ei kiehu eikä haihdu liian helpolla.
-*Veden alhainen viskositeetti. Veden juoksevuus mahdollistaa verenkierron. Vesi on jopa ei-Newtonilainen neste, joka tarkoittaa, että kun painetta lisätään, veden viskositeetti laskee (eli juoksevuus kasvaa).
-*Korkea ominaislämpö. Vesi pystyy viemään suuria määriä lämpöenergiaa pois kudoksesta. Vesi kykenee siirtämään paljon lämpöenergiaa ja tasaamaan maapallon lämpötilaeroja (merivirrat jne.).
-*Lämmönjohtavuus. Veden nesteiden joukossa poikkeuksellisen korkean (nelinkertainen yleisiin nesteisiin verrattuna) lämmönjohtavuuden avulla lämpö siirtyy hiussuonista ympäröivään kudokseen ja päinvastoin. Näin lämpö saadaan kuljetettua iholle.
-*Korkea latenttilämpö haihtumisessa. Haihtuessaan vesi kuluttaa paljon lämpöenergiaa. Tämä mahdollistaa tehokkaan jäähdytyksen hikoilemalla.
+* Korkea lämpökapasiteetti. Vesi kykenee sitomaan paljon lämpöenergiaa ilman että sen oma lämpötila muuttuu merkittävästi. Kun ihminen tai eliö siis tekee lihaksillaan tai aineenvaihdunnallaan työtä, josta aina vapautuu lämpöenergiaa, vettä käyttävän eliön oma lämpötila ei muutu merkittävästi. Esimerkiksi (vettä käyttävän) ihmisen lämpötila nousee 10 km juoksun seurauksen 10 astetta (tämäkin olisi tappavaa, mutta keho käyttää veden <!-- Mihin? -->. Mikäli olisimme suolaa, ruumiinlämpömme nousisi 40 astetta, mikäli lyijyä, 200 astetta. Samoin koko maapallon lämpötilavaihtelut ovat huomattavan pieniä koska suuret vesimassat tasaavat vuorokausi- ja vuodenaikojen lämpötilavaihteluja.
+* Korkea kiehumispiste. Vesi ei kiehu eikä haihdu liian helpolla.
+* Veden alhainen viskositeetti. Veden juoksevuus mahdollistaa verenkierron. Vesi on jopa ei-Newtonilainen neste, joka tarkoittaa, että kun painetta lisätään, veden viskositeetti laskee (eli juoksevuus kasvaa).
+* Korkea ominaislämpö. Vesi pystyy viemään suuria määriä lämpöenergiaa pois kudoksesta. Vesi kykenee siirtämään paljon lämpöenergiaa ja tasaamaan maapallon lämpötilaeroja (merivirrat jne.).
+* Lämmönjohtavuus. Veden nesteiden joukossa poikkeuksellisen korkean (nelinkertainen yleisiin nesteisiin verrattuna) lämmönjohtavuuden avulla lämpö siirtyy hiussuonista ympäröivään kudokseen ja päinvastoin. Näin lämpö saadaan kuljetettua iholle.
+* Korkea latenttilämpö haihtumisessa. Haihtuessaan vesi kuluttaa paljon lämpöenergiaa. Tämä mahdollistaa tehokkaan jäähdytyksen hikoilemalla.
 
 ###### Vesi - ravinteet
 Veden ominaisuudet ovat myös juuri sopivat ravinteiden kiertoon, joka myös on välttämätöntä elämän kannalta. Vesi laajenee jäätyessään, hajottaen kiviä. Vesi liuottaa ravinteita ja kuljettaa niitä käyttöön. Sen viskositeetti on sopiva jokiin. Veden pintajännitys mahdollistaa kapillaari-ilmiön jolla kasvit kuljettavat ravinteita ja vettä juurista ylöspäin painovoimaa vastaan.
@@ -147,10 +147,10 @@ Lisäksi useat proteiinien osat ovat vettähylkiviä, eli hydrofobisia, joka mah
 
 #### Hiili
 Hiilen ominaisuudet tekevät siitä juuri sopivan elämän käyttöön[^10]:
-*Hiili kykenee muodostamaan erittäin pitkiä ketjuja. Esimerkiksi usein esitetyn hiilen korvikkeen, piin, pitkät ketjut eivät ole riittävän vakaita.
-*Hiilen affiinisuus hyvin erilaisille alkuaineille ei vaihtele liian paljoa. Tämä on erityisesti tärkeää vedyn, hapen ja typen tapauksissa. Näin hiilen ja näiden aineiden yhdisteiden energiasisältö ei vaihtele paljon. Ne ovat vakaita ja hyvin erilaiset reaktiot ovat käytettävissä. Hiilen reaktiot ovat siis yleensä lieviä ja yhdisteet metastabiileja.
-*Hiili kykenee muodostamaan monenlaisia sidoksia (vahva kovalentti sidos, heikommat ei-kovalentit sidokset (esim proteiinin 3D muoto)). Esimerkiksi piin kohdalla näin ei ole ja siten piin kemia on paljon köyhempää ja siitä puuttuu monimuotoisuus.
-*Hiilen sidokset ovat käyttökelpoisia juuri samalla lämpötila-alueella kuin vesi on nestemäisenä.
+* Hiili kykenee muodostamaan erittäin pitkiä ketjuja. Esimerkiksi usein esitetyn hiilen korvikkeen, piin, pitkät ketjut eivät ole riittävän vakaita.
+* Hiilen affiinisuus hyvin erilaisille alkuaineille ei vaihtele liian paljoa. Tämä on erityisesti tärkeää vedyn, hapen ja typen tapauksissa. Näin hiilen ja näiden aineiden yhdisteiden energiasisältö ei vaihtele paljon. Ne ovat vakaita ja hyvin erilaiset reaktiot ovat käytettävissä. Hiilen reaktiot ovat siis yleensä lieviä ja yhdisteet metastabiileja.
+* Hiili kykenee muodostamaan monenlaisia sidoksia (vahva kovalentti sidos, heikommat ei-kovalentit sidokset (esim proteiinin 3D muoto)). Esimerkiksi piin kohdalla näin ei ole ja siten piin kemia on paljon köyhempää ja siitä puuttuu monimuotoisuus.
+* Hiilen sidokset ovat käyttökelpoisia juuri samalla lämpötila-alueella kuin vesi on nestemäisenä.
 
 Vastaavia 'onnellisia yhteensattumia' nousee esiin useista muistakin alkuaineista joita elämä voi onnekseen käyttää [^10].
 
@@ -159,17 +159,17 @@ Vastaavia 'onnellisia yhteensattumia' nousee esiin useista muistakin alkuaineist
 *Kuva: Geneettinen koodin degeneraatio minimoi mutaatioiden haitalliset vaikutukset.*
 
 DNA on sopivin molekyyli eliöiden rakennuspiirustusten kantamiseen[^10]:
-*Kemiallisesti sopivan pysyvä vedessä
-*Sen rakenne mahdollistaa tarkan ja nopean kopioinnin
-*Se on joustava joka mahdollistaa sen, että proteiini tunnistaa oikean kohdan DNA:ssa ja voi lukea tarvittavat ohjeet.
-*Sillä on erittäin suuri pakkautuvuus superkiertymisen ansiosta (metrin pätkä kiertyy 0.005 mm palloksi).
-*Paras koodaussysteemi:
-**Koodaustapa (64 eri kodonilla 20 aminohappoa) on optimaalinen[^12]. Geneettisen koodin degeneraatio (64 eri kodonia koodaa 20 aminohappoa) minimoi mutaatioiden haitalliset vaikutukset. Mikäli vain 20 kodonia koodaisi aminohappoja ja loput 44 johtaisivat proteiinisynteesin keskeytymiseen todennäköisyys mutaatioiden aiheuttamalle ketjunmuodostumisen keskeytymiselle kasvaisi. Koodi on lisäksi rakennettu siten että muutokset jossakin kodonin kolmesta nukleotidissä johtavat synonyymin (koodattava aminohappo ei muutu) taikka aminohappoon jolla on samanlaiset kemialliset ominaisuudet. Geneettisen koodin degeneraatio minimoi siksi mutaatioiden haitalliset vaikutukset. [^13]
-**Mahdollisia koodeja on 10<sup>70</sup> kappaletta. Tämän avaruuden etsintä on täysin mahdotonta.
-**Koodin muuttuminen evoluution aikana olennaisesti edes kerran on erittäin epätodennäköistä valtavien korrelaatioiden takia. (Koodin vaihtaminen vaikuttaisi heti koko perimän lukuun, virheitä tulisi valtavasti.)
-**Nykyinen koodi on virheensiedoltaan parempi kuin miljoona satunnaista koodaussysteemiä, todennäköisesti parhain 10<sup>18</sup> koodin joukossa[^14].
-**Paras koodaussysteemi myös päällekkäisten ohjelmien kannalta.
-**Koska on erittäin epätodennäköistä että koodi voisi kehittyä ja se on silti optimaalinen, tämä on vahva viite suunnittelusta. Riittävän älykäs suunnittelija kykenee päätymään optimiratkaisuun ilman kokeiluja. Kaikkien muiden tunnettujen koodien takana on ollut suunnittelija.
+* Kemiallisesti sopivan pysyvä vedessä
+* Sen rakenne mahdollistaa tarkan ja nopean kopioinnin
+* Se on joustava joka mahdollistaa sen, että proteiini tunnistaa oikean kohdan DNA:ssa ja voi lukea tarvittavat ohjeet.
+* Sillä on erittäin suuri pakkautuvuus superkiertymisen ansiosta (metrin pätkä kiertyy 0.005 mm palloksi).
+* Paras koodaussysteemi:
+  * Koodaustapa (64 eri kodonilla 20 aminohappoa) on optimaalinen[^12]. Geneettisen koodin degeneraatio (64 eri kodonia koodaa 20 aminohappoa) minimoi mutaatioiden haitalliset vaikutukset. Mikäli vain 20 kodonia koodaisi aminohappoja ja loput 44 johtaisivat proteiinisynteesin keskeytymiseen todennäköisyys mutaatioiden aiheuttamalle ketjunmuodostumisen keskeytymiselle kasvaisi. Koodi on lisäksi rakennettu siten että muutokset jossakin kodonin kolmesta nukleotidissä johtavat synonyymin (koodattava aminohappo ei muutu) taikka aminohappoon jolla on samanlaiset kemialliset ominaisuudet. Geneettisen koodin degeneraatio minimoi siksi mutaatioiden haitalliset vaikutukset. [^13]
+  * Mahdollisia koodeja on 10<sup>70</sup> kappaletta. Tämän avaruuden etsintä on täysin mahdotonta.
+  * Koodin muuttuminen evoluution aikana olennaisesti edes kerran on erittäin epätodennäköistä valtavien korrelaatioiden takia. (Koodin vaihtaminen vaikuttaisi heti koko perimän lukuun, virheitä tulisi valtavasti.)
+  * Nykyinen koodi on virheensiedoltaan parempi kuin miljoona satunnaista koodaussysteemiä, todennäköisesti parhain 10<sup>18</sup> koodin joukossa[^14].
+  * Paras koodaussysteemi myös päällekkäisten ohjelmien kannalta.
+  * Koska on erittäin epätodennäköistä että koodi voisi kehittyä ja se on silti optimaalinen, tämä on vahva viite suunnittelusta. Riittävän älykäs suunnittelija kykenee päätymään optimiratkaisuun ilman kokeiluja. Kaikkien muiden tunnettujen koodien takana on ollut suunnittelija.
 
 #### Valo ja elämä
 Näkyvä valo kattaa vain pienen osan sähkömagneettisesta spektristä. Kuitenkin juuri tuo alue, jota aurinkomme tuottaa yltäkyllin, on energialtaan juuri sellaista jota mikään mahdollinen elämä voi hyödyntää[^10]. Elämä ei olisi voinut kehittyä käyttämään radio-, gamma- tai röntgensäteilyä. Tähtitieteilijä ja evolutionisti George Greenstein täsmentää miksi elämä voi ylipäätään hyödyntään vain näkyvää valoa:
@@ -181,31 +181,31 @@ Näkyvä valo kattaa vain pienen osan sähkömagneettisesta spektristä. Kuitenk
 
 Elämä vaatii lisäksi sellaisen ilmakehän jonka näkyvä valo läpäisee. Oma ilmakehämme suodattaa suurimman osan sähkömagneettisesta spektristä - mm. elämälle vaaralliset alueet kuten gamma-, röntgen ja UV-säteilyn, mutta päästään lävitseen kuitenkin kapean kaistaleen spektristä - elämälle välttämättömän näkyvän valon alueen.
 
-*Myös vesi absorboi meille vaarallista säteilyä ja läpäisee hyödyllistä säteilyä. Tämä mahdollistaa esimerkiksi näköaistien käytön vedessä sekä auringonvalon merkityksen sekä pinta- että pohjakasvustolle.
-*Myös eliöiden silmien on mahdollista olla tarkkoja juuri tällä samalla valon aallonpituus-alueella. Suuremmat aallonpituudet vaatisivat liian suuria silmiä ja kuvausvirheitä olisi vaikea hallita. Pienempiä aallonpituuksia on vaikeaa taittaa ja ne vaurioittavat silmiä.
+* Myös vesi absorboi meille vaarallista säteilyä ja läpäisee hyödyllistä säteilyä. Tämä mahdollistaa esimerkiksi näköaistien käytön vedessä sekä auringonvalon merkityksen sekä pinta- että pohjakasvustolle.
+* Myös eliöiden silmien on mahdollista olla tarkkoja juuri tällä samalla valon aallonpituus-alueella. Suuremmat aallonpituudet vaatisivat liian suuria silmiä ja kuvausvirheitä olisi vaikea hallita. Pienempiä aallonpituuksia on vaikeaa taittaa ja ne vaurioittavat silmiä.
 
 ### Lainauksia
 Tunnettujen fyysikkojen lausuntoja hienosäädöstä fysiikassa:
 
-*”Luonto on ollut meille suosiollisempi kuin mitä meillä oli oikeus odottaa. Kun katsomme universumia ja tunnistamme monet fysiikan ja tähtitieteen yhteensattumat jotka yhdessä toimivat eduksemme, näyttää melkein siltä että universumi on jollain tapaa tiennyt meidän olevan tulossa.” –Freeman Dyson
-*"[Fysiikan] lait ... näyttävät olevan erittäin nerokkaan suunnittelun tulosta ... universumilla täytyy olla tarkoitus." -Paul Davies
-*”Kun käymme läpi kaiken todistusaineiston, nousee ajatus, että yliluonnollinen taho – tai siis Taho – täytyy olla mukana. On mahdollista että yhtäkkiä, tahtomattamme, olemme löytäneet tieteellisen Jumalan olemassaolon todistuksen.” -George Greenstein
-*“Erittäin älykäs taho on säätänyt fysiikkaa, sekä kemiaa ja biologiaa.” -Fred Hoyle
+* ”Luonto on ollut meille suosiollisempi kuin mitä meillä oli oikeus odottaa. Kun katsomme universumia ja tunnistamme monet fysiikan ja tähtitieteen yhteensattumat jotka yhdessä toimivat eduksemme, näyttää melkein siltä että universumi on jollain tapaa tiennyt meidän olevan tulossa.” –Freeman Dyson
+* "[Fysiikan] lait ... näyttävät olevan erittäin nerokkaan suunnittelun tulosta ... universumilla täytyy olla tarkoitus." -Paul Davies
+* ”Kun käymme läpi kaiken todistusaineiston, nousee ajatus, että yliluonnollinen taho – tai siis Taho – täytyy olla mukana. On mahdollista että yhtäkkiä, tahtomattamme, olemme löytäneet tieteellisen Jumalan olemassaolon todistuksen.” -George Greenstein
+* “Erittäin älykäs taho on säätänyt fysiikkaa, sekä kemiaa ja biologiaa.” -Fred Hoyle
 
 ### Tutkittavuus
 
 Lisäpotkua suunnittelu-argumentille tuo se, että olemme monella tavalla parhaassa paikassa tekemään havaintoja maapallosta, aurinkokunnasta, maailmankaikkeudesta ja luonnonlaeista (Gonzales & Richards: [The Privileged Planet](the-privileged-planet-kirja.md)). Paras paikka elää näyttää myös olevan paras paikka tutkia kosmosta. Mikäli universumi olisi vain sattuman tulosta, ei olisi mitään syytä miksi asuttavuuden ja havaittavuuden välillä olisi korrelaatio. Suunnittelijan olettaisi antavan älykkäimmille tietoisille olennoille mahdollisuudet suunnitellun universumin havainnointiin ja arvostamiseen. Havaittavuuden ja asuttavuuden välisestä onnellisesta samanaikaisuudesta kertovat useat asiat, otamme esimerkiksi kuun ja paikkamme galaksissa:
 
-*Kuu vakauttaa maapallon akselin, joka mahdollistaa sopivat vuodenaikojen lämpötilavaihtelut.
-*Kuun vetovoima sekoittaa merien kylmää ja lämmintä vettä ja kierrättää ravinteita.
+* Kuu vakauttaa maapallon akselin, joka mahdollistaa sopivat vuodenaikojen lämpötilavaihtelut.
+* Kuun vetovoima sekoittaa merien kylmää ja lämmintä vettä ja kierrättää ravinteita.
 
-*Kuu peittää auringon juuri sopivasti mahdollistaen auringon toiminnan ymmärtämisen.
-*Myös yleinen suhteellisuusteoria varmistettiin auringonpimennyksen avulla.
+* Kuu peittää auringon juuri sopivasti mahdollistaen auringon toiminnan ymmärtämisen.
+* Myös yleinen suhteellisuusteoria varmistettiin auringonpimennyksen avulla.
 
 Paras paikka elää galaksissa on myös paras paikka tehdä havaintoja:
 
-*Galaksin keskustassa on liikaa säteilyä. Suurenerginen ja runsas säteily tuhoaisi elämän planeetalla ja puhaltaisi ilmakehän avaruuteen. Lisäksi galaksin keskustassa on liikaa tähtiä ja siten törmäyksiä. Galaksin laidalla taas on liian vähän raskaampia alkuaineita (esimerkiksi hiili, happi, fosfori ja metallit). Elämälle paras paikka on siellä missä me olemmekin, eli spiraaligalaksin käsivarsien välissä olevalla tyhjemmällä alueella jossa kuitenkin on riittävästi eri alkuaineita eikä liikaa säteilyä tai lähellä räjähteleviä supernovia.
-*Galaksin asuttavin paikka (jossa siis asumme) on myös paras paikka universumimme havainnointiin, sillä galaksin keskustassa on liikaa pölyä ja muita tähtiä joten sieltä ei näe kunnolla muita galakseja, taustasäteilyä tai universumin suuria rakeita. Aivan galaksin reunalta taas ei näe kunnolla galaksimme keskustaan. Paikkamme spiraaligalaksin käsivarsien välissä on myös vähäpölyinen, täältä näkee hyvin joka suuntaan.
+* Galaksin keskustassa on liikaa säteilyä. Suurenerginen ja runsas säteily tuhoaisi elämän planeetalla ja puhaltaisi ilmakehän avaruuteen. Lisäksi galaksin keskustassa on liikaa tähtiä ja siten törmäyksiä. Galaksin laidalla taas on liian vähän raskaampia alkuaineita (esimerkiksi hiili, happi, fosfori ja metallit). Elämälle paras paikka on siellä missä me olemmekin, eli spiraaligalaksin käsivarsien välissä olevalla tyhjemmällä alueella jossa kuitenkin on riittävästi eri alkuaineita eikä liikaa säteilyä tai lähellä räjähteleviä supernovia.
+* Galaksin asuttavin paikka (jossa siis asumme) on myös paras paikka universumimme havainnointiin, sillä galaksin keskustassa on liikaa pölyä ja muita tähtiä joten sieltä ei näe kunnolla muita galakseja, taustasäteilyä tai universumin suuria rakeita. Aivan galaksin reunalta taas ei näe kunnolla galaksimme keskustaan. Paikkamme spiraaligalaksin käsivarsien välissä on myös vähäpölyinen, täältä näkee hyvin joka suuntaan.
 
 ### Ymmärrettävyys
 Miksi ihminen olisi sellainen että kykenee ymmärtämään maailmankaikkeutta?
@@ -215,9 +215,9 @@ A. Einstein totesi: ”Käsittämättömin asia universumissa on, että se on k�
 Luonnonlaeissa on eleganssia, kauneutta, harmoniaa ja nerokkuutta. Eleganttien lakien etsintä on ohjannut tiedettä. Esimerkiksi Dirac on todennut: ”On tärkeämpää että yhtälö on kaunis kuin että se sopii mittauksiin.” ja Einstein: ”Minulla on syvä usko, että universumin perimmäiset lait tulevat olemaan kauniita ja yksinkertaisia.” Miksi kauneuden etsintä tuottaisi teorioita, jotka tekevät tarkkoja ennusteita? Materialismi/naturalismi ei anna syytä miksi luonnonlait olisivat elegantteja ja ymmärrettäviä. Ei ole mikään ihme että Suunnittelija halusi tehdä maailman joka on kaunis ja elegantti perustavalla tasolla.
 
 ## Hienosäädön selityksiä
-*Perustavampi ’kaiken’ teoria: Ei näytä auttavan, perustavampi teoria siirtäisi hienosäädön omiin vakioihinsa tai rakenteeseensa. Esimerkiksi neutronin ja protonin massa seuraa tietysti allaolevista kvarkkien massoista ja QCD-teorian rakenteesta ja kvarkkien massojen hienosäätö on vielä tarkempaa jotta neutronin ja protonin massat saadaan kohdalleen. Hienosäätö voi siis vaikeutua tai helpottua mutta perusargumentti pysyy samana. Lisäksi elämän vaatimien rajaehtojen määrä pysyy joka tapauksessa samana (kymmenistä satoihin), joten pienemmällä määrällä vakioita on yhä vaikeampi löytää niitä täyttävää ratkaisua.
-*[Monimaailmankaikkeusteoriat](multiversumi-hypoteesi.md) ja valintaefekti (emme voisi havaita muuta): Tämä selitys ei paranna ennustetta havaittavuudelle *tämän* universumin tapauksessa. Multiversumi-selitys lisäisi todennäköisyyttä sille, että *joku* universumi on hienosäädetty, mutta ei selitä yhtä universumia paremmin miksi *tämä* universumi on hienosäädetty. Multiversumi selitys ei siis ole uskottava selitys hienosäädölle. Tästä aiheesta lisää [multiversumia käsittelevässä artikkelissa](multiversumi-hypoteesi.md) sekä esimerkiksi jutussa http://www.intelligentdesign.fi/2008/09/03/monimaailmankaikkeus-selityksen-monet-ongelmat/ sekä tekninen käsittely fyysikoiden artikkelipalvelimen artikkelissa [arXiv:0802.4013](http://arxiv.org/abs/0802.4013).
-*Suunnittelu: Ei muodissa naturalistisen tieteenfilosofian takia, mutta ennustaa havaitsijat parhaiten. Suunnittelusta on myös riippumattomia todisteita.
+* Perustavampi ’kaiken’ teoria: Ei näytä auttavan, perustavampi teoria siirtäisi hienosäädön omiin vakioihinsa tai rakenteeseensa. Esimerkiksi neutronin ja protonin massa seuraa tietysti allaolevista kvarkkien massoista ja QCD-teorian rakenteesta ja kvarkkien massojen hienosäätö on vielä tarkempaa jotta neutronin ja protonin massat saadaan kohdalleen. Hienosäätö voi siis vaikeutua tai helpottua mutta perusargumentti pysyy samana. Lisäksi elämän vaatimien rajaehtojen määrä pysyy joka tapauksessa samana (kymmenistä satoihin), joten pienemmällä määrällä vakioita on yhä vaikeampi löytää niitä täyttävää ratkaisua.
+* [Monimaailmankaikkeusteoriat](multiversumi-hypoteesi.md) ja valintaefekti (emme voisi havaita muuta): Tämä selitys ei paranna ennustetta havaittavuudelle *tämän* universumin tapauksessa. Multiversumi-selitys lisäisi todennäköisyyttä sille, että *joku* universumi on hienosäädetty, mutta ei selitä yhtä universumia paremmin miksi *tämä* universumi on hienosäädetty. Multiversumi selitys ei siis ole uskottava selitys hienosäädölle. Tästä aiheesta lisää [multiversumia käsittelevässä artikkelissa](multiversumi-hypoteesi.md) sekä esimerkiksi jutussa http://www.intelligentdesign.fi/2008/09/03/monimaailmankaikkeus-selityksen-monet-ongelmat/ sekä tekninen käsittely fyysikoiden artikkelipalvelimen artikkelissa [arXiv:0802.4013](http://arxiv.org/abs/0802.4013).
+* Suunnittelu: Ei muodissa naturalistisen tieteenfilosofian takia, mutta ennustaa havaitsijat parhaiten. Suunnittelusta on myös riippumattomia todisteita.
 
 Suunnittelun ennusteita voidaan perustella usealla tasolla, joista alla esimerkkejä:
 1. Jumalan erityisen ilmoituksen perusteella tehdyt ennustukset.
@@ -270,14 +270,14 @@ Tuoreessa kirjassaan The Grand Design, jonka Stephen Hawking on kirjoittanut yhd
 
 Kirjan tieteellinen sisältö:
 
-*Kertoo Hawkingin imaginaarista aikaa käyttävästä mallista koskien universumin alkua. Alkusingulariteetti voidaan tämän avulla kiertää tai pyöristää. Universumilla on alku tässäkin mallissa.
-*Hawking myöntää kosmisen hienosäädön ihmeellisyyden. Hän pyrkii selittämään hienosäädön multiversumiselityksellä. Tarkemmin ottaen Hawkin käyttää kvanttifysiikan monimaailmatulkintaa, jossa  polkuintegraalin kaikkien summien ajatellaan olevan erillisiä universumeja.
-*Hawking ei kirjassaan varsinaisesti selitä universumin syntyä fysiikan lakien pohjalta. Viimeisessä luvussa Hawking nopeasti spekuloi, että mikäli universumin positiivisen ja negatiivisen energian summa on nolla, universumi voisi syntyä vakuumista fluktuaationa. Hawking ei näytä huomaavan, että olettamalla vakuumin, hän olettaa jo avaruusajan, tyhjiön ja siten vakuumienergian olemassaolon. Mutta juuri näiden olemassaoli olisi pitänyt selittää. Lisäksi universumin kokonaisenergia ei ole hyvin määritelty, joten positiivisen ja negatiivisen energian summalla spekulointi on epätieteellistä.
+* Kertoo Hawkingin imaginaarista aikaa käyttävästä mallista koskien universumin alkua. Alkusingulariteetti voidaan tämän avulla kiertää tai pyöristää. Universumilla on alku tässäkin mallissa.
+* Hawking myöntää kosmisen hienosäädön ihmeellisyyden. Hän pyrkii selittämään hienosäädön multiversumiselityksellä. Tarkemmin ottaen Hawkin käyttää kvanttifysiikan monimaailmatulkintaa, jossa  polkuintegraalin kaikkien summien ajatellaan olevan erillisiä universumeja.
+* Hawking ei kirjassaan varsinaisesti selitä universumin syntyä fysiikan lakien pohjalta. Viimeisessä luvussa Hawking nopeasti spekuloi, että mikäli universumin positiivisen ja negatiivisen energian summa on nolla, universumi voisi syntyä vakuumista fluktuaationa. Hawking ei näytä huomaavan, että olettamalla vakuumin, hän olettaa jo avaruusajan, tyhjiön ja siten vakuumienergian olemassaolon. Mutta juuri näiden olemassaoli olisi pitänyt selittää. Lisäksi universumin kokonaisenergia ei ole hyvin määritelty, joten positiivisen ja negatiivisen energian summalla spekulointi on epätieteellistä.
 
 Kirjan filosofinen sisältö:
-*Hawking aloittaa kirjansa lausahduksella "filosofia on kuollut". Kuitenkin suurin osa hänen johtopäätöksistään nojaavat puhtaasti amatöörimäiseen filosofiaan, eivät tieteeseen.
-*Hawking kannattaa antirealismismia, jonka mukaan varsinaista malleista riippumatonta todellisuutta ei ole olemassa, on vain erilaisia malleja. Hawking toteaa, että big bang kosmologia on yhtä validi kuin nuoren maailman kreationismi, toinen malli on vain joillekin mukavampi/kätevämpi.
-*Hawking kannattaa determinismiä, jolle hän jostakin syystä haluaa antaa tieteellinen -etuliitteen (taas oire tarkan filosofisen ajattelun puutteesta, tiede ei todista determinismiä, kyseessä on filosofinen ennakkositoumus). Hawking ei näytä käsittävän, että hänen determinisminsä mukaan hän ei siis varsinaisesti ole itse kirjoittanut kirjaansa, vaan fysiikan lakien mukaisesti liikkuvat hiukkaset ovat määränneet mitä kirja sisältää. Meillä ei ole syytä olettaa, että kirja olisi totta tai hyvin perusteltu. Miksi Hawking uskoo ajatteluunsa ja käsityksiinsä, joiden hän uskoo olevan hiukkasten ja kenttien satunnaisen liikkeen seurausta.
+* Hawking aloittaa kirjansa lausahduksella "filosofia on kuollut". Kuitenkin suurin osa hänen johtopäätöksistään nojaavat puhtaasti amatöörimäiseen filosofiaan, eivät tieteeseen.
+* Hawking kannattaa antirealismismia, jonka mukaan varsinaista malleista riippumatonta todellisuutta ei ole olemassa, on vain erilaisia malleja. Hawking toteaa, että big bang kosmologia on yhtä validi kuin nuoren maailman kreationismi, toinen malli on vain joillekin mukavampi/kätevämpi.
+* Hawking kannattaa determinismiä, jolle hän jostakin syystä haluaa antaa tieteellinen -etuliitteen (taas oire tarkan filosofisen ajattelun puutteesta, tiede ei todista determinismiä, kyseessä on filosofinen ennakkositoumus). Hawking ei näytä käsittävän, että hänen determinisminsä mukaan hän ei siis varsinaisesti ole itse kirjoittanut kirjaansa, vaan fysiikan lakien mukaisesti liikkuvat hiukkaset ovat määränneet mitä kirja sisältää. Meillä ei ole syytä olettaa, että kirja olisi totta tai hyvin perusteltu. Miksi Hawking uskoo ajatteluunsa ja käsityksiinsä, joiden hän uskoo olevan hiukkasten ja kenttien satunnaisen liikkeen seurausta.
 
 Hawking viittaa maapallon kaltaisen planeetan löytymiseen. Toistaiseksi löydetyt yli 500 planeettaa eivät ole lähellekään niin soveltuvia kuin maapallo monimutkaista elämää varten. Etäisyys auringosta on vain yksi vaatimus [kymmenien](kosminen-lähiömme.md) tai itse asiassa jopa satojen joukossa.
 
@@ -307,23 +307,23 @@ Todennäköisyys sille että lait olisivat oikein sokean sattuman kautta on ää
 *Kuva: Crystal Clear app browser.png*
 
  Lisäresursseja===
-*TV7 arkistossa Cafe Raamattu -ohjelman jaksot [99](http://www.tv7.fi/vod/player/6677/) ja [100](http://www.tv7.fi/vod/player/6678/) sisältävät viihteellisen keskustelun aiheesta.
-*http://www.miksiuskon.net/maailmankaikkeuden-hienost
+* TV7 arkistossa Cafe Raamattu -ohjelman jaksot [99](http://www.tv7.fi/vod/player/6677/) ja [100](http://www.tv7.fi/vod/player/6678/) sisältävät viihteellisen keskustelun aiheesta.
+* http://www.miksiuskon.net/maailmankaikkeuden-hienost
 
 #### Kirjallisuutta
 Suomeksi hienosäätöä on käsitelty kappaleen verran professori T. Puolimatkan kirjassa [Usko, tiede ja evoluutio](usko-tiede-ja-evoluutio-kirja.md).
-*J. Lennox, [God's Undertaker](https://en.wikipedia.org/wiki/John_Lennox) <!-- red link: God's Undertaker -->, Lion UK, 2007.
-*H. Ross, Why the Universe is the Way it is?, Baker Books, 2008.
-*J. Barrow, F. Tipler, The Anthropic Cosmological Principle, Clarendon Press, 1986.
-*J. Leslie, Universes, Routledge, 1996.
-*M. Denton, Nature’s Destiny. Free Press, 2002.
-*R. Collins, The teleological argument: an exploration of the fine tuning of the universe, W. Craigin ja J.P. Morelandin tuoreessa useita argumentteja tiivistävässä kirjassa [The Blackwell Companion to Natural Theology](http://www.amazon.com/Blackwell-Companion-Natural-Theology/dp/1405176571).
-*R. Collins, Evidence for Fine-tuning, kirjassa God and Design, ed. N. A. Manson, Routledge, 2001
-*G. Gonzalez and J. W. Richards, [The Privileged Planet](the-privileged-planet-kirja.md), Regnery Publishing, 2004.
-*M. Rees, Just Six Numbers, Phoenix, 2000.
-*R. Swinburne, The Existence of God, 2nd ed., Oxford University Press, 2004.
-*R. Collins, How to Rigorously Define Fine-tuning, Philosophia Christi, 2005, http://home.messiah.edu/%7Ercollins/Fine-tuning/FT.HTM
-*R. Penrose, The Road to Reality, Knopf, 2005.
+* J. Lennox, [God's Undertaker](https://en.wikipedia.org/wiki/John_Lennox) <!-- red link: God's Undertaker -->, Lion UK, 2007.
+* H. Ross, Why the Universe is the Way it is?, Baker Books, 2008.
+* J. Barrow, F. Tipler, The Anthropic Cosmological Principle, Clarendon Press, 1986.
+* J. Leslie, Universes, Routledge, 1996.
+* M. Denton, Nature’s Destiny. Free Press, 2002.
+* R. Collins, The teleological argument: an exploration of the fine tuning of the universe, W. Craigin ja J.P. Morelandin tuoreessa useita argumentteja tiivistävässä kirjassa [The Blackwell Companion to Natural Theology](http://www.amazon.com/Blackwell-Companion-Natural-Theology/dp/1405176571).
+* R. Collins, Evidence for Fine-tuning, kirjassa God and Design, ed. N. A. Manson, Routledge, 2001
+* G. Gonzalez and J. W. Richards, [The Privileged Planet](the-privileged-planet-kirja.md), Regnery Publishing, 2004.
+* M. Rees, Just Six Numbers, Phoenix, 2000.
+* R. Swinburne, The Existence of God, 2nd ed., Oxford University Press, 2004.
+* R. Collins, How to Rigorously Define Fine-tuning, Philosophia Christi, 2005, http://home.messiah.edu/%7Ercollins/Fine-tuning/FT.HTM
+* R. Penrose, The Road to Reality, Knopf, 2005.
 
 Todennäköisesti erittäin hyvä kirja asiasta tulee olemaan Robin Collinsin The Well-tempered Universe, kunhan ilmestyy. Tästä hyvä tiivistelmä lienee W. Lane Craigin ja J.P. Morelandin tuoreessa useita argumentteja tiivistävässä kirjassa "The Blackwell Companion to Natural Theology".
 

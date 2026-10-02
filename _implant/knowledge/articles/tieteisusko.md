@@ -4,7 +4,7 @@ about: apologetics
 title: "Tieteisusko"
 description: "Tieteisusko eli skientismi eli tieteisuskovaisuus on epistemologinen käsitys, jonka mukaan vain tieteellinen tieto on luotettavaa tietoa ja tiede pystyy ratkaisemaan kaikki ongelmat."
 tags: [apowiki, maailmankatsomus, lukusuositukset]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tieteisusko".
@@ -117,12 +117,12 @@ Kristinuskon pohjalta päädyttiin luonnontieteiden harjoittamisedellytysten kan
 Kristinuskon valossa tieteisusko voidaankin nähdä harhaopiksi, jossa absolutisoidaan tai jopa nostetaan Jumalan asemaan yksi sinällään hyvä todellisuuden ja tietämisen osa-alue. Koko todellisuus on itse asiassa huomattavasti rikkaampi ja laajempi kuin pelkkä tieteellisen tiedon alue, joka ei toisaalta edes ole hyvin määritelty. Vastaavanlaisesta absolutisoinnista on esimerkkejä muiltakin alueilta: Pankkiiri sortuu helposti ajatteluun, että vain raha ratkaisee, rahahan pyörittää myös tiedettä. Matemaatikolle saattaa vain matematiikka olla tärkeää. Joillekin tietojenkäsittelijöille kaikki on vain algoritmeja. Joillekin sosiologeille kaikki, tiedekin, on vain sosiologinen systeemi. Ihminen nostaa usein oman alansa tai erityisalueensa liian merkittävään asemaan.
 
 ### Tunnettuja tieteisuskon edustajia
-*[Kari Enqvist](kari-enqvist.md)
-*[Esko Valtaoja](esko-valtaoja.md)
-*[Markku Myllykangas](https://fi.wikipedia.org/wiki/Markku_Myllykangas)
-*[Richard Dawkins](richard-dawkins.md)
-*[Steven Weinberg](https://fi.wikipedia.org/wiki/Steven_Weinberg)
-*[Christopher Hitchens](https://fi.wikipedia.org/wiki/Christopher_Hitchens)
+* [Kari Enqvist](kari-enqvist.md)
+* [Esko Valtaoja](esko-valtaoja.md)
+* [Markku Myllykangas](https://fi.wikipedia.org/wiki/Markku_Myllykangas)
+* [Richard Dawkins](richard-dawkins.md)
+* [Steven Weinberg](https://fi.wikipedia.org/wiki/Steven_Weinberg)
+* [Christopher Hitchens](https://fi.wikipedia.org/wiki/Christopher_Hitchens)
 
 ### Katso myös
 #### ApologetiikkaWiki

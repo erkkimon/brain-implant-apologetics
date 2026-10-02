@@ -4,7 +4,7 @@ about: apologetics
 title: "Kirjallisuushistoriallinen menetelmä (raamatuntutkimus)"
 description: "Historiallisesti orientoitunut kirjallisuuskritiikki eli kirjallisuushistoriallinen menetelmä on yksi historiallis-kriittinen menetelmä."
 tags: [apowiki, eksegetiikka]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kirjallisuushistoriallinen menetelmä (raamatuntutkimus)".
@@ -24,10 +24,10 @@ Kirjallisuushistoriallisen tutkimuksen tarkoituksena on selvittää Raamatun kir
 
 Historiallis-kriittisen kirjallisuuskritiikin alle sijoittuvat esim. seuraavat kysymykset:
 
-*[Pseudonimien käyttö](pseudonimien-käyttö.md)
-*[dokumentaarihypoteesi](dokumentaarihypoteesi.md)
-*[evankeliumien ajoitus](evankeliumien-ajoitus.md)
-*[synoptinen ongelma](synoptinen-ongelma.md)
+* [Pseudonimien käyttö](pseudonimien-käyttö.md)
+* [dokumentaarihypoteesi](dokumentaarihypoteesi.md)
+* [evankeliumien ajoitus](evankeliumien-ajoitus.md)
+* [synoptinen ongelma](synoptinen-ongelma.md)
 
 ### Lähdekritiikin oletuksia
 
@@ -84,10 +84,10 @@ Paitsi että molemmat edellä esitetyistä oletuksista ovat vailla riittäviä p
 
 ### Katso myös
 
-*[Pseudonimien käyttö](pseudonimien-käyttö.md)
-*[Evankeliumien ajoitus](evankeliumien-ajoitus.md)
-*[Synoptinen ongelma](synoptinen-ongelma.md)
-*[Dokumentaarihypoteesi](dokumentaarihypoteesi.md)
+* [Pseudonimien käyttö](pseudonimien-käyttö.md)
+* [Evankeliumien ajoitus](evankeliumien-ajoitus.md)
+* [Synoptinen ongelma](synoptinen-ongelma.md)
+* [Dokumentaarihypoteesi](dokumentaarihypoteesi.md)
 
 ### Viitteet
 

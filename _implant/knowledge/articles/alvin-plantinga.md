@@ -4,7 +4,7 @@ about: apologetics
 title: "Alvin Plantinga"
 description: "Alvin Carl Plantinga (1932 -) on amerikkalainen kristitty filosofi."
 tags: [apowiki, alvin-plantinga, teismi, filosofia]
-timestamp: 2026-10-02T03:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Alvin Plantinga".
@@ -62,8 +62,8 @@ Plantingan argumenttina on ensinnäkin se, että kristitty on **tiedollisesti oi
 Toiseksi kristinuskon perustotuudet ovat Plantingan mukaan **rationaalisia**. Ne ovat *sisäisesti rationaalisia*, koska ne sopivat yhteen ihmisen havaintojen, muistin ja loogisen päättelyn kanssa ja ovat keskenään yhdenmukaisia. Kristilliset uskomukset ovat myös *ulkoisesti rationaalisia*, koska ne ovat seurausta tiedollisesta prosessista, jossa älyllisiä kykyjä käytetään asianmukaisesti pyrittäessä muodostamaan tosia uskomuksia eikä esimerkiksi toiveajatteluun perustuvia lohduttavia mielikuvia.
 
 Kolmanneksi, kristilliset uskomukset ovat **tiedollisesti taattuja**. Tiedollinen tae (*warrant*) on uskomusten ominaisuus, joka niillä on, jos ne ovat seurausta älyllisten kykyjen moitteettomasta toiminnasta ja jos älylliset kyvyt lisäksi täyttävät kaksi ehtoa:
-*a) älylliset kyvyt toimivat niille sopivassa tiedollisessa ympäristössä (esimerkiksi ihmisen näköaisti toimii tilanteessa, jossa on riittävästi valoa)
-*b) älylliset kyvyt on rakennettu niin, että niiden avulla saadaan luotettavaa tietoa todellisuudesta.
+* a) älylliset kyvyt toimivat niille sopivassa tiedollisessa ympäristössä (esimerkiksi ihmisen näköaisti toimii tilanteessa, jossa on riittävästi valoa)
+* b) älylliset kyvyt on rakennettu niin, että niiden avulla saadaan luotettavaa tietoa todellisuudesta.
 
 Olettamus b) liittyy yleiseen kysymykseen ihmisten älyllisten kykyjen luotettavuudesta. Kristinuskon mukaan ihmisen älylliset kyvyt ovat älykkään suunnitelman tulosta. Niinpä on täysi syy uskoa, että ne on suunniteltu toimimaan niin, että ihminen voi niiden avulla olla kosketuksissa todellisuuteen. On järkevää uskoa, että ihmisen älylliset kyvyt ovat luotettavia, koska älyllisten kykyjen alkuperä on itse älykäs olento.
 
@@ -349,24 +349,24 @@ Asian näin ollen fundamentalismi-syytettä on vaikea ottaa vakavasti, koska se 
 
 ### ApologetiikkaWiki
 
-*[Alvin Plantinga: Evoluutioteoreettinen argumentti naturalismia vastaan](alvin-plantinga-evoluutioteoreettinen-argumentti-naturalismia-vastaan.md)
-*[Tapio Puolimatka](tapio-puolimatka.md)
+* [Alvin Plantinga: Evoluutioteoreettinen argumentti naturalismia vastaan](alvin-plantinga-evoluutioteoreettinen-argumentti-naturalismia-vastaan.md)
+* [Tapio Puolimatka](tapio-puolimatka.md)
 
 ### Internet
-*[Alvin Plantingan kotisivut](https://philosophy.nd.edu/people/emeritus/alvin-plantinga/) Notre Damen yliopistolla
-*[Plantingan Curriculum Vitae](http://www.veritas-ucsb.org/library/plantinga/cv.html)
+* [Alvin Plantingan kotisivut](https://philosophy.nd.edu/people/emeritus/alvin-plantinga/) Notre Damen yliopistolla
+* [Plantingan Curriculum Vitae](http://www.veritas-ucsb.org/library/plantinga/cv.html)
 <!-- *[Virtual Library of Christian Philosophy](http://www.calvin.edu/academic/philosophy/virtual_library/plantinga_alvin.htm) kokoelma Plantingan kirjoituksia -->
-*[Haastatteluja](https://www.closertotruth.com/contributor/alvin-plantinga/profile) PBS:n ohjelmassa "Closer to Truth"
-*["The Dawkins Confusion"](https://www.booksandculture.com/articles/2007/marapr/1.21.html), Plantingan arvio [Richard Dawkinsin](richard-dawkins.md) *[Jumalharha](jumalharha-kirja.md)*-kirjasta *Books and Culture* lehdessä
+* [Haastatteluja](https://www.closertotruth.com/contributor/alvin-plantinga/profile) PBS:n ohjelmassa "Closer to Truth"
+* ["The Dawkins Confusion"](https://www.booksandculture.com/articles/2007/marapr/1.21.html), Plantingan arvio [Richard Dawkinsin](richard-dawkins.md) *[Jumalharha](jumalharha-kirja.md)*-kirjasta *Books and Culture* lehdessä
 <!-- *[Alvin Plantinga: The Analytic Theist](http://www.homestead.com/philofreligion/Plantingapage.html) lisää kirjoituksia Plantingalta -->
 <!-- *[Alvin Plantingan hengellinen omaelämäkerta](http://www.calvin.edu/125th/wolterst/p_bio.pdf) -->
-*[Warrant: The Current Debate](https://www.giffordlectures.org/lectures/warrant-current-debate), Plantingan *Warrant*-sarjan ensimmäinen osa
-*[Warrant and Proper Function](https://www.giffordlectures.org/lectures/warrant-and-proper-function), Plantingan *Warrant*-sarjan toinen osa
-*[Warranted Christian Belief](http://www.ccel.org/ccel/plantinga/warrant3.i.html), Plantingan *Warrant*-sarjan kolmas osa
+* [Warrant: The Current Debate](https://www.giffordlectures.org/lectures/warrant-current-debate), Plantingan *Warrant*-sarjan ensimmäinen osa
+* [Warrant and Proper Function](https://www.giffordlectures.org/lectures/warrant-and-proper-function), Plantingan *Warrant*-sarjan toinen osa
+* [Warranted Christian Belief](http://www.ccel.org/ccel/plantinga/warrant3.i.html), Plantingan *Warrant*-sarjan kolmas osa
 
 ### Debatteja
 
-*Daniel Dennett ja Alvin Plantinga: *[Religion and Science: Where the conflict really lies](https://youtu.be/f06J2R4MwGA)* (Youtube, viitattu 20.6.2020)
+* Daniel Dennett ja Alvin Plantinga: *[Religion and Science: Where the conflict really lies](https://youtu.be/f06J2R4MwGA)* (Youtube, viitattu 20.6.2020)
 
 ### Plantingan kirjoja
 

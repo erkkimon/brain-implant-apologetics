@@ -4,7 +4,7 @@ about: apologetics
 title: "Seksuaalivallankumouksen uskonnolliset juuret (kirja)"
 description: "Seksuaalivallankumouksen uskonnolliset juuret on Tapio Puolimatkan kirjoittama kirja, joka analysoi seksuaalisen vapauden ideologian maailmankatsomuksellisia ja uskonnollisia taustaoletuksia."
 tags: [apowiki, kirjat, seksuaalietiikka, ihmisoikeudet]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Seksuaalivallankumouksen uskonnolliset juuret (kirja)".
@@ -63,102 +63,102 @@ Torjunta ilmenee yhteiskunnassa useilla eri tasoilla. Joukkotiedotuksen ja jopa 
 ### Esipuhe
 
 ### Johdanto
-*Seksuaalisen vapauden aate
-*Seksuaalisen vapauden illuusio
-*Länsimainen vapauden käsite
-*Kirjan tarkoitus
-*Haaste ajallemme
-*Seksuaalisen vapauden aate ja tosiasiat
+* Seksuaalisen vapauden aate
+* Seksuaalisen vapauden illuusio
+* Länsimainen vapauden käsite
+* Kirjan tarkoitus
+* Haaste ajallemme
+* Seksuaalisen vapauden aate ja tosiasiat
 
 ### 1.	Myytti seksuaalisesta vapaudesta
-*Paratiisin käärme
-*Rooman rappiovaiheen toisto
-*Kooste
+* Paratiisin käärme
+* Rooman rappiovaiheen toisto
+* Kooste
 
 ### 2.	Seksuaalivallankumouksen uskonnollisuus
-*Kaksi käsitystä seksuaalisuudesta
-*Seksuaalisen vapauden uskonto
-*Vihreän ideologian paradoksi
-*Maallistunut uskonto
-*Seksuaalisuus ja pyhyyden kokemukset
-*Jumalvaisto
-*Nautinnon mahdollisuuksien menettäminen
-*Torjunta ja luontainen tieto Jumalasta
-*Seksuaalisen vapauden aate vs. kristillinen uskonvanhurskausoppi
-*Kooste
+* Kaksi käsitystä seksuaalisuudesta
+* Seksuaalisen vapauden uskonto
+* Vihreän ideologian paradoksi
+* Maallistunut uskonto
+* Seksuaalisuus ja pyhyyden kokemukset
+* Jumalvaisto
+* Nautinnon mahdollisuuksien menettäminen
+* Torjunta ja luontainen tieto Jumalasta
+* Seksuaalisen vapauden aate vs. kristillinen uskonvanhurskausoppi
+* Kooste
 
 ### 3.	Seksuaalivallankumouksen juuret Babyloniassa
-*Ištarin palvontakultti
-*Raamatun kuvaus epäjumalanpalveluksesta
-*Kulttiprostituoitujen keskeinen merkitys
-*Pakanuuden androgyyninen ihanne
-*Piilotajuntaan torjuttu syyllisyys ja myyttiset mielikuvat
-*Ilmestyskirjan kuvaus Babylonian uskonnosta
-*Kanaanilaisten lapsiuhrit
-*Raamattu tuomitsee lapsiuhrit
-*Aikamme lapsiuhrit
-*Syntymättömän lapsen ihmisyys
+* Ištarin palvontakultti
+* Raamatun kuvaus epäjumalanpalveluksesta
+* Kulttiprostituoitujen keskeinen merkitys
+* Pakanuuden androgyyninen ihanne
+* Piilotajuntaan torjuttu syyllisyys ja myyttiset mielikuvat
+* Ilmestyskirjan kuvaus Babylonian uskonnosta
+* Kanaanilaisten lapsiuhrit
+* Raamattu tuomitsee lapsiuhrit
+* Aikamme lapsiuhrit
+* Syntymättömän lapsen ihmisyys
 
 ### 4.	Seksuaalisen vapauden gnostilaiset juuret
-*Gnostilaisuuden monistinen panteismi
-*Eliitin pelastava tieto
-*Elosteleva gnostilaisuus
-*Grigori Rasputin ja hlystien gnostilainen oppi
-*Gnostilaisuuden laajempi merkitys
+* Gnostilaisuuden monistinen panteismi
+* Eliitin pelastava tieto
+* Elosteleva gnostilaisuus
+* Grigori Rasputin ja hlystien gnostilainen oppi
+* Gnostilaisuuden laajempi merkitys
 
 ### 5.	Elosteleva gnostilaisuus islamismissa
-*Hyvän ja pahan rajaviivan häivyttäminen
-*Islamin elosteleva eliitti
+* Hyvän ja pahan rajaviivan häivyttäminen
+* Islamin elosteleva eliitti
 
 ### 6.	Elosteleva gnostilaisuus natsismissa
-*Ariosofia
-*Guido von Listin teosofia
-*Lanz von Lebensfelsin ariosofia
-*Natsien Lebensborn-ohjelma
-*Himmlerin uskonnollinen visio
-*Natsien ihmiskokeet ja empiirinen seksologia
-*Kooste
+* Ariosofia
+* Guido von Listin teosofia
+* Lanz von Lebensfelsin ariosofia
+* Natsien Lebensborn-ohjelma
+* Himmlerin uskonnollinen visio
+* Natsien ihmiskokeet ja empiirinen seksologia
+* Kooste
 
 ### 7.	Länsimaisen seksuaalivallankumouksen uskonnolliset juuret
-*Aikamme ihmisen kaksijakoinen maailma
-*Tieteisuskoinen materialismi vs. postmodernismi
-*Portnoyn tauti
-*Postmoderni uskonnollisuus
-*Sääntöjä vailla olevat pelit ja tulkintojen suljettu kehä
-*Eksistentialismin ja gnostilaisuuden yhteys
-*Seksuaalisen anarkian uskonto
-*Sukupuolisen hajanaisuuden ihannointi
-*Uusgnostilainen sukupuolieron hylkääminen
-*Luonnollinen vanhemmuus ja uusgnostilaisuus
-*Uusgnostilaisuus poistaa luonnollisen perheen oikeusturvan
+* Aikamme ihmisen kaksijakoinen maailma
+* Tieteisuskoinen materialismi vs. postmodernismi
+* Portnoyn tauti
+* Postmoderni uskonnollisuus
+* Sääntöjä vailla olevat pelit ja tulkintojen suljettu kehä
+* Eksistentialismin ja gnostilaisuuden yhteys
+* Seksuaalisen anarkian uskonto
+* Sukupuolisen hajanaisuuden ihannointi
+* Uusgnostilainen sukupuolieron hylkääminen
+* Luonnollinen vanhemmuus ja uusgnostilaisuus
+* Uusgnostilaisuus poistaa luonnollisen perheen oikeusturvan
 
 ### 8.	Postmoderni totalitarismi
-*Erilaisuuden arvostuksesta syrjintään
-*Postmoderni syrjinnän kulttuuri
-*Kaapin tietoteoria
-*Seksuaalinen vapaus johtaa totalitaariseen Sodomaan
-*Seksuaalisesta vapaudesta sadismiin
-*Pervokulttuurin uusi tuleminen
-*Suvereeni ihminen
-*Perverssiyden paholainen
-*Uskonnon pervouttaminen
+* Erilaisuuden arvostuksesta syrjintään
+* Postmoderni syrjinnän kulttuuri
+* Kaapin tietoteoria
+* Seksuaalinen vapaus johtaa totalitaariseen Sodomaan
+* Seksuaalisesta vapaudesta sadismiin
+* Pervokulttuurin uusi tuleminen
+* Suvereeni ihminen
+* Perverssiyden paholainen
+* Uskonnon pervouttaminen
 
 ### 9.	Gnostilaisuus valtaa kristikuntaa
-*Aikamme teologian uusgnostilaisuus
-*Vikströmin uusgnostilainen seksuaalietiikka
-*Uusgnostilainen sukupuolieron vähättely
-*Vertailukohtana Roger Scrutonin arvotietoinen seksuaaliteoria
-*Seksuaalisen perversion ongelma
-*Lasten identiteettioikeuksien sivuuttaminen
-*Vapauttaako normittomuus syyllisyydestä?
+* Aikamme teologian uusgnostilaisuus
+* Vikströmin uusgnostilainen seksuaalietiikka
+* Uusgnostilainen sukupuolieron vähättely
+* Vertailukohtana Roger Scrutonin arvotietoinen seksuaaliteoria
+* Seksuaalisen perversion ongelma
+* Lasten identiteettioikeuksien sivuuttaminen
+* Vapauttaako normittomuus syyllisyydestä?
 
 ### 10.	Syyllisyydestä anteeksiantamuksen iloon
-*Omantunnon ääni
-*Omantunnon vaatimus
-*Viimeisen tuomion näkökulma
-*Moraalisen puhtauden kaipuu
-*Kristuksen anteeksiantamuksen voima
-*Uskonto vs. Kristus
+* Omantunnon ääni
+* Omantunnon vaatimus
+* Viimeisen tuomion näkökulma
+* Moraalisen puhtauden kaipuu
+* Kristuksen anteeksiantamuksen voima
+* Uskonto vs. Kristus
 
 Lyhenteet
 

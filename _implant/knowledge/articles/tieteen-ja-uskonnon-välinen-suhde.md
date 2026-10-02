@@ -4,7 +4,7 @@ about: apologetics
 title: "Tieteen ja uskonnon välinen suhde"
 description: "Ian Barbour esittää neljä yleistä mallia tieteen ja uskonnon suhteelle: 1."
 tags: [apowiki, tieteenfilosofia, maailmankatsomus]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tieteen ja uskonnon välinen suhde".
@@ -52,4 +52,4 @@ Plantinga on todennut, että tiede ja uskonto ovat joskus konfliktissa ja joskus
 * [Galileo Galilei](galileo-galilei.md)
 
 #### Kirjallisuutta
-*The Open Secret: A New Vision for Natural Theology, Alister E. McGrath, 2008.
+* The Open Secret: A New Vision for Natural Theology, Alister E. McGrath, 2008.

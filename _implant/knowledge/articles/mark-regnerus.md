@@ -4,7 +4,7 @@ about: apologetics
 title: "Mark Regnerus"
 description: "Mark Regnerus (s. 1971) on Texasin yliopiston (Austin) sosiologian professori."
 tags: [apowiki, henkilöt, seksuaalietiikka]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Mark Regnerus".
@@ -96,9 +96,9 @@ Pennsylvanian valtionyliopiston sosiologian professori **Paul Amato**, joka itse
 
 ### Kirjallisuus
 
-*Puolimatka, Tapio, *[Lapsen ihmisoikeus: oikeus isään ja äitiin](lapsen-ihmisoikeus-oikeus-isään-ja-äitiin-kirja-v2.md)*, Suunta-kirjat, 2014
-*Regnerus, Mark, *How different are adult children of parents who have same-sex relationships? Findings from the New Family Structure Study*, Social Science Research, 41, 752−770
-*Regnerus, Mark, *Parental same-sex relationships, family instability, and subsequent life outcomes for adult children: Answering critics of the new family structures study with additional analyses*, Social Science Research, 41 (6), 1367−1377
+* Puolimatka, Tapio, *[Lapsen ihmisoikeus: oikeus isään ja äitiin](lapsen-ihmisoikeus-oikeus-isään-ja-äitiin-kirja-v2.md)*, Suunta-kirjat, 2014
+* Regnerus, Mark, *How different are adult children of parents who have same-sex relationships? Findings from the New Family Structure Study*, Social Science Research, 41, 752−770
+* Regnerus, Mark, *Parental same-sex relationships, family instability, and subsequent life outcomes for adult children: Answering critics of the new family structures study with additional analyses*, Social Science Research, 41 (6), 1367−1377
 
 ### Viitteet
 

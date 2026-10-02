@@ -4,7 +4,7 @@ about: apologetics
 title: "A Secular Age (kirja)"
 description: "Charles Taylorin kirja A Secular Age analysoi aikamme vallitsevia myyttejä sekularisaatiosta."
 tags: [apowiki, kirjat, filosofia]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "A Secular Age (kirja)".
@@ -73,7 +73,7 @@ Mitä sitten on tällainen kokemus elämän täyteydestä, jonka välityksellä 
 Tutkija ei toimi irrallaan siitä, kuka hän on ihmisenä. Tutkija on aina jollakin tavalla sijoittunut historiallisesti ja kokemuksellisesti. Hän on ihminen, jolla on tietty elämänorientaatio, näkökulma asioihin ja tietyt perususkomukset. Elämänorientaatiolla tarkoitetaan tässä yhteydessä niiden arvojen, eettisten mielikuvien ja perususkomusten kokonaisuutta, jotka suuntaavat ihmisen välitöntä arkikokemusta ja määrittelevät sen kiinnostuksen kohteet. Kokemus elämän täyteydestä ja kokonaistarkoituksesta luo pohjan elämänorientaatiolle, koska ihminen luonnostaan suuntautuu sitä kohti, missä hän ajattelee ja kokee löytävänsä elämän koko rikkaudessaan ja merkityksellisyydessään. Koska tällainen suuntautuminen ohjaa kaikkea ihmisen toimintaa, se määrää myös hänen tieteellisen ajattelunsa perimmäisen lähtökohdan ja näkökulman, koska kokemus elämän täyteydestä tarjoaa samalla kosketuspinnan Jumalan todellisuuteen. Näin ollen jokaisella ihmisellä on myös jokin suhde Jumalaan ja tämä suhde määrää olennaisella tavalla hänen tapaansa jäsentää todellisuutta. Siksi olisi rehellistä tuoda julki oma uskonnollinen lähtökohta ja sen vaikutus omiin tutkimustuloksiin.
 
 ### Lähteet
-*[Charles Taylor](charles-taylor.md), *A Secular Age*, Harvard University Press, 2007
+* [Charles Taylor](charles-taylor.md), *A Secular Age*, Harvard University Press, 2007
 
 ### Viitteet
 

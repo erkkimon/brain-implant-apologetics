@@ -4,7 +4,7 @@ about: apologetics
 title: "Alkuräjähdys"
 description: "Alkuräjähdys oli tapahtuma, josta alkuräjähdysteorian mukaan nykyinen maailmankaikkeus sai alkunsa."
 tags: [apowiki, kosmologia, alkuperähypoteesit]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Alkuräjähdys".
@@ -52,9 +52,9 @@ Koska ajan alku on osatodiste teismille ja jännitteessä ateismin kanssa, '[vap
 > — Mitä oli ennen alkuräjähdystä?[^7]
 
 Pre-big-bang malli on mielenkiintoinen mutta melko epärealistisia ja erittäin spekulatiivisia. Pre-big bang mallin ongelmiin kuuluu mm.[^8]:
-*Miten pre-ajasta päästää post-aikaan.
-*Lisädimension stabilointi on ongelmallista
-*Malli ei sovi CMB ja COBE mittauksiin ilman huomattavaa teoreettista lisäsäätöä.
+* Miten pre-ajasta päästää post-aikaan.
+* Lisädimension stabilointi on ongelmallista
+* Malli ei sovi CMB ja COBE mittauksiin ilman huomattavaa teoreettista lisäsäätöä.
 
 #### Ekpyroottinen malli
 Tässä mallissa kaksi braania törmää ja siitä syntyy alkuräjähdys. Malli on spekulatiivinen ja hieman ongelmissa havaintojen kanssa [^9].

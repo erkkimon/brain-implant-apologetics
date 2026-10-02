@@ -4,7 +4,7 @@ about: apologetics
 title: "Avioliitto"
 description: "Avioliitto on yleismaailmallinen instituutio, joka on jo vuosituhansien ajan muodostanut osan kaikkia inhimillisiä kulttuureja."
 tags: [apowiki, seksuaalietiikka, lukusuositukset]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Avioliitto".
@@ -74,15 +74,15 @@ Valaehtoisen sitoutumisen näkökulma edellyttää puolison ja lasten kohtelemis
 
 1. Avioliitto on läheisin ja intiimein ihmisten välinen liitto, jonka ytimenä on keskinäinen rakkaus: puolisot antautuvat toisilleen ehdoitta niin, että puolison koko persoonallisuus on rakkauden kohteena. Puolisoiden tulisi kohdella toisiaan itseisarvoisina persoonina. Tästä moraalisesta peruslähtökohdasta seuraa useita yksityiskohtaisempia perhenormeja:
 
-***Kokonaisvaltaisuuden normi**: Avioliitto on kokonaisvaltainen suhde: vain silloin kun kaksi ihmistä antautuu toisilleen kokonaan niin, että puolisot jakavat ”ihmisyytensä, ruumiinsa ja sielunsa niin myötä kuin vastoin käymisissä ja kaikessa mielessä”, heidän seksuaalisuutensa voi johtaa ”ihmisolentojen liittoon”[^5]. Irralliset seksuaalisuhteet loukkaavat ihmisyyttä, koska niissä toista käytetään seksuaalisten tarpeiden tyydyttämisen välineenä.
+* **Kokonaisvaltaisuuden normi**: Avioliitto on kokonaisvaltainen suhde: vain silloin kun kaksi ihmistä antautuu toisilleen kokonaan niin, että puolisot jakavat ”ihmisyytensä, ruumiinsa ja sielunsa niin myötä kuin vastoin käymisissä ja kaikessa mielessä”, heidän seksuaalisuutensa voi johtaa ”ihmisolentojen liittoon”[^5]. Irralliset seksuaalisuhteet loukkaavat ihmisyyttä, koska niissä toista käytetään seksuaalisten tarpeiden tyydyttämisen välineenä.
 
-***Pysyvyyden normi**: Aviopuolison kohteleminen itseisarvoisena olentona edellyttää sitoutumista elinikäiseen suhteeseen. Muussa tapauksessa ihminen altistuu hylkäämiselle kaikkein kokonaisvaltaisimmassa ja ihmisyyttään syvimmin koskettavassa rakkaussuhteessaan.
+* **Pysyvyyden normi**: Aviopuolison kohteleminen itseisarvoisena olentona edellyttää sitoutumista elinikäiseen suhteeseen. Muussa tapauksessa ihminen altistuu hylkäämiselle kaikkein kokonaisvaltaisimmassa ja ihmisyyttään syvimmin koskettavassa rakkaussuhteessaan.
 
-***Puolisouskollisuuden normi**: Puolison kohteleminen itseisarvoisena olentona merkitsee pidättymistä avioliiton ulkopuolisista seksuaalisuhteista. Tällä on myös yhteiskunnallista merkitystä, koska muussa tapauksessa lapsia syntyy tilanteeseen, jossa he eivät kasva biologisen isänsä ja äitinsä kanssa.
+* **Puolisouskollisuuden normi**: Puolison kohteleminen itseisarvoisena olentona merkitsee pidättymistä avioliiton ulkopuolisista seksuaalisuhteista. Tällä on myös yhteiskunnallista merkitystä, koska muussa tapauksessa lapsia syntyy tilanteeseen, jossa he eivät kasva biologisen isänsä ja äitinsä kanssa.
 
-***Sukupuolten toisiaan täydentävyyden normi**: Avioliiton perustana on sukupuolieron ja sen tarjoaman erilaisuuden tunnustaminen. Avioliiton ei ole tarkoitus samanlaistaa puolisoita vaan auttaa heitä löytämään oma ainutlaatuisuutensa.
+* **Sukupuolten toisiaan täydentävyyden normi**: Avioliiton perustana on sukupuolieron ja sen tarjoaman erilaisuuden tunnustaminen. Avioliiton ei ole tarkoitus samanlaistaa puolisoita vaan auttaa heitä löytämään oma ainutlaatuisuutensa.
 
-***Vastuullisen lisääntymisen eli seksuaalisuuden kanavoimisen normi**: Miesten ja naisten tulisi lykätä jälkeläisten hankkimista siihen asti, että he ovat sitoutuneet elinikäiseen parisuhteeseen.
+* **Vastuullisen lisääntymisen eli seksuaalisuuden kanavoimisen normi**: Miesten ja naisten tulisi lykätä jälkeläisten hankkimista siihen asti, että he ovat sitoutuneet elinikäiseen parisuhteeseen.
 
 2. Vanhempien tulisi kohdella lapsiaan itseisarvoisina olentoina, ei välineinä omien tarpeidensa tyydyttämiseksi. Lapsikeskeisyyden laajan kategorian sisällä avioliitto sisältää useita täsmällisempiä normeja.
 
@@ -145,13 +145,13 @@ Koska oikea käsitys avioliitosta on edellytys ihmisten hyvinvoinnille, valtioll
 ### Katso myös
 #### Kirjallisuus
 
-*George, Robert P., *In Defence of Natural Law*, Oxford: Oxford University Press, 1999
-*Girgis, Sherif & George, Robert P. & Anderson, Ryan T., *What is Marriage? Man and Woman: A Defence*, New York: Encounter Books, 2012
-*Hildebrand, Dietrich von, *Marriage: The Mystery of Faithful Love*, Sophia Institute Press, 1997
-*Lee, Patrick & George, Robert P., *Conjugal Union: What Marriage is and Why It Matters*, Cambridge: Cambridge University Press, 2014
-*Puolimatka, Tapio, *Lapsen ihmisoikeus: oikeus isään ja äitiin*, Suunta-kirjat, 2014
-*Puolimatka, Tapio, *Seksuaalivallankumous - perheen ja kulttuurin romahdus*, Kauniainen: Perussanoma, 2017
-*Zimmerman, Carle C., *Family and Civilization*, Harper & Brothers, 1947
+* George, Robert P., *In Defence of Natural Law*, Oxford: Oxford University Press, 1999
+* Girgis, Sherif & George, Robert P. & Anderson, Ryan T., *What is Marriage? Man and Woman: A Defence*, New York: Encounter Books, 2012
+* Hildebrand, Dietrich von, *Marriage: The Mystery of Faithful Love*, Sophia Institute Press, 1997
+* Lee, Patrick & George, Robert P., *Conjugal Union: What Marriage is and Why It Matters*, Cambridge: Cambridge University Press, 2014
+* Puolimatka, Tapio, *Lapsen ihmisoikeus: oikeus isään ja äitiin*, Suunta-kirjat, 2014
+* Puolimatka, Tapio, *Seksuaalivallankumous - perheen ja kulttuurin romahdus*, Kauniainen: Perussanoma, 2017
+* Zimmerman, Carle C., *Family and Civilization*, Harper & Brothers, 1947
 
 #### ApologetiikkaWiki
 * [Avioero](avioero.md)

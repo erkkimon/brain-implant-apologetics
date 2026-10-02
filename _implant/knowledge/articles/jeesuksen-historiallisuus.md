@@ -4,7 +4,7 @@ about: apologetics
 title: "Jeesuksen historiallisuus"
 description: "Jeesus Nasaretilaisen olemassaolon kieltäminen on yleinen ja muodikas tapa leimata kristinusko naurettavaksi."
 tags: [apowiki, jeesus, historia]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jeesuksen historiallisuus".
@@ -217,9 +217,9 @@ Kenties tuotteliain Jeesuksen historiallisuuden kieltävä raamatuntutkija on [G
 
 ### Katso myös
 #### ApologetiikkaWiki
-*[Jeesus-myyttihypoteesi](jeesus-myyttihypoteesit.md)
-*[Jeesus-seminaari](jeesus-seminaari.md)
-*[Raamatun ulkopuoliset viittaukset Jeesukseen](raamatun-ulkopuoliset-viittaukset-jeesukseen.md)
+* [Jeesus-myyttihypoteesi](jeesus-myyttihypoteesit.md)
+* [Jeesus-seminaari](jeesus-seminaari.md)
+* [Raamatun ulkopuoliset viittaukset Jeesukseen](raamatun-ulkopuoliset-viittaukset-jeesukseen.md)
 
 #### Internet
 * [Vapaa ajattelija: Jeesus on satuolento](http://www.vapaa-ajattelijat.fi/lehti/2003_0203/jeesus_on_satuolento.html)

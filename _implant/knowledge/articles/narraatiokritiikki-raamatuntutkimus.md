@@ -4,7 +4,7 @@ about: apologetics
 title: "Narraatiokritiikki (raamatuntutkimus)"
 description: "Narraatiokriittistä tutkimusta perustellaan historiallis-kriittisen tutkimuksen kyvyttömyydellä tuottaa yleispäteviä tuloksia tai tehdä oikeutta Raamatun tekstille."
 tags: [apowiki, raamattu, historia]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Narraatiokritiikki (raamatuntutkimus)".
@@ -42,9 +42,9 @@ Historiallis-kriittisen lähestymistavan edustajat tavallisesti puolustavat läh
 
 Narraatiokritiikki pyrkii vastaamaan kysymyksiin:
 
-*Mikä on kertomuksen juoni?
-*Kuinka luonnekuvauksia rakennetaan?
-*Minkälainen vaikutus kertomuksella on lukijoihinsa ja miksi sillä on tämä vaikutus?
+* Mikä on kertomuksen juoni?
+* Kuinka luonnekuvauksia rakennetaan?
+* Minkälainen vaikutus kertomuksella on lukijoihinsa ja miksi sillä on tämä vaikutus?
 
 Niinpä narraatiokritiikki voi auttaa paljastamaan Raamatun keskeisiä teemoja. Esimerkiksi **David Clines**[^9] käytti narraatiokritiikkiä identifioidakseen viiden Mooseksen kirjan yhtenäisyyden perustana olevat teemat. Tällä tavalla pystytään tekemään paremmin oikeutta Raamatun kirjojen yhtenäisyydelle. Tutkimuksessa pyritään selvittämään, millainen kertomus teoksessa kerrotaan, miten sen juoni on rakentunut, millaisiin periaatteisiin henkilökuvaus nojaa, kenen näkökulmasta asiat esitetään jne.
 

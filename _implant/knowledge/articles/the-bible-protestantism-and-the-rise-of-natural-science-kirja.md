@@ -4,7 +4,7 @@ about: apologetics
 title: "The Bible, Protestantism, and the Rise of Natural Science (kirja)"
 description: "Oxfordin yliopiston tieteen ja uskonnon Andreas Idreos -professori Peter Harrison argumentoi kirjassaan, että yksi modernin luonnontieteen syntyyn vaikuttaneista tekijöistä oli sanakeskeisen kulttuurin kehitys."
 tags: [apowiki, kirjat, historia]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "The Bible, Protestantism, and the Rise of Natural Science (kirja)".
@@ -33,8 +33,8 @@ Luonnon tulkintaperiaatteet olivat läheisessä yhteydessä Raamatun tulkinnan p
 Luonnon kirjan ja Raamatun kirjan tulkinta olivat osa yhtenäistä tulkintaopillista lähestymistapaa. Niinpä allegorisen lukutavan kieltäminen johti kauaskantoisiin seurauksiin myös suhteessa luonnon uskonnolliseen ja symboliseen tulkintaan. 1500-luvun protestanttinen uskonpuhdistus johti allegorisen tulkinnan kieltämiseen. Näin tehdessään se tuotti myös uuden asenteen luontoon.
 
 ### Lähteet
-*Harrison, Peter, *The Bible, Protestantism, and the Rise of Natural Science*, Cambridge: Cambridge University Press, 2001
-*Origen, *The Song of Songs, Commenatry on Homilies*, Käänt. R. P. Lawson, London: Lognmans, Green and Co. Ancient Christian Writers xxvi, 1957
+* Harrison, Peter, *The Bible, Protestantism, and the Rise of Natural Science*, Cambridge: Cambridge University Press, 2001
+* Origen, *The Song of Songs, Commenatry on Homilies*, Käänt. R. P. Lawson, London: Lognmans, Green and Co. Ancient Christian Writers xxvi, 1957
 
 ### Viitteet
 

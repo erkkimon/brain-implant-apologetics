@@ -4,7 +4,7 @@ about: apologetics
 title: "Darrell Bock"
 description: "Darrell L. Bock on Uuden testamentin eksegetiikan tutkijaprofessori Dallas Theological Seminary nimisessä korkeakoulussa Dallasissa, Texasissa."
 tags: [apowiki, henkilöt, eksegetiikka, tyngät]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Darrell Bock".
@@ -51,5 +51,5 @@ Bock tunnetaan tutkimustyöstään, joka kohdistuu Dan Brownin kirjaan *Da Vinci
 ### Aiheesta muualla:
 
 * [Bockin blogi](http://blogs.bible.org/bock)
-*[*Blasphemy and Exaltation in Judaism and the Final Examination of Jesus: A Philological-Historical Study of the Key Jewish Themes Impacting Mark 14:61-64.*](https://www.ibr-bbr.org/files/bbr/bbr17a03.pdf)
-*[Interview with Darrell Bock on The historical ‘problems’ of the NT](https://publicchristianity.org/library/the-historical-problems-of-the-nt) from the Centre for Public Christianity
+* [*Blasphemy and Exaltation in Judaism and the Final Examination of Jesus: A Philological-Historical Study of the Key Jewish Themes Impacting Mark 14:61-64.*](https://www.ibr-bbr.org/files/bbr/bbr17a03.pdf)
+* [Interview with Darrell Bock on The historical ‘problems’ of the NT](https://publicchristianity.org/library/the-historical-problems-of-the-nt) from the Centre for Public Christianity

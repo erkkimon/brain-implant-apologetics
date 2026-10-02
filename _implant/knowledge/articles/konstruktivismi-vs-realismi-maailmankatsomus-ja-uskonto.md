@@ -4,7 +4,7 @@ about: apologetics
 title: "Konstruktivismi vs. Realismi: Maailmankatsomus ja uskonto"
 description: "Kaikki inhimillinen tieto perustuu itseymmärrykseen, joka ilmenee esimerkiksi yksilön tavassa kertoa elämänsä kertomus."
 tags: [apowiki, filosofia]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Konstruktivismi vs. Realismi: Maailmankatsomus ja uskonto".
@@ -108,16 +108,16 @@ Konstruktivistisen uskonnonkäsityksen yksi vastakohta on teologinen realismi, j
 Realistisen näkemyksen mukaan on järjenvastaista ajatella Jumalan olemassaolon riippuvan ihmisen käsityksistä tai uskomuksista. Ihminen on rajallisuutensa takia täysin riippuvainen Jumalasta, mutta olisi outoa ajatella, että ikuinen, ääretön ja kaikkivaltias Jumala olisi jollakin tavalla riippuvainen aikaan ja paikkaan sidotusta ihmisestä, jonka elämä kestää vain lyhyen hetken. Jumalan olemassaolo ei riipu ihmisen käsityksistä, toiveista, uskomuksista, kielipeleistä eikä inhimillisen kielen rajoituksista. Jumala on olemassa riippumatta siitä, uskooko kukaan häneen. Hänen olemuksensa ei riipu ihmisen toiveista tai haluista. Ihminen ja koko luotu todellisuus sen sijaan voi olla olemassa vain niin kauan kuin Jumala pitää sitä yllä. "Jos Jumala vetäisi pois ylläpitävän voimansa, luotu todellisuus katoaisi kuin tietokoneen kuva, kun sähköjohto irrotetaan seinästä."[^16]
 
 Teologista realismia edustavat sellaiset klassiset ajattelijat kuin
-*Aurelios Augustinus (354-430)
-*Tuomas Akvinolainen (1225-1274)
-*Blaise Pascal (1623-1662)
-*John Locke (1632-1704)
-*George Berkeley (1685-1753)
-*Thomas Reid (1710-1796)
-*Gottfried Wilhelm Leibniz (1646-1716)
-*Soren Kierkegaard (1813-1855)
-*Max Scheler (1874-1928) ja
-*Lev Shestov (1866-1938).
+* Aurelios Augustinus (354-430)
+* Tuomas Akvinolainen (1225-1274)
+* Blaise Pascal (1623-1662)
+* John Locke (1632-1704)
+* George Berkeley (1685-1753)
+* Thomas Reid (1710-1796)
+* Gottfried Wilhelm Leibniz (1646-1716)
+* Soren Kierkegaard (1813-1855)
+* Max Scheler (1874-1928) ja
+* Lev Shestov (1866-1938).
 
 Tunnetuista kasvatusajattelijoista teologinen realisti oli esimerkiksi **Johan Amos Comenius** (1592-1670). Nykyisessä kasvatuskeskustelussa sitä puolustavat mm. Jeff Astley, David Carr, John Haldane, John Kleinig, Terry McLaughlin ja Elmer Thiessen. Nykyisessä filosofisessa keskustelussa sitä edustavat mm. William P. Alston, Alasdair MacIntyre, Alvin Plantinga, Nicholas Rescher, Eleanor Stump, Charles Taylor, Peter van Inwagen, Nicholas Wolterstorff ja Linda Zagzebski. Teologinen realismi saa erilaisia muotoja eri ajattelijoilla. Seuraavassa pyritään esittämään yksi mahdollinen tapa käsitteellistää teologista realismia.
 

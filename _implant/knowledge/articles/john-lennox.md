@@ -4,7 +4,7 @@ about: apologetics
 title: "John Lennox"
 description: "John Carson Lennox on matematiikan emeritus professori Oxfordin yliopistossa ja matematiikan ja tieteenfilosofian luennoitsija Green Templeton Collegessa Oxfordissa."
 tags: [apowiki, henkilöt, filosofia]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "John Lennox".
@@ -38,13 +38,13 @@ Hän on puhunut useissa maissa mukaan luettuna useat matkat entiseen Neuvostolii
 
 Lennox on kristitty akateemikko, joka on ottanut osaa lukuisiin julkisiin väittelyihin ateistien kanssa mukaan luettuna [Richard Dawkins](richard-dawkins.md), Christopher Hitchens ja Michael Shermer.
 
-*Lokakuun 3, 2007 Lennox väitteli [Richard Dawkinsin](richard-dawkins.md) kanssa Alabaman yliopistossa Birminghamissa. Väittelyn aiheena olivat Dawkinsin näkemykset kirjassa [Jumalharha](jumalharha-kirja.md).[^5][^6][^7] Väittelyä koskeva video nimellä "The God Delusion Debate," on netissä [tässä.](https://youtu.be/zF5bPI92-5o)
-*Professorit Lennox ja Dawkins keskustelivat uudestaan huhtikuussa 2008 Trinity Collegessa Oxfordissa käsitelläkseen aiheita, jotka jäivät käsittelemättä edellisessä väittelyssä.[^8][^9]
-*Elokuun 9, 2008, Lennox väitteli Christopher Hitchensin kanssa Edinburghin kansainvälisillä juhlilla. Aiheena oli kysymys, voisiko Eurooppa hylätä kristillisen menneisyytensä ja toivottaa uuden ateismin tervetulleeksi."[^10][^11]
-*Elokuun 23, 2008, Lennox väitteli Michael Shermerin kanssa Wesley Conference Centressä Sydneyssä, Australiassa. Aiheena oli Jumalan olemassaolo.[^12]<!--[^13]-->
-*Lokakuun 21, 2008, Lennox väitteli [Richard Dawkinsin](richard-dawkins.md) kanssa toisen kerran Oxfordin yliopiston luonnontieteellisessä museossa. Samassa paikassa, jossa vuonna 1860 pidettiin kuuluisa evoluutioväittely Thomas Henry Huxleyn ja Samuel Wilberforcen välillä. Väittelyn aiheena oli "Onko tiede haudannut Jumalan?"[^14][^15][^16] The Spectator-lehti kutsui tapahtumaa "Huxley-Wilberforce, toinen erä."[^17] 11 minuutin video kyseistä väittelystä löytyy [tästä.](http://www.youtube.com/watch?v=DxD-HPMpTto)
+* Lokakuun 3, 2007 Lennox väitteli [Richard Dawkinsin](richard-dawkins.md) kanssa Alabaman yliopistossa Birminghamissa. Väittelyn aiheena olivat Dawkinsin näkemykset kirjassa [Jumalharha](jumalharha-kirja.md).[^5][^6][^7] Väittelyä koskeva video nimellä "The God Delusion Debate," on netissä [tässä.](https://youtu.be/zF5bPI92-5o)
+* Professorit Lennox ja Dawkins keskustelivat uudestaan huhtikuussa 2008 Trinity Collegessa Oxfordissa käsitelläkseen aiheita, jotka jäivät käsittelemättä edellisessä väittelyssä.[^8][^9]
+* Elokuun 9, 2008, Lennox väitteli Christopher Hitchensin kanssa Edinburghin kansainvälisillä juhlilla. Aiheena oli kysymys, voisiko Eurooppa hylätä kristillisen menneisyytensä ja toivottaa uuden ateismin tervetulleeksi."[^10][^11]
+* Elokuun 23, 2008, Lennox väitteli Michael Shermerin kanssa Wesley Conference Centressä Sydneyssä, Australiassa. Aiheena oli Jumalan olemassaolo.[^12]<!--[^13]-->
+* Lokakuun 21, 2008, Lennox väitteli [Richard Dawkinsin](richard-dawkins.md) kanssa toisen kerran Oxfordin yliopiston luonnontieteellisessä museossa. Samassa paikassa, jossa vuonna 1860 pidettiin kuuluisa evoluutioväittely Thomas Henry Huxleyn ja Samuel Wilberforcen välillä. Väittelyn aiheena oli "Onko tiede haudannut Jumalan?"[^14][^15][^16] The Spectator-lehti kutsui tapahtumaa "Huxley-Wilberforce, toinen erä."[^17] 11 minuutin video kyseistä väittelystä löytyy [tästä.](http://www.youtube.com/watch?v=DxD-HPMpTto)
 
-*Maaliskuun 3, 2009, Lennox [väitteli](https://youtu.be/sHiGsL4bzmM) Christopher Hitchensin kanssa toisen kerran Samfordin yliopistossa Birminghamissä, Alabamassa kysymyksestä: "Onko Jumala suuri?" Väittely käsitteli Hitchensin väitteitä hänen kirjassaan "Jumala ei ole suuri".[^18][^19][^20]
+* Maaliskuun 3, 2009, Lennox [väitteli](https://youtu.be/sHiGsL4bzmM) Christopher Hitchensin kanssa toisen kerran Samfordin yliopistossa Birminghamissä, Alabamassa kysymyksestä: "Onko Jumala suuri?" Väittely käsitteli Hitchensin väitteitä hänen kirjassaan "Jumala ei ole suuri".[^18][^19][^20]
 
 ### Teokset
 

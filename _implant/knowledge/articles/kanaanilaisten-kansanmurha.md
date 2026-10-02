@@ -4,7 +4,7 @@ about: apologetics
 title: "Kanaanilaisten kansanmurha"
 description: "Kuva: Kartta luvatun maan rajoista. Taustalla nykyiset poliittiset alueet."
 tags: [apowiki, historia, raamattu]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kanaanilaisten kansanmurha".
@@ -117,11 +117,11 @@ Jos lapsia tapettiin, se on ikävä seuraus muista sotatoimista, eikä voida san
 
 Toimille voidaan keksiä Jumalan mainitseman syyn lisäksi muitakin syitä, mutta ei voida olla varmoja, ovatko syyt kuinka merkittäviä tai oleellisia:
 
-*Lapset eivät olisi sopeutuneet Israelin yhteiskuntaan.
-*Lapset olisivat kiinnostuneet vanhempiensa iljettävistä tavoista, alkaneet noudattaa niitä ja houkutelleet israelilaiset noudattamaan niitä.
-*Vauvatkin vanhemmista lapsista puhumattakaan olisivat vartuttuaan katkeroituneet israelilaisia kohtaan, aloittaneet kapinan ja jopa liittoutuneet Israelin vihollisten kanssa.
-*Lapset säästyivät niiltä kärsimyksiltä, joita he olisivat saaneet sukupuolitaudeista ja kehitysvammoista. Heillä näet oli seksuaalisesti vapaamielisiä vanhempia, jotka harrastivat seksiä lähisukulaistensa kanssa[^26]. Tämä on yksi perustelu, jota käytetään abortin puolustamiseksi. Jos syy on pätevä abortin oikeuttamiseksi, ei lasten kohtalossa ole tältä osin ongelmaa.
-*Moni lapsi pelastui hyvinkin raa'alta kohtelulta esimerkiksi lapsiuhrina, jos aikuisetkin olisi jätetty henkiin.
+* Lapset eivät olisi sopeutuneet Israelin yhteiskuntaan.
+* Lapset olisivat kiinnostuneet vanhempiensa iljettävistä tavoista, alkaneet noudattaa niitä ja houkutelleet israelilaiset noudattamaan niitä.
+* Vauvatkin vanhemmista lapsista puhumattakaan olisivat vartuttuaan katkeroituneet israelilaisia kohtaan, aloittaneet kapinan ja jopa liittoutuneet Israelin vihollisten kanssa.
+* Lapset säästyivät niiltä kärsimyksiltä, joita he olisivat saaneet sukupuolitaudeista ja kehitysvammoista. Heillä näet oli seksuaalisesti vapaamielisiä vanhempia, jotka harrastivat seksiä lähisukulaistensa kanssa[^26]. Tämä on yksi perustelu, jota käytetään abortin puolustamiseksi. Jos syy on pätevä abortin oikeuttamiseksi, ei lasten kohtalossa ole tältä osin ongelmaa.
+* Moni lapsi pelastui hyvinkin raa'alta kohtelulta esimerkiksi lapsiuhrina, jos aikuisetkin olisi jätetty henkiin.
 
 ### Tuomion tarkoitus
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Lee Strobel"
 description: "Lee Patrick Strobel (s. 25.01.1952) on ateistista kristityksi kääntynyt entinen Chicago Tribune -lehden toimittaja."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-02T03:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Lee Strobel".
@@ -34,7 +34,7 @@ Hän oli edelleen ateisti, mutta hän että jos kristinusko on totta, sillä on 
 ### Tuotantoa
 #### Suomeksi
 
-*[Tapaus Kristus (kirja)](tapaus-kristus-kirja.md)
+* [Tapaus Kristus (kirja)](tapaus-kristus-kirja.md)
 
 #### Englanniksi
 * *Reckless Homicide? Ford's Pinto Trial* (1980) ISBN 0-89708-022-X
@@ -59,9 +59,9 @@ Hän oli edelleen ateisti, mutta hän että jos kristinusko on totta, sillä on 
 
 ### Katso myös
 
-*[Lee Strobelin kotisivu](http://www.leestrobel.com)
-*[The Case for Christ -dokumenttielokuva, 72min](https://youtu.be/abLATf6Q9Ls)
-*[The Case for a Creator -dokumenttielokuva (Illustra Media), 60min](https://youtu.be/ajqH4y8G0MI)
+* [Lee Strobelin kotisivu](http://www.leestrobel.com)
+* [The Case for Christ -dokumenttielokuva, 72min](https://youtu.be/abLATf6Q9Ls)
+* [The Case for a Creator -dokumenttielokuva (Illustra Media), 60min](https://youtu.be/ajqH4y8G0MI)
 
 ### Viitteet
 

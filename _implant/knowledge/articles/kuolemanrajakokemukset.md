@@ -4,7 +4,7 @@ about: apologetics
 title: "Kuolemanrajakokemukset"
 description: "Kysymys kuolemasta ja kuoleman jälkeisestä elämästä on aina ollut osa ihmisten uskonnollista ja filosofista pohdintaa."
 tags: [apowiki, sielu, paranormaalit-ilmiöt]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kuolemanrajakokemukset".
@@ -48,10 +48,10 @@ Vahvinta aineistoa ovat todennettavat kokemukset, joita ei voida selittää aivo
 
 ### Aiheesta muualla
 #### Video/Audio
-*[BBC-dokumentti: The Day I Died](http://www.dailymotion.com/video/xy56k9_the-day-i-died-nde-consciousness-documentary_lifestyle) (Dailymotion, 54 min)
-*[Howard Storm-ihmepelastus/english/suomi teksti](http://www.armo.info/Johannes777-Ihmepelastus972.avi), entisen ateistin, emeritustaideprofessori [Howard Stormin](http://en.wikipedia.org/wiki/Howard_Storm), kertomus omasta kokemuksestaan. (Video, 23 min, tekstitys suomeksi)
-*[Maurice Rawlings, MD: To Hell and Back](http://www.youtube.com/watch?v=Z6RoO6rK5aw) (Video, 1h, 29min)
-*[Near Death Experiences and the Afterlife, Gary Habermas](https://digitalcommons.liberty.edu/lts_fac_pubs/166/) (audio, 1h 12 min)
+* [BBC-dokumentti: The Day I Died](http://www.dailymotion.com/video/xy56k9_the-day-i-died-nde-consciousness-documentary_lifestyle) (Dailymotion, 54 min)
+* [Howard Storm-ihmepelastus/english/suomi teksti](http://www.armo.info/Johannes777-Ihmepelastus972.avi), entisen ateistin, emeritustaideprofessori [Howard Stormin](http://en.wikipedia.org/wiki/Howard_Storm), kertomus omasta kokemuksestaan. (Video, 23 min, tekstitys suomeksi)
+* [Maurice Rawlings, MD: To Hell and Back](http://www.youtube.com/watch?v=Z6RoO6rK5aw) (Video, 1h, 29min)
+* [Near Death Experiences and the Afterlife, Gary Habermas](https://digitalcommons.liberty.edu/lts_fac_pubs/166/) (audio, 1h 12 min)
 
 #### Katso myös
 ##### Puolesta
@@ -59,9 +59,9 @@ Vahvinta aineistoa ovat todennettavat kokemukset, joita ei voida selittää aivo
 * [International Association for Near-Death Studies](http://iands.org/home.html) -järjestön kotisivut
 
 ##### Vastaan
-*[Meno-paluu kuolemaan](http://www.tiede.fi/artikkeli/jutut/artikkelit/meno_paluu_kuolemaan) (www.tiede.fi)
-*[Skeptikon käsikirja: Rajakokemus](http://www.skepsis.fi/ihmeellinen/rajakokemus.html)
-*[Skeptikon käsikirja: Kehostapoistumiskokemus](http://www.skepsis.fi/ihmeellinen/kehostapoistumiskokemus.html)
+* [Meno-paluu kuolemaan](http://www.tiede.fi/artikkeli/jutut/artikkelit/meno_paluu_kuolemaan) (www.tiede.fi)
+* [Skeptikon käsikirja: Rajakokemus](http://www.skepsis.fi/ihmeellinen/rajakokemus.html)
+* [Skeptikon käsikirja: Kehostapoistumiskokemus](http://www.skepsis.fi/ihmeellinen/kehostapoistumiskokemus.html)
 
 ### Viitteet
 

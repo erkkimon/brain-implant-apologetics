@@ -4,7 +4,7 @@ about: apologetics
 title: "Sijaissynnytys"
 description: "Sijaissynnytys on yksi avusteinen lisääntymismenetelmä (assisted reproductive technology,ART) Sijaissynnyttäjä (surrogate) saatetaan raskaaksi ja synnytyksen jälkeen hän luovuttaa lapsen aiotuille vanhemmille (intended parents), jotka kasvattavat ja hoitavat lapsen."
 tags: [apowiki, seksuaalietiikka]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Sijaissynnytys".
@@ -78,9 +78,9 @@ Sallimalla joidenkin ihmisten ostaa muita ihmisiä, valtio luo tilanteen, jossa 
 
 ### Lapsen kokemat riskit
 
-*Kohdunvuokraus on psykologisesti riskialtista lapsille: lapset kiintyvät äitiinsä jo kohdussa. Näin kehittyvät symbioottisen suhteen rikkominen on sisältää riskin, että lapsen perusluottamus horjuu.
-*Kohdunvuokraus vaatii keinoputkihedelmöityksen käyttöä, mikä sisältää lapselle lääketieteellisiä riskejä kuten ennen aikainen syntymä ja alhainen syntymäpaino.
-*Kohdunvuokrauksen seurauksena syntyvällä lapsella on riskinä myös se, että aiotut vanhemmat hylkäävät hänet, jos hän on vammainen tai vakavasti sairas. Tällainen lapsi jää sijaisäidin hoitoon ja juridisesti epäselvään tilanteeseen.
+* Kohdunvuokraus on psykologisesti riskialtista lapsille: lapset kiintyvät äitiinsä jo kohdussa. Näin kehittyvät symbioottisen suhteen rikkominen on sisältää riskin, että lapsen perusluottamus horjuu.
+* Kohdunvuokraus vaatii keinoputkihedelmöityksen käyttöä, mikä sisältää lapselle lääketieteellisiä riskejä kuten ennen aikainen syntymä ja alhainen syntymäpaino.
+* Kohdunvuokrauksen seurauksena syntyvällä lapsella on riskinä myös se, että aiotut vanhemmat hylkäävät hänet, jos hän on vammainen tai vakavasti sairas. Tällainen lapsi jää sijaisäidin hoitoon ja juridisesti epäselvään tilanteeseen.
 
 ### Rodunjalostusopillisen ajattelun leviäminen
 
@@ -206,16 +206,16 @@ Tämän varkauden toteuttamiseen osallistuvat valtio, hedelmöityshoitoa tarjoav
 
 ### Kirjallisuus
 
-*Anderson, Elizabeth, *Is Women’s Labor a Commodity?*, Philosophy and Public Affairs, 19, 71-92
-*Esolen, Anthony, *Defending Marriage: Twelve Arguments for Sanity*, Charlotte, NC: Saint Benedict Press, 2014
-*Kivipuro, Kaisa Johanna: *Sijaissynnytys ja vanhemmuuden normalisointi: lisääntymisoikeuksien rajaaminen lainsäädäntöaineistossa*. Sosiologian pro gradu -tutkielma. Helsingin yliopisto, 2015
-*Lopez, Robert Oscar, *Justice Kennedy’s 40 000 Children*, The Public Discourse
+* Anderson, Elizabeth, *Is Women’s Labor a Commodity?*, Philosophy and Public Affairs, 19, 71-92
+* Esolen, Anthony, *Defending Marriage: Twelve Arguments for Sanity*, Charlotte, NC: Saint Benedict Press, 2014
+* Kivipuro, Kaisa Johanna: *Sijaissynnytys ja vanhemmuuden normalisointi: lisääntymisoikeuksien rajaaminen lainsäädäntöaineistossa*. Sosiologian pro gradu -tutkielma. Helsingin yliopisto, 2015
+* Lopez, Robert Oscar, *Justice Kennedy’s 40 000 Children*, The Public Discourse
 <!--*Lopez, Robert Oscar, *The Unbearable Sleaziness of Being (a Gay Man)*, La Joie de Vivre 1:6, Sunday, December 8-->
-*Newman, Alana, [Testimony of Alana S. Newman. Opposition to AB460. To the California Assembly Committee on Health](http://ccgaction.org/uploaded_files/Testimony%20of%20Alana%20S.%20Newman.pdf), ccgaction.org, April 30, 2013, viitattu 10.5.2017
-*Pande, Amrita (2014) Wombs in Labor: Transnational Commercial Surrogacy in India. New York: Columbia University Press.
-*Pruett, Kyle, *Fatherneed*, New York: Broadway, 2000
-*Puolimatka, Tapio, *Lapsen ihmisoikeus: oikeus isään ja äitiin*, Suunta-kirjat, 2014
-*Sandel, Michael J., Suom. Anni Lassila, Janne Luotola, Petja Pelli ja Juha Sainio, *Oikeudenmukaisuus*, Helsinki: HS kirjat, 2012
+* Newman, Alana, [Testimony of Alana S. Newman. Opposition to AB460. To the California Assembly Committee on Health](http://ccgaction.org/uploaded_files/Testimony%20of%20Alana%20S.%20Newman.pdf), ccgaction.org, April 30, 2013, viitattu 10.5.2017
+* Pande, Amrita (2014) Wombs in Labor: Transnational Commercial Surrogacy in India. New York: Columbia University Press.
+* Pruett, Kyle, *Fatherneed*, New York: Broadway, 2000
+* Puolimatka, Tapio, *Lapsen ihmisoikeus: oikeus isään ja äitiin*, Suunta-kirjat, 2014
+* Sandel, Michael J., Suom. Anni Lassila, Janne Luotola, Petja Pelli ja Juha Sainio, *Oikeudenmukaisuus*, Helsinki: HS kirjat, 2012
 
 ### Viitteet
 

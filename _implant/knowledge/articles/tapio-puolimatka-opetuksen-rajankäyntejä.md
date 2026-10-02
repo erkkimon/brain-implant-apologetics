@@ -4,7 +4,7 @@ about: apologetics
 title: "Tapio Puolimatka: Opetuksen rajankäyntejä"
 description: "Indoktrinaatiolla tarkoitetaan opetuksen vääristymää, joka voi ilmetä useissa eri muodoissa: joko opetuksen sisältö ei ole tietoa tai sitä ei opeteta niin, että oppilas tulee tietämään asian."
 tags: [apowiki, tapio-puolimatka]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tapio Puolimatka: Opetuksen rajankäyntejä".
@@ -57,5 +57,5 @@ Vaikka kristillinen opetus ei olekaan välttämättä indoktrinaatiota esittäes
 Kristilliset koulut palvelevat olemassaolollaan yhteiskunnan pluralistisuutta. On tärkeää, että erilaiset käsitykset tulevat edustetuiksi myös kasvatusjärjestelminä, jotka tarjoavat kokonaisvaltaisen maailmankatsomuksen ja elämäntavan. Vain tällä tavalla ne tarjoavat todellisen vaihtoehdon aikamme ihmisille. On tietoteoreettisesti täysin perusteltua, että kristilliset koulut opettavat evankeliumia totuutena. Ehdoton totuus ja älyllinen vapaus sopivat yhteen. Olisi epäjohdonmukaista rajoittaa älyllistä vapautta ehdottoman totuuden nimissä, koska ehdoton totuus kestää kriittisen tarkastelun.
 
 ### Lisätietoa
-*[Tapio Puolimatka: Kriittinen avoimuus ja uskonnollinen eksklusivismi](http://www.tapiopuolimatka.net/30)
-*[Tapio Puolimatka: Monikulttuurinen kasvatus, arvot ja tiedollinen eksklusivismi](http://www.tapiopuolimatka.net/46)
+* [Tapio Puolimatka: Kriittinen avoimuus ja uskonnollinen eksklusivismi](http://www.tapiopuolimatka.net/30)
+* [Tapio Puolimatka: Monikulttuurinen kasvatus, arvot ja tiedollinen eksklusivismi](http://www.tapiopuolimatka.net/46)

@@ -4,7 +4,7 @@ about: apologetics
 title: "Nicholas Wolterstorff"
 description: "Nicholas Wolterstorff (s. 21. tammikuuta 1932, Bigelow, Minnesota) on yhdysvaltalainen filosofi, Yalen yliopiston Noah Porter -oppituolin filosofisen teologian emeritusprofessori ja Berkeley Collegen jäsen."
 tags: [apowiki, henkilöt, tyngät]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Nicholas Wolterstorff".
@@ -30,41 +30,41 @@ Wolterstorff argumentoi, että ihmisen arvoa ja ihmisoikeuksia ei pystytä oikeu
 
 ### Teoksia
 
-*On Universals: an Essay in Ontology. Chicago: University of Chicago Press. 1970.
+* On Universals: an Essay in Ontology. Chicago: University of Chicago Press. 1970.
 
-*Reason within the Bounds of Religion. Wm. B. Eerdmans Publishing Co. 1976. 2nd ed. 1984
+* Reason within the Bounds of Religion. Wm. B. Eerdmans Publishing Co. 1976. 2nd ed. 1984
 
-*Works and Worlds of Art. Oxford: Clarendon Press. 1980.
+* Works and Worlds of Art. Oxford: Clarendon Press. 1980.
 
-*Art in Action: Toward a Christian Aesthetic. Grand Rapids: Wm. B. Eerdmans Publishing Co. 1980.
+* Art in Action: Toward a Christian Aesthetic. Grand Rapids: Wm. B. Eerdmans Publishing Co. 1980.
 
-*Educating for Responsible Action. Grand Rapids: Wm. B. Eerdmans Publishing Co. 1980.
+* Educating for Responsible Action. Grand Rapids: Wm. B. Eerdmans Publishing Co. 1980.
 
-*Rationality in the Calvinian Tradition [ed. with H. Hart & J. van der Hoeven]. Lanham, MD: Univ. of America Press. 1980.
+* Rationality in the Calvinian Tradition [ed. with H. Hart & J. van der Hoeven]. Lanham, MD: Univ. of America Press. 1980.
 
-*Until Justice and Peace Embrace. Grand Rapids: Eerdmans. 1983.
+* Until Justice and Peace Embrace. Grand Rapids: Eerdmans. 1983.
 
-*Faith and Rationality: Reason and Belief in God (ed. with Alvin Plantinga). Notre Dame: University of Notre Dame Press. 1984.
+* Faith and Rationality: Reason and Belief in God (ed. with Alvin Plantinga). Notre Dame: University of Notre Dame Press. 1984.
 
-*Lament for a Son. Grand Rapids: Wm. B. Eerdmans Publishing Co. 1987.
+* Lament for a Son. Grand Rapids: Wm. B. Eerdmans Publishing Co. 1987.
 
-*"Suffering Love" in Philosophy and the Christian Faith (ed.Thomas V. Morris). Notre Dame: University of Notre Dame Press. 1988.
+* "Suffering Love" in Philosophy and the Christian Faith (ed.Thomas V. Morris). Notre Dame: University of Notre Dame Press. 1988.
 
-*Divine Discourse: Philosophical Reflections on the Claim That God Speaks. Cambridge: Cambridge University Press. 1995.
+* Divine Discourse: Philosophical Reflections on the Claim That God Speaks. Cambridge: Cambridge University Press. 1995.
 
-*John Locke and the Ethics of Belief. Cambridge: Cambridge University Press. 1996.
+* John Locke and the Ethics of Belief. Cambridge: Cambridge University Press. 1996.
 
-*Religion in the Public Square (with Robert Audi). Lanham, MD: Rowman and Littlefield. 1997.
+* Religion in the Public Square (with Robert Audi). Lanham, MD: Rowman and Littlefield. 1997.
 
-*Thomas Reid and the Story of Epistemology. Cambridge: Cambridge University Press. 2001.
+* Thomas Reid and the Story of Epistemology. Cambridge: Cambridge University Press. 2001.
 
-*Educating for Shalom: Essays on Christian Higher Education. (eds. Clarence W. Joldersma and Gloria G. Stronks). Grand Rapids: Wm. B. Eerdmans Publishing Co. 2004.
+* Educating for Shalom: Essays on Christian Higher Education. (eds. Clarence W. Joldersma and Gloria G. Stronks). Grand Rapids: Wm. B. Eerdmans Publishing Co. 2004.
 
-*[Justice: Rights and Wrongs](justice-rights-and-wrongs-kirja.md). Princeton: Princeton University Press. 2008.
+* [Justice: Rights and Wrongs](justice-rights-and-wrongs-kirja.md). Princeton: Princeton University Press. 2008.
 
-*Inquiring about God: Selected Essays, Volume I (ed. Terence Cuneo). Cambridge: Cambridge University Press. 2009.
+* Inquiring about God: Selected Essays, Volume I (ed. Terence Cuneo). Cambridge: Cambridge University Press. 2009.
 
-*Practices of Belief: Selected Essays, Volume II (ed. Terence Cuneo). Cambridge: Cambdridge University Press. 2009.
+* Practices of Belief: Selected Essays, Volume II (ed. Terence Cuneo). Cambridge: Cambdridge University Press. 2009.
 
 ### Aiheesta muualla
 
@@ -75,9 +75,9 @@ Wolterstorff argumentoi, että ihmisen arvoa ja ihmisoikeuksia ei pystytä oikeu
 * [Theology and Ethics](http://andrewgoddard.squarespace.com/nicholas-wolterstorff/) Contains many PDF files of Wolterstorff's work not available elsewhere.
 * [Art in Action: New Thoughts](http://www.thekindlings.com/2009/07/02/dr-nicholas-wolterstorff-art-in-action-new-thoughts-podcast-live-at-iam-2009-segment-1-of-1/) Lecture at the 2009 International Arts Movement.
 * [Lectures](http://www.cslewisinstitute.org/audio/by/artist/nicholas_wolterstorff) by Wolterstorff from the C.S. Lewis Institute.
-*[Nicholas Wolterstorffin englanninkielinen omaelämäkerta teoksesta Philosophers Who Believe](http://www.calvin.edu/125th/wolterst/w_bio.pdf)
-*[Wolterstorffin audioluento: "How Calvin Fathered a Renaissance in Christian Philosophy"](http://www.calvin.edu/125th/wolter.htm)-->
-*[Wolterstorff: "Justice as Inherent Rights: A Response to my Commentators".](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9795.2009.00386.x/abstract?userIsAuthenticated=false&deniedAccessCustomisedMessage=)
+* [Nicholas Wolterstorffin englanninkielinen omaelämäkerta teoksesta Philosophers Who Believe](http://www.calvin.edu/125th/wolterst/w_bio.pdf)
+* [Wolterstorffin audioluento: "How Calvin Fathered a Renaissance in Christian Philosophy"](http://www.calvin.edu/125th/wolter.htm)-->
+* [Wolterstorff: "Justice as Inherent Rights: A Response to my Commentators".](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9795.2009.00386.x/abstract?userIsAuthenticated=false&deniedAccessCustomisedMessage=)
 
 ### Lähteet
 * `http://www.iasc-culture.org/HHR_Archives/HumanDignity/9.3GWolterstorff.pdf` Nicholas Wolterstorff: The Irony of Human Rights

@@ -4,7 +4,7 @@ about: apologetics
 title: "Lapsen ihmisoikeus: oikeus isään ja äitiin (kirja)"
 description: "Lapsen ihmisoikeus: oikeus isään ja äitiin on Tapio Puolimatkan kirjoittama kirja, joka analysoi lapsen keskeistä ihmisoikeutta: oikeutta isään ja äitiin."
 tags: [apowiki, kirjat, seksuaalietiikka, ihmisoikeudet]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Lapsen ihmisoikeus: oikeus isään ja äitiin (kirja)".
@@ -86,12 +86,12 @@ Sukupuolineutraalia avioliittoa koskevassa julkisessa keskustelussa vältellää
 
 #### Johdanto
 
-*Avioliiton tarkoitus
-*Onko sukupuolineutraali avioliitto ihmisoikeus?
-*Onko meillä tietoa lapsen hyvästä?
-*Perherakenteen merkitys
-*Mielipidetulvat ja vilpittömyyden puute
-*Kirjan rakenne
+* Avioliiton tarkoitus
+* Onko sukupuolineutraali avioliitto ihmisoikeus?
+* Onko meillä tietoa lapsen hyvästä?
+* Perherakenteen merkitys
+* Mielipidetulvat ja vilpittömyyden puute
+* Kirjan rakenne
 
 Kirjan ensimmäisessä luvussa käsitellään avioliiton merkitystä, lapsen oikeutta isään ja äitiin ja tämän oikeuden perusteita lapsen hyvän kehityksen edellytyksissä. Isän tai äidin poissaolo lapsen elämästä vaikuttaa hänen elämäänsä kielteisesti. Isällä ja äidillä on molemmilla oma ainutlaatuinen ja korvaamaton panoksensa annettavana lapsen hyvinvointiin ja kehitykseen. Isän ja äidin toisiaan täydentävyys on tärkeää optimaalisen kasvuympäristön luomisessa.
 
@@ -103,71 +103,71 @@ Neljännessä luvussa argumentoidaan, että perherakenteiden erojen merkitystä 
 
 #### 1. Kiista avioliiton merkityksestä
 
-*1.1.	Perinteinen avioliittokäsitys
-*1.2.	Lapsen oikeus isään ja äitiin
-**Aikuisen vai lapsen oikeudet?
-**Avioliittokiistan moraalinen ja yhteiskuntatieteellinen taso
-**Missä ovat maailman onnellisimmat lapset?
-**Sukupuolieron ja ruumiillisuuden merkitys
-**Isän ja äidin sukupuolidynamiikan merkitys lapselle
-**Biologisen ydinperheen merkitys lapsen hyvinvoinnille
-*1.3.	Lainsäädännön sosialisaatiovaikutus
-*1.4.	Lapset, parisuhdedynamiikka ja juridisen säätelyn tarve?
-**Heteroseksuaalinen parisuhdedynamiikka
-**Homoseksuaalinen parisuhdedynamiikka
-**Parisuhdedynamiikan eroja
-*1.5.	Hyödyttääkö avioliitto homoseksuaalisia pareja?
-*1.6.	Hyödyttääkö sukupuolineutraali avioliittolaki homoseksuaalisten parien lapsia?
-*1.7.	Avioliiton merkityksen heikkeneminen
-*1.8.	Vapaan seksuaalisuuden ideologia
-*1.9	Valtion vallan kasvu
+* 1.1.	Perinteinen avioliittokäsitys
+* 1.2.	Lapsen oikeus isään ja äitiin
+  * Aikuisen vai lapsen oikeudet?
+  * Avioliittokiistan moraalinen ja yhteiskuntatieteellinen taso
+  * Missä ovat maailman onnellisimmat lapset?
+  * Sukupuolieron ja ruumiillisuuden merkitys
+  * Isän ja äidin sukupuolidynamiikan merkitys lapselle
+  * Biologisen ydinperheen merkitys lapsen hyvinvoinnille
+* 1.3.	Lainsäädännön sosialisaatiovaikutus
+* 1.4.	Lapset, parisuhdedynamiikka ja juridisen säätelyn tarve?
+  * Heteroseksuaalinen parisuhdedynamiikka
+  * Homoseksuaalinen parisuhdedynamiikka
+  * Parisuhdedynamiikan eroja
+* 1.5.	Hyödyttääkö avioliitto homoseksuaalisia pareja?
+* 1.6.	Hyödyttääkö sukupuolineutraali avioliittolaki homoseksuaalisten parien lapsia?
+* 1.7.	Avioliiton merkityksen heikkeneminen
+* 1.8.	Vapaan seksuaalisuuden ideologia
+* 1.9	Valtion vallan kasvu
 
 #### 2. Ideologioiden vaikutus kulttuuriin
 
-*2.1.	Yhteisölliset ennakko-olettamukset
-*2.2.	Mielikuvien valta
-*2.3.	Aikamme ideologiat
-*2.4.	Ideologian kehitysvaiheet
-*2.5.	Ideologia yhteiskunnan muuttamisessa
-*2.6.	Ideologia ja myytit
-*2.7.	Miten ihminen joutuu ideologian valtaamaksi?
+* 2.1.	Yhteisölliset ennakko-olettamukset
+* 2.2.	Mielikuvien valta
+* 2.3.	Aikamme ideologiat
+* 2.4.	Ideologian kehitysvaiheet
+* 2.5.	Ideologia yhteiskunnan muuttamisessa
+* 2.6.	Ideologia ja myytit
+* 2.7.	Miten ihminen joutuu ideologian valtaamaksi?
 
 #### 3. Ideologia ja perhearvot
 
-*3.1.	Kiista avioliiton tarkoituksesta
-**Lasten oikeuksien sivuuttaminen
-**Keskustelun reunaehtojen rajoittaminen
-*3.2.	Avioliittokiistan ideologisoituminen
-**Mielikuvien valta
-**Ideologian vaikutus koulujen seksuaaliopetukseen
-**Ideologia ja ihmistieteet
-*3.3.	Millä tavalla ideologinen yksimielisyys on saatu aikaan?
-**Mitkä eri tekijät vinouttavat tutkimustuloksia?
-**Otoskoko
-**Poliittisten tarkoitusperien vaikutus tutkimuksiin
-**Feministisen vanhemmuusteorian vaikutus
-**Itsearviointien subjektiivisuus
-**Onko vallitseva käsitys perusteltu?
-**Miten soraääniä vaiennetaan?
-**Ajojahti tutkijan maineen tuhoamiseksi
-**Tutkijan luotettavuuden halventaminen
-*3.4.	Mielikuvien retoriikka
-**Lapsen oikeuksien keskeisyys
-**[Homofobia](homofobia.md)-retoriikka
-**Skeptikkoviihteen perustekijöitä
-**Dramaattisten sutkausten voima
-**Miksi ristiriitaiset väitteet eivät vie uskottavuutta?
-**Millä tavalla tosiasioita on luvallista käyttää?
-**Myytti uskon ja tieteen ristiriidasta
-**Myytti avioliiton alkuperästä
-**Onko perherakenteiden vaikutusten analysointi rotuhygieniaa?
-**Kooste
+* 3.1.	Kiista avioliiton tarkoituksesta
+  * Lasten oikeuksien sivuuttaminen
+  * Keskustelun reunaehtojen rajoittaminen
+* 3.2.	Avioliittokiistan ideologisoituminen
+  * Mielikuvien valta
+  * Ideologian vaikutus koulujen seksuaaliopetukseen
+  * Ideologia ja ihmistieteet
+* 3.3.	Millä tavalla ideologinen yksimielisyys on saatu aikaan?
+  * Mitkä eri tekijät vinouttavat tutkimustuloksia?
+  * Otoskoko
+  * Poliittisten tarkoitusperien vaikutus tutkimuksiin
+  * Feministisen vanhemmuusteorian vaikutus
+  * Itsearviointien subjektiivisuus
+  * Onko vallitseva käsitys perusteltu?
+  * Miten soraääniä vaiennetaan?
+  * Ajojahti tutkijan maineen tuhoamiseksi
+  * Tutkijan luotettavuuden halventaminen
+* 3.4.	Mielikuvien retoriikka
+  * Lapsen oikeuksien keskeisyys
+  * [Homofobia](homofobia.md)-retoriikka
+  * Skeptikkoviihteen perustekijöitä
+  * Dramaattisten sutkausten voima
+  * Miksi ristiriitaiset väitteet eivät vie uskottavuutta?
+  * Millä tavalla tosiasioita on luvallista käyttää?
+  * Myytti uskon ja tieteen ristiriidasta
+  * Myytti avioliiton alkuperästä
+  * Onko perherakenteiden vaikutusten analysointi rotuhygieniaa?
+  * Kooste
 
 #### 4. Torjuttu syyllisyys ja mielikuvien valta
-*4.1. Tosiasioiden pakenemisen hinta
-*4.2. Tosiasioiden kohtaamisen hyöty
+* 4.1. Tosiasioiden pakenemisen hinta
+* 4.2. Tosiasioiden kohtaamisen hyöty
 
-*Kirjallisuusluettelo
+* Kirjallisuusluettelo
 
 ### Aiheesta muualla
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Seksuaalivallankumous: perheen ja kulttuurin romahdus (kirja)"
 description: "Seksuaalivallankumous on Tapio Puolimatkan kirjoittama kirja, joka analysoi yhteiskuntaelämän keskeistä paradoksia: kun yksilön vapaus korotetaan ylimmäksi arvoksi, seurauksena on perheen ja yhteiskunnan hajoamisprosessi, jonka lopputuloksena yksilön vapaus kaventuu."
 tags: [apowiki, kirjat, seksuaalietiikka, tapio-puolimatka]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Seksuaalivallankumous: perheen ja kulttuurin romahdus (kirja)".
@@ -78,57 +78,57 @@ Omana aikanamme on toteutumassa sama prosessi, joka etenee seksuaalisen vapauden
 
 #### 1. Eheä perhe korkeakulttuurin perustana
 
-*Perhe ja kulttuurin elinvoima
-*Illuusio seksuaalisesta vapaudesta
-*Onko olemassa yleispäteviä perherakenteita?
-*Perhehistorian kaudet
+* Perhe ja kulttuurin elinvoima
+* Illuusio seksuaalisesta vapaudesta
+* Onko olemassa yleispäteviä perherakenteita?
+* Perhehistorian kaudet
 
 #### 2. Avioliitto- ja perhekulttuurin murrokset antiikissa
 
-*Perheen atomisoituminen ja kulttuurin rappeutuminen Kreikassa
-*Perheen atomisoituminen Rooman kulttuurissa
-*Perheen kolme olomuotoa kristillisessä Euroopassa
+* Perheen atomisoituminen ja kulttuurin rappeutuminen Kreikassa
+* Perheen atomisoituminen Rooman kulttuurissa
+* Perheen kolme olomuotoa kristillisessä Euroopassa
 
 #### 3. Ranskan suuri vallankumous
 
-*Seksuaalinen vapaus luo kaaosta
-*Yhteiskunnallinen kaaos ja vallankumouksellinen terrori
-*Miten ihmistä hallitaan halujensa kautta
-*Kulttuurin moraalisen perustan murtuminen
+* Seksuaalinen vapaus luo kaaosta
+* Yhteiskunnallinen kaaos ja vallankumouksellinen terrori
+* Miten ihmistä hallitaan halujensa kautta
+* Kulttuurin moraalisen perustan murtuminen
 
 #### 4. Atomistinen vapaus johtaa totalitarismiin
 
-*Atomistinen persoona
-*Bolševikkien yhteiskuntakokeilu
-*Natsismin totalitaristinen perhepolitiikka
-*Perheen atomisoituminen ja valtion valta.
+* Atomistinen persoona
+* Bolševikkien yhteiskuntakokeilu
+* Natsismin totalitaristinen perhepolitiikka
+* Perheen atomisoituminen ja valtion valta.
 
 #### 5. Myyttinen kuva seksuaalisen vapauden luomasta paratiisista
 
-*Näennäistieteellinen fantasia paratiisisaaresta
-*Meadin tutkimuksen luoma harhakuva
-*Meadin teoriaan kohdistuva kritiikki
+* Näennäistieteellinen fantasia paratiisisaaresta
+* Meadin tutkimuksen luoma harhakuva
+* Meadin teoriaan kohdistuva kritiikki
 
 #### 6. Seksuaalivallankumous muuttaa yhteiskuntaa
 
-*Seksuaalivallankumous ja väestönkasvun rajoittaminen
-*EU:n demokratiavaje ja seksuaalivallankumous
-*Pervonormatiivinen koulu
-*Seksuaalikasvatus
-*Panseksuaalisuuden ”tieteellinen” puolustus
-*Nuorten seksualisoiminen kouluopetuksessa
-*Dietrich von Hildebrandin kritiikki
+* Seksuaalivallankumous ja väestönkasvun rajoittaminen
+* EU:n demokratiavaje ja seksuaalivallankumous
+* Pervonormatiivinen koulu
+* Seksuaalikasvatus
+* Panseksuaalisuuden ”tieteellinen” puolustus
+* Nuorten seksualisoiminen kouluopetuksessa
+* Dietrich von Hildebrandin kritiikki
 
 #### 7. Sukupuolineutraali vallankumous
 
-*Sukupuolineutraali ideologia murtaa ihmisoikeusjärjestelmän
-*Seksuaalisen suuntautumisen synnynnäisyys
-*Ihmiskäsitysten ristiriita
-*Yogyakarta-periaatteet ja ihmisoikeusjärjestelmän mureneminen
-*”LHBT-oikeuksista” johdetut velvoitteet
-*Seksuaalioikeudet asetetaan omantunnon yläpuolelle
-*Sukupuolivähemmistöstä etuoikeuksia nauttiva eliitti
-*Harhaanjohtava viestintä
+* Sukupuolineutraali ideologia murtaa ihmisoikeusjärjestelmän
+* Seksuaalisen suuntautumisen synnynnäisyys
+* Ihmiskäsitysten ristiriita
+* Yogyakarta-periaatteet ja ihmisoikeusjärjestelmän mureneminen
+* ”LHBT-oikeuksista” johdetut velvoitteet
+* Seksuaalioikeudet asetetaan omantunnon yläpuolelle
+* Sukupuolivähemmistöstä etuoikeuksia nauttiva eliitti
+* Harhaanjohtava viestintä
 
 #### 8. Lopuksi
 
@@ -141,20 +141,20 @@ Timo Hännikäisen mukaan Puolimatkan teoksessa näkemykset ovat paikoin puuttee
 
 #### Kirja-arvosteluja
 
-*[Manu Ryösö: Isku vääryyttä vastaan. Sanansaattaja 23.3.2017](https://kotisivukone.fi/app/www/tapiopuolimatka.kotisivukone.com/29813/)
-*[Timo Hännikäinen: Perhe ja sivilisaatio. Oikea media 24.3.2017](http://beta.oikeamedia.com/o1-9416)
-*[Mikael Torppa: Korkeakulttuurin elinvoimaisuus on eheässä perheessä. Uusi Suomi 5.5. 2017](http://mikaeltorppa.puheenvuoro.uusisuomi.fi/236600-korkeakulttuurin-elinvoimaisuus-on-eheassa-perheessa)
-*[Mika Bergman: Rajat vapauttavat. Luterilainen 4/2017, ss. 134-135](http://www.luterilainen.com/files/Luterilainen/17/Lut_17_04net.pdf)
-*[Leevi Launonen: Perheen historia toistaan itseään. RV-lehti 12.10. 2017](https://kotisivukone.fi/app/www/tapiopuolimatka.kotisivukone.com/perheen-historia-toistaa-itseaan)
+* [Manu Ryösö: Isku vääryyttä vastaan. Sanansaattaja 23.3.2017](https://kotisivukone.fi/app/www/tapiopuolimatka.kotisivukone.com/29813/)
+* [Timo Hännikäinen: Perhe ja sivilisaatio. Oikea media 24.3.2017](http://beta.oikeamedia.com/o1-9416)
+* [Mikael Torppa: Korkeakulttuurin elinvoimaisuus on eheässä perheessä. Uusi Suomi 5.5. 2017](http://mikaeltorppa.puheenvuoro.uusisuomi.fi/236600-korkeakulttuurin-elinvoimaisuus-on-eheassa-perheessa)
+* [Mika Bergman: Rajat vapauttavat. Luterilainen 4/2017, ss. 134-135](http://www.luterilainen.com/files/Luterilainen/17/Lut_17_04net.pdf)
+* [Leevi Launonen: Perheen historia toistaan itseään. RV-lehti 12.10. 2017](https://kotisivukone.fi/app/www/tapiopuolimatka.kotisivukone.com/perheen-historia-toistaa-itseaan)
 
 #### Kirjaa käsitteleviä haastatteluja
 
-*[Tenhunen / Seksuaalivallankumous. Alfa TV 27.4.2017](http://www.permanto.fi/web/alfatv/player/vod?assetId=5419828)
-*[Sananvapaus uhattuna. Cafe Raamattu 15.4.2017](http://www.tv7.fi/vod/player/51323/)
-*[Mitä tapahtuu, kun perhe romutetaan? Cafe Raamattu 8.4.2017](http://www.tv7.fi/vod/player/58211/)
-*[Onko sukupuolia enemmän kuin kaksi. Café Raamattu 25.3.2017](http://www.tv7.fi/vod/player/51321/)
-*[Uusi seksuaalikasvatus. Café Raamattu 18.3.2017](http://www.tv7.fi/vod/player/51320/)
-*[Johtaako seksuaalinen vapaus korkeakulttuurin murenemiseen? Käytännöllisen filosofian emeritusprofessori Timo Airaksinen väittelee Tapio Puolimatkan kanssa Tieteiden talolla 16.5.2017 (Youtube)](https://www.youtube.com/watch?v=SZ4ZHVZEl60)
+* [Tenhunen / Seksuaalivallankumous. Alfa TV 27.4.2017](http://www.permanto.fi/web/alfatv/player/vod?assetId=5419828)
+* [Sananvapaus uhattuna. Cafe Raamattu 15.4.2017](http://www.tv7.fi/vod/player/51323/)
+* [Mitä tapahtuu, kun perhe romutetaan? Cafe Raamattu 8.4.2017](http://www.tv7.fi/vod/player/58211/)
+* [Onko sukupuolia enemmän kuin kaksi. Café Raamattu 25.3.2017](http://www.tv7.fi/vod/player/51321/)
+* [Uusi seksuaalikasvatus. Café Raamattu 18.3.2017](http://www.tv7.fi/vod/player/51320/)
+* [Johtaako seksuaalinen vapaus korkeakulttuurin murenemiseen? Käytännöllisen filosofian emeritusprofessori Timo Airaksinen väittelee Tapio Puolimatkan kanssa Tieteiden talolla 16.5.2017 (Youtube)](https://www.youtube.com/watch?v=SZ4ZHVZEl60)
 
 #### Apologetiikkawiki
 * [Avioliitto](avioliitto.md)

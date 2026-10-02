@@ -4,7 +4,7 @@ about: apologetics
 title: "Perinnöllisen muuntelun mekanismit"
 description: "Perinnöllisen muuntelun mekanismeja ovat muun muassa luonnonvalinta, seksuaalivalinta, mutaatiot) ja migraatio."
 tags: [apowiki, evoluutioteoria]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Perinnöllisen muuntelun mekanismit".
@@ -36,12 +36,12 @@ Edullisen mutaation tunnistaa siitä, että sen saaneet eliöt menestyvät sukup
 Jos laji hyötyy nykyisessä ympäristössään esimerkiksi pitkistä jaloista, jalan pituutta ja sitä kautta nopeutta kasvattavat mutaatiot ovat edullisia mutaatioita. Koska nopeammat esimerkiksi pääsevät paremmin pakoon saalistajiaan, ne pääsevät lisääntymään useammin, ja monen sukupolven aikana on todennäköistä, että pitempijalkaisuuden geenit tulevat yleisiksi ominaisuuksiksi populaatiossa. Nämä pidempijalkaiset voivat saada myös muita edullisia mutaatioita, jolloin mutaatiot todellakin kasautuvat. Mikäli laji on jakaantunut useammalle eristäytyneelle alueelle, nämä edulliset mutaatiot tai niiden kasaumat eivät tietenkään kulje kaikkien lajin edustajien saataville. Pian mutaatioita on kertynyt niin paljon, etteivät eri kantojen edustajat ole keskenään lisääntymiskykyisiä. Tällöin on tapahtunut [lajiutuminen](https://fi.wikipedia.org/wiki/lajiutuminen) edullisten mutaatioiden kasaantumisen seurauksena.
 
 #### Mutaatioita on liikaa
-*Haitallisia mutaatioita on arviolta 10<sup>4</sup>-10<sup>6</sup> kertaa enemmän kuin hyödyllisiä. Tyypillisesti valintaetu yhdestä edullisesta mutaatiosta on promillen luokkaa.
-*Haitallisia geneettisiä mutaatioita 100-600 per henkilö.
-*Ihmislaji ei tällä kehity, vaan suunta on alaspäin.
-*Eliön selviämiseen vaikuttavat paljon enemmän muut asiat kuin perimä. Esimerkiksi saatavilla oleva ravinto, kasvuympäristö ympäristö tai tuuri ovat yleensä tilastollisesti merkittävämpiä tekijöitä kuin yksittäiset mutaatiot.
-*Luonnossa perimän osuus selviytymiseen on tyypillisesti 0.004–osa.
-*’Kohinan’ takia luonnonvalinta ei edes ’näe’ vähän haitallisia mutaatioita, joita mutaatioista on eniten. Ne kertyvät perimään, mikä johtaa populaation rappeutumiseen.
+* Haitallisia mutaatioita on arviolta 10<sup>4</sup>-10<sup>6</sup> kertaa enemmän kuin hyödyllisiä. Tyypillisesti valintaetu yhdestä edullisesta mutaatiosta on promillen luokkaa.
+* Haitallisia geneettisiä mutaatioita 100-600 per henkilö.
+* Ihmislaji ei tällä kehity, vaan suunta on alaspäin.
+* Eliön selviämiseen vaikuttavat paljon enemmän muut asiat kuin perimä. Esimerkiksi saatavilla oleva ravinto, kasvuympäristö ympäristö tai tuuri ovat yleensä tilastollisesti merkittävämpiä tekijöitä kuin yksittäiset mutaatiot.
+* Luonnossa perimän osuus selviytymiseen on tyypillisesti 0.004–osa.
+* ’Kohinan’ takia luonnonvalinta ei edes ’näe’ vähän haitallisia mutaatioita, joita mutaatioista on eniten. Ne kertyvät perimään, mikä johtaa populaation rappeutumiseen.
 
 #### Lajiutuminen
 Missä tahansa eliöpopulaatiossa yksilöiden ominaisuudet vaihtelevat hieman sekä perimästä että ympäristöstä johtuen. Siten tapahtuu väistämättä niin, että tietyt ominaisuudet suosivat lisääntymistä enemmän kuin toiset, ja tästä syystä nämä ominaisuudet yleistyvät populaatiossa. Elinolosuhteiden muuttuessa (ilmasto, maantiede, sattuma, muut eliöt) saattaakin olla, että jotkin toiset ominaisuudet edesauttavat lisääntymistä enemmän kuin muut, jolloin ne vuorostaan alkavat lisääntyä populaatiossa. Tästä syntyy vähitellen lajiutumista, eritoten jos populaatio jakautuu kahteen tai useampaan osaan, esimerkiksi maantieteellisistä syistä, joten populaatioiden kesken ei juurikaan tapahdu geenienvaihtoa. Näin kehityshaarat erkanevat hiljalleen toisistaan ja lopulta yksi kantamuoto on lajiutunut eri lajeiksi, jotka eivät ole lisääntymiskykyisiä keskenään.
@@ -69,8 +69,8 @@ Yleisen käsityksen mukaan 45 miljoona vuotta sitten Australian [mannerlaatta](h
 ### Katso myös
 #### ApologetiikkaWiki
 
-*[Evoluutioteoria](evoluutioteoria.md)
-*[Polveutumisoppi](polveutumisoppi.md)
-*[Evoluutio](evoluutio-täsmennyssivu.md)
+* [Evoluutioteoria](evoluutioteoria.md)
+* [Polveutumisoppi](polveutumisoppi.md)
+* [Evoluutio](evoluutio-täsmennyssivu.md)
 
 ### Viitteet

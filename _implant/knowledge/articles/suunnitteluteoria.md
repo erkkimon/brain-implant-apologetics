@@ -4,7 +4,7 @@ about: apologetics
 title: "Suunnitteluteoria"
 description: "Ainahan voi väittää, että rinta viiden luodinreiän lävistämänä makaavan miehen kuolema oli sittenkin luonnollinen."
 tags: [apowiki, suunnitteluteoria, id-teoria, älykkään-suunnittelun-teoria, älykkään-suunnitelman-teoria, älyllisen-suunnittelun-teoria, älykäs-suunnitelma, älykäs-suunnittelu, älyllinen-suunnittelu, optimaalinen-suunnittelu, aito-suunnittelu, näennäissuunnittelu, tarkoituksellisuuspäättely]
-timestamp: 2026-10-02T07:30:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Suunnitteluteoria".
@@ -228,10 +228,10 @@ Suunnitteluteoreettisen metodologian kehittämisen lähtökohtana on **pyrkimys 
 
 #### Suunnitteluteoria ja teleologinen argumentti
 Apologetiikan suunnasta katsottuna suunnitteluteorialla vaikuttaa olevan niin huomattavaa lähisukuisuutta klassisen [teleologisen argumentin](teleologinen-argumentti.md) kanssa, että sitä on voitu pitää jopa tämän [varianttina](../glossary/sanasto.md#variantti). Tarkemmin tai useammasta suunnasta tarkastellen myös olennaisia eroja on kuitenkin helppo havaita:
-*Teleologinen argumentti on luonteeltaan kosmogoninen, maailman syntyyn liittyvä, kun taas suunnitteluteoreettiset menetelmät ovat sovellettavissa yhtä hyvin maailmansisäisten suunnittelijoiden aikaansaannosten tunnistamiseen.
-*Teleologisen argumentin takana on ajatus optimaalisesta suunnittelusta, suunnitteluteoriassa riittää osoittaa suunnittelun todellisuus – sen mahdollinen optimaalisuus on siinä mielessä ylimääräinen lisäominaisuus.
-*Teleologinen argumentti ei suunnitteluteorian tapaan jaottele syitä säännönmukaisiin, (ohjaamattoman) satunnaisiin ja älyllisiin. Kosmogonia on siinä mielessä perustava kysymys, että siihen annettava vastaus antaa lähtökohdan myös jatkotutkimusmetodologian rakentamiselle: jos [teismi](../glossary/sanasto.md#teismi) on oikea käsitys maailmasta, säännönmukaisuudet tai satunnaisuudet eivät voi olla perimmäisiä selityksiä, vaan niidenkin takana on persoonallisen Jumalan vaikutus. Suunnitteluteoreettinen tutkimusote taas on eräänlainen metodologisen naturalismin aito laajennos, niin että suunnitteluteoreettisessa metodissa tarkoituksellisuus eli aito suunnittelu määritellään säännönmukaisuuden ja satunnaisuuden vaihtoehdoksi, ei niiden taaksekin (mahdollisesti) kätkeytyväksi Jumalasta riippuvan luomakunnan perimmäiseksi luonteeksi.
-*Teleologinen argumentti on luonteeltaan nimenomaan teologisen apologetiikan alaan kuuluva perustelu, suunnitteluteoria taas luonnontieteiden alaan kuuluva vaihtoehtoinen lähestymistapa.
+* Teleologinen argumentti on luonteeltaan kosmogoninen, maailman syntyyn liittyvä, kun taas suunnitteluteoreettiset menetelmät ovat sovellettavissa yhtä hyvin maailmansisäisten suunnittelijoiden aikaansaannosten tunnistamiseen.
+* Teleologisen argumentin takana on ajatus optimaalisesta suunnittelusta, suunnitteluteoriassa riittää osoittaa suunnittelun todellisuus – sen mahdollinen optimaalisuus on siinä mielessä ylimääräinen lisäominaisuus.
+* Teleologinen argumentti ei suunnitteluteorian tapaan jaottele syitä säännönmukaisiin, (ohjaamattoman) satunnaisiin ja älyllisiin. Kosmogonia on siinä mielessä perustava kysymys, että siihen annettava vastaus antaa lähtökohdan myös jatkotutkimusmetodologian rakentamiselle: jos [teismi](../glossary/sanasto.md#teismi) on oikea käsitys maailmasta, säännönmukaisuudet tai satunnaisuudet eivät voi olla perimmäisiä selityksiä, vaan niidenkin takana on persoonallisen Jumalan vaikutus. Suunnitteluteoreettinen tutkimusote taas on eräänlainen metodologisen naturalismin aito laajennos, niin että suunnitteluteoreettisessa metodissa tarkoituksellisuus eli aito suunnittelu määritellään säännönmukaisuuden ja satunnaisuuden vaihtoehdoksi, ei niiden taaksekin (mahdollisesti) kätkeytyväksi Jumalasta riippuvan luomakunnan perimmäiseksi luonteeksi.
+* Teleologinen argumentti on luonteeltaan nimenomaan teologisen apologetiikan alaan kuuluva perustelu, suunnitteluteoria taas luonnontieteiden alaan kuuluva vaihtoehtoinen lähestymistapa.
 Näistä eroavuuksista huolimatta on kyllä aivan aiheellista todeta, että suunnitteluteoria voi antaa teleologiselle argumentille tuoretta ajankohtaisuutta ja lisää painoarvoa ja että tämä on yksi syy kiinnittää siihen apologeettista huomiota. Tällöin "työnjako" menee lähinnä niin, että suunnitteluteoria voi palvella teleologisen argumentin "alihankkijana" osoittamalla, ettei [metodologisesta naturalismista](../glossary/sanasto.md#metodologinen-naturalismi) rehellisesti asioita tutkisteltaessa ole teleologisen argumentin mitätöijäksi; [naturalistinen](../glossary/sanasto.md#naturalismi) toiveajattelu ja siihen perustuva tutkimus ja opetus eivät siis onnistu tekemään tyhjäksi luomakunnassa havaittavan teleologian todellisuutta, vaan tämä päinvastoin murtaa naturalistisen katsomustavan uskottavuuden – ja kenties juuri suunnitteluteoria voi parhaiten avata silmät havaitsemaan tämän.
 
 #### Suunnitteluteorian apologeettinen arvo suhteessa ei-kristittyihin
@@ -265,9 +265,9 @@ Suunnitteluteoria voi olla hyödyllinen myös kristityn oman uskon kannalta. Kri
 * [A Positive, Testable Case for Intelligent Design](https://www.evolutionnews.org/2011/03/a_closer_look_at_one_scientist/) (Evolution News & Views)
 
 #### Kirjallisuus
-*[The Design of Life](http://www.thedesignoflife.net/)
-*[The Privileged Planet](the-privileged-planet-kirja.md)
-*[Älykkään Suunnitelman idea: Silta luonnontieteen ja teologian välillä](../pages/älykkään-suunnitelman-idea-kirja.md).
+* [The Design of Life](http://www.thedesignoflife.net/)
+* [The Privileged Planet](the-privileged-planet-kirja.md)
+* [Älykkään Suunnitelman idea: Silta luonnontieteen ja teologian välillä](../pages/älykkään-suunnitelman-idea-kirja.md).
 
 ### Viitteet
 

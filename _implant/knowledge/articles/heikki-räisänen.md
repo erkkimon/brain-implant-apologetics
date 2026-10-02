@@ -4,7 +4,7 @@ about: apologetics
 title: "Heikki Räisänen"
 description: "Heikki Martti Räisänen (s. 10. joulukuuta 1941 Helsinki – 30."
 tags: [apowiki, henkilöt, eksegetiikka]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Heikki Räisänen".
@@ -66,7 +66,7 @@ Popperin mukaan on tärkeä pystyä tiedostamaan, että pyrkimys hylätä kaikki
 
 Esimerkkinä valehtelijan paradoksista on väite (A):
 
-*(A) Väite (A) ei ole tosi.
+* (A) Väite (A) ei ole tosi.
 
 Näyttäisi siltä, että väite (A) ei voi olla tosi, koska se voi olla tosi ainoastaan, jos se pitää paikkansa, toisin sanoen, jos se on epätosi. Niinpä väite (A) ei ole tosi. Mutta koska tämä on tarkalleen mitä siinä väitetään, se näyttäisi olevan tosi.
 
@@ -246,41 +246,41 @@ Tällä uudella uskonnolla on ollut moniin voimakkaasti innoittava vaikutus. He 
 
 ### Teoksia
 
-*Räisänen, Heikki: Die Mutter Jesu im Neuen Testament. (väitösk.). Helsinki: Suomalainen tiedeakatemia, 1969.
-*Räisänen, Heikki: Das koranische Jesusbild: Ein Beitrag zur Theologie des Korans. Helsinki : Missiologian ja ekumeniikan seura, 1971.
-*Uusi testamentti nykysuomeksi. Käännöstyö: Heikki Räisänen, Raimo Huikuri ja Esko Rintala. Helsinki: Suomen kirkon sisälähetysseura, 1972. ISBN 951-600-215-3.
-*Räisänen, Heikki: Die Parabeltheorie im Markusevangelium. Helsinki: Suomen eksegeettinen seura, 1973. ISBN 951-95184-0-1.
-*Räisänen, Heikki & Saarinen, Esko: Raamattutieto. Helsingissä: Otava, 1978 (6. painos 1997). ISBN 951-1-04445-1.
-*Räisänen, Heikki & Vanne, Antti (toim.): Kolme evankelistaa: Matteus – Markus – Luukas. Helsinki: Gaudeamus, 1978 (2. painos 1986). ISBN 951-662-217-8.
-*Räisänen, Heikki: Paul and the Law. Tübingen: Mohr, 1983 (2. p. 1987). ISBN 3-16-144629-1.
-*Räisänen, Heikki: Koraani ja Raamattu. Helsinki: Gaudeamus, 1986. ISBN 951-662-398-0.
-*Räisänen, Heikki: The Torah and Christ: Essays in German and English on the Problem of the Law in Early Christianity. Helsinki: Suomen eksegeettinen seura, 1986. ISBN 951-9217-00-2.
-*Räisänen, Heikki: Tuhat ja yksi tulkintaa: Luova näkökulma Raamattuun. Helsinki: Yliopistopaino, 1989. ISBN 951-570-024-8.
-*Räisänen, Heikki: Beyond New Testament Theology: A Story and a Programme. London: SCM Press, 1990 (2. p. 2000). ISBN 0-334-01907-9.
-*Räisänen, Heikki: Jesus, Paul and Torah: Collected Essays. Sheffield: JSOT Press, 1992. ISBN 1-85075-237-0.
-*Räisänen, Heikki & Hakola, Raimo (toim.): Viisi evankeliumia rinnakkaisteksteinä: Matteus – Markus – Luukas – Johannes – Tuomas (– Pietari). Helsinki: Yliopistopaino, 1993. ISBN 951-570-176-7.
-*Räisänen, Heikki: Uuteen uskoon: Kristinuskon itsekritiikistä uskontojen vuoropuheluun. Helsinki: Kirjapaja, 1993. ISBN 951-625-175-7.
-*Räisänen, Heikki: Marcion, Muhammad and the Mahatma: Exegetical Perspectives on the Encounter of Cultures and Faiths. London: SCM Press, 1997. ISBN 0-334-02693-8.
-*Räisänen, Heikki &al.: Reading the Bible in the global village. Atlanta, GA: Society of Biblical Literature, 2000. ISBN 0-88414-019-9.
-*Räisänen, Heikki: Neutestamentliche Theologie? Eine religionswissenschaftliche Alternative. Stuttgart: Verlag Katholisches Bibelwerk, 2000. ISBN 3-460-04861-1.
-*Räisänen, Heikki: Challenges to Biblical Interpretation: Collected Essays 1991-2001. Leiden: Brill, 2001. ISBN 90-04-12052-1.
-*Räisänen, Heikki: Rosoinen Raamattu. Helsinki: WSOY, 2006. ISBN 951-0-30872-2.
-*Räisänen, Heikki: The Rise of Christian Beliefs: The Thought World of Early Christians. Fortress Press, 2009. ISBN 978-0800662660.
-*Räisänen, Heikki, *Mitä varhaiset kristityt uskoivat*, WSOY, 2011, ISBN 978-951-0-36896-1
+* Räisänen, Heikki: Die Mutter Jesu im Neuen Testament. (väitösk.). Helsinki: Suomalainen tiedeakatemia, 1969.
+* Räisänen, Heikki: Das koranische Jesusbild: Ein Beitrag zur Theologie des Korans. Helsinki : Missiologian ja ekumeniikan seura, 1971.
+* Uusi testamentti nykysuomeksi. Käännöstyö: Heikki Räisänen, Raimo Huikuri ja Esko Rintala. Helsinki: Suomen kirkon sisälähetysseura, 1972. ISBN 951-600-215-3.
+* Räisänen, Heikki: Die Parabeltheorie im Markusevangelium. Helsinki: Suomen eksegeettinen seura, 1973. ISBN 951-95184-0-1.
+* Räisänen, Heikki & Saarinen, Esko: Raamattutieto. Helsingissä: Otava, 1978 (6. painos 1997). ISBN 951-1-04445-1.
+* Räisänen, Heikki & Vanne, Antti (toim.): Kolme evankelistaa: Matteus – Markus – Luukas. Helsinki: Gaudeamus, 1978 (2. painos 1986). ISBN 951-662-217-8.
+* Räisänen, Heikki: Paul and the Law. Tübingen: Mohr, 1983 (2. p. 1987). ISBN 3-16-144629-1.
+* Räisänen, Heikki: Koraani ja Raamattu. Helsinki: Gaudeamus, 1986. ISBN 951-662-398-0.
+* Räisänen, Heikki: The Torah and Christ: Essays in German and English on the Problem of the Law in Early Christianity. Helsinki: Suomen eksegeettinen seura, 1986. ISBN 951-9217-00-2.
+* Räisänen, Heikki: Tuhat ja yksi tulkintaa: Luova näkökulma Raamattuun. Helsinki: Yliopistopaino, 1989. ISBN 951-570-024-8.
+* Räisänen, Heikki: Beyond New Testament Theology: A Story and a Programme. London: SCM Press, 1990 (2. p. 2000). ISBN 0-334-01907-9.
+* Räisänen, Heikki: Jesus, Paul and Torah: Collected Essays. Sheffield: JSOT Press, 1992. ISBN 1-85075-237-0.
+* Räisänen, Heikki & Hakola, Raimo (toim.): Viisi evankeliumia rinnakkaisteksteinä: Matteus – Markus – Luukas – Johannes – Tuomas (– Pietari). Helsinki: Yliopistopaino, 1993. ISBN 951-570-176-7.
+* Räisänen, Heikki: Uuteen uskoon: Kristinuskon itsekritiikistä uskontojen vuoropuheluun. Helsinki: Kirjapaja, 1993. ISBN 951-625-175-7.
+* Räisänen, Heikki: Marcion, Muhammad and the Mahatma: Exegetical Perspectives on the Encounter of Cultures and Faiths. London: SCM Press, 1997. ISBN 0-334-02693-8.
+* Räisänen, Heikki &al.: Reading the Bible in the global village. Atlanta, GA: Society of Biblical Literature, 2000. ISBN 0-88414-019-9.
+* Räisänen, Heikki: Neutestamentliche Theologie? Eine religionswissenschaftliche Alternative. Stuttgart: Verlag Katholisches Bibelwerk, 2000. ISBN 3-460-04861-1.
+* Räisänen, Heikki: Challenges to Biblical Interpretation: Collected Essays 1991-2001. Leiden: Brill, 2001. ISBN 90-04-12052-1.
+* Räisänen, Heikki: Rosoinen Raamattu. Helsinki: WSOY, 2006. ISBN 951-0-30872-2.
+* Räisänen, Heikki: The Rise of Christian Beliefs: The Thought World of Early Christians. Fortress Press, 2009. ISBN 978-0800662660.
+* Räisänen, Heikki, *Mitä varhaiset kristityt uskoivat*, WSOY, 2011, ISBN 978-951-0-36896-1
 
 ### Kriittisiä arvioita
 
-*Juntunen, Sammeli: Kirkon raamattuteologiasta ja sen puutteesta. Helsinki: Kirjapaja, 2010.
-*[Puolimatka, Tapio](tapio-puolimatka.md): [Usko, tiede ja Raamattu](usko-tiede-ja-raamattu-kirja.md). Helsinki: Uusi Tie, 2007.
+* Juntunen, Sammeli: Kirkon raamattuteologiasta ja sen puutteesta. Helsinki: Kirjapaja, 2010.
+* [Puolimatka, Tapio](tapio-puolimatka.md): [Usko, tiede ja Raamattu](usko-tiede-ja-raamattu-kirja.md). Helsinki: Uusi Tie, 2007.
 
 ### Lähteet
-*Penner, Todd & Stichele, Caroline Vander (toim.), *Moving Beyond New Testament Theology. Essays in Corversation with Heikki Räisänen*, Helsinki: Finnish Exegetical Society, 2005
-*Räisänen, Heikki, *Miten ymmärrän raamattua oikein*, Kansialanimeke: Historiallisen ja epähistoriallisen raamatunselityksen vertailua, Helsinki: Kirjapaja, 1981, ISBN 951-621-292-1
-*Räisänen, Heikki, *Raamattunäkemystä etsimässä*, Helsinki: Gaudeamus, 1984, ISBN 951-662-356-5
-*Räisänen, Heikki, *Raamattukeskustelu hakoteillä*, Teologinen Aikakauskirja 1986, 1986
-*Räisänen, Heikki, *John Hick: A John Hick Reader*, Teologinen Aikakauskirja 1991, 1991
+* Penner, Todd & Stichele, Caroline Vander (toim.), *Moving Beyond New Testament Theology. Essays in Corversation with Heikki Räisänen*, Helsinki: Finnish Exegetical Society, 2005
+* Räisänen, Heikki, *Miten ymmärrän raamattua oikein*, Kansialanimeke: Historiallisen ja epähistoriallisen raamatunselityksen vertailua, Helsinki: Kirjapaja, 1981, ISBN 951-621-292-1
+* Räisänen, Heikki, *Raamattunäkemystä etsimässä*, Helsinki: Gaudeamus, 1984, ISBN 951-662-356-5
+* Räisänen, Heikki, *Raamattukeskustelu hakoteillä*, Teologinen Aikakauskirja 1986, 1986
+* Räisänen, Heikki, *John Hick: A John Hick Reader*, Teologinen Aikakauskirja 1991, 1991
 * Räisänen, Heikki: *Jeesus-tutkimuksen kaksi vuosisataa*, teoksessa Uro, Risto; Lehtipuu, Outi (toim.), *Nasaretilaisen historia*, Helsinki: Kirjapaja, 1997, s. 10, 951-625-457-8
-*Räisänen, Heikki, *Beyond New Testament Theology*, 2nd edition, London: SCM Press, 2000
+* Räisänen, Heikki, *Beyond New Testament Theology*, 2nd edition, London: SCM Press, 2000
 
 ### Viitteet
 

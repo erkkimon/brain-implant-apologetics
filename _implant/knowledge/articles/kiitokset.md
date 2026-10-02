@@ -4,7 +4,7 @@ about: apologetics
 title: "Kiitokset"
 description: "ApologetiikkaWikiä ei olisi ilman muokkaajia, jotka ovat vapaaehtoisesti tuottaneet sisältöä."
 tags: [apowiki, yleistä-tietoa]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kiitokset".
@@ -26,7 +26,7 @@ ApologetiikkaWikiä ei olisi ilman muokkaajia, jotka ovat vapaaehtoisesti tuotta
 * **Pauli Ojala**, joka antoi [esseensä](https://biokemia.fi/) vapaasti ApologetiikkaWikin käyttöön.
 * **Mauno Peltonen**, joka antoi luvan käyttää <!--http://www.netikka.net/mpeltonen/index.html--> kirjoituksiaan ApologetiikkaWikin artikkeleissa.
 * **Daniel Nylund**, joka antoi luvan käyttää *<!--http://www.netikka.net/mpeltonen/siirretyt/tekstit/daniel/kirja.html--> [Ajankohtaisen kolmosen](ajankohtainen-3-lehti.md)* sisältöä vapaasti ApologetiikkaWikissä, kunhan lähde mainitaan.
-***Tieteellinen kreationismi ry**, joka antoi luvan käyttää yhdistyksen omia [kirjoituksia](http://www.kreationismi.fi/) ApologetiikkaWikin artikkeleissa.
-***Intelligentdesign.fi** -sivustolle, joka on antanut luvan käyttää kaikkia sivuston itse tuottamia tekstejä vapaasti ApologetiikkaWikissä.
-***Kimmo Pälikkö**, joka teki ApologetiikkaWikille julisteen.
-***Pekka Reinikainen**, joka on avustanut ApologetiikkaWikin virtuaalipalvelinkustannusten maksussa useina vuosina
+* **Tieteellinen kreationismi ry**, joka antoi luvan käyttää yhdistyksen omia [kirjoituksia](http://www.kreationismi.fi/) ApologetiikkaWikin artikkeleissa.
+* **Intelligentdesign.fi** -sivustolle, joka on antanut luvan käyttää kaikkia sivuston itse tuottamia tekstejä vapaasti ApologetiikkaWikissä.
+* **Kimmo Pälikkö**, joka teki ApologetiikkaWikille julisteen.
+* **Pekka Reinikainen**, joka on avustanut ApologetiikkaWikin virtuaalipalvelinkustannusten maksussa useina vuosina

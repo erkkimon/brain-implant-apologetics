@@ -4,7 +4,7 @@ about: apologetics
 title: "Auguste Comte"
 description: "Auguste Comte (17. tammikuuta, kirjattu syntymäaika 19. tammikuuta 1798 – 5."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Auguste Comte".
@@ -110,9 +110,9 @@ Tämän objektiivisuuden illuusion varaan rakentuu peittelyn kulttuuri, jonka se
 Tarinaan uskon ja tiedon vastakkainasettelusta ja tieteen ja uskon välisestä rajaviivasta vedotaan edelleen julkisessa tiedekeskustelussa siitä huolimatta, että tieteenfilosofiassa yleisesti myönnetään, ettei yhtään rajanvetokriteeriä ole onnistuttu täsmentämään niin, että se sisällyttäisi tieteen piiriin kaiken sen, mitä kiistattomasti pidetään tieteen piiriin kuuluvana ja sulkisi ulos kaiken sen, mikä kiistattomasti ei kuulu tieteen piiriin.
 
 ### Lähteet
-*Cohen, H. Floris, *The Scientific Revolution: a Historiographical Inquiry*, Chicago, Ill.: The University of Chicago Press, 1994
-*Ellul, Jacques, *The New Demons*, Trans. C. Edward Hopkin, London: Mowbrays, 1975
-*Whewell, William, *The Philosophy of the Inductive Sciences, Founded upon Theri History. 2<sup>nd</sup> ed. 2 vols.*, London: Parker, 1847
+* Cohen, H. Floris, *The Scientific Revolution: a Historiographical Inquiry*, Chicago, Ill.: The University of Chicago Press, 1994
+* Ellul, Jacques, *The New Demons*, Trans. C. Edward Hopkin, London: Mowbrays, 1975
+* Whewell, William, *The Philosophy of the Inductive Sciences, Founded upon Theri History. 2<sup>nd</sup> ed. 2 vols.*, London: Parker, 1847
 
 ### Viitteet
 

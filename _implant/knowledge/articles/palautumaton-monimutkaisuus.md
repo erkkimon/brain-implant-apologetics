@@ -4,7 +4,7 @@ about: apologetics
 title: "Palautumaton monimutkaisuus"
 description: "Michael Behe määrittelee palautumattoman monimutkaisuuden (engl."
 tags: [apowiki, redusoimattomat-järjestelmät]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Palautumaton monimutkaisuus".
@@ -46,7 +46,7 @@ Kun näemme malmikaivoksessa toimivan sähkömoottorin, jossa on monta toisiinsa
 ### Osien uusiokäyttö
 **K. Miller** on esittänyt rakenteille mahdollisen darvinistisen syntyprosessin: Luonnonvalinta ja sattuma käyttävät muiden molekyylikoneiden osia.
 Tähän *Explore Evolution* -kirja vastaa seuraavilla argumenteilla:
-*Millerin uusiokäyttö-argumentti aliarvioi muutosten koordinoimisen ongelmaa. Miten uusi rakenne käyttää vanhoja rakenteita haittaamatta vanhojen rakenteiden toimintaa?
+* Millerin uusiokäyttö-argumentti aliarvioi muutosten koordinoimisen ongelmaa. Miten uusi rakenne käyttää vanhoja rakenteita haittaamatta vanhojen rakenteiden toimintaa?
 * Mikä luonnollinen prosessi vastaa siitä, että aiemmin toisistaan riippumattomat osat sopivat toisiinsa ongelmitta?
 * Bakteerimoottorin tapauksessa voidaan osoittaa, että bakteerimoottorin proteiinit ovat varhaisempia kuin tyypin III erityssysteemin (TTSS, *type three secretory system*), joten mikäli rakenteet ovat kehittyneet toisistaan, moottori on rappeutunut solutuotteita solukalvon ulkopuolelle erittäväksi pumpuksi.
 * Lisäksi bakteerimoottori on 30 osan systeemi, TTSS:ssä on näistä 10. Mistä saadaan osista loput – eli suurin osa?

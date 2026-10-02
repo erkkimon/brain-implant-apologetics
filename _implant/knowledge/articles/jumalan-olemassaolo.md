@@ -4,7 +4,7 @@ about: apologetics
 title: "Jumalan olemassaolo"
 description: "Jumalan olemassaoloa ei voida koskaan todistaa aukottomasti. Tämän tekstinkään olemassaoloa ei voida todistaa aukottomasti."
 tags: [apowiki, jumala, argumentit]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jumalan olemassaolo".
@@ -30,12 +30,12 @@ Jumalan olemassaolon puolesta esitettyjä [argumentteja](https://fi.wikipedia.or
 
 Merkittävimmät jumalatodistukset ovat
 
-*[ontologinen argumentti](ontologinen-argumentti.md)
-*[kosmologinen argumentti](kosmologinen-argumentti.md)
-*[teleologinen argumentti](teleologinen-argumentti.md)
-*historiallinen argumentti <!-- red link: historiallinen argumentti -->
-*[moraalinen argumentti](moraalinen-argumentti.md)
-*[argumentti tietoisuudesta](argumentti-tietoisuudesta.md)
+* [ontologinen argumentti](ontologinen-argumentti.md)
+* [kosmologinen argumentti](kosmologinen-argumentti.md)
+* [teleologinen argumentti](teleologinen-argumentti.md)
+* historiallinen argumentti <!-- red link: historiallinen argumentti -->
+* [moraalinen argumentti](moraalinen-argumentti.md)
+* [argumentti tietoisuudesta](argumentti-tietoisuudesta.md)
 
 ### Argumentteja Jumalan olemassaoloa vastaan
 
@@ -46,7 +46,7 @@ Merkittävimmät jumalatodistukset ovat
 ### Katso myös
 #### ApologetiikkaWiki
 
-*[Kristinuskon perustelut](kristinuskon-perustelut.md)
+* [Kristinuskon perustelut](kristinuskon-perustelut.md)
 
 #### Internet
 <!--* [Onko Jumala olemassa?](http://www.vantaanlauri.fi/arkisto/2011/2011-08-11/teemat/onko-jumala-olemassa) Aku Visalan haastattelu (Vantaan Lauri)-->

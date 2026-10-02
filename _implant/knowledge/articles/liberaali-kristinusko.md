@@ -4,7 +4,7 @@ about: apologetics
 title: "Liberaali kristinusko"
 description: "Liberaali kristinusko on kulttuuri-ilmiö, jolle on tyypillistä yhtäältä kristillisten, toisaalta vallitsevasta nykylänsimaisesta (tieteellisenä markkinoidusta) naturalistisesta todellisuuskäsityksestä peräisin olevien elementtien…"
 tags: [apowiki, aatteet, raamattukäsitykset]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Liberaali kristinusko".
@@ -75,8 +75,8 @@ Kristinusko on alusta asti edustanut tiettyä selvärajaista todellisuuskäsitys
 Klassisen kristillisen apologetiikan näkökulmasta pätee siis: *Liberaaliteologia[^19] ei ole kristinuskoa vaan päinvastoin aidosta, autuuttavasta kristinuskosta luopumista ja sen korvaamista kadottavalla harhalla, jonka paljastaminen ja josta varoittaminen on vallitsevassa tilanteessa välttämätön osa aidon kristinuskon ymmärrettävää puolustamista.*
 
 ### Linkit
-*[Café Raamattu: Liberaalikristillisyys ei tuo herätystä](https://youtu.be/jOx86onGK0I)
-*[Café Raamattu: Liberaalisen teologian ja kristinuskon ero](https://youtu.be/AJ5KsbGgKgY)
+* [Café Raamattu: Liberaalikristillisyys ei tuo herätystä](https://youtu.be/jOx86onGK0I)
+* [Café Raamattu: Liberaalisen teologian ja kristinuskon ero](https://youtu.be/AJ5KsbGgKgY)
 
 ### Viitteet
 

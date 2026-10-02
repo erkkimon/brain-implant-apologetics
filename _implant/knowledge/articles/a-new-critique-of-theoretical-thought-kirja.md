@@ -4,7 +4,7 @@ about: apologetics
 title: "A New Critique of Theoretical Thought (kirja)"
 description: "Hollantilainen Herman Dooyeweerd (1894 - 1977) oli yksi viime vuosisadan omaperäisimmistä filosofeista."
 tags: [apowiki, kirjat, filosofia]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "A New Critique of Theoretical Thought (kirja)".
@@ -438,8 +438,8 @@ Irrationalismissa luonnon lainalaisuudet ymmärretään vain teknisiksi symbolei
 Tieteellisen käsitteenmuodostuksen rakenteen analyysi osoittaa, että tieteellinen käsitteenmuodostus nojaa aina olettamuksiin, jotka ylittävät tieteellisen tiedon rajat. Tieteellisiä käsitteitä ei ole mahdollista muodostaa tekemättä oletusta siitä, mihin todellisuuden eri osa-alueiden välinen yhteys perustuu. Tätä oletusta ihminen ei voi tehdä irrallaan itsetuntemuksesta, koska hänen ainoa välitön kosketuspintansa todellisuuden yhteyteen on hänen oma kokemuksensa todellisuuden yhteydestä. Itsetuntemus puolestaan edellyttää tietoa ihmisen alkuperästä. Koska tieto ihmisen alkuperästä on edellytys sille, että tieteelliset käsitteet voidaan muodostaa itsekriittisellä tavalla, tiede nojaa perimmältään johonkin evidenssiin, jota ei ole enää mahdollista perustella tieteellisesti, vaikkakin sitä voidaan tieteellisen tutkimuksen avulla epäsuorasti testata. Tieteen pohjana oleva usko voi olla perusteltu, jos se nojaa sellaiseen evidenssiin, joka antaa luotettavan tiedon ihmisen alkuperästä.
 
 ### Lähteet
-*Dooyeweerd, Herman, *A New Critique of Theoretical Thought I*, Philadelphia: Presbyterian and Reformed Publishing Co, 1953
-*Dooyeweerd, Herman, *A New Critique of Theoretical Thought II*, Philadelphia: Presbyterian and Reformed Publishing Co, 1955
+* Dooyeweerd, Herman, *A New Critique of Theoretical Thought I*, Philadelphia: Presbyterian and Reformed Publishing Co, 1953
+* Dooyeweerd, Herman, *A New Critique of Theoretical Thought II*, Philadelphia: Presbyterian and Reformed Publishing Co, 1955
 
 ### Viitteet
 

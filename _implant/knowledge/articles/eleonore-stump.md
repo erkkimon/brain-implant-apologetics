@@ -4,7 +4,7 @@ about: apologetics
 title: "Eleonore Stump"
 description: "Eleonore Stump (s. 1947) toimii filosofian professorina St. Louisin yliopistossa."
 tags: [apowiki, henkilöt, filosofia, tyngät]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Eleonore Stump".
@@ -26,23 +26,23 @@ Stump on pohtinut kärsimyksen ongelmaa perusteellisesti yli 600-sivuisessa kirj
 
 ### Teokset
 
-*Wandering in Darkness: Narrative and the Problem of Suffering. Oxford: Oxford University Press, 2010).
-*Oxford Handbook on Thomas Aquinas, co-edited with Brian Davies, (Oxford: Oxford University Press, 2010).
-*Boethius's De topicis differentiis (Ithaca: Cornell University Press, 1978), Second printing, 1989.
-*Cambridge History of Later Medieval Philosophy, associate editor with editors N. Kretzmann, A. Kenny, and J. Pinborg (Cambridge: Cambridge University Press, 1982).
-*Hamartia:  The Concept of Error in the Western Tradition:  Essays in Honor of John Crosset, (with others), (Edwin Mellen Press, 1983).
-*Simon of Faversham's Quaestiones super librum elenchorum, (with others), (Pontifical Institute Press, 1984).
-*Boethius's In Ciceronis Topica, (Ithaca: Cornell University Press, 1988).
-*The Cambridge Translations of Medieval Philosophical Texts,  vol. 1 (with Norman Kretzmann) (Cambridge: Cambridge University Press, 1988).
-*Dialectic and Its Place in the Development of Medieval Logic, (collected essays), (Ithaca: Cornell University Press, 1989).
-*Hermes and Athena:  Biblical Exegesis and Philosophical Theology, co-editor with Thomas Flint (South Bend: University of Notre Dame Press, 1993).
-*The Cambridge Companion to Aquinas, co-editor with Norman Kretzmann (Cambridge: Cambridge University Press, 1993).
-*Reasoned Faith, editor (Ithaca: Cornell University Press, 1993).
-*Philosophy of Religion:  The Big Questions, co-editor with Michael Murray (Blackwell, 1999 (appeared in 1998)).
-*Aquinas's Moral Theory: Essays in Honor of Norman Kretzmann, co-editor with Scott MacDonald (Ithaca: Cornell University Press, 1999).
-*The Cambridge Companion to Augustine, co-editor with Norman Kretzmann (Cambridge: Cambridge University Press, 2001).  Second printing, 2002.
+* Wandering in Darkness: Narrative and the Problem of Suffering. Oxford: Oxford University Press, 2010).
+* Oxford Handbook on Thomas Aquinas, co-edited with Brian Davies, (Oxford: Oxford University Press, 2010).
+* Boethius's De topicis differentiis (Ithaca: Cornell University Press, 1978), Second printing, 1989.
+* Cambridge History of Later Medieval Philosophy, associate editor with editors N. Kretzmann, A. Kenny, and J. Pinborg (Cambridge: Cambridge University Press, 1982).
+* Hamartia:  The Concept of Error in the Western Tradition:  Essays in Honor of John Crosset, (with others), (Edwin Mellen Press, 1983).
+* Simon of Faversham's Quaestiones super librum elenchorum, (with others), (Pontifical Institute Press, 1984).
+* Boethius's In Ciceronis Topica, (Ithaca: Cornell University Press, 1988).
+* The Cambridge Translations of Medieval Philosophical Texts,  vol. 1 (with Norman Kretzmann) (Cambridge: Cambridge University Press, 1988).
+* Dialectic and Its Place in the Development of Medieval Logic, (collected essays), (Ithaca: Cornell University Press, 1989).
+* Hermes and Athena:  Biblical Exegesis and Philosophical Theology, co-editor with Thomas Flint (South Bend: University of Notre Dame Press, 1993).
+* The Cambridge Companion to Aquinas, co-editor with Norman Kretzmann (Cambridge: Cambridge University Press, 1993).
+* Reasoned Faith, editor (Ithaca: Cornell University Press, 1993).
+* Philosophy of Religion:  The Big Questions, co-editor with Michael Murray (Blackwell, 1999 (appeared in 1998)).
+* Aquinas's Moral Theory: Essays in Honor of Norman Kretzmann, co-editor with Scott MacDonald (Ithaca: Cornell University Press, 1999).
+* The Cambridge Companion to Augustine, co-editor with Norman Kretzmann (Cambridge: Cambridge University Press, 2001).  Second printing, 2002.
 
 ### Aiheesta muualla:
 
-*[Eleonore Stumpin kotisivut](http://sites.google.com/site/stumpep/home)
-*[Eleonore Stumpin nettiartikkeleita](https://sites.google.com/site/stumpep/home/onlinepapers)
+* [Eleonore Stumpin kotisivut](http://sites.google.com/site/stumpep/home)
+* [Eleonore Stumpin nettiartikkeleita](https://sites.google.com/site/stumpep/home/onlinepapers)

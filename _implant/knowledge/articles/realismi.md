@@ -4,7 +4,7 @@ about: apologetics
 title: "Realismi"
 description: "Realismi-sanan perusmerkitys viittaa siihen, että huomion kohteena oleva olio, esine tai asia on todellinen, todella olemassa."
 tags: [apowiki, aatteet]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Realismi".
@@ -36,17 +36,17 @@ Realismi sisältää ainakin kolme väitettä:
 
 Realismia voidaan soveltaa eri alueille. Sanan perusmerkitys on ontologiassa, jossa se tarkoittaa käsitystä, että todellisuus on riippumaton ihmismielestä. Todellisuuden objektit (oliot ja esineet) ovat olemassa riippumatta siitä, ajatteleeko tai havaitseeko niitä kukaan. [Michael C. Rean](michael-c-rea.md) argumentin mukaan realistinen käsitys aineellisten esiueiden ja toisten tajuisten olentojen olemassaolosta edellyttää [supranaturalistista tutkimusohjelmaa](supranaturalistinen-tutkimusohjelma.md).
 
-*Tieteellisen realismin mukaan teoreettiset käsitteet kuten elektronit ja voimakentät viittaavat todella olemassa oleviin asioidentiloihin.
-*Terveen järjen realismin mukaan tavalliset esineet kuten tuolit, puut ja ihmiset ovat olemassa.
-*Psykologisen realismin mukaan mielentilat kuten kivut ja uskomukset ovat todellisia.
-*Arvorealismin mukaan arvot ovat osa todellisuutta.
-*Moraalirealismin mukaan on olemassa moraalisia tosiasioita ja moraaliväitteet voivat olla tosia tai epätosia.
-*Teologisen tai teistisen realismin mukan Jumala ei ole pelkkä ihmismielen konstruktio, vaan todella olemassa oleva ääretön ja kaikkivaltias persoona, joka on luonut universumin ja pitää sitä yllä.
+* Tieteellisen realismin mukaan teoreettiset käsitteet kuten elektronit ja voimakentät viittaavat todella olemassa oleviin asioidentiloihin.
+* Terveen järjen realismin mukaan tavalliset esineet kuten tuolit, puut ja ihmiset ovat olemassa.
+* Psykologisen realismin mukaan mielentilat kuten kivut ja uskomukset ovat todellisia.
+* Arvorealismin mukaan arvot ovat osa todellisuutta.
+* Moraalirealismin mukaan on olemassa moraalisia tosiasioita ja moraaliväitteet voivat olla tosia tai epätosia.
+* Teologisen tai teistisen realismin mukan Jumala ei ole pelkkä ihmismielen konstruktio, vaan todella olemassa oleva ääretön ja kaikkivaltias persoona, joka on luonut universumin ja pitää sitä yllä.
 
 Realismin vastakohtana on joko idealismi tai [konstruktivismi](konstruktivismi.md). Idealismin mukaan todellisuus on mentaalista eli George Berkeleyn sanoin ilmaistuna "todellisuus on havaituksi tulemista". Konstruktivismin mukaan todellisuus riippuu ratkaisevasti ihmisen tavasta käsitteellistää tai konstruoida todellisuutta, todellisuuden kuvaamiseen käytetystä kielestä tai teoreettisesta skeemasta tai viitekehyksestä, jonka pohjalta todellisuutta ajatellaan.
 
 ### Katso myös:
-*[Konstruktivismi](konstruktivismi.md)
+* [Konstruktivismi](konstruktivismi.md)
 
 ### Viitteet
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Tutkimusohjelma"
 description: "Tutkimusohjelma rajaa sen, mitä pidetään pätevänä todistusaineistona ja mistä on mahdollista saada tietoa."
 tags: [apowiki, tieteenfilosofia]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tutkimusohjelma".
@@ -70,7 +70,7 @@ Tutkimusohjelmia ei aina valita tietoisesti, vaan monet tiedostamattomat tekijä
 * [Supranaturalistinen tutkimusohjelma](supranaturalistinen-tutkimusohjelma.md)
 
 ### Lähteet
-*[Rea, Michael C.](michael-c-rea.md), *World Without Design*, Clarendon Press, 2002, 0-19-924760-9
+* [Rea, Michael C.](michael-c-rea.md), *World Without Design*, Clarendon Press, 2002, 0-19-924760-9
 
 ### Viitteet
 

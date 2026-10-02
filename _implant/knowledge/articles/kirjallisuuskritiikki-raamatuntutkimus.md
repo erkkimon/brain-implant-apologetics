@@ -4,7 +4,7 @@ about: apologetics
 title: "Kirjallisuuskritiikki (raamatuntutkimus)"
 description: "Kirjallisuuskritiikki on yksi uudemmista raamatuntutkimuksen menetelmistä, joissa huomion keskipiste on siirretty pois Raamatun tekstien historiallisesta totuudesta."
 tags: [apowiki, raamattu, historia, eksegetiikka]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kirjallisuuskritiikki (raamatuntutkimus)".
@@ -24,10 +24,10 @@ Kirjallisuuskriittistä tutkimusta harrastavat eksegeetit kritisoivat usein hist
 
 Kirjallisuuskriittisessä tutkimuksessa tekstejä tarkastellaan puhtaasti kirjallisina tuotteina. Huomio kohdistetaan Raamatun kertomusten kirjalliseen yhtenäisyyteen, retorisiin tekijöihin, narratiiviseen rakenteeseen, syvärakenteisiin, kirjalliseen tyyliin, runouteen ja muihin kirjallisiin elementteihin:
 
-*Mikä on kirjoituksen juoni?
-*Miten henkilöhahmot kehitetään?
-*Millaisia kirjallisia tekniikoita kirjoittajat käyttävät?
-*Minkälainen vaikutus niillä on?
+* Mikä on kirjoituksen juoni?
+* Miten henkilöhahmot kehitetään?
+* Millaisia kirjallisia tekniikoita kirjoittajat käyttävät?
+* Minkälainen vaikutus niillä on?
 
 Kirjallisuustieteen tarjoamat tutkimusmenetelmät ovat moninaisia eivätkä ne välttämättä ole yhteismitallisia keskenään. Jotkut niistä pyrkivät selittämään tekstiä ja tekemään siitä ymmärrettävän lukijalle. Toisten pyrkimyksenä on tekstin esteettinen arviointi. Kolmannet ymmärtävät tehtäväkseen tekstin rakenteen ja toiminnan seikkaperäisen kuvailun. Kirjallisuustutkimus erottaa sen, mitä sanotaan, siitä, miten se sanotaan. Kirjallisuuskriittisessä tutkimuksessa voidaan esimerkiksi kiinnittää huomiota siihen, miten tekstissä sanotaan asioita ja pohtia tämän kirjoitustavan vaikutusta siihen, mitä sanotaan.[^3]
 

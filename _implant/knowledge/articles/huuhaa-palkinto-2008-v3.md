@@ -4,7 +4,7 @@ about: apologetics
 title: "Huuhaa-palkinto 2008"
 description: "Kuva: Vuoden 2008 Huuhaa-palkinto Skepsis ry antoi vuoden 2008 Huuhaa-palkintonsa Kustannus Oy Uudelle Tielle kasvatustieteen professori Tapio Puolimatkan Usko, tiede ja Raamattu sekä Usko, tiede ja evoluutio -kirjojen julkaisemisesta."
 tags: [apowiki, tapio-puolimatka, media, lukusuositukset]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Huuhaa-palkinto 2008".
@@ -191,14 +191,14 @@ Puolimatkan [vastine](tapio-puolimatka-käsitykset-testataan-moniäänisessä-di
 
  Internet ===
 * [Tapio Puolimatka: *Naturalismi ja sen kritiikki*](https://youtu.be/T1PyUDdPT-0) (video) - Skepsis ry: yleisötilaisuus Tieteiden talolla
-**[1. Kommenttipuheenvuoro luennosta](https://youtu.be/FzgmkXzETBs), Dosentti **Leo Näreaho** (video)
-**[2. Kommenttipuheenvuoro luennosta](https://youtu.be/USmabKMwHXg), FT **Kimmo Ketola** (video)
-**[3. Kommenttipuheenvuoro luennosta](https://youtu.be/C-qLHVf0hxg), Professori Mauri Åhlberg + Puolimatkan loppukommentti (video)
+  * [1. Kommenttipuheenvuoro luennosta](https://youtu.be/FzgmkXzETBs), Dosentti **Leo Näreaho** (video)
+  * [2. Kommenttipuheenvuoro luennosta](https://youtu.be/USmabKMwHXg), FT **Kimmo Ketola** (video)
+  * [3. Kommenttipuheenvuoro luennosta](https://youtu.be/C-qLHVf0hxg), Professori Mauri Åhlberg + Puolimatkan loppukommentti (video)
 * [Café Raamattu:](http://www.tv7.fi/vod/player/7617/) Puolimatka vastaa Skepsis ry:n kritiikkiin
 <!--*Savonlinnan Suuri uskontokeskutelu II 2009: Evoluutio ja Luominen
-**[osa 1](http://www.ita-savo.fi/Video/uskontokeskustelu1.wmv) (video)
-**[osa 2](http://www.ita-savo.fi/Video/uskontokeskustelu2.wmv) (video)
-**[osa 3](http://www.ita-savo.fi/Video/uskontokeskustelu3.wmv) (video)-->
+  * [osa 1](http://www.ita-savo.fi/Video/uskontokeskustelu1.wmv) (video)
+  * [osa 2](http://www.ita-savo.fi/Video/uskontokeskustelu2.wmv) (video)
+  * [osa 3](http://www.ita-savo.fi/Video/uskontokeskustelu3.wmv) (video)-->
 * [Skepsiksen myöntämisperusteet vuoden 2008 Huuhaa-palkinnolle](http://www.skepsis.fi/HuuhaaPalkinnot)
 
 ### Viitteet

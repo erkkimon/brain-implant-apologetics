@@ -4,7 +4,7 @@ about: apologetics
 title: "Evoluutioteoria"
 description: "TerminologiastaEvoluutioteorialla tarkoitetaan ApologetiikkaWikissä oppia jonka mukaan \"kaikki eliöt polveutuvat yhteisestä esi-isästä ohjaamattomien mutaatioden ja luonnonvalinnan kautta.\" Tätä käsitystä kutsutaan myös synteettiseksi evoluutioteoriaksi tai uusdarvinismiksi."
 tags: [apowiki, evoluutioteoria, keskeneräiset-artikkelit]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Evoluutioteoria".
@@ -97,13 +97,13 @@ Biologiassa, kuten tieteessä yleensä, ei ole täysin varmaksi todistettuja asi
 
 #### Perinnöllisen muuntelun todisteet
 
-*Pääartikkeli: [Perinnöllisen muuntelun mekanismit](perinnöllisen-muuntelun-mekanismit.md)
+* Pääartikkeli: [Perinnöllisen muuntelun mekanismit](perinnöllisen-muuntelun-mekanismit.md)
 
 Rajallisesta muuntelusta todistavia asioita ovat muun muassa eliöiden perimään syntyvät mutaatiot, lajiutumishavainnot, hyödyllisten mutaatioiden yleistyminen tai katoaminen ja bakteeripopulaatioiden nopea vastustuskyvyn ilmaantuminen. Näitä ilmiöitä ei kuitenkaan käsitellä tässä artikkelissa, koska nämä havainnot kertovat vain muuntelusta eivätkä todista uusdarvinismin pääväittämää siitä miten eliöt ovat syntyneet.
 
 #### Polveutumisopin todisteet
 
-*Pääartikkeli: [Polveutumisoppi](polveutumisoppi.md)
+* Pääartikkeli: [Polveutumisoppi](polveutumisoppi.md)
 
 Polveutumisopin todisteena pidetään mm. eliöiden yhteinen DNA:lle perustuva koodausjärjestelmää, universaaliksi väitettyä geneettistä koodia, rakenteellisia ja geneettisiä homologioita, surkastuneita elimiä, fossiiliaineiston johdonmukaista geologista kerroksellisuutta ja sen rakenteellista kehitystä. Näitä todisteita on käsitelty omassa artikkelissaan.
 
@@ -146,9 +146,9 @@ Kaikkein olennaisin ominaisuus fossiiliaineistossa on kuitenkin sen hyppäyksell
 
 #### Usean osan systeemit
 
-*[http://www.intelligentdesign.fi/sivut/suppeat-artikkelit/redusoimaton-monimutkaisuus-ja-darwinismi/](http://www.intelligentdesign.fi/sivut/suppeat-artikkelit/redusoimaton-monimutkaisuus-ja-darwinismi/)
-*[http://www.intelligentdesign.fi/sivut/laajat-artikkelit/empiirista-nayttoa-suunnittelusta/](http://www.intelligentdesign.fi/sivut/laajat-artikkelit/empiirista-nayttoa-suunnittelusta/)
-*[http://www.intelligentdesign.fi/sivut/laajat-artikkelit/biokemian-haaste-evoluutioteorialle/](http://www.intelligentdesign.fi/sivut/laajat-artikkelit/biokemian-haaste-evoluutioteorialle/)
+* [http://www.intelligentdesign.fi/sivut/suppeat-artikkelit/redusoimaton-monimutkaisuus-ja-darwinismi/](http://www.intelligentdesign.fi/sivut/suppeat-artikkelit/redusoimaton-monimutkaisuus-ja-darwinismi/)
+* [http://www.intelligentdesign.fi/sivut/laajat-artikkelit/empiirista-nayttoa-suunnittelusta/](http://www.intelligentdesign.fi/sivut/laajat-artikkelit/empiirista-nayttoa-suunnittelusta/)
+* [http://www.intelligentdesign.fi/sivut/laajat-artikkelit/biokemian-haaste-evoluutioteorialle/](http://www.intelligentdesign.fi/sivut/laajat-artikkelit/biokemian-haaste-evoluutioteorialle/)
 
 #### Evoluutiomekanismin hitaus
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Evoluutioteorian vastaiset argumentit"
 description: "Skepsis-lehden verkkoversiossa ilmestyneen artikkelin mukaan ApoWiki-hankkeemme keskittyisi \"evoluution vastaisten argumenttien esittelyyn\"."
 tags: [apowiki, evoluutiokritiikki]
-timestamp: 2026-10-02T08:30:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Evoluutioteorian vastaiset argumentit".
@@ -317,8 +317,8 @@ Kun asiat nyt siis ovat, niin kuin ovat, niin paras tapa päästä totuudesta pe
 
 ### Katso myös
 
-*[Evoluutioteoria](evoluutioteoria.md)
-*[Suunnitteluteoria](suunnitteluteoria.md)
+* [Evoluutioteoria](evoluutioteoria.md)
+* [Suunnitteluteoria](suunnitteluteoria.md)
 
 ### Viitteet
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Homoseksuaalisuus"
 description: "Homoseksuaalisuus on seksuaalinen suuntautuminen, jossa yksilön emotionaaliset, eroottiset ja/tai seksuaaliset tunteet kohdistuvat ensisijaisesti omaan sukupuoleen."
 tags: [apowiki, seksuaalietiikka, lukusuositukset]
-timestamp: 2026-10-02T05:30:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Homoseksuaalisuus".
@@ -219,41 +219,41 @@ Yhdysvalloissa kuvatussa Tällaisia jotkut teistä olivat ennen (engl. *Such Wer
 
 #### Internet
 ##### Suomeksi
-*[Aito avioliitto ry:n sivusto](http://www.aitoavioliitto.fi/)
-*[Kansalaisaloite avioliiton säilyttämisestä aidosti tasa-arvoisena, miehen ja naisen välisenä liittona ja sukupuolineutraalin avioliittolain kumoamisesta. Sukupuolineutraali avioliitto riistää adoptiolapselta mahdollisuuden korvaavaan kokemukseen eri sukupuolta olevista vanhemmista, isästä ja äidistä. Lapsen oikeus olla isän ja äidin hoidettavana ei voi toteutua samaa sukupuolta olevien avioliitossa. Samaa sukupuolta olevien parien oikeudet on huomioitu riittävällä tavalla parisuhdelaissa.](https://www.kansalaisaloite.fi/fi/aloite/1175)
-*[Tapio Puolimatka: Asiantuntijalausunto eduskunnan lakivaliokunnalle asiassa Kansalaisaloite eduskunnalle avioliittolain, rekisteröidystä parisuhteesta annetun lain ja transseksuaalin sukupuolen vahvistamisesta annetun lain muuttamisesta.](http://www.tapiopuolimatka.net/asiantuntijalausunto)
-*[Pastori, teologian maisteri Ari Puonti puhuu homoseksuaalisuudesta ja kuinka Raamattu käsittelee aihetta.](http://www.tv7.fi/vod/player/7628/)
-*[Aslan ry:stä Ari Puonti kertoo seksuaalisesti rikkinäisille mahdollisuudesta eheytyä](http://www.tv7.fi/vod/player/7629/)
-*[Elävät Vedet ry: Artikkelit](http://elavatvedet.fi/artikkelit/)
+* [Aito avioliitto ry:n sivusto](http://www.aitoavioliitto.fi/)
+* [Kansalaisaloite avioliiton säilyttämisestä aidosti tasa-arvoisena, miehen ja naisen välisenä liittona ja sukupuolineutraalin avioliittolain kumoamisesta. Sukupuolineutraali avioliitto riistää adoptiolapselta mahdollisuuden korvaavaan kokemukseen eri sukupuolta olevista vanhemmista, isästä ja äidistä. Lapsen oikeus olla isän ja äidin hoidettavana ei voi toteutua samaa sukupuolta olevien avioliitossa. Samaa sukupuolta olevien parien oikeudet on huomioitu riittävällä tavalla parisuhdelaissa.](https://www.kansalaisaloite.fi/fi/aloite/1175)
+* [Tapio Puolimatka: Asiantuntijalausunto eduskunnan lakivaliokunnalle asiassa Kansalaisaloite eduskunnalle avioliittolain, rekisteröidystä parisuhteesta annetun lain ja transseksuaalin sukupuolen vahvistamisesta annetun lain muuttamisesta.](http://www.tapiopuolimatka.net/asiantuntijalausunto)
+* [Pastori, teologian maisteri Ari Puonti puhuu homoseksuaalisuudesta ja kuinka Raamattu käsittelee aihetta.](http://www.tv7.fi/vod/player/7628/)
+* [Aslan ry:stä Ari Puonti kertoo seksuaalisesti rikkinäisille mahdollisuudesta eheytyä](http://www.tv7.fi/vod/player/7629/)
+* [Elävät Vedet ry: Artikkelit](http://elavatvedet.fi/artikkelit/)
 
 ##### Englanniksi
-*[Apologetics.com: Same Sex Marriage: Challenges and Responses/](http://apologetics.com/blog/tbach/same-sex-marriage-challenges-and-responses/)
-*[Stand to Reason: Resources on Ethics](https://www.str.org/topic?id=4)
-*[Christianity Today: The Rebirth of Venus](http://www.christianitytoday.com/ct/2007/marchweb-only/112-52.0.html)
-*[WorldNetDaily: 'Gay'-rights leader quits homosexuality](http://www.wnd.com/2007/07/42379/)
-*[NARTH: National association for Research & Therapy of Homosexuals](http://www.narth.com/)
-*[Wikipedia: Biology and sexual orientation](http://en.wikipedia.org/wiki/Biology_and_sexual_orientation)
+* [Apologetics.com: Same Sex Marriage: Challenges and Responses/](http://apologetics.com/blog/tbach/same-sex-marriage-challenges-and-responses/)
+* [Stand to Reason: Resources on Ethics](https://www.str.org/topic?id=4)
+* [Christianity Today: The Rebirth of Venus](http://www.christianitytoday.com/ct/2007/marchweb-only/112-52.0.html)
+* [WorldNetDaily: 'Gay'-rights leader quits homosexuality](http://www.wnd.com/2007/07/42379/)
+* [NARTH: National association for Research & Therapy of Homosexuals](http://www.narth.com/)
+* [Wikipedia: Biology and sexual orientation](http://en.wikipedia.org/wiki/Biology_and_sexual_orientation)
 
 #### Kirjallisuutta
 ##### Suomeksi
-*Berger, Mario, *Rakkauden uusi suunta Kristuksen lunastava työ seksuaalisuuden alueella <!-- red link: Rakkauden uusi suunta -->*, Kristillinen Tervehtymiskeskus - [CHC ry](http://www.chcry.net/) Gummerus Kirjapaino Oy, 1994, ISBN 951-96927-2-x
-*Comiskey, Andrew, *Täyteen mieheyteen ja koko naiseksi*, Päivä, 1997
-*Comiskey, Andrew, *Voimaa heikkoudessa. Eheyteen rikkinäisistä ihmissuhteista*, Päivä, 2005
-*Payne, Leanne, *Parantava läsnäolo*, Päivä, 1998
-*Payne, Leanne, *Särkynyt minäkuva - seksuaalinen eheytyminen parantavan rukouksen avulla <!-- red link: Särkynyt minäkuva -->*, Kristillinen Tervehtymiskeskus - [CHC ry](http://www.chcry.net/) Gummerus Kirjapaino Oy, 1994, ISBN 951-96927-1-1
-*Werner, Roland, *Toisenlainen rakkaus. Kristitty ja homoseksuaalisuus*, Perussanoma, 1993
+* Berger, Mario, *Rakkauden uusi suunta Kristuksen lunastava työ seksuaalisuuden alueella <!-- red link: Rakkauden uusi suunta -->*, Kristillinen Tervehtymiskeskus - [CHC ry](http://www.chcry.net/) Gummerus Kirjapaino Oy, 1994, ISBN 951-96927-2-x
+* Comiskey, Andrew, *Täyteen mieheyteen ja koko naiseksi*, Päivä, 1997
+* Comiskey, Andrew, *Voimaa heikkoudessa. Eheyteen rikkinäisistä ihmissuhteista*, Päivä, 2005
+* Payne, Leanne, *Parantava läsnäolo*, Päivä, 1998
+* Payne, Leanne, *Särkynyt minäkuva - seksuaalinen eheytyminen parantavan rukouksen avulla <!-- red link: Särkynyt minäkuva -->*, Kristillinen Tervehtymiskeskus - [CHC ry](http://www.chcry.net/) Gummerus Kirjapaino Oy, 1994, ISBN 951-96927-1-1
+* Werner, Roland, *Toisenlainen rakkaus. Kristitty ja homoseksuaalisuus*, Perussanoma, 1993
 
 ##### Englanniksi
-*Pillard, Richard C.: "The Kinsey Scale: Is It Familial?" teoksessa David P. McWhirter, Stephanie A. Sanders ja June Machover Reinisch, *Homosexuality/Heterosexuality. Concepts of Sexual Orientation*, The Kinsey Institute Series, 2. vsk, Oxford University Press, 1990, s. 88-100, ISBN 978-0195052053
-*Ovesey, Lionel ja Woods, Sherwyn M.: "Pseudohomosexuality and Homosexuality in Men: Psychodynamics as a Guide to Treatment" teoksessa Marmor, Judd, *Homosexual Behavior*, Basic Books Inc., 1980, s. 325-341
-*Marmor, Judd: "Overview: The Multiple Roots of Homosexual Behavior" teoksessa Marmor, Judd, *Homosexual Behavior*, Basic Books Inc., 1980, s. 325-341
+* Pillard, Richard C.: "The Kinsey Scale: Is It Familial?" teoksessa David P. McWhirter, Stephanie A. Sanders ja June Machover Reinisch, *Homosexuality/Heterosexuality. Concepts of Sexual Orientation*, The Kinsey Institute Series, 2. vsk, Oxford University Press, 1990, s. 88-100, ISBN 978-0195052053
+* Ovesey, Lionel ja Woods, Sherwyn M.: "Pseudohomosexuality and Homosexuality in Men: Psychodynamics as a Guide to Treatment" teoksessa Marmor, Judd, *Homosexual Behavior*, Basic Books Inc., 1980, s. 325-341
+* Marmor, Judd: "Overview: The Multiple Roots of Homosexual Behavior" teoksessa Marmor, Judd, *Homosexual Behavior*, Basic Books Inc., 1980, s. 325-341
 
 ### Lähteet
-*Cohen, Richard, *Coming Out Straight. Understanding and Healing Homosexuality*, Winchester, VA. USA: Oakhill Press, 2000
-*Ari Puonti, *Homoseksuaalisuus - hämmennyksestä selkeyteen*, Uusi tie, 2004
-*Ari Puonti, *Suhteesta Siunaukseen – Homoseksuaalisuus, terapeuttinen sielunhoito ja Raamattu*, Uusi tie, 2010
-*Tapio Puolimatka, *[Lapsen ihmisoikeus: oikeus isään ja äitiin](lapsen-ihmisoikeus-oikeus-isään-ja-äitiin-kirja-v2.md)*, Uusi tie, 2015
-*Tapio Puolimatka, *[Yhteiskuntakoe lapsilla?](yhteiskuntakoe-lapsilla-kirja.md)*, Kuva ja Sana, 2016, ISBN 978-951-585-315-6
+* Cohen, Richard, *Coming Out Straight. Understanding and Healing Homosexuality*, Winchester, VA. USA: Oakhill Press, 2000
+* Ari Puonti, *Homoseksuaalisuus - hämmennyksestä selkeyteen*, Uusi tie, 2004
+* Ari Puonti, *Suhteesta Siunaukseen – Homoseksuaalisuus, terapeuttinen sielunhoito ja Raamattu*, Uusi tie, 2010
+* Tapio Puolimatka, *[Lapsen ihmisoikeus: oikeus isään ja äitiin](lapsen-ihmisoikeus-oikeus-isään-ja-äitiin-kirja-v2.md)*, Uusi tie, 2015
+* Tapio Puolimatka, *[Yhteiskuntakoe lapsilla?](yhteiskuntakoe-lapsilla-kirja.md)*, Kuva ja Sana, 2016, ISBN 978-951-585-315-6
 
 ### Viitteet
 

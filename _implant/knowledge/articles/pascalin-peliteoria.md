@@ -4,7 +4,7 @@ about: apologetics
 title: "Pascalin peliteoria"
 description: "Pascalin peliteoria (Pascalin vaaka, Pascalin vedonlyönti, Pascalin argumentti, peliteoreettinen argumentti, pelurin todistus) on yksi peruste uskoa Jumalaan."
 tags: [apowiki, maailmankatsomus, pascalin-veto, pascalin-vaaka, blaise-pascal, pascalin-gambiitti, pascalin-peliteoria, ateismi, teismi, järki, usko, tieto]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Pascalin peliteoria".
@@ -163,13 +163,13 @@ Tämän takia ihmisen, joka ei voi olla varma ateismin totuudellisuudesta, ei j�
 
 
 ### Aiheesta muualla
-*[Pascalin *Pensées* englanniksi](http://www.ccel.org/ccel/pascal/pensees.html). Pelurin todistus on osiossa #233.
-*[Internet Encyclopedia of Philosophy: Pascal's wager](http://www.iep.utm.edu/p/pasc-wag.htm)
-*[Stanford Encyclopedia of Philosophy: Pascal's wager](http://plato.stanford.edu/entries/pascal-wager/)
-*[The End of Pascal's Wager: Only Nontheists Go to Heaven (2002)](http://www.infidels.org/library/modern/richard_carrier/heaven.html)
-*[Arguments against Pascal's Wager](http://www.update.uu.se/~fbendz/nogod/pascal.htm)
-*[Pascal's Wager, ReligiousTolerance.org](http://www.religioustolerance.org/pascal_w.htm)
-*[The Atheist's Wager, Philosophy of Religion.info](http://www.philosophyofreligion.info/theistic-proofs/pascals-wager/the-atheists-wager/)
+* [Pascalin *Pensées* englanniksi](http://www.ccel.org/ccel/pascal/pensees.html). Pelurin todistus on osiossa #233.
+* [Internet Encyclopedia of Philosophy: Pascal's wager](http://www.iep.utm.edu/p/pasc-wag.htm)
+* [Stanford Encyclopedia of Philosophy: Pascal's wager](http://plato.stanford.edu/entries/pascal-wager/)
+* [The End of Pascal's Wager: Only Nontheists Go to Heaven (2002)](http://www.infidels.org/library/modern/richard_carrier/heaven.html)
+* [Arguments against Pascal's Wager](http://www.update.uu.se/~fbendz/nogod/pascal.htm)
+* [Pascal's Wager, ReligiousTolerance.org](http://www.religioustolerance.org/pascal_w.htm)
+* [The Atheist's Wager, Philosophy of Religion.info](http://www.philosophyofreligion.info/theistic-proofs/pascals-wager/the-atheists-wager/)
 
 [^1]: Vaikka onkin periaatteessa mahdollista välttää lausumasta asiasta mitään mielipidettä, on aivan eri asia elää elämäänsä ikään kuin Jumala olisi todellisesti olemassa kuin ikään kuin Jumalaa ei olisikaan. Käytännössä siis agnostikkokin "asettaa panoksensa" joko teismin tai ateismin puolelle.
 [^2]: Ihmisen osaksi tuleva "henkilökohtainen tulos" siis tämän argumentin mukaan kyllä voi riippuakin ihmisen uskosta, mutta *tuloksen ratkaiseva tekijä* (perimmäinen totuus olemassaolon luonteesta) on ihmisten kannanotoista riippumaton.

@@ -4,7 +4,7 @@ about: apologetics
 title: "Tapio Puolimatka: Käsitykset testataan moniäänisessä dialogissa"
 description: "Artikkeli on julkaistu Skeptikko –lehdessä 4/2008 vastineena Skepsiksen huuhaa-palkinnolle."
 tags: [apowiki, filosofia, alkuperähypoteesit, evoluutiokritiikki, tapio-puolimatka, tekijänoikeuden-alaiset-artikkelit]
-timestamp: 2026-10-02T09:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tapio Puolimatka: Käsitykset testataan moniäänisessä dialogissa".
@@ -60,9 +60,9 @@ Olen kirjassani *[Usko, tiede ja evoluutio](usko-tiede-ja-evoluutio-kirja.md)* a
 Kristillinen käsitys kolmiyhteisestä Jumalasta kolmen persoonan dialogisena suhteena tarjoaa perustan tieteellisen keskustelun avoimuudelle ja itsekriittisyydelle. Tieteellisen keskustelun kannalta on ongelmallista luopua argumenteista ja korvata ne tunteenomaisella leimaamisella, koska tällöin estetään välittömien perususkomusten testaaminen tieteellisessä keskustelussa.
 
 #### Kirjallisuus
-*Bahtin, M. (1991) *Dostojevskin poetiikan ongelmia*. Orient Express.
-*Coates, R. (1998) *Christianity in Bakhtin. God and the Exiled Author*. Cambridge University Press.
-*Sedley, D. (2007) *Creationism and Its Critics in Antiquity*. University of California Press.
-*Taylor, C, (2007) *A Secular Age*. Harvard University Press.
+* Bahtin, M. (1991) *Dostojevskin poetiikan ongelmia*. Orient Express.
+* Coates, R. (1998) *Christianity in Bakhtin. God and the Exiled Author*. Cambridge University Press.
+* Sedley, D. (2007) *Creationism and Its Critics in Antiquity*. University of California Press.
+* Taylor, C, (2007) *A Secular Age*. Harvard University Press.
 
 ---

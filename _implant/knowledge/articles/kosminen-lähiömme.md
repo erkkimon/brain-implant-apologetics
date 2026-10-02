@@ -4,7 +4,7 @@ about: apologetics
 title: "Kosminen lähiömme"
 description: "Maapallo on erittäin hyvä paikka asua universumissamme. Suurin osa planeetoista on elämälle kelpaamattomia."
 tags: [apowiki, kosmologia, suunnitteluteoria, hienosäätö, astrobiologia, kosminen, paikka, maapallo, linnunrata, kuu, aurinko, antrooppinen-periaate, kosminen-hienosäätö]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kosminen lähiömme".
@@ -62,9 +62,9 @@ Maapallo on erittäin hyvä paikka asua universumissamme. Suurin osa planeetoist
 1. Paikallinen galaksiryhmämme sijaitsee Virgo superjoukon laidalla. Jos se olisi keskemmällä, suuremmat galaksijoukot häiritsisivät paikallisryhmää tai nielaisisivat sen.
 
 ### Katso myös
-*[The Privileged Planet](the-privileged-planet-kirja.md) -kirja ja DVD
-*[Lista 150 monimutkaisemman elämän ympäristöltään tarvitsemasta asiasta](https://reasons.org/explore/publications/articles/fine-tuning-for-life-on-earth-updated-june-2004), Astrofyysikko H. Ross listaa yli viisisataa kirjansa [Why the universe is the way it is?](http://www.amazon.com/Why-Universe-Way-Hugh-Ross/dp/0801013046) erikseen tilattavassa liitteessä, erotellen vaateet bakteerielämälle ja monimutkaiselle elämälle.
-*[Rare Earth: Why Complex Life Is Uncommon in the Universe](http://www.amazon.com/Rare-Earth-Complex-Uncommon-Universe/dp/0387952896/ref=sr_1_1?ie=UTF8&s=books&qid=1253472606&sr=1-1) -kirja
+* [The Privileged Planet](the-privileged-planet-kirja.md) -kirja ja DVD
+* [Lista 150 monimutkaisemman elämän ympäristöltään tarvitsemasta asiasta](https://reasons.org/explore/publications/articles/fine-tuning-for-life-on-earth-updated-june-2004), Astrofyysikko H. Ross listaa yli viisisataa kirjansa [Why the universe is the way it is?](http://www.amazon.com/Why-Universe-Way-Hugh-Ross/dp/0801013046) erikseen tilattavassa liitteessä, erotellen vaateet bakteerielämälle ja monimutkaiselle elämälle.
+* [Rare Earth: Why Complex Life Is Uncommon in the Universe](http://www.amazon.com/Rare-Earth-Complex-Uncommon-Universe/dp/0387952896/ref=sr_1_1?ie=UTF8&s=books&qid=1253472606&sr=1-1) -kirja
 
 ### Viitteet
 

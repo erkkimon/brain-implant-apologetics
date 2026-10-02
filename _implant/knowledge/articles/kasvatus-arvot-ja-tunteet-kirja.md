@@ -4,7 +4,7 @@ about: apologetics
 title: "Kasvatus, arvot ja tunteet (kirja)"
 description: "Kasvatus, arvot ja tunteet on Tapio Puolimatkan kirjoittama kirja, joka tarkastelee erilaisia tunneteorioita ja niiden maailmankatsomuksellista taustaa, omantunnon eri merkityksiä, tunteiden merkitystä oppimisessa, tieteessä ja yhteiskunnallisissa liikkeissä."
 tags: [apowiki, filosofia, kirjat, tapio-puolimatka]
-timestamp: 2026-10-01T19:30:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kasvatus, arvot ja tunteet (kirja)".
@@ -32,140 +32,140 @@ Arvojen ja tunteiden ymmärtämisen näkökulmasta voidaan länsimaisessa kulttu
 
 ### Kirjan sisällysluettelo
 
-***ESIPUHE ENSIMMÄISEEN PAINOKSEEN**
-***ESIPUHE TOISEEN PAINOKSEEN**
-***JOHDANTO**
-**Ajatuskoe kidnapatusta neurotieteilijästä
-**Ajatuskoe alfakentaurilaisista tieteentekijöistä
-**Järjen ja tunteen vastakkainasettelu
-**Tunteet tiedon lähteenä
-**Ihmisen haavoittuvuus
-**Haavoittuvuuden ilmaisu tunteissa
-**Arvotajunta
-**Vapaus ja mahdollisuus
-**Tunteiden luotettavuus ja itsepetos
-**Tunnekasvatus
-**Perinteen merkitys
-**Kirjan rakenne
+* **ESIPUHE ENSIMMÄISEEN PAINOKSEEN**
+* **ESIPUHE TOISEEN PAINOKSEEN**
+* **JOHDANTO**
+  * Ajatuskoe kidnapatusta neurotieteilijästä
+  * Ajatuskoe alfakentaurilaisista tieteentekijöistä
+  * Järjen ja tunteen vastakkainasettelu
+  * Tunteet tiedon lähteenä
+  * Ihmisen haavoittuvuus
+  * Haavoittuvuuden ilmaisu tunteissa
+  * Arvotajunta
+  * Vapaus ja mahdollisuus
+  * Tunteiden luotettavuus ja itsepetos
+  * Tunnekasvatus
+  * Perinteen merkitys
+  * Kirjan rakenne
 
-***1. ARVOTIETOISEN IHMISEN SIVISTYSIHANNE**
-**1.1. Naturalismi vs. arvotietoisen ihmisen sivistysihanne
-**1.2. Länsimaisen sivistyksen kaksi perustaa
-**1.3. Tavallisen elämän merkitys
-**1.4. Syvän minuuden käsite
-**1.5. Eettisten voimavarojen lähde
-**1.6. Sisäiset ristiriidat ja heiluriliike
-**1.7. Luonnon riisuminen myyteistä
-**1.8. Arvotunteiden tasapaino
-**1.9. Järjenvastaisuuden kapina
-**1.10. Paluu epikurolaisuuteen
-**1.11. Kooste
+* **1. ARVOTIETOISEN IHMISEN SIVISTYSIHANNE**
+  * 1.1. Naturalismi vs. arvotietoisen ihmisen sivistysihanne
+  * 1.2. Länsimaisen sivistyksen kaksi perustaa
+  * 1.3. Tavallisen elämän merkitys
+  * 1.4. Syvän minuuden käsite
+  * 1.5. Eettisten voimavarojen lähde
+  * 1.6. Sisäiset ristiriidat ja heiluriliike
+  * 1.7. Luonnon riisuminen myyteistä
+  * 1.8. Arvotunteiden tasapaino
+  * 1.9. Järjenvastaisuuden kapina
+  * 1.10. Paluu epikurolaisuuteen
+  * 1.11. Kooste
 
-***2. OMATUNTO JA ARVOKASVATUS**
-**2.1. Omatunto ja eettinen tieto
-***2.1.1. Omantunnon luotettavuus
-***2.1.2. Eettisen tiedon luotettavuus
-**2.2. Omatunto ja eettinen tahto
-**2.3. Omatunto ja tunteet
-***2.3.1. Syyllisyys
-***2.3.2. Häpeä
-***2.3.3. Katumus
-**2.4. Tunteiden arviointi
-***2.4.1. Viattomuuden myytti
-***2.4.2. Tunteiden arviointi ja arvonäkökulma
-***2.4.3. Vihan tunne ja arvot
-***2.4.4. Kateus ja merkityksen näkökulma
-***2.4.5. Kooste
-**2.5. Omatunto ja moraalinen todellisuus
-**2.6. Omatunto ja uskonto
-**2.7. Omantunnon alkuperä ja kehitys
-***2.7.1. Imago Dei -perinne
-***2.7.2. Darwinin teoria
-***2.7.3. Freudin teoria
-***2.7.4. Paul Réen teoria
-***2.7.5. Nietzschen teoria
-***2.7.6. Naturalismi vastaan imago Dei
-**2.8. Omantunnon kasvattaminen
-**2.9. Kooste
+* **2. OMATUNTO JA ARVOKASVATUS**
+  * 2.1. Omatunto ja eettinen tieto
+    * 2.1.1. Omantunnon luotettavuus
+    * 2.1.2. Eettisen tiedon luotettavuus
+  * 2.2. Omatunto ja eettinen tahto
+  * 2.3. Omatunto ja tunteet
+    * 2.3.1. Syyllisyys
+    * 2.3.2. Häpeä
+    * 2.3.3. Katumus
+  * 2.4. Tunteiden arviointi
+    * 2.4.1. Viattomuuden myytti
+    * 2.4.2. Tunteiden arviointi ja arvonäkökulma
+    * 2.4.3. Vihan tunne ja arvot
+    * 2.4.4. Kateus ja merkityksen näkökulma
+    * 2.4.5. Kooste
+  * 2.5. Omatunto ja moraalinen todellisuus
+  * 2.6. Omatunto ja uskonto
+  * 2.7. Omantunnon alkuperä ja kehitys
+    * 2.7.1. Imago Dei -perinne
+    * 2.7.2. Darwinin teoria
+    * 2.7.3. Freudin teoria
+    * 2.7.4. Paul Réen teoria
+    * 2.7.5. Nietzschen teoria
+    * 2.7.6. Naturalismi vastaan imago Dei
+  * 2.8. Omantunnon kasvattaminen
+  * 2.9. Kooste
 
-***3. KÄRSIMYS, ARVOT JA TUNTEET**
-**3.1. Mielihyvän ja kärsimyksen tasot
-**3.2. Kärsimys stoalaisuudessa
-**3.3. Spinoza, Šestov ja Kierkegaard
-**3.4. Kärsimys buddhalaisuudessa
-**3.5. Järkiperäinen onnen tavoittelu
-**3.6. Sankarillinen asenne
-**3.7. Kristinuskon näkemys
-**3.8. Kasvatus kärsimyksen kohtaamiseen
+* **3. KÄRSIMYS, ARVOT JA TUNTEET**
+  * 3.1. Mielihyvän ja kärsimyksen tasot
+  * 3.2. Kärsimys stoalaisuudessa
+  * 3.3. Spinoza, Šestov ja Kierkegaard
+  * 3.4. Kärsimys buddhalaisuudessa
+  * 3.5. Järkiperäinen onnen tavoittelu
+  * 3.6. Sankarillinen asenne
+  * 3.7. Kristinuskon näkemys
+  * 3.8. Kasvatus kärsimyksen kohtaamiseen
 
-***4. TUNTEET JA OPPIMINEN**
-**4.1. Tiedollinen aktivoituminen
-***4.1.1. Tunteiden merkitys oppimisessa
-***4.1.2. Älylliset hyveet ja tunteet
-***4.1.3. Normaalit ja epänormaalit tunteet
-**4.2. Totuuden rakkaus vai yhteenkuuluvuuden tunne?
-**4.3. Tiede ja arvot
-**4.4. Tiede, maailmankatsomus ja uskonto
-***4.4.1. Mitä meidän on uskottava voidaksemme tietää?
-***4.4.2. Mistä lähtökohdasta voimme oikeuttaa uskon siihen, mikä tekee tiedon mahdolliseksi?
-***4.4.3. Välitön intuitio kaikkeuden luonteesta
-***4.4.4. Sovellus koulumaailmaan
-**4.5. Tiede ja totuus
-**4.6. Kooste
+* **4. TUNTEET JA OPPIMINEN**
+  * 4.1. Tiedollinen aktivoituminen
+    * 4.1.1. Tunteiden merkitys oppimisessa
+    * 4.1.2. Älylliset hyveet ja tunteet
+    * 4.1.3. Normaalit ja epänormaalit tunteet
+  * 4.2. Totuuden rakkaus vai yhteenkuuluvuuden tunne?
+  * 4.3. Tiede ja arvot
+  * 4.4. Tiede, maailmankatsomus ja uskonto
+    * 4.4.1. Mitä meidän on uskottava voidaksemme tietää?
+    * 4.4.2. Mistä lähtökohdasta voimme oikeuttaa uskon siihen, mikä tekee tiedon mahdolliseksi?
+    * 4.4.3. Välitön intuitio kaikkeuden luonteesta
+    * 4.4.4. Sovellus koulumaailmaan
+  * 4.5. Tiede ja totuus
+  * 4.6. Kooste
 
-***5. ELÄMÄN TARKOITUS, TUNTEET JA MYYTIT**
-**5.1. Henkiset tunteet
-***5.1.1. Elämän tarkoitus ja tiedostamaton epätoivo
-***5.1.2. Pyhyyden tunteiden arviointi
-**5.2. Toiveajattelu ja kulttuuriset illuusiot
-**5.3. Kulttuuriset myytit
-**5.4. Mielikuvayhteiskunta ja pyhyyden kokemukset
-***5.4.1. Tehokkuusajattelun pyhyys
-***5.4.2. Seksuaalisuus ja pyhyyden tunteet
-**5.5. Freudin teoria
-***5.5.1. Freud ja naturalistinen tieteenihanne
-***5.5.2. Naturalismin kritiikki
-***5.5.3. Freud ja romantiikan perinne
-***5.5.4. Oidipuskompleksi
-**5.6. Margaret Meadin antropologinen myytti
-**5.7. Kooste
+* **5. ELÄMÄN TARKOITUS, TUNTEET JA MYYTIT**
+  * 5.1. Henkiset tunteet
+    * 5.1.1. Elämän tarkoitus ja tiedostamaton epätoivo
+    * 5.1.2. Pyhyyden tunteiden arviointi
+  * 5.2. Toiveajattelu ja kulttuuriset illuusiot
+  * 5.3. Kulttuuriset myytit
+  * 5.4. Mielikuvayhteiskunta ja pyhyyden kokemukset
+    * 5.4.1. Tehokkuusajattelun pyhyys
+    * 5.4.2. Seksuaalisuus ja pyhyyden tunteet
+  * 5.5. Freudin teoria
+    * 5.5.1. Freud ja naturalistinen tieteenihanne
+    * 5.5.2. Naturalismin kritiikki
+    * 5.5.3. Freud ja romantiikan perinne
+    * 5.5.4. Oidipuskompleksi
+  * 5.6. Margaret Meadin antropologinen myytti
+  * 5.7. Kooste
 
-***6. TUNTEIDEN KEHITYS JA ARVIOINTI**
-**6.1. Lapsuus antiikissa ja kristinuskossa
-***6.1.1. Lapsuus antiikissa
-***6.1.2 Kristinuskon suhtautuminen lapsiin ja lapsuuteen
-***6.1.3. Lapsen asema ja kulttuurin kehitys
-**6.2. Lapsi on arvotietoinen olento
-**6.3. Pysyvän kiintymyssuhteen merkitys
-***6.3.1. Perheen merkitys
-***6.3.2. Ehdollinen vai ehdoton rakkaus
-***6.3.3. Rakkaus ja elämänilo
-**6.4. Välitön tunnesuhde
-**6.5. Tunteiden tunnistaminen ja itseen kohdistuva tunneäly
-**6.6. Muihin ihmisiin kohdistuva tunneäly
-***6.6.1. Myötätunnosta ystävyyteen ja rakkauteen
-***6.6.2. Läheiset ihmissuhteet ja moraalinen eheytyminen
+* **6. TUNTEIDEN KEHITYS JA ARVIOINTI**
+  * 6.1. Lapsuus antiikissa ja kristinuskossa
+    * 6.1.1. Lapsuus antiikissa
+    * 6.1.2 Kristinuskon suhtautuminen lapsiin ja lapsuuteen
+    * 6.1.3. Lapsen asema ja kulttuurin kehitys
+  * 6.2. Lapsi on arvotietoinen olento
+  * 6.3. Pysyvän kiintymyssuhteen merkitys
+    * 6.3.1. Perheen merkitys
+    * 6.3.2. Ehdollinen vai ehdoton rakkaus
+    * 6.3.3. Rakkaus ja elämänilo
+  * 6.4. Välitön tunnesuhde
+  * 6.5. Tunteiden tunnistaminen ja itseen kohdistuva tunneäly
+  * 6.6. Muihin ihmisiin kohdistuva tunneäly
+    * 6.6.1. Myötätunnosta ystävyyteen ja rakkauteen
+    * 6.6.2. Läheiset ihmissuhteet ja moraalinen eheytyminen
 
-***7. MITÄ OVAT TUNTEET?**
-**7.1. Tunneteorioiden perusvaihtoehtoja
-***7.1.1. Tunne ja tuntemus
-***7.1.2. Tunne ja käyttäytyminen
-***7.1.3. Tunne ja tahto
-***7.1.4. Tunne ja kognitio
-***7.1.5. Yhdistelmäteoriat
-**7.2. Arvorealistinen näkemys tunne-elämän tasoista
+* **7. MITÄ OVAT TUNTEET?**
+  * 7.1. Tunneteorioiden perusvaihtoehtoja
+    * 7.1.1. Tunne ja tuntemus
+    * 7.1.2. Tunne ja käyttäytyminen
+    * 7.1.3. Tunne ja tahto
+    * 7.1.4. Tunne ja kognitio
+    * 7.1.5. Yhdistelmäteoriat
+  * 7.2. Arvorealistinen näkemys tunne-elämän tasoista
 
-***8. LOPUKSI**
+* **8. LOPUKSI**
 
-*KIRJALLISUUS
+* KIRJALLISUUS
 
 ### Aiheesta muualla
 
 #### Internet
 
-*[Antti Snellman: Hyväksyykö Jyväskylän yliopiston kasvatustieteellinen tiedekunta professori Tapio Puolimatkan mielipiteet. Jylkkäri 23.3. 2016](https://www.jylkkari.fi/2016/03/hyvaksyyko-jyvaskylan-yliopiston-kasvatustieteellinen-tiedekunta-professori-tapio-puolimatkan-mielipiteet/)
-*[Tapio Puolimatka: Tiede edellyttää moniäänistä dialogia, Jylkkäri 21.4. 2016](http://www.jylkkari.fi/2016/04/tiede-edellyttaa-moniaanista-dialogia)
-*[Tapio Puolimatka: Pitäisikö yliopisto-opetusta sensuroida. Uusi Suomi 17.5. 2016](http://tapiopuolimatka.puheenvuoro.uusisuomi.fi/217013-pitaisiko-yliopisto-opetusta-sensuroida)
+* [Antti Snellman: Hyväksyykö Jyväskylän yliopiston kasvatustieteellinen tiedekunta professori Tapio Puolimatkan mielipiteet. Jylkkäri 23.3. 2016](https://www.jylkkari.fi/2016/03/hyvaksyyko-jyvaskylan-yliopiston-kasvatustieteellinen-tiedekunta-professori-tapio-puolimatkan-mielipiteet/)
+* [Tapio Puolimatka: Tiede edellyttää moniäänistä dialogia, Jylkkäri 21.4. 2016](http://www.jylkkari.fi/2016/04/tiede-edellyttaa-moniaanista-dialogia)
+* [Tapio Puolimatka: Pitäisikö yliopisto-opetusta sensuroida. Uusi Suomi 17.5. 2016](http://tapiopuolimatka.puheenvuoro.uusisuomi.fi/217013-pitaisiko-yliopisto-opetusta-sensuroida)
 
 #### ApoWiki
-*[Kulttuuriset myytit](kulttuuriset-myytit.md)
+* [Kulttuuriset myytit](kulttuuriset-myytit.md)

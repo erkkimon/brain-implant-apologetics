@@ -4,7 +4,7 @@ about: apologetics
 title: "Älyllisten kykyjen luotettavuus"
 description: "Yksi teistien perusargumentteja on, että ilman Jumalan olemassaoloa on vaikea löytää perusteita havaintojen luotettavuudelle tai järjellisen ajattelun pätevyydelle."
 tags: [apowiki, epistemologia]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Älyllisten kykyjen luotettavuus".
@@ -70,7 +70,7 @@ Plantingan argumentti, jonka mukaan tietoteoria edellyttää teististä perustaa
 Koska Plantingan argumentti kuitenkaan tuskin saa naturalistia kääntymään supranaturalistiksi, on Lammenrannan mukaan seurauksena tietynlainen pessimismi tiedon ja tietoteorian mahdollisuuksien suhteen. On tietysti mahdollista, että meillä on tietoa, mutta kysymystä on mahdotonta perustellusti ratkaista naturalistisista lähtökohdista.[^9] Plantingan argumentti näyttää tarjoavan yhden merkittävän selityksen sille, miksi ateismilla on ollut taipumus ajautua käsitykseen, jonka mukaan ei ole mahdollista saada luotettavaa tietoa todellisuudesta.
 
 ### Katso myös
-*[Evoluutioteoreettinen argumentti naturalismia vastaan](alvin-plantinga-evoluutioteoreettinen-argumentti-naturalismia-vastaan.md)
+* [Evoluutioteoreettinen argumentti naturalismia vastaan](alvin-plantinga-evoluutioteoreettinen-argumentti-naturalismia-vastaan.md)
 
 ### Viitteet
 

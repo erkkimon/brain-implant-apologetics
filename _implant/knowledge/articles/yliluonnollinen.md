@@ -4,7 +4,7 @@ about: apologetics
 title: "Yliluonnollinen"
 description: "Yliluonnollisella tarkoitetaan yleensä luonnolaeista riippumatonta, luonnontieteellisesti selittämätöntä ja normaalin tai luonnollisen rajat ylittävää."
 tags: [apowiki, paranormaalit-ilmiöt, lukusuositukset]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Yliluonnollinen".
@@ -117,17 +117,17 @@ Näiden tässä viitattujen subjektiivisten kokemusten luonnetta olisi syytä m�
 Matti Kankaanniemen hyvä ystävä (helluntaipastori) kertoi hänelle kokemuksestaan, joka tapahtui hänen ajaessaan demoneita eräästä miehestä telttakokouksen jälkeen. Ystävän kertoman mukaan mies levitoi, tai pikemminkin näkymättömät voimat nostivat miehen korkealle ilmaan (teltan kattoon) ja paiskasivat taas maahan. Luonnollisestihan kysymyksessä on subjektiivinen kokemus, koska tämä ystävä on ihminen.
 
 Nyt Kankaanniemellä on periaatteessa kolme mahdollisuutta selittää tapahtunut:
-*a) Ystävä valehtelee tapauksen.
-*b) Ystävä on nähnyt harhoja kyseisessä tilanteessa.
-*c) Riivattu mies todella nousi korkealle ilmaan tuntemattoman voiman nostamana.
+* a) Ystävä valehtelee tapauksen.
+* b) Ystävä on nähnyt harhoja kyseisessä tilanteessa.
+* c) Riivattu mies todella nousi korkealle ilmaan tuntemattoman voiman nostamana.
 
 Vaihtoehto a) on helppo silloin, kun kuitattavana on "jossakin kaukana" sattunut tapahtuma. Ongelmallista tässä vaihtoehdossa olisi kuitenkin se, että yleisesti ottaen tämä ystävä puhuu totta eikä tapahtumasta ole mielekästä esittää "jos hän muisti väärin" -argumenttia. Ystävän kertomukseen luottaminen ei liene taikauskoista, vaan aiempaan kokemukseen pohjautuvaa mielekästä toimintaa.
 
 Vaihtoehto b) taas on sikäli ongelmallinen, että ystävä ei käytä minkäänlaisia päihteitä, hän ei pode harha-aistimuksia aiheuttavia mielisairauksia, ja Kankaanniemi luottaa hänen näkökykyynsä siinä määrin, että kulkee ajoittain hänen kyydissään autolla. Lisäksi se tosiasia, että riivattu mies "vapautui" ja muuttui "täysjärkiseksi" saman tien, puhuu sen puolesta, että ystävä ei haahuillut hallusinaatiomaailmoissa kyseisessä tilanteessa.
 
 Yliluonnollisen todesta ottamiseni mahdollista epäloogisuutta voidaan käsitellä vielä parin apukysymyksen näkökulmista:
-*Onko tällainen ilmaan kohoaminen yliluonnollinen ilmiö?
-*Ovatko tapahtumasta kertovat lähteet siinä määrin luotettavia, että Kankaanniemen uskoa niihin voidaan pitää loogisena?
+* Onko tällainen ilmaan kohoaminen yliluonnollinen ilmiö?
+* Ovatko tapahtumasta kertovat lähteet siinä määrin luotettavia, että Kankaanniemen uskoa niihin voidaan pitää loogisena?
 
 #### Onko ilmiö yliluonnollinen?
 

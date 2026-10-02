@@ -4,7 +4,7 @@ about: apologetics
 title: "Robert P. George"
 description: "Robert Peter George (syntynyt kesäkuun 10., 1955) on amerikkalainen oikeusoppinut ja poliittinen filosofi, joka toimii oikeustieteen professorina Princetonin yliopistossa."
 tags: [apowiki, henkilöt, seksuaalietiikka]
-timestamp: 2026-10-02T03:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Robert P. George".
@@ -73,7 +73,7 @@ Koska oikea käsitys avioliitosta on edellytys ihmisten hyvinvoinnille, valtioll
 * "Public Reason and Political Conflict:  Abortion and Homosexual Acts", *Yale Law Journal*, Vol. 106, pp. 2475–2504 (1997)
 * "The Concept of Public Morality", *American Journal of Jurisprudence*, Vol. 45, pp. 17–31 (2000)
 * "Human Cloning and Embryo Research", *Journal of Theoretical Medicine and Bioethics*, Vol. 25, No. 1, pp. 3–20 (2004)
-*
+* 
 
 ### Viitteet
 

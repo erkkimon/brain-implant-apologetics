@@ -4,7 +4,7 @@ about: apologetics
 title: "Jälkikristillisen maailman kauhut (kirja)"
 description: "Jälkikristillisen maailman kauhut on Tapio Puolimatkan kirjoittama kirja, joka pyrkii vastaamaan kysymykseen: Mihin suuntaan yhteiskunta kehittyy, kun kristinuskon omaatuntoa herkistävä vaikutus heikkenee?"
 tags: [apowiki, kirjat, tapio-puolimatka]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jälkikristillisen maailman kauhut (kirja)".
@@ -58,46 +58,46 @@ Länsimaisen koulutuksen saaneen ihmisen voi olla vaikea tiedostaa kristinuskon 
 
 ### Kirjan sisällysluettelo
 
-*Esipuhe
-*Johdanto
-**Kristinuskon sivistysvaikutus
-**Maallistuneen ajattelun päämuodot
-**Miten maallistumisen vaikutusta voidaan tutkia?
-**Valistuksen käsitys vapaudesta
-**Pahuuden ongelma
+* Esipuhe
+* Johdanto
+  * Kristinuskon sivistysvaikutus
+  * Maallistuneen ajattelun päämuodot
+  * Miten maallistumisen vaikutusta voidaan tutkia?
+  * Valistuksen käsitys vapaudesta
+  * Pahuuden ongelma
 
-***1.	Maallistuminen heikentää ihmisarvon kunnioitusta**
-**1.1.	Ihmisoikeuksien loukkaukset maallistuneissa diktatuureissa
-***Utopistisen ajattelun vaikutus
-***Eliitin valta
-***Uutta maailmaa luodaan massaterrorilla
-***Ihmisyyden riistäminen
-***Ihmisten ja eläinten välisen eron häivyttäminen
-***Ylioptimistinen ihmiskäsitys
-**1.2. Maallistuneen kulttuurin uhrit
-***Luonnonvalinta ihmisyhteiskunnassa
-***Luonnonvalinnan sovellus nyky-yhteiskuntaan
-**Kooste
+* **1.	Maallistuminen heikentää ihmisarvon kunnioitusta**
+  * 1.1.	Ihmisoikeuksien loukkaukset maallistuneissa diktatuureissa
+    * Utopistisen ajattelun vaikutus
+    * Eliitin valta
+    * Uutta maailmaa luodaan massaterrorilla
+    * Ihmisyyden riistäminen
+    * Ihmisten ja eläinten välisen eron häivyttäminen
+    * Ylioptimistinen ihmiskäsitys
+  * 1.2. Maallistuneen kulttuurin uhrit
+    * Luonnonvalinta ihmisyhteiskunnassa
+    * Luonnonvalinnan sovellus nyky-yhteiskuntaan
+  * Kooste
 
-***2.	Omantunnon paatuminen ja maallistuminen**
-**2.1. Onko kristillinen syntiinlankeemusoppi ihmistä alentava?
-**2.2. Omantunnon paatumisen ongelma
-***Valikoiva tunnustus
-***Dostojevskin analyysi omantunnon dynamiikasta
-**2.3.Omantunnon vapauttamisen ongelma
+* **2.	Omantunnon paatuminen ja maallistuminen**
+  * 2.1. Onko kristillinen syntiinlankeemusoppi ihmistä alentava?
+  * 2.2. Omantunnon paatumisen ongelma
+    * Valikoiva tunnustus
+    * Dostojevskin analyysi omantunnon dynamiikasta
+  * 2.3.Omantunnon vapauttamisen ongelma
 
-***3. Myötätunnon kulttuurin mureneminen**
-**3.1. Myötätunnon kulttuurin alkuperä
-**3.2. Hyvinvointiyhteiskunta pienoiskoossa
-**3.3.	Vähäosaisten raadantaa helpottava teknologia
-**3.4.	Myötätunnon kulttuurin mureneminen
-***Geneettisten orpojen massatuotanto
-***Maallistuminen uhkaa lapsen oikeutta elämään
-***Abortti ja omantunnon herkkyys
+* **3. Myötätunnon kulttuurin mureneminen**
+  * 3.1. Myötätunnon kulttuurin alkuperä
+  * 3.2. Hyvinvointiyhteiskunta pienoiskoossa
+  * 3.3.	Vähäosaisten raadantaa helpottava teknologia
+  * 3.4.	Myötätunnon kulttuurin mureneminen
+    * Geneettisten orpojen massatuotanto
+    * Maallistuminen uhkaa lapsen oikeutta elämään
+    * Abortti ja omantunnon herkkyys
 
-***4.	Lopuksi: jälkikristillisen maailman kauhut**
-*Lyhenteet
-*Kirjallisuus
+* **4.	Lopuksi: jälkikristillisen maailman kauhut**
+* Lyhenteet
+* Kirjallisuus
 
 ### Aiheesta muualla
 
@@ -107,14 +107,14 @@ Länsimaisen koulutuksen saaneen ihmisen voi olla vaikea tiedostaa kristinuskon 
 
 #### Apologetiikkawiki
 
-*[Geneettiset orvot](geneettiset-orvot.md)
-*[Ihmisoikeudet](ihmisoikeudet.md)
-*[Kulttuuriset myytit](kulttuuriset-myytit.md)
-*[Lasten oikeudet](lasten-oikeudet.md)
-*[Onko uskonnon opetus indoktrinaatiota?](onko-uskonnon-opetus-indoktrinaatiota.md)
-*[Seksuaalivallankumous: perheen ja kulttuurin romahdus (kirja)](seksuaalivallankumous-perheen-ja-kulttuurin-romahdus-kirja.md)
-*[Sijaissynnytys](sijaissynnytys.md)
-*[Viisauden ja tiedon aarteet Kristuksessa (kirja)](viisauden-ja-tiedon-aarteet-kristuksessa-kirja.md)
+* [Geneettiset orvot](geneettiset-orvot.md)
+* [Ihmisoikeudet](ihmisoikeudet.md)
+* [Kulttuuriset myytit](kulttuuriset-myytit.md)
+* [Lasten oikeudet](lasten-oikeudet.md)
+* [Onko uskonnon opetus indoktrinaatiota?](onko-uskonnon-opetus-indoktrinaatiota.md)
+* [Seksuaalivallankumous: perheen ja kulttuurin romahdus (kirja)](seksuaalivallankumous-perheen-ja-kulttuurin-romahdus-kirja.md)
+* [Sijaissynnytys](sijaissynnytys.md)
+* [Viisauden ja tiedon aarteet Kristuksessa (kirja)](viisauden-ja-tiedon-aarteet-kristuksessa-kirja.md)
 
 ### Viitteet
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Larry Laudan"
 description: "Larry Laudan (s. 1941 Austin, Texas) on yhdysvaltalainen filosofi, jonka erikoisaloja ovat tieteenfilosofia ja tietoteoria."
 tags: [apowiki, henkilöt, filosofia]
-timestamp: 2026-10-02T05:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Larry Laudan".
@@ -223,8 +223,8 @@ Tieteenfilosofi **Barry Gross** toimi evoluutionäkemystä edustaneen lakifirman
 
 ### Teoksia
 
-**Progress and Its Problems*. Berkeley: University of California Press, 1977.
-*Laudan, L. & Laudan, R. & Donovan, A. (toim.): *Scrutinizing Science: Empirical Studies of Scientific Change*. Dordrecht: Reidel, 1988.
+* *Progress and Its Problems*. Berkeley: University of California Press, 1977.
+* Laudan, L. & Laudan, R. & Donovan, A. (toim.): *Scrutinizing Science: Empirical Studies of Scientific Change*. Dordrecht: Reidel, 1988.
 
 ### Lähteet
 * Campbell, John Angus: *Why Are We Still Debating Darwinism? Why not Teach the Controversy?*, teoksessa Campbell, John Angus & Meyer, Stephen C. (toim.) 2003:xi-xxxviii

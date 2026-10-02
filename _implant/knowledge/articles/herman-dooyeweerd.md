@@ -4,7 +4,7 @@ about: apologetics
 title: "Herman Dooyeweerd"
 description: "Herman Dooyeweerd (7.10.1894 - 12.2.1977) oli hollantilainen kristitty filosofi, joka perusti filosofisen suuntauksen nimeltä kosmonominen filosofia."
 tags: [apowiki, henkilöt, filosofia]
-timestamp: 2026-10-02T03:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Herman Dooyeweerd".
@@ -50,21 +50,21 @@ Dooyeweerd määrittelee filosofian teoreettiseksi ajatteluksi, joka pyrkii anta
 
 ### Teokset
 
-**[A New Critique of Theoretical Thought](a-new-critique-of-theoretical-thought-kirja.md)* (Edwin Mellen Press, 1997)
-***Volume I: The Necessary Presuppositions of Philosophy*
-***Volume II: The General Theory of the Modal Spheres*
-***Volume III: The Structure of Individuality of Temporal Reality*
-***Volume IV: Index of Subject and Authors* (compiled by H. de Jongste)
-**Reformation and Scholasticism in Philosophy*
-***Volume I: The Greek Prelude*
-**Encyclopedia of the Science of Law*
-***Volume 1: Introduction*
-**Christian Philosophy and the Meaning of History*
-**Essays in Legal, Social, and Political Philosophy*
-**Roots of Western Culture*
-**In The Twilight of Western Thought*
-**Political Philosophy*
-**Contours of a Christian Philosophy; An Introduction to Herman Dooyeweerd's Thought
+* *[A New Critique of Theoretical Thought](a-new-critique-of-theoretical-thought-kirja.md)* (Edwin Mellen Press, 1997)
+  * *Volume I: The Necessary Presuppositions of Philosophy*
+  * *Volume II: The General Theory of the Modal Spheres*
+  * *Volume III: The Structure of Individuality of Temporal Reality*
+  * *Volume IV: Index of Subject and Authors* (compiled by H. de Jongste)
+* *Reformation and Scholasticism in Philosophy*
+  * *Volume I: The Greek Prelude*
+* *Encyclopedia of the Science of Law*
+  * *Volume 1: Introduction*
+* *Christian Philosophy and the Meaning of History*
+* *Essays in Legal, Social, and Political Philosophy*
+* *Roots of Western Culture*
+* *In The Twilight of Western Thought*
+* *Political Philosophy*
+* *Contours of a Christian Philosophy; An Introduction to Herman Dooyeweerd's Thought
 
 ### Aiheesta muualla
 
@@ -72,7 +72,7 @@ Dooyeweerd määrittelee filosofian teoreettiseksi ajatteluksi, joka pyrkii anta
 * [Tapio Puolimatka: Kristus tieteen itsekriittisyyden perustana II](http://www.concordia.fi/vanhat/lehti/2009/22009/2.html) Concordia 2/2009
 * [The Dooyeweerd pages](http://www.dooy.salford.ac.uk/) (hosted by Andrew Basden, University of Salford)
 * [The Dooyeweerd Centre for Christian Philosophy](https://www.redeemer.ca/academics/research/centre-for-christian-scholarship/dooyeweerd/)
-*[Andrew Basden (2002-12-01) The critical theory of Herman Dooyeweerd?  Journal of Information Technology 17(4):257-269](http://dooy.info/papers/jit.html)
+* [Andrew Basden (2002-12-01) The critical theory of Herman Dooyeweerd?  Journal of Information Technology 17(4):257-269](http://dooy.info/papers/jit.html)
 * ["Herman Dooyeweerd's Contribution to the Philosophy of the Social Sciences"](http://www.asa3.org/ASA/PSCF/1979/JASA3-79Skillen.html). [James W. Skillen](https://en.wikipedia.org/wiki/James_Skillen) <!-- red link: James Skillen --> *[JASA](https://en.wikipedia.org/wiki/Perspectives_on_Science_and_Christian_Faith) <!-- red link: PSCF -->''. Volume 31 (March 1979): 20-24.
 
 ### Katso myös

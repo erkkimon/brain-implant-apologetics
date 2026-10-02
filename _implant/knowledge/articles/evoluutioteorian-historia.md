@@ -4,7 +4,7 @@ about: apologetics
 title: "Evoluutioteorian historia"
 description: "Evoluutoajatuksia ovat esittäneet jo antiikin Kreikan materialistit, erityisesti Lucretius, joiden katsomukset vaativat jonkinlaisen materiasta itsestään syntymisen."
 tags: [apowiki, evoluutioteoria]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Evoluutioteorian historia".
@@ -68,9 +68,9 @@ Argumentit Darvinismia vastaan tulivat huomattavilta tiedemiehiltä Charles Lyel
 Darwin rakensi Jumala-kielteisen filosofiansa takia teorian, joka rajoittui vain mutaatioon ja luonnonvalintaan, mutta tämä mekanismi oli tieteellisesti vailla näyttöä. Mivart argumentoi, että biologisten rakenteiden ensiasteet eivät antaisi valintaetua, että samankaltaisten biologisten rakenteiden nähdään kehittyvät eri alkutilanteista, ja että evoluution (jonka teistiseen versioon Mivart uskoi) olettaisi etenevän hyppyinä, jota fossiiliaineistokin paremmin tukee.
 
 Lyellin *Principles of Geology* kritisoi Lamarkin ja Erasmus Darwinin evoluutioajatusta vuonna 1832 seuraavin perustein:
-*Lamark sekoittaa muuntelun [lajien](../glossary/sanasto.md#laji) sisällä, jota tapahtuu, rajoittamattomaan muunteluun, joka tekisi uusia lajeja, josta ei ole todisteita.
-*Havaintojen mukaan lajit, joista meillä on yksityiskohtaista tietoa pitkältä ajalta, eivät ole muuttuneet huomattavasti, vaan vain muunnelleet, jos sitäkään, lajin sisällä.
-*Eläinten jalostajat ovat huomanneet, että yritetäänpä kuinka paljon hyvänsä, lajia ei pystytä muuttamaan yli tiettyjen rajojen. Lisäksi saavutetut muutokset palautuvat mikäli laji jätetään omiin oloihinsa. Muuntelu on siis jotain, joka on jo olemassa lajin potentiaalissa.
+* Lamark sekoittaa muuntelun [lajien](../glossary/sanasto.md#laji) sisällä, jota tapahtuu, rajoittamattomaan muunteluun, joka tekisi uusia lajeja, josta ei ole todisteita.
+* Havaintojen mukaan lajit, joista meillä on yksityiskohtaista tietoa pitkältä ajalta, eivät ole muuttuneet huomattavasti, vaan vain muunnelleet, jos sitäkään, lajin sisällä.
+* Eläinten jalostajat ovat huomanneet, että yritetäänpä kuinka paljon hyvänsä, lajia ei pystytä muuttamaan yli tiettyjen rajojen. Lisäksi saavutetut muutokset palautuvat mikäli laji jätetään omiin oloihinsa. Muuntelu on siis jotain, joka on jo olemassa lajin potentiaalissa.
 Myös useat muut huomattavat tiedemiehet esittivät Darwinin teoriaan kohdistuvaa kritiikkiä, mutta materialistinen muoti voitti.
 
 ### Katso myös

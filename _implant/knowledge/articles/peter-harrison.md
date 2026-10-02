@@ -4,7 +4,7 @@ about: apologetics
 title: "Peter Harrison"
 description: "Peter Harrison on tieteen ja uskonnon Andreas Idreos -professori ja Ian Ramsey -keskuksen johtaja Oxfordin yliopistossa."
 tags: [apowiki, henkilöt, historia]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Peter Harrison".
@@ -28,11 +28,11 @@ Hän piti Edinburghin [Gifford-luennot](https://fi.wikipedia.org/wiki/Gifford-lu
 
 ### Teokset:
 
-*The Cambridge Companion to Science and Religion (Cambridge Companions to Religion). Cambridge University Press, 2010. ISBN 0521712513.
-*[The Fall of Man and the Foundations of Science](the-fall-of-man-and-the-foundations-of-science-kirja.md). Cambridge University Press, 2007. ISBN 0521875595.
-*[The Bible, Protestantism, and the Rise of Natural Science](the-bible-protestantism-and-the-rise-of-natural-science-kirja.md) Cambridge University Press, 2001. ISBN 0521000963.
-*'Religion' and the religions in the English Enlightenment. Cambridge University Press, 1990. ISBN 0521892937.
+* The Cambridge Companion to Science and Religion (Cambridge Companions to Religion). Cambridge University Press, 2010. ISBN 0521712513.
+* [The Fall of Man and the Foundations of Science](the-fall-of-man-and-the-foundations-of-science-kirja.md). Cambridge University Press, 2007. ISBN 0521875595.
+* [The Bible, Protestantism, and the Rise of Natural Science](the-bible-protestantism-and-the-rise-of-natural-science-kirja.md) Cambridge University Press, 2001. ISBN 0521000963.
+* 'Religion' and the religions in the English Enlightenment. Cambridge University Press, 1990. ISBN 0521892937.
 
 ### Aiheesta muualla:
 
-*[Julkaisuluettelo. Osa artikkeleista luettavissa netistä.](http://users.ox.ac.uk/~theo0038/biographies/harrisonpublications.htm)
+* [Julkaisuluettelo. Osa artikkeleista luettavissa netistä.](http://users.ox.ac.uk/~theo0038/biographies/harrisonpublications.htm)

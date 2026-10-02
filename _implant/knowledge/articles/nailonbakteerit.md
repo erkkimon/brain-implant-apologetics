@@ -4,7 +4,7 @@ about: apologetics
 title: "Nailonbakteerit"
 description: "Nailonbakteerit ovat joukko mikrobeja, jotka kykenevät hajottamaan lyhyitä nailon 6 polymeerejä (oligomeerejä)."
 tags: [apowiki, evoluutioteoria]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Nailonbakteerit".
@@ -31,9 +31,9 @@ Merkittävämpänä todisteen sille, että nailonia hajottavat bakteerit ovat os
 > — NBC[^1]
 
 Than esittää kolme vaihtoehtoa:
-*Nailoaasi-geeni oli olemassa jo olemassa valmiiksi bakteerin genomissa.
-*Nailoaasin vaatiman TMIn asetti bakteereihin korkeampi olento
-*Kyky pilkkoa nailonia syntyi spontaanisti mutaation kautta. Koska se antoi bakteerille kyvyn hyödyntää uutta resurssia, ominaisuus säilyi ja siirtyi tuleville sukupolville.
+* Nailoaasi-geeni oli olemassa jo olemassa valmiiksi bakteerin genomissa.
+* Nailoaasin vaatiman TMIn asetti bakteereihin korkeampi olento
+* Kyky pilkkoa nailonia syntyi spontaanisti mutaation kautta. Koska se antoi bakteerille kyvyn hyödyntää uutta resurssia, ominaisuus säilyi ja siirtyi tuleville sukupolville.
 
 > Huolimatta siitä, että tämä on järkevin selitys, on myös kaksi muuta syytä miksi tiedemiehet pitävät viimeistä vaihtoehtoa parhaimpana - se on esimekki luonnonvalinnasta.
 > Ker Than

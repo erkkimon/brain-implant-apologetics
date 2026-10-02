@@ -4,7 +4,7 @@ about: apologetics
 title: "Jeesus Nasaretilainen"
 description: "Jeesus Nasaretilainen on kristinuskon keskushenkilö. Kristityt uskovat, että Jeesuksessa Jumalan toinen persoona tuli lihaksi (\"sikisi Pyhästä Hengestä , syntyi neitsyt Mariasta\") ja ilmoitti Isän ."
 tags: [apowiki, jeesus]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jeesus Nasaretilainen".
@@ -49,62 +49,62 @@ Jeesuksesta on enemmänkin ei-kristillisiä, kirjallisia merkintöjä, jotka ant
 ##### Raamatun profetioissa
 Raamatussa on huomattava määrä profetioita, joiden on yleensä tulkittu kertovan Jeesuksesta. Mielenkiintoista on, että Kuolleen Meren kirjakäärölöydöt 1950 -luvulta osoittavat näiden Vanhan Testamentin, jossa nämä ennustukset ovat, olleen olemassa nykyisenlaisena jo ennen Jeesusta. Em. löydöt on ajoitettu ajalle 300 e.Kr. - 50 j.Kr.
 
-*Jumalan Poika ( ([Ps. 2:7](../books/psa.md)))
-*Naisen jälkeläinen	( ([1. Moos. 3:15](../books/gen.md)))
-*Aabrahamim jälkeläinen	( ([1. Moos. 17:7](../books/gen.md));  ([1. Moos. 22:18](../books/gen.md)))
-*Iisakin  jälkeläinen	( ([1. Moos. 21:12](../books/gen.md)))
-*Daavidin  suvusta	( ([Ps. 132:11](../books/psa.md));  ([Jer. 23:5](../books/jer.md)))
-*Tulemus tiettynä hetkenä  (490 vuoden kuluttua Danielista)	( ([1. Moos. 49:10](../books/gen.md));  ([Dan. 9:24-25](../books/dan.md)))
-*Syntyy neitsyestä	( ([Jes. 7:14](../books/isa.md)))
-*Kutsutaan Immanueliksi (Jumala meidän kanssamme)	( ([Jes. 7:14](../books/isa.md)))
-*Syntyy Betlehemissä <!-- Efratassa Betlehemin toinen nimi?--> Juudeassa	( ([Miik. 5:2](../books/mic.md)))
-*Merkittävät ihmiset saapuvat kunniottaamaan Häntä	( ([Ps. 72:10](../books/psa.md)))
-*Syntymä johtaa lastenmurhaan	( ([Jer. 31:15](../books/jer.md)))
-*Kutsutaan Egyptistä	( ([Hoos. 11:1](../books/hos.md)))
-*Hänellä on edelläkävijä (Johannes Kastaja)	( ([Jes. 40:3](../books/isa.md));  ([Mal. 3:1](../books/mal.md)))
-*On oleva Hengen täyttämä	( ([Ps. 45:7](../books/psa.md));  ([Jes. 11:2](../books/isa.md));  ([Jes. 61:1](../books/isa.md)))
-*On profeetta kuten Mooses	( ([5. Moos. 18:15-18](../books/deu.md)))
-*Hänen julkisen työn aloitustapansa	( ([Jes. 61:1-2](../books/isa.md)))
-*Toimintansa Galileassa	( ([Jes. 9:1-2](../books/isa.md)))
-*Hänen tulonsa julkisuuteen Jerusalemissa	( ([Sak. 9:9](../books/zec.md)))
-*Hänen tulonsa temppeliin	( ([Hag. 2:7,9](../books/hag.md));  ([Mal. 3:1](../books/mal.md)))
-*Hänen köyhyytensä	( ([Jes. 53:2](../books/isa.md)))
-*Hänen ystävällisyytensä ja myötätuntonsa	( ([Jes. 40:11](../books/isa.md));  ([Jes 42:3](../books/isa.md)))
-*Hänen saarnaamisensa vertauksin	( ([Ps. 78:2](../books/psa.md)))
-*Hänen ihmeensä ( ([Jes. 35:5-6](../books/isa.md)))
-*Hän joutuu halveksituksi	( ([Ps. 22:6](../books/psa.md));  ([Ps. 69:7,9,20](../books/psa.md)))
-*Omiensa hylkäämäksi joutuminen	( ([Ps. 69:8](../books/psa.md));  ([Jes. 63:3](../books/isa.md)))
-*On juutalaisille kompastuskivi	( ([Jes. 8:14](../books/isa.md)))
-*Juutalaiset vihaavat Häntä	( ([Ps. 69:4](../books/psa.md));  ([Jes. 49:7](../books/isa.md)))
-*Juutalaisten johtajat eivät hyväksy Häntä	( ([Ps. 118:22](../books/psa.md)))
-*Juutalaiset ja pakanat käyvät yhdessä Häntä vastaan	( ([Ps. 2:1-2](../books/psa.md)))
-*Ystävä pettää	( ([Ps. 41:9](../books/psa.md));  ([Ps. 55:12-14](../books/psa.md)))
-*Hänen läheisensä jättävät hänet	( ([Sak. 13:7](../books/zec.md)))
-*Myydään 30 hopeakolikosta	( ([Sak. 11:12](../books/zec.md)))
-*Hinta annetaan savenvalajan pellosta	( ([Sak. 11:13](../books/zec.md)))
-*Kärsimystensä intensiteetti	( ([Ps. 22:14,15](../books/psa.md)))
-*Kärsimykset tapahtuvat toisten vuoksi	( ([Jes. 53:4-6,12](../books/isa.md));  ([Dan. 9:26](../books/dan.md)))
-*Hänen kärsivällisyytensä ja hiljaisuutensa kärsimyksessä	( ([Jes. 53:7](../books/isa.md)))
-*Lyödään poskelle	( ([Miik. 5:1](../books/mic.md)))
-*Hänen ruumiinsa on hirveässä kunnossa	( ([Jes. 52:14](../books/isa.md));  ([Jes. 53:3](../books/isa.md)))
-*Häntä syljetään	( ([Jes. 50:6](../books/isa.md)))
-*Hänen kätensä ja jalkansa naulataan	( ([Ps. 22:16](../books/psa.md)))
-*On Jumalan hylkäämä	( ([Ps. 22:1](../books/psa.md)))
-*On pilkattu	( ([Ps. 22:7,8](../books/psa.md)))
-*Hänelle tarjotaan hapanviiniä	( ([Ps. 69:21](../books/psa.md)))
-*Hänen vaatteensa jaetaan pelaamalla	( ([Ps. 22:18](../books/psa.md)))
-*Luetaan pahantekijöiden joukkoon	( ([Jes. 53:12](../books/isa.md)))
-*Rukoilee murhaajiensa puolesta	( ([Jes. 53:12](../books/isa.md)))
-*Hänen kuolemansa	( ([Jes. 53:12](../books/isa.md)))
-*Luita ei häneltä rikota	( ([4. Moos. 12:46](../books/num.md));  ([Ps. 34:20](../books/psa.md)))
-*Lävistetään	( ([Sak. 12:10](../books/zec.md)))
-*Haudataan rikkaan miehen hautaan	( ([Jes. 53:9](../books/isa.md)))
-*Hänen ruumiinsa ei kohtaa mätänemistä	( ([Ps. 16:10](../books/psa.md)))
-*Hänen ylösnousemuksensa	( ([Ps. 16:10](../books/psa.md));  ([Ps. 68:18](../books/psa.md));  ([Jes. 26:19](../books/isa.md)))
-*Istuu Jumalan oikealle puolelle	( ([Ps. 110:1](../books/psa.md)))
-*On Taivaallinen ylipappi ihmisille	( ([Jes. 6:13](../books/isa.md)))
-*On seurakunnan kulmakivi	( ([Jes. 28:16](../books/isa.md)))
-*Pakanat (ei-juutalaiset) panevat Häneen toivonsa	( ([Jes. 11:10](../books/isa.md));  ([Jes. 42:1](../books/isa.md)))
+* Jumalan Poika ( ([Ps. 2:7](../books/psa.md)))
+* Naisen jälkeläinen	( ([1. Moos. 3:15](../books/gen.md)))
+* Aabrahamim jälkeläinen	( ([1. Moos. 17:7](../books/gen.md));  ([1. Moos. 22:18](../books/gen.md)))
+* Iisakin  jälkeläinen	( ([1. Moos. 21:12](../books/gen.md)))
+* Daavidin  suvusta	( ([Ps. 132:11](../books/psa.md));  ([Jer. 23:5](../books/jer.md)))
+* Tulemus tiettynä hetkenä  (490 vuoden kuluttua Danielista)	( ([1. Moos. 49:10](../books/gen.md));  ([Dan. 9:24-25](../books/dan.md)))
+* Syntyy neitsyestä	( ([Jes. 7:14](../books/isa.md)))
+* Kutsutaan Immanueliksi (Jumala meidän kanssamme)	( ([Jes. 7:14](../books/isa.md)))
+* Syntyy Betlehemissä <!-- Efratassa Betlehemin toinen nimi?--> Juudeassa	( ([Miik. 5:2](../books/mic.md)))
+* Merkittävät ihmiset saapuvat kunniottaamaan Häntä	( ([Ps. 72:10](../books/psa.md)))
+* Syntymä johtaa lastenmurhaan	( ([Jer. 31:15](../books/jer.md)))
+* Kutsutaan Egyptistä	( ([Hoos. 11:1](../books/hos.md)))
+* Hänellä on edelläkävijä (Johannes Kastaja)	( ([Jes. 40:3](../books/isa.md));  ([Mal. 3:1](../books/mal.md)))
+* On oleva Hengen täyttämä	( ([Ps. 45:7](../books/psa.md));  ([Jes. 11:2](../books/isa.md));  ([Jes. 61:1](../books/isa.md)))
+* On profeetta kuten Mooses	( ([5. Moos. 18:15-18](../books/deu.md)))
+* Hänen julkisen työn aloitustapansa	( ([Jes. 61:1-2](../books/isa.md)))
+* Toimintansa Galileassa	( ([Jes. 9:1-2](../books/isa.md)))
+* Hänen tulonsa julkisuuteen Jerusalemissa	( ([Sak. 9:9](../books/zec.md)))
+* Hänen tulonsa temppeliin	( ([Hag. 2:7,9](../books/hag.md));  ([Mal. 3:1](../books/mal.md)))
+* Hänen köyhyytensä	( ([Jes. 53:2](../books/isa.md)))
+* Hänen ystävällisyytensä ja myötätuntonsa	( ([Jes. 40:11](../books/isa.md));  ([Jes 42:3](../books/isa.md)))
+* Hänen saarnaamisensa vertauksin	( ([Ps. 78:2](../books/psa.md)))
+* Hänen ihmeensä ( ([Jes. 35:5-6](../books/isa.md)))
+* Hän joutuu halveksituksi	( ([Ps. 22:6](../books/psa.md));  ([Ps. 69:7,9,20](../books/psa.md)))
+* Omiensa hylkäämäksi joutuminen	( ([Ps. 69:8](../books/psa.md));  ([Jes. 63:3](../books/isa.md)))
+* On juutalaisille kompastuskivi	( ([Jes. 8:14](../books/isa.md)))
+* Juutalaiset vihaavat Häntä	( ([Ps. 69:4](../books/psa.md));  ([Jes. 49:7](../books/isa.md)))
+* Juutalaisten johtajat eivät hyväksy Häntä	( ([Ps. 118:22](../books/psa.md)))
+* Juutalaiset ja pakanat käyvät yhdessä Häntä vastaan	( ([Ps. 2:1-2](../books/psa.md)))
+* Ystävä pettää	( ([Ps. 41:9](../books/psa.md));  ([Ps. 55:12-14](../books/psa.md)))
+* Hänen läheisensä jättävät hänet	( ([Sak. 13:7](../books/zec.md)))
+* Myydään 30 hopeakolikosta	( ([Sak. 11:12](../books/zec.md)))
+* Hinta annetaan savenvalajan pellosta	( ([Sak. 11:13](../books/zec.md)))
+* Kärsimystensä intensiteetti	( ([Ps. 22:14,15](../books/psa.md)))
+* Kärsimykset tapahtuvat toisten vuoksi	( ([Jes. 53:4-6,12](../books/isa.md));  ([Dan. 9:26](../books/dan.md)))
+* Hänen kärsivällisyytensä ja hiljaisuutensa kärsimyksessä	( ([Jes. 53:7](../books/isa.md)))
+* Lyödään poskelle	( ([Miik. 5:1](../books/mic.md)))
+* Hänen ruumiinsa on hirveässä kunnossa	( ([Jes. 52:14](../books/isa.md));  ([Jes. 53:3](../books/isa.md)))
+* Häntä syljetään	( ([Jes. 50:6](../books/isa.md)))
+* Hänen kätensä ja jalkansa naulataan	( ([Ps. 22:16](../books/psa.md)))
+* On Jumalan hylkäämä	( ([Ps. 22:1](../books/psa.md)))
+* On pilkattu	( ([Ps. 22:7,8](../books/psa.md)))
+* Hänelle tarjotaan hapanviiniä	( ([Ps. 69:21](../books/psa.md)))
+* Hänen vaatteensa jaetaan pelaamalla	( ([Ps. 22:18](../books/psa.md)))
+* Luetaan pahantekijöiden joukkoon	( ([Jes. 53:12](../books/isa.md)))
+* Rukoilee murhaajiensa puolesta	( ([Jes. 53:12](../books/isa.md)))
+* Hänen kuolemansa	( ([Jes. 53:12](../books/isa.md)))
+* Luita ei häneltä rikota	( ([4. Moos. 12:46](../books/num.md));  ([Ps. 34:20](../books/psa.md)))
+* Lävistetään	( ([Sak. 12:10](../books/zec.md)))
+* Haudataan rikkaan miehen hautaan	( ([Jes. 53:9](../books/isa.md)))
+* Hänen ruumiinsa ei kohtaa mätänemistä	( ([Ps. 16:10](../books/psa.md)))
+* Hänen ylösnousemuksensa	( ([Ps. 16:10](../books/psa.md));  ([Ps. 68:18](../books/psa.md));  ([Jes. 26:19](../books/isa.md)))
+* Istuu Jumalan oikealle puolelle	( ([Ps. 110:1](../books/psa.md)))
+* On Taivaallinen ylipappi ihmisille	( ([Jes. 6:13](../books/isa.md)))
+* On seurakunnan kulmakivi	( ([Jes. 28:16](../books/isa.md)))
+* Pakanat (ei-juutalaiset) panevat Häneen toivonsa	( ([Jes. 11:10](../books/isa.md));  ([Jes. 42:1](../books/isa.md)))
 
 ##### Evankeliumien kertoma historiallisessa kontekstissa
 Jeesuksen ei tiedetä jättäneen kirjoituksia. Sen sijaan evankelistat [Matteus](../books/mat.md), [Markus](../books/mrk.md), [Luukas](evankeliumi-luukkaan-mukaan.md) ja [Johannes](johanneksen-evankeliumi.md) sijoittivat Jeesuksesta kertoessaan hänet tiettyyn historialliseen kontekstiin. Heidän kertoma historiallinen konteksti ei suoraan todista Jeesuksen historiallisuutta, mutta vahvistaa tai heikentää kertomusten aitoutta. *Kyse on samanlaisesta asiasta kuin henkilö A kertoo B:lle Pekingin olevan Kiinan pääkaupunki. B ei voi tietää puhuuko A totta vai ei, mutta hän voi tarkistaa **A:n kertomat yksityiskohdat** muista lähteistä ja todeta A:n kertomuksen olevan totta.*
@@ -165,14 +165,14 @@ b) tapahtunut tosiasia
 
 ##### Ensimmäinen vuosisata
 
-*Mara Bar-Serapion, syyrialainen kirjoittaja. Noin vuonna 73.[^8]
-*Yosef Ben Matityahu alias Titus Flavius Josephus, juutalainen historioitsija. Antiquitates Iudaicae, kirja 18, kohta 63[^9], n. vuonna 93.[^10] [^11]
+* Mara Bar-Serapion, syyrialainen kirjoittaja. Noin vuonna 73.[^8]
+* Yosef Ben Matityahu alias Titus Flavius Josephus, juutalainen historioitsija. Antiquitates Iudaicae, kirja 18, kohta 63[^9], n. vuonna 93.[^10] [^11]
 
 ##### Toinen vuosisata (vuoden 100 jälkeen)
 
-*Gaius Plinius Caecilius Secundus, Bitynia-Pontoksen käskynhaltija. [Kirje 10,96](http://www.theologica.fi/plinepist1096.html), noin vuonna 110-112.[^12] [^13]
-*Publius Cornelius Tacitus, roomalainen historioitsija. Ennen vuotta 120.[^14] [^15]
-*Gaius Suetonius Tranquillus, roomalainen historioitsija. Ennen vuotta 130.[^16] [^17]
+* Gaius Plinius Caecilius Secundus, Bitynia-Pontoksen käskynhaltija. [Kirje 10,96](http://www.theologica.fi/plinepist1096.html), noin vuonna 110-112.[^12] [^13]
+* Publius Cornelius Tacitus, roomalainen historioitsija. Ennen vuotta 120.[^14] [^15]
+* Gaius Suetonius Tranquillus, roomalainen historioitsija. Ennen vuotta 130.[^16] [^17]
 * Kirjoittaja tuntematon: "Marttyyriakti". Ennen vuotta 180.
 
 ### Muiden uskontojen näkökulmia Jeesukseen

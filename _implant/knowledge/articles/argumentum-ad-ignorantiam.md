@@ -4,7 +4,7 @@ about: apologetics
 title: "Argumentum ad ignorantiam"
 description: "Argumentum ad ignorantiam eli käänteinen todistustaakka tai tietämättömyyteen vetoaminen (engl."
 tags: [apowiki, argumentointi]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Argumentum ad ignorantiam".
@@ -62,4 +62,4 @@ Argumentointitavan ongelmallisuus on helppo nähdä, jos sitä kokeeksi sovellet
 > **Paksuissa teoksissaan Darwin ei koskaan sanonut, että maailmanlaajuiset sodat eivät hänestä olisi hyvä keino viedä ihmisen evoluutiota eteenpäin, joten molemmat maailmansodat ovat vain Darwinin näkemysten johdonmukaista toteuttamista.*
 
 ### Katso myös
-*[Aukkojen Jumala](aukkojen-jumala-v2.md)
+* [Aukkojen Jumala](aukkojen-jumala-v2.md)

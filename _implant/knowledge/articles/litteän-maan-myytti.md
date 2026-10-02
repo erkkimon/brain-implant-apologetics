@@ -4,7 +4,7 @@ about: apologetics
 title: "Litteän maan myytti"
 description: "Kuva: Pyöreä maa 1100-luvun keskiaikaisen käsikirjoituksen 1300-luvun kopiossa."
 tags: [apowiki, kosmologia, historia]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Litteän maan myytti".
@@ -44,7 +44,7 @@ Litteän maan myytille antoi pontta kuusi vuotta Irvingin jälkeen ranskalaistut
 ### Aiheesta muualla
 #### Internet
 * Rope Kojonen, *[Litteän maan myytti – tapauskertomus uskonnon ja luonnontieteen historiasta](http://ojs.tsv.fi/index.php/tt/article/view/4093), [pdf](http://ojs.tsv.fi/index.php/tt/article/download/4093/3824)*, Tieteessä Tapahtuu, Vol 29, Nro 3 (2011)
-*Tuomas Kangasniemi, [Litteän Maan myytti: Keskiajan kirkko tiesi Maan palloksi viimeistään 700 vuotta ennen Kolumbusta](http://www.areiopagi.fi/littean-maan-myytti-keskiajan-kirkko-tiesi-maan-palloksi-viimeistaan-700-vuotta-ennen-kolumbusta/), Areiopagi.fi, 18.2.2014, viitattu 17.3.2014
+* Tuomas Kangasniemi, [Litteän Maan myytti: Keskiajan kirkko tiesi Maan palloksi viimeistään 700 vuotta ennen Kolumbusta](http://www.areiopagi.fi/littean-maan-myytti-keskiajan-kirkko-tiesi-maan-palloksi-viimeistaan-700-vuotta-ennen-kolumbusta/), Areiopagi.fi, 18.2.2014, viitattu 17.3.2014
 
 ### Viitteet
 

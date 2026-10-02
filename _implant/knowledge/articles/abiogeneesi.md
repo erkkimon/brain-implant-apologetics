@@ -4,7 +4,7 @@ about: apologetics
 title: "Abiogeneesi"
 description: "Abiogeneesi (kemiallinen evoluutio, elämän alkusynty) tarkoittaa (naturalistisen todellisuuskäsityksen edellyttämää) elämän ohjaamatonta ja tarkoituksetonta itsestäänsyntymistä elottoman aineen alun perin yksinkertaisista yhdisteistä."
 tags: [apowiki, abiogeneesi, lukusuositukset]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Abiogeneesi".
@@ -38,20 +38,20 @@ Elämän syntyä koskeva tutkimus pyrkii käytännössä löytämään mahdollis
 
 Alkukopioitujan täytyy täyttää ainakin neljä minimivaatimusta voidakseen kopioida itseään:
 
-*Tiedon tallentaminen
-*Tallennetun tiedon toteuttaminen
-*Tiedon toteuttamista varten tarvittavan energian valjastaminen käyttöön
-*Kaikkien tarvittavien rakennusaineiden valmistus, joita ei saa riittävästi ympäristöstä
+* Tiedon tallentaminen
+* Tallennetun tiedon toteuttaminen
+* Tiedon toteuttamista varten tarvittavan energian valjastaminen käyttöön
+* Kaikkien tarvittavien rakennusaineiden valmistus, joita ei saa riittävästi ympäristöstä
 
 Yksinkertaisimmatkin eläviksi luokitellut eliöt toteuttavat nämä ehdot, mutta ne ovat aivan liian monimutkaisia ollakseen ehdokkaita alkukopioitujaksi. Solu on kuin monimutkainen, toimiva kaupunki. *Candidatus Carsonella rudii* on yksinkertaisin tuntemamme bakteeri, tosin se on loisbakteeri, joka on riippuvainen muista eliöistä. Sen perimässä on 182 geeniä, noin 160 000 nukleotidia eli “kirjainta” DNA-koodissa. Todellisuudessa tällaista bakteeria ei voida saada aikaan yksinkertaisista molekyyleistä sattuman avulla. Syy tähän on se, että DNA-koodin ja muiden solun osasten informaation todennäköisyys laskee eksponentiaalisesti koodin pituuden funktiona.
 
 Jo yhden biologisesti aktiivisen proteiinin syntyminen [alkuliemessä](../glossary/sanasto.md#alkuliemi) sattumanvaraisesti on niin epätodennäköistä, että sen muodostumiseen tarvitaan keskimäärin huomattavasti enemmän yrityksiä kuin edes koko maailmankaikkeuden historian aikana on voinut olla fysikaalisia tapahtumia. Todennäköisyydet kokonaisen solun kohdalla ovat niin käsittämättömän pieniä, että abiogeneesiin uskovat tutkijat selittävätkin, kuinka elämän on täytynyt syntyä jostain alkukopioitujasta, joka on paljon yksinkertaisempi kuin mikään, mitä maapallolla nykyään elää.
 
 ### Joitain yhdisteryhmiä elävässä solussa
-*Proteiinit – pitkiä aminohapoista muodostuneita erimuotoisia ketjuja; toimivat mitä erilaisimmissa tehtävissä: “monialaosaajat”, "duunarit", “erikoisasiantuntijat”
-*Lipidit (rasvat) – solun kalvorakenteet ja energianlähde: “kaupungin muuri”, "polttoöljy"
-*Hiilihydraatit (sokerit) – esim. aineenvaihdunnassa energianlähde, toimivat myös tunnistusaineina: “akkukennostot”, "tienviitat"
-*DNA/RNA – perintöaines (kuuluisa kaksoiskierre): "tietovarasto"
+* Proteiinit – pitkiä aminohapoista muodostuneita erimuotoisia ketjuja; toimivat mitä erilaisimmissa tehtävissä: “monialaosaajat”, "duunarit", “erikoisasiantuntijat”
+* Lipidit (rasvat) – solun kalvorakenteet ja energianlähde: “kaupungin muuri”, "polttoöljy"
+* Hiilihydraatit (sokerit) – esim. aineenvaihdunnassa energianlähde, toimivat myös tunnistusaineina: “akkukennostot”, "tienviitat"
+* DNA/RNA – perintöaines (kuuluisa kaksoiskierre): "tietovarasto"
 
 ### Proteiinit
 
@@ -62,22 +62,22 @@ Jotta tämä hypoteesi voisi edes periaatteessa olla mahdollinen, alkuilmakehä 
 Vuonna 1953 Stanley Miller suoritti Harold Ureyn spekulaatioiden pohjalta pelkistävää ilmakehää simuloineen kokeen, jonka lopputuloksena syntyneestä öljyisestä "alkuliemestä" löytyi aminohappoja. Niiden joukossa oli myös joitakin elämän käyttämiä aminohappoja, joten koe nähtiin elämän synnyn kannalta merkittävänä.[^3] Koe antoikin alkusysäyksen elämänsyntymallien kokeelliselle tukimukselle. Koeolosuhteet oli optimoitu biologisten molekyylien syntymiselle edullisiksi. Hiili oli pelkistetyssä muodossa metaanina (CH<sub>4</sub>) eikä esimerkiksi hapettuneessa muodossa hiilidioksidina (CO<sub>2</sub>), jolloin se ei soveltuisi monimutkaisten orgaanisten yhdisteiden rakennusaineeksi.[^4]
 Nykykäsityksen mukaan alkuilmakehä koostui lähinnä hiilidioksidista ja typestä, joista ei synny elämän tarvitsemia raaka-aineita.
 
-*Elämä käyttää proteiinien rakennukseen 20 aminohappoa. Näistä 17 on saatu syntymään Miller-tyyppisissä kokeissa. Poikkeukset ovat histidiini, arginiini ja lysiini, joita ei ole saatu muodostumaan. [^5].
-*Yksittäisessä kokeessa saadaan yleensä aikaan vain muutamia aminohappoja ja enintään 13 elämän käyttämää aminohappoa.[^6]
+* Elämä käyttää proteiinien rakennukseen 20 aminohappoa. Näistä 17 on saatu syntymään Miller-tyyppisissä kokeissa. Poikkeukset ovat histidiini, arginiini ja lysiini, joita ei ole saatu muodostumaan. [^5].
+* Yksittäisessä kokeessa saadaan yleensä aikaan vain muutamia aminohappoja ja enintään 13 elämän käyttämää aminohappoa.[^6]
 Vaikka tuloksena on ollut vain osa elämän tarvitsemista aminohapoista, julkisuudessa tutkimuksia on kuitenkin pidetty hyvin merkittävinä ja kerrottu, kuinka elottomista aineista saatiin monimutkaisia orgaanisia molekyylejä. Todellisuudessa aminohapot ovat kemiallisesti verraten yksinkertaisia proteiinien rakennuspalikoita.
 
 Kokeelliset simulaatiot: Alkuliemi täynnä aminohappoja?
-*Alkuliemen olemassaolosta ei ole geologista näyttöä. Hiilen ja typen isotoopit kivikerrostumissa viittaavat siihen, että esibioottista lientä ei ole ollut.
-**Kivikerrostumissa ei esimerkiksi esiinny suuria määriä orgaanista materiaalia fossiilikerrostumien alla.
-*Toivottujen yhdisteiden stabiilius on ongelma: yhdisteet hajoavat mm. UV-säteilyn vaikutuksesta. UV-säteilyn läpäisy vedessä on noin 19 m.
-*Alkuliemessä olisi teoreettisesti arvioiden vain erittäin pieni pitoisuus aminohappoja (<10<sup>-7</sup> mol/l).
-*Häiritsevien yhdisteiden kanssa tapahtuisi sivureaktioita. Alkuilmakehän simulaatiokokeissa syntyy suuri määrä yhdisteitä, jotka reagoivat aminohappojen kanssa, jolloin aminohapot eivät ole käytettävissä jatkoreaktioihin.
+* Alkuliemen olemassaolosta ei ole geologista näyttöä. Hiilen ja typen isotoopit kivikerrostumissa viittaavat siihen, että esibioottista lientä ei ole ollut.
+  * Kivikerrostumissa ei esimerkiksi esiinny suuria määriä orgaanista materiaalia fossiilikerrostumien alla.
+* Toivottujen yhdisteiden stabiilius on ongelma: yhdisteet hajoavat mm. UV-säteilyn vaikutuksesta. UV-säteilyn läpäisy vedessä on noin 19 m.
+* Alkuliemessä olisi teoreettisesti arvioiden vain erittäin pieni pitoisuus aminohappoja (<10<sup>-7</sup> mol/l).
+* Häiritsevien yhdisteiden kanssa tapahtuisi sivureaktioita. Alkuilmakehän simulaatiokokeissa syntyy suuri määrä yhdisteitä, jotka reagoivat aminohappojen kanssa, jolloin aminohapot eivät ole käytettävissä jatkoreaktioihin.
 
 #### Aminohapoista proteiineiksi
-*Proteiinien syntetisoimiseksi aminohappojen tulee liittyä toisiinsa pitkiksi ketjuiksi peptidisidoksilla.
-*Simulaatiokokeissa syntyy suuri määrä ketjunmuodostusta häiritseviä monofunktionaalisia yhdisteitä (esim. karboksyylihappoja).
-*Asiaan liittyvissä kokeissa synteesit aloitetaan puhtaista lähtöaineista, mikä on täysin epärealistista (vrt. alkuliemikokeiden tulokset).
-*Homokiraalisuus eli sama [optinen isomeria](https://fi.wikipedia.org/wiki/optinen_isomeria) (peilikuvaisomeria) on suuri ongelma. Spontaanit kemialliset reaktiot muodostavat aminohapoista ja sokereista [raseemisen seoksen](https://fi.wikipedia.org/wiki/raseeminen_seos), jossa on puolet vasenkätistä L-muotoa ja puolet oikeakätistä D-muotoa. Näiden muotojen molekyylit ovat monilta kemiallisilta ominaisuuksiltaan samanlaisia, mutta ne eroavat molekyylin avaruudellisessa rakenteessa. Elämän syntyyn tarvitaan puhtaasti vasenkätisiä aminohappoja proteiinien muodostamiseksi ja oikeakätisiä sokereita DNA:han ja RNA:han. Tällaisen tapahtumiseen sattumalta ei tunneta mitään mahdollisuutta. (On löydetty meteoriitteja, joissa on hieman enemmän L-aminohappoja, mutta nämä meteoriitit ovat todennäköisesti maapallolta, ja vaikkeivät olisikaan, pieni 50-50-suhteen muutos ei tee elämän synnystä olennaisesti todennäköisempää.)
+* Proteiinien syntetisoimiseksi aminohappojen tulee liittyä toisiinsa pitkiksi ketjuiksi peptidisidoksilla.
+* Simulaatiokokeissa syntyy suuri määrä ketjunmuodostusta häiritseviä monofunktionaalisia yhdisteitä (esim. karboksyylihappoja).
+* Asiaan liittyvissä kokeissa synteesit aloitetaan puhtaista lähtöaineista, mikä on täysin epärealistista (vrt. alkuliemikokeiden tulokset).
+* Homokiraalisuus eli sama [optinen isomeria](https://fi.wikipedia.org/wiki/optinen_isomeria) (peilikuvaisomeria) on suuri ongelma. Spontaanit kemialliset reaktiot muodostavat aminohapoista ja sokereista [raseemisen seoksen](https://fi.wikipedia.org/wiki/raseeminen_seos), jossa on puolet vasenkätistä L-muotoa ja puolet oikeakätistä D-muotoa. Näiden muotojen molekyylit ovat monilta kemiallisilta ominaisuuksiltaan samanlaisia, mutta ne eroavat molekyylin avaruudellisessa rakenteessa. Elämän syntyyn tarvitaan puhtaasti vasenkätisiä aminohappoja proteiinien muodostamiseksi ja oikeakätisiä sokereita DNA:han ja RNA:han. Tällaisen tapahtumiseen sattumalta ei tunneta mitään mahdollisuutta. (On löydetty meteoriitteja, joissa on hieman enemmän L-aminohappoja, mutta nämä meteoriitit ovat todennäköisesti maapallolta, ja vaikkeivät olisikaan, pieni 50-50-suhteen muutos ei tee elämän synnystä olennaisesti todennäköisempää.)
 
 ### RNA-maailma
 * Pääartikkeli [RNA-maailma](rna-maailma.md)
@@ -91,8 +91,8 @@ Syaanivety ja formaldehydi reagoivat keskenään, joten nukleotidien ja sokereid
 *Kuva: DNA:n kaltaisten molekyylien spontaani synty abiogeneettisissä olosuhteissa vaikuttaa mahdottomalta.*
 
 Yksinkertaisimmatkin luonnossa esiintyvät DNA-molekyylit sisältävät yli 500 000 nukleotidia, “kirjainta”. DNA:ta voidaan nykyisin syntetisoida melko helposti puhtaista, monimutkaisista lähtöaineista, mikä on kuitenkin täysin epärealistista abioottisissa olosuhteissa (vrt. alkuliemikokeiden tulokset, joita ei käytännössä DNA:n osalta ole).
-*Yhdisteet eivät spontaanisti muodosta DNA:ta/RNA:ta. Ongelmana ovat stabiilius sekä häiritsevät sivureaktiot.
-*Kiraalisuusongelma on yhtä paha kuin proteiinien tapauksessa: DNA:n rakenneosana esiintyy vain D-deoksiriboosi (oikeakätinen muoto), RNA:n rakenneosana vastaavasti D-riboosi (samoin oikeakätinen muoto). Optisesti puhtaiden pitkien ketjujen muodostuminen on erittäin epätodennäköistä (vrt. proteiinit).
+* Yhdisteet eivät spontaanisti muodosta DNA:ta/RNA:ta. Ongelmana ovat stabiilius sekä häiritsevät sivureaktiot.
+* Kiraalisuusongelma on yhtä paha kuin proteiinien tapauksessa: DNA:n rakenneosana esiintyy vain D-deoksiriboosi (oikeakätinen muoto), RNA:n rakenneosana vastaavasti D-riboosi (samoin oikeakätinen muoto). Optisesti puhtaiden pitkien ketjujen muodostuminen on erittäin epätodennäköistä (vrt. proteiinit).
 
 ### Ensimmäinen solu
 #### Koodijärjestelmän alkuperän ongelma
@@ -113,17 +113,17 @@ Kalvolla on monimutkainen rakenne – pelkkä ympäristöstä eristäminen ei ri
 Solukalvo on erittäin spesifinen toiminnassaan (aineenvaihdunta, ionikuljetus). Toiminnallisuus (eristys, tunnistus, kuljetus) on välttämätön heti alusta asti. Biomembraanit ja soluorganellit syntyvät vain olemassa olevista jakautumalla – niitä ei pystytä syntetisoimaan *de novo* eli osistaan (molekyyleistä). Kauanko ensimmäistä ateriaa voi odottaa?
 
 Solun aineenvaihdunta on erittäin monimutkainen:
-*Lukemattomat kemialliset reaktiot muodostavat solun toiminnan kannalta järkevän kokonaisuuden.
-*Keskeiset reaktioketjut liittyvät ravintoaineiden käyttöön solun energiatarpeisiin.
-*Solun aineenvaihdunnassa (“syömisessä”) nopeus on erittäin tärkeää.
-*Proteiinit (entsyymit), jotka koodataan DNA:ssa, nopeuttavat aineenvaihduntareaktioita miljoonakertaisesti. Entsyymit ovat elämälle välttämättömiä.
+* Lukemattomat kemialliset reaktiot muodostavat solun toiminnan kannalta järkevän kokonaisuuden.
+* Keskeiset reaktioketjut liittyvät ravintoaineiden käyttöön solun energiatarpeisiin.
+* Solun aineenvaihdunnassa (“syömisessä”) nopeus on erittäin tärkeää.
+* Proteiinit (entsyymit), jotka koodataan DNA:ssa, nopeuttavat aineenvaihduntareaktioita miljoonakertaisesti. Entsyymit ovat elämälle välttämättömiä.
 Miten ensimmäisessä sattumanvaraisesti syntyneessä solussa olisi sattumalta kaikki aineenvaihdunnan tarvitsemat entsyymit? Entsyymikoneiston tulee olla valmiina, jotta hypoteettinen ensimmäinen solu voisi elää. Kuitenkin jo yhden toimivan entsyymin syntyminen abioottisesti on nykytietämyksen mukaan liian epätodennäköistä tapahtuakseen keskimäärin edes kerran koko maailmanhistorian aikana.
 
 #### Informaation alkuperä
-*DNA, RNA ja proteiinit ovat informaatiota sisältäviä molekyylejä. Tämä informaatio on funktionaalista (toiminnallista). Vain tietty rakenneosien järjestys muodostaa tietyn informaatiosisällön (kuten kirjainten järjestys kielessä). Koodijärjestelmän alkuperäkysymys on avoin. Koodijärjestelmä muodostuu sovituista merkeistä ja niiden merkityksistä: kirjaimet, sanat, yhdistelysäännöt, tarkoitus. Miten tällainen monitasoinen toimiva kokonaisuus voisi syntyä sattumanvaraisesti?
-*DNA-koodin luku tapahtuu lukuisten entsyymien ja muiden koneistojen avulla. Näiden täytyy olla valmiina, jotta koodia voitaisiin käsitellä ja koodattua informaatiota purkaa (dekoodata) tai hyödyntää.
-*Solujen koodijärjestelmä on vieläpä monessa mielessä optimaalinen. Miten sattuma olisi osunut juuri optimaaliseen järjestelmään? Järjestelmän vaihtuminen yksinkertaisemmasta edeltäjästä nykyiseen tuhoaisi helposti kaiken informaation. Tällaiseen vaihtumiseen evoluutiomekanismein ei ole esitetty uskottavaa mahdollisuutta.
-*Informaatio ei ole aineen ominaisuus. Aineen avulla informaatiota voidaan vain välittää ja säilyttää. Esimerkiksi "SOS" voidaan ilmaista eri tavoin: savu taivaalla, ääni ilmassa, solmut narussa, muste paperilla tai urat hiekassa. Oleellista on välitetty **viesti**, ei käytetty media (viestihän on sama mediasta riippumatta). Informaatio “ratsastaa” aineella.
+* DNA, RNA ja proteiinit ovat informaatiota sisältäviä molekyylejä. Tämä informaatio on funktionaalista (toiminnallista). Vain tietty rakenneosien järjestys muodostaa tietyn informaatiosisällön (kuten kirjainten järjestys kielessä). Koodijärjestelmän alkuperäkysymys on avoin. Koodijärjestelmä muodostuu sovituista merkeistä ja niiden merkityksistä: kirjaimet, sanat, yhdistelysäännöt, tarkoitus. Miten tällainen monitasoinen toimiva kokonaisuus voisi syntyä sattumanvaraisesti?
+* DNA-koodin luku tapahtuu lukuisten entsyymien ja muiden koneistojen avulla. Näiden täytyy olla valmiina, jotta koodia voitaisiin käsitellä ja koodattua informaatiota purkaa (dekoodata) tai hyödyntää.
+* Solujen koodijärjestelmä on vieläpä monessa mielessä optimaalinen. Miten sattuma olisi osunut juuri optimaaliseen järjestelmään? Järjestelmän vaihtuminen yksinkertaisemmasta edeltäjästä nykyiseen tuhoaisi helposti kaiken informaation. Tällaiseen vaihtumiseen evoluutiomekanismein ei ole esitetty uskottavaa mahdollisuutta.
+* Informaatio ei ole aineen ominaisuus. Aineen avulla informaatiota voidaan vain välittää ja säilyttää. Esimerkiksi "SOS" voidaan ilmaista eri tavoin: savu taivaalla, ääni ilmassa, solmut narussa, muste paperilla tai urat hiekassa. Oleellista on välitetty **viesti**, ei käytetty media (viestihän on sama mediasta riippumatta). Informaatio “ratsastaa” aineella.
 
 #### Toiminnallisen informaation alkuperä
 Tyhjä tai kohinaa sisältävä CD on aivan eri asia kuin CD täynnä Bachin musiikkia. Miten toiminnallisesti mielekäs informaatio voisi syntyä sattumalta?
@@ -151,12 +151,12 @@ Koulukirjoissa taas esitetään tällaisia naturalismin vaatimia mielikuvitusske
 
 ### Yhteenveto
 Naturalistinen kemiallisen evoluution malli on epäuskottava. Kemiallisen evoluution hypoteesissa ja ensimmäiseen itseään monistavaan elävään soluun johtavassa tapahtumaketjussa on suuria ongelmia:
-*yksinkertaisten epäorgaanisten molekyylien ja yksinkertaisten orgaanisten molekyylien välillä
-*yksinkertaisten orgaanisten molekyylien ja monimutkaisten biomolekyylien välillä
-*biomolekyylien ja elävän solun välillä
-*erityisesti puhtaus-, kiraalisuus- ja sivureaktio-ongelmat
-**Mycoplasma genitalium*: vain 470 geeniä (proteiinia), mutta silti eliö on erittäin monimutkainen eikä tiede ole päässyt lähellekään sen synnyn kuvausta sattumanvaraisten prosessien kautta
-*ratkaisua ei näköpiirissä
+* yksinkertaisten epäorgaanisten molekyylien ja yksinkertaisten orgaanisten molekyylien välillä
+* yksinkertaisten orgaanisten molekyylien ja monimutkaisten biomolekyylien välillä
+* biomolekyylien ja elävän solun välillä
+* erityisesti puhtaus-, kiraalisuus- ja sivureaktio-ongelmat
+* *Mycoplasma genitalium*: vain 470 geeniä (proteiinia), mutta silti eliö on erittäin monimutkainen eikä tiede ole päässyt lähellekään sen synnyn kuvausta sattumanvaraisten prosessien kautta
+* ratkaisua ei näköpiirissä
 
 Kemiassa ei ole mitään taipumusta kohti elämää, pikemminkin päinvastoin. Orgaaninen materia hajoaa spontaanisti, solun täytyy jatkuvasti käyttää energiaa ja korjaussysteemejä säilyäkseen elossa. Naturalistinen elämän synty sattuman kautta näyttää mahdottomalta. Naturalistisista malleista ei kuitenkaan olla valmiita luopumaan. Kyseessä on uskomus, joka on ristiriidassa havaintoaineiston kanssa (esim. elämä syntyy vain elämästä). Julkisuudessa elämän spontaani alkusynty esitetään itsestään selvyytenä, tapahtuneena tosiasiana. Asiaan liittyviä ongelmia vähätellään ja niitä voidaan tuoda julki vasta, kun koetaan, että on kehitetty jokin tapa ohittaa ongelma.
 
@@ -166,14 +166,14 @@ Nykyisen tiedon, osaamisen ja laitteistojen avulla emme pysty rakentamaan elävi
 Mikäli tulevaisuudessa pystyisimme rakentamaan eläviä soluja, se osoittaisi, että elämän synnyttämiseen tarvitaan paljon informaatiota ja suunnittelua sekä taitava, tarkoitushakuinen työn tekijä. Kokeellisen tiedon valossa elämä ja sen synty vaikuttaa vahvasti suunnitellulta. Suurista ongelmista huolimatta monet ajattelevat, että joissain olosuhteissa elämä voisi syntyä kuolleesta aineesta. Naturalistisesta maailmankatsomuksesta onkin tullut tieteen jarru.
 
 ### Lisätietoa
-*Scherer, S. ja Junker, R., (suom. [Leisola, M.](matti-leisola.md)) [*Evoluutio – kriittinen_analyysi*](evoluutio-kriittinen-analyysi-kirja.md), Datakirjat Oy, Lahti 2000.
-*Charles B. Thaxton, Walter L. Bradley ja Roger L. Olsen, *The Mystery of Life's Origin*. Joitain kappeleita luettavissa http://ldolphin.org/mystery/
-*F. Rana ja H. Ross, *Origins of Life: Biblical and Evolutionary Models Face Off*, 2004, NavPress.
-*Bird, W. R., *The Origin of Species Revisited, Vol 1.*, Thomas Nelson Inc., Nashville 1991.
-*Johnson, P. E., *Darwin on Trial*, Monarch Publications, Crowborough 1991.
-*Proteiinitietopankki www.rcsb.org/pdb/
-*Prof. Waltonin esitelmä aiheesta on katsottavissa ja ladattavissa osoitteessa http://edinburghcreationgroup.org/video/28.
-*Artikkeli, *The Origin of Life*, Walter Bradley https://www.namb.net/apologetics/the-origin-of-life
+* Scherer, S. ja Junker, R., (suom. [Leisola, M.](matti-leisola.md)) [*Evoluutio – kriittinen_analyysi*](evoluutio-kriittinen-analyysi-kirja.md), Datakirjat Oy, Lahti 2000.
+* Charles B. Thaxton, Walter L. Bradley ja Roger L. Olsen, *The Mystery of Life's Origin*. Joitain kappeleita luettavissa http://ldolphin.org/mystery/
+* F. Rana ja H. Ross, *Origins of Life: Biblical and Evolutionary Models Face Off*, 2004, NavPress.
+* Bird, W. R., *The Origin of Species Revisited, Vol 1.*, Thomas Nelson Inc., Nashville 1991.
+* Johnson, P. E., *Darwin on Trial*, Monarch Publications, Crowborough 1991.
+* Proteiinitietopankki www.rcsb.org/pdb/
+* Prof. Waltonin esitelmä aiheesta on katsottavissa ja ladattavissa osoitteessa http://edinburghcreationgroup.org/video/28.
+* Artikkeli, *The Origin of Life*, Walter Bradley https://www.namb.net/apologetics/the-origin-of-life
 
 ### Viitteet
 

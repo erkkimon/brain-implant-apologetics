@@ -4,7 +4,7 @@ about: apologetics
 title: "Kutistuva turska (kirja)"
 description: "Kirjassaan Kutistuva turska Katja Bargum ja Hanna Kokko pitävät ohjaamattoman evoluution todisteena sitä, että on olemassa epätarkkoja ja kehnoja sopeumia."
 tags: [apowiki, kirjat]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kutistuva turska (kirja)".
@@ -75,7 +75,7 @@ Esittäessään todisteita älykkään suunnitelman teoriaa vastaan Bargum ja Ko
 Ateistifilosofi Thomas Nagel kiinnittää huomiota siihen, että kiisteltäessä älykkään suunnitelman teorian kuulumisesta tieteen piiriin tai sen ulkopuolelle otetaan samalla kantaa siihen, mikä on totuus todellisuuden perimmäisestä luonteesta. Jos tieteen on tarkoitus olla rajoittamatonta pyrkimystä totuuden löytämiseen, tieteen ulkopuolelle ei voida mielekkäästi siirtää näkemystä, joka on mahdollisesti tosi kuvaus todellisuuden perimmäisestä luonteesta. Niinpä älykkään suunnitelman tieteellisyyden kieltävä kohtaa seuraavankaltaisen ongelman: Joko hän pitää mahdollisena, että älykäs suunnittelija on voinut ohjata elämän kehitystä tai hän kieltää tällaisen mahdollisuuden. Jos hän kieltää tällaisen mahdollisuuden, hänen täytyy selittää, miksi tämä Jumalan mahdollisuuden kieltävä usko olisi tieteellisempi kuin usko, että älykkään suunnittelijan olemassaolo on mahdollinen. Jos hän taas pitää älykkään suunnittelijan olemassaoloa mahdollisena, hän voi korkeintaan argumentoida, että todistusaineisto tällaisen älykkään suunnittelijan toimintaa vastaan on valtava. Hän ei kuitenkaan voi väittää, että älykkään suunnittelun puolesta todistusaineistoa esittävä tutkija tekee jotakin perustavasti erilaista kuin mitä hän itse tekee tieteellisessä tutkimustyössään. Hän voi vain sanoa, että tällaisen henkilön tieteellinen käsitys on epätosi.[^12]
 
 ### Viitteet
-*Bargum, K. ja Kokko H., *Kutistuva turska ja muita evoluution ihmeitä*, WSOY, 2008, 978-951-0-34020-2
+* Bargum, K. ja Kokko H., *Kutistuva turska ja muita evoluution ihmeitä*, WSOY, 2008, 978-951-0-34020-2
 
 ## Viitteet
 

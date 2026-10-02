@@ -4,7 +4,7 @@ about: apologetics
 title: "Sukupuoli"
 description: "Biologinen sukupuoliero perustuu naisen ja miehen toisiaan täydentäviin tehtäviin lisääntymisessä."
 tags: [apowiki, etiikka, lukusuositukset]
-timestamp: 2026-10-02T05:30:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Sukupuoli".
@@ -121,9 +121,9 @@ Mikäli transsukupuolisuudesta kirjoittaa tutkijana toisin kuin transaktivistit 
 ### Katso myös
 
 #### ApologetiikkaWiki
-*[Seksuaalietiikka](kristillinen-seksuaalietiikka.md)
-*[Homoseksuaalisuus](homoseksuaalisuus.md)
-*[Kristillinen seksuaalietiikka](kristillinen-seksuaalietiikka.md)
+* [Seksuaalietiikka](kristillinen-seksuaalietiikka.md)
+* [Homoseksuaalisuus](homoseksuaalisuus.md)
+* [Kristillinen seksuaalietiikka](kristillinen-seksuaalietiikka.md)
 
 #### Internet
 
@@ -146,8 +146,8 @@ Mikäli transsukupuolisuudesta kirjoittaa tutkijana toisin kuin transaktivistit 
 * [Ryan T. Anderson: Melkein kaikki mitä media sinulle sanoo seksuaalisesta orientaatiosta ja sukupuoli-identiteetistä on väärin (aitoavioliitto.fi)](http://aitoavioliitto.fi/artikkelit/melkein-kaikki-mita-media-sinulle-sanoo-seksuaalisesta-orientaatiosta-ja-sukupuoli-identiteetista-on-vaarin/)
 
 ##### Videot
-*[Café Raamattu > Onko sukupuolia enemmän kuin kaksi? (TV7)](http://www.tv7.fi/vod/player/51321/)
-*[College Kids Say the Darndest Things: On Identity – Family Policy Institute of Washington](https://youtu.be/xfO1veFs6Ho)
+* [Café Raamattu > Onko sukupuolia enemmän kuin kaksi? (TV7)](http://www.tv7.fi/vod/player/51321/)
+* [College Kids Say the Darndest Things: On Identity – Family Policy Institute of Washington](https://youtu.be/xfO1veFs6Ho)
 
 ### Viitteet
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Dietrich von Hildebrand"
 description: "Dietrich von Hildebrand (12 lokakuuta 1889 - 26 tammikuuta 1977) oli saksalainen kristitty filosofi, jonka ajattelu sijoittuu realistisen fenomenologian perinteeseen."
 tags: [apowiki, henkilöt]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Dietrich von Hildebrand".
@@ -70,47 +70,47 @@ Moraalisesti langennut ihminen, joka on tietoinen lankeemuksestaan, liikkuu viel
 Mutta se, joka halventaa seksuaalisuuden salaisuuden tehden siitä pelkän ruumiillisen vietin harmitonta tyydytystä, on sammuttanut moraalisen valon tavassaan katsoa maailmaa. Hän liikkuu yksitoikkoisessa ja vääristyneessä maailmassa, josta puuttuu syvällisyys, jännitys, viehätys ja suuruus. Hän on toivottoman yksitoikkoisuuden ympäröimä, koska hän on sulkenut silmänsä siltä moraaliselta valolta, hyvän ja pahan jännitteeltä, joka ylevöittää ja laajentaa ihmiselämää yli sen ajallisten ja maallisten rajojen.<!-- [^3] -->
 
 ### Osittainen kirjallisuusluettelo
-**Marriage: The Mystery of Faithful Love* (1929)
-**Metaphysics of Community* (1930)
-**In Defense of Purity: An Analysis of the Catholic Ideals of Purity and Virginity* (Longmans, Green and Co., 1931)
-**Actual Questions in the Light of Eternity* (1931)
-**The Essence of Philosophical Research and Knowledge* (1934)
-**Liturgy and Personality* (Longmans, 1943)
-**Transformation in Christ* (Longmans, 1948)
-**Fundamental Moral Attitudes* (Longmans, 1950)
-**Christian Ethics* (McKay, 1952)
-**The New Tower of Babel* (P. J. Kenedy, 1953)
-**Ethics* (Franciscan Herald Press, 1953)
-**True Morality and Its Counterfeits*, with Alice M. Jourdain (McKay, 1955)
-**Graven Images: Substitutes for True Morality*, with Alice M. Jourdain (McKay, 1957)
-**Mozart, Beethoven, Schubert* (J. Habbel, 1961)
-**Not as the World Gives; St. Francis' Message to Laymen Today" (Franciscan Herald Press, 1963)
-**The art of living*, with Alice von Hildebrand (Franciscan Herald Press, 1965)
-**Man and Woman: Love & the Meaning of Intimacy*, (Franciscan Herald Press, 1966)
-**Morality and Situation Ethics*, (Franciscan Herald Press, 1966)
-**Love, Marriage, and the Catholic Conscience: Understanding the Church's Teachings on Birth Control*
-**The Trojan Horse in the City of God: The Catholic Crisis Explained* (Franciscan Herald Press, 1967)
-**The encyclical Humanae vitae, a sign of contradiction; an essay on birth control and Catholic conscience*, (Franciscan Herald Press, 1969)
-**Celibacy and the crisis of faith*, (Franciscan Herald Press, 1971)
-**What is Philosophy?* (Franciscan Herald Press, 1973)
-**The Devastated Vineyard (1973)
-**Jaws of Death: Gate of Heaven* (1976)
-**The Heart: an Analysis of Human and Divine Affectivity*, (Franciscan Herald Press, 1977)
-**Making Christ's Peace a Part of Your Life*
-**Humility: Wellspring of Virtue*
-**The Nature of Love (St. Augustine´s Press, 2010)
+* *Marriage: The Mystery of Faithful Love* (1929)
+* *Metaphysics of Community* (1930)
+* *In Defense of Purity: An Analysis of the Catholic Ideals of Purity and Virginity* (Longmans, Green and Co., 1931)
+* *Actual Questions in the Light of Eternity* (1931)
+* *The Essence of Philosophical Research and Knowledge* (1934)
+* *Liturgy and Personality* (Longmans, 1943)
+* *Transformation in Christ* (Longmans, 1948)
+* *Fundamental Moral Attitudes* (Longmans, 1950)
+* *Christian Ethics* (McKay, 1952)
+* *The New Tower of Babel* (P. J. Kenedy, 1953)
+* *Ethics* (Franciscan Herald Press, 1953)
+* *True Morality and Its Counterfeits*, with Alice M. Jourdain (McKay, 1955)
+* *Graven Images: Substitutes for True Morality*, with Alice M. Jourdain (McKay, 1957)
+* *Mozart, Beethoven, Schubert* (J. Habbel, 1961)
+* *Not as the World Gives; St. Francis' Message to Laymen Today" (Franciscan Herald Press, 1963)
+* *The art of living*, with Alice von Hildebrand (Franciscan Herald Press, 1965)
+* *Man and Woman: Love & the Meaning of Intimacy*, (Franciscan Herald Press, 1966)
+* *Morality and Situation Ethics*, (Franciscan Herald Press, 1966)
+* *Love, Marriage, and the Catholic Conscience: Understanding the Church's Teachings on Birth Control*
+* *The Trojan Horse in the City of God: The Catholic Crisis Explained* (Franciscan Herald Press, 1967)
+* *The encyclical Humanae vitae, a sign of contradiction; an essay on birth control and Catholic conscience*, (Franciscan Herald Press, 1969)
+* *Celibacy and the crisis of faith*, (Franciscan Herald Press, 1971)
+* *What is Philosophy?* (Franciscan Herald Press, 1973)
+* *The Devastated Vineyard (1973)
+* *Jaws of Death: Gate of Heaven* (1976)
+* *The Heart: an Analysis of Human and Divine Affectivity*, (Franciscan Herald Press, 1977)
+* *Making Christ's Peace a Part of Your Life*
+* *Humility: Wellspring of Virtue*
+* *The Nature of Love (St. Augustine´s Press, 2010)
 
 ### Viitteet
 
 ### Lähteet
-*Alice von Hildebrand, *The Soul of a Lion'', a biography (Ignatius Press, 2000, ISBN 0-89870-801-X)
-*Tapio Puolimatka, [Seksuaalivallankumous: perheen ja kulttuurin romahdus (kirja)](seksuaalivallankumous-perheen-ja-kulttuurin-romahdus-kirja.md). Perusanoma 2017.
+* Alice von Hildebrand, *The Soul of a Lion'', a biography (Ignatius Press, 2000, ISBN 0-89870-801-X)
+* Tapio Puolimatka, [Seksuaalivallankumous: perheen ja kulttuurin romahdus (kirja)](seksuaalivallankumous-perheen-ja-kulttuurin-romahdus-kirja.md). Perusanoma 2017.
 
 ### Ulkoiset linkit
-*[Dietrich von Hildebrand Legacy Project](http://www.hildebrandlegacy.org/)
-*[The Roman Forum](http://www.romanforum.org/)
-*[The International Academy of Philosophy](http://www.iap.li/)
-*[Autobiography on CatholicAuthors.com](http://catholicauthors.com/vonhildebrand.html)
+* [Dietrich von Hildebrand Legacy Project](http://www.hildebrandlegacy.org/)
+* [The Roman Forum](http://www.romanforum.org/)
+* [The International Academy of Philosophy](http://www.iap.li/)
+* [Autobiography on CatholicAuthors.com](http://catholicauthors.com/vonhildebrand.html)
 
 [^1]: *verkkolähde*
 [^2]: http://www.hildebrandproject.org/about/ronda-chervin

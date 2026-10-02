@@ -4,7 +4,7 @@ about: apologetics
 title: "Islam"
 description: "Islam on maahanmuuttajien uskonnoista läntisen maailman kannalta hankalin."
 tags: [apowiki, teismi, islam]
-timestamp: 2026-10-02T05:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Islam".
@@ -96,9 +96,9 @@ Länsimaissa media ja elokuvat keskittyvät "poliittisen korrektiuden" takia kri
 ### Islam ja perustelut
 
 Pääperustelu islamin totuudesta näyttää olevan Koraani, jonka sanotaan olevan täydellinen.
-*Tosiasiassa Koraanissa on kieliopillisia virheitä ja kielioppia on jopa yritetty muuttaa, jotta virheitä ei olisi.
-*Kirjallisuutena Koraani ei ole mitenkään loistava.[^42]
-*Joskus todisteena Koraanin luotettavuudelle pidetään sitä, että Koraanista on nykyään olemassa vain yksi versio.[^43] Syynä siihen, että Koraanista on enää yksi versio, on muiden versioiden tuhoaminen islamin alkuaikoina.[^44]
+* Tosiasiassa Koraanissa on kieliopillisia virheitä ja kielioppia on jopa yritetty muuttaa, jotta virheitä ei olisi.
+* Kirjallisuutena Koraani ei ole mitenkään loistava.[^42]
+* Joskus todisteena Koraanin luotettavuudelle pidetään sitä, että Koraanista on nykyään olemassa vain yksi versio.[^43] Syynä siihen, että Koraanista on enää yksi versio, on muiden versioiden tuhoaminen islamin alkuaikoina.[^44]
 
 Vaikka Mohammed ei tehnyt ihmeitä[^45], Koraani myöntää Jeesuksen syntyneen neitseestä, tehneen ihmeitä, jopa herättäneen kuolleita.
 
@@ -139,16 +139,16 @@ Islamistien 2.3.2011 murhaama Pakistanin vähemmistöministeri **[Shahbaz Bhatti
 
 #### Kirjallisuutta
 
-*N. Geisler ja A. Saleeb: *Answering Islam*
-*R. Soramies: *Islam ovellamme*
-*Pekka Sartola: *Islam - ystävä vai vihollinen? <!-- red link: Islam - ystävä vai vihollinen? -->* Ajanteos
-*Johanna Al-Sain & Ernst Schrupp: *Taistelin Allahin puolesta*; PerusSanoma
+* N. Geisler ja A. Saleeb: *Answering Islam*
+* R. Soramies: *Islam ovellamme*
+* Pekka Sartola: *Islam - ystävä vai vihollinen? <!-- red link: Islam - ystävä vai vihollinen? -->* Ajanteos
+* Johanna Al-Sain & Ernst Schrupp: *Taistelin Allahin puolesta*; PerusSanoma
 
 #### Internet
 
-*[Huomenta Suomi: Hamasin kasvatista rauhan mieheksi (video, 9 min)](http://www.katsomo.fi/?progId=71943), Mosab Hassan Yousefin haastattelu 21.6.2011
-*[Muslim Demographics (video)](http://www.youtube.com/watch?v=6-3X5hIFXYU)
-*[ISLAM: Mitä lännen tulee tietää (1/13) (video)](http://www.youtube.com/watch?v=sbLfpqBx2TU)
+* [Huomenta Suomi: Hamasin kasvatista rauhan mieheksi (video, 9 min)](http://www.katsomo.fi/?progId=71943), Mosab Hassan Yousefin haastattelu 21.6.2011
+* [Muslim Demographics (video)](http://www.youtube.com/watch?v=6-3X5hIFXYU)
+* [ISLAM: Mitä lännen tulee tietää (1/13) (video)](http://www.youtube.com/watch?v=sbLfpqBx2TU)
 
 ### Viitteet
 

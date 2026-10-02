@@ -4,7 +4,7 @@ about: apologetics
 title: "Argumentti tietoisuudesta"
 description: "Tietoisen kokemuksen olemassaolo on asia, jonka järjellinen kyseenalaistaminen näyttää mahdottomalta."
 tags: [apowiki, sielu, tyngät]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Argumentti tietoisuudesta".
@@ -22,10 +22,10 @@ Tietoisen kokemuksen olemassaolo on asia, jonka järjellinen kyseenalaistaminen 
 
 ### Katso myös
 #### ApologetiikkaWiki
-*[Vapaa tahto](vapaa-tahto.md)
-*[Kuolemanrajakokemukset](kuolemanrajakokemukset.md)
+* [Vapaa tahto](vapaa-tahto.md)
+* [Kuolemanrajakokemukset](kuolemanrajakokemukset.md)
 
 #### Internet
 
-*[T. Ilari: Kvaliat, emergenssi ja teismi](https://uskojarkijafilosofia.wordpress.com/2011/07/16/kvaliat-emergenssi-ja-teismi-osa-1/) 5-osaisen kirjoitussarjan ensimmäinen osa. [Lyhyempi kirjoitus samasta aiheesta](https://uskojarkijafilosofia.wordpress.com/2011/01/25/argumentti-tietoisesta-kokemuksesta-lyhyesti/).
-*[T. Ilari: Naturalismin suurin ongelma](https://uskojarkijafilosofia.wordpress.com/2011/07/07/naturalismin-suurin-ongelma/)
+* [T. Ilari: Kvaliat, emergenssi ja teismi](https://uskojarkijafilosofia.wordpress.com/2011/07/16/kvaliat-emergenssi-ja-teismi-osa-1/) 5-osaisen kirjoitussarjan ensimmäinen osa. [Lyhyempi kirjoitus samasta aiheesta](https://uskojarkijafilosofia.wordpress.com/2011/01/25/argumentti-tietoisesta-kokemuksesta-lyhyesti/).
+* [T. Ilari: Naturalismin suurin ongelma](https://uskojarkijafilosofia.wordpress.com/2011/07/07/naturalismin-suurin-ongelma/)

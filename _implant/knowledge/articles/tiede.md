@@ -4,7 +4,7 @@ about: apologetics
 title: "Tiede"
 description: "Tiede tarkoittaa todellisuuden ilmiöiden ja niiden välisten suhteiden järjestelmällistä ja arvostelevaa tutkimista sekä sen avulla saatua tietojen jäsentynyttä kokonaisuutta."
 tags: [apowiki, tieteenfilosofia]
-timestamp: 2026-10-02T01:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tiede".
@@ -42,11 +42,11 @@ Tiede nähdään yleensä populaarissa kulttuurissa järjestelmällisenä ja kri
 Toinen tapa on käsittää tiede empiiris-sosiologisesti: tiede on sitä, mitä [tiedeyhteisö](https://fi.wikipedia.org/wiki/tiedeyhteisö) tekee. Näin ajatellen puhe erityisestä tieteellisestä maailmankatsomuksesta joutuu outoon valoon, sillä tieteen piirissä toimivilla tutkijoilla ei ole mitään yhtä yhtenäistä maailmankatsomusta. Yksimielisyyttä ei ole siitäkään, mikä on totuus jonkin tietyn tutkimusalan kysymyksistä tai mikä olisi paras tapa viedä tutkimusta eteenpäin, vaan tiedeyhteisö päinvastoin keskustelee ja väittelee näistä aiheista kaiken aikaa. Kilpailevat akateemiset koulukunnat ja tutkimusryhmät kamppailevat keskenään tutkimusviroista ja -rahoituksesta. Näitä ilmiöitä tutkimaan on syntynyt oma tieteenalakin: [tieteensosiologia](https://fi.wikipedia.org/wiki/tieteensosiologia).
 
 #### Kristinusko perustelee tieteen huomaamattomat uskomukset
-*Miksi todellisuus olisi ymmärrettävä?
-*Miksi aistit antaisivat luotettavaa tietoa?
-*Miksi todellisuus olisi järkevä?
-*Miksi ihmisen järki olisi luotettava?
-*Miksi asiat luonnossa noudattaisivat lakeja?
+* Miksi todellisuus olisi ymmärrettävä?
+* Miksi aistit antaisivat luotettavaa tietoa?
+* Miksi todellisuus olisi järkevä?
+* Miksi ihmisen järki olisi luotettava?
+* Miksi asiat luonnossa noudattaisivat lakeja?
 
 #### Tiede ja tieteisuskon myytti
 Varsinkin tieteentekijöiden keskuudessa yleinen myytti tieteestä on, että tieteessä kaikki on todistettua, perusteltua ja/tai että tiede edustaa jotenkin korkea-arvoista systemaattista epäilyä. Suomessa tällaisesta ajattelusta tunnettu esimerkki on Esko Valtaoja. Vastaavasti samat henkilöt usein määrittelevät uskonnon tieteellisen tiedon vastakohdaksi, uskoksi, jota uskotaan perusteiden puuttuessa tai jopa perusteita vastaan. Molemmat käsitykset ovat myyttisiä. Todellisuudessa uskonnoilla, ainakin kristinuskolla, on hyviä järkiperusteluita ja se on itseään korjaavaa, vrt. esimerkiksi uskonpuhdistus. (Tieteisuskovalle on tietysti kätevää väittää ettei muilla ole perusteluita kannalleen.)
@@ -156,8 +156,8 @@ Asian ydin on siis siinä, että metodologinen naturalismi on käynyt aivan liia
 ### Katso myös
 
 #### Kirjallisuutta
-*Del Ratzsch, Nature, Design, and Science: the Status of Design in Natural Science, 2001, State University of New York Press. (Tämä huomattavan tieteenfilosofin kirja sisältää joitakin ylläolevan suuntaisia ajatuksia [Suunnitteluteorian](suunnitteluteoria.md) asemasta luonnontieteissä ja totuuden etsimisestä.)
-*Kristillisiä artikkeleita luonnontieteen alueelta https://www.namb.net/apologetics-results?query=&filter%5B0%5D=230.
+* Del Ratzsch, Nature, Design, and Science: the Status of Design in Natural Science, 2001, State University of New York Press. (Tämä huomattavan tieteenfilosofin kirja sisältää joitakin ylläolevan suuntaisia ajatuksia [Suunnitteluteorian](suunnitteluteoria.md) asemasta luonnontieteissä ja totuuden etsimisestä.)
+* Kristillisiä artikkeleita luonnontieteen alueelta https://www.namb.net/apologetics-results?query=&filter%5B0%5D=230.
 
 #### Internet
 * [Kuinka moderni tiede syntyi Euroopassa Paolo Rossin mukaan (Areiopagi.fi)](https://www.areiopagi.fi/2017/06/kuinka-moderni-tiede-syntyi-euroopassa-paolo-rossin-mukaan/)

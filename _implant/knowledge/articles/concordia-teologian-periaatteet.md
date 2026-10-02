@@ -4,7 +4,7 @@ about: apologetics
 title: "Concordia-teologian periaatteet"
 description: "Apologetiikkaa voi pitää teologian osa-alueena, ja näin ajatellen apologetiikkaan keskittyvä sivusto rajaa muun teologian ulkopuolelleen (samoin kuin esim."
 tags: [apowiki, yleistä-tietoa]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Concordia-teologian periaatteet".
@@ -92,9 +92,9 @@ Termistön taustana on "hylomorfistinen" ajatus, jonka mukaan kaikki on tehty jo
 #### "Usko yksin": Mitä se on?
 
 Concordia-teologian mukaan Raamattu sisältää informaation, velvoitteen ja voiman jäsentää sisältönsä uskonvanhurskauden opin ympärille: koko raamatullinen teologia on jäsennettävissä
-*itse uskonvanhurskauden opiksi sekä
-*sen edellytyksiksi (lat. *antecedens*)  ja
-*sen seurauksiksi (lat. *consequens*).
+* itse uskonvanhurskauden opiksi sekä
+* sen edellytyksiksi (lat. *antecedens*)  ja
+* sen seurauksiksi (lat. *consequens*).
 (Ks. tarkemmin: Franz Pieper: *Kristillinen dogmatiikka*.) Näin Raamattu selitetään Raamatun itsensä eikä ihmisviisauden mukaisesti.
 
 Luterilaisen teologian tarkka esittäminen ei ole tässä yhteydessä mahdollinenkaan tavoite. On kuitenkin syytä todeta edes muutama keskeinen seikka:

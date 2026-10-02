@@ -4,7 +4,7 @@ about: apologetics
 title: "World Without Design (kirja)"
 description: "World Without Design: The Ontological Consequences of Naturalism on Michael C."
 tags: [apowiki, kirjat, filosofia]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "World Without Design (kirja)".
@@ -81,7 +81,7 @@ Mikä tahansa supranaturalismin muoto ei auta välttämään naturalismin rajoit
 Supranaturalismin oletuksen mukaan naturalismin tiedonlähteiden rajoitukset ajavat ihmisen tilanteeseen, jossa hän ei pysty oikeuttamaan perustavaa tietoaan maailmasta. Myös aineellista todellisuutta koskeva tieto saa oikeutuksensa vasta kun ihmisellä on riittävä syy uskoa, että Jumala on luonut maailman niin, että se mikä on teoreettisesti hyödyllistä vie ihmistä lähemmäksi totuutta. Lisäksi ihmisen on voitava perustellusti olettaa, että Jumala on rakentanut biologiset organismit toimimaan tarkoituksenmukaisesti ja että niiden toiminnan tarkoituksenmukaisuus on mahdollista havaita empiirisesti tai intuitiivisesti. Lisäksi on oletettava, että Jumala on antanut ihmiselle intuitiivisen kyvyn muodostaa luotettavia käsityksiä esineiden ja olioiden luontaisista ominaisuuksista ja kyvyn määritellä ainakin joissakin tapauksissa, milloin tiedolliset olosuhteet ovat sopivia tällaisen intuition luotettavaan harjoittamiseen. Niinpä kaikki supranaturalismin muodot eivät pysty välttämään naturalismin ongelmia, sen sijaan jotkin tavalliset supranaturalismin muunnelmat onnistuvat tässä.[^7]
 
 ### Lähteet
-*[Rea, Michael C.](michael-c-rea.md), *World Without Design*, Clarendon Press, 2002, 0-19-924760-9
+* [Rea, Michael C.](michael-c-rea.md), *World Without Design*, Clarendon Press, 2002, 0-19-924760-9
 
 ### Viitteet
 

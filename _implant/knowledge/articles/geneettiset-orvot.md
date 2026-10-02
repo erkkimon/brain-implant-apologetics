@@ -4,7 +4,7 @@ about: apologetics
 title: "Geneettiset orvot"
 description: "Lisääntymisteknologian kehitys on tehnyt monille lapsettomille pareille mahdolliseksi lapsen saamisen."
 tags: [apowiki, seksuaalietiikka]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Geneettiset orvot".
@@ -234,62 +234,62 @@ Koska lapset eivät voi osallistua siihen prosessiin, jossa heidät tuotetaan, e
 
 ### Kirjallisuus
 
-*Agacinski, Sylviane (2001) Parity of the Sexes. Käänt. Lisa Walsh. New York: Columbia University Press.
-*Agacinski, Sylviane (2013) “Deux méres = un pére?”, Le Monde 03.02. 2013.
-*Allen, Douglas (2015) “More Heat than Light: a critical assessment of the same-sex parenting literature, 1995-2013.” Marriage & Family Review 51: 154-182.
-*Anderson, Elizabeth (1990) “Is Women’s Labor a Commodity?” Philosophy and Public Affairs 19: 71−92.
-*Anderson, Ryan T. (2015) Truth Overruled: The Future of Marriage and Religious Freedom. Regnery Publishing.
-*Andre, Amy (2014) “The Doctor Is Out… And Outspoken: An Interview With Dr. Lisa Diamond,” Huffpost Gay Voices, June 5, 2014.
-*Bartlett, Kelly (2014) “Gender, Discrimination, and Marriage,” The Public Discourse, March 3rd, 2014.
-*Bindel, Julie (2015) “The International Baby Business: Surrogacy is giving gay parenting a bad name.” The Weekly Standard. July 27, 2015, Vol 20. No 43.
-*Blankenhorn, David (1995) Fatherless America: Confronting Our Most Urgent Social Problem. New York: Basic.
-*Blankenhorn, David (2007) The Future of Marriage. New York: Encounter Books.
-*Budziszewski, J. (2012) Tätä emme voi olla tietämättä. Helsinki: Uusi Tie.
-*Corvino, John (2014) Mitä väärää on homoseksuaalisuudessa? Suom. Kirsi Luoma. Helsinki: Like.
-*Edelman, Rivka (2015) ”Secular Israel, Gays, and Surrogacy”, teoksessa Robert Oscar Lopez & Rivka Edelman (toim.) Jephtha’s Daughters, ss. 143−150. Los Angeles, CA: International Children’s Rights Institute.
-*Esolen, Anthony (2014) Defending Marriage: Twelve Arguments for Sanity. Charlotte, NC: Saint Benedict Press.
-*Farrow, Douglas (2005) “Rights and Responsibilities”, teoksessa Daniel Cere & Douglas Farrow (toim.) Divorcing Marriage: Unveiling the Dangers in Canada’s New Social Experiment. Montreal: McQuill-Queens University Press, 97−119.
-*Faust, Katy (2015) ”Childless Women”, teoksessa Robert Oscar Lopez & Rivka Edelman (toim.) 161−164.
-*Grech, Narelle (2012) Does Biology Matter? http://t5sdaughter.blogspot.fi/
-*Gupta, Jyotsna Agnohotri (2012) “Reprodutive  Biocrossings: Indian Egg Donors and Surrogates in the Globalized Fertility Market.” International Journal of Feminist Approaches to Bioethics 5 (1): 25−51.
-*Holbrook, Jon (2015) “The inhumanity of Britain’s surrogacy laws”, Spiked-online 27.5. 2015.
-*Irigaray, Luce (1996). Sukupuolieron etiikka. Suom. Pia Sivenius. Helsinki: Gaudeamus.
-*Johnson, Jennifer (2015) “Breaking the Sexual Revolution’s New Taboos,” Christian Post, June 30, 2015.
-*Korhonen, Johanna & Östman, Jeanette (toim.) Kaikella rakkaudella. Sanoja seksuaalisuudesta ja sukupuolesta. Helsinki: Into-kustannus.
-*Laukkanen, Emmi (2015) “Luulin, että poliitikot ovat erilaisia kuin minä”. Me Naiset 21/2015, 21.5. 2015, ss.. 22−24.
-*Lee, Patrick & George, Robert P. (2014) Conjugal Union: What Marriage is and Why It Matters. Cambridge: Cambridge University Press.
-*Ligtvoet, Frank (2013) “The Misnomer of Motherless Parenting”, New York Times 07/2013.
-*Lloyd, Jean (2015) “The Wrong Kind of Rights: Same-Sex Marriage, Third-Party Reproduction, and the Sexualization of Children.” The Public Discourse May 05, 2015.
-*Lopez, Robert Oscar (2013) “Same-Sex Parenting: Child Abuse?” Public Discourse July 10, 2013.
-*Lopez, Robert Oscar (2015) “The Call of the Child”, teoksessa Lopez & Edelman (toim.) 19−29.
-*Lopez, Robert Oscar (2015) “Birth Certificates”, teoksessa Lopez & Edelman (toim.) 113−121.
-*Lopez, Robert Oscar (2015) “The Problem of Women,” teoksessa Lopez & Edelman (toim) 2015: 131−142.
-*Lopez, Robert Oscar & Rivka Edelman (toim.) (2015) Jephthah’s Daughters: Innocent Casualities in the War for Family “Equality”. Los Angelels, CA.
-*MacIntyre, Alasdair (1981) After Virtue. Notre Dame, Ind.: University of Notre Dame Press.
-*Marquardt, Elizabeth (2005) Family Structure and Children’s Educational Outcomes. New York: Institute for American Values.
-*Marquardt, Elizabeth & Glenn, Norval D. & Clark, Karen (2010) “My daddy’s name is DONOR: A New Study of Young Adults Conceived through Sperm Donation,” Report from the Institute for American Values. New York: Institute of American Values.
-*Monahan, P. (2005) “Civil Union is Not Real Marriage,” Globe and Mail,  26 January: A15.
-*Oliver, Kelly (1989) “Marxism and Surrogacy”, Hypatia 4 (3): 95−115.
-*Palkoviz, Rob (2013) “Gendered Parenting’s Implications for Children’s Well-Being”, teoksessa W. Bradford Wilcox & Kathleen Kovner Kline (toim.) Gender and Parenthood: Biological and Social Scientific Perspectives. New York: Columbia University Press, 215−248.
-*Pande, Amrita (2014) Wombs in Labor: Transnational Commercial Surrogacy in India. New York: Columbia University Press.
-*Parke, Ross D. (2013) “Gender Differences and Similarities in Parental Behavior”, teoksessa W. Bradford Wilcox & Kathleen Kovner Kline (toim.) Gender and Parenthood. Biological and Social Scientific Perspectives. New York: Columbia University Press.
-*Pateman, Carole (1988) The Sexual Contract. Stanford, CA: Stanford University Press.
-*Puolimatka, Tapio (2014) Lapsen ihmisoikeus, oikeus isään ja äitiin. Ryttylä: Suunta-kirjat
-*Puolimatka, Tapio (2016) Yhteiskuntakoe lapsilla. Helsinki: Kuva ja Sana.
-*Rauch, Jonathan (2004) Gay Marriage: Why It Is Good for Gays, Good for Straights, and Good For America. New York: Times Books.
-*Rothman, Barbara Katz (2000) Recreating Motherhood: Ideology and Technology in a Patriarchal Society. New Brunswick, NJ: Rutgers University Press.
-*Schaerr, Gene (2015) “Advocates of Same-Sex Marriage Are Wrong to Claim It Poses No Risk to the Marriage Ecosystem,” National Review, April 24, 2015.
-*Scruton, Roger (2006) “Sacrilege and Sacrament”, teoksessa Robert P. George & Jean Bethke Elshtain (toim.) The Meaning of Marriage: Family, State, Market & Morals. Dallas: Spence Publishing Company.
-*Scruton, Roger (2006b) Sexual Desire. A Philosophical Investigation. London: Continuum.
-*Scruton, Roger & Blond, Phillip (2012) “Marriage: Union for the Future or Contract for the Present”, ResPublica.
-*Sloan, Kathleen (2015) ”Stop Surrogacy Now: Why We Must Unite.” Public Discourse, May 22nd, 2015.
-*Somerville, Margaret (2005) “What about Children?”, teoksessa Daniel Cere & Douglas Farrow (toim.) Divorcing Marriage: Unveiling the Dangers in Canada’s New Social Experiment. Montreal: McQuill-Queens University Press, 63−78.
-*Somerville, Margaret (2007) “Children’s human rights and unlinking child-parent biological bonds with adoption, same-sex marriage and new reproductive technologies,” Journal of Family Studies, Vol. 13, Issue 2, November 2007.
-*Stefanowics, Dawn (2007) “The Sad side of Gay Parenting.” www.nercatornet.com/articles/view/the_sad_side_of_gay_parenting/
-*Sullins, D. Paul (2015) “Emotional Problems among Children with Same-sex Parents: Difference by Definition”, British Journal of Education, Society, and Behavioral Science 7 (2): 99−120.
-*van Gend, David (2015) “Ireland abandons its children,” Mercatornet May 25, 2015.
-*Wilcox, Brad (2006) “The Evolution of Divorce,” National Affairs (Fall 2006).
-*Östman, Jeannette (2014) “Tasa-arvo”, teoksessa Johanna Korhonen & Jeanette Östman (toim.) Kaikella rakkaudella. Sanoja seksuaalisuudesta ja sukupuolesta. Helsinki: Into-kustannus.
+* Agacinski, Sylviane (2001) Parity of the Sexes. Käänt. Lisa Walsh. New York: Columbia University Press.
+* Agacinski, Sylviane (2013) “Deux méres = un pére?”, Le Monde 03.02. 2013.
+* Allen, Douglas (2015) “More Heat than Light: a critical assessment of the same-sex parenting literature, 1995-2013.” Marriage & Family Review 51: 154-182.
+* Anderson, Elizabeth (1990) “Is Women’s Labor a Commodity?” Philosophy and Public Affairs 19: 71−92.
+* Anderson, Ryan T. (2015) Truth Overruled: The Future of Marriage and Religious Freedom. Regnery Publishing.
+* Andre, Amy (2014) “The Doctor Is Out… And Outspoken: An Interview With Dr. Lisa Diamond,” Huffpost Gay Voices, June 5, 2014.
+* Bartlett, Kelly (2014) “Gender, Discrimination, and Marriage,” The Public Discourse, March 3rd, 2014.
+* Bindel, Julie (2015) “The International Baby Business: Surrogacy is giving gay parenting a bad name.” The Weekly Standard. July 27, 2015, Vol 20. No 43.
+* Blankenhorn, David (1995) Fatherless America: Confronting Our Most Urgent Social Problem. New York: Basic.
+* Blankenhorn, David (2007) The Future of Marriage. New York: Encounter Books.
+* Budziszewski, J. (2012) Tätä emme voi olla tietämättä. Helsinki: Uusi Tie.
+* Corvino, John (2014) Mitä väärää on homoseksuaalisuudessa? Suom. Kirsi Luoma. Helsinki: Like.
+* Edelman, Rivka (2015) ”Secular Israel, Gays, and Surrogacy”, teoksessa Robert Oscar Lopez & Rivka Edelman (toim.) Jephtha’s Daughters, ss. 143−150. Los Angeles, CA: International Children’s Rights Institute.
+* Esolen, Anthony (2014) Defending Marriage: Twelve Arguments for Sanity. Charlotte, NC: Saint Benedict Press.
+* Farrow, Douglas (2005) “Rights and Responsibilities”, teoksessa Daniel Cere & Douglas Farrow (toim.) Divorcing Marriage: Unveiling the Dangers in Canada’s New Social Experiment. Montreal: McQuill-Queens University Press, 97−119.
+* Faust, Katy (2015) ”Childless Women”, teoksessa Robert Oscar Lopez & Rivka Edelman (toim.) 161−164.
+* Grech, Narelle (2012) Does Biology Matter? http://t5sdaughter.blogspot.fi/
+* Gupta, Jyotsna Agnohotri (2012) “Reprodutive  Biocrossings: Indian Egg Donors and Surrogates in the Globalized Fertility Market.” International Journal of Feminist Approaches to Bioethics 5 (1): 25−51.
+* Holbrook, Jon (2015) “The inhumanity of Britain’s surrogacy laws”, Spiked-online 27.5. 2015.
+* Irigaray, Luce (1996). Sukupuolieron etiikka. Suom. Pia Sivenius. Helsinki: Gaudeamus.
+* Johnson, Jennifer (2015) “Breaking the Sexual Revolution’s New Taboos,” Christian Post, June 30, 2015.
+* Korhonen, Johanna & Östman, Jeanette (toim.) Kaikella rakkaudella. Sanoja seksuaalisuudesta ja sukupuolesta. Helsinki: Into-kustannus.
+* Laukkanen, Emmi (2015) “Luulin, että poliitikot ovat erilaisia kuin minä”. Me Naiset 21/2015, 21.5. 2015, ss.. 22−24.
+* Lee, Patrick & George, Robert P. (2014) Conjugal Union: What Marriage is and Why It Matters. Cambridge: Cambridge University Press.
+* Ligtvoet, Frank (2013) “The Misnomer of Motherless Parenting”, New York Times 07/2013.
+* Lloyd, Jean (2015) “The Wrong Kind of Rights: Same-Sex Marriage, Third-Party Reproduction, and the Sexualization of Children.” The Public Discourse May 05, 2015.
+* Lopez, Robert Oscar (2013) “Same-Sex Parenting: Child Abuse?” Public Discourse July 10, 2013.
+* Lopez, Robert Oscar (2015) “The Call of the Child”, teoksessa Lopez & Edelman (toim.) 19−29.
+* Lopez, Robert Oscar (2015) “Birth Certificates”, teoksessa Lopez & Edelman (toim.) 113−121.
+* Lopez, Robert Oscar (2015) “The Problem of Women,” teoksessa Lopez & Edelman (toim) 2015: 131−142.
+* Lopez, Robert Oscar & Rivka Edelman (toim.) (2015) Jephthah’s Daughters: Innocent Casualities in the War for Family “Equality”. Los Angelels, CA.
+* MacIntyre, Alasdair (1981) After Virtue. Notre Dame, Ind.: University of Notre Dame Press.
+* Marquardt, Elizabeth (2005) Family Structure and Children’s Educational Outcomes. New York: Institute for American Values.
+* Marquardt, Elizabeth & Glenn, Norval D. & Clark, Karen (2010) “My daddy’s name is DONOR: A New Study of Young Adults Conceived through Sperm Donation,” Report from the Institute for American Values. New York: Institute of American Values.
+* Monahan, P. (2005) “Civil Union is Not Real Marriage,” Globe and Mail,  26 January: A15.
+* Oliver, Kelly (1989) “Marxism and Surrogacy”, Hypatia 4 (3): 95−115.
+* Palkoviz, Rob (2013) “Gendered Parenting’s Implications for Children’s Well-Being”, teoksessa W. Bradford Wilcox & Kathleen Kovner Kline (toim.) Gender and Parenthood: Biological and Social Scientific Perspectives. New York: Columbia University Press, 215−248.
+* Pande, Amrita (2014) Wombs in Labor: Transnational Commercial Surrogacy in India. New York: Columbia University Press.
+* Parke, Ross D. (2013) “Gender Differences and Similarities in Parental Behavior”, teoksessa W. Bradford Wilcox & Kathleen Kovner Kline (toim.) Gender and Parenthood. Biological and Social Scientific Perspectives. New York: Columbia University Press.
+* Pateman, Carole (1988) The Sexual Contract. Stanford, CA: Stanford University Press.
+* Puolimatka, Tapio (2014) Lapsen ihmisoikeus, oikeus isään ja äitiin. Ryttylä: Suunta-kirjat
+* Puolimatka, Tapio (2016) Yhteiskuntakoe lapsilla. Helsinki: Kuva ja Sana.
+* Rauch, Jonathan (2004) Gay Marriage: Why It Is Good for Gays, Good for Straights, and Good For America. New York: Times Books.
+* Rothman, Barbara Katz (2000) Recreating Motherhood: Ideology and Technology in a Patriarchal Society. New Brunswick, NJ: Rutgers University Press.
+* Schaerr, Gene (2015) “Advocates of Same-Sex Marriage Are Wrong to Claim It Poses No Risk to the Marriage Ecosystem,” National Review, April 24, 2015.
+* Scruton, Roger (2006) “Sacrilege and Sacrament”, teoksessa Robert P. George & Jean Bethke Elshtain (toim.) The Meaning of Marriage: Family, State, Market & Morals. Dallas: Spence Publishing Company.
+* Scruton, Roger (2006b) Sexual Desire. A Philosophical Investigation. London: Continuum.
+* Scruton, Roger & Blond, Phillip (2012) “Marriage: Union for the Future or Contract for the Present”, ResPublica.
+* Sloan, Kathleen (2015) ”Stop Surrogacy Now: Why We Must Unite.” Public Discourse, May 22nd, 2015.
+* Somerville, Margaret (2005) “What about Children?”, teoksessa Daniel Cere & Douglas Farrow (toim.) Divorcing Marriage: Unveiling the Dangers in Canada’s New Social Experiment. Montreal: McQuill-Queens University Press, 63−78.
+* Somerville, Margaret (2007) “Children’s human rights and unlinking child-parent biological bonds with adoption, same-sex marriage and new reproductive technologies,” Journal of Family Studies, Vol. 13, Issue 2, November 2007.
+* Stefanowics, Dawn (2007) “The Sad side of Gay Parenting.” www.nercatornet.com/articles/view/the_sad_side_of_gay_parenting/
+* Sullins, D. Paul (2015) “Emotional Problems among Children with Same-sex Parents: Difference by Definition”, British Journal of Education, Society, and Behavioral Science 7 (2): 99−120.
+* van Gend, David (2015) “Ireland abandons its children,” Mercatornet May 25, 2015.
+* Wilcox, Brad (2006) “The Evolution of Divorce,” National Affairs (Fall 2006).
+* Östman, Jeannette (2014) “Tasa-arvo”, teoksessa Johanna Korhonen & Jeanette Östman (toim.) Kaikella rakkaudella. Sanoja seksuaalisuudesta ja sukupuolesta. Helsinki: Into-kustannus.
 
 ### Viitteet
 

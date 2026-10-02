@@ -4,7 +4,7 @@ about: apologetics
 title: "Tiedekeskustelun avoimuuskoe (kirja)"
 description: "Tiedekeskustelun avoimuuskoe on Tapio Puolimatkan kirjoittama kirja, joka analysoi tieteellisen tutkimuksen ja itsekriittisen tiedeyhteisön perusedellytyksiä."
 tags: [apowiki, kirjat, tapio-puolimatka, tieteenfilosofia]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tiedekeskustelun avoimuuskoe (kirja)".
@@ -396,8 +396,8 @@ Länsimaissa vallitsevan mielikuvan mukaan älyllisesti itsenäinen ja rohkea ih
   * 6.6.1. Pelkistävän lähestymistavan peruskertomus
   * 6.6.2. Pelkistävä näkemys ei tee oikeutta ei-fysikaalisille osa-alueille
   * 6.6.3. Pelkistävien näkemysten itsensä kumoavuus
-**6.6.4. Pelkistävä näkemys on luonteeltaan uskonnollinen
-*6.7. Miksi kokonaisvaltaisen sattuman käsite ei riitä selityksen perustaksi?
+  * 6.6.4. Pelkistävä näkemys on luonteeltaan uskonnollinen
+* 6.7. Miksi kokonaisvaltaisen sattuman käsite ei riitä selityksen perustaksi?
   * 6.7.1 Sattuma ei voi vaikuttaa tilanteessa, jossa mitään ei ole olemassa
   * 6.7.2 Sattumaan perustuva selitys merkitsee magian paluuta
 * 6.8. Naturalismin vararikko johtaa suljettuun tiedeyhteisöön
@@ -542,7 +542,7 @@ Länsimaissa vallitsevan mielikuvan mukaan älyllisesti itsenäinen ja rohkea ih
 * Hitler, Adolf (1961) Hitler’s Secret Book. Käänt. S. Attanasio. New York: Grove Press.
   * (1974) Mein Kampf. Käänt. R. Manheim. London: Hutchinson.
   * (1988) Hitler’s Table Talk, 1941-1944. Käänt. N. Cameron & R. H. Stevens. Oxford: Oxford University Press.
-*Holden, Constance (1981) “The Politics of Anthropology”. Science 213: 737–740.
+* Holden, Constance (1981) “The Politics of Anthropology”. Science 213: 737–740.
 * Honkimäki, Hermanni (2009) “Professori Puolimatka: Ateismin älyllinen perusta murenee”, Ilkka 9.5. 2009.
 * Hooykaas, R. (1977) Religion and the Rise of Modern Science. Edinburgh: Scottish Academy Press.
 * Houghton, John (1995) The Search for God – Can Science Help? Oxford. Lion Publishing.
@@ -553,8 +553,8 @@ Länsimaissa vallitsevan mielikuvan mukaan älyllisesti itsenäinen ja rohkea ih
   * (1960) “The Emergence of Darwinism”, teoksessa Sol Tax (toim.) Evolution of Life. Chicago: University of Chicago Press.
 * Huxley, Thomas Henry (1869) “On the Physical Basis of Life”, The Fortnightly Review 5: 129-145.
 * Itoi, Lydia (2005) “Exceptional Healing”, Time 10.10.2005.
-*Johnson, Phillip (1993) Darwin on Trial. 2nd edition. Downers Grove, Ill: InterVarsity Press.
-**(1994) “Foreword”, teoksessa J. P. Moreland (toim.) The Creation Hypothesis: Scientific Evidence for an Intelligent Designer. Downers Grove, Ill.: InterVarsity Press.
+* Johnson, Phillip (1993) Darwin on Trial. 2nd edition. Downers Grove, Ill: InterVarsity Press.
+  * (1994) “Foreword”, teoksessa J. P. Moreland (toim.) The Creation Hypothesis: Scientific Evidence for an Intelligent Designer. Downers Grove, Ill.: InterVarsity Press.
 * Jonatan (2007) “Tyhjyyttä täynnä”, Kodin kuvalehti 27.9. 2007, s. 146.
 * Järnefelt, Elina (2008) “Uskonnolliset opit mukailevat monilta osin arkiajattelua”, Helsingin Sanomat 22.11. 2008.
 * Järvinen, Risto K. (2009a) ”Puolimatkan teesit”, Skeptikko 1/2009: 4–8.
@@ -742,17 +742,17 @@ Länsimaissa vallitsevan mielikuvan mukaan älyllisesti itsenäinen ja rohkea ih
 * Weinberg, Steven (1977) The First three Minutes: A Modern View of the Origin of the Universe.
   * New York: Basic. (1999) Unelmia viimeisestä teoriasta. Suom. Jukka Maalampi. Helsinki: Art House.
 * Weiss, Sheila Faith (1987) Race Hygiene and National Efficiency: The Eugenics of Wilhelm Schallmayer. Berkeley: University of California Press.
-*Weisskopf, Victor F. (1977) ”The Frontiers and Limits of Science”, American Scientist 65 (July/August 1977).
-*Wells, Jonathan (2009) “Why Darwinism is False”. _ HYPERLINK "http://www.discovery.org" __www.discovery.org_
-*Wenham, D. (1985) ”Source Criticism”, teoksessa Howard I. Marshall (toim.) New Testament Interpretation. Essays on Principles and Methods. 2p.
-*Whewell, William (1847) The Philosophy of the Inductive Sciences, Founded upon Their History. 2nd ed. 2 vols. London: Parker.
-*Whitehead, Alfred North (1953) Science and the Modern World. Cambridge: Cambridge University Press.
-*Wiker, Benjamin (2009) The Darwin Myth: The Life and Lies of Charles Darwin. Washinton, D. C.: Regnery Publishing.
-*Wilson, Edward O. (1978) On Human Nature. Cambridge, MA: Harvard University Press.
-*Woese, Carl (2001) “Translation: In Retrospect and Prospect”, RNA 2001.
-*Wolterstorff, Nicholas (2008) Justice: Rights and Wrongs. Princeton: Princeton University Press.
-*Wykstra, Stephen (1996) “Should Worldviews Shape Science? Toward an Integrationist Account of Scientific Theorizing”, teoksessa Jitse M. van der Meer (toim.) Facets of Faith and Science, vol. II: 123–171.
-*Ylikoski, Petri & Kokkonen, Tomi (2009) Evoluutio ja ihmisluonto. Helsinki: Gaudeamus
+* Weisskopf, Victor F. (1977) ”The Frontiers and Limits of Science”, American Scientist 65 (July/August 1977).
+* Wells, Jonathan (2009) “Why Darwinism is False”. _ HYPERLINK "http://www.discovery.org" __www.discovery.org_
+* Wenham, D. (1985) ”Source Criticism”, teoksessa Howard I. Marshall (toim.) New Testament Interpretation. Essays on Principles and Methods. 2p.
+* Whewell, William (1847) The Philosophy of the Inductive Sciences, Founded upon Their History. 2nd ed. 2 vols. London: Parker.
+* Whitehead, Alfred North (1953) Science and the Modern World. Cambridge: Cambridge University Press.
+* Wiker, Benjamin (2009) The Darwin Myth: The Life and Lies of Charles Darwin. Washinton, D. C.: Regnery Publishing.
+* Wilson, Edward O. (1978) On Human Nature. Cambridge, MA: Harvard University Press.
+* Woese, Carl (2001) “Translation: In Retrospect and Prospect”, RNA 2001.
+* Wolterstorff, Nicholas (2008) Justice: Rights and Wrongs. Princeton: Princeton University Press.
+* Wykstra, Stephen (1996) “Should Worldviews Shape Science? Toward an Integrationist Account of Scientific Theorizing”, teoksessa Jitse M. van der Meer (toim.) Facets of Faith and Science, vol. II: 123–171.
+* Ylikoski, Petri & Kokkonen, Tomi (2009) Evoluutio ja ihmisluonto. Helsinki: Gaudeamus
 
 ### Viitteet
 

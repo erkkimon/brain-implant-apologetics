@@ -4,7 +4,7 @@ about: apologetics
 title: "Eliömaailma rappeutuu -kirjan kritiikki"
 description: "Eliömaailma rappeutuu (kirja) artikkelissa on referoitu kirjassa esitetty argumentaatio."
 tags: [apowiki, evoluutioteoria]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Eliömaailma rappeutuu -kirjan kritiikki".
@@ -217,10 +217,10 @@ Ennen alkuperäisen kritiikkinsä julkaisua Buchanan oli käynyt kirjeenvaihtoa 
 ##### Argumentit
 Lopuksi Buchanan käsittelee väitettä Sanfordista valehtelijana. Hänen mukaansa Eliömaailma rappeutuu -kirjassa on useita virheitä ja harhaanjohtavasti esitettyjä asioita:[^15]
 
-*Väittää synergististä epistasiaa merkityksettömäksi
-*Kimuran mutaatiojakauman virheellinen esitystapa
-*Ihmisen genomin rappeutuminen pätee vain teollistuneeseen aikakauteen, ei sitä aiempaan
-*Hyödyllisten mutaatioiden esittäminen valinnan ulottumattomissa oleviksi.
+* Väittää synergististä epistasiaa merkityksettömäksi
+* Kimuran mutaatiojakauman virheellinen esitystapa
+* Ihmisen genomin rappeutuminen pätee vain teollistuneeseen aikakauteen, ei sitä aiempaan
+* Hyödyllisten mutaatioiden esittäminen valinnan ulottumattomissa oleviksi.
 
 Buchananin mukaan Sanford ei ole valehtelija, vaan nuoren maan kreationistina hänen on mahdotonta nähdä näkemystään vastaan olevaa todistusaineistoa, eli hän on tässä suhteessa harhautunut todellisuudesta. Buchanan on kuitenkin muokannut tämän osuuden pois alkuperäisestä kritiikistään ja uudelleenkirjoittanut sen niin, ettei siitä saa käsitystä, että kyse olisi tarkoituksellisesta harhaanjohtamisesta.[^15]
 
@@ -240,10 +240,10 @@ Sen sijaan, että oletetaan automaattisesti evoluutioteorian olevan pätevä ja 
 Lisäksi Sanfordin kirjan pääväite on, [ettei luonnonvalinta voi toimia genomien ylläpitäjänä ja kehittäjänä](eliömaailma-rappeutuu-kirjan-kritiikki.md), ei se, että kaikki olisi nopeasti kuolemassa sukupuuttoon. Näin ollen se ei kuulu ”nuoren maan kreationismin harhaan”, sillä argumentaation pitäminen pätevänä ei edellytä nuoren maan kreationismin hyväksymistä.
 
 ### Kirjallisuus
-*Sanford, John C., *Eliömaailma rappeutuu – geneettinen entropia ja perimän salaisuus*, Datakirjat, 2015, 978-952-68258-1-6
+* Sanford, John C., *Eliömaailma rappeutuu – geneettinen entropia ja perimän salaisuus*, Datakirjat, 2015, 978-952-68258-1-6
 
 ### Aiheesta muualla
-*Dr John Sanford, [Kriitikko ei välitä tosiasioista Genetic Entropy -kirjan arviossaan](https://luominen.fi/kriitikko-ei-valita-tosiasioista-genetic-entropy-kirjan-arviossaan), luominen.fi, viitattu 4.7.2020
+* Dr John Sanford, [Kriitikko ei välitä tosiasioista Genetic Entropy -kirjan arviossaan](https://luominen.fi/kriitikko-ei-valita-tosiasioista-genetic-entropy-kirjan-arviossaan), luominen.fi, viitattu 4.7.2020
 * Paul Price, Robert Carter and John Sanford, [Responding to supposed refutations of genetic entropy from the ‘experts’](https://creation.com/genetic-entropy-defense), Creation Ministries International, 1.12.2020, viitattu 27.11.2021
 
 ### Viitteet

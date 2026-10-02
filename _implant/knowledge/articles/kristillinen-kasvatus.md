@@ -4,7 +4,7 @@ about: apologetics
 title: "Kristillinen kasvatus"
 description: "Ihmisen perusoikeuksiin kuuluu uskonnonvapaus, joka siis on aina tarkoittanut vapautta uskontoon, ei vapautta uskonnosta."
 tags: [apowiki, etiikka]
-timestamp: 2026-10-02T07:30:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kristillinen kasvatus".
@@ -37,5 +37,5 @@ Kolmanneksi, vanhempien tulee joka tapauksessa opettaa lapselleen oikeasta ja v�
  ([5. Moos. 6:7](../books/deu.md)),  ([5. Moos. 4:9-10](../books/deu.md)),  ([5. Moos. 11:19](../books/deu.md));  ([1. Moos. 18:19](../books/gen.md));  ([2. Moos. 12:26-27](../books/exo.md)),  ([2. Moos. 13:14-15](../books/exo.md)),  ([Ps. 78:4-6](../books/psa.md)),  ([Ef. 6:4](../books/eph.md))
 
 ### Lisätietoa
-*[Tapio Leinonen, Timo Junkkaala ja Juha Vähäsarja: Kristillinen kasvatus vastaa ateismin haasteeseen](tapio-leinonen-timo-junkkaala-ja-juha-vähäsarja-kristillinen-kasvatus-vastaa-ateismin-haasteeseen.md)
-*[Tapio Puolimatka: Opetuksen rajankäyntejä](http://www.tapiopuolimatka.net/34)
+* [Tapio Leinonen, Timo Junkkaala ja Juha Vähäsarja: Kristillinen kasvatus vastaa ateismin haasteeseen](tapio-leinonen-timo-junkkaala-ja-juha-vähäsarja-kristillinen-kasvatus-vastaa-ateismin-haasteeseen.md)
+* [Tapio Puolimatka: Opetuksen rajankäyntejä](http://www.tapiopuolimatka.net/34)

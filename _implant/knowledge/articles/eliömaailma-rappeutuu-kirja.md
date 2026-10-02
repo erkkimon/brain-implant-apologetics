@@ -4,7 +4,7 @@ about: apologetics
 title: "Eliömaailma rappeutuu (kirja)"
 description: "Eliömaailma rappeutuu – geneettinen entropia ja perimän salaisuus on eläkkeellä olevan Cornellin yliopiston genetiikan professorin John Sanfordin kirjoittama kirja, jossa hän käsittelee evoluutioteorian perusmekanismeja, mutaatiota ja…"
 tags: [apowiki, kirjat, evoluutiokritiikki]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Eliömaailma rappeutuu (kirja)".
@@ -180,11 +180,11 @@ Heti lähes neutraaleja mutaatioita suurempivaikutukselliset mutaatiot ovat merk
 
 Merkitykseltään vähäisten mutaatioiden vaikutuksen yli ajaa mm.
 
-*Populaation suuri satunnainen kuolleisuus
-*Tappavat ja lähes tappavat mutaatiot
-*Suurin osa mutaatioista on peittyviä
-*Geenien välinen vuorovaikutus (epistasia)
-*Pienissä populaatioissa seksuaalisen rekombinaation satunnaisuus
+* Populaation suuri satunnainen kuolleisuus
+* Tappavat ja lähes tappavat mutaatiot
+* Suurin osa mutaatioista on peittyviä
+* Geenien välinen vuorovaikutus (epistasia)
+* Pienissä populaatioissa seksuaalisen rekombinaation satunnaisuus
 
 Nämä tekijät aiheuttavat geneettistä ajautumista. Vaikka luonnonvalinta pystyykin poistamaan useita tällaisia merkitykseltään vähäisiä mutaatioita, tulee näistä mutaatioista kohinaa toisilleen, kun niiden määrä kasvaa. Valinnan teho tippuu nollaan hyvin nopeasti, kun valittavana olevien mutaatioiden määrä kasvaa. Kimura[^35] viittaa tähän valintainterferenssiksi kutsuttuun ilmiöön, ja esittää (s. 30), että vain 138 nukleotidipaikkaa on yhtä aikaa valittavissa, vaikka populaatiosta voitaisiin poistaa 50% joka sukupolvessa ja yhtä ominaisuutta vastaan valitaan heikosti (s = 0,01).
 
@@ -413,11 +413,11 @@ Duplikaatio voi joissain erittäin harvinaisissa tapauksissa olla itsessään hy
 Ajatus siitä, että geeniduplikaation kautta voi syntyä uutta informaatiota, johtuu siitä, ettei evoluutiota voida nähdä muuten tapahtuneen. Lisäksi kun tätä ajatusta toistetaan riittävän kauan, siitä tulee totta. Todellisuutta tämä käsitys ei kuitenkaan vastaa.
 
 ### Kirjallisuus
-*Sanford, John C., *Eliömaailma rappeutuu – geneettinen entropia ja perimän salaisuus*, Datakirjat, 2015, 978-952-68258-1-6
+* Sanford, John C., *Eliömaailma rappeutuu – geneettinen entropia ja perimän salaisuus*, Datakirjat, 2015, 978-952-68258-1-6
 
 ### Aiheesta muualla
-*Dr John Sanford, [Kriitikko ei välitä tosiasioista Genetic Entropy -kirjan arviossaan](https://luominen.fi/kriitikko-ei-valita-tosiasioista-genetic-entropy-kirjan-arviossaan), luominen.fi, viitattu 4.7.2020
-*[geneticentropy.org -verkkosivu](https://www.geneticentropy.org/)
+* Dr John Sanford, [Kriitikko ei välitä tosiasioista Genetic Entropy -kirjan arviossaan](https://luominen.fi/kriitikko-ei-valita-tosiasioista-genetic-entropy-kirjan-arviossaan), luominen.fi, viitattu 4.7.2020
+* [geneticentropy.org -verkkosivu](https://www.geneticentropy.org/)
 
 ### Viitteet
 

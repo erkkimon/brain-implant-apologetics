@@ -4,7 +4,7 @@ about: apologetics
 title: "Porno"
 description: "Pornon katsotaan tarkoittavan eri ihmisille hyvin erilaisia asioita, mutta määrittelyssä auttaa keskittyminen pornolle luonteenomaisiin piirteisiin."
 tags: [apowiki]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Porno".
@@ -60,7 +60,7 @@ Pornoa käytetään itsetyydytyksessä fantasioinnin helpottamiseen.[^10] Ihmise
 > — Rakastelu yksin eli itsetyydytys[^10]
 
 ### Lähteet
-*Rendic, Pia, *Voihan porno, aikuisviihteen vaietut vaikutukset*, Kristillinen Kirja- ja Musiikkikustannus KKJMK OY, 2018
+* Rendic, Pia, *Voihan porno, aikuisviihteen vaietut vaikutukset*, Kristillinen Kirja- ja Musiikkikustannus KKJMK OY, 2018
 ### Viiteet
 
 ## Viitteet

@@ -4,7 +4,7 @@ about: apologetics
 title: "Margaret Mead"
 description: "Margaret Mead (16. joulukuuta 1901, Philadelphia–15. marraskuuta 1978, New York City) oli amerikkalainen tutkija, joka oli yksi viime vuosisadan kuuluisimmista antropologeista."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Margaret Mead".
@@ -122,10 +122,10 @@ Freemanin mukaan Mead oli alistanut tieteelliset näkökohdat ideologisille näk
 * Blackberry Winter (1972)
 
 ### Lähteet
-*Freeman, Derek, *Margaret Mead and Samoa: The Making and Unmaking of an Anthropological Myth*, Cambridge, Mass.: Harvard University Press, 1983
-*Kivivuori, Janne, *Paha tieto. Tieteenvastainen ajattelu antiikista uusimpiin kiistoihin*, Helsinki: Nemo, 2003
-*Mead, Margaret, *Coming of Age in Samoa: A Psychological Study of Primitive Youth for Western Civilization*, New York: Blue Riboon Books, 1928
-*McDowell, Edwin, *New Samoa Book Challenges Margaret Mead's Conclusions*, New York Times, Janurary 31
+* Freeman, Derek, *Margaret Mead and Samoa: The Making and Unmaking of an Anthropological Myth*, Cambridge, Mass.: Harvard University Press, 1983
+* Kivivuori, Janne, *Paha tieto. Tieteenvastainen ajattelu antiikista uusimpiin kiistoihin*, Helsinki: Nemo, 2003
+* Mead, Margaret, *Coming of Age in Samoa: A Psychological Study of Primitive Youth for Western Civilization*, New York: Blue Riboon Books, 1928
+* McDowell, Edwin, *New Samoa Book Challenges Margaret Mead's Conclusions*, New York Times, Janurary 31
 
 ### Viitteet
 

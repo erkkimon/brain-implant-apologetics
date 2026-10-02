@@ -4,7 +4,7 @@ about: apologetics
 title: "Sukupuoli muutoksessa (kirja)"
 description: "Sukupuoli muutoksessa on Tapio Puolimatkan kirjoittama kirja, joka analysoi sukupuoli-käsitettä ja sen muutoksen yhteiskunnallisia vaikutuksia."
 tags: [apowiki, kirjat, seksuaalietiikka, ihmisoikeudet]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Sukupuoli muutoksessa (kirja)".
@@ -67,80 +67,80 @@ Kirjan ensimmäisessä luvussa esitellään sukupuoli-ideologian käsitettä ja 
 
 #### 1. Sukupuoli-ideologia ja sukupuolinäkökulman valtavirtaistuminen
 
-*Marxilainen sukupuoli-ideologia
-**Sukupuoli-ideologian kansainvälinen läpimurto
-*Sukupuolinäkökulman valtavirtaistamisen ohjelma
+* Marxilainen sukupuoli-ideologia
+  * Sukupuoli-ideologian kansainvälinen läpimurto
+* Sukupuolinäkökulman valtavirtaistamisen ohjelma
 
 #### 2. Sukupuoliahdistunut lapsi
 
-*Rakastavan vanhemman huoli
-*Sukupuoliahdistuksen esiintyvyys
-*Lääketieteellisen sukupuolenvaihdoksen ongelmia
-*Britannian nuorin sukupuolenvaihdospotilas
-*Sukupuoli-identiteetin määrittelyn vaikeus
-*Onko sukupuoli-identiteetti muuttumaton?
+* Rakastavan vanhemman huoli
+* Sukupuoliahdistuksen esiintyvyys
+* Lääketieteellisen sukupuolenvaihdoksen ongelmia
+* Britannian nuorin sukupuolenvaihdospotilas
+* Sukupuoli-identiteetin määrittelyn vaikeus
+* Onko sukupuoli-identiteetti muuttumaton?
 
 #### 3. Lapset transliikkeen uhreina
 
-*Intersukupuoliset lapset ja nuoret
-*Sukupuoliahdistuksesta kärsivät lapset ja nuoret
-*Transihmisen käsite
-*Lapsen itsemurhalla pelottelu
-*Max
-*Omaan biologiseen sukupuoleensa sopeutuvat nuoret
-*Lapset poliittisen vallankäytön väineenä
-*Sukupuoliero luonnollisen perheen perustana
+* Intersukupuoliset lapset ja nuoret
+* Sukupuoliahdistuksesta kärsivät lapset ja nuoret
+* Transihmisen käsite
+* Lapsen itsemurhalla pelottelu
+* Max
+* Omaan biologiseen sukupuoleensa sopeutuvat nuoret
+* Lapset poliittisen vallankäytön väineenä
+* Sukupuoliero luonnollisen perheen perustana
 
 #### 4. Transihminen poliittisena kategoriana
 
-*Ehdotus uudeksi translaiksi
-*Kertomus Robertista ja hänen äidistään
-*Vanhempien kasvatusoikeuden rajoittaminen
-*Yhteiskunnallisen kontrollin lisääntyminen
-*Vanhempien kasvatusoikeus demokratian perustana
-*Sukupuoli-ideologia poistaa luonnollisen perheen oikeusturvan
-*Hauraan identiteetin vaatima turvatila
-*Transideologian puhesäännöstö
-*Uhriutumisen politiikka
-*Transpropagandan keinot
+* Ehdotus uudeksi translaiksi
+* Kertomus Robertista ja hänen äidistään
+* Vanhempien kasvatusoikeuden rajoittaminen
+* Yhteiskunnallisen kontrollin lisääntyminen
+* Vanhempien kasvatusoikeus demokratian perustana
+* Sukupuoli-ideologia poistaa luonnollisen perheen oikeusturvan
+* Hauraan identiteetin vaatima turvatila
+* Transideologian puhesäännöstö
+* Uhriutumisen politiikka
+* Transpropagandan keinot
 
 #### 5. Todellisuudentaju nuorten identiteettikehityksen perustana
 
-*Lasten todellisuudentajun hämärtäminen
-*Lasten todellisuudentajun vahvistaminen
-*Todellisuudentajua tukeva terapiamalli
-*Todellisuudentajua tukevan terapian perusoletuksia
+* Lasten todellisuudentajun hämärtäminen
+* Lasten todellisuudentajun vahvistaminen
+* Todellisuudentajua tukeva terapiamalli
+* Todellisuudentajua tukevan terapian perusoletuksia
 
 #### 6. Äkillisesti alkava sukupuoliahdistus
 
-*Vanhempien hämmennys
-*Sosiaalisen tartunnan avulla leviävä ilmiö
-*Miten toimia sukupuoliahdistuneen nuoren vanhempana?
-*Rakentava tuki
+* Vanhempien hämmennys
+* Sosiaalisen tartunnan avulla leviävä ilmiö
+* Miten toimia sukupuoliahdistuneen nuoren vanhempana?
+* Rakentava tuki
 
 #### 7. Sukupuolenvaihdosta katuvat
 
-*Poikatytön pettymys
-*Cari Stella
-*Crash
-*TWT
-*Carey Callahan
-*Walt Heyer
-*Sukupuolenvaihdoksen syitä ja seurauksia
+* Poikatytön pettymys
+* Cari Stella
+* Crash
+* TWT
+* Carey Callahan
+* Walt Heyer
+* Sukupuolenvaihdoksen syitä ja seurauksia
 
 #### 8. Transvestisuudesta transsukupuolisuuteen
 
-*Kiista kärjistyy
-*Naiset transliikkeen uhreina
-*Sukupuolta koskevan puheen kontrollointi
-*Moraalisen näkökulman sivuuttaminen
+* Kiista kärjistyy
+* Naiset transliikkeen uhreina
+* Sukupuolta koskevan puheen kontrollointi
+* Moraalisen näkökulman sivuuttaminen
 
 #### 9. Sukupuolen valinnaisuudesta seksuaaliseen vapauteen
 
-*Seksuaalisten rajojen murtaminen
-*Vaikutus sukupuoli- ja seksuaalikasvatukseen
-*Seksuaalikasvatus ja seksuaalinen hyväksikäyttö
-*Kooste
+* Seksuaalisten rajojen murtaminen
+* Vaikutus sukupuoli- ja seksuaalikasvatukseen
+* Seksuaalikasvatus ja seksuaalinen hyväksikäyttö
+* Kooste
 
 #### Lopuksi
 

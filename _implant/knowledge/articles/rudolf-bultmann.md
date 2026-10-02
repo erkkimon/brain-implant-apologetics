@@ -4,7 +4,7 @@ about: apologetics
 title: "Rudolf Bultmann"
 description: "Rudolf Karl Bultmann (20. elokuuta 1884 Wiefelstede, Saksa – 30."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-02T04:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Rudolf Bultmann".
@@ -93,32 +93,32 @@ M. Barthin[^17] mukaan Bultmannin teologia ilmentää ”ennemminkin uskonnonfil
 Bultmannin teologian historiallinen perusta on hatara[^19]. Hänen yksiulotteinen lähestymistapansa johtaa siihen, että hän vääristelee historiallista todistusaineistoa. Hän pitää aitoina vain niitä Jeesuksen sanoja tai Uuden testamentin tekstejä, jotka sopivat hänen filosofiaansa. Hän suhtautuu hyvin epäilevästi mahdollisuuksiin rakentaa kuvaa historiallisesta Jeesuksesta, mutta luottaa kuitenkin omaan kykyynsä rakentaa luotettava kuva Jeesuksen saarnan tarkoitusperistä modernin filosofian ehdoilla. Hän käyttää myöhäisemmältä aikakaudelta peräisin olevia gnostilaisia lähteitä rakentaessaan kuvaa Uuden testamentin maailmasta. Hän pitää kiinni hellenistisen lunastajamyytin esikristillisestä olemassaolosta senkin jälkeen kun väitteen pohjana oleva tekstievidenssi on perusteellisesti osoitettu vääräksi[^20]. Bultmannin oppilas Käsemann joutui pysyvään välirikkoon opettajansa kanssa todettuaan, että Bultmannin lähestymistapa irrotti Uuden testamentin tulkinnan ”kaikesta historiallisesta kiinnityksestä”.[^21] Dahlin[^22] mukaan Bultmann lukee lähteitään vääristyneellä tavalla. Kraus[^23] jopa sanoo, että Bultmannilla ”historiallinen ulottuvuus on kadonnut näkyvistä”. Silti tai ehkä juuri siitä syystä Bultmannin ajattelusta tuli viime vuosisadan vaikutusvaltaisin teologinen suuntaus nimenomaan akateemisessa teologiassa, joka oletettavasti perustuu pelkästään järkeen. Bultmann osasi taitavasti käyttää modernissa kulttuurissa vallitsevia myyttisiä mielikuvia, jotka hallitsevat aikamme ihmisten ajattelua. Hänen myyttisiä mielikuvia herättävä retoriikkansa tehosi oppineisiin tutkijoihin niin, että hänen ajattelustaan tuli vuosikymmeniksi teologian valtasuuntaus.
 
 ### Teoksia
-*Die Geschichte der synoptischen Tradition (1921, 1931)
-*History of the Synoptic Tradition, Harper San Francisco, 1976, ISBN 0-06-061172-3 (muotokritiikin perusteos)
-*Jesus (1926)
-*Jesus and the Word, New York, London, C. Scribner’s sons, 1934
-*Jesus Christ and Mythology, Prentice Hall, 1997, ISBN 0-02-305570-7
-*Offenbarung und Heilsgeschehen (1941)
-*Neues Testament und Mythologie (1941)
-*The New Testament and Mythology and Other Basic Writings, Augsburg Fortress Publishers, 1984, ISBN 0-8006-2442-4
-*Kerygma and Myth by Rudolf Bultmann and Five Critics (1953) London: S.P.C.K., HarperCollins 2000 edition: ISBN 0-06-130080-2, online edition (contains the essay "The New Testament and Mythology" with critical analyses and Bultmann's response)
-*Das Evangelium des Johannes (1941)
-*The Gospel of John: A Commentary, Westminster John Knox Press, 1971, ISBN 0-664-20893-2
-*Theologie des Neuen Testaments (1948–53)
-*Theology of the New Testament: Complete in One Volume, Prentice Hall, 1970, ISBN 0-02-305580-4
-*Das Urchristentum im Rahmen der Antiken Religionen (1949)
-*Primitive Christianity in its Contemporary Setting, Thames and Hudson, 1956.
-*Religion without Myth (coauthored with Karl Jaspers) (1954)
-*Myth & Christianity: An Inquiry Into The Possibility Of Religion Without Myth, translation 1958 by Noonday Press, Prometheus Books, 2005, ISBN 1-59102-291-6.
-*History and Eschatology: The Presence of Eternity (1954–55 Gifford lectures), Harper, 1962 ,Greenwood Publishers, 1975: ISBN 0-8371-8123-2
-*Die drei Johannesbriefe (1967)
-*Der zweite Brief an die Korinther (1976)
-*Neues Testament und Mythologie. Das Problem der Entmythologisierung der neutestamentlichen Verkündigung (1941). Teoksessa H.-W. Bartsch (toim.): Kerygma und Mythos, osa 1 (1948)
-*Theologie des Neuen Testaments (1948-1953) (toimittanut Otto Merk, 1977)
-*Ist voraussetzungslose Exegese möglich? Theologische Zeitschrift 13 (1957), 409-417
-*Geschichte und Eschatologie (1958)
-*Neues Testament und christliche Existenz. Theologische Aufsätze (toimittanut Andreas Lindemann, 2002)
-*Wachen und Träumen. Märchen (toimittanut Werner Zager, 2005)
+* Die Geschichte der synoptischen Tradition (1921, 1931)
+* History of the Synoptic Tradition, Harper San Francisco, 1976, ISBN 0-06-061172-3 (muotokritiikin perusteos)
+* Jesus (1926)
+* Jesus and the Word, New York, London, C. Scribner’s sons, 1934
+* Jesus Christ and Mythology, Prentice Hall, 1997, ISBN 0-02-305570-7
+* Offenbarung und Heilsgeschehen (1941)
+* Neues Testament und Mythologie (1941)
+* The New Testament and Mythology and Other Basic Writings, Augsburg Fortress Publishers, 1984, ISBN 0-8006-2442-4
+* Kerygma and Myth by Rudolf Bultmann and Five Critics (1953) London: S.P.C.K., HarperCollins 2000 edition: ISBN 0-06-130080-2, online edition (contains the essay "The New Testament and Mythology" with critical analyses and Bultmann's response)
+* Das Evangelium des Johannes (1941)
+* The Gospel of John: A Commentary, Westminster John Knox Press, 1971, ISBN 0-664-20893-2
+* Theologie des Neuen Testaments (1948–53)
+* Theology of the New Testament: Complete in One Volume, Prentice Hall, 1970, ISBN 0-02-305580-4
+* Das Urchristentum im Rahmen der Antiken Religionen (1949)
+* Primitive Christianity in its Contemporary Setting, Thames and Hudson, 1956.
+* Religion without Myth (coauthored with Karl Jaspers) (1954)
+* Myth & Christianity: An Inquiry Into The Possibility Of Religion Without Myth, translation 1958 by Noonday Press, Prometheus Books, 2005, ISBN 1-59102-291-6.
+* History and Eschatology: The Presence of Eternity (1954–55 Gifford lectures), Harper, 1962 ,Greenwood Publishers, 1975: ISBN 0-8371-8123-2
+* Die drei Johannesbriefe (1967)
+* Der zweite Brief an die Korinther (1976)
+* Neues Testament und Mythologie. Das Problem der Entmythologisierung der neutestamentlichen Verkündigung (1941). Teoksessa H.-W. Bartsch (toim.): Kerygma und Mythos, osa 1 (1948)
+* Theologie des Neuen Testaments (1948-1953) (toimittanut Otto Merk, 1977)
+* Ist voraussetzungslose Exegese möglich? Theologische Zeitschrift 13 (1957), 409-417
+* Geschichte und Eschatologie (1958)
+* Neues Testament und christliche Existenz. Theologische Aufsätze (toimittanut Andreas Lindemann, 2002)
+* Wachen und Träumen. Märchen (toimittanut Werner Zager, 2005)
 
 ### Lähteet
 * Duncan, C. H., *Dr. Rudolf Bultmann's Epistemology: An Examination of the Epistemological Presuppositions in his Theology*, Ph. D. dissertation, Cambridge University, 1959

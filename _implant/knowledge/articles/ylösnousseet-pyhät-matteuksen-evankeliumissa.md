@@ -4,7 +4,7 @@ about: apologetics
 title: "Ylösnousseet pyhät Matteuksen evankeliumissa"
 description: "Argumentti menee seuraavaan tapaan: ”Merkittävä ja hämmästyttävä tapahtuma X kuvataan Raamatussa."
 tags: [apowiki, raamattu]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ylösnousseet pyhät Matteuksen evankeliumissa".
@@ -39,5 +39,5 @@ Tuon ajan kirjoituksista myös vain harvat ovat säilyneet meidän aikaamme asti
 Heillä, jotka eivät olleet Jeesuksen seuraajia, ei ollut motivaatiota säilyttää Jeesuksen elämän tapahtumia suullisena perimätietona. He eivät olisi kertoneet näistä eteenpäin, sillä kollektiivisessa kulttuurissa elävänä ihmisten päähuomio on heidän omassa viiteryhmässään. Ideologiset vastustajat erityisesti jättäisivät mieluusti tapahtumat kertomatta, jotta ne unohtuisivat ja näin tieto niistä ”kuolisi pois”.
 
 ### Katso myös
-*[Signficiant "Silences" in the Gospels](https://www.tektonics.org/af/asilent.php), viitattu 16.7.2025
-*[What about all those resurrected people walking around in Jerusalem](https://www.christian-thinktank.com/oddrise.html), 8.4.1997, viitattu 16.7.2025
+* [Signficiant "Silences" in the Gospels](https://www.tektonics.org/af/asilent.php), viitattu 16.7.2025
+* [What about all those resurrected people walking around in Jerusalem](https://www.christian-thinktank.com/oddrise.html), 8.4.1997, viitattu 16.7.2025

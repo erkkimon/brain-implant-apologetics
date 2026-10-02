@@ -4,7 +4,7 @@ about: apologetics
 title: "Douglas Allen"
 description: "Kanadalaisen Simon Fraser -yliopiston taloustieteen professori Douglas W."
 tags: [apowiki, henkilöt, seksuaalietiikka]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Douglas Allen".
@@ -120,17 +120,17 @@ Jos kaikki nämä painostuskeinot eivät onnistu vaientamaan tutkijaa, voidaan t
 
 ### Aiheesta muualla
 
-*[Mark Regnerus: Kanadalaistutkimus: samaa sukupuolta olevien lapset eivät pärjää yhtä hyvin](http://aitoavioliitto.fi/artikkelit/kanadalaistutkimus-samaa-sukupuolta-olevien-kotien-lapset-eivat-parjaa-yhta-hyvin/).
+* [Mark Regnerus: Kanadalaistutkimus: samaa sukupuolta olevien lapset eivät pärjää yhtä hyvin](http://aitoavioliitto.fi/artikkelit/kanadalaistutkimus-samaa-sukupuolta-olevien-kotien-lapset-eivat-parjaa-yhta-hyvin/).
 
 ### Kirjallisuus
 
-*Allen, Douglas W., *Who Should Be Allowed into the Marriage Franchise?*, 58 Drake Law Review 1043
-*Allen, Douglas W., *High school graduation rates among children of same-sex households*, Review of Economics of the Household, 11(4), 635−658
-*Allen, Douglas W., *More Heat than Light: A Critical Assessment of the Same-Sex Parenting Literature 1995-2013*, Julkaisematon käsikirjoitus, November
-*Allen, Douglas W., [Does same-sex parenting really make ‘no difference’?](https://aleteia.org/2013/10/10/does-same-sex-parenting-really-make-no-difference/), Aleteia.org, 10.10.2013 (2013d), viitattu 13.7.2020
-*Allen, D.W & Pakaluk, C. & Price, J., *Non-traditional families and childhood progress through school: a comment on Rosenfeld*, Demography, 50(3), 955−961
-*Allen, Douglas W. & Pakaluk, Catherine R. & Price, Joseph, *Normal Progress Through School: Further Results*, Julkaisematon käsikirjoitus
-*Puolimatka, Tapio, *Lapsen ihmisoikeus: oikeus isään ja äitiin*, Suunta-kirjat, 2014
+* Allen, Douglas W., *Who Should Be Allowed into the Marriage Franchise?*, 58 Drake Law Review 1043
+* Allen, Douglas W., *High school graduation rates among children of same-sex households*, Review of Economics of the Household, 11(4), 635−658
+* Allen, Douglas W., *More Heat than Light: A Critical Assessment of the Same-Sex Parenting Literature 1995-2013*, Julkaisematon käsikirjoitus, November
+* Allen, Douglas W., [Does same-sex parenting really make ‘no difference’?](https://aleteia.org/2013/10/10/does-same-sex-parenting-really-make-no-difference/), Aleteia.org, 10.10.2013 (2013d), viitattu 13.7.2020
+* Allen, D.W & Pakaluk, C. & Price, J., *Non-traditional families and childhood progress through school: a comment on Rosenfeld*, Demography, 50(3), 955−961
+* Allen, Douglas W. & Pakaluk, Catherine R. & Price, Joseph, *Normal Progress Through School: Further Results*, Julkaisematon käsikirjoitus
+* Puolimatka, Tapio, *Lapsen ihmisoikeus: oikeus isään ja äitiin*, Suunta-kirjat, 2014
 
 ### Viitteet
 

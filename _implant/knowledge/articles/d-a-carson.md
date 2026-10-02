@@ -4,7 +4,7 @@ about: apologetics
 title: "D. A. Carson"
 description: "Donald Arthur Carson (s. 21. joulukuuta, 1946) on kanadalaissyntyinen evankeelinen eksegeetti ja Uuden testamentin professori."
 tags: [apowiki, henkilöt, eksegetiikka, tyngät]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "D. A. Carson".
@@ -48,11 +48,11 @@ Hänen muita kirjojaan ovat:
 
 ### Aiheesta muualla
 
-*[D. A. Carson](http://www.theopedia.com/D._A._Carson) (Theopedia)
-*[Alliance of Confessing Evangelicals](http://www.AllianceNet.org/) Carson is a member of the Alliance's Council.
+* [D. A. Carson](http://www.theopedia.com/D._A._Carson) (Theopedia)
+* [Alliance of Confessing Evangelicals](http://www.AllianceNet.org/) Carson is a member of the Alliance's Council.
 
 #### Audiokokoelmia
 
-*[The Gospel Coalition collection](http://resources.thegospelcoalition.org/library?f%5Bcontributors%5D%5B%5D=Carson%2C+D.+A.) -- Includes biographical information, list of publications, and sermons & lectures.
-*[Collection of links to Carson MP3s](http://pjtibayan.wordpress.com/2006/10/17/d-a-carson-audio-sermonslectures/) (compiled by PJ Tibayan).
-*[Collection of links to Carson MP3s](http://andynaselli.com/theology/d-a-carson-mp3s) (compiled by Andy Naselli)
+* [The Gospel Coalition collection](http://resources.thegospelcoalition.org/library?f%5Bcontributors%5D%5B%5D=Carson%2C+D.+A.) -- Includes biographical information, list of publications, and sermons & lectures.
+* [Collection of links to Carson MP3s](http://pjtibayan.wordpress.com/2006/10/17/d-a-carson-audio-sermonslectures/) (compiled by PJ Tibayan).
+* [Collection of links to Carson MP3s](http://andynaselli.com/theology/d-a-carson-mp3s) (compiled by Andy Naselli)

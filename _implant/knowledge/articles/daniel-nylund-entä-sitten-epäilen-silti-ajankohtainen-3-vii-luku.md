@@ -4,7 +4,7 @@ about: apologetics
 title: "Daniel Nylund: Entä sitten? Epäilen silti (Ajankohtainen 3, VII luku)"
 description: "Tähän asti olen väittänyt, että uskottavan maailmankatsomuksen tulisi sisäisesti ristiriidattomalla ja koko todellisuuden kanssa yhteensopivalla tavalla vastata kysymykseen kaiken alkuperästä, tarkoituksesta ja päämäärästä."
 tags: [apowiki, maailmankatsomus, tekijänoikeuden-alaiset-artikkelit]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Daniel Nylund: Entä sitten? Epäilen silti (Ajankohtainen 3, VII luku)".
@@ -380,77 +380,77 @@ Joka tapauksessa kiitän sinua siitä, että olet jaksanut keskittyä kanssani l
 
 Vaikka kirjoitukseni rakenne ja käsittely tapa onkin omintakeinen, olen yksityiskohdissa käyttänyt paljon muiden ajatuksia. Suurimpana apuna on ollut ulkomainen kirjallisuus kyseisistä aiheista. Osa lähdeviitteistäkin ovat näistä kirjoista otettuja toisen käden viitteitä. Kirjat on luetteloitu siinä järjestyksessä kuin ne muuttolaatikoista löytyivät.
 
-*Lit-sen Chang. ZEN EXISTENTIALISM. Presb. and Ref. Pub!. CO
-*Hanna Mark M. CRUCIAL QUESTIONS IN APOLOGETICS. Baker
-*Bockmuehl Klaus. THE CHALLENGE OF MARXISM. IVP
-*Montgomery John Warwick. THE SHAPE OF THE PAST. Bethany
-*Wenham John W. THE GOODNESS OF GOD. IVP
-*Russel Jefrey Burton. THE DEVIL. New American Library
-*Geffrey/Jossua. NIETZSCE AND CHRISTIANITY. Seabury Press
-*Angeles Peter. CRITIQUES OF GOD. Prometheus Books
-*Brown Colin. PHILOSOPHY & THE CHRISTIAN FAITH
-*Carnell John Edward. CHRISTIAN APOLOGETICS. Eerdmans
-*Craig William Lane. THE EXISTENCE OF GOD & THE BEGINNING OF THE UNIVERSE. Here is Life publ.
-*Sire James W. THE UNIVERSE NEXT DOOR. IVP
-*Geisler Norman. CHRISTIAN APOLOGETICS. Baker
-*Mac Kay Donald M. HUMAN SCIENCE & HUMAN DIGNITY. IVP
-*Holmes Arthur F. ALL TRUTH IS GODS TRUTH. Eerdmans
-*Dooyewerd Herman. IN THE TWILIGHT OF WESTERN THOUGHT. Craig Press
-*Geisler Norman L. INTRODUCTION TO PHILOSOPHY. Baker
-*Montgomery John Warwick. WHERE IS HISTORY GOING? Bethny
-*Kung Hans. DOES GOD EXIST? Doubleday
-*Woods Richard. UNDERSTANDING MYSTICISM. Image
-*Reymond L Robert. THE JUSTIFICATION OF KNOWLEDGE. Presb. Ref. Pub!.
-*Wilkes Peter. CHRISTIANITY CHALLENGES THE UNIVERSITY. IVP
-*Rhoton Dale. THE LOGIC OF FAITH. STL
-*Whitehead Raymond. L LOVE AND STRUGGLE IN MAO'S THOUGHT. Orbis
-*Patterson E.Robert. SCIENCE FAITH AND REVELATION. Broadman
-*Geisler Norman L. PHILOSOPHY OF RELIGION. Zondervan
-*Scaeffer Francis A. WHAT EVER HAPPEND TO THE HUMAN RACE? Revell
-*Van Til Cornelius. THE DEFENSE OF FAITH. Presb. and Ref. Pub!.
-*Pratt Richard L. EVERY THOUGHT CAPTIVE. Presb. adn Ref. Pub!.
-*Morris Thomas V. A CRITIQUE OF F SCHAEFFERS APOLOGETICS. Moody
-*Montgomery John Warwick. CHRISTIANITY FOR THE TOUGH MINDED. Bethany
-*Grudlan/Mayers. CUL TURAL ANTHROPOLOGY. Zondervan
-*North Gary. FOUNDATIONS OF CHRISTIAN SCHOLARSHIP. Ross House Books
-*Sproul R.C. OBJECTIONS ANSWERED. Regal Schaeffer Francis A. A CHRISTIAN MANIFESTO. Crossway
-*Schaeffer Francis A. THE GOD WHO IS THERE. Hodder
-*Young William. HEGELS DIALECTICAL METHOD. Craig
-*Pinnock Clark H. REASON ENOUGH. IVP
-*Wilder-Smith A E. THE PARADOX OF PAIN. Shaw
-*McDowell Josh. ANSWERS TO TOUGH QUESTIONS. Here's Life Publ.
-*Alexander Denis. BEOYND SCIENCE. Lion
-*Kee Howard Clark. CHRISTIAN ORIGINS IN SOCIOLOGICAL PERSPECTIVE. Westminister
-*Goudzwaard Bob. CAPIT ALISM & PROGRESS. Wedge
-*Smith Robert W. CHRIST & THE MODERN MIND. IVP
-*Edwards Paul. THE EXISTENCE OF GOD. Macmillan
-*Wolfhart Pannenberg. FAITH AND REALITY. Westminister
-*Geisler Norman L. THE ROOTS OF EVIL. Zondervan
-*Trueblood D Elton. PHILOSOPHY OF RELIGION. Baker
-*Van Til Cornelius. A CHRISTIAN THEORY OF KNOWLEDGE.Presb. and Ref. Publ.
-*Richardson Don. ETERNITY IN THEIR HEARTS. Regal
-*Lewis R Gordon. TESTING CHRISTIANITYS TRUTH CLAIMS. Moody
-*Gill Jerry. PHILOSOPHY AND RELIGION. Burgess
-*Montgomery John Warwick. FAITH FOUNDED ON FACT. Nelson
-*Pinnock Clarc H. SET FORTH YOUR CASE. Moody
-*Purtill Richard L. REASON TO BELIEVE. Eerdmans
-*Guinnes Os. DOUBT. Lion
-*Ramm Bernhard. THE DEVIL, SEVEN WORMHOODS AND GOD.Word
-*Ramm Bernhard. THE CHRISTIAN VIEW OF SCIENCE & SCRIPTURE. Paternoster
-*Clark Gordon H. THE PHILOSOPHY OF SCIENCE AND BELIEF IN GOD. Craig
-*Beddington D W. PATTERNS IN HISTORY. IVP
-*Armerding Hudson T. CHRISTIANITY AND THE WORLD OF THOUGHT. Moody
-*Dooyeweerd Herman. A NEW CRITIQUE OF THEORETICAL THOUGHT. Presb & Ref.
-*Clarc Gordon H. A CHRISTIAN VIEW OF MEN AND THINGS. Baker
-*Rushdoony Rousas John. THE ONE AND THE MANY. Thoburn
-*Wolfson Harry Austin. THE PHILOSOPHY OF THE CHURCH FATHERS. Harvard
-*Rawlings Maurice. LIFE WISH. Nelson
-*Nash Ronald H. THE PHILOSOPHY OF G.H.CLARK. Presb. & Ref.
-*Carnell Edward John. A PHILOSOPHY OF THE CHRISTIAN RELIGION. Baker
-*Guinnes Os. THE DUST OF DEA TH. IVP
-*Lee Francis Nigel. COMMUNIST ESCATOLOGY. Craig
-*Lisher Richard. MARX AND TEILHARD. Orbis
-*Ramm Bernhad. V ARIETIES OF CHRISTIAN APOLOGETICS. Baker
+* Lit-sen Chang. ZEN EXISTENTIALISM. Presb. and Ref. Pub!. CO
+* Hanna Mark M. CRUCIAL QUESTIONS IN APOLOGETICS. Baker
+* Bockmuehl Klaus. THE CHALLENGE OF MARXISM. IVP
+* Montgomery John Warwick. THE SHAPE OF THE PAST. Bethany
+* Wenham John W. THE GOODNESS OF GOD. IVP
+* Russel Jefrey Burton. THE DEVIL. New American Library
+* Geffrey/Jossua. NIETZSCE AND CHRISTIANITY. Seabury Press
+* Angeles Peter. CRITIQUES OF GOD. Prometheus Books
+* Brown Colin. PHILOSOPHY & THE CHRISTIAN FAITH
+* Carnell John Edward. CHRISTIAN APOLOGETICS. Eerdmans
+* Craig William Lane. THE EXISTENCE OF GOD & THE BEGINNING OF THE UNIVERSE. Here is Life publ.
+* Sire James W. THE UNIVERSE NEXT DOOR. IVP
+* Geisler Norman. CHRISTIAN APOLOGETICS. Baker
+* Mac Kay Donald M. HUMAN SCIENCE & HUMAN DIGNITY. IVP
+* Holmes Arthur F. ALL TRUTH IS GODS TRUTH. Eerdmans
+* Dooyewerd Herman. IN THE TWILIGHT OF WESTERN THOUGHT. Craig Press
+* Geisler Norman L. INTRODUCTION TO PHILOSOPHY. Baker
+* Montgomery John Warwick. WHERE IS HISTORY GOING? Bethny
+* Kung Hans. DOES GOD EXIST? Doubleday
+* Woods Richard. UNDERSTANDING MYSTICISM. Image
+* Reymond L Robert. THE JUSTIFICATION OF KNOWLEDGE. Presb. Ref. Pub!.
+* Wilkes Peter. CHRISTIANITY CHALLENGES THE UNIVERSITY. IVP
+* Rhoton Dale. THE LOGIC OF FAITH. STL
+* Whitehead Raymond. L LOVE AND STRUGGLE IN MAO'S THOUGHT. Orbis
+* Patterson E.Robert. SCIENCE FAITH AND REVELATION. Broadman
+* Geisler Norman L. PHILOSOPHY OF RELIGION. Zondervan
+* Scaeffer Francis A. WHAT EVER HAPPEND TO THE HUMAN RACE? Revell
+* Van Til Cornelius. THE DEFENSE OF FAITH. Presb. and Ref. Pub!.
+* Pratt Richard L. EVERY THOUGHT CAPTIVE. Presb. adn Ref. Pub!.
+* Morris Thomas V. A CRITIQUE OF F SCHAEFFERS APOLOGETICS. Moody
+* Montgomery John Warwick. CHRISTIANITY FOR THE TOUGH MINDED. Bethany
+* Grudlan/Mayers. CUL TURAL ANTHROPOLOGY. Zondervan
+* North Gary. FOUNDATIONS OF CHRISTIAN SCHOLARSHIP. Ross House Books
+* Sproul R.C. OBJECTIONS ANSWERED. Regal Schaeffer Francis A. A CHRISTIAN MANIFESTO. Crossway
+* Schaeffer Francis A. THE GOD WHO IS THERE. Hodder
+* Young William. HEGELS DIALECTICAL METHOD. Craig
+* Pinnock Clark H. REASON ENOUGH. IVP
+* Wilder-Smith A E. THE PARADOX OF PAIN. Shaw
+* McDowell Josh. ANSWERS TO TOUGH QUESTIONS. Here's Life Publ.
+* Alexander Denis. BEOYND SCIENCE. Lion
+* Kee Howard Clark. CHRISTIAN ORIGINS IN SOCIOLOGICAL PERSPECTIVE. Westminister
+* Goudzwaard Bob. CAPIT ALISM & PROGRESS. Wedge
+* Smith Robert W. CHRIST & THE MODERN MIND. IVP
+* Edwards Paul. THE EXISTENCE OF GOD. Macmillan
+* Wolfhart Pannenberg. FAITH AND REALITY. Westminister
+* Geisler Norman L. THE ROOTS OF EVIL. Zondervan
+* Trueblood D Elton. PHILOSOPHY OF RELIGION. Baker
+* Van Til Cornelius. A CHRISTIAN THEORY OF KNOWLEDGE.Presb. and Ref. Publ.
+* Richardson Don. ETERNITY IN THEIR HEARTS. Regal
+* Lewis R Gordon. TESTING CHRISTIANITYS TRUTH CLAIMS. Moody
+* Gill Jerry. PHILOSOPHY AND RELIGION. Burgess
+* Montgomery John Warwick. FAITH FOUNDED ON FACT. Nelson
+* Pinnock Clarc H. SET FORTH YOUR CASE. Moody
+* Purtill Richard L. REASON TO BELIEVE. Eerdmans
+* Guinnes Os. DOUBT. Lion
+* Ramm Bernhard. THE DEVIL, SEVEN WORMHOODS AND GOD.Word
+* Ramm Bernhard. THE CHRISTIAN VIEW OF SCIENCE & SCRIPTURE. Paternoster
+* Clark Gordon H. THE PHILOSOPHY OF SCIENCE AND BELIEF IN GOD. Craig
+* Beddington D W. PATTERNS IN HISTORY. IVP
+* Armerding Hudson T. CHRISTIANITY AND THE WORLD OF THOUGHT. Moody
+* Dooyeweerd Herman. A NEW CRITIQUE OF THEORETICAL THOUGHT. Presb & Ref.
+* Clarc Gordon H. A CHRISTIAN VIEW OF MEN AND THINGS. Baker
+* Rushdoony Rousas John. THE ONE AND THE MANY. Thoburn
+* Wolfson Harry Austin. THE PHILOSOPHY OF THE CHURCH FATHERS. Harvard
+* Rawlings Maurice. LIFE WISH. Nelson
+* Nash Ronald H. THE PHILOSOPHY OF G.H.CLARK. Presb. & Ref.
+* Carnell Edward John. A PHILOSOPHY OF THE CHRISTIAN RELIGION. Baker
+* Guinnes Os. THE DUST OF DEA TH. IVP
+* Lee Francis Nigel. COMMUNIST ESCATOLOGY. Craig
+* Lisher Richard. MARX AND TEILHARD. Orbis
+* Ramm Bernhad. V ARIETIES OF CHRISTIAN APOLOGETICS. Baker
 
 [^1]: ([San. 8:36](../books/pro.md))
 [^2]: Josh McDowell. Evidence that Demands a Verdict. Here's Life Publishers IMC s. 17

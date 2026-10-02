@@ -4,7 +4,7 @@ about: apologetics
 title: "The Edge of Evolution (kirja)"
 description: "The Edge of Evolution: The Search for the Limits of Darwinism (EOE) on biokemian professori Michael Behen kirjoittama kirja, jossa hän käsittelee evoluutiomekanismien empiirisesti todettuja rajoitteita."
 tags: [apowiki, kirjat, suunnitteluteoria, evoluutioteoria]
-timestamp: 2026-10-02T04:30:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "The Edge of Evolution (kirja)".
@@ -58,37 +58,37 @@ Darvinistisen evoluutioteorian kannattajilta löytyy joitakin vastaväitteitä, 
 
 #### Toimimattomat linkit (30.4.2017)
 
-*[Response to Critics, Part 1: Jerry Coyne](http://behe.uncommondescent.com/2007/06/response-to-critics-part-1-jerry-coyne/)
-*[Response to Critics, Part 2: Sean Carroll](http://behe.uncommondescent.com/2007/06/response-to-critics-part-2-sean-carroll/)
-*[Response to Critics, Part 3: Michael Ruse](http://behe.uncommondescent.com/2007/06/response-to-critics-part-3-michael-ruse/)
-*[Back and Forth with Jerry Coyne, Part 1](http://behe.uncommondescent.com/2007/07/back-and-forth-with-jerry-coyne-part-1/), [Part 2](http://behe.uncommondescent.com/2007/07/back-and-forth-with-jerry-coyne-part-2/), [Part 3](http://behe.uncommondescent.com/2007/07/back-and-forth-with-jerry-coyne-part-3/)
-*[Response to Kenneth R. Miller](http://behe.uncommondescent.com/2007/07/response-to-kenneth-r-miller/), [Part 2](http://behe.uncommondescent.com/2007/07/response-to-ken-miller-continued/)
-*[Response to Richard Dawkins](http://behe.uncommondescent.com/2007/07/response-to-richard-dawkins/)
-*[Beyond the Edge of Evolution: The New York Times Story](http://behe.uncommondescent.com/2007/08/beyond-the-edge-of-evolution-the-new-york-times-story/) (Vastaus Kenneth Changin juttuun koskien Joseph Thorntonin tutkimuksia)
-*[Science, E. coli, and the Edge of Evolution: Part 1](http://behe.uncommondescent.com/2007/10/science-e-coli-and-the-edge-of-evolution-part-1/) (Kommentti koskien Isabel Gordonin tutkimusta)
-*[Science, E. coli, and the Edge of Evolution: Part 2](http://behe.uncommondescent.com/2007/10/science-e-coli-and-the-edge-of-evolution-part-2/)  (Vastaus Abbie "ERV" Smithin kritiikkiin *The Panda’s Thumb* -sivustolla)
-*[Microbe Magazine and the Bacterial Flagellum: Part 3](http://behe.uncommondescent.com/2007/10/microbe-magazine-and-the-bacterial-flagellum-part-3/) (Vastaus Wongin & al. kirjoitukseen *Microbe Magazine* -lehdessä)
-*[Korthof and Pseudogenes: Part 4](http://behe.uncommondescent.com/2007/10/korthof-and-pseudogenes-part-4/) (Vastaus Gert Korthofin kritiikkiin)
-*[Back and forth with Sean Carroll in Science](http://behe.uncommondescent.com/2007/10/back-and-forth-with-sean-carroll-in-science-2/)
-*[Reply to Gross](http://behe.uncommondescent.com/2007/10/reply-to-gross/)
-*[Kenneth R. Miller and the Problem of Evil, Part 1](http://behe.uncommondescent.com/2007/10/kenneth-r-miller-and-the-problem-of-evil-part-1/), [Part 2](http://behe.uncommondescent.com/2007/10/kenneth-r-miller-and-the-problem-of-evil-part-2/), [Part 3](http://behe.uncommondescent.com/2007/10/kenneth-r-miller-and-the-problem-of-evil-part-3/)
-*[Trends in Ecology and Evolution follows the trend, Part I](http://behe.uncommondescent.com/2007/11/trends-in-ecology-and-evolution-follows-the-trend-part-i/), [Part II](http://behe.uncommondescent.com/2007/11/trends-in-ecology-and-evolution-follows-the-trend-part-ii/), [Part III](http://behe.uncommondescent.com/2007/11/trends-in-ecology-and-evolution-follows-the-trend-part-iii/)
-*[Response to Ian Musgrave’s “Open Letter to Dr. Michael Behe,” Part 1](http://behe.uncommondescent.com/2007/11/response-to-ian-musgraves-open-letter-to-dr-michael-behe-part-1/), [Part 2](http://behe.uncommondescent.com/2007/11/response-to-ian-musgraves-open-letter-to-dr-michael-behe-part-2/), [Part 3](http://behe.uncommondescent.com/2007/11/response-to-ian-musgraves-open-letter-to-dr-michael-behe-part-3/), [Part 4](http://behe.uncommondescent.com/2007/11/response-to-ian-musgraves-open-letter-to-dr-michael-behe-part-4/), [Part 5](http://behe.uncommondescent.com/2007/11/response-to-ian-musgraves-open-letter-to-dr-michael-behe-part-5/)
-*[Malaria and Mutations](http://behe.uncommondescent.com/2008/05/malaria-and-mutations/) (Kommentti koskien *New England Journal of Medicine* -lehdessä julkaistua tutkimusta)
-*[Multiple Mutations Needed for E. Coli](http://behe.uncommondescent.com/2008/06/multiple-mutations-needed-for-e-coli/) (Kommentti koskien Richard Lenskin tutkimusta *PNAS*-lehdessä)
-*[Once More With Feeling](http://behe.uncommondescent.com/2008/06/once-more-with-feeling/) (Vastaus Kenneth Millerin kirjassa *Only a Theory: Evolution and the Battle for America’s Soul* esitettyyn kritiikkiin)
-*[Miller vs. Luskin, Part 1](http://behe.uncommondescent.com/2009/01/miller-vs-luskin-part-1/), [Part 2](http://behe.uncommondescent.com/2009/01/miller-vs-luskin-part-2/)
-*[Hog’s tail or bacon? Jerry Coyne in The New Republic](http://behe.uncommondescent.com/2009/02/hogs-tails-or-bacon/)
-*[Waiting Longer for Two Mutations, Part 1](http://behe.uncommondescent.com/2009/03/waiting-longer-for-two-mutations-part-1/), [Part 2](http://behe.uncommondescent.com/2009/03/waiting-longer-for-two-mutations-part-2/), [Part 3](http://behe.uncommondescent.com/2009/03/waiting-longer-for-two-mutations-part-3/), [Part 4](http://behe.uncommondescent.com/2009/03/waiting-longer-for-two-mutations-part-4/), [Part 5](http://behe.uncommondescent.com/2009/03/waiting-longer-for-two-mutations-part-5/) (Vastaus R. Durrettin ja D. Schmidtin *Genetics*-lehdessä julkaistuun artikkeliin *Waiting for Two Mutations: With Applications to Regulatory Sequence Evolution and the Limits of Darwinian Evolution*)
-*[“The Old Enigma,” Part 1 of 3](http://behe.uncommondescent.com/2009/03/%E2%80%9Cthe-old-enigma%E2%80%9D-part-1-of-3/), [Part 2 of 3](http://behe.uncommondescent.com/2009/04/%E2%80%9Cthe-old-enigma%E2%80%9D-part-2-of-3/), [Part 3 of 3](http://behe.uncommondescent.com/2009/04/%E2%80%9Cthe-old-enigma%E2%80%9D-part-3-of-3/) (Kommentti D. J. Whiteheadin & al. artikkelista *The look-ahead effect of phenotypic mutations*)
-*[Letter to Science](http://behe.uncommondescent.com/2009/05/letter-to-science/) (Vastaus John Travisin artikkeliin *Science*-lehdessä)
-*[Letter to Trends in Microbiology](http://behe.uncommondescent.com/2009/05/letter-to-trends-in-microbiology/) (Vastaus L. A. S. Snyderin & al. artikkeliin *Trends in Microbiology* -lehdessä)
-*[“Reducible complexity” in PNAS](http://behe.uncommondescent.com/2009/09/reducible-complexity-in-pnas/) (Vastaus A. Clementsin & al. artikkeliin *Proceedings of the National Academy of Sciences* -lehdessä)
-*[Nature publishes paper on the edge of evolution, Part 1](http://behe.uncommondescent.com/2009/09/nature-publishes-paper-on-the-edge-of-evolution-part-1/), [Part 2](http://behe.uncommondescent.com/2009/10/nature-publishes-paper-on-the-edge-of-evolution-part-2/), [Part 3](http://behe.uncommondescent.com/2009/10/nature-publishes-paper-on-the-edge-of-evolution-part-3/) (Kommentti Joseph Thorntonin tutkimuksista, jotka tukevat kirjassa esitettyä argumenttia)
-*[New work by Richard Lenski](http://behe.uncommondescent.com/2009/10/new-work-by-richard-lenski/)
-*[Response to Carl Zimmer and Joseph Thornton, Part 1](http://behe.uncommondescent.com/2009/10/response-to-carl-zimmer-and-joseph-thornton-part-1/), [Part 2](http://behe.uncommondescent.com/2009/10/response-to-carl-zimmer-and-joseph-thornton-part-2/), [Part 3](http://behe.uncommondescent.com/2009/10/response-to-carl-zimmer-and-joseph-thornton-part-3/), [Part 4](http://behe.uncommondescent.com/2009/10/response-to-carl-zimmer-and-joseph-thornton-part-4/)
-*[Misusing Protistan Examples to Propagate Myths about Intelligent Design](http://behe.uncommondescent.com/2010/02/misusing-protistan-examples-to-propagate-myths-about-intelligent-design/) (Vastaus *International Society of Protistologists* -työryhmän *Journal of Eukaryotic Microbiology* -lehdessä julkaisemaan kritiikkiin)
-*[A malodorous argument for Darwinian evolution](http://behe.uncommondescent.com/2010/03/a-malodorous-argument-for-darwinian-evolution/) (Kommentti John Avisen kirjasta *Inside the Human Genome: A Case for Non-Intelligent Design*)
+* [Response to Critics, Part 1: Jerry Coyne](http://behe.uncommondescent.com/2007/06/response-to-critics-part-1-jerry-coyne/)
+* [Response to Critics, Part 2: Sean Carroll](http://behe.uncommondescent.com/2007/06/response-to-critics-part-2-sean-carroll/)
+* [Response to Critics, Part 3: Michael Ruse](http://behe.uncommondescent.com/2007/06/response-to-critics-part-3-michael-ruse/)
+* [Back and Forth with Jerry Coyne, Part 1](http://behe.uncommondescent.com/2007/07/back-and-forth-with-jerry-coyne-part-1/), [Part 2](http://behe.uncommondescent.com/2007/07/back-and-forth-with-jerry-coyne-part-2/), [Part 3](http://behe.uncommondescent.com/2007/07/back-and-forth-with-jerry-coyne-part-3/)
+* [Response to Kenneth R. Miller](http://behe.uncommondescent.com/2007/07/response-to-kenneth-r-miller/), [Part 2](http://behe.uncommondescent.com/2007/07/response-to-ken-miller-continued/)
+* [Response to Richard Dawkins](http://behe.uncommondescent.com/2007/07/response-to-richard-dawkins/)
+* [Beyond the Edge of Evolution: The New York Times Story](http://behe.uncommondescent.com/2007/08/beyond-the-edge-of-evolution-the-new-york-times-story/) (Vastaus Kenneth Changin juttuun koskien Joseph Thorntonin tutkimuksia)
+* [Science, E. coli, and the Edge of Evolution: Part 1](http://behe.uncommondescent.com/2007/10/science-e-coli-and-the-edge-of-evolution-part-1/) (Kommentti koskien Isabel Gordonin tutkimusta)
+* [Science, E. coli, and the Edge of Evolution: Part 2](http://behe.uncommondescent.com/2007/10/science-e-coli-and-the-edge-of-evolution-part-2/)  (Vastaus Abbie "ERV" Smithin kritiikkiin *The Panda’s Thumb* -sivustolla)
+* [Microbe Magazine and the Bacterial Flagellum: Part 3](http://behe.uncommondescent.com/2007/10/microbe-magazine-and-the-bacterial-flagellum-part-3/) (Vastaus Wongin & al. kirjoitukseen *Microbe Magazine* -lehdessä)
+* [Korthof and Pseudogenes: Part 4](http://behe.uncommondescent.com/2007/10/korthof-and-pseudogenes-part-4/) (Vastaus Gert Korthofin kritiikkiin)
+* [Back and forth with Sean Carroll in Science](http://behe.uncommondescent.com/2007/10/back-and-forth-with-sean-carroll-in-science-2/)
+* [Reply to Gross](http://behe.uncommondescent.com/2007/10/reply-to-gross/)
+* [Kenneth R. Miller and the Problem of Evil, Part 1](http://behe.uncommondescent.com/2007/10/kenneth-r-miller-and-the-problem-of-evil-part-1/), [Part 2](http://behe.uncommondescent.com/2007/10/kenneth-r-miller-and-the-problem-of-evil-part-2/), [Part 3](http://behe.uncommondescent.com/2007/10/kenneth-r-miller-and-the-problem-of-evil-part-3/)
+* [Trends in Ecology and Evolution follows the trend, Part I](http://behe.uncommondescent.com/2007/11/trends-in-ecology-and-evolution-follows-the-trend-part-i/), [Part II](http://behe.uncommondescent.com/2007/11/trends-in-ecology-and-evolution-follows-the-trend-part-ii/), [Part III](http://behe.uncommondescent.com/2007/11/trends-in-ecology-and-evolution-follows-the-trend-part-iii/)
+* [Response to Ian Musgrave’s “Open Letter to Dr. Michael Behe,” Part 1](http://behe.uncommondescent.com/2007/11/response-to-ian-musgraves-open-letter-to-dr-michael-behe-part-1/), [Part 2](http://behe.uncommondescent.com/2007/11/response-to-ian-musgraves-open-letter-to-dr-michael-behe-part-2/), [Part 3](http://behe.uncommondescent.com/2007/11/response-to-ian-musgraves-open-letter-to-dr-michael-behe-part-3/), [Part 4](http://behe.uncommondescent.com/2007/11/response-to-ian-musgraves-open-letter-to-dr-michael-behe-part-4/), [Part 5](http://behe.uncommondescent.com/2007/11/response-to-ian-musgraves-open-letter-to-dr-michael-behe-part-5/)
+* [Malaria and Mutations](http://behe.uncommondescent.com/2008/05/malaria-and-mutations/) (Kommentti koskien *New England Journal of Medicine* -lehdessä julkaistua tutkimusta)
+* [Multiple Mutations Needed for E. Coli](http://behe.uncommondescent.com/2008/06/multiple-mutations-needed-for-e-coli/) (Kommentti koskien Richard Lenskin tutkimusta *PNAS*-lehdessä)
+* [Once More With Feeling](http://behe.uncommondescent.com/2008/06/once-more-with-feeling/) (Vastaus Kenneth Millerin kirjassa *Only a Theory: Evolution and the Battle for America’s Soul* esitettyyn kritiikkiin)
+* [Miller vs. Luskin, Part 1](http://behe.uncommondescent.com/2009/01/miller-vs-luskin-part-1/), [Part 2](http://behe.uncommondescent.com/2009/01/miller-vs-luskin-part-2/)
+* [Hog’s tail or bacon? Jerry Coyne in The New Republic](http://behe.uncommondescent.com/2009/02/hogs-tails-or-bacon/)
+* [Waiting Longer for Two Mutations, Part 1](http://behe.uncommondescent.com/2009/03/waiting-longer-for-two-mutations-part-1/), [Part 2](http://behe.uncommondescent.com/2009/03/waiting-longer-for-two-mutations-part-2/), [Part 3](http://behe.uncommondescent.com/2009/03/waiting-longer-for-two-mutations-part-3/), [Part 4](http://behe.uncommondescent.com/2009/03/waiting-longer-for-two-mutations-part-4/), [Part 5](http://behe.uncommondescent.com/2009/03/waiting-longer-for-two-mutations-part-5/) (Vastaus R. Durrettin ja D. Schmidtin *Genetics*-lehdessä julkaistuun artikkeliin *Waiting for Two Mutations: With Applications to Regulatory Sequence Evolution and the Limits of Darwinian Evolution*)
+* [“The Old Enigma,” Part 1 of 3](http://behe.uncommondescent.com/2009/03/%E2%80%9Cthe-old-enigma%E2%80%9D-part-1-of-3/), [Part 2 of 3](http://behe.uncommondescent.com/2009/04/%E2%80%9Cthe-old-enigma%E2%80%9D-part-2-of-3/), [Part 3 of 3](http://behe.uncommondescent.com/2009/04/%E2%80%9Cthe-old-enigma%E2%80%9D-part-3-of-3/) (Kommentti D. J. Whiteheadin & al. artikkelista *The look-ahead effect of phenotypic mutations*)
+* [Letter to Science](http://behe.uncommondescent.com/2009/05/letter-to-science/) (Vastaus John Travisin artikkeliin *Science*-lehdessä)
+* [Letter to Trends in Microbiology](http://behe.uncommondescent.com/2009/05/letter-to-trends-in-microbiology/) (Vastaus L. A. S. Snyderin & al. artikkeliin *Trends in Microbiology* -lehdessä)
+* [“Reducible complexity” in PNAS](http://behe.uncommondescent.com/2009/09/reducible-complexity-in-pnas/) (Vastaus A. Clementsin & al. artikkeliin *Proceedings of the National Academy of Sciences* -lehdessä)
+* [Nature publishes paper on the edge of evolution, Part 1](http://behe.uncommondescent.com/2009/09/nature-publishes-paper-on-the-edge-of-evolution-part-1/), [Part 2](http://behe.uncommondescent.com/2009/10/nature-publishes-paper-on-the-edge-of-evolution-part-2/), [Part 3](http://behe.uncommondescent.com/2009/10/nature-publishes-paper-on-the-edge-of-evolution-part-3/) (Kommentti Joseph Thorntonin tutkimuksista, jotka tukevat kirjassa esitettyä argumenttia)
+* [New work by Richard Lenski](http://behe.uncommondescent.com/2009/10/new-work-by-richard-lenski/)
+* [Response to Carl Zimmer and Joseph Thornton, Part 1](http://behe.uncommondescent.com/2009/10/response-to-carl-zimmer-and-joseph-thornton-part-1/), [Part 2](http://behe.uncommondescent.com/2009/10/response-to-carl-zimmer-and-joseph-thornton-part-2/), [Part 3](http://behe.uncommondescent.com/2009/10/response-to-carl-zimmer-and-joseph-thornton-part-3/), [Part 4](http://behe.uncommondescent.com/2009/10/response-to-carl-zimmer-and-joseph-thornton-part-4/)
+* [Misusing Protistan Examples to Propagate Myths about Intelligent Design](http://behe.uncommondescent.com/2010/02/misusing-protistan-examples-to-propagate-myths-about-intelligent-design/) (Vastaus *International Society of Protistologists* -työryhmän *Journal of Eukaryotic Microbiology* -lehdessä julkaisemaan kritiikkiin)
+* [A malodorous argument for Darwinian evolution](http://behe.uncommondescent.com/2010/03/a-malodorous-argument-for-darwinian-evolution/) (Kommentti John Avisen kirjasta *Inside the Human Genome: A Case for Non-Intelligent Design*)
 
 #### P. Z. Myers ja Lenskin tutkimukset
 
@@ -120,18 +120,18 @@ Eli Behe on ihan selkeästi sitä mieltä, että kyseinen ominaisuus ilmaantui e
 
 #### Internet
 ##### Videot & audiot
-*[Behe luennoi kirjastaan (13.06.2007)](http://www.c-spanvideo.org/program/199326-1), video (1h 33min)
-*[Blogginheads.tv: Irreducibly complex edition](http://bloggingheads.tv/diavlogs/22075), Behe keskustelee John McWhorterin kanssa (Video, 44min)
-*[Behen haastattelu The Colbert Report -ohjelmassa](http://www.dailymotion.com/video/x100goo_michael-behe-on-the-colbert-report_news), (video, 5min)
-*[Point of Inquiry -haastattelu](http://www.pointofinquiry.org/michael_behe_the_edge_of_evolution/) (mp3-audio)
+* [Behe luennoi kirjastaan (13.06.2007)](http://www.c-spanvideo.org/program/199326-1), video (1h 33min)
+* [Blogginheads.tv: Irreducibly complex edition](http://bloggingheads.tv/diavlogs/22075), Behe keskustelee John McWhorterin kanssa (Video, 44min)
+* [Behen haastattelu The Colbert Report -ohjelmassa](http://www.dailymotion.com/video/x100goo_michael-behe-on-the-colbert-report_news), (video, 5min)
+* [Point of Inquiry -haastattelu](http://www.pointofinquiry.org/michael_behe_the_edge_of_evolution/) (mp3-audio)
 
 ##### Tekstit
 ###### Toimivat linkit (30.4.2017)
-*[Journal of Creation](http://creation.com/review-michael-behe-edge-of-evolution): [äskettäisluomisnäkemystä](../glossary/sanasto.md#äskettäisluomisnäkemys) edustavan Don Battenin arvio kirjasta
+* [Journal of Creation](http://creation.com/review-michael-behe-edge-of-evolution): [äskettäisluomisnäkemystä](../glossary/sanasto.md#äskettäisluomisnäkemys) edustavan Don Battenin arvio kirjasta
 ###### Toimimattomat linkit (30.4.2017)
 <!--*[Behen Amazon-blogi](http://www.amazon.com/gp/blog/A3DGRQ0IO7KYQ2/ref=cm_blog_blog), jossa hän saa tarpeeksi palstatilaa vastata kriitikoilleen.-->
-*[Questions about my new book?](http://behe.uncommondescent.com/2007/06/questions-about-my-new-book/) Behen haastattelu kirjasta
-*[Nature-lehdessä 2009 julkaistun artikkelin tulokset vahvistavat Behen argumenttia](http://behe.uncommondescent.com/2009/09/nature-publishes-paper-on-the-edge-of-evolution-part-1/).
+* [Questions about my new book?](http://behe.uncommondescent.com/2007/06/questions-about-my-new-book/) Behen haastattelu kirjasta
+* [Nature-lehdessä 2009 julkaistun artikkelin tulokset vahvistavat Behen argumenttia](http://behe.uncommondescent.com/2009/09/nature-publishes-paper-on-the-edge-of-evolution-part-1/).
 
 ### Viitteet
 

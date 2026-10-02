@@ -4,7 +4,7 @@ about: apologetics
 title: "Kärsimyksen tarkoitus (kirja)"
 description: "Kärsimyksen tarkoitus on Tapio Puolimatkan kirjoittama kirja, joka tuo esille erilaisia näkökulmia kärsimyksen ongelmaan ja sen ratkaisuun."
 tags: [apowiki, filosofia, kirjat, tapio-puolimatka]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kärsimyksen tarkoitus (kirja)".
@@ -43,68 +43,68 @@ Elämän tarkoituksen pohtiminen tulee entistä tärkeämmäksi ihmisen kohdates
 
 ### Kirjan sisällysluettelo
 
-***Esipuhe**
-***Johdanto**
+* **Esipuhe**
+* **Johdanto**
 
-***1.	Kärsimys ja epäuskon kiusaus**
-**1.1.	Toivo herää umpikujassa
-**1.2.	Epätoivo ja persoonallinen vastaus
-**1.3.	Kärsimys yllättää voimallaan
+* **1.	Kärsimys ja epäuskon kiusaus**
+  * 1.1.	Toivo herää umpikujassa
+  * 1.2.	Epätoivo ja persoonallinen vastaus
+  * 1.3.	Kärsimys yllättää voimallaan
 
-***2.	Kärsimys ja lohdutus**
-**2.1.	Ilo kärsimysten keskellä
-**2.2.	Kärsimyksen ja ilon monet tasot
-***Kärsimyksen sisältämät mahdollisuudet
-***Omantunnon kärsimys
-**2.3.	Subjektiivinen ja objektiivinen kärsimys
-**2.4.	Rakkauden järjestys
-***Rakkauden järjestyksen vääristyminen
-***Itserakkauden tuhoava kehä
-***Itsensä uhraava rakkaus
-***Läheisten ihmissuhteiden merkitys
-**2.5.	Moraalisen eheyden puutteen aiheuttama kärsimys
-***Tunnustamaton synti rikkoo eheyden
-***Moraalisen omahyväisyyden ongelma
-***Yksinäisyyden helvetti
-**2.6.	Moraalisen vääryyden uhrin kärsimys
+* **2.	Kärsimys ja lohdutus**
+  * 2.1.	Ilo kärsimysten keskellä
+  * 2.2.	Kärsimyksen ja ilon monet tasot
+    * Kärsimyksen sisältämät mahdollisuudet
+    * Omantunnon kärsimys
+  * 2.3.	Subjektiivinen ja objektiivinen kärsimys
+  * 2.4.	Rakkauden järjestys
+    * Rakkauden järjestyksen vääristyminen
+    * Itserakkauden tuhoava kehä
+    * Itsensä uhraava rakkaus
+    * Läheisten ihmissuhteiden merkitys
+  * 2.5.	Moraalisen eheyden puutteen aiheuttama kärsimys
+    * Tunnustamaton synti rikkoo eheyden
+    * Moraalisen omahyväisyyden ongelma
+    * Yksinäisyyden helvetti
+  * 2.6.	Moraalisen vääryyden uhrin kärsimys
 
-***3.	Voiko kärsimys palvella korkeampaa tarkoitusta?**
-**3.1. Kärsimys näkökulman laajentajana
-**3.2. Tutkimukset kärsimyksen myönteisestä merkityksestä
+* **3.	Voiko kärsimys palvella korkeampaa tarkoitusta?**
+  * 3.1. Kärsimys näkökulman laajentajana
+  * 3.2. Tutkimukset kärsimyksen myönteisestä merkityksestä
 
-***4.	Yrityksiä ratkaista kärsimyksen ongelma**
-**4.1.	Pako nautintoon
-**4.2.	Pako tekniikkaan
-**4.3.	Pako ekstaattiseen mietiskelyyn
-**4.4.	Pako itsettömyyteen
-**4.5.	Pako hulluuteen ja rajattomuuteen
-**4.6.	Pako itsepetokseen
-**4.7.	Pako väkivaltaan
-**4.8.	Inhimillisten ratkaisuyritysten rajallisuus
+* **4.	Yrityksiä ratkaista kärsimyksen ongelma**
+  * 4.1.	Pako nautintoon
+  * 4.2.	Pako tekniikkaan
+  * 4.3.	Pako ekstaattiseen mietiskelyyn
+  * 4.4.	Pako itsettömyyteen
+  * 4.5.	Pako hulluuteen ja rajattomuuteen
+  * 4.6.	Pako itsepetokseen
+  * 4.7.	Pako väkivaltaan
+  * 4.8.	Inhimillisten ratkaisuyritysten rajallisuus
 
-***5.	Usko ja kärsimys**
-**5.1.	Kristuksen ylösnousemuksen voima
-**5.2.	Umpikujat ovat Jumalan mahdollisuuksia
-***Säröjä ihmisen itsepetokseen
-***Umpikujassa löytyy uusia ovia
-***Siunauksen ja vastoinkäymisten tasapaino
-**5.3.	Oman pahuuden kohtaaminen
-***Kärsimys tienä aitouteen
-***Kärsimyksen kaksinaisluonne
-**5.4.	Kiitollisuus suuntaa huomiota ulospäin
-**5.5.	Ihmisen vapaus ja vastuu
+* **5.	Usko ja kärsimys**
+  * 5.1.	Kristuksen ylösnousemuksen voima
+  * 5.2.	Umpikujat ovat Jumalan mahdollisuuksia
+    * Säröjä ihmisen itsepetokseen
+    * Umpikujassa löytyy uusia ovia
+    * Siunauksen ja vastoinkäymisten tasapaino
+  * 5.3.	Oman pahuuden kohtaaminen
+    * Kärsimys tienä aitouteen
+    * Kärsimyksen kaksinaisluonne
+  * 5.4.	Kiitollisuus suuntaa huomiota ulospäin
+  * 5.5.	Ihmisen vapaus ja vastuu
 
-***6.	Kolmiyhteisen Jumalan rakkaus**
-**6.1.	Kolmiyhteisen Jumalan epäitsekäs ilo
-**6.2.	Jumalan armo on lahjaa
-**6.3.	Henkilökohtaisesti koetun kärsimyksen vaikeus
-**6.4.	Jumalan kunnia pahuuden ja kärsimyksen maailmassa
-**6.5.	Jumala voi kääntää pahan hyväksi
-***Anteeksiantamus ja rakkaus
-***Ristin ryövärin pelastus
+* **6.	Kolmiyhteisen Jumalan rakkaus**
+  * 6.1.	Kolmiyhteisen Jumalan epäitsekäs ilo
+  * 6.2.	Jumalan armo on lahjaa
+  * 6.3.	Henkilökohtaisesti koetun kärsimyksen vaikeus
+  * 6.4.	Jumalan kunnia pahuuden ja kärsimyksen maailmassa
+  * 6.5.	Jumala voi kääntää pahan hyväksi
+    * Anteeksiantamus ja rakkaus
+    * Ristin ryövärin pelastus
 
-***7.	Kypsyminen kärsimyksen kohtaamiseen**
-***Kirjallisuus**
+* **7.	Kypsyminen kärsimyksen kohtaamiseen**
+* **Kirjallisuus**
 
 ### Aiheesta muualla
 
@@ -113,9 +113,9 @@ Elämän tarkoituksen pohtiminen tulee entistä tärkeämmäksi ihmisen kohdates
 * [Reijo Telaranta: Kirja-arvostelu kirjasta *Kärsimyksen tarkoitus*](http://www.reijotelaranta.fi/kirjablogi_kristilliset_kirjat/aikajarjestyksessa/tapio_puolimatka_karsimisen_tarkoitus/), viitattu 22.12.2022
 
 #### ApoWiki
-*[Kulttuuriset myytit](kulttuuriset-myytit.md)
-*[Pahan ongelma](pahan-ongelma.md)
-*[Onko uskonnon opetus indoktrinaatiota?](onko-uskonnon-opetus-indoktrinaatiota.md)
+* [Kulttuuriset myytit](kulttuuriset-myytit.md)
+* [Pahan ongelma](pahan-ongelma.md)
+* [Onko uskonnon opetus indoktrinaatiota?](onko-uskonnon-opetus-indoktrinaatiota.md)
 
 ### Viitteet
 

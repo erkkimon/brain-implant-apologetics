@@ -4,7 +4,7 @@ about: apologetics
 title: "John Hartnettin kosmologinen malli"
 description: "John Hartnettin kosmologinen malli kuvaa maailmankaikkeutta lähtien oletuksesta, että Raamatun luomiskertomus on kirjaimellisesti totta nuoren maan kreationistisen tulkintaperinteen mukaisesti."
 tags: [apowiki, kosmologia, luomisoppi]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "John Hartnettin kosmologinen malli".
@@ -257,7 +257,7 @@ Aikalaajenemisen vaikutukset ilmenivät maapallolla luomisviikon aikana. Kun laa
 
 ### Lähteet
 
-*Dr. John Hartnett, *Starlight, Time and the New Physics*, Creation Book Publishers, 2007, 978-0-949906-68-7
+* Dr. John Hartnett, *Starlight, Time and the New Physics*, Creation Book Publishers, 2007, 978-0-949906-68-7
 
 #### Viitteet
 

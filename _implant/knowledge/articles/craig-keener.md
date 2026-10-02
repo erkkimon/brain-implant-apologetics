@@ -4,7 +4,7 @@ about: apologetics
 title: "Craig Keener"
 description: "Craig Keener on Uuden testamentin eksegetiikan professori Palmer Theological Seminary nimisessä korkeakoulussa."
 tags: [apowiki, henkilöt, eksegetiikka]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Craig Keener".
@@ -26,20 +26,20 @@ Craig Keenerin vaimo Médine, joka väitteli tohtoriksi Pariisin yliopistossa, o
 
 ### Teokset
 
-*A Commentary on the Gospel of Matthew (Eerdmans, 1999; slightly revised edition, 2009) (also a briefer version with IVP)
-*The Gospel of John: A Commentary (2 vols., Hendrickson, 2003)
-*Revelation (Zondervan, 2000)
-*1-2 Corinthians (Cambridge, 2006)
-*Romans (Cascade/Wipf & Stock, 2009)
-*The Historical Jesus of the Gospels (Eerdmans, 2009, available by November)
-*Gift & Giver: The Holy Spirit for Today (Baker, 2001)
-*Paul, Women & Wives (Hendrickson, 1992)
-*Defending Black Faith (with Glenn Usry)
+* A Commentary on the Gospel of Matthew (Eerdmans, 1999; slightly revised edition, 2009) (also a briefer version with IVP)
+* The Gospel of John: A Commentary (2 vols., Hendrickson, 2003)
+* Revelation (Zondervan, 2000)
+* 1-2 Corinthians (Cambridge, 2006)
+* Romans (Cascade/Wipf & Stock, 2009)
+* The Historical Jesus of the Gospels (Eerdmans, 2009, available by November)
+* Gift & Giver: The Holy Spirit for Today (Baker, 2001)
+* Paul, Women & Wives (Hendrickson, 1992)
+* Defending Black Faith (with Glenn Usry)
 
 ### Aiheesta muualla
 
-*[Craig Keenerin kotisivut](http://sites.google.com/site/drckeener/home).
-*[Englanninkielinen artikkeli historiallisesta Jeesuksesta](http://www.bibleinterp.com/articles/keener357924.shtml)
-*[Craig Keenerin kuva](http://newtestamentperspectives.blogspot.com/2008/06/craig-keeners-new-website.html)
-*[Miksi historiallista Jeesus-tutkimusta tarvitaan?](http://www.christianitytoday.com/ct/2010/april/17.27.html)
-*[MP3 muotoon tallennettu Craig Keenerin haastattelu evankeliumien luotettavuudesta](https://www.namb.net/apologetics/resource/audio-interview-with-craig-keener-on-the-reliability-of-the-gospels/)
+* [Craig Keenerin kotisivut](http://sites.google.com/site/drckeener/home).
+* [Englanninkielinen artikkeli historiallisesta Jeesuksesta](http://www.bibleinterp.com/articles/keener357924.shtml)
+* [Craig Keenerin kuva](http://newtestamentperspectives.blogspot.com/2008/06/craig-keeners-new-website.html)
+* [Miksi historiallista Jeesus-tutkimusta tarvitaan?](http://www.christianitytoday.com/ct/2010/april/17.27.html)
+* [MP3 muotoon tallennettu Craig Keenerin haastattelu evankeliumien luotettavuudesta](https://www.namb.net/apologetics/resource/audio-interview-with-craig-keener-on-the-reliability-of-the-gospels/)

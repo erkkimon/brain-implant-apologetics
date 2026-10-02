@@ -4,7 +4,7 @@ about: apologetics
 title: "Robert Oscar Lopez"
 description: "Robert Oscar Lopez (syntynyt 1971) on toiminut englannin kielen ja klassisen kirjallisuuden professorina Kalifornian valtionyliopistossa Northridgessä, Los Angelesissa."
 tags: [apowiki, henkilöt, seksuaalietiikka]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Robert Oscar Lopez".
@@ -67,14 +67,14 @@ Lopez[^12] arvioi sukupuolineutraalin avioliittolainsäädännön johtavan yhtei
 ### Teokset
 
 #### Kirjat
-**Jephtha's Daughters. Innocent Casualties in the War of Family 'Equality*', published 2015 by CreateSpace
+* *Jephtha's Daughters. Innocent Casualties in the War of Family 'Equality*', published 2015 by CreateSpace
 * *The Colorful Conservative: American Conversations with the Ancients from Wheatley to Whitman*, published by Rowman & Littlefield in 2011.[^3]
 
 #### Artikkelit
-*[Bloom In-Humanities and the Gay Marriage Regime](http://humanumreview.com/articles/bloom-in-humanities-and-the-gay-marriage-regime,) 2015 in *Humanum*
-*[Growing up with two Moms](http://www.thepublicdiscourse.com/2012/08/6065/) 2012 in Public Discourse
-*[Protecting Human Rights for All](http://www.sandiegouniontribune.com/news/2015/apr/11/protecting-human-rights-for-all/) in *San Diego Union Tribune* 2015
-*[Kids of Gay Couples are Finding Their Voice. Will SCOTUS Listen?](http://dailycaller.com/2015/02/13/kids-of-gay-couples-find-their-voice-will-scotus-listen/) in *Daily Caller* 2015
+* [Bloom In-Humanities and the Gay Marriage Regime](http://humanumreview.com/articles/bloom-in-humanities-and-the-gay-marriage-regime,) 2015 in *Humanum*
+* [Growing up with two Moms](http://www.thepublicdiscourse.com/2012/08/6065/) 2012 in Public Discourse
+* [Protecting Human Rights for All](http://www.sandiegouniontribune.com/news/2015/apr/11/protecting-human-rights-for-all/) in *San Diego Union Tribune* 2015
+* [Kids of Gay Couples are Finding Their Voice. Will SCOTUS Listen?](http://dailycaller.com/2015/02/13/kids-of-gay-couples-find-their-voice-will-scotus-listen/) in *Daily Caller* 2015
 
 ### Lähteet
 * Lopez, Robert Oscar & Rivka Edelman (toim.), *Jephthah's Daughters: Innocent Casualities in the War for Family "Equality"*, Los Angeles, CA, 2015

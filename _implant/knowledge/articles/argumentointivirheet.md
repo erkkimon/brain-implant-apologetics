@@ -4,7 +4,7 @@ about: apologetics
 title: "Argumentointivirheet"
 description: "Argumentointivirheet eli perusteluvirheet ovat keskustelutekniikan ja mielipiteen esittämisen virheitä, jotka muodollisesti näyttävät oikeilta, mutta joissa lähemmin tarkasteltuina on joko looginen virhe, ne kohdistuvat johonkin muuhun…"
 tags: [apowiki, argumentointi]
-timestamp: 2026-10-02T03:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Argumentointivirheet".
@@ -64,131 +64,131 @@ Jollei tätä tajuta, koko perusteluvirheen käsite menee [sekaisin](https://fi.
 
 #### Henkilöön kohdistuvat argumentointivirheet
 
-*[Argumentum ad auctoritatem](argumentum-ad-auctoritatem.md) (auktoriteettiin vetoaminen)
-**[Argumentum ad verecundiam](https://en.wikipedia.org/wiki/Argument_from_authority) <!-- red link: Argumentum ad verecundiam --> (arvovaltaan vetoaminen)
-**[Ipse dixit](https://en.wikipedia.org/wiki/Ipse_dixit) <!-- red link: Ipse dixit --> (hän sanoi niin)
-**[Argumentum ad populum](https://en.wikipedia.org/wiki/Argumentum_ad_populum) <!-- red link: Argumentum ad populum --> (suosituimmuuteen vetoaminen)
-**[Argumentum ad hitlerum](https://en.wikipedia.org/wiki/Reductio_ad_Hitlerum) <!-- red link: Argumentum ad hitlerum --> (kompromettointi)
-**Suutari pysyköön lestissään <!-- red link: Suutari pysyköön lestissään --> (omahyväisyys)
-*[Argumentum ad hominem](argumentum-ad-hominem.md) (henkilökohtaisuuksiin meneminen)
-**ad hominem abusivis <!-- red link: ad hominem abusivis --> (loukkaus)
-**ad hominem circumstantiae <!-- red link: ad hominem circumstantiae --> (argumentaation asianhaaroihin vetoaminen)
-**[ad hominem tu quoque](https://en.wikipedia.org/wiki/Tu_quoque) <!-- red link: ad hominem tu quoque --> (argumentoijan sosiaaliseen habitukseen vetoaminen)
-**kaivon myrkyttäminen <!-- red link: kaivon myrkyttäminen -->
-**ad hominem motivum <!-- red link: ad hominem motivum --> (motiiviin vetoaminen, oma lehmä ojassa)
-*[Argumentum ad crumenam](https://fi.wikipedia.org/wiki/Varallisuuteen_vetoaminen) <!-- red link: Argumentum ad crumenam --> (varallisuuteen vetoaminen)
-*[Argumentum ad lazarum](https://fi.wikipedia.org/wiki/Köyhyyteen_vetoaminen) <!-- red link: Argumentum ad lazarum --> (köyhyyteen vetoaminen)
-*[Itseen yleistäminen](https://fi.wikipedia.org/wiki/Itseen_yleistäminen) <!-- red link: Itseen yleistäminen -->
-*[Itsestä yleistäminen](https://fi.wikipedia.org/wiki/Itsestä_yleistäminen) <!-- red link: Itsestä yleistäminen -->
-*[O sancta simplicitas](https://fi.wikipedia.org/wiki/O_sancta_simplicitas) <!-- red link: O sancta simplicitas --> (voi pyhä yksinkertaisuus)
+* [Argumentum ad auctoritatem](argumentum-ad-auctoritatem.md) (auktoriteettiin vetoaminen)
+  * [Argumentum ad verecundiam](https://en.wikipedia.org/wiki/Argument_from_authority) <!-- red link: Argumentum ad verecundiam --> (arvovaltaan vetoaminen)
+  * [Ipse dixit](https://en.wikipedia.org/wiki/Ipse_dixit) <!-- red link: Ipse dixit --> (hän sanoi niin)
+  * [Argumentum ad populum](https://en.wikipedia.org/wiki/Argumentum_ad_populum) <!-- red link: Argumentum ad populum --> (suosituimmuuteen vetoaminen)
+  * [Argumentum ad hitlerum](https://en.wikipedia.org/wiki/Reductio_ad_Hitlerum) <!-- red link: Argumentum ad hitlerum --> (kompromettointi)
+  * Suutari pysyköön lestissään <!-- red link: Suutari pysyköön lestissään --> (omahyväisyys)
+* [Argumentum ad hominem](argumentum-ad-hominem.md) (henkilökohtaisuuksiin meneminen)
+  * ad hominem abusivis <!-- red link: ad hominem abusivis --> (loukkaus)
+  * ad hominem circumstantiae <!-- red link: ad hominem circumstantiae --> (argumentaation asianhaaroihin vetoaminen)
+  * [ad hominem tu quoque](https://en.wikipedia.org/wiki/Tu_quoque) <!-- red link: ad hominem tu quoque --> (argumentoijan sosiaaliseen habitukseen vetoaminen)
+  * kaivon myrkyttäminen <!-- red link: kaivon myrkyttäminen -->
+  * ad hominem motivum <!-- red link: ad hominem motivum --> (motiiviin vetoaminen, oma lehmä ojassa)
+* [Argumentum ad crumenam](https://fi.wikipedia.org/wiki/Varallisuuteen_vetoaminen) <!-- red link: Argumentum ad crumenam --> (varallisuuteen vetoaminen)
+* [Argumentum ad lazarum](https://fi.wikipedia.org/wiki/Köyhyyteen_vetoaminen) <!-- red link: Argumentum ad lazarum --> (köyhyyteen vetoaminen)
+* [Itseen yleistäminen](https://fi.wikipedia.org/wiki/Itseen_yleistäminen) <!-- red link: Itseen yleistäminen -->
+* [Itsestä yleistäminen](https://fi.wikipedia.org/wiki/Itsestä_yleistäminen) <!-- red link: Itsestä yleistäminen -->
+* [O sancta simplicitas](https://fi.wikipedia.org/wiki/O_sancta_simplicitas) <!-- red link: O sancta simplicitas --> (voi pyhä yksinkertaisuus)
 
 #### Emotionaalinen argumentointi
 
-*[Argumentum ad baculum](https://fi.wikipedia.org/wiki/Argumentum_ad_baculum) <!-- red link: Argumentum ad baculum --> (uhkailu)
-*[Argumentum ad consequentiam](https://fi.wikipedia.org/wiki/Argumentum_ad_consequentiam) <!-- red link: Argumentum ad consequentiam --> (seurauksiin vetoaminen)
-*[Argumentum ad metum](https://fi.wikipedia.org/wiki/Pelottelu) <!-- red link: Argumentum ad metum --> (pelottelu)
-*[Argumentum ad misericordiam](https://fi.wikipedia.org/wiki/Argumentum_ad_misericordiam) <!-- red link: Argumentum ad misericordiam --> (sääliin vetoaminen)
-*[Argumentum ad novitatem](https://fi.wikipedia.org/wiki/Uutuuteen_vetoaminen) <!-- red link: Argumentum ad novitatem --> (uutuuteen vetoaminen)
-*[Argumentum ad odium](https://fi.wikipedia.org/wiki/Katkeruuteen_vetoaminen) <!-- red link: Argumentum ad odium --> (katkeruuteen vetoaminen)
-*[Argumentum ad traditionem](https://fi.wikipedia.org/wiki/Perinteisiin_vetoaminen) <!-- red link: Argumentum ad traditionem --> (perinteisiin vetoaminen)
-*[Asenteellinen kielenkäyttö](https://fi.wikipedia.org/wiki/Asenteellinen_kielenkäyttö) <!-- red link: Asenteellinen kielenkäyttö -->
-**Argumentum ad ridiculum <!-- red link: Argumentum ad ridiculum --> (naurettavuuteen vetoaminen)
-**Imartelu <!-- red link: Imartelu -->
-**Sanakikkailu <!-- red link: Sanakikkailu -->
-*[Kaltevan pinnan argumentti](https://fi.wikipedia.org/wiki/Kaltevan_pinnan_argumentti) <!-- red link: Kaltevan pinnan argumentti -->
-*[Kaksi vääryyttä tuottaa yhden oikeuden](https://fi.wikipedia.org/wiki/Kaksi_vääryyttä_tuottaa_yhden_oikeuden) <!-- red link: Kaksi vääryyttä tuottaa yhden oikeuden -->
-*Muoto sisällön yli <!-- red link: Muoto sisällön yli -->
-*[Olkinukke](https://fi.wikipedia.org/wiki/Olkinukke) <!-- red link: Olkinukke -->
-*[Syyllistäminen assosiaatiolla](https://fi.wikipedia.org/wiki/Syyllistäminen_assosiaatiolla) <!-- red link: Syyllistäminen assosiaatiolla -->
-*[Geneettinen virhepäätelmä](https://fi.wikipedia.org/wiki/Geneettinen_virhepäätelmä) <!-- red link: Geneettinen virhepäätelmä -->
-*[Toiveajattelu](https://fi.wikipedia.org/wiki/Toiveajattelu) <!-- red link: Toiveajattelu -->
+* [Argumentum ad baculum](https://fi.wikipedia.org/wiki/Argumentum_ad_baculum) <!-- red link: Argumentum ad baculum --> (uhkailu)
+* [Argumentum ad consequentiam](https://fi.wikipedia.org/wiki/Argumentum_ad_consequentiam) <!-- red link: Argumentum ad consequentiam --> (seurauksiin vetoaminen)
+* [Argumentum ad metum](https://fi.wikipedia.org/wiki/Pelottelu) <!-- red link: Argumentum ad metum --> (pelottelu)
+* [Argumentum ad misericordiam](https://fi.wikipedia.org/wiki/Argumentum_ad_misericordiam) <!-- red link: Argumentum ad misericordiam --> (sääliin vetoaminen)
+* [Argumentum ad novitatem](https://fi.wikipedia.org/wiki/Uutuuteen_vetoaminen) <!-- red link: Argumentum ad novitatem --> (uutuuteen vetoaminen)
+* [Argumentum ad odium](https://fi.wikipedia.org/wiki/Katkeruuteen_vetoaminen) <!-- red link: Argumentum ad odium --> (katkeruuteen vetoaminen)
+* [Argumentum ad traditionem](https://fi.wikipedia.org/wiki/Perinteisiin_vetoaminen) <!-- red link: Argumentum ad traditionem --> (perinteisiin vetoaminen)
+* [Asenteellinen kielenkäyttö](https://fi.wikipedia.org/wiki/Asenteellinen_kielenkäyttö) <!-- red link: Asenteellinen kielenkäyttö -->
+  * Argumentum ad ridiculum <!-- red link: Argumentum ad ridiculum --> (naurettavuuteen vetoaminen)
+  * Imartelu <!-- red link: Imartelu -->
+  * Sanakikkailu <!-- red link: Sanakikkailu -->
+* [Kaltevan pinnan argumentti](https://fi.wikipedia.org/wiki/Kaltevan_pinnan_argumentti) <!-- red link: Kaltevan pinnan argumentti -->
+* [Kaksi vääryyttä tuottaa yhden oikeuden](https://fi.wikipedia.org/wiki/Kaksi_vääryyttä_tuottaa_yhden_oikeuden) <!-- red link: Kaksi vääryyttä tuottaa yhden oikeuden -->
+* Muoto sisällön yli <!-- red link: Muoto sisällön yli -->
+* [Olkinukke](https://fi.wikipedia.org/wiki/Olkinukke) <!-- red link: Olkinukke -->
+* [Syyllistäminen assosiaatiolla](https://fi.wikipedia.org/wiki/Syyllistäminen_assosiaatiolla) <!-- red link: Syyllistäminen assosiaatiolla -->
+* [Geneettinen virhepäätelmä](https://fi.wikipedia.org/wiki/Geneettinen_virhepäätelmä) <!-- red link: Geneettinen virhepäätelmä -->
+* [Toiveajattelu](https://fi.wikipedia.org/wiki/Toiveajattelu) <!-- red link: Toiveajattelu -->
 
 #### Argumentointi asian vierestä
 
-*[Savuverho](https://fi.wikipedia.org/wiki/Ignoratio_elenchi) <!-- red link: Savuverho --> (red herring)
-*[Ignoratio elenchi](https://fi.wikipedia.org/wiki/Ignoratio_elenchi) <!-- red link: Ignoratio elenchi --> (yhdentekevä johtopäätös)
-*[Virheellinen analogia](https://fi.wikipedia.org/wiki/Virheellinen_analogia) <!-- red link: Virheellinen analogia --> (omppuja ja aplareita)
-*[Sanahelinä](https://fi.wikipedia.org/wiki/Sanahelinä) <!-- red link: Sanahelinä --> (argumentum ad eloquantiam)
-*[Argumentum ad absurdum](https://fi.wikipedia.org/wiki/Reductio_ad_absurdum) <!-- red link: Argumentum ad absurdum --> (älyttömyyteen vetoaminen)
+* [Savuverho](https://fi.wikipedia.org/wiki/Ignoratio_elenchi) <!-- red link: Savuverho --> (red herring)
+* [Ignoratio elenchi](https://fi.wikipedia.org/wiki/Ignoratio_elenchi) <!-- red link: Ignoratio elenchi --> (yhdentekevä johtopäätös)
+* [Virheellinen analogia](https://fi.wikipedia.org/wiki/Virheellinen_analogia) <!-- red link: Virheellinen analogia --> (omppuja ja aplareita)
+* [Sanahelinä](https://fi.wikipedia.org/wiki/Sanahelinä) <!-- red link: Sanahelinä --> (argumentum ad eloquantiam)
+* [Argumentum ad absurdum](https://fi.wikipedia.org/wiki/Reductio_ad_absurdum) <!-- red link: Argumentum ad absurdum --> (älyttömyyteen vetoaminen)
 
 #### Semanttiset virheet
 
-*[Amfibolia](https://fi.wikipedia.org/wiki/Amfibolia) <!-- red link: Amfibolia --> (homonymisaatio, oraakkelinvastaus)
-*[Bifurkaatio](https://fi.wikipedia.org/wiki/Bifurkaatio_(argumentaatiovirhe)) <!-- red link: Bifurkaatio (argumentaatiovirhe) -->
-*[Ekvivokaatio](https://fi.wikipedia.org/wiki/Ekvivokaatio) <!-- red link: Ekvivokaatio --> (synonymisaatio)
-*[Kehäpäätelmä](https://fi.wikipedia.org/wiki/Kehäpäätelmä) <!-- red link: Kehäpäätelmä --> (petitio principii)
-*[Metaforaan vetoaminen](https://fi.wikipedia.org/wiki/Metaforaan_vetoaminen) <!-- red link: Metaforaan vetoaminen -->
-*[Reifikaatio](https://fi.wikipedia.org/wiki/Esineellistäminen) <!-- red link: Reifikaatio --> (abstraktion kohteleminen reaalisena)
-*[Yksikään todellinen skotti](https://fi.wikipedia.org/wiki/Yksikään_todellinen_skotti) <!-- red link: Yksikään todellinen skotti --> (käänteinen kehäpäätelmä)
-*Jos-viina-on <!-- red link: Jos-viina-on --> (kaksoismerkitys)
-*[Virheellinen todistelu](https://fi.wikipedia.org/wiki/Virheellinen_todistelu) <!-- red link: Virheellinen todistelu -->
+* [Amfibolia](https://fi.wikipedia.org/wiki/Amfibolia) <!-- red link: Amfibolia --> (homonymisaatio, oraakkelinvastaus)
+* [Bifurkaatio](https://fi.wikipedia.org/wiki/Bifurkaatio_(argumentaatiovirhe)) <!-- red link: Bifurkaatio (argumentaatiovirhe) -->
+* [Ekvivokaatio](https://fi.wikipedia.org/wiki/Ekvivokaatio) <!-- red link: Ekvivokaatio --> (synonymisaatio)
+* [Kehäpäätelmä](https://fi.wikipedia.org/wiki/Kehäpäätelmä) <!-- red link: Kehäpäätelmä --> (petitio principii)
+* [Metaforaan vetoaminen](https://fi.wikipedia.org/wiki/Metaforaan_vetoaminen) <!-- red link: Metaforaan vetoaminen -->
+* [Reifikaatio](https://fi.wikipedia.org/wiki/Esineellistäminen) <!-- red link: Reifikaatio --> (abstraktion kohteleminen reaalisena)
+* [Yksikään todellinen skotti](https://fi.wikipedia.org/wiki/Yksikään_todellinen_skotti) <!-- red link: Yksikään todellinen skotti --> (käänteinen kehäpäätelmä)
+* Jos-viina-on <!-- red link: Jos-viina-on --> (kaksoismerkitys)
+* [Virheellinen todistelu](https://fi.wikipedia.org/wiki/Virheellinen_todistelu) <!-- red link: Virheellinen todistelu -->
 
 #### Loogiset argumentointivirheet
 
-*[Argumentum ad ignorantiam](argumentum-ad-ignorantiam.md) (käänteinen todistustaakka/tietämättömyyteen vetoaminen)
-*[Argumentum ad logicam](https://fi.wikipedia.org/wiki/Argumentum_ad_logicam) <!-- red link: Argumentum ad logicam --> (premissivirhepäätelmä)
-*[Argumentum ex silentio](https://fi.wikipedia.org/wiki/Argumentum_ex_silentio) <!-- red link: Argumentum ex silentio --> (vaikenemiseen vetoaminen)
-*[Argumentum ad nauseam](https://fi.wikipedia.org/wiki/Argumentum_ad_nauseam) <!-- red link: Argumentum ad nauseam --> (toisto ilman uutta asiaa)
-*[Humen giljotiini](humen-giljotiini.md) (naturalistinen virhepäätelmä)
-*[Occamin partaveitsi](https://fi.wikipedia.org/wiki/Occamin_partaveitsi) <!-- red link: Occamin partaveitsi --> (argumentoinnin tarpeeton kompleksointi)
-*Todennäköisyyksiin vetoaminen <!-- red link: Todennäköisyyksiin vetoaminen -->
-*Epätäydellinen vertailu <!-- red link: Epätäydellinen vertailu -->
-*Epäkonsistentti vertailu <!-- red link: Epäkonsistentti vertailu -->
+* [Argumentum ad ignorantiam](argumentum-ad-ignorantiam.md) (käänteinen todistustaakka/tietämättömyyteen vetoaminen)
+* [Argumentum ad logicam](https://fi.wikipedia.org/wiki/Argumentum_ad_logicam) <!-- red link: Argumentum ad logicam --> (premissivirhepäätelmä)
+* [Argumentum ex silentio](https://fi.wikipedia.org/wiki/Argumentum_ex_silentio) <!-- red link: Argumentum ex silentio --> (vaikenemiseen vetoaminen)
+* [Argumentum ad nauseam](https://fi.wikipedia.org/wiki/Argumentum_ad_nauseam) <!-- red link: Argumentum ad nauseam --> (toisto ilman uutta asiaa)
+* [Humen giljotiini](humen-giljotiini.md) (naturalistinen virhepäätelmä)
+* [Occamin partaveitsi](https://fi.wikipedia.org/wiki/Occamin_partaveitsi) <!-- red link: Occamin partaveitsi --> (argumentoinnin tarpeeton kompleksointi)
+* Todennäköisyyksiin vetoaminen <!-- red link: Todennäköisyyksiin vetoaminen -->
+* Epätäydellinen vertailu <!-- red link: Epätäydellinen vertailu -->
+* Epäkonsistentti vertailu <!-- red link: Epäkonsistentti vertailu -->
 
 #### Korrelaatiopohjaiset argumentointivirheet
 
-*[Hätäinen päätelmä](https://fi.wikipedia.org/wiki/Hätäinen_päätelmä) <!-- red link: Hätäinen päätelmä -->
-*[Kompleksikysymys](https://fi.wikipedia.org/wiki/Kompleksikysymys) <!-- red link: Kompleksikysymys -->
-*Kompleksinen korrelaatio <!-- red link: Kompleksinen korrelaatio -->
-*[Dilemman virheasettelu](https://fi.wikipedia.org/wiki/Väärä_dilemma) <!-- red link: Virheellinen dilemma -->
-*[Kytkykauppavirhe](https://fi.wikipedia.org/wiki/Kytkykauppavirhe) <!-- red link: Kytkykauppavirhe -->
-*[Virheellinen premissi](https://fi.wikipedia.org/wiki/Virheellinen_premissi) <!-- red link: Virheellinen premissi -->
-*Syyn ja seurauksen sekoittaminen <!-- red link: Syyn ja seurauksen sekoittaminen -->
-*Virheellinen kompromissi <!-- red link: Virheellinen kompromissi -->
-*[Post hoc ergo propter hoc](https://fi.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc) <!-- red link: Post hoc ergo propter hoc -->
-*[Cum hoc ergo propter hoc](https://fi.wikipedia.org/wiki/Cum_hoc_ergo_propter_hoc) <!-- red link: Cum hoc ergo propter hoc -->
-*[Non sequitur](https://fi.wikipedia.org/wiki/Non_sequitur) <!-- red link: Non sequitur -->
-*Premissin pitäminen argumenttina <!-- red link: Premissin pitäminen argumenttina -->
-*Kausaalinen yliyksinkertaistaminen <!-- red link: Kausaalinen yliyksinkertaistaminen -->
-*Kausaalinen liittoefekti <!-- red link: Kausaalinen liittoefekti -->
-*Regressiovirhepäätelmä <!-- red link: Regressiovirhepäätelmä -->
-*Retrospektiivinen determinismi <!-- red link: Retrospektiivinen determinismi --> (se tapahtui, koska niin pitikin tapahtua)
-*[Occamin partaveitsen virheellinen käyttö](https://fi.wikipedia.org/wiki/Occamin_partaveitsi) <!-- red link: Occamin partaveitsi -->
+* [Hätäinen päätelmä](https://fi.wikipedia.org/wiki/Hätäinen_päätelmä) <!-- red link: Hätäinen päätelmä -->
+* [Kompleksikysymys](https://fi.wikipedia.org/wiki/Kompleksikysymys) <!-- red link: Kompleksikysymys -->
+* Kompleksinen korrelaatio <!-- red link: Kompleksinen korrelaatio -->
+* [Dilemman virheasettelu](https://fi.wikipedia.org/wiki/Väärä_dilemma) <!-- red link: Virheellinen dilemma -->
+* [Kytkykauppavirhe](https://fi.wikipedia.org/wiki/Kytkykauppavirhe) <!-- red link: Kytkykauppavirhe -->
+* [Virheellinen premissi](https://fi.wikipedia.org/wiki/Virheellinen_premissi) <!-- red link: Virheellinen premissi -->
+* Syyn ja seurauksen sekoittaminen <!-- red link: Syyn ja seurauksen sekoittaminen -->
+* Virheellinen kompromissi <!-- red link: Virheellinen kompromissi -->
+* [Post hoc ergo propter hoc](https://fi.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc) <!-- red link: Post hoc ergo propter hoc -->
+* [Cum hoc ergo propter hoc](https://fi.wikipedia.org/wiki/Cum_hoc_ergo_propter_hoc) <!-- red link: Cum hoc ergo propter hoc -->
+* [Non sequitur](https://fi.wikipedia.org/wiki/Non_sequitur) <!-- red link: Non sequitur -->
+* Premissin pitäminen argumenttina <!-- red link: Premissin pitäminen argumenttina -->
+* Kausaalinen yliyksinkertaistaminen <!-- red link: Kausaalinen yliyksinkertaistaminen -->
+* Kausaalinen liittoefekti <!-- red link: Kausaalinen liittoefekti -->
+* Regressiovirhepäätelmä <!-- red link: Regressiovirhepäätelmä -->
+* Retrospektiivinen determinismi <!-- red link: Retrospektiivinen determinismi --> (se tapahtui, koska niin pitikin tapahtua)
+* [Occamin partaveitsen virheellinen käyttö](https://fi.wikipedia.org/wiki/Occamin_partaveitsi) <!-- red link: Occamin partaveitsi -->
 
 #### Syllogismivirheet
 
-*[Dicto simpliciter](https://fi.wikipedia.org/wiki/Dicto_simpliciter) <!-- red link: Dicto simpliciter -->
-**Virheellinen poikkeuksen kielto <!-- red link: Virheellinen poikkeuksen kielto --> (dicto simpliciter ad dictum secundum quid)
-**Virheellinen yleistys <!-- red link: Virheellinen yleistys --> (dicto secundum quid ad dictum simpliciter)
-*Virheellinen konjunktio <!-- red link: Virheellinen konjunktio -->
-*Virheellinen disjunktio <!-- red link: Virheellinen disjunktio -->
-*Kaksoisnegatiivisen premissin virhe <!-- red link: Kaksoisnegatiivisen premissin virhe -->
-*Eksistentiaalinen virhe <!-- red link: Eksistentiaalinen virhe -->
-*Eksklusiiviset premissit <!-- red link: Eksklusiiviset premissit -->
-*Nelitermivirhe <!-- red link: Nelitermivirhe -->
-*Keskitermivirhe <!-- red link: Keskitermivirhe -->
-*Tautologia <!-- red link: Tautologia -->
-*Jatkumovirhe <!-- red link: Jatkumovirhe -->
-*[Illicit major](https://en.wikipedia.org/wiki/Illicit_major) <!-- red link: Illicit major -->
-*[Illicit minor](https://en.wikipedia.org/wiki/Illicit_minor) <!-- red link: Illicit minor -->
+* [Dicto simpliciter](https://fi.wikipedia.org/wiki/Dicto_simpliciter) <!-- red link: Dicto simpliciter -->
+  * Virheellinen poikkeuksen kielto <!-- red link: Virheellinen poikkeuksen kielto --> (dicto simpliciter ad dictum secundum quid)
+  * Virheellinen yleistys <!-- red link: Virheellinen yleistys --> (dicto secundum quid ad dictum simpliciter)
+* Virheellinen konjunktio <!-- red link: Virheellinen konjunktio -->
+* Virheellinen disjunktio <!-- red link: Virheellinen disjunktio -->
+* Kaksoisnegatiivisen premissin virhe <!-- red link: Kaksoisnegatiivisen premissin virhe -->
+* Eksistentiaalinen virhe <!-- red link: Eksistentiaalinen virhe -->
+* Eksklusiiviset premissit <!-- red link: Eksklusiiviset premissit -->
+* Nelitermivirhe <!-- red link: Nelitermivirhe -->
+* Keskitermivirhe <!-- red link: Keskitermivirhe -->
+* Tautologia <!-- red link: Tautologia -->
+* Jatkumovirhe <!-- red link: Jatkumovirhe -->
+* [Illicit major](https://en.wikipedia.org/wiki/Illicit_major) <!-- red link: Illicit major -->
+* [Illicit minor](https://en.wikipedia.org/wiki/Illicit_minor) <!-- red link: Illicit minor -->
 
 #### Jakaumavirheet
 
-*[Väärä kompositio](https://fi.wikipedia.org/wiki/Väärä_kompositio) <!-- red link: Väärä kompositio -->
-*[Väärä divisio](https://fi.wikipedia.org/wiki/Väärä_divisio) <!-- red link: Väärä divisio -->
-*[Ekologinen virhepäätelmä](https://fi.wikipedia.org/wiki/Ekologinen_virhepäätelmä) <!-- red link: Ekologinen virhepäätelmä -->
+* [Väärä kompositio](https://fi.wikipedia.org/wiki/Väärä_kompositio) <!-- red link: Väärä kompositio -->
+* [Väärä divisio](https://fi.wikipedia.org/wiki/Väärä_divisio) <!-- red link: Väärä divisio -->
+* [Ekologinen virhepäätelmä](https://fi.wikipedia.org/wiki/Ekologinen_virhepäätelmä) <!-- red link: Ekologinen virhepäätelmä -->
 
 #### Tilastovirheet
 
-*[Vinoutunut otos](https://fi.wikipedia.org/wiki/Vinoutunut_otos) <!-- red link: Vinoutunut otos -->
-*[Hätäinen yleistys](https://fi.wikipedia.org/wiki/Hätäinen_yleistys) <!-- red link: Hätäinen yleistys -->
-*Vinoutunut poikkeus <!-- red link: Vinoutunut poikkeus -->
-*Tilaston virhetulkinta <!-- red link: Tilaston virhetulkinta -->
-*[Pelurin virhepäätelmä](https://fi.wikipedia.org/wiki/Pelurin_virhepäätelmä) <!-- red link: Pelurin virhepäätelmä -->
-*Vinoutunut lähdeaineisto <!-- red link: Vinoutunut lähdeaineisto -->
-*[Syyttäjän virhepäätelmä](https://fi.wikipedia.org/wiki/Syyttäjän_virhepäätelmä) <!-- red link: Syyttäjän virhepäätelmä -->
-*Seulomisvirhepäätelmä <!-- red link: Seulomisvirhepäätelmä -->
-*[Täydellisen ratkaisun virhepäätelmä](https://fi.wikipedia.org/wiki/Nirvana-virhepäätelmä) <!-- red link: Täydellisen ratkaisun virhepäätelmä -->
+* [Vinoutunut otos](https://fi.wikipedia.org/wiki/Vinoutunut_otos) <!-- red link: Vinoutunut otos -->
+* [Hätäinen yleistys](https://fi.wikipedia.org/wiki/Hätäinen_yleistys) <!-- red link: Hätäinen yleistys -->
+* Vinoutunut poikkeus <!-- red link: Vinoutunut poikkeus -->
+* Tilaston virhetulkinta <!-- red link: Tilaston virhetulkinta -->
+* [Pelurin virhepäätelmä](https://fi.wikipedia.org/wiki/Pelurin_virhepäätelmä) <!-- red link: Pelurin virhepäätelmä -->
+* Vinoutunut lähdeaineisto <!-- red link: Vinoutunut lähdeaineisto -->
+* [Syyttäjän virhepäätelmä](https://fi.wikipedia.org/wiki/Syyttäjän_virhepäätelmä) <!-- red link: Syyttäjän virhepäätelmä -->
+* Seulomisvirhepäätelmä <!-- red link: Seulomisvirhepäätelmä -->
+* [Täydellisen ratkaisun virhepäätelmä](https://fi.wikipedia.org/wiki/Nirvana-virhepäätelmä) <!-- red link: Täydellisen ratkaisun virhepäätelmä -->
 
 ### Aiheesta muualla
 * [Esimerkkejä argumentaatiovirheistä Skepsiksen sivuilla](http://www.skepsis.fi/jutut/virhelista.html)

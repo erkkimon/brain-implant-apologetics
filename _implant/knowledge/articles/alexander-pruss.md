@@ -4,7 +4,7 @@ about: apologetics
 title: "Alexander Pruss"
 description: "Alexander Robert Pruss (syntynyt tammikuus 5, 1973) on kanadalainen filosofi, filosofian professori Baylor yliopistossa, Wacossa, Texasissa."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Alexander Pruss".
@@ -50,23 +50,23 @@ Kirjassaan *One Body*  Pruss puolustaa naisen ja miehen välistä avioliittoa ve
 
 ### Katso myös
 
-*[Society of Christian Philosophers](https://en.wikipedia.org/wiki/Society_of_Christian_Philosophers)
-*[Possible worlds](https://en.wikipedia.org/wiki/Possible_world)
+* [Society of Christian Philosophers](https://en.wikipedia.org/wiki/Society_of_Christian_Philosophers)
+* [Possible worlds](https://en.wikipedia.org/wiki/Possible_world)
 
 ### Lähteet
 
-*Pruss, Alexander. *Curriculum Vitae* Accessed March 2013.
-*Pruss, Alexander. "Leibnizian Cosmological Arguments" in *Blackwell Companion to Natural Theology*, Oxford: Blackwell, 2009
-*Pruss, Alexander. "The Actual and the Possible" In Richard M. Gale (ed.), *Blackwell Guide to Metaphysics*, Oxford: Blackwell, 2002.
+* Pruss, Alexander. *Curriculum Vitae* Accessed March 2013.
+* Pruss, Alexander. "Leibnizian Cosmological Arguments" in *Blackwell Companion to Natural Theology*, Oxford: Blackwell, 2009
+* Pruss, Alexander. "The Actual and the Possible" In Richard M. Gale (ed.), *Blackwell Guide to Metaphysics*, Oxford: Blackwell, 2002.
 
 ### Viitteet
 
 
 
 ### Ulkoiset linkit
-*[Pruss's Homepage](http://alexanderpruss.com/), including CV, Selected Articles and Course Syllabi.
-*[Personal Philosophy Blog](http://alexanderpruss.blogspot.com/).
-*[The Website](http://www.baylor.edu/philosophy/) for the Baylor Department of Philosophy.
+* [Pruss's Homepage](http://alexanderpruss.com/), including CV, Selected Articles and Course Syllabi.
+* [Personal Philosophy Blog](http://alexanderpruss.blogspot.com/).
+* [The Website](http://www.baylor.edu/philosophy/) for the Baylor Department of Philosophy.
 
 [^1]: Review by Joshua C Thurow, *Religious Studies Review*, 33, no. 3 (2007): 222-223
 [^2]: Review, by D Rickles *Philosophy In Review*, 27, no. 5, (2007): 370-372

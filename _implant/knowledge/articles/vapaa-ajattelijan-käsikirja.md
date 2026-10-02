@@ -4,7 +4,7 @@ about: apologetics
 title: "Vapaa-ajattelijan käsikirja"
 description: "Tässä artikkelissa käsitellään Vapaa-ajattelijan käsikirjaa, johon \"on koottu perustietoa vapaa-ajattelusta, uskonnottomien perusoikeuksista ja uskonnottomasta tapakulttuurista\"."
 tags: [apowiki, vapaa-ajattelu]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Vapaa-ajattelijan käsikirja".
@@ -24,10 +24,10 @@ Tässä artikkelissa käsitellään *[Vapaa-ajattelijan käsikirjaa](http://www.
 
 Vapaa-ajattelijoiden tapaa korostaa [tieteellistä maailmankatsomusta](tieteellinen-maailmankatsomus.md) ja tehdä tämän pohjalta todellisuutta jäsentävät päätelmänsä kutsutaan [skientismiksi](../glossary/sanasto.md#skientismi).[^1]
 James Porter Moreland luettelee mm. seuraavat tieteen tekemisen taustalla olevat ennakko-oletukset:
-*On oletettava, että aistit ovat periaatteessa luotettavat ja antavat tarkkaa informaatiota mielestä irrallisesta fyysisestä maailmasta, eikä vain havainnoitsijan aisti-impressioista.
-*On oletettava, että mieli on rationaalinen ja että maailmankaikkeus on rationaalinen siinä mielessä, että mieli voi saada tietoa siitä.
-*On oletettava, että logiikan lait ovat totta.
-*Tieteen tekemisen yhteydessä oletetaan myös tiettyjen moraalisten, tieto-opillisten ja metodologisten arvojen olevan muita parempia.
+* On oletettava, että aistit ovat periaatteessa luotettavat ja antavat tarkkaa informaatiota mielestä irrallisesta fyysisestä maailmasta, eikä vain havainnoitsijan aisti-impressioista.
+* On oletettava, että mieli on rationaalinen ja että maailmankaikkeus on rationaalinen siinä mielessä, että mieli voi saada tietoa siitä.
+* On oletettava, että logiikan lait ovat totta.
+* Tieteen tekemisen yhteydessä oletetaan myös tiettyjen moraalisten, tieto-opillisten ja metodologisten arvojen olevan muita parempia.
 
 Vapaa-ajattelijoiden [argumentoinnissa](../glossary/sanasto.md#argumentointi) subjektiivisia "arvoja" näkyy mm. virkkeessä:
 
@@ -125,17 +125,17 @@ Näiden tässä viitattujen subjektiivisten kokemusten luonnetta olisi syytä m�
 Hyvä ystäväni (helluntaipastori) kertoi minulle kokemuksestaan, joka tapahtui hänen ajaessaan demoneita eräästä miehestä telttakokouksen jälkeen. Ystäväni kertoman mukaan mies levitoi, tai pikemminkin näkymättömät voimat nostivat miehen korkealle ilmaan (teltan kattoon) ja paiskasivat taas maahan. Luonnollisestihan kysymyksessä on subjektiivinen kokemus, koska ystäväni on ihminen.
 
 Nyt minulla on periaatteessa kolme mahdollisuutta selittää tapahtunut:
-*a) Ystäväni valehtelee tapauksen.
-*b) Ystäväni on nähnyt harhoja kyseisessä tilanteessa.
-*c) Riivattu mies todella nousi korkealle ilmaan tuntemattoman voiman nostamana.
+* a) Ystäväni valehtelee tapauksen.
+* b) Ystäväni on nähnyt harhoja kyseisessä tilanteessa.
+* c) Riivattu mies todella nousi korkealle ilmaan tuntemattoman voiman nostamana.
 
 Vaihtoehto a) on helppo silloin, kun kuitattavana on "jossakin kaukana" sattunut tapahtuma. Ongelmallista tässä vaihtoehdossa olisi kuitenkin se, että yleisesti ottaen ystäväni puhuu totta eikä tapahtumasta ole mielekästä esittää "jos hän muisti väärin" -argumenttia. Ystävän kertomukseen luottaminen ei liene taikauskoista, vaan aiempaan kokemukseen pohjautuvaa mielekästä toimintaa.
 
 Vaihtoehto b) taas on sikäli ongelmallinen, että ystäväni ei käytä minkäänlaisia päihteitä, hän ei pode harha-aistimuksia aiheuttavia mielisairauksia, ja luotan hänen näkökykyynsä siinä määrin, että kuljen ajoittain hänen kyydissään autolla. Lisäksi se tosiasia, että riivattu mies "vapautui" ja muuttui "täysjärkiseksi" saman tien, puhuu sen puolesta, että ystäväni ei haahuillut hallusinaatiomaailmoissa kyseisessä tilanteessa.
 
 Käsittelen yliluonnollisen todesta ottamiseni mahdollista epäloogisuutta vielä parin apukysymyksen näkökulmista:
-*Onko tällainen ilmaan kohoaminen yliluonnollinen ilmiö?
-*Ovatko tapahtumasta kertovat lähteet siinä määrin luotettavia, että uskoani niihin voidaan pitää loogisena?
+* Onko tällainen ilmaan kohoaminen yliluonnollinen ilmiö?
+* Ovatko tapahtumasta kertovat lähteet siinä määrin luotettavia, että uskoani niihin voidaan pitää loogisena?
 
 **Onko ilmiö yliluonnollinen?**
 

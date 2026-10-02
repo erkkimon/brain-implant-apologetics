@@ -4,7 +4,7 @@ about: apologetics
 title: "Alfred Kinsey"
 description: "Kuva: Alfred Kinsey. Alfred Charles Kinsey 23.6. 1894- 25.8. 1956 oli yhdysvaltalainen hyönteistutkija ja eläintieteen professori."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Alfred Kinsey".
@@ -43,7 +43,7 @@ Kinseyn tutkimus on ensimmäinen, jossa käytettiin kokeellista aineistoa lapsen
 Tutkimuksen tulokset julkaistiin kahtena bestseller-raporttina. *Miehen sukupuolinen käyttäytyminen* (*Sexual Behavior in the Human Male*) ilmestyi vuonna 1948 ja *Naisen sukupuolinen käyttäytyminen* (*Sexual Behavior in the Human Female*) 1953. Kumpaakin myytiin paljon: mieskirjaa yli puoli miljoonaa[^3] ja naiskirjaakin yli 300 000 kappaletta, ja ne on käännetty 11 kielelle, jälkimmäinen myös suomeksi.
 
 <!-- == Katso myös ==
-*
+* 
  -->
 ### Lähteet
 

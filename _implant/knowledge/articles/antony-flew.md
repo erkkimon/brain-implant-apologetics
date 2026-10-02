@@ -4,7 +4,7 @@ about: apologetics
 title: "Antony Flew"
 description: "Antony Flew (11. helmikuuta 1923 - 8. huhtikuuta 2010) oli brittiläinen filosofi."
 tags: [apowiki, henkilöt, ateismi, teismi, tyngät]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Antony Flew".
@@ -30,43 +30,43 @@ Flew piti [Jeesuksen ylösnousemusta](jeesuksen-ylösnousemus.md) maailman parha
 
 ### Teoksia
 
-**A New Approach to Psychical Research* (1953)
-**New Essays in Philosophical Theology* (1955) toim. yhdessä [Alasdair Macintyren](https://fi.wikipedia.org/wiki/Alasdair_Macintyre) kanssa
-**Essays in Conceptual Analysis* (1956)
-**Hume's Philosophy of Belief* (1961)
-**Logic And Language* (1961) toim.
-**God and Philosophy* (1966)
-**Logic & Language* (Second Series) (1966) toim.
-**Evolutionary Ethics* (1967)
-**An Introduction to Western Philosophy - Ideas and Argument from Plato to Sartre* (1971)
-**Body, Mind and Death* (1973)
-**Crime or Disease* (1973)
-**Thinking About Thinking* (1975)
+* *A New Approach to Psychical Research* (1953)
+* *New Essays in Philosophical Theology* (1955) toim. yhdessä [Alasdair Macintyren](https://fi.wikipedia.org/wiki/Alasdair_Macintyre) kanssa
+* *Essays in Conceptual Analysis* (1956)
+* *Hume's Philosophy of Belief* (1961)
+* *Logic And Language* (1961) toim.
+* *God and Philosophy* (1966)
+* *Logic & Language* (Second Series) (1966) toim.
+* *Evolutionary Ethics* (1967)
+* *An Introduction to Western Philosophy - Ideas and Argument from Plato to Sartre* (1971)
+* *Body, Mind and Death* (1973)
+* *Crime or Disease* (1973)
+* *Thinking About Thinking* (1975)
 * *The presumption of atheism: And other philosophical essays on God, freedom and immortality*, Elek/Pemberton, 1976, ISBN 0-301-75016-5
-**Sociology, Equality and Education: Philosohical Essays In Defence Of A Variety Of Differences* (1976)
+* *Sociology, Equality and Education: Philosohical Essays In Defence Of A Variety Of Differences* (1976)
 * *Thinking straight: An introduction to critical reasoning*, Prometheus Books, 1977, ISBN 9780879750886
-**A Dictionary of Philosophy* (1979) toim. myöh. laitos yhdessä Stephen Priestin kanssa
-**Philosophy, an Introduction* (1979)
-**Libertarians versus Egalitarians* (c.1980) pamfletti
-**The Politics of Procrustes: contradictions of enforced equality* (1981)
-**Darwinian Evolution* (1984)
-**The Presumption of Atheism* (1984)
-**God: A Critical Inquiry* (1986) - uusi painos teoksesta *God and Philosophy* (1966), uusi esipuhe
-**Agency and Necessity* (Great Debates in Philosophy) (1987) yhdessä Godfrey Norman Agmondis Veseyn kanssa
-**Did Jesus Rise From the Dead? The Resurrection Debate* (1987) yhdessä [Gary Habermasin](https://fi.wikipedia.org/wiki/Gary_Habermas) kanssa
-**Power to the Parents: Reversing Educational Decline* (1987)
-**Prophesy or Philosophy? Historicism or History?* teoksessa *Marx Refuted*, toim. Ronald Duncan ja [Colin Wilson](https://fi.wikipedia.org/wiki/Colin_Wilson), Bath, (U.K.), 1987, ISBN 0-906798-71-X
-**Readings in the Philosophical Problems of Parapsychology* (1987) toim.
-**God, A Critical Inquiry* (1988)
-**Does God Exist?: A Believer and an Atheist Debate* (1991) yhdessä Terry L. Miethen kanssa
-**A Future for Anti-Racism?*  (Social Affairs Unit 1992) pamphlet
-**Atheistic Humanism* (1993)
-**Thinking About Social Thinking* (1995)
-**Education for Citizenship* (Studies in Education No. 10) (Institute of Economic Affairs, 2000)
-**Merely Mortal?* (2000)
+* *A Dictionary of Philosophy* (1979) toim. myöh. laitos yhdessä Stephen Priestin kanssa
+* *Philosophy, an Introduction* (1979)
+* *Libertarians versus Egalitarians* (c.1980) pamfletti
+* *The Politics of Procrustes: contradictions of enforced equality* (1981)
+* *Darwinian Evolution* (1984)
+* *The Presumption of Atheism* (1984)
+* *God: A Critical Inquiry* (1986) - uusi painos teoksesta *God and Philosophy* (1966), uusi esipuhe
+* *Agency and Necessity* (Great Debates in Philosophy) (1987) yhdessä Godfrey Norman Agmondis Veseyn kanssa
+* *Did Jesus Rise From the Dead? The Resurrection Debate* (1987) yhdessä [Gary Habermasin](https://fi.wikipedia.org/wiki/Gary_Habermas) kanssa
+* *Power to the Parents: Reversing Educational Decline* (1987)
+* *Prophesy or Philosophy? Historicism or History?* teoksessa *Marx Refuted*, toim. Ronald Duncan ja [Colin Wilson](https://fi.wikipedia.org/wiki/Colin_Wilson), Bath, (U.K.), 1987, ISBN 0-906798-71-X
+* *Readings in the Philosophical Problems of Parapsychology* (1987) toim.
+* *God, A Critical Inquiry* (1988)
+* *Does God Exist?: A Believer and an Atheist Debate* (1991) yhdessä Terry L. Miethen kanssa
+* *A Future for Anti-Racism?*  (Social Affairs Unit 1992) pamphlet
+* *Atheistic Humanism* (1993)
+* *Thinking About Social Thinking* (1995)
+* *Education for Citizenship* (Studies in Education No. 10) (Institute of Economic Affairs, 2000)
+* *Merely Mortal?* (2000)
 * Wallace, Stan W. (editor), *Does God exist? The Craig-Flew debate*, (Antony Flew, William Lane Craig), Ashgate, 2003, ISBN 0-7546-3189-3
-**Social Life and Moral Judgment* (2003)
-**God and Philosophy* (2005) - toinen uusintapainos teoksesta *God and Philosophy* (1966), uusi esipuhe
+* *Social Life and Moral Judgment* (2003)
+* *God and Philosophy* (2005) - toinen uusintapainos teoksesta *God and Philosophy* (1966), uusi esipuhe
 
 ### Aiheesta muualla
 * [Suomentajan johdanto artikkeliin Teologia ja falsifikaatio](https://netn.fi/sites/www.netn.fi/files/netn984-20.pdf).
@@ -75,8 +75,8 @@ Flew piti [Jeesuksen ylösnousemusta](jeesuksen-ylösnousemus.md) maailman parha
 * Victor J. Stenger: [Flew's Flawed Science](https://secularhumanism.org/wp-content/uploads/sites/26/2005/02/p17.pdf), [*Free Inquiry Magazine*](http://secularhumanism.org/index.php?section=fi&page=index)
 #### Videoita
 [Lee Strobelin](lee-strobel.md) haastatteluita:
-*[Antony Flew, Former Atheist - Now Deist, Goes Beyond Deism Saying a Creator Was Involved in the Creation of Life. (2:59)](https://www.dailymotion.com/video/x2usdai)
-*[Koko haastattelu, mukaan lukien osuudet: Afterlife and Christianity / What Is God Like? / Why Did Your Beliefs Change? ja My Time with C.S. Lewis](https://youtu.be/VHUtMEru4pQ)
+* [Antony Flew, Former Atheist - Now Deist, Goes Beyond Deism Saying a Creator Was Involved in the Creation of Life. (2:59)](https://www.dailymotion.com/video/x2usdai)
+* [Koko haastattelu, mukaan lukien osuudet: Afterlife and Christianity / What Is God Like? / Why Did Your Beliefs Change? ja My Time with C.S. Lewis](https://youtu.be/VHUtMEru4pQ)
 
 ### Lähteet
 

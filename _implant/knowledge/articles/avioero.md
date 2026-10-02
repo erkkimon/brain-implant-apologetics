@@ -4,7 +4,7 @@ about: apologetics
 title: "Avioero"
 description: "Kuva: Avioeron vaikutukset lapsiin ovat tutkimusten perusteella kielteisiä, mutta kielteiset vaikutukset näkyvät vasta yli 12-vuotiailla lapsilla ja eritoten näiden lasten kasvettua aikuisiksi heidän muodostaessa parisuhteita."
 tags: [apowiki, seksuaalietiikka]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Avioero".
@@ -168,92 +168,92 @@ Näin siis parisuhteen epävakaus näyttäisi olevan yksi keskeinen tekijä, jok
 * [Geneettiset orvot](geneettiset-orvot.md)
 
 ### Kirjallisuus
-*Agacinski, Sylviane (2001) Parity of the Sexes. Käänt. Lisa Walsh. New York: Columbia University Press.
-*Agacinski, Sylviane (2013) “Deux méres = un pére?”, Le Monde 03.02. 2013.
-*Allen, D.W. (2013). High school graduation rates among children of same-sex households. Review of Economics of the Household, 11, 635–658.
-*Allen, D.W. (2015) More Heat Than Light: A Critical Assessment of the Same-Sex Parenting Literature, 1995-2013. Marriage and Family Review. 51, 154-182.
-*Allen, D.W., C. Pakaluk, and J. Price (2014). “Normal Progress Through School: Further Results'' in No Differences? How Children in Same-Sex Households Fare: Studies from Social Science. Ana Samuel (ed.) (Princeton: Witherspoon Institute).
-*Allen, D.W. and J. Price (2016) “Stability Rates of Same-Sex Couples”, Unpublished manuscript.
-*Amato, P. R. (2001). Children of divorce in the 1990s: An update of the Amato and Keith (1991) metaanalysis. Journal of Family Psychology, 15, 355-370.
-*Amato, P. R. (2005) “The Impact of Family Formation Change on the Cognitive, Social, and Emotional Well-Being of the Next Generation.” The Future of Children 15 (2005): 75−96.
-*Amato, P. R. (2010). Research on divorce: Continuing trends and new developments. Journal of Marriage and Family, 72, 650-666.
-*Amato, P. R., & Anthony, C. J. (2014). Estimating the effects of parental divorce and death with fixed effects models. Journal of Marriage and Family, 76, 370-386.
-*Amato, P. R., & Cheadle, J. (2005). The long reach of divorce: Divorce and child well-being across three Generations. Journal of Marriage and Family, 67, 191-206.
-*Andersson, G., Noack, T., Seierstad, A., and Weedon-Fekjaer, H. (2006). The demographics of same-sex marriages in Norway and Sweden. Demography, 43, 79-98.
-*Anderson, Ryan T. (2015) Truth Overruled: The Future of Marriage and Religious Freedom. Regnery Publishing.
-*Angel, Ronald J. & Angel, Jacqueline L. (1993) Painful Inheritance: Health and the New Generation of Fatherless Families. Madison, WI: University of Wisconsin Press.
-*Badgett and Herman (2011) Patterns of Relationship Recognition by Same-Sex Couples in the United States. The Williams Institute working paper.
-*Balsam, K.F., Beauchaine, T.P., Rothblum, E.D. & Solomon, S.E. (2008). Three-Year FollowUp of Same - Sex Couples who had Civil Unions in Vermont, Same -Sex Couples not in Civil Unions, and Heterosexual Married Couples. Developmental Psychology, 44, 102-116.
-*Biblarz, T. and J. Stacey (2010). How does the gender of parents matter? Journal of Marriage and Family, 72, 3–22.
-*Biblarz, T. and E. Savci (2010). Lesbian, gay, bisexual, and transgender families. Journal of Marriage and Family, 72, 480–497.
-*Biller, H. (1993) Fathers and Families: Paternal Factors in Child Development. Westport CT: Auburn House.
-*Blumstein, P. & Schwartz, P. (1983). American couples: Money, work, sex. New York: William Morrow.
-*Brown, Susan L. (2004) “Family structure and child well-being: the significance of parental cohabitation.” Journal of Marriage and Family 66 (2), 351−367.
-*Carpenter, C., & Gates, G. J. (2008). Gay and lesbian partnership: Evidence from California. Demography, 45, 573-590.
-*Chrisp, J. (2001) “That four letter word - sons: lesbian mothers and adolescent sons”, Journal of Lesbian Studies 5 (1-2), 195-209.
-*Delaume-Myard, Jean-Pier (2013) Homosexuel contre le marriage pour tous. Deboiris.
-*Dempsey, D. (2013). Same-sex parented families in Australia. Child Family Community Australia Paper No. 18. Melbourne, Australia: Australian Institute of Family Studies.
-*Diener, M. L. & Mangelsdorf, S. C. & McHale, J. L. & Frosch, C. A. (2002) “Infant’s behavioral strategies for emotion regulation with fathers and mothers. Associations with emotional expressions and attachment quality”, Infancy 3 (2), 253−174.
-*Faust, Katy (2015) ”Childless Women”, teoksessa Robert Oscar Lopez & Rivka Edelman (toim.) 161−164.
-*Fomby, P., & Bosick, S. J. (2013). Family instability and the transition to adulthood. Journal of Marriage and Family, 75, 1266-1287.
-*Gartrell, N., Rodas, C., et al. (2006). The USA National Lesbian Family Study: Interviews with Mothers of 10-Year-Olds. Feminism & Psychology, 16,175-192.
-*Gates, G. J. (2010). Same-sex couples in the US Census Bureau Data: who gets counted and why. Williams Institute Report, UCLA School of Law.
-*Gingsborg, Paul (2014) Family Politics: Domestic life, Devastation and survival 1900−1950. New Haven: Yale University Press.
-*Girgis, Sherif & George, Robert P. & Anderson, Ryan T. (2012) What is Marriage? Man and Woman: A Defence. New York: Encounter Books.
-*Goldberg, A. (2010). Lesbian and gay parents and their children: research on the family life cycle. Washington D.C.: American Psychological Association.
-*Goldberg, A. E., & Kuvalanka, K. A. (2012). Marriage (in)equality: The perspectives of adolescents and emerging adults with lesbian, gay, and bisexual parents. Journal of Marriage and Family, 74, 34-52.
-*Grech, Narelle (2012) Does Biology Matter? http://t5sdaughter.blogspot.fi/
-*Green, R. J., Bettinger, M., & Zacks, E. (1996). Are lesbian couples fused and gay male couples disengaged? Questioning gender straightjackets. In J. Laird & R. J. Green (Eds.), Lesbians and gays in couples and families: A handbook for therapists (pp. 185-230). New York: Jossey-Bass.
-*Guénois, Jean-Marc (2013) “J’ai été élevé par deux femmes”, Le Figaro 1.10. 2013.
-*Harper, Cynthia & McLanahan, Sara (2004) “Father Absence and Youth Incarceration”, Journal of Research on Adolescence 14 (2004): 369−97.
-*Jennings, S., Mellish, L., Tasker, F., Lamb, M., & Golombok, S. (2014). Why adoption? Gay, lesbian, and heterosexual adoptive parents’ reproductive experiences and reasons for adoption. Adoption Quarterly, 17, 205-226.
-*Johnson, S. E. (1991). Staying power: Long term lesbian couples. Tallahassee, FL: Naiad Press.
-*Kurdek, L. A. (1995). Assessing multiple determinants of relationship commitment in cohabiting gay, cohabiting lesbian, dating heterosexual, and married heterosexual couples. Family Relations, 44, 261-266.
-*Kurdek, L. A. (1998). Relationship Outcomes and Their Predictors: Longitudinal Evidence from Heterosexual Married, Gay Cohabiting, and Lesbian Cohabiting Couples. Journal of Marriage and Family, 60, 553- 568.
-*Kurdek, L. A. (2004). Are Gay and Lesbian Cohabiting Couples Really Different from Heterosexual Married Couples? Journal of Marriage and Family, 66, 880-900.
-*Lau, C. (2012). The stability of same-sex cohabitation, different -sex cohabitation, and marriage. Journal of Marriage and Family, 74, 973-988.
-*Ligtvoet, Frank (2013) “The Misnomer of Motherless Parenting”, New York Times 07/2013
-*Lopez, Robert Oscar & Rivka Edelman (toim.) (2015) Jephthah’s Daughters: Innocent Casualities in the War for Family “Equality”. Los Angelels, CA.
-*Manning, W.D., S. L. Brown, and J. B. Stykes (2014). Same-Sex and Different-Sex Cohabiting Couple Relationship Stability. Bowling Green State University, Center for Family and Demographic Research Working Paper. 23
-*Marks, L. (2012). “Same-sex parenting and children’s outcomes: A closer examination of the American Psychological Association’s brief on lesbian and gay parenting.” Social Science Research, 41, 735–751.
-*Marquardt, Elizabeth (2005) Family Structure and Children’s Educational Outcomes. New York: Institute for American Values.
-*Marquardt, Elizabeth & Glenn, Norval D. & Clark, Karen (2010) “My daddy’s name is DONOR: A New Study of Young Adults Conceived through Sperm Donation,” Report from the Institute for American Values. New York: Institute of American Values.
-*McIntyre, Alasdair (1981) After Virtue. Notre Dame, Ind.: University of Notre Dame Press.
-*McLanahan, Sara & Sandefur, Gary (1994) Growing Up with a Single Parent: What Hurts, What Helps. Cambridge: Harvard University Press.
-*Milbank, John (2012) “Gay marriage and the future of human sexuality”, ABC Religion and Ethics 13 March 2012.
-*Newman, Alana (2013) Testimony of Alana S. Newman. Opposition to AB460. To the California Assembly Committee on Health, April 30, 2013. www.ccgaction.org/uploaded_files/Testimony%20of%Alana%20S.%20Newman.pdf
-*Newman, Alana (2014) “Eugenics,” Public Discourse, November 10, 2014.
-*Nock, S. L. (2001). Sworn affidavit of Stephen Lowell Nock. Ontario Superior Court of Justice. Between Hedy Halpern et al. and the Attorney General of Canada et al.: Court File No. 684/00.
-*Parke, Ross D. (2013) “Gender Differences and Similarities in Parental Behavior”, teoksessa W. Bradford Wilcox & Kathleen Kovner Kline (toim.) Gender and Parenthood. Biological and Social Scientific Perspectives. New York: Columbia University Press.
-*Patterson, C. J. (2013). Family lives of lesbian and gay adults. In G. W. Peterson & K. R. Bush (Eds.), Handbook of Marriage and the Family (pp. 659-681). New York: Springer Science + Business Media.
-*Popenoe, David (2002) Life without Father: Compelling New Evidence That Fatherhood and Marriage Are Indispensable for the Good of Children and Society. Cambridge, Mass.: Harvard University Press.
-*Potter, D. (2012). Same-sex parent families and children’s academic achievement. Journal of Marriage and Family, 74, 556-571.
-*Puolimatka, Tapio (2014) Lapsen ihmisoikeus: oikeus isään ja äitiin. Suunta-kirjat.
-*Puolimatka, Tapio (2016) Yhteiskuntakoe lpasilla. Kuva ja Sana.
-*Puolimatka, Tapio (2016) “The Gender-Diverse and the Genderless Conceptions of Marriage and Children’s Right to Develop Their Sexual Identity.” The New Educational Review 45 (2016): 45, p. 28−38.
-*Pruett, Kyle (1987) The Nurturing Father. New York: Warner Books.
-*Pruett, Kyle (1993) “The Paternal Presence”, Families and Society 74, 36−54.
-*Pruett, Kyle (2000) Fatherneed. New York: Broadway.
-*Redding, R. E. (2008). It’s really about sex: Same-sex marriage, lesbigay parenting, and the psychology of disgust. Duke Journal of Gender Law & Policy, 15, 127−193.
-*Regnerus, Mark (2012a) “How different are adult children of parents who have same-sex relationships? Findings from the New Family Structure Study.” Social Science Research 41 (2012) 752−770.
-*Regnerus, Mark (2012b) “Parental same-sex relationships, family instability, and subsequent life outcomes for adult children: Answering critics of the new family structures study with additional analyses.” Social Science Research 41, (6), 1367−1377.
-*Rothblum, E. D. (2009). An overview of same-sex couples in relationships: A research area still at sea. In D. A. Hope (Ed.), Contemporary perspectives on lesbian, gay, and bisexual identities (pp. 113-139). New York: Springer Science + Business Media.
-*Rosenfeld, M. (2014) “Couple Longevity in the Era of Same-Sex Marriage in the U.S.” Demography, 76, 905-918. Ross, H., Gask, K., and Berrington, A. (2011). “Civil partnerships five years on.” Population Trends, 145, 172-202.
-*Schumm, W. (2005). “Empirical and theoretical perspectives from social science on gay marriage and child custody issues.” St. Thomas Law Review, 18, 425–471.
-*Schumm, W. R. (2010). Comparative relationship stability of lesbian mother and heterosexual mother families: a review of evidence. Marriage and Family Review, 46, 499-509.
-*Schumm, W. (2011). “Are two lesbian parents better than a mom and dad? Logical and methodological flaws in recent studies affirming the superiority of lesbian parenthood.” Ava Maria Law Review, 10(1), 79–119.
-*Short, E., Riggs, D. W., Perlesz, A., Brown, R., & Kane, G. (2007). Lesbian, gay, bisexual, and transgender (LGBT) parented families: A literature review prepared for The Australian Psychological Society. Melburne, Victoria: The Australian Psychological Society, LTD.
-*Somerville, Margaret (2005) “What About the Children?” in Daniel Cere & Douglas Farrow (Eds.) Divorcing Marriage: Unveiling the Dangers in Canada’s New Social Experiment. Montreal: McGill-Queen’s University Press.
-*Somerville, Margaret (2007) “Children’s human rights and unlinking child-parent biological bonds with adoption, same-sex marriage and new reproductive technologies,” Journal of Family Studies, Vol. 13, Issue 2, November 2007.
-*Strohschein, L. (2010). Generating heat or light? The challenge of social address variables. Journal of Marriage and Family, 72, 23-28. 24
-*Sweeney, M. M. (2011). Counting couples: Marriage, remarriage, and the significance of basic questions. Presentation at National Center for Family & Marriage Research conference.
-*Sweet, M. (2009). The science of unisex parenting: A review of published studies. Unpublished manuscript.
-*Wallerstein, Judith & Lewis, Julia & Blakeslee, Sandra (2007) Avioeron perintö. Eron lapset aikuisina. Suom. Joel Sammallahti. Helsinki: Therapeia-säätiö.
-*Wiik, K.A., A. Seierstad, and T. Noack. (2012). Divorce in Norwegian same-sex marriages: 1993- 2011. Statistics Norway Research Department, Discussion Paper No. 723.
-*Wilcox, W. Bradford & Doherty, William J. & Fisher, Helen et al (2005) Why Marriage Matters: Twenty-Six Conclusions.
-*Wilcox, Brad (2006) “The Evolution of Divorce,” National Affairs (Fall 2006).
-*Wolfers, J. (2006). Did unilateral divorce laws raise divorce rates? A reconciliation and new results. American Economic Review, 96, 1802-1820.
-*Wright, Wendy (2013) “French Homosexuals Join Demonstration Against Gay Marriage”, Catholic Family & Human Rights Institute, January 18, 2013.
+* Agacinski, Sylviane (2001) Parity of the Sexes. Käänt. Lisa Walsh. New York: Columbia University Press.
+* Agacinski, Sylviane (2013) “Deux méres = un pére?”, Le Monde 03.02. 2013.
+* Allen, D.W. (2013). High school graduation rates among children of same-sex households. Review of Economics of the Household, 11, 635–658.
+* Allen, D.W. (2015) More Heat Than Light: A Critical Assessment of the Same-Sex Parenting Literature, 1995-2013. Marriage and Family Review. 51, 154-182.
+* Allen, D.W., C. Pakaluk, and J. Price (2014). “Normal Progress Through School: Further Results'' in No Differences? How Children in Same-Sex Households Fare: Studies from Social Science. Ana Samuel (ed.) (Princeton: Witherspoon Institute).
+* Allen, D.W. and J. Price (2016) “Stability Rates of Same-Sex Couples”, Unpublished manuscript.
+* Amato, P. R. (2001). Children of divorce in the 1990s: An update of the Amato and Keith (1991) metaanalysis. Journal of Family Psychology, 15, 355-370.
+* Amato, P. R. (2005) “The Impact of Family Formation Change on the Cognitive, Social, and Emotional Well-Being of the Next Generation.” The Future of Children 15 (2005): 75−96.
+* Amato, P. R. (2010). Research on divorce: Continuing trends and new developments. Journal of Marriage and Family, 72, 650-666.
+* Amato, P. R., & Anthony, C. J. (2014). Estimating the effects of parental divorce and death with fixed effects models. Journal of Marriage and Family, 76, 370-386.
+* Amato, P. R., & Cheadle, J. (2005). The long reach of divorce: Divorce and child well-being across three Generations. Journal of Marriage and Family, 67, 191-206.
+* Andersson, G., Noack, T., Seierstad, A., and Weedon-Fekjaer, H. (2006). The demographics of same-sex marriages in Norway and Sweden. Demography, 43, 79-98.
+* Anderson, Ryan T. (2015) Truth Overruled: The Future of Marriage and Religious Freedom. Regnery Publishing.
+* Angel, Ronald J. & Angel, Jacqueline L. (1993) Painful Inheritance: Health and the New Generation of Fatherless Families. Madison, WI: University of Wisconsin Press.
+* Badgett and Herman (2011) Patterns of Relationship Recognition by Same-Sex Couples in the United States. The Williams Institute working paper.
+* Balsam, K.F., Beauchaine, T.P., Rothblum, E.D. & Solomon, S.E. (2008). Three-Year FollowUp of Same - Sex Couples who had Civil Unions in Vermont, Same -Sex Couples not in Civil Unions, and Heterosexual Married Couples. Developmental Psychology, 44, 102-116.
+* Biblarz, T. and J. Stacey (2010). How does the gender of parents matter? Journal of Marriage and Family, 72, 3–22.
+* Biblarz, T. and E. Savci (2010). Lesbian, gay, bisexual, and transgender families. Journal of Marriage and Family, 72, 480–497.
+* Biller, H. (1993) Fathers and Families: Paternal Factors in Child Development. Westport CT: Auburn House.
+* Blumstein, P. & Schwartz, P. (1983). American couples: Money, work, sex. New York: William Morrow.
+* Brown, Susan L. (2004) “Family structure and child well-being: the significance of parental cohabitation.” Journal of Marriage and Family 66 (2), 351−367.
+* Carpenter, C., & Gates, G. J. (2008). Gay and lesbian partnership: Evidence from California. Demography, 45, 573-590.
+* Chrisp, J. (2001) “That four letter word - sons: lesbian mothers and adolescent sons”, Journal of Lesbian Studies 5 (1-2), 195-209.
+* Delaume-Myard, Jean-Pier (2013) Homosexuel contre le marriage pour tous. Deboiris.
+* Dempsey, D. (2013). Same-sex parented families in Australia. Child Family Community Australia Paper No. 18. Melbourne, Australia: Australian Institute of Family Studies.
+* Diener, M. L. & Mangelsdorf, S. C. & McHale, J. L. & Frosch, C. A. (2002) “Infant’s behavioral strategies for emotion regulation with fathers and mothers. Associations with emotional expressions and attachment quality”, Infancy 3 (2), 253−174.
+* Faust, Katy (2015) ”Childless Women”, teoksessa Robert Oscar Lopez & Rivka Edelman (toim.) 161−164.
+* Fomby, P., & Bosick, S. J. (2013). Family instability and the transition to adulthood. Journal of Marriage and Family, 75, 1266-1287.
+* Gartrell, N., Rodas, C., et al. (2006). The USA National Lesbian Family Study: Interviews with Mothers of 10-Year-Olds. Feminism & Psychology, 16,175-192.
+* Gates, G. J. (2010). Same-sex couples in the US Census Bureau Data: who gets counted and why. Williams Institute Report, UCLA School of Law.
+* Gingsborg, Paul (2014) Family Politics: Domestic life, Devastation and survival 1900−1950. New Haven: Yale University Press.
+* Girgis, Sherif & George, Robert P. & Anderson, Ryan T. (2012) What is Marriage? Man and Woman: A Defence. New York: Encounter Books.
+* Goldberg, A. (2010). Lesbian and gay parents and their children: research on the family life cycle. Washington D.C.: American Psychological Association.
+* Goldberg, A. E., & Kuvalanka, K. A. (2012). Marriage (in)equality: The perspectives of adolescents and emerging adults with lesbian, gay, and bisexual parents. Journal of Marriage and Family, 74, 34-52.
+* Grech, Narelle (2012) Does Biology Matter? http://t5sdaughter.blogspot.fi/
+* Green, R. J., Bettinger, M., & Zacks, E. (1996). Are lesbian couples fused and gay male couples disengaged? Questioning gender straightjackets. In J. Laird & R. J. Green (Eds.), Lesbians and gays in couples and families: A handbook for therapists (pp. 185-230). New York: Jossey-Bass.
+* Guénois, Jean-Marc (2013) “J’ai été élevé par deux femmes”, Le Figaro 1.10. 2013.
+* Harper, Cynthia & McLanahan, Sara (2004) “Father Absence and Youth Incarceration”, Journal of Research on Adolescence 14 (2004): 369−97.
+* Jennings, S., Mellish, L., Tasker, F., Lamb, M., & Golombok, S. (2014). Why adoption? Gay, lesbian, and heterosexual adoptive parents’ reproductive experiences and reasons for adoption. Adoption Quarterly, 17, 205-226.
+* Johnson, S. E. (1991). Staying power: Long term lesbian couples. Tallahassee, FL: Naiad Press.
+* Kurdek, L. A. (1995). Assessing multiple determinants of relationship commitment in cohabiting gay, cohabiting lesbian, dating heterosexual, and married heterosexual couples. Family Relations, 44, 261-266.
+* Kurdek, L. A. (1998). Relationship Outcomes and Their Predictors: Longitudinal Evidence from Heterosexual Married, Gay Cohabiting, and Lesbian Cohabiting Couples. Journal of Marriage and Family, 60, 553- 568.
+* Kurdek, L. A. (2004). Are Gay and Lesbian Cohabiting Couples Really Different from Heterosexual Married Couples? Journal of Marriage and Family, 66, 880-900.
+* Lau, C. (2012). The stability of same-sex cohabitation, different -sex cohabitation, and marriage. Journal of Marriage and Family, 74, 973-988.
+* Ligtvoet, Frank (2013) “The Misnomer of Motherless Parenting”, New York Times 07/2013
+* Lopez, Robert Oscar & Rivka Edelman (toim.) (2015) Jephthah’s Daughters: Innocent Casualities in the War for Family “Equality”. Los Angelels, CA.
+* Manning, W.D., S. L. Brown, and J. B. Stykes (2014). Same-Sex and Different-Sex Cohabiting Couple Relationship Stability. Bowling Green State University, Center for Family and Demographic Research Working Paper. 23
+* Marks, L. (2012). “Same-sex parenting and children’s outcomes: A closer examination of the American Psychological Association’s brief on lesbian and gay parenting.” Social Science Research, 41, 735–751.
+* Marquardt, Elizabeth (2005) Family Structure and Children’s Educational Outcomes. New York: Institute for American Values.
+* Marquardt, Elizabeth & Glenn, Norval D. & Clark, Karen (2010) “My daddy’s name is DONOR: A New Study of Young Adults Conceived through Sperm Donation,” Report from the Institute for American Values. New York: Institute of American Values.
+* McIntyre, Alasdair (1981) After Virtue. Notre Dame, Ind.: University of Notre Dame Press.
+* McLanahan, Sara & Sandefur, Gary (1994) Growing Up with a Single Parent: What Hurts, What Helps. Cambridge: Harvard University Press.
+* Milbank, John (2012) “Gay marriage and the future of human sexuality”, ABC Religion and Ethics 13 March 2012.
+* Newman, Alana (2013) Testimony of Alana S. Newman. Opposition to AB460. To the California Assembly Committee on Health, April 30, 2013. www.ccgaction.org/uploaded_files/Testimony%20of%Alana%20S.%20Newman.pdf
+* Newman, Alana (2014) “Eugenics,” Public Discourse, November 10, 2014.
+* Nock, S. L. (2001). Sworn affidavit of Stephen Lowell Nock. Ontario Superior Court of Justice. Between Hedy Halpern et al. and the Attorney General of Canada et al.: Court File No. 684/00.
+* Parke, Ross D. (2013) “Gender Differences and Similarities in Parental Behavior”, teoksessa W. Bradford Wilcox & Kathleen Kovner Kline (toim.) Gender and Parenthood. Biological and Social Scientific Perspectives. New York: Columbia University Press.
+* Patterson, C. J. (2013). Family lives of lesbian and gay adults. In G. W. Peterson & K. R. Bush (Eds.), Handbook of Marriage and the Family (pp. 659-681). New York: Springer Science + Business Media.
+* Popenoe, David (2002) Life without Father: Compelling New Evidence That Fatherhood and Marriage Are Indispensable for the Good of Children and Society. Cambridge, Mass.: Harvard University Press.
+* Potter, D. (2012). Same-sex parent families and children’s academic achievement. Journal of Marriage and Family, 74, 556-571.
+* Puolimatka, Tapio (2014) Lapsen ihmisoikeus: oikeus isään ja äitiin. Suunta-kirjat.
+* Puolimatka, Tapio (2016) Yhteiskuntakoe lpasilla. Kuva ja Sana.
+* Puolimatka, Tapio (2016) “The Gender-Diverse and the Genderless Conceptions of Marriage and Children’s Right to Develop Their Sexual Identity.” The New Educational Review 45 (2016): 45, p. 28−38.
+* Pruett, Kyle (1987) The Nurturing Father. New York: Warner Books.
+* Pruett, Kyle (1993) “The Paternal Presence”, Families and Society 74, 36−54.
+* Pruett, Kyle (2000) Fatherneed. New York: Broadway.
+* Redding, R. E. (2008). It’s really about sex: Same-sex marriage, lesbigay parenting, and the psychology of disgust. Duke Journal of Gender Law & Policy, 15, 127−193.
+* Regnerus, Mark (2012a) “How different are adult children of parents who have same-sex relationships? Findings from the New Family Structure Study.” Social Science Research 41 (2012) 752−770.
+* Regnerus, Mark (2012b) “Parental same-sex relationships, family instability, and subsequent life outcomes for adult children: Answering critics of the new family structures study with additional analyses.” Social Science Research 41, (6), 1367−1377.
+* Rothblum, E. D. (2009). An overview of same-sex couples in relationships: A research area still at sea. In D. A. Hope (Ed.), Contemporary perspectives on lesbian, gay, and bisexual identities (pp. 113-139). New York: Springer Science + Business Media.
+* Rosenfeld, M. (2014) “Couple Longevity in the Era of Same-Sex Marriage in the U.S.” Demography, 76, 905-918. Ross, H., Gask, K., and Berrington, A. (2011). “Civil partnerships five years on.” Population Trends, 145, 172-202.
+* Schumm, W. (2005). “Empirical and theoretical perspectives from social science on gay marriage and child custody issues.” St. Thomas Law Review, 18, 425–471.
+* Schumm, W. R. (2010). Comparative relationship stability of lesbian mother and heterosexual mother families: a review of evidence. Marriage and Family Review, 46, 499-509.
+* Schumm, W. (2011). “Are two lesbian parents better than a mom and dad? Logical and methodological flaws in recent studies affirming the superiority of lesbian parenthood.” Ava Maria Law Review, 10(1), 79–119.
+* Short, E., Riggs, D. W., Perlesz, A., Brown, R., & Kane, G. (2007). Lesbian, gay, bisexual, and transgender (LGBT) parented families: A literature review prepared for The Australian Psychological Society. Melburne, Victoria: The Australian Psychological Society, LTD.
+* Somerville, Margaret (2005) “What About the Children?” in Daniel Cere & Douglas Farrow (Eds.) Divorcing Marriage: Unveiling the Dangers in Canada’s New Social Experiment. Montreal: McGill-Queen’s University Press.
+* Somerville, Margaret (2007) “Children’s human rights and unlinking child-parent biological bonds with adoption, same-sex marriage and new reproductive technologies,” Journal of Family Studies, Vol. 13, Issue 2, November 2007.
+* Strohschein, L. (2010). Generating heat or light? The challenge of social address variables. Journal of Marriage and Family, 72, 23-28. 24
+* Sweeney, M. M. (2011). Counting couples: Marriage, remarriage, and the significance of basic questions. Presentation at National Center for Family & Marriage Research conference.
+* Sweet, M. (2009). The science of unisex parenting: A review of published studies. Unpublished manuscript.
+* Wallerstein, Judith & Lewis, Julia & Blakeslee, Sandra (2007) Avioeron perintö. Eron lapset aikuisina. Suom. Joel Sammallahti. Helsinki: Therapeia-säätiö.
+* Wiik, K.A., A. Seierstad, and T. Noack. (2012). Divorce in Norwegian same-sex marriages: 1993- 2011. Statistics Norway Research Department, Discussion Paper No. 723.
+* Wilcox, W. Bradford & Doherty, William J. & Fisher, Helen et al (2005) Why Marriage Matters: Twenty-Six Conclusions.
+* Wilcox, Brad (2006) “The Evolution of Divorce,” National Affairs (Fall 2006).
+* Wolfers, J. (2006). Did unilateral divorce laws raise divorce rates? A reconciliation and new results. American Economic Review, 96, 1802-1820.
+* Wright, Wendy (2013) “French Homosexuals Join Demonstration Against Gay Marriage”, Catholic Family & Human Rights Institute, January 18, 2013.
 
 ### Viitteet
 

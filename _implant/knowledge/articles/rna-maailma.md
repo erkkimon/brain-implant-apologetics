@@ -4,7 +4,7 @@ about: apologetics
 title: "RNA-maailma"
 description: "Kuva: RNA-maailma-hypoteesin mukaiset abiogeneesin päävaiheet: Runsaasti yksinkertaisia molekyylejä sisältäneessä alkuliemessä olisi – mahdollisesti (hieman mutkikkaampien) välivaihemolekyylien (1) jälkeen – muodostunut jonkin verran RNA-nukleotidejä (2) (ribonukleiinihapon rakennemolekyylejä)."
 tags: [apowiki, abiogeneesi]
-timestamp: 2026-10-02T10:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "RNA-maailma".
@@ -132,13 +132,13 @@ Seuraavaksi pyritään arvioimaan RNA-maailma-hypoteesin uskottavuutta numeerise
 | 90 | 1,6 * 10<sup>-300</sup> |
 
 Matematiikkaa hyödyntäen nämä oletukset johtavat seuraaviin tuloksiin:
-*Kunkin soveliaan nukleotidin muodostumismahdollisuudeksi saadaan yhden typpiemäksen ja yhden riboosimolekyylin suotuisan keskinäiskiinnittymisen todennäköisyys: p(Nukl) = 2p(X)/3 * p(R)/2 ≈ 0,02667 * 0,035 ≈ 9,33 * 10<sup>-4</sup>
+* Kunkin soveliaan nukleotidin muodostumismahdollisuudeksi saadaan yhden typpiemäksen ja yhden riboosimolekyylin suotuisan keskinäiskiinnittymisen todennäköisyys: p(Nukl) = 2p(X)/3 * p(R)/2 ≈ 0,02667 * 0,035 ≈ 9,33 * 10<sup>-4</sup>
 
-*Itsekopioivuusfunktion kannalta sopiva molekyylirakenne syntyy (oletus 7.) seuraavalla nukleotidikohtaisella todennäköisyydellä: p(Ikf) = p(Nukl)/2 = `[2p(X)/3 * p(R)/2]`/2 ≈ 9,33 * 10<sup>-4</sup> * 0,5 ≈ 4,7 * 10<sup>-4</sup>
+* Itsekopioivuusfunktion kannalta sopiva molekyylirakenne syntyy (oletus 7.) seuraavalla nukleotidikohtaisella todennäköisyydellä: p(Ikf) = p(Nukl)/2 = `[2p(X)/3 * p(R)/2]`/2 ≈ 9,33 * 10<sup>-4</sup> * 0,5 ≈ 4,7 * 10<sup>-4</sup>
 
-*Suotuisan ketjumolekyylin syntytodennäköisyys pienenee ketjupituuden kasvaessa: p(RNA) = [p(Ikf)]<sup>n</sup>, missä
-**n on ketjun pituus nukleotideinä ja
-**p(RNA) tämänpituisen itsekopioituvan RNA-ketjun satunnaissyntytodennäköisyys.
+* Suotuisan ketjumolekyylin syntytodennäköisyys pienenee ketjupituuden kasvaessa: p(RNA) = [p(Ikf)]<sup>n</sup>, missä
+  * n on ketjun pituus nukleotideinä ja
+  * p(RNA) tämänpituisen itsekopioituvan RNA-ketjun satunnaissyntytodennäköisyys.
 Eripituisten ketjujen näin laskettuja satunnaissyntytodennäköisyyksiä on esitetty oikealla olevassa taulukossa.
 
 Pienimmän tunnetun RNA:n ketjuuntumista katalysoivan ribotsyymin pituus on 165 nukleotidia. Näinkin "lyhyellä" ribotsyymillä kopioimisen tarkkuus on merkittävästi huonompi kuin suuremmilla kopioitujilla. Eräs 189 nukleotidia pitkä ribotsyymi on jo niin tarkka, että kykenee kopioimaan RNA:ta 98,9 %:n tarkkuudella; se siis tuottaa identtisen kopion joka kahdeksas kerta.[^8] Ei ole tieteellistä näyttöä siitä, että **mikään** alle 150 nukleotidia pitkä RNA-molekyyli kykenisi katalysoimaan omaa kopioitumistaan.

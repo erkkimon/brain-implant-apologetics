@@ -4,7 +4,7 @@ about: apologetics
 title: "Jumalharha (kirja)"
 description: "Jumalharha (The God Delusion, 2006) on uusateismin huomattavimman saarnamiehen Richard Dawkinsin kirjoittama uskontokriittinen kirja, jossa Dawkins yrittää osoittaa teismin irrationaalisuuden."
 tags: [apowiki, kirjat, ateismi, richard-dawkins, jumala]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jumalharha (kirja)".
@@ -121,7 +121,7 @@ Yhdysvalloissa nuori mies teki itsemurhan luettuaan Dawkinsin kirjan.[^8] Pojan 
 * [Kristinuskon perustelut](kristinuskon-perustelut.md)
 
 #### Internet
-*[W. Lane-Craigin vastine Dawkinsille](http://www.youtube.com/watch?v=5lRmZn1F44M).
+* [W. Lane-Craigin vastine Dawkinsille](http://www.youtube.com/watch?v=5lRmZn1F44M).
 <!--*[piispa Eero Huovisen juttu uusateismista](http://www.helsinginhiippakunta.evl.fi/piispa/helsingin_hiippakunnan_piispat/eero_huovinen/puheenvuoroja/?x20117=31485)-->
 * McGrath, Alister & McGrath, Joanna Collicutt, *Dawkins-harha? Ateistinen fundamentalismi ja jumalallisen olemassaolon kieltäminen*, (The Dawkins delusion? Atheist fundamentalism and the denial of the divine, 2007.) Suomentanut Jani Kurki, Cranite, 2008, ISBN 978-952-92-4259-7
 <!--*Alister McGrathin keskustelu aiheesta kuunneltavissa: http://www.veritas.org/media/talks/496-->
@@ -143,8 +143,8 @@ Yhdysvalloissa nuori mies teki itsemurhan luettuaan Dawkinsin kirjan.[^8] Pojan 
 Dawkins oli toistuvasti osallistunut kirjansa aiheista järjestettyihin väittelytilaisuuksiin mutta kuitenkin kieltäytynyt väittelemästä ainakaan johtaviin uskonnonfilosofeihin lukeutuvan [William Lane Craigin](william-lane-craig.md) kanssa[^9]; lopulta hän kuitenkin suostui kolmimiehisin joukkuein järjestettyyn ryhmäväittelyyn, jossa myös Craig oli mukana,[^10] mutta kieltäytyi pitämästä sitäkään Craigin kanssa väittelemisenä[^11]. Väittelyvideoita:
 
 *Kuva: [video*](https://youtu.be/zF5bPI92-5o)
-*The God Delusion: David Quinn <!-- red link: David Quinn --> & [Richard Dawkins](richard-dawkins.md) debate: [Youtube](https://youtu.be/OXf9A4wJ3lk)
-*The Dawkins [Lennox](john-lennox.md) Debate: [video](https://youtu.be/zF5bPI92-5o), [väittelyn järjestäjän sivusto](https://larryalextaunton.com/debates-2/)
+* The God Delusion: David Quinn <!-- red link: David Quinn --> & [Richard Dawkins](richard-dawkins.md) debate: [Youtube](https://youtu.be/OXf9A4wJ3lk)
+* The Dawkins [Lennox](john-lennox.md) Debate: [video](https://youtu.be/zF5bPI92-5o), [väittelyn järjestäjän sivusto](https://larryalextaunton.com/debates-2/)
 
 ### Viitteet
 

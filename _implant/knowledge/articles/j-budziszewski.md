@@ -4,7 +4,7 @@ about: apologetics
 title: "J. Budziszewski"
 description: "J. Budziszewski (s. 1952) on hallintotieteen ja filosofian professori Texasin yliopistossa Austinissa, jossa hän on työskennellyt vuodesta 1981."
 tags: [apowiki, henkilöt, filosofia]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "J. Budziszewski".
@@ -74,15 +74,15 @@ Avioliiton ytimenä on sellainen seksuaaliyhteys, joka mahdollistaa lasten synty
 
 ### Teokset:
 
-*The Resurrection of Nature: Political Theory and the Human Character (Cornell, 1986)
-*The Nearest Coast of Darkness: A Vindication of the Politics of Virtues (Cornell, 1988)
-*True Tolerance: Liberalism and the Necessity of Judgment (Transaction, 1992)
-*Written on the Heart: The Case for Natural Law (InterVarsity, 1997)
-*The Revenge of Conscience: Politics and the Fall of Man (Spence, 1999)
-*What We Can't Not Know: A Guide (Spence, 2003; Revised edition 2011, Ignatius Press). Suomennettu nimellä Tätä emme voi olla tietämättä. 2011, Uusi tie.
-*Evangelicals in the Public Square: Four Formative Voices (Baker Academic, 2006)
-*Natural Law for Lawyers (Blackstone Fellowship, 2006)
-*The Line Through the Heart: Natural Law as Fact, Theory, and Sign of Contradiction (Intercollegiate Studies Institute Press, 2009).
+* The Resurrection of Nature: Political Theory and the Human Character (Cornell, 1986)
+* The Nearest Coast of Darkness: A Vindication of the Politics of Virtues (Cornell, 1988)
+* True Tolerance: Liberalism and the Necessity of Judgment (Transaction, 1992)
+* Written on the Heart: The Case for Natural Law (InterVarsity, 1997)
+* The Revenge of Conscience: Politics and the Fall of Man (Spence, 1999)
+* What We Can't Not Know: A Guide (Spence, 2003; Revised edition 2011, Ignatius Press). Suomennettu nimellä Tätä emme voi olla tietämättä. 2011, Uusi tie.
+* Evangelicals in the Public Square: Four Formative Voices (Baker Academic, 2006)
+* Natural Law for Lawyers (Blackstone Fellowship, 2006)
+* The Line Through the Heart: Natural Law as Fact, Theory, and Sign of Contradiction (Intercollegiate Studies Institute Press, 2009).
 
 ### Viitteet
 

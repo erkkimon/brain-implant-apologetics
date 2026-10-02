@@ -4,7 +4,7 @@ about: apologetics
 title: "Raamattu"
 description: "Löysin arabiankielisen Raamatun Oferin vankilan kirjaston uskonnollisen kirjallisuuden joukosta."
 tags: [apowiki, raamattu]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Raamattu".
@@ -106,7 +106,7 @@ Lokakuussa 2016 julkaistujen tietojen mukaan maailmassa on n. 7097 kieltä, jois
 
 #### Kirjallisuutta
 
-*T. Puolimatka: *Usko, tiede ja Raamattu*. Kustannus Oy Uusi Tie, 2007 (1. p.).
+* T. Puolimatka: *Usko, tiede ja Raamattu*. Kustannus Oy Uusi Tie, 2007 (1. p.).
 
 #### ApologetiikkaWiki
 * [Arkeologia ja Raamattu](arkeologia-ja-raamattu.md)

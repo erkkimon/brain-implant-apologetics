@@ -4,7 +4,7 @@ about: apologetics
 title: "Richard Dawkins"
 description: "Clinton Richard Dawkins (s. 26. maaliskuuta 1941 Nairobi, Kenia) on englantilainen eläintieteilijä, evoluutiobiologi ja materialistisen evoluutionäkemyksen kansantajuistaja."
 tags: [apowiki, henkilöt, richard-dawkins, ateismi]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Richard Dawkins".
@@ -281,7 +281,7 @@ Stoven mukaan tämä uusi geeniuskonto on vain vähän tarkennettu muunnelma Dar
 
 ### Linkkejä
 
-*[Dawkins jäätyy](http://www.youtube.com/watch?v=zaKryi3605g)
+* [Dawkins jäätyy](http://www.youtube.com/watch?v=zaKryi3605g)
 
 ### Lähteet
 * Dawkins, Richard, *The Selfish Gene*, Oxford: Oxford University Press, 1976

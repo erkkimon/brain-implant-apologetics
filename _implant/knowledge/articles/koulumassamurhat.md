@@ -4,7 +4,7 @@ about: apologetics
 title: "Koulumassamurhat"
 description: "Koulumassamurhilla tarkoitetaan suomalaisessa kontekstissa lähinnä Jokelan ja Kauhajoen kouluissa tapahtuneita massamurhia."
 tags: [apowiki, yleistä-tietoa, lukusuositukset, ääriateismi, koulumassamurhat, kouluammuskelut, kouluammuskelu, koulusurmat, koulusurma, koulumassamurha, massamurha, ateismi, kritiikki, fundamentalismi, fundamentalistinen, fundamentalisti]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Koulumassamurhat".
@@ -41,11 +41,11 @@ Mitä hän tiedosti? Mikä teki hänet onnettomaksi? "Elämä on vain tarkoituks
 
 ##### Lainauksia Luonnollisen Valitsijan Manifestista[^11]
 
-*"Viha, se on ainoa asia jota olen täynnä ja rakastan sitä."
-*"- - se, kuinka paljon tiedostan asioita, on tehnyt minut onnettomaksi, turhautuneeksi ja vihaiseksi."
-*"Elämä on vain tarkoituksetonta sattumaa… pitkän evolutiivisen kehityksen ja monien eri syiden ja tekijöiden tulosta.”
-*"Minä, luonnollisena valitsijana, eliminoinen kaikki jotka näen epäsopiviksi - -"
-*"- - totuus on että olen vain eläin, ihminen, yksilö, toisinajattelija."
+* "Viha, se on ainoa asia jota olen täynnä ja rakastan sitä."
+* "- - se, kuinka paljon tiedostan asioita, on tehnyt minut onnettomaksi, turhautuneeksi ja vihaiseksi."
+* "Elämä on vain tarkoituksetonta sattumaa… pitkän evolutiivisen kehityksen ja monien eri syiden ja tekijöiden tulosta.”
+* "Minä, luonnollisena valitsijana, eliminoinen kaikki jotka näen epäsopiviksi - -"
+* "- - totuus on että olen vain eläin, ihminen, yksilö, toisinajattelija."
 
 ### Ateistinen oivallus
 

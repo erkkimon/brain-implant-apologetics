@@ -4,7 +4,7 @@ about: apologetics
 title: "Jerry Coyne"
 description: "Jerry A. Coyne (s. 1949) toimii biologian professorina evoluutioekologian laitoksella Chicagon yliopistossa."
 tags: [apowiki, henkilöt, ateismi]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jerry Coyne".
@@ -39,9 +39,9 @@ Coynen mukaan teistinen lähestymistapa ei sovi tieteeseen, koska hän katsoo te
 Vastoin Coynen oletusta teismi ei käytännössä ole suinkaan merkinnyt tieteen loppua vaan sillä on päinvastoin ollut ratkaiseva merkitys modernin kokeellisen luonnontieteen synnyssä. Kristilliset tieteentekijät pystyivät toteuttamaan modernin tieteen vallankumouksen juuri siksi, että usko Jumalaan antoi heille uskon maailmankaikkeuden järjestykseen sekä ihmisen kykyyn saada tietoa maailmankaikkeudesta. Heidän teistinen lähtökohtansa antoi heille riittävän älyllisen itsenäisyyden, niin että he pystyivät suhtautumaan kriittisesti oman aikansa tieteen perustaviin metodisiin olettamuksiin[^2] ja luomaan uuden kokeellisen luonnontieteen metodin. Teistinen lähtökohta tarjoaa itsekriittisen näkökulman rajallisen ihmisen tietoihin nähden, minkä seurauksena tähän lähestymistapaan kuuluu olennaisesti se, että tieteen metodien ja tosiasioiden tulkinnan perustana olevia perimmäisiä vakaumuksia koko ajan kyseenalaistetaan. Ilman tällaista kyseenalaistamista tieteellinen kehitys ei ole mahdollista.
 
 Coyne uskoo, että jos maailmankaikkeuden ajatellaan olevan seurausta täysin suvereenin Luojan luomistyöstä, ei ole mielekästä etsiä maailmasta lainalaisuuksia eikä syy-yhteyksiä. Tämä väite on ristiriidassa tieteen historian tosiasioiden kanssa. Modernin kokeellisen luonnontieteen vallankumous tapahtui nimenomaan raamatullisten perusvakaumusten varassa:
-*(a) *Koska maailmankaikkeudella on Järjestäjä, sieltä on mielekästä etsiä järjestystä.*
-*(b) *Koska Jumala on luonut ihmisen kuvakseen, ihmisen älylliset kyvyt ovat luotettavia.*
-*(c) *Koska Jumala ei ole luomistyössään sidottu, ainoa tapa päästä selville todellisuuden rakenteesta on havaintoihin perustuva tutkimus.*
+* (a) *Koska maailmankaikkeudella on Järjestäjä, sieltä on mielekästä etsiä järjestystä.*
+* (b) *Koska Jumala on luonut ihmisen kuvakseen, ihmisen älylliset kyvyt ovat luotettavia.*
+* (c) *Koska Jumala ei ole luomistyössään sidottu, ainoa tapa päästä selville todellisuuden rakenteesta on havaintoihin perustuva tutkimus.*
 
 Kautta kristinuskon historian Raamatun kehotus viljellä ja varjella maata ( ([1. Moos. 2:15](../books/gen.md))) on tulkittu myös kehotukseksi henkiseen viljelyyn eli tieteiden, taiteiden ja kulttuurin harjoittamiseen. Tähän on katsottu sisältyvän kehotus luonnon tutkimiseen, eli sen selvittämiseen, miten luonto toimii.
 
@@ -285,10 +285,10 @@ Dawkinsin eliömaantieteelliseen argumenttiin sisältyy se ristiriitainen oletus
 
 ### Aiheesta muualla
 
-**Usko, järki filosofia* (Uskonnonfilosofia -blogi): [Coynen masentava tietämättömyys](https://uskojarkijafilosofia.wordpress.com/2011/10/18/coynen-masentava-tietamattomyys/) (18.10.2011)
-*Filosofi Edward Feserin blogi [Coyne on intentionality](http://edwardfeser.blogspot.com/2011/05/coyne-on-intentionality.html)
-*Filosofi Edward Feserin blogi [So you think you understand the cosmological argument](http://edwardfeser.blogspot.com/2011/07/so-you-think-you-understand.html)
-*Rabbi Moshe Averickin avoin kirje Jerry Coynelle [An Open Letter To Dr. Jerry Coyne](http://www.algemeiner.com/2011/04/01/an-open-letter-to-dr-jerry-coyne-atheistic-biologist/)
+* *Usko, järki filosofia* (Uskonnonfilosofia -blogi): [Coynen masentava tietämättömyys](https://uskojarkijafilosofia.wordpress.com/2011/10/18/coynen-masentava-tietamattomyys/) (18.10.2011)
+* Filosofi Edward Feserin blogi [Coyne on intentionality](http://edwardfeser.blogspot.com/2011/05/coyne-on-intentionality.html)
+* Filosofi Edward Feserin blogi [So you think you understand the cosmological argument](http://edwardfeser.blogspot.com/2011/07/so-you-think-you-understand.html)
+* Rabbi Moshe Averickin avoin kirje Jerry Coynelle [An Open Letter To Dr. Jerry Coyne](http://www.algemeiner.com/2011/04/01/an-open-letter-to-dr-jerry-coyne-atheistic-biologist/)
 
 ### Lähteet
 * Coyne, Jerry, *Why Evolution is True*, Oxford: Oxford University Press, 2009

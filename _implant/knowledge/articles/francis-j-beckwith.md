@@ -4,7 +4,7 @@ about: apologetics
 title: "Francis J. Beckwith"
 description: "Francis J. \"Frank\" Beckwith (syntynyt 1960) on amerikkalainen filosofi, kristitty apologeetta, tutkija ja luennoitsija."
 tags: [apowiki, henkilöt, seksuaalietiikka]
-timestamp: 2026-10-02T03:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Francis J. Beckwith".
@@ -33,22 +33,22 @@ Hän asuu vaimonsa kanssa Teksasissa.
 
 ### Kirjallisuus
 
-**Taking Rites Seriously: Law, Politics, and the Reasonableness of Faith* (New York: Cambridge University Press, 2015)
-**Politics for Christians: Statecraft as Soulcraft* (Downers Grove: IVP Academic, 2010)
-**Defending Life: A Moral and Legal Case Against Abortion Choice* (New York: Cambridge University Press, 2007)
-**To Everyone An Answer: A Case for the Christian Worldview* with William Lane Craig and J. P. Moreland, eds. (Downers Grove: InterVarsity Press, 2004).
-**Law, Darwinism, and Public Education: The Establishment Clause and the Challenge of Intelligent Design* (Lanham: Rowman and Littlefield, 2003).
-**Do the Right Thing: Readings in Applied Ethics and Social Philosophy* editor, 2nd ed. (Belmont, CA: Wadsworth, 2002).
-**The New Mormon Challenge* with Carl Mosser and Paul Owen, eds. (Grand Rapids: Zondervan, 2002).
-**The Abortion Controversy 25 Years After Roe v. Wade: A Reader* 2nd ed.  with Louis Pojman, eds. (Belmont, CA: Wadsworth, 1998).
-**Relativism: Feet Firmly Planted in Mid-Air* with Gregory Koukl, (Grand Rapids: Baker, 1998).
+* *Taking Rites Seriously: Law, Politics, and the Reasonableness of Faith* (New York: Cambridge University Press, 2015)
+* *Politics for Christians: Statecraft as Soulcraft* (Downers Grove: IVP Academic, 2010)
+* *Defending Life: A Moral and Legal Case Against Abortion Choice* (New York: Cambridge University Press, 2007)
+* *To Everyone An Answer: A Case for the Christian Worldview* with William Lane Craig and J. P. Moreland, eds. (Downers Grove: InterVarsity Press, 2004).
+* *Law, Darwinism, and Public Education: The Establishment Clause and the Challenge of Intelligent Design* (Lanham: Rowman and Littlefield, 2003).
+* *Do the Right Thing: Readings in Applied Ethics and Social Philosophy* editor, 2nd ed. (Belmont, CA: Wadsworth, 2002).
+* *The New Mormon Challenge* with Carl Mosser and Paul Owen, eds. (Grand Rapids: Zondervan, 2002).
+* *The Abortion Controversy 25 Years After Roe v. Wade: A Reader* 2nd ed.  with Louis Pojman, eds. (Belmont, CA: Wadsworth, 1998).
+* *Relativism: Feet Firmly Planted in Mid-Air* with Gregory Koukl, (Grand Rapids: Baker, 1998).
 * *Affirmative Action: Social Justice or Reverse Discrimination?* with Todd E. Jones, eds.  (Amherst: Prometheus, 1997).
-**See the gods fall: Four Rivals to Christianity*  with Stephen E. Parrish, (Joplin: College Press, 1997).
-**Are You Politically Correct?: Debating America's Cultural Standards* with Michael E. Bauman, eds. (Buffalo: Prometheus, 1993).
-**Politically Correct Death: Answering the Arguments for Abortion Rights* (Grand Rapids: Baker, 1993).
-**The Mormon Concept of God: A Philosophical Analysis* with Stephen E. Parrish, (Lewiston: Edwin Mellen, 1991).
-**David Hume's Argument Against Miracles: A Critical Analysis* (Lanham: University Press of America, 1989).
-**Bahá'í* (Minneapolis: Bethany House, 1985).
+* *See the gods fall: Four Rivals to Christianity*  with Stephen E. Parrish, (Joplin: College Press, 1997).
+* *Are You Politically Correct?: Debating America's Cultural Standards* with Michael E. Bauman, eds. (Buffalo: Prometheus, 1993).
+* *Politically Correct Death: Answering the Arguments for Abortion Rights* (Grand Rapids: Baker, 1993).
+* *The Mormon Concept of God: A Philosophical Analysis* with Stephen E. Parrish, (Lewiston: Edwin Mellen, 1991).
+* *David Hume's Argument Against Miracles: A Critical Analysis* (Lanham: University Press of America, 1989).
+* *Bahá'í* (Minneapolis: Bethany House, 1985).
 
 ### Viittaukset
 
@@ -59,10 +59,10 @@ Hän asuu vaimonsa kanssa Teksasissa.
 
 ### Linkkejä
 <!-- *[Francis Beckwith's website](http://www.francisbeckwith.com) -->
-*[Whats Wrong With The World](http://www.whatswrongwiththeworld.net/author.php?author_id=13), a website in which he contributes
-*[review by Douglas Groothuis](http://www.arn.org/docs/groothuis/dg_beckwithpc.htm) of *Law, Darwinism and Public Education*, *Philosophia Christi*, 5/1 (2003)
+* [Whats Wrong With The World](http://www.whatswrongwiththeworld.net/author.php?author_id=13), a website in which he contributes
+* [review by Douglas Groothuis](http://www.arn.org/docs/groothuis/dg_beckwithpc.htm) of *Law, Darwinism and Public Education*, *Philosophia Christi*, 5/1 (2003)
 <!-- *[A critical book review of The Mormon Concept of God](http://farms.byu.edu/display.php?table=review&id=226) by Blake T. Ostler, a Mormon scholar. *FARMS Review* 8/2 1996 pp 99–146. -->
-*[Antidote to abortion arguments, a favorable review](http://creation.com/antidote-to-abortion-arguments) by Jonathan Sarfati  of *Politically Correct Death*
+* [Antidote to abortion arguments, a favorable review](http://creation.com/antidote-to-abortion-arguments) by Jonathan Sarfati  of *Politically Correct Death*
 
 [^1]: [Bio-ethics Philosopher and Evangelical President Francis Beckwith Joins Catholic Church](https://www.lifesitenews.com/news/bio-ethics-philosopher-and-evangelical-president-francis-beckwith-joins-cat) - Viitattu 4.3.2021
 [^2]: [Baylor denies tenure to highly regarded Beckwith](https://www.baptistpress.com/resource-library/news/baylor-denies-tenure-to-highly-regarded-beckwith/) - viitattu 4.3.2021

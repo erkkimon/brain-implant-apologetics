@@ -4,7 +4,7 @@ about: apologetics
 title: "Kohu kirjoituksesta \"Kampanja pedofilian laillistamiseksi\""
 description: "Elokuussa 2018 nousi kohu Tapio Puolimatkan kirjoittamasta mielipidekirjoituksesta \"Kampanja pedofilian laillistamiseksi\", joka julkaistiin Oikea Media -julkaisun vieraskynäpalstalla."
 tags: [apowiki, tapio-puolimatka, media]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kohu kirjoituksesta "Kampanja pedofilian laillistamiseksi"".
@@ -252,11 +252,11 @@ Lopuksi professori **Timo Vihavainen** osoittaa syyttävän sormensa Professoril
 ### Professori Timo Vihavaisen kannanotot
 Professori **Timo Vihavainen** on ottanut useaan otteeseen julkisesti kantaa siihen, mitä hän pitää Puolimatkan artikkelia vastaan käynnistetyn kampanjan epäoikeudenmukaisina ja jopa täysin järjenvastaisina piirteinä. Blogeissaan prof. Vihavainen valottaa asian inhimillisesti ja kulttuurisesti ongelmallisia ja jopa absurdeja puolia. Esimerkkeja **Timo Vihavaisen** blogeista:
 
-*[Jyväskylän mielensäpahoittajat](http://timo-vihavainen.blogspot.com/2018/08/jyvaskylan-mielensapahoittajat.html)
-*[Uusi normaali?](http://timo-vihavainen.blogspot.com/2018/08/uusi-normaali.html)
-*[Piru merrassa?](http://timo-vihavainen.blogspot.com/2018/08/piru-merrassa.html)
-*[Avoin kirje professoriliitolle](http://timo-vihavainen.blogspot.com/2018/08/avoin-kirje-professoriliitolle.html)
-*[Suuren totuuden aika](http://timo-vihavainen.blogspot.com/2018/08/suuren-totuuden-aika.html)
+* [Jyväskylän mielensäpahoittajat](http://timo-vihavainen.blogspot.com/2018/08/jyvaskylan-mielensapahoittajat.html)
+* [Uusi normaali?](http://timo-vihavainen.blogspot.com/2018/08/uusi-normaali.html)
+* [Piru merrassa?](http://timo-vihavainen.blogspot.com/2018/08/piru-merrassa.html)
+* [Avoin kirje professoriliitolle](http://timo-vihavainen.blogspot.com/2018/08/avoin-kirje-professoriliitolle.html)
+* [Suuren totuuden aika](http://timo-vihavainen.blogspot.com/2018/08/suuren-totuuden-aika.html)
 
 ### Juha Ahvion analyysi
 **Juha Ahvio** kirjoitti analyysin kohusta Patmos-blogissaan.[^4] Siinä hän toteaa muun muassa, että lapsen ymmärtäminen autonomiseksi toimijaksi seksuaalisuuteen ja sukupuolisuuteen liittyvissä kysymyksissä on osa aikamme kasvatus- ja kulttuuriajattelua.
@@ -367,9 +367,9 @@ Seurakuntalaisen blogissaan Puolimatka toi esille tutkimuksia, joiden olemassaol
 ### Petteri Hiienkosken kirjoitukset
 **Petteri Hiienkoski** on analysoinut Puolimatkan kirjoituksen ympärille syntynyttä kohua kolmessa blogissaan.
 
-*[Noitavaino Puolimatkaa vastaan](https://www.oikeamedia.com/o1-77422)
-*[Kampanja epäkorrektin professorin vaientamiseksi](https://www.oikeamedia.com/o1-78100)
-*[Yliopistonrehtori nakertamassa demokratian perusteita](https://www.oikeamedia.com/o1-78302)
+* [Noitavaino Puolimatkaa vastaan](https://www.oikeamedia.com/o1-77422)
+* [Kampanja epäkorrektin professorin vaientamiseksi](https://www.oikeamedia.com/o1-78100)
+* [Yliopistonrehtori nakertamassa demokratian perusteita](https://www.oikeamedia.com/o1-78302)
 
 ### Puolimatkan hallintokantelu
 Puolimatka kirjoitti 6.8. 2018 Hämäläisen toiminnasta [hallintokantelun](https://www.tapiopuolimatka.net/uusi-sivu4) Jyväskylän yliopiston hallitukselle, jossa hän väittää, että  sekä JYY:n kannanotto että rehtorin irtisanoutuminen perustuvat väärään tulkintaan artikkelin sisällöstä, jonka mukaan Puolimatka artikkelissaan sulauttaa "homoseksuaalisuuden, nekrofilian, eläimiin sekaantumisen ja pedofilian toisiinsa rinnastettaviksi muuttujiksi" . Tämän väärän käsityksen propagoiminen yliopiston arvovallalla on epäeettistä ja loukkaa Puolimatkan oikeusturvaa. Erityisesti Puolimatka kiinnittää huomiota siihen, ettei häntä kuultu ennen tämän vääristelevän tulkinnan julkistamista. Kun yliopisto päätti tässä tilanteessa arvioida Puolimatkan opetusmateriaaleja ja hankkia opiskelijapalautetta Puolimatkan luennoista, on luultavaa, että tämä vääristelevä tulkinta vaikuttaa kielteisesti opiskelijoiden antamaan palautteeseen.
@@ -614,30 +614,30 @@ Puolimatka kommentoi: "Tutkimuksen vapautta yksittäisen kirjoittajan on melko m
 
 Puolimatka kiinnittää huomiota siihen, että vaikka Luomanen esiintyy tieteellisyyden puolustajana, hänen oma kirjoituksensa ei ole tyyliltään tieteellinen, vaan siinä käytetään voimakkaita retorisia ilmauksia, jotka antavat yksipuolisen kuvan asiasta. Luomanen korostaa sitä, että ”toisten tutkijoiden tutkimusten luonnetta ja sisältöä kuvataan oikein”. Hän painottaa tieteellistä objektiivisuutta ja tasapuolisuutta. Hänen oma retoriikkansa on kuitenkin poikkeuksellisen värikästä, josta seuraavassa poimintoja:
 
-> *”Oikeassa Mediassa (äärioikeistolainen vastamedia) julkaistua”;
-> *”äärioikeistolaisen LifeSiteNews-sivuston”;
-> *”Mainwaring kritisoi äärioikeistolaisissa blogikirjoituksissaan”;
-> *”Mainwaringiin viittaaminen vastaa sitä, että Trumpin twiiteistä alettaisiin lukea viimeisimpiä tiedeuutisia”;
-> *”arvosteltu voimakkaasti”;
-> *”Puolimatkan oma kirjoittelu sen sijaan on uhka akateemiselle tutkimuksen ja opetuksen vapaudelle”;
-> *”Takametsien Tapsa, joka suoltaa tajunnanvirtaa someen”,
-> *”tendenssimäinen kuvailu”,
-> *”vastenmielisin jakso”;
-> *”antaa täysin väärän kuvan”;
-> *”Puolimatkan oma mielikuvituksellinen päätelmä”;
-> *”antaa täysin virheellisen kuvan”;
-> *”antaa taulukon sisällöstä täysin puutteellisen kuvan”;
-> *”ihmetyttää suuresti”;
-> *”Väite ei pidä paikkaansa vähäisimmässäkään määrin”;
-> *”Vaikuttava huipennus artikkelin väitteelle – mutta totta vain mielikuvitusmaailmassa”;
-> *”sisältöä on kuvattu monessa kohdassa räikeästi väärin – – yksipuolisesti – – tai muuten harhaanjohtavasti”;
-> *”suoria lainauksia lyhennetään tarkoitushakuisesti”;
-> *”tutkimusta vääristellään”;
-> *”käytettyjen julkaisujen lähempi tarkastelu osoittaa, että monet niistä ovat todellisuudessa homovastaisia”;
-> *”käyttämät lähteet osoittautuvat voittopuolisesti sukupuolisia vähemmistöjä halveksiviksi ja syrjiviksi”;
-> *”artikkeli maalaa parin kontekstistaan irrotetun ja jopa väärän sitaatin avulla hyvin negatiivisen kuvan”;
-> *”Puolimatka mustamaalaa”;
-> *”tarjoaa auktoriteettiin ja häpeään kouluttavaa mallia”.
+> * ”Oikeassa Mediassa (äärioikeistolainen vastamedia) julkaistua”;
+> * ”äärioikeistolaisen LifeSiteNews-sivuston”;
+> * ”Mainwaring kritisoi äärioikeistolaisissa blogikirjoituksissaan”;
+> * ”Mainwaringiin viittaaminen vastaa sitä, että Trumpin twiiteistä alettaisiin lukea viimeisimpiä tiedeuutisia”;
+> * ”arvosteltu voimakkaasti”;
+> * ”Puolimatkan oma kirjoittelu sen sijaan on uhka akateemiselle tutkimuksen ja opetuksen vapaudelle”;
+> * ”Takametsien Tapsa, joka suoltaa tajunnanvirtaa someen”,
+> * ”tendenssimäinen kuvailu”,
+> * ”vastenmielisin jakso”;
+> * ”antaa täysin väärän kuvan”;
+> * ”Puolimatkan oma mielikuvituksellinen päätelmä”;
+> * ”antaa täysin virheellisen kuvan”;
+> * ”antaa taulukon sisällöstä täysin puutteellisen kuvan”;
+> * ”ihmetyttää suuresti”;
+> * ”Väite ei pidä paikkaansa vähäisimmässäkään määrin”;
+> * ”Vaikuttava huipennus artikkelin väitteelle – mutta totta vain mielikuvitusmaailmassa”;
+> * ”sisältöä on kuvattu monessa kohdassa räikeästi väärin – – yksipuolisesti – – tai muuten harhaanjohtavasti”;
+> * ”suoria lainauksia lyhennetään tarkoitushakuisesti”;
+> * ”tutkimusta vääristellään”;
+> * ”käytettyjen julkaisujen lähempi tarkastelu osoittaa, että monet niistä ovat todellisuudessa homovastaisia”;
+> * ”käyttämät lähteet osoittautuvat voittopuolisesti sukupuolisia vähemmistöjä halveksiviksi ja syrjiviksi”;
+> * ”artikkeli maalaa parin kontekstistaan irrotetun ja jopa väärän sitaatin avulla hyvin negatiivisen kuvan”;
+> * ”Puolimatka mustamaalaa”;
+> * ”tarjoaa auktoriteettiin ja häpeään kouluttavaa mallia”.
 
 Puolimatka kehottaa lukijoita itse arvioimaan, missä määrin tuollaiset luonnehdinnat edustavat objektiivisuutta ja tasapuolisuutta. Puolimatkan mukaan Luomanen puhuu tekstissään asian vierestä ja verhoaa omat poliittiset ja maailmankatsomukselliset ennakkoluulonsa näennäisesti tieteelliseen ilmaisuun. "Hän yhdistää tähän retoriikkaa, jonka mukaan sellainen tutkija, joka tukeutuu Luomasen poliittisesti epäkorrekteina pitämiin henkilöihin, lähteisiin ja julkaisualustoihin, ei ole pelkästään väärässä, vaan hän on uhka tieteellisen tutkimuksen ja opetuksen vapaudelle."
 
@@ -763,9 +763,9 @@ Puolimatka vastasi Dahlille ja Vikströmille Vasabladetissa (16.8. 2018):
 
 ### Aiheesta muualla
 
-*[Alfa-studio: Onko demokratia vaarassa?](http://www.permanto.fi/fi/web/alfatv/player/vod?assetId=10763988)
-*[Alfa-studio: Pedofilia ja abortti](http://www.permanto.fi/fi/web/alfatv/player/vod?assetId=10903040i)
-*[TV7: Konservatiiviset uutiset](http://www.tv7.fi/vod/player/64244/)
+* [Alfa-studio: Onko demokratia vaarassa?](http://www.permanto.fi/fi/web/alfatv/player/vod?assetId=10763988)
+* [Alfa-studio: Pedofilia ja abortti](http://www.permanto.fi/fi/web/alfatv/player/vod?assetId=10903040i)
+* [TV7: Konservatiiviset uutiset](http://www.tv7.fi/vod/player/64244/)
 
 #### ApologetiikkaWiki
 * [Avioliitto](avioliitto.md)

@@ -140,6 +140,10 @@ def _written_pages() -> dict[str, str]:
 
 WRITTEN_PAGES = _written_pages()
 
+# A wikitext bullet, tagged before inline markup runs (see convert()).
+BULLET = "\x02"
+BULLET_RE = r"^(\x02+)[ \t]*(.*)$"
+
 # Red-link targets with a reviewed Finnish Wikipedia page (apowiki_redlinks.py).
 _RLW = Path(__file__).resolve().parent / "red-link-wikipedia.json"
 RED_LINK_WIKIPEDIA: dict[str, str | None] = (
@@ -832,6 +836,10 @@ class Converter:
                 level = min(len(m.group(1)) + 1, 6)
                 out.append("#" * level + " " + m.group(2))
                 continue
+            m = re.match(BULLET_RE, s)
+            if m:
+                out.append("  " * (len(m.group(1)) - 1) + "* " + m.group(2))
+                continue
             # A wikitext bullet is `* text`. This runs AFTER inline markup, so
             # `'''Foo'''` is already `**Foo**`; a greedy `^\*+` would turn a
             # bold lead sentence into a list item and eat one of its markers.
@@ -869,6 +877,11 @@ class Converter:
                 continue
             out.append(s)
         text = "\n".join(out)
+        # A bullet inside a quote template sits after its "> " prefix.
+        text = re.sub(r"^((?:> )+)(\x02+)[ \t]*",
+                      lambda m: m.group(1) + "  " * (len(m.group(2)) - 1)
+                      + "* ", text, flags=re.M)
+        text = text.replace(BULLET, "*")
         text = re.sub(r"\n{3,}", "\n\n", text)
         return text
 
@@ -1013,6 +1026,13 @@ class Converter:
         body, cats = self.categories(body)
         body = self.tables(body)
         body, notes = self.extract_refs(body)
+        # In wikitext a line-initial "*" is always a bullet, with or without
+        # a space ("*[[Väärä kompositio]]"). Once inline markup has run it
+        # cannot be told from markdown italics, so 1 627 such lines in 470
+        # articles stayed "*text" and never became lists (until 2026-10-02).
+        # Tag the bullet prefix now; blocks() turns it into "* ".
+        body = re.sub(r"^\*+", lambda m: BULLET * len(m.group(0)), body,
+                      flags=re.M)
         body = self.expand_templates(body)
         body = self.inline_markup(body)
         body = self.blocks(body)

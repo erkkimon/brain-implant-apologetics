@@ -4,7 +4,7 @@ about: apologetics
 title: "Ufot"
 description: "Viime vuosina elokuvateollisuus on entistä voimakkaammin ammentanut aiheita Ufoista, paranormaaleista ilmiöistä, ulkoavaruuden muukalaisista ja muista vastaavista yliluonnollisista tai muuten oudoista teemoista."
 tags: [apowiki, paranormaalit-ilmiöt]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ufot".
@@ -207,10 +207,10 @@ Ufo-ilmiöllä ja Raamatun mukaan demoniseksi luokiteltavilla ilmiöillä vaikut
 
 ### Katso myös
 #### ApologetiikkaWiki
-*[Okkultismi](okkultismi.md)
+* [Okkultismi](okkultismi.md)
 <!--
 #### Internet
-*[Matti Kankaanniemi: X-files ja hengellinen todellisuus](http://gamma.nic.fi/~shn/tekstit/ufot.htm)
+* [Matti Kankaanniemi: X-files ja hengellinen todellisuus](http://gamma.nic.fi/~shn/tekstit/ufot.htm)
 -->
 ### Viitteet
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Viisauden ja tiedon aarteet Kristuksessa (kirja)"
 description: "Viisauden ja tiedon aarteet on Tapio Puolimatkan kirjoittama kirja, joka vertailee aikamme keskeisiä maailmankatsomuksia niiden yhteiskunnallisen hedelmän perusteella."
 tags: [apowiki, kirjat]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Viisauden ja tiedon aarteet Kristuksessa (kirja)".
@@ -38,89 +38,89 @@ Jeesuksen maailmanhistoriallinen merkitys herättää kysymyksen: Kuka oli Jeesu
 
 ### Kirjan sisällysluettelo
 
-*Esipuhe
-*Johdanto
+* Esipuhe
+* Johdanto
 
 #### OSA I: KRISTUKSESTA LUOPUVAN KULTTUURIN RISTIRIITAISUUS
 
 * 1. Jumalvaisto
 * 2. Lapset ovat synnynnäisiä uskovaisia
-**2.1. Indoktrinaatiohypoteesin kumoutuminen
-**2.2. Usko Jumalaan on luontaista ihmiselle
-*3. Ihminen torjuu tiedon Jumalasta
-**3.1 Mielen sulkeutuminen
-**3.2. Jumalan kieltämisen vaikutukset
-**3.3. Jumalvaiston hämärtyminen
-**3.4. Kahtiajaettu maailma
-*4. Itsepetoksen ongelma
-**4.1. Itsepetostaipumus kristikunnassa
-**4.2. Itsepetostaipumus islamissa
-**4.3. Itsepetostaipumus ateismissa
-**4.4. Ihmisen haluttomuus tunnustaa itsepetostaan
-**4.5. Mahdollisuus ei takaa totuutta
-**4.6. Evoluutiopsykologia ei kumoa teismiä
-**4.7. Naturalistisia pelkistysyrityksiä
-**4.8. Hataria evoluutiotarinoita
-**4.9. Luontainen jumalausko on Jumalan luomistyötä
-**4.10. Piilotajunta ja sen avautuminen
-**4.11. Kooste
-*5. Pahuuden noidankehä
-**5.1. Identiteetin löytäminen ja sen kadottaminen
-**5.2. Nautintoa etsivän elostelijan [helvetti](helvetti.md)
-**5.3. Uhman ja epätoivon kehä
-**5.4. Esimerkkinä Mao Zedong
-**5.5. Kooste
+  * 2.1. Indoktrinaatiohypoteesin kumoutuminen
+  * 2.2. Usko Jumalaan on luontaista ihmiselle
+* 3. Ihminen torjuu tiedon Jumalasta
+  * 3.1 Mielen sulkeutuminen
+  * 3.2. Jumalan kieltämisen vaikutukset
+  * 3.3. Jumalvaiston hämärtyminen
+  * 3.4. Kahtiajaettu maailma
+* 4. Itsepetoksen ongelma
+  * 4.1. Itsepetostaipumus kristikunnassa
+  * 4.2. Itsepetostaipumus islamissa
+  * 4.3. Itsepetostaipumus ateismissa
+  * 4.4. Ihmisen haluttomuus tunnustaa itsepetostaan
+  * 4.5. Mahdollisuus ei takaa totuutta
+  * 4.6. Evoluutiopsykologia ei kumoa teismiä
+  * 4.7. Naturalistisia pelkistysyrityksiä
+  * 4.8. Hataria evoluutiotarinoita
+  * 4.9. Luontainen jumalausko on Jumalan luomistyötä
+  * 4.10. Piilotajunta ja sen avautuminen
+  * 4.11. Kooste
+* 5. Pahuuden noidankehä
+  * 5.1. Identiteetin löytäminen ja sen kadottaminen
+  * 5.2. Nautintoa etsivän elostelijan [helvetti](helvetti.md)
+  * 5.3. Uhman ja epätoivon kehä
+  * 5.4. Esimerkkinä Mao Zedong
+  * 5.5. Kooste
 
 #### OSA II: HEDELMÄSTÄ PUU TUNNETAAN
 
-*6. Pako mielikuvien luomaan korviketodellisuuteen
-**6.1. Propaganda
-***6.1.1. Yhteisölliset ennakko-oletukset
-***6.1.2. Myytit
-***6.1.3. Ideologia
-**6.2. Kristillinen propaganda
-**6.3. Islamilainen propaganda
-**6.4. Leninistinen uskonnonvastainen propaganda
-**6.5. Richard Dawkins – uusateistisen propagandan mestari
-**6.6. Mielikuvien valta
-**6.7. Myytit ja kouluopetus
-*7.  Maailmankatsomuksen vaikutus ihmisen kohteluun
-**7.1.  Myytti Jumalasta luopuvan kulttuurin kehityksestä
-**7.2. Lapsen asema
-***7.2.1. Pakanalliset lapsiuhrit
-***7.2.2. Raamatun suhde lapsiuhreihin
-***7.2.3. Antiikin suhtautuminen lapsiin
-***7.2.4. Juutalaisuuden ja kristinuskon suhtautuminen lapsiin
-***7.2.5. Maallistuneen kulttuurin lapsiuhrit
-***7.2.6. Materialismin harharetkiä
-***7.2.7. Äidit ja tyttäret
-**7.3. Hyvinvointiyhteiskunta pienoiskoossa
-**7.4. [Ristiretket](ristiretket.md)
-**7.5. Uskonnonvapaus ja valtion pakkovalta
-**7.6. [Noitavainot](noitavainot.md)
-**7.7. Orjuus
-**7.8. Oikeudenmukaisen ja demokraattisen yhteiskunnan synty
-**7.9. Kooste
-*8. Kulttuurien vaikutus tiedon kehitykseen
-**8.1. Myytti tieteen ja uskonnon välisestä konfliktista
-**8.2. Myytti antiikin tieteen kuolemasta kristikunnassa
-**8.3. Islamin merkitys kulttuurin ja tieteen kehitykselle
-**8.4. Myytti ”pimeästä keskiajasta”
-**8.5. Myytti tieteellisestä vallankumouksesta
-***8.5.1. Tiede, filosofia ja teologia
-***8.5.2. Keskiaikaisen tutkimustyön merkitys
-***8.5.3. Myytti ihmisen aseman muutoksesta
-**8.6. Valistuksen myytti
-**8.7. Newtonin kristillisen vakaumuksen valistukselle tuottama ongelma
-**8.8. Evoluutio ja uskonto
-**8.9. Darwin ja luonnollinen teologia
-**8.10. Kooste
-*9. Hedelmästään puu tunnetaan
-*Liite: Evolutiivisia teorioita uskonnon alkuperästä
-**Onko uskonto evolutiivinen sopeuma?
-**Meemien mytologiaa
-**Ihmisen älylliset työkalut synnyttävät uskon Jumalaan
-*Kirjallisuusluettelo
+* 6. Pako mielikuvien luomaan korviketodellisuuteen
+  * 6.1. Propaganda
+    * 6.1.1. Yhteisölliset ennakko-oletukset
+    * 6.1.2. Myytit
+    * 6.1.3. Ideologia
+  * 6.2. Kristillinen propaganda
+  * 6.3. Islamilainen propaganda
+  * 6.4. Leninistinen uskonnonvastainen propaganda
+  * 6.5. Richard Dawkins – uusateistisen propagandan mestari
+  * 6.6. Mielikuvien valta
+  * 6.7. Myytit ja kouluopetus
+* 7.  Maailmankatsomuksen vaikutus ihmisen kohteluun
+  * 7.1.  Myytti Jumalasta luopuvan kulttuurin kehityksestä
+  * 7.2. Lapsen asema
+    * 7.2.1. Pakanalliset lapsiuhrit
+    * 7.2.2. Raamatun suhde lapsiuhreihin
+    * 7.2.3. Antiikin suhtautuminen lapsiin
+    * 7.2.4. Juutalaisuuden ja kristinuskon suhtautuminen lapsiin
+    * 7.2.5. Maallistuneen kulttuurin lapsiuhrit
+    * 7.2.6. Materialismin harharetkiä
+    * 7.2.7. Äidit ja tyttäret
+  * 7.3. Hyvinvointiyhteiskunta pienoiskoossa
+  * 7.4. [Ristiretket](ristiretket.md)
+  * 7.5. Uskonnonvapaus ja valtion pakkovalta
+  * 7.6. [Noitavainot](noitavainot.md)
+  * 7.7. Orjuus
+  * 7.8. Oikeudenmukaisen ja demokraattisen yhteiskunnan synty
+  * 7.9. Kooste
+* 8. Kulttuurien vaikutus tiedon kehitykseen
+  * 8.1. Myytti tieteen ja uskonnon välisestä konfliktista
+  * 8.2. Myytti antiikin tieteen kuolemasta kristikunnassa
+  * 8.3. Islamin merkitys kulttuurin ja tieteen kehitykselle
+  * 8.4. Myytti ”pimeästä keskiajasta”
+  * 8.5. Myytti tieteellisestä vallankumouksesta
+    * 8.5.1. Tiede, filosofia ja teologia
+    * 8.5.2. Keskiaikaisen tutkimustyön merkitys
+    * 8.5.3. Myytti ihmisen aseman muutoksesta
+  * 8.6. Valistuksen myytti
+  * 8.7. Newtonin kristillisen vakaumuksen valistukselle tuottama ongelma
+  * 8.8. Evoluutio ja uskonto
+  * 8.9. Darwin ja luonnollinen teologia
+  * 8.10. Kooste
+* 9. Hedelmästään puu tunnetaan
+* Liite: Evolutiivisia teorioita uskonnon alkuperästä
+  * Onko uskonto evolutiivinen sopeuma?
+  * Meemien mytologiaa
+  * Ihmisen älylliset työkalut synnyttävät uskon Jumalaan
+* Kirjallisuusluettelo
 
 ### Viitteet
 
@@ -130,14 +130,14 @@ Jeesuksen maailmanhistoriallinen merkitys herättää kysymyksen: Kuka oli Jeesu
 
 #### Internet
 
-*[Miikka Niiranen: Kirja-arvio Tapio Puolimatkan kirjasta Viisauden ja tiedon aarteet Kristuksessa. Areiopagi 12.11](https://www.areiopagi.fi/2013/11/arvio-tapio-puolimatka-viisauden-ja-tiedon-aarteet-kristuksessa/).
+* [Miikka Niiranen: Kirja-arvio Tapio Puolimatkan kirjasta Viisauden ja tiedon aarteet Kristuksessa. Areiopagi 12.11](https://www.areiopagi.fi/2013/11/arvio-tapio-puolimatka-viisauden-ja-tiedon-aarteet-kristuksessa/).
 
 #### Apologetiikkawiki
 
-*[Helvetti](helvetti.md)
+* [Helvetti](helvetti.md)
 * [Ihmisoikeudet](ihmisoikeudet.md)
 * [Kristityt luonnontieteilijät](kristityt-luonnontieteilijät.md)
-*[Noitavainot](noitavainot.md)
-*[Ristiretket](ristiretket.md)
+* [Noitavainot](noitavainot.md)
+* [Ristiretket](ristiretket.md)
 
 [^1]: Jellema 1951: 121

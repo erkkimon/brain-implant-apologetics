@@ -4,7 +4,7 @@ about: apologetics
 title: "Messias-ennustukset"
 description: "Vanhassa testamentissa on useita kohtia, jotka ovat kristittyjen ja messiaanisten juutalaisten näkemyksen mukaan profetioita Jeesuksesta."
 tags: [apowiki, jeesus]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-02T10:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Messias-ennustukset".
@@ -962,7 +962,7 @@ Toteutuminen Uudessa testamentissa:
 > — ([Ilm. 5:12-14](../books/rev.md))
 
 ### Katso myös
-*[Jeesus Nasaretilainen](jeesus-nasaretilainen.md)
+* [Jeesus Nasaretilainen](jeesus-nasaretilainen.md)
 * [The Messiah in the Tanakh](https://www.catholicsforisrael.com/articles/messiah-of-israel/49-the-messiah-in-the-tanakh). Aiempi Messias-ennustusten koonti selitysten kera (englanniksi).
 
 ### Viitteet
