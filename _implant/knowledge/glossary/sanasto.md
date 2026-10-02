@@ -4,7 +4,7 @@ about: apologetics
 title: "Sanasto — ApoWikin virallinen sanasto"
 description: "ApoWiki's official Finnish glossary: 413 terms with the definitions ApoWiki articles use them in, struck-through senses marked as usage ApoWiki avoids. The fixed term list for translation."
 tags: [apowiki, glossary, sanasto, terminology, translation]
-timestamp: 2026-10-02T08:00:00Z
+timestamp: 2026-10-02T17:30:00Z
 half_life: 0
 ---
 <!--
@@ -115,6 +115,8 @@ English: **ad hoc**
 <a id="ad-hoc-hypoteesi"></a>
 
 ### ad hoc -hypoteesi
+
+English: **ad hoc hypothesis**
 
 - [hypoteesi](#hypoteesi) joka hyväksytään puhtaasti [teorian](#teoria) pelastamiseksi vaikeuksilta tai kumoamiselta, ilman mitään itsenäistä perustetta
 
@@ -452,6 +454,8 @@ English: **authority**
 
 ### biodiversiteetti
 
+English: **biodiversity**
+
 - biologinen [diversiteetti](#diversiteetti)
 - luonnon eliö[lajien](#laji) monimuotoisuus
 
@@ -608,11 +612,15 @@ English: **dualism**
 
 ### ekologia
 
+English: **ecology**
+
 - oppi luonnon taloudesta
 
 <a id="ekologinen-lokero"></a>
 
 ### ekologinen lokero
+
+English: **ecological niche**
 
 - "ekolokero"
 - [eliölajin](#laji) tai -[populaation](#populaatio) paikka [eliöyhteisössä](#eliöyhteisö) ravinnon, tilan ja muiden resurssien suhteen
@@ -856,6 +864,8 @@ English: **ethics**
 
 ### evolutiivinen
 
+English: **evolutionary**
+
 - [evoluutioon](#evoluutio) liittyvä
 - [evoluutioon](#evoluutio) perustuva
 - [evoluutiolla](#evoluutio) selittyvä
@@ -1016,11 +1026,15 @@ English: **gene**
 
 ### geenipooli
 
+English: **gene pool**
+
 - [lajin](#laji) tai eliö[populaation](#populaatio) kaikkien [geenien](#geeni) erilaisten muotojen eli [alleelien](#alleeli) joukko
 
 <a id="geneettinen-materiaali"></a>
 
 ### geneettinen materiaali
+
+English: **genetic material**
 
 - [kromosomeista](#kromosomi) ja [plasmideista](#plasmidi) koostuva orgaaninen aines, joka sisältää [eliön](#eliö) [geenit](#geeni)
 
@@ -1042,6 +1056,8 @@ English: **gene**
 <a id="homologia"></a>
 
 ### homologia
+
+English: **homology**
 
 - yhteisestä kantamuodosta johtuva elinten, fysiologisten rakenteiden tai biokemiallisten [molekyylien](#molekyyli) samankaltaisuus
 
@@ -1849,6 +1865,8 @@ English: **molecule**
 
 ### monomeeri
 
+English: **monomer**
+
 - pieni [molekyyli](#molekyyli), joka voi sitoutua [kovalenttisin sidoksin](#kovalenttinen-sidos) toisiin monomeereihin muodostaen [polymeerin](#polymeeri) (kreik. mono "yksi" ja meros "osa")
 
 <a id="moraali"></a>
@@ -2135,6 +2153,8 @@ English: **properly basic belief**
 
 ### polveutuminen
 
+English: **descent**
+
 - jälkeläisten synty vanhemmistaan ja vanhempiensa välityksellä esivanhemmistaan
 
 <a id="polveutumisoppi"></a>
@@ -2149,6 +2169,8 @@ English: **common descent**
 <a id="polymeeri"></a>
 
 ### polymeeri
+
+English: **polymer**
 
 - [molekyyli](#molekyyli), jossa useat pienet molekyylit eli [monomeerit](#monomeeri) ovat liittyneet toisiinsa [kovalenttisin sidoksin](#kovalenttinen-sidos) pitkäksi ketjumaiseksi molekyyliksi.
 
@@ -2345,6 +2367,8 @@ English: **Q source**
 
 ### radikaali
 
+English: **radical**
+
 - perinpohjainen, perusteellinen
 - äärimmäisyyksiin menevä
 - yltiöpäinen
@@ -2375,6 +2399,8 @@ English: **rational**
 <a id="realismi"></a>
 
 ### realismi
+
+English: **realism**
 
 - todellisuudentaju, todellisuuden huomioon ottaminen
 - [ontologian](#ontologia) suuntaus, jonka mukaan ulkoinen todellisuus on olemassa havaitsijoista riippumatta
@@ -2443,6 +2469,8 @@ English: **rhetoric**
 
 ### ribotsyymi
 
+English: **ribozyme**
+
 - [RNA](#rna)-[molekyyli](#molekyyli), joka toimii [entsyyminä](#entsyymi)
 
 <a id="rintalastan-harja"></a>
@@ -2454,6 +2482,8 @@ English: **rhetoric**
 <a id="rna"></a>
 
 ### RNA
+
+English: **RNA**
 
 - ribonukleiinihappo
 - [ribonukleotidien](#ribonukleotidi) [polymeeri](#polymeeri)
@@ -2590,6 +2620,8 @@ English: **supernaturalism**
 <a id="surkastunut-elin"></a>
 
 ### surkastunut elin
+
+English: **vestigial organ**
 
 - elin, joka on menettänyt polveutumishistoriansa aikana alkuperäisen toimintonsa, ja jolla ei ole muuta toimintoa, tai jonka toiminto on rakenteeseen nähden liian vähäinen. Surkastuneet elimet ovat rappeutuneet koska ne ovat tarpeettomia ja jopa haitallisia. Kiistattomia esimerkkejä surkastuneista elimistä ovat esimerkiksi sokeiden luolakalojen silmät ja tuulisten saarten hyönteisten siivet.
 

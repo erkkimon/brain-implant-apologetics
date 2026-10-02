@@ -4,7 +4,7 @@ about: apologetics
 title: "English renderings of ApoWiki's glossary terms"
 description: "The translation contract: the one fixed English rendering of each ApoWiki glossary (Sanasto) term, so every translated article says the same thing the same way. Edited by hand, read by apowiki_glossary.py and by the translation check."
 tags: [glossary, sanasto, translation, terminology, english]
-timestamp: 2026-10-02T08:00:00Z
+timestamp: 2026-10-02T17:30:00Z
 half_life: 0
 ---
 
@@ -180,6 +180,22 @@ and the next translation batch picks the correction up.
 | alleeli | allele | |
 | solu | cell | |
 | verkkokalvo | retina | |
+| ekologia | ecology | |
+| homologia | homology | shared ancestry, the biological sense |
+| biodiversiteetti | biodiversity | |
+| surkastunut elin | vestigial organ | |
+| realismi | realism | |
+| radikaali | radical | |
+| polveutuminen | descent | as in "common descent" |
+| evolutiivinen | evolutionary | |
+| RNA | RNA | |
+| ribotsyymi | ribozyme | |
+| polymeeri | polymer | |
+| monomeeri | monomer | |
+| geneettinen materiaali | genetic material | |
+| geenipooli | gene pool | |
+| ekologinen lokero | ecological niche | |
+| ad hoc -hypoteesi | ad hoc hypothesis | |
 
 ## Left free on purpose
 
@@ -203,3 +219,11 @@ Batch 3 (atheism, 2026-10-02) left these free for the same reasons: *eliö*,
 *verifioitavuus*, "verifiability"), *totuudellisuus*, *professuuri*,
 *emeritus-*, *emerita-*, *emeritusprofessori* ("emeritus professor" and
 "professor emeritus" are both right).
+
+Batch 4 (evolution, 2026-10-02) left these free: *termi*, *elementti*,
+*fakta*, *täsmennys*, *intuitiivinen*, *retorinen* and *orgaaninen* are
+everyday words the model renders well. *surkastuma* has no row because its
+stem also catches the adjective *surkastunut* ("vestigial"), which a noun
+rendering would fail. The row for *surkastunut elin* carries the sense.
+*synteesi* has none either, because its stem catches *synteettinen*,
+whose English ("synthetic") does not contain "synthesis".
