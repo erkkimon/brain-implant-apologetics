@@ -4,7 +4,7 @@ about: apologetics
 title: "Suunnitteluteoria ja kreationismi"
 description: "Jo etymologiansakin mukaan kreationismin perustava käsite on erityinen luominen; suunnitteluteorian perustava käsite taas on älyllinen suunnittelu."
 tags: [apowiki, luomisoppi, suunnitteluteoria]
-timestamp: 2026-10-02T07:00:00Z
+timestamp: 2026-10-02T14:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Suunnitteluteoria ja kreationismi".
@@ -28,7 +28,7 @@ Vuonna 1989 ilmestyi kouluopetukseen tarkoitettu teos *Of Pandas and People*, jo
 
 ### Keskeisten toimijoiden oma kanta
 
-Älykkään suunnittelun liikkeen edustajat (esimerkiksi [Phillip Johnson](../pages/phillip-johnson.md), [Michael Behe](michael-behe.md) ja [William Dembski](william-dembski.md)) eivät lue itseään kreationisteiksi, eivätkä tunnetut kreationistit (kuten esimerkiksi Henry Morris <!-- red link: Henry Morris --> ja [Duane Gish](https://fi.wikipedia.org/wiki/Duane_Gish) <!-- red link: Duane Gish -->) puolestaan pidä suunnitteluteoreetikkoja kreationisteina. Tämä johtuu siitä, että älykkään suunnittelun teoria ei ota kantaa maapallon ikään eikä rakenna tieteellistä luomismallia Raamatun perusteella, joten ei ole perusteltua kutsua sitä kreationismiksi. Älykkään suunnittelun lukeminen kreationismiksi onkin älyllisesti yhtä rehellistä kuin SDP-puolueen kutsuminen kommunismiksi. Tyypillisesti evoluution puolustajat käyttävät tällaisia epärehellisiä taktiikoita suojatakseen oman kantansa suunnitteluteoreettiselta kritiikiltä.
+Älykkään suunnittelun liikkeen edustajat (esimerkiksi [Phillip Johnson](../pages/phillip-johnson.md), [Michael Behe](michael-behe.md) ja [William Dembski](william-dembski.md)) eivät lue itseään kreationisteiksi, eivätkä tunnetut kreationistit (kuten esimerkiksi [Henry Morris](https://en.wikipedia.org/wiki/Henry_M._Morris) <!-- red link: Henry Morris --> ja [Duane Gish](https://fi.wikipedia.org/wiki/Duane_Gish) <!-- red link: Duane Gish -->) puolestaan pidä suunnitteluteoreetikkoja kreationisteina. Tämä johtuu siitä, että älykkään suunnittelun teoria ei ota kantaa maapallon ikään eikä rakenna tieteellistä luomismallia Raamatun perusteella, joten ei ole perusteltua kutsua sitä kreationismiksi. Älykkään suunnittelun lukeminen kreationismiksi onkin älyllisesti yhtä rehellistä kuin SDP-puolueen kutsuminen kommunismiksi. Tyypillisesti evoluution puolustajat käyttävät tällaisia epärehellisiä taktiikoita suojatakseen oman kantansa suunnitteluteoreettiselta kritiikiltä.
 
 ### Naturalistinen kiilastrategia ja kulttuurin tulevaisuus
 

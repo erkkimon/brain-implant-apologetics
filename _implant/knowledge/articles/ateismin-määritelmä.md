@@ -4,7 +4,7 @@ about: apologetics
 title: "Ateismin määritelmä"
 description: "Kuvittele, että sinulta kysyttäisiin, uskotko hattivattien olemassaoloon."
 tags: [apowiki, ateismi]
-timestamp: 2026-10-02T05:00:00Z
+timestamp: 2026-10-02T14:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ateismin määritelmä".
@@ -71,7 +71,7 @@ Filosofi [Michael Scriven](https://en.wikipedia.org/wiki/Michael_Scriven) <!-- r
 | 6. Vahvoja todisteita puolesta eikä mitään todisteita vastaan. Todistuva tavanomaisessa mielessä | Moderni teisti |
 | 7. Suoraan todistuva vastaansanomattomilla tosiasioilla | Vanhakantainen teisti |
 
-Michael Martinin tavoin myös filosofi Paul Edwards <!-- red link: Paul Edwards --> on tietoisesti poikennut määritelmästä, jonka mukaan ateisti pitää jumalan olemassaoloa koskevaa lausetta J epätotena. Hän määrittelee ateistin henkilönä, joka hylkää jumalauskon. Tällöin hylkäyksellä voi olla muitakin perusteita kuin J:n epätotena pitäminen. Michael Martin toteaa, että negatiivisen ateismin käsite on laajempi kuin Edwardsin ateismin käsite, sillä negatiivisen ateismin käsite lukee ateisteiksi myös henkilöt, joita yksinkertaisesti puuttuu usko jumalaan, eikä tämän uskon puuttumisen tarvitse olla tulosta uskon hylkäämisestä. Ilkka Niiniluodon mukaan tässä suhteessa Kari Saaren ateismin määritelmä näytön puuttumisesta seuraavana uskon puuttumisena on lähempänä Edwardsia kuin Martinia.
+Michael Martinin tavoin myös filosofi [Paul Edwards](https://en.wikipedia.org/wiki/Paul_Edwards_(philosopher)) <!-- red link: Paul Edwards --> on tietoisesti poikennut määritelmästä, jonka mukaan ateisti pitää jumalan olemassaoloa koskevaa lausetta J epätotena. Hän määrittelee ateistin henkilönä, joka hylkää jumalauskon. Tällöin hylkäyksellä voi olla muitakin perusteita kuin J:n epätotena pitäminen. Michael Martin toteaa, että negatiivisen ateismin käsite on laajempi kuin Edwardsin ateismin käsite, sillä negatiivisen ateismin käsite lukee ateisteiksi myös henkilöt, joita yksinkertaisesti puuttuu usko jumalaan, eikä tämän uskon puuttumisen tarvitse olla tulosta uskon hylkäämisestä. Ilkka Niiniluodon mukaan tässä suhteessa Kari Saaren ateismin määritelmä näytön puuttumisesta seuraavana uskon puuttumisena on lähempänä Edwardsia kuin Martinia.
 
 Ateistin määrittelemistä jumalankieltäjäksi on Suomessa vastustanut esimerkiksi [Kari Saari](https://fi.wikipedia.org/wiki/Kari_Saari) <!-- red link: Kari Saari -->[^14] Arvostellessaan *Vapaa Ajattelija* -lehdessä 4/90[^15] [Ilkka Niiniluodon](https://fi.wikipedia.org/wiki/Ilkka_Niiniluoto) <!-- red link: Ilkka Niiniluoto --> ja Anssi Kuuselan kirjoittamaa [elämänkatsomustiedon](https://fi.wikipedia.org/wiki/Elämänkatsomustieto) <!-- red link: elämänkatsomustieto --> oppikirjaa[^16] Kari Saari piti tätä määritelmää *”erittäin pahana virheenä”* ja sen sijaan ateisti tulisi määritellä *”henkilöksi, joka ei usko jumalan olemassaoloon”*, jolloin ateismi on *”näytön puuttumisesta seuraavaa uskon puuttumista”*.[^17]
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Jumalharha (kirja)"
 description: "Jumalharha (The God Delusion, 2006) on uusateismin huomattavimman saarnamiehen Richard Dawkinsin kirjoittama uskontokriittinen kirja, jossa Dawkins yrittää osoittaa teismin irrationaalisuuden."
 tags: [apowiki, kirjat, ateismi, richard-dawkins, jumala]
-timestamp: 2026-10-02T13:30:00Z
+timestamp: 2026-10-02T14:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jumalharha (kirja)".
@@ -143,7 +143,7 @@ Yhdysvalloissa nuori mies teki itsemurhan luettuaan Dawkinsin kirjan.[^8] Pojan 
 Dawkins oli toistuvasti osallistunut kirjansa aiheista järjestettyihin väittelytilaisuuksiin mutta kuitenkin kieltäytynyt väittelemästä ainakaan johtaviin uskonnonfilosofeihin lukeutuvan [William Lane Craigin](william-lane-craig.md) kanssa[^9]; lopulta hän kuitenkin suostui kolmimiehisin joukkuein järjestettyyn ryhmäväittelyyn, jossa myös Craig oli mukana,[^10] mutta kieltäytyi pitämästä sitäkään Craigin kanssa väittelemisenä[^11]. Väittelyvideoita:
 
 *Kuva: [video*](https://youtu.be/zF5bPI92-5o)
-* The God Delusion: David Quinn <!-- red link: David Quinn --> & [Richard Dawkins](richard-dawkins.md) debate: [Youtube](https://youtu.be/OXf9A4wJ3lk)
+* The God Delusion: [David Quinn](https://en.wikipedia.org/wiki/David_Quinn_(columnist)) <!-- red link: David Quinn --> & [Richard Dawkins](richard-dawkins.md) debate: [Youtube](https://youtu.be/OXf9A4wJ3lk)
 * The Dawkins [Lennox](john-lennox.md) Debate: [video](https://youtu.be/zF5bPI92-5o), [väittelyn järjestäjän sivusto](https://larryalextaunton.com/debates-2/)
 
 ### Viitteet

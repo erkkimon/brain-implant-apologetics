@@ -4,7 +4,7 @@ about: apologetics
 title: "Roger Scruton"
 description: "Sir Roger Vernon Scruton, Britannian akatemian jäsen; 27 helmikuutta 1944 – 12."
 tags: [apowiki, henkilöt, seksuaalietiikka]
-timestamp: 2026-10-02T03:00:00Z
+timestamp: 2026-10-02T14:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Roger Scruton".
@@ -113,7 +113,7 @@ Scruton väittää, Immanuel Kantia seuraten, että ihmisissä on tuopuoleinen u
 
 Totalitarismissa keskusvallalle ei ole rajoituksia ja se hallitsee kaikkia elämän puolia. Totalitarismin puolustavat saavat voimansa katkeruusta ja vallan saatuaan he pyrkivät kumoamaan instituutiot kuten lain, yksityisomistuksen, ja uskonnon. Scruton kirjoittaa: "Katkerien mielestä nämä kolme instituutiota ovat epätasa-arvon syitä ja siksi syitä heidän nöyryytyksilleen ja epäonnistumisilleen." Hän väittää, että vallankumouksia ei toteuteta alhaalta päin, kansan toimesta, vaan ylhäältä päin, kansan nimissä, valtaa tavoittelevan eliitin toimesta.[^68]
 
-Scruton suggests that the importance of [Newspeak](https://fi.wikipedia.org/wiki/Uuskieli) <!-- red link: Newspeak --> in totalitarian societies is that the power of language to describe reality is replaced by language whose purpose is to avoid encounters with realities. He agrees with Alain Besançon <!-- red link: :fr:Alain Besançon --> that the totalitarian society envisaged by [George Orwell](https://fi.wikipedia.org/wiki/George_Orwell) in *[Nineteen Eighty-Four](https://fi.wikipedia.org/wiki/Vuonna_1984) <!-- red link: Nineteen Eighty-Four -->* (1949) can be only understood in theological terms, as a society founded on a transcendental negation. In accordance with T. S. Eliot, Scruton believes that true originality is only possible within a tradition, and that it is precisely in modern conditions—conditions of fragmentation, heresy, and unbelief—that the conservative project acquires its sense.[^69]
+Scruton suggests that the importance of [Newspeak](https://fi.wikipedia.org/wiki/Uuskieli) <!-- red link: Newspeak --> in totalitarian societies is that the power of language to describe reality is replaced by language whose purpose is to avoid encounters with realities. He agrees with [Alain Besançon](https://en.wikipedia.org/wiki/Alain_Besançon) <!-- red link: :fr:Alain Besançon --> that the totalitarian society envisaged by [George Orwell](https://fi.wikipedia.org/wiki/George_Orwell) in *[Nineteen Eighty-Four](https://fi.wikipedia.org/wiki/Vuonna_1984) <!-- red link: Nineteen Eighty-Four -->* (1949) can be only understood in theological terms, as a society founded on a transcendental negation. In accordance with T. S. Eliot, Scruton believes that true originality is only possible within a tradition, and that it is precisely in modern conditions—conditions of fragmentation, heresy, and unbelief—that the conservative project acquires its sense.[^69]
 
 Scruton considers that religion plays a basic function in "endarkening" human minds. "Endarkenment" is Scruton's way of describing the process of socialization through which certain behaviours and choices are closed off and forbidden to the subject, which he considers necessary to curb socially damaging impulses and behaviour.[^70][^71]
 

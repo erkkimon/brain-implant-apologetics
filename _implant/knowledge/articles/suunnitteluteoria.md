@@ -4,7 +4,7 @@ about: apologetics
 title: "Suunnitteluteoria"
 description: "Ainahan voi väittää, että rinta viiden luodinreiän lävistämänä makaavan miehen kuolema oli sittenkin luonnollinen."
 tags: [apowiki, suunnitteluteoria, id-teoria, älykkään-suunnittelun-teoria, älykkään-suunnitelman-teoria, älyllisen-suunnittelun-teoria, älykäs-suunnitelma, älykäs-suunnittelu, älyllinen-suunnittelu, optimaalinen-suunnittelu, aito-suunnittelu, näennäissuunnittelu, tarkoituksellisuuspäättely]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T14:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Suunnitteluteoria".
@@ -296,7 +296,7 @@ Suunnitteluteoria voi olla hyödyllinen myös kristityn oman uskon kannalta. Kri
 [^23]: Kojonen, Rope, *Kertooko luonnon järjestys suunnittelusta?*, Michael Behe älykkään suunnittelun ajatuksen puolustajana, Helsingin Yliopisto, 2008, s. 20 (*Intelligent Design -liikkeen ja kreationismin suhteen määrittely riippuu tarkoista määritelmistä.*)
 [^24]: Kojonen, Rope, *Kertooko luonnon järjestys suunnittelusta?*, Michael Behe älykkään suunnittelun ajatuksen puolustajana, Helsingin Yliopisto, 2008, s. 19 (*Pelkällä suunnitteluargumentilla ei kuitenkaan voi osoittaa - - että Luoja olisi kristinuskon kolmiyhteinen Jumala, vaikka suuri osa Intelligent Design -liikkeen kannattajista näin uskookin.*)
 [^25]: Kojonen, Rope, *Kertooko luonnon järjestys suunnittelusta?*, Michael Behe älykkään suunnittelun ajatuksen puolustajana, Helsingin Yliopisto, 2008, s. 10
-[^26]: Nathan Frankowski, *Expelled: No Intelligent Allowed <!-- red link: Expelled: No Intelligent Allowed -->*, Premise Media Corporation, 2007
+[^26]: Nathan Frankowski, *[Expelled: No Intelligent Allowed](https://en.wikipedia.org/wiki/Expelled:_No_Intelligence_Allowed) <!-- red link: Expelled: No Intelligent Allowed -->*, Premise Media Corporation, 2007
 [^27]: [William A. Dembski](william-dembski.md), *Älykkään suunnitelman idea*, [Datakirjat](http://datakirjatkustannus.fi), 2002, s. 195
 [^29]: [Top 10 Darwin and Design News Stories for 2008](http://www.arn.org/top10/2008newsstories.pdf), [Access Research Network](http://www.arn.org), 22.12.2008, 2. Atheists and Agnostics Defend ID., viitattu 28.12.2008
 [^30]: Science, [Breakthrough of the Year: Reprogramming Cells](http://science.sciencemag.org/content/322/5909/1766.1), American Association for the Advancement of Science., 19.12.2008, **Breakthrough of the Year: Reprogramming Cells** By inserting genes that turn back a cell's developmental clock, researchers are gaining insights into disease and the biology of how a cell decides its fate., viitattu 31.12.2008
