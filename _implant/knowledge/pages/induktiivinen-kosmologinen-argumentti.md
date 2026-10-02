@@ -5,7 +5,7 @@ title: "Induktiivinen kosmologinen argumentti"
 aliases: ["induktiivinen kosmologinen argumentti"]
 description: "Induktiivinen kosmologinen argumentti on Richard Swinburnen muotoilu, jonka mukaan maailmankaikkeuden olemassaolo tekee Jumalan olemassaolosta todennäköisemmän."
 tags: [argumentit, written-here]
-timestamp: 2026-10-02T02:30:00Z
+timestamp: 2026-10-02T04:48:34Z
 ---
 <!--
 Written for this implant, not converted from ApoWiki: ApoWiki's article
@@ -19,7 +19,7 @@ Fall 2026 edition (archived, so the text is pinned).
 *Aihepiirit: [Argumentit](../topics/argumentit.md), [Filosofia](../topics/filosofia.md).*
 
 **Induktiivinen kosmologinen argumentti** on [kosmologisen argumentin](../articles/kosmologinen-argumentti.md)
-muoto, jonka Richard Swinburne esitti teoksessaan *The Existence of God*
+muoto, jonka [Richard Swinburne](richard-swinburne.md) esitti teoksessaan *The Existence of God*
 (1979, 2. painos 2004).[^1] ApoWikin mukaan sen ydin on, että
 maailmankaikkeuden monimutkaisuus antaa induktiivista tukea yksinkertaisen
 Jumalan olemassaololle.[^2]

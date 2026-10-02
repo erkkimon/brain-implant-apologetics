@@ -51,6 +51,8 @@ procedure is [Write a wanted page](../../skills/write-a-wanted-page.md).
 
 ## The arguments for God
 
+* [Richard Swinburne](richard-swinburne.md): the Oxford philosopher of
+  religion behind the probabilistic case, cited in eight articles.
 * [Induktiivinen kosmologinen argumentti](induktiivinen-kosmologinen-argumentti.md):
   Swinburne's probabilistic version.
 * [Leibnizilaiset kosmologiset argumentit](leibnizilaiset-kosmologiset-argumentit.md):
