@@ -21,6 +21,8 @@ procedure is [Write a wanted page](../../skills/write-a-wanted-page.md).
   *The Privileged Planet*.
 * [Michael Denton](michael-denton.md): the biochemist whose 1985 book set
   Behe doubting.
+* [Evolution: A Theory in Crisis](evolution-a-theory-in-crisis-kirja.md):
+  that book (1985), with its reception; cited in four articles.
 * [Paul Nelson](paul-nelson.md): philosopher of science, design theorist
   and young-earth creationist.
 * [Myytti apinaihmisistä](myytti-apinaihmisistä-kirja.md): the Finnish
