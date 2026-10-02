@@ -4,7 +4,7 @@ about: apologetics
 title: "Yliluonnollinen"
 description: "Yliluonnollisella tarkoitetaan yleensä luonnolaeista riippumatonta, luonnontieteellisesti selittämätöntä ja normaalin tai luonnollisen rajat ylittävää."
 tags: [apowiki, paranormaalit-ilmiöt, lukusuositukset]
-timestamp: 2026-10-02T10:30:00Z
+timestamp: 2026-10-02T16:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Yliluonnollinen".
@@ -189,7 +189,7 @@ Myös väite ”…ei voida periaatteessakaan testata” on kyseenalainen. Mist�
 [^5]: Gasson R (1966), Challenging Counterfeit, Logos, Springfield
 [^6]: Folz Joe (1981) Psychic Healers of the Philippines, Logos, Plainfield
 [^7]: Michaelsson Johanna (1982) Beutiful Side of Evil, Harvest House, Eugene, Oregon
-[^8]: Matti Kankaanniemi on käsitellyt aihetta tarkemmin 2007 kirjoittamassaan kirjassa Voimat vastakkain <!-- red link: Voimat vastakkain (kirja) -->, jonka hän kirjoitti yhdessä ex-saatananpalvoja Päivi Niemen kanssa.
+[^8]: Matti Kankaanniemi on käsitellyt aihetta tarkemmin 2007 kirjoittamassaan kirjassa [Voimat vastakkain](../pages/voimat-vastakkain-kirja.md), jonka hän kirjoitti yhdessä ex-saatananpalvoja Päivi Niemen kanssa.
 [^9]: Psykoanalyyttisesta possession tulkinnasta kts. Lietaer Hugo and Jozef Corveleyn ”Psychoanalytical Interpretation of the Demoniacal Possession and the Mystical Development of Sister Jeanne des Anges From Loudun (1605-1665)” International Journal for the Psychology of Religion, Vol 5, No 4, 1995, ss. 259-276
 [^10]: Rukouspalvelijan ajattelutapaan johdattaa Riihimäen pro gradu työ: Riihimäki Sirpa 1997, Tänään täällä paranee joku – Suomalaisen rukousparantamisen folkloristista tarkastelua, Jyväskylän yliopistopaino
 [^11]: Miettinen Matti A. (1990) Uskonnolliset ihmeparantumiset lääketieteellispsykologisesta näkökulmasta, Kirkon tutkimuskeskus, Sarja A, Nro 51,
