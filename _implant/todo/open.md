@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to be done — the implant's live work queue.
-timestamp: 2026-10-02T03:30:00Z
+timestamp: 2026-10-02T06:00:00Z
 ---
 
 # Open
@@ -42,7 +42,7 @@ testaments in `knowledge/books/`, each pointing at the theology spine.
 ## Phase 5+ — Daily iteration (token work, one batch per cooldown burst)
 
 - [ ] Before each translation batch, fill `knowledge/glossary/english.md` rows for the glossary terms that batch uses (293 of 413 terms still lack one; `apowiki_translate.py --dry-run` lists them per chunk). Batch 1's rows are in Batch 2's rows (God and the arguments, 28 rows) were added 2026-10-02; 120 of 413 terms now have English.
-- [ ] Batch 1 (design theory, 6 articles; william-dembski landed and reviewed 2026-10-01). Since 2026-10-02 the rest run with batch 2 as `_temp/run-batches.sh` (two passes, log `_temp/batches.log`) on a private llama-server (`_temp/llama-server.log`; see the translate skill, step 4), because the shared Ollama sat on another job's embedding model. Restart: start llama-server again, then `setsid nohup _temp/run-batches.sh`. It skips finished articles. When an article lands in `_temp/translations/`: review it against the Finnish, `apowiki_land.py`, commit.
+- [ ] Batch 1 (design theory, 6 articles; william-dembski landed and reviewed 2026-10-01, teleologinen-argumentti 2026-10-02). Since 2026-10-02 the rest run with batch 2 as `_temp/run-batches.sh` (two passes, log `_temp/batches.log`) on a private llama-server (`_temp/llama-server.log`; see the translate skill, step 4), because the shared Ollama sat on another job's embedding model. Restart: start llama-server again, then `setsid nohup _temp/run-batches.sh`. It skips finished articles. When an article lands in `_temp/translations/`: review it against the Finnish, `apowiki_land.py`, commit.
 - [ ] Batch 2 (God and the arguments, 13 articles, about 15 500 words; *alvin-plantinga*, 12 000 words, gets a run of its own later): runs after batch 1 in `_temp/run-batches.sh`. Glossary rows done. Review and land as for batch 1.
 - [ ] Per batch: machine-translate one themed slice to English → improve that slice (ground claims, close its red links, enrich links) → commit. Themed, not alphabetical.
 - [ ] Create the pages the graph asks for, per the [wanted-page skill](../skills/write-a-wanted-page.md). Done on 2026-10-02 (knowledge/pages/): Paul Nelson, Michael Denton, Discovery Institute, *Älykkään suunnitelman idea*, Guillermo Gonzalez, Jay W. Richards, Stanley Jaki. Batch 2's: the three cosmological-argument subtypes (2026-10-02). Red links with no Finnish Wikipedia page fall back to the English one (117 targets, 2026-10-02). Next: the most-linked bare targets of each theme as its batch comes up (`_temp/convert-report.json` lists them after a convert run). *Nasaretilaisen haaste* (5 links, Kankaanniemi 2000, ISBN 952-5374-00-9) belongs with the Jesus batch and needs a library record; Finna's API answered scripted requests with a Cloudflare challenge. The 330 others link to Finnish Wikipedia but stay wanted. Do it with the translation batch that touches the theme, since a new page is token work
