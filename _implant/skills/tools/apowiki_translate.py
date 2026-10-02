@@ -82,7 +82,11 @@ Finnish text:
 # ---------------------------------------------------------------------------
 
 def _stem(word: str) -> str:
-    return word[:-2] if len(word) > 5 else word
+    # Keep at least five letters: "kaanon" cut to "kaan" matched stray
+    # "-kaan" particles, and "teoria" cut to "teor" matched "teoreettinen",
+    # whose English ("theoretical") cannot contain "theory". Both failed
+    # correct chunks (2026-10-02).
+    return word[:max(5, len(word) - 2)] if len(word) > 5 else word
 
 
 def glossary_rules() -> list[tuple[re.Pattern, str, str]]:
