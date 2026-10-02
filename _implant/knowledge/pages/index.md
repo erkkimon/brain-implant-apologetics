@@ -72,3 +72,10 @@ procedure is [Write a wanted page](../../skills/write-a-wanted-page.md).
   assessment of Richard Dawkins's work (2005; Finnish 2006).
 * [Dawkins-harha?](dawkins-harha-kirja.md): Alister and Joanna Collicutt
   McGrath's reply to *The God Delusion* (2007; Finnish 2008).
+
+## C. S. Lewis
+
+* [Paholaisen kirjeopisto](paholaisen-kirjeopisto-kirja.md): *The Screwtape
+  Letters* (1942), Lewis's breakthrough.
+* [Muistiinpanoja surun ajalta](muistiinpanoja-surun-ajalta-kirja.md): *A Grief
+  Observed* (1961), on grief after his wife's death.
