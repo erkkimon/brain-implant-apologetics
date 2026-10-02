@@ -5,7 +5,7 @@ title: "Michael Denton"
 aliases: ["Michael J. Denton"]
 description: "Michael Denton (s. 1943) on brittiläinen biokemisti ja lääkäri, jonka kirja Evolution: A Theory in Crisis (1985) vaikutti suunnitteluteorian syntyyn."
 tags: [henkilöt, written-here]
-timestamp: 2026-10-02T00:00:00Z
+timestamp: 2026-10-03T00:00:00Z
 ---
 <!--
 Written for this implant, not converted from ApoWiki: ApoWiki links to
@@ -26,7 +26,7 @@ laitoksella Uudessa-Seelannissa.[^1] Hän on Discovery-instituutin tieteen ja
 kulttuurin keskuksen ([Discovery Institute](discovery-institute.md))
 vanhempi jäsen ja on kuvannut itseään agnostikoksi.[^1]
 
-Dentonin kirja *Evolution: A Theory in Crisis* (1985) arvosteli
+Dentonin kirja [*Evolution: A Theory in Crisis*](evolution-a-theory-in-crisis-kirja.md) (1985) arvosteli
 uusdarwinismia paleontologian, homologian, molekyylibiologian ja biokemian
 näkökulmista ja esitti, että luonnossa on merkkejä suunnittelusta.[^1] Kirja
 vaikutti Phillip E. Johnsoniin ja [Michael Beheen](../articles/michael-behe.md).[^1]
@@ -41,7 +41,7 @@ jossa elämä kehittyy lainomaisesti.[^1]
 
 ## Teoksia
 
-* *Evolution: A Theory in Crisis*. Adler & Adler, 1985. ISBN 0-917561-52-X
+* [*Evolution: A Theory in Crisis*](evolution-a-theory-in-crisis-kirja.md). Adler & Adler, 1985. ISBN 0-917561-52-X
 * *Nature's Destiny: How the Laws of Biology Reveal Purpose in the Universe*. Free Press, 1998. ISBN 0-7432-3762-5
 * *Evolution: Still a Theory in Crisis*. Discovery Institute, 2016. ISBN 978-1936599325
 

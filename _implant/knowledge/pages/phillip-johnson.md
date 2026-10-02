@@ -5,7 +5,7 @@ title: "Phillip Johnson"
 aliases: ["Phillip E. Johnson", "Philip Johnson"]
 description: "Phillip E. Johnson (1940–2019) oli yhdysvaltalainen oikeustieteen professori, Darwin on Trial -kirjan kirjoittaja ja suunnitteluteoriaa ajavan liikkeen johtohahmoja."
 tags: [henkilöt, written-here]
-timestamp: 2026-10-02T07:00:00Z
+timestamp: 2026-10-03T00:00:00Z
 ---
 <!--
 Written for this implant, not converted from ApoWiki: ApoWiki links to
@@ -32,14 +32,14 @@ isäksi".[^1]
 Johnsonista tuli 38-vuotiaana uudestisyntynyt kristitty. Hänen mukaansa
 käänne tutkimustyössä tuli, kun hän luki sapattivapaallaan Englannissa
 [Richard Dawkinsin](../articles/richard-dawkins.md) kirjan *The Blind
-Watchmaker* ja [Michael Dentonin](michael-denton.md) kirjan *Evolution: A
-Theory in Crisis*.[^1] Hän lähestyi evoluutiokiistaa biologin sijaan
+Watchmaker* ja [Michael Dentonin](michael-denton.md) kirjan [*Evolution: A
+Theory in Crisis*](evolution-a-theory-in-crisis-kirja.md).[^1] Hän lähestyi evoluutiokiistaa biologin sijaan
 juristina, jonka erikoisalaa on argumenttien logiikan ja niiden taustaoletusten
 erittely.[^1]
 
-Johnsonin kirja *Darwin on Trial* ilmestyi vuonna 1991. Sitä seurasivat muun
+Johnsonin kirja [*Darwin on Trial*](darwin-on-trial-kirja.md) ilmestyi vuonna 1991. Sitä seurasivat muun
 muassa *Reason in the Balance* (1995), *Defeating Darwinism by Opening Minds*
-(1997) ja *The Wedge of Truth* (2000).[^1] Johnson vastusti "täysin
+(1997; suomeksi [*Evoluution maailmankuva*](evoluution-maailmankuva-kirja.md)) ja *The Wedge of Truth* (2000).[^1] Johnson vastusti "täysin
 naturalistista evoluutiota" ja haki kannatusta
 [kiila-strategialleen](../articles/kiila-strategia.md).[^1][^2] Kriitikoista
 Eugenie Scott kirjoitti, että *Darwin on Trial* "opettaa vain vähän
