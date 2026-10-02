@@ -2,7 +2,7 @@
 type: skill
 title: Convert ApoWiki wikitext into implant articles
 description: Use when turning the ApoWiki export in raw/apowiki-export/ into searchable articles under knowledge/ — the deterministic, token-free conversion that produces the MVP, including wiki-link resolution, citation footnotes and the topic spine that grounds every page.
-timestamp: 2026-10-02T13:30:00Z
+timestamp: 2026-10-02T16:00:00Z
 depends_on: [skills/using-the-brain-implant.md]
 tools:
   - skills/tools/apowiki_convert.py
@@ -94,7 +94,8 @@ references linked to their book pages, zero ghosts.
   leading colon, underscores and `#section` are stripped first, and runs of
   whitespace collapse to one space, as MediaWiki does. A link that is only a
   misspelling of an existing article (*kosminen hienösäätö*) is listed by
-  hand in `RED_LINK_TYPOS` in the converter. It is never guessed, because
+  hand in `RED_LINK_TYPOS` in the converter. A bare book title also tries
+  its "(kirja)" article, the suffix ApoWiki gives book pages. It is never guessed, because
   fuzzy matching pairs unrelated arguments
   ([journal](../journals/2026-10-02.md)).
 * **A red link to a glossary term lands on the glossary.** When ApoWiki

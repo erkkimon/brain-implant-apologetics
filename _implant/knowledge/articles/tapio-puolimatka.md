@@ -4,7 +4,7 @@ about: apologetics
 title: "Tapio Puolimatka"
 description: "Timo Tapio Puolimatka (KT, VTT) toimii kasvatustieteen teorian ja tradition professorina Jyväskylän yliopistossa."
 tags: [apowiki, henkilöt, tapio-puolimatka]
-timestamp: 2026-10-02T03:00:00Z
+timestamp: 2026-10-02T16:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tapio Puolimatka".
@@ -257,7 +257,7 @@ Tapio Puolimatkan ajattelu ei yleisestä harhaluulosta huolimatta ole jyrkän kr
 * *[Yhteiskuntakoe lapsilla?](yhteiskuntakoe-lapsilla-kirja.md)*, Kuva ja Sana, 2016, ISBN 978-951-585-316-5
 * *[Seksuaalivallankumous: perheen ja kulttuurin romahdus](seksuaalivallankumous-perheen-ja-kulttuurin-romahdus-kirja.md)*, Perussanoma, 2017, ISBN-13: 9789518887945
 * *[Seksuaalivallankumouksen uskonnolliset juuret](seksuaalivallankumouksen-uskonnolliset-juuret-kirja.md)*, KKJMK, 2018, ISBN-13: 9789527058923
-* *Sukupuoli muutoksessa <!-- red link: Sukupuoli muutoksessa -->*, Päivä Osakeyhtiö, 2019, ISBN-13: 9789524759786
+* *[Sukupuoli muutoksessa](sukupuoli-muutoksessa-kirja.md)*, Päivä Osakeyhtiö, 2019, ISBN-13: 9789524759786
 
 ### Katso myös
 #### Internet

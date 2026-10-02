@@ -4,7 +4,7 @@ about: apologetics
 title: "Matti Leisola"
 description: "Matti Leisola on bioprosessitekniikan emeritusprofessori. Lisäksi hän on toiminut Aalto-yliopiston teknillisen korkeakoulun (TKK) kemian ja materiaalitieteiden tiedekunnan dekaanina vuoteen 2011 asti."
 tags: [apowiki, henkilöt, suunnitteluteoria, evoluutiokritiikki]
-timestamp: 2026-10-02T01:00:00Z
+timestamp: 2026-10-02T16:00:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Matti Leisola".
@@ -102,7 +102,7 @@ Leisolaa on haastateltu vuonna 1995 Ylen v. 1998 televisioimaan [*Evoluution syv
 * *[Evoluutio - Kriittinen analyysi](evoluutio-kriittinen-analyysi-kirja.md)*, Siegfried Scherer, Reinhard Junker. Datakirjat Oy 2000.
 * *Pieniä kertomuksia suurista asioista*, Wilhelm Busch. Datakirjat Oy 2002.
 * *[Älykkään suunnitelman idea - silta luonnontieteen ja teologian välillä](../pages/älykkään-suunnitelman-idea-kirja.md)*, W. A. Dembski. Datakirjat Oy 2002.
-* *Myytti apinaihmisistä <!-- red link: Myytti apinaihmisistä -->*, Marvin L. Lubenow. Datakirjat Oy 2005.
+* *[Myytti apinaihmisistä](../pages/myytti-apinaihmisistä-kirja.md)*, Marvin L. Lubenow. Datakirjat Oy 2005.
 * *Bioprosessitekniikka*, Esa Aittomäki ym., WSOY 2002.
 * *Evoluutiouskon ihmemaassa*, Datakirjat Oy, 2013, 978-951-98558-7-5
 

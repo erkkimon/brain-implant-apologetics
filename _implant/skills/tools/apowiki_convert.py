@@ -471,6 +471,13 @@ class Converter:
             return ""
 
         real = self.resolve_title(target)
+        if real is None and not target.strip().endswith("(kirja)"):
+            # ApoWiki names its book articles "Title (kirja)" but often links
+            # the bare title: "Sukupuoli muutoksessa" was red in Puolimatka's
+            # bibliography while its article existed (until 2026-10-02).
+            real = self.resolve_title(target.strip() + " (kirja)")
+            if real is not None:
+                self.stats["link_book_suffix"] += 1
         if real is None and target.strip() in RED_LINK_TYPOS:
             real = self.resolve_title(RED_LINK_TYPOS[target.strip()])
             if real is not None:

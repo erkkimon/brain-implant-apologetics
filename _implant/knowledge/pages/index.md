@@ -23,6 +23,9 @@ procedure is [Write a wanted page](../../skills/write-a-wanted-page.md).
   Behe doubting.
 * [Paul Nelson](paul-nelson.md): philosopher of science, design theorist
   and young-earth creationist.
+* [Myytti apinaihmisistä](myytti-apinaihmisistä-kirja.md): the Finnish
+  edition of Lubenow's book on hominid fossils (2005), from Leisola's
+  Datakirjat.
 * [Phillip Johnson](phillip-johnson.md): law professor, author of *Darwin
   on Trial*, a founder of the design movement.
 * [Stanley Jaki](stanley-jaki.md): Benedictine priest and physicist,
