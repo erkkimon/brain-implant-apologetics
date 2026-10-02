@@ -70,3 +70,5 @@ procedure is [Write a wanted page](../../skills/write-a-wanted-page.md).
 
 * [Dawkinsin jumala](dawkinsin-jumala-kirja.md): Alister McGrath's
   assessment of Richard Dawkins's work (2005; Finnish 2006).
+* [Dawkins-harha?](dawkins-harha-kirja.md): Alister and Joanna Collicutt
+  McGrath's reply to *The God Delusion* (2007; Finnish 2008).
