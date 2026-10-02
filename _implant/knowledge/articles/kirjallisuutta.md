@@ -4,7 +4,7 @@ about: apologetics
 title: "Kirjallisuutta"
 description: "Alla hyvää kirjallisuutta kristinuskon perusteluihin tutustumiseen."
 tags: [apowiki, yleistä-tietoa, kirjat]
-timestamp: 2026-10-02T04:21:00Z
+timestamp: 2026-10-02T04:33:20Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kirjallisuutta".
@@ -86,7 +86,7 @@ Alla hyvää kirjallisuutta [kristinuskon perusteluihin](kristinuskon-perustelut
 
 #### Muut maailmankatsomukset
 ##### Naturalismi, materialismi, ateismi
-* Agents Under Fire: Materialism and the Rationality of Science <!-- red link: Agents Under Fire: Materialism and the Rationality of Science (kirja) -->, Angus Menuge
+* [Agents Under Fire: Materialism and the Rationality of Science](../pages/agents-under-fire-kirja.md), Angus Menuge
 * [I Don't Have Enough Faith to Be an Atheist](i-dont-have-enough-faith-to-be-an-atheist-kirja.md), Norman Geisler ja Frank Turek
 
 ##### [Islam](islam.md)
