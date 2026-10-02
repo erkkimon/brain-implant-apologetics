@@ -140,6 +140,14 @@ def _written_pages() -> dict[str, str]:
 
 WRITTEN_PAGES = _written_pages()
 
+# Red links that are only misspellings of an article ApoWiki has. A typo is
+# an editorial fix, so each one is listed here by hand rather than guessed
+# by fuzzy matching (which would pair "homologia-argumentti" with
+# "kosmologinen-argumentti"). Raw wikitext keeps the original spelling.
+RED_LINK_TYPOS = {
+    "kosminen hienösäätö": "kosminen hienosäätö",  # jumalharha-kirja
+}
+
 # A wikitext bullet, tagged before inline markup runs (see convert()).
 BULLET = "\x02"
 BULLET_RE = r"^(\x02+)[ \t]*(.*)$"
@@ -359,6 +367,9 @@ class Converter:
             # and friends), and treat underscores as spaces, as MediaWiki does.
             cur = re.sub(r"[\u200b-\u200f\u202a-\u202e\ufeff]", "",
                          cur).replace("_", " ").strip()
+            # MediaWiki also collapses runs of whitespace in a title, so
+            # "World Without Design  (kirja)" was a working link on ApoWiki.
+            cur = re.sub(r"\s+", " ", cur)
             if cur.startswith(":"):
                 cur = cur[1:].strip()
             cur = cur.split("#", 1)[0].strip()
@@ -460,6 +471,10 @@ class Converter:
             return ""
 
         real = self.resolve_title(target)
+        if real is None and target.strip() in RED_LINK_TYPOS:
+            real = self.resolve_title(RED_LINK_TYPOS[target.strip()])
+            if real is not None:
+                self.stats["link_typo_fixed"] += 1
         if real is None:
             # A biblical book the wiki never wrote an article for still has a
             # page: the book spine (apowiki_books.py). Land the link there

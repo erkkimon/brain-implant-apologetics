@@ -4,7 +4,7 @@ about: apologetics
 title: "Naturalismi"
 description: "Naturalismi on monimerkityksinen käsite, joka voi tarkoittaa monia erilaisia asioita."
 tags: [apowiki, maailmankatsomus]
-timestamp: 2026-09-25T23:00:00Z
+timestamp: 2026-10-02T13:30:00Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Naturalismi".
@@ -24,7 +24,7 @@ Naturalismi on monimerkityksinen käsite, joka voi tarkoittaa monia erilaisia as
 
 Naturalismi voidaan ymmärtää [tutkimusohjelmaksi](tutkimusohjelma.md). [Naturalistisen tutkimusohjelman](naturalistinen-tutkimusohjelma.md) mukaan luotettavia tiedon lähteitä ovat sellaiset havainnot, jotka voidaan julkisesti tarkistaa, sekä rationaalisen päättelyn ja teorian valinnan periaatteet. Naturalismin vaihtoehtoja tässä merkityksessä ovat intuitionistinen ja [supranaturalistinen tutkimusohjelma](supranaturalistinen-tutkimusohjelma.md).
 
-[Michael C. Rea](michael-c-rea.md) ymmärtää naturalismin näin ja argumentoi kirjassaan World Without Design <!-- red link: World Without Design  (kirja) -->, että naturalisti ei voi tiedollisesti oikeutetulla tavalla uskoa tajunnan ulkopuolisten esineiden tai muiden tajuisten olentojen olemassaoloon.
+[Michael C. Rea](michael-c-rea.md) ymmärtää naturalismin näin ja argumentoi kirjassaan [World Without Design](world-without-design-kirja.md), että naturalisti ei voi tiedollisesti oikeutetulla tavalla uskoa tajunnan ulkopuolisten esineiden tai muiden tajuisten olentojen olemassaoloon.
 
 ### Naturalistinen maailmankatsomus
 
