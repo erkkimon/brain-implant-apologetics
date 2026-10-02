@@ -4,7 +4,7 @@ about: apologetics
 title: "Jumalharha (kirja)"
 description: "Jumalharha (The God Delusion, 2006) on uusateismin huomattavimman saarnamiehen Richard Dawkinsin kirjoittama uskontokriittinen kirja, jossa Dawkins yrittää osoittaa teismin irrationaalisuuden."
 tags: [apowiki, kirjat, ateismi, richard-dawkins, jumala]
-timestamp: 2026-10-02T04:36:05Z
+timestamp: 2026-10-02T04:49:53Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jumalharha (kirja)".
@@ -125,7 +125,7 @@ Yhdysvalloissa nuori mies teki itsemurhan luettuaan Dawkinsin kirjan.[^8] Pojan 
 <!--*[piispa Eero Huovisen juttu uusateismista](http://www.helsinginhiippakunta.evl.fi/piispa/helsingin_hiippakunnan_piispat/eero_huovinen/puheenvuoroja/?x20117=31485)-->
 * McGrath, Alister & McGrath, Joanna Collicutt, *Dawkins-harha? Ateistinen fundamentalismi ja jumalallisen olemassaolon kieltäminen*, (The Dawkins delusion? Atheist fundamentalism and the denial of the divine, 2007.) Suomentanut Jani Kurki, Cranite, 2008, ISBN 978-952-92-4259-7
 <!--*Alister McGrathin keskustelu aiheesta kuunneltavissa: http://www.veritas.org/media/talks/496-->
-* Eco, Umberto & Martini, Carlo Maria, *[Mihin uskot jos et usko?](https://fi.wikipedia.org/wiki/Mihin_uskot_jos_et_usko?) <!-- red link: Mihin uskot jos et usko? -->*, (In cosa crede chi non crede?, 1996.) Suomentanut Lea Peuronpuro, Kirja-Aurora, 2002, ISBN 951-29-2298-3
+* Eco, Umberto & Martini, Carlo Maria, *[Mihin uskot jos et usko?](https://fi.wikipedia.org/wiki/Mihin_uskot_jos_et_usko%3F) <!-- red link: Mihin uskot jos et usko? -->*, (In cosa crede chi non crede?, 1996.) Suomentanut Lea Peuronpuro, Kirja-Aurora, 2002, ISBN 951-29-2298-3
 * McGrath, Alister, *[Dawkinsin jumala: Geenit, meemit ja elämän tarkoitus](../pages/dawkinsin-jumala-kirja.md)*, (Dawkins' God: Genes, memes, and the meaning of life, 2005.) Suomentanut Kirsi Nisula, Kirjapaja, 2006, ISBN 951-607-279-8
 * Puolimatka, Tapio, *Usko, tiede ja Raamattu*, 3. painos 2008, Uusi tie, 2007, ISBN 978-951-619-467-0 (teoksessa virh. ISBN 978-951-619-497-0)
 * Puolimatka, Tapio, *Usko, tiede ja evoluutio*, Kustannus Oy Uusi Tie, 2008, ISBN 978-951-619-498-4

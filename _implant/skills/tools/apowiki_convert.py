@@ -143,6 +143,17 @@ def _written_pages() -> dict[str, str]:
 
 WRITTEN_PAGES = _written_pages()
 
+
+def wiki_url(lang: str, title: str) -> str:
+    """A Wikipedia URL for a title. A literal "?" would start the query
+    string ("Mihin uskot jos et usko?" opened the page without its question
+    mark), and "#" or "%" would misparse too, so those three are encoded;
+    the rest stays readable."""
+    t = title.strip().replace(" ", "_")
+    t = t.replace("%", "%25").replace("?", "%3F")
+    page, _, frag = t.partition("#")
+    return f"https://{lang}.wikipedia.org/wiki/{page}" + (f"#{frag}" if frag else "")
+
 # Red links that are only misspellings of an article ApoWiki has. A typo is
 # an editorial fix, so each one is listed here by hand rather than guessed
 # by fuzzy matching (which would pair "homologia-argumentti" with
@@ -439,8 +450,7 @@ class Converter:
                         return f"[{label}]({val}.md)"
                     elif kind == "wp":
                         self.stats["link_glossary_fallback"] += 1
-                        url = ("https://fi.wikipedia.org/wiki/"
-                               + val.replace(" ", "_"))
+                        url = wiki_url("fi", val)
                         return f"[{label}]({url})"
                     else:
                         self.stats["link_glossary_plain"] += 1
@@ -461,7 +471,7 @@ class Converter:
         # Interwiki: Finnish Wikipedia.
         if target.lower().startswith(("wp:", "w:")):
             page = target.split(":", 1)[1].strip()
-            url = "https://fi.wikipedia.org/wiki/" + page.replace(" ", "_")
+            url = wiki_url("fi", page)
             self.stats["link_wikipedia"] += 1
             return f"[{label}]({url})"
 
@@ -518,12 +528,12 @@ class Converter:
             wp = RED_LINK_WIKIPEDIA.get(target)
             if wp:
                 self.stats["link_red_to_wikipedia"] += 1
-                url = "https://fi.wikipedia.org/wiki/" + wp.replace(" ", "_")
+                url = wiki_url("fi", wp)
                 return f"[{label}]({url}) <!-- red link: {target} -->"
             wp = RED_LINK_WIKIPEDIA_EN.get(target)
             if wp:
                 self.stats["link_red_to_wikipedia_en"] += 1
-                url = "https://en.wikipedia.org/wiki/" + wp.replace(" ", "_")
+                url = wiki_url("en", wp)
                 return f"[{label}]({url}) <!-- red link: {target} -->"
             return f"{label} <!-- red link: {target} -->"
         self.stats["link_internal"] += 1
