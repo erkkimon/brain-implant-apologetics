@@ -40,6 +40,8 @@ procedure is [Write a wanted page](../../skills/write-a-wanted-page.md).
   Cambridge book that sets out the explanatory filter, cited in nine articles.
 * [Agents Under Fire](agents-under-fire-kirja.md): Menuge's 2004 book on
   materialism and the rationality of science; a catalogue-only page.
+* [God's Undertaker](gods-undertaker-kirja.md): John Lennox on science and
+  God (2007), cited for cosmic fine-tuning; a catalogue-only page.
 * [No Free Lunch](no-free-lunch-kirja.md): Dembski's sequel on specified
   complexity and evolutionary algorithms (2001–2002), cited in six articles.
 * [Evoluution maailmankuva](evoluution-maailmankuva-kirja.md): the Finnish

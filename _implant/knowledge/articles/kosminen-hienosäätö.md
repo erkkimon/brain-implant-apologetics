@@ -4,7 +4,7 @@ about: apologetics
 title: "Kosminen hienosäätö"
 description: "Kosmisella hienosäädöllä tarkoitetaan sitä havaittua tosiasiaa, että universumin rakenne ja fysiikan lakien rakenne ja erityisesti luonnonvakiot on täytynyt säätää todella tarkasti, jotta elämä olisi mahdollista."
 tags: [apowiki, kosmologia, suunnitteluteoria, lukusuositukset, hienosäätö, astrobiologia, kosminen, paikka, maapallo, linnunrata, kuu, aurinko, antrooppinen-periaate, kosminen-hienosäätö, fysiikan-lait, dna-koodi]
-timestamp: 2026-10-02T04:21:00Z
+timestamp: 2026-10-02T04:47:06Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Kosminen hienosäätö".
@@ -312,7 +312,7 @@ Todennäköisyys sille että lait olisivat oikein sokean sattuman kautta on ää
 
 #### Kirjallisuutta
 Suomeksi hienosäätöä on käsitelty kappaleen verran professori T. Puolimatkan kirjassa [Usko, tiede ja evoluutio](usko-tiede-ja-evoluutio-kirja.md).
-* J. Lennox, [God's Undertaker](https://en.wikipedia.org/wiki/John_Lennox) <!-- red link: God's Undertaker -->, Lion UK, 2007.
+* J. Lennox, [God's Undertaker](../pages/gods-undertaker-kirja.md), Lion UK, 2007.
 * H. Ross, Why the Universe is the Way it is?, Baker Books, 2008.
 * J. Barrow, F. Tipler, The Anthropic Cosmological Principle, Clarendon Press, 1986.
 * J. Leslie, Universes, Routledge, 1996.
