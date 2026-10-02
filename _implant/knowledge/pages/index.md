@@ -47,3 +47,5 @@ procedure is [Write a wanted page](../../skills/write-a-wanted-page.md).
   the corpus's most-linked red link.
 * [Voimat vastakkain](voimat-vastakkain-kirja.md): Kankaanniemi and
   Päivi Niemi on spiritual warfare (2007).
+* [Valokuva Jeesuksesta?](valokuva-jeesuksesta-kirja.md): Juha Hiltunen
+  on the Shroud of Turin (2009).
