@@ -2,7 +2,7 @@
 type: skill
 title: Translate an article into English
 description: "Use when translating a converted Finnish ApoWiki article into English: a small local model does the prose, ApoWiki's own glossary (Sanasto) fixes the terminology, and deterministic checks (links, footnotes, glossary terms) decide whether a chunk is accepted. Frontier-model tokens are spent only on review."
-timestamp: 2026-10-02T04:44:34Z
+timestamp: 2026-10-08T23:38:21Z
 depends_on: [skills/convert-apowiki-to-articles.md]
 tools:
   - skills/tools/apowiki_glossary.py
@@ -104,14 +104,14 @@ of them. Finnish is matched by word stem, so inflected forms (*naturalismin*,
    Finnish file from the run's start to now), carry the change over in
    review. Most such changes are formatting only, such as bullets that
    gained a space in [2026-10-02's converter
-   fix](../journals/2026-10-02.md); the wording rarely changes.
+   fix](../journals/archive/2026/10/2026-10-02.md); the wording rarely changes.
 6. **Land it:** `python3 skills/tools/apowiki_land.py _temp/translations/X.md …`.
    It copies the pages to `knowledge/en/` under the Finnish file name. It
    points article links at English pages where they exist and at
    `../articles/` where they do not, and it regenerates `en/index.md`.
    It also re-points a bracketed red link at a page written later in
    `knowledge/pages/` that answers it, as the converter does for the Finnish
-   page ([why](../journals/2026-10-02.md)).
+   page ([why](../journals/archive/2026/10/2026-10-02.md)).
    It is idempotent, so run it with no arguments to re-link after any change.
    The tool writes `lang: en`, `translated_from`, `translated_by` and
    `translation_status: machine` into the frontmatter, but leaves `title` and

@@ -2,9 +2,9 @@
 type: article
 about: apologetics
 title: "Evoluutio – kriittinen analyysi (kirja)"
-description: "Evoluutio – kriittinen analyysi on Siegfried Schererin ja Reinhard Junkerin kirjoittama kirja, joka arvostelee naturalistista) ja makroevolutiivista maailmankuvaa."
+description: "Evoluutio – kriittinen analyysi on Siegfried Schererin ja Reinhard Junkerin kirjoittama kirja, joka arvostelee naturalistista ja makroevolutiivista maailmankuvaa."
 tags: [apowiki, kirjat, evoluutioteoria]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-08T23:43:18Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Evoluutio – kriittinen analyysi (kirja)".

@@ -154,14 +154,101 @@ def wiki_url(lang: str, title: str) -> str:
     page, _, frag = t.partition("#")
     return f"https://{lang}.wikipedia.org/wiki/{page}" + (f"#{frag}" if frag else "")
 
-# Interwiki links whose Wikipedia page is a different concept that merely
-# shares the name. ApoWiki's [[wp:perusryhmä]] means the creationist
-# taxonomic unit (baramin), but Finnish Wikipedia's "Perusryhmä" is the
-# fundamental group of algebraic topology. Each entry is listed by hand,
-# verified against the article lead, and points at a page written here
-# ("pages/x") or at the right Wikipedia title ("wp:Title").
+# Interwiki links ([[wp:…]]) that do not land on what ApoWiki meant: a
+# page of the same name about a different concept (ApoWiki's
+# [[wp:perusryhmä]] is the creationist taxonomic unit, Finnish Wikipedia's
+# "Perusryhmä" is algebraic topology), a disambiguation page, a misspelled
+# title, or a person or place with no Finnish article. Found by an audit of
+# all direct links against the Wikipedia API (journal 2026-10-02 and
+# 2026-10-09). Each entry is listed by hand, its target's lead read against
+# ApoWiki's sentence, and points at a page written here ("pages/x"), the
+# right Finnish title ("wp:Title") or an English one ("en:Title"). Keys are
+# ApoWiki's link targets, lower-cased.
 WRONG_CONCEPT_INTERWIKI = {
     "perusryhmä": "pages/perusryhmä",
+    # Disambiguation pages, resolved by the sentence they sit in.
+    "agentti": "en:Agency (philosophy)",  # "kaikkivaltias agentti", a God who acts
+    "agrippa": "wp:Heinrich Cornelius Agrippa",  # Books of Occult Philosophy, 1532
+    "aikakirjat": "wp:Ensimmäinen aikakirja",  # Baal's prophets; 1 and 2 Chronicles share it
+    "analogia": "wp:Analogia (kielifilosofia)",  # the coin example as an analogy
+    "beroia": "wp:Beroia (Makedonia)",  # Acts 17:10
+    "carnegie": "wp:Carnegie-mitali",  # Lewis's medal for The Last Battle
+    "daniel": "wp:Daniel (Raamattu)",  # the prophet
+    "dualismi": "wp:Dualismi (filosofia)",  # beside theism and naturalism
+    "identiteetti": "wp:Identiteetti (psykologia)",  # dissociative identity disorder
+    "kesarea": "wp:Caesarea Maritima",  # Acts 8:40
+    "korona": "wp:Korona (Aurinko)",  # the sun's outer atmosphere
+    "kristillisdemokraatit": "wp:Suomen Kristillisdemokraatit",  # Pekka Reinikainen's party
+    "locke": "wp:John Locke",  # beside Spinoza and Leibniz
+    "matti saari": "wp:Kauhajoen koulusurmat#Ampuja",  # the Kauhajoki shooter
+    "makedonia": "wp:Makedonia (maantiede)",  # Acts 16:12
+    "migraatio": "wp:Geenivirta",  # a mechanism of hereditary variation
+    "mitä on tehtävä?": "wp:Mitä on tehtävä? (Lenin)",  # Lenin's pamphlet
+    "nebukadnessar": "wp:Nebukadressar II",  # besieged Jerusalem
+    "palestiina": "wp:Palestiina (alue)",  # the region
+    "pontus": "wp:Pontos",  # Pliny's province, c. 112
+    "reservaatti": "wp:Luonnonsuojelualue",  # "eläinreservaatti", a wildlife reserve
+    "rajatieto": "wp:Paranormaali ilmiö",  # seekers of the paranormal
+    "samaria": "wp:Samaria (alue)",  # Acts 8:1, the region
+    "syy": "wp:Kausaliteetti",  # a supernatural cause
+    "trauma": "wp:Psyykkinen trauma",  # healing traumas
+    "zenon": "wp:Zenon Kitionilainen",  # Stoic, beside Socrates and Epicurus
+    # Misspelled or renamed titles.
+    "abardeenin yliopisto": "wp:Aberdeenin yliopisto",
+    "alan feducia": "wp:Alan Feduccia",
+    "baruch spnoza": "wp:Baruch Spinoza",
+    "beltsassar": "wp:Belsassar",
+    "big bang -teoria": "wp:Alkuräjähdys",
+    "constantin-françois volney": "wp:Constantin François de Chassebœuf",
+    "homeopaattinen lääketiede": "wp:Homeopatia",
+    "israel-museo": "wp:Israelin kansallismuseo",
+    "jacques manod": "wp:Jacques Monod",
+    "josefus flavius": "wp:Josephus",
+    "karls ernst von baer": "wp:Karl Ernst von Baer",
+    "lynchburg": "wp:Lynchburg (Virginia)",
+    "motreal": "wp:Montreal",
+    "narnia-sarja": "wp:Narnian tarinat",
+    "positiivinen syrjintä": "wp:Positiivinen erityiskohtelu",
+    "ristin voitto": "wp:Ristin Voitto",
+    "saint andrewsin yliopisto": "wp:St Andrewsin yliopisto",
+    "tarso": "wp:Tarsos",
+    "teolgoia": "wp:Teologia",
+    # No Finnish article; the English one is about the same subject.
+    "bec": "en:Bec Abbey",  # Anselm's Benedictine abbey
+    "brooke foss westcott": "en:Brooke Foss Westcott",
+    "charles françois dupuis": "en:Charles-François Dupuis",
+    "earl doherty": "en:Earl Doherty",
+    "fenton john anthony hort": "en:F. J. A. Hort",
+    "herluin": "en:Herluin of Bec",
+    "lanfranc": "en:Lanfranc",
+    "maurice a. robinson": "en:Maurice A. Robinson",
+    "novum testamentum graece": "en:Novum Testamentum Graece",
+    "pere alberch": "en:Pere Alberch",
+    "robert m. price": "en:Robert M. Price",
+    "roger haight": "en:Roger Haight",
+    "roza bal": "en:Roza Bal",
+    "seneca vanhempi": "en:Seneca the Elder",
+    "wolfville": "en:Wolfville",
+    "world english bible": "en:World English Bible",
+    "berkeley college": "en:Berkeley College, Yale University",  # Wolterstorff, Yale
+    "capuan piiritys": "en:Siege of Capua (1098)",  # Urban II receives Anselm
+    "eelam": "wp:Elam",  # Acts 2:9, the ancient region
+    "george h. smith": "en:George H. Smith",  # classified kinds of atheism
+    "historiallinen teologia": "en:Historical theology",  # McGrath's chair
+    "hugh d'avranches": "en:Hugh d'Avranches, 1st Earl of Chester",
+    "louis h. feldman": "en:Louis Feldman",
+    "ornitischia": "wp:Linnunlantioiset",  # Ornithischia
+    "peter gandy": "en:The Jesus Mysteries",  # named only with Freke, for that book
+    "puutarhahauta": "en:Garden Tomb",
+    "royal society of canada": "en:Royal Society of Canada",  # Charles Taylor, FRSC
+    "saaron": "en:Sharon plain",  # Acts 9:35 (ApoWiki cites 9:34)
+    "simcha jacobovic": "en:Simcha Jacobovici",
+    "testimonium flavianum": "en:Josephus on Jesus#The Testimonium Flavianum",
+    "timothy freke": "en:The Jesus Mysteries",  # no page of his own; named with Gandy
+    "wycliffe hall": "en:Wycliffe Hall, Oxford",
+    "ansioiden aarre": "en:Treasury of merit",  # the Catholic doctrine
+    "karl adam (teologi)": "en:Karl Adam (theologian)",
+    "shingo (aomori)": "en:Shingō, Aomori",  # a claimed grave of Jesus
 }
 
 # Red links that are only misspellings of an article ApoWiki has. A typo is
@@ -486,6 +573,8 @@ class Converter:
                 self.stats["link_wikipedia_wrong_concept"] += 1
                 if wrong.startswith("wp:"):
                     return f"[{label}]({wiki_url('fi', wrong[3:])})"
+                if wrong.startswith("en:"):
+                    return f"[{label}]({wiki_url('en', wrong[3:])})"
                 return f"[{label}](../{wrong}.md)"
             url = wiki_url("fi", page)
             self.stats["link_wikipedia"] += 1
@@ -1152,7 +1241,8 @@ class Converter:
         # Markdown links: keep the label, drop the target, or the description
         # reads "Herman Dooyeweerd(herman-dooyeweerd.md)". Links go before
         # footnote markers: a link labelled "[1960]" is not a footnote.
-        text = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", text)
+        # A target may hold one level of parentheses ("Analogia_(kielifilosofia)").
+        text = re.sub(r"\[([^\]]*)\]\((?:[^()]|\([^()]*\))*\)", r"\1", text)
         text = re.sub(r"\[\^\d+\]:?", "", text)
         text = re.sub(r"[*>#\[\]]", "", text)
         text = re.sub(r"\s+", " ", text).strip()

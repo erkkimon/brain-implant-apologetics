@@ -4,7 +4,7 @@ about: apologetics
 title: "Kirjat"
 description: "62 ApoWiki-artikkelia aihepiiristä kirjat — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, kirjat]
-timestamp: 2026-10-02T04:21:00Z
+timestamp: 2026-10-08T23:43:18Z
 ---
 
 # Kirjat
@@ -23,7 +23,7 @@ Aihepiirin kirjat artikkelit, tuotu [ApoWikistä](https://apowiki.fi). Luettelo 
 * [Eliömaailma rappeutuu (kirja)](../articles/eliömaailma-rappeutuu-kirja.md) — Eliömaailma rappeutuu – geneettinen entropia ja perimän salaisuus on eläkkeellä olevan Cornellin yliopiston genetiikan professorin John Sanfordin….
 * [Epäilijän kirjeet (kirja)](../articles/epäilijän-kirjeet-kirja.md) — Epäilijän kirjeet on kirja johon on koottu FT Gregory A.
 * [Evoluutio (kirja)](../articles/evoluutio-kirja.md) — Evoluutio on maineikkaan evoluutiobiologi Ernst Mayrin kirjoittama evoluutioteorian yleistajuinen oppikirja.
-* [Evoluutio – kriittinen analyysi (kirja)](../articles/evoluutio-kriittinen-analyysi-kirja.md) — Evoluutio – kriittinen analyysi on Siegfried Schererin ja Reinhard Junkerin kirjoittama kirja, joka arvostelee naturalistista) ja makroevolutiivista….
+* [Evoluutio – kriittinen analyysi (kirja)](../articles/evoluutio-kriittinen-analyysi-kirja.md) — Evoluutio – kriittinen analyysi on Siegfried Schererin ja Reinhard Junkerin kirjoittama kirja, joka arvostelee naturalistista ja makroevolutiivista….
 * [Faith and Reason: Searching for a Rational Faith (kirja)](../articles/faith-and-reason-searching-for-a-rational-faith-kirja.md) — Faith and Reason: Searching for a Rational Faith (lyh.Faith and Reason) on Ronald H.
 * [God and Other Minds (kirja)](../articles/god-and-other-minds-kirja.md) — God and Other Minds on Alvin Plantingan vuonna 1967 kirjoittama….
 * [God in the Dock (kirja)](../articles/god-in-the-dock-kirja.md) — God in the Dock on kokoelma C.

@@ -4,7 +4,7 @@ about: apologetics
 title: "Rekapitulaatioteoria"
 description: "Kuva: Ernst Haeckelin väärentämät kuvat selkärankaisten alkioista."
 tags: [apowiki, evoluutiokritiikki, lukusuositukset, haeckel, ernst, sikiöväärennökset, sikiöpiirros, sikiöpiirrokset, sikiöpiirroskiista, sikiökuva, sikiökuvat, alkio, kidukset, häntä, lapsivesi]
-timestamp: 2026-10-02T04:45:44Z
+timestamp: 2026-10-08T23:43:18Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Rekapitulaatioteoria".
@@ -29,7 +29,7 @@ Rekapitulaatioteoria ([aka.](../glossary/sanasto.md#aka) rekapitulaatio-oppi, bi
 
 ### Teorian historia
 
-Charles Darwin piti selkärankaisten sikiönkehityksen yhtäläisyyksiä yhtenä evoluutioteorian tärkeimmistä todisteista.[^4] Darwin sovelsi eestinsaksalaisen antidarvinisti [Karl Ernst von Baerin](https://fi.wikipedia.org/wiki/Karls_Ernst_von_Baer) (1792-1876) esittämää näkemystä, jonka mukaan eri lajien sikiöt muistuttavat toisiaan enemmän kuin aikuiset muodot.[^5] Embryologian isäksi kutsuttu von Baer kuitenkin sanoutui jyrkästi irti Darwinin tulkinnasta ja sanoi Darwinin lainaavan häntä väärin kirjasessaan *Über Darwins Lehre*.
+Charles Darwin piti selkärankaisten sikiönkehityksen yhtäläisyyksiä yhtenä evoluutioteorian tärkeimmistä todisteista.[^4] Darwin sovelsi eestinsaksalaisen antidarvinisti [Karl Ernst von Baerin](https://fi.wikipedia.org/wiki/Karl_Ernst_von_Baer) (1792-1876) esittämää näkemystä, jonka mukaan eri lajien sikiöt muistuttavat toisiaan enemmän kuin aikuiset muodot.[^5] Embryologian isäksi kutsuttu von Baer kuitenkin sanoutui jyrkästi irti Darwinin tulkinnasta ja sanoi Darwinin lainaavan häntä väärin kirjasessaan *Über Darwins Lehre*.
 
 Saksalainen evolutionisti [Ernst Haeckel](https://fi.wikipedia.org/wiki/Ernst_Haeckel) (1834-1919) piirsi kuuluisaksi tulleen version näiden sikiöiden yhtäläisyyksistä. Haeckel valitsi kuvasarjaan teoriaan sopivimpia esimerkkieläimiä jättäen vaikeammin siihen sopivat "kuvan ulkopuolelle". Edustajiksi hän valitsi kalan, salamanterin, kilpikonnan, kanan, sian, lehmän, jäniksen ja ihmisen.[^5] Lisäksi Haeckel väärensi valitsemiensakin sikiöiden rakenteen piirroksissaan muistuttamaan enemmän toisiaan. Piirros tiedettiin väärennökseksi jo Haeckelin elinaikana[^6] ja mm. Assmuth ja Hull käsittelivät aihetta perusteellisesti 1915 ilmestyneessä teoksessaan Haeckel´s Fraud and Forgeries,[^7] jossa käsiteltiin kymmeniä professori Haeckelin huijauksia.
 
@@ -71,7 +71,7 @@ Reinikainen jatkaa:
 
 > Kuuloluista vasara ja alasin muodostuvat kiduskaaren ensimmäisestä rustosta, josta myös alaleuka kehittyy. Jalustin puolestaan syntyy toisen kiduskaaren rustosta, Reichertin rustosta, josta myös processus styloideus ja kieliluu muodostuvat. Korvakäytävä muodostuu ektodermaalisesta ensimmäisestä kidustaskusta. Kidustaskua ympäröivistä kiduskaarista alkaa muotoutua korvalehti. Ilman näitä "muinaisjäänteitä" (ns. kiduskaaria) meiltä puuttuisivat kateenkorva, lisäkilpirauhaset, alaleuka ja yksi kuuloluista.[^15]
 
-Kyseisessä rypyssä ei siis ole mitään kidusta muistuttavaa. Se vain sattuu olemaan samassa kohtaa, kuin mistä kalan sikiöllä kehittyy kidukset. Koko tämän sikiövaiheen homologioiden etsimisen taustalla oleva ajattelutapa on kyseenalainen. Selkärankaisten eturaajoja pidetään klassisena esimerkkinä homologiasta eli yhteisestä alkuperästä. Australialaisen molekyylibiologin [Michael Dentonin](../pages/michael-denton.md) mukaan homologiset rakenteet syntyvät kuitenkin usein ei-homologisten geneettisten järjestelmien ohjaamina.[^16] Esimerkiksi monet sikiövaiheessa näennäisesti samankaltaiset rakenteet syntyvät eri kohdista ja eri geenien synnyttäminä. Vaikka kaikilla selkärankaisilla on ruuansulatuskanava, se kehittyy eri tavoin eri eläimillä. Kehitysbiologi [Pere Alberch](https://fi.wikipedia.org/wiki/pere_Alberch) onkin todennut, että "*on pikemminkin sääntö kuin poikkeus, että homologiset rakenteet muodostuvat erilaisista alkuperäisvaiheista."[^17]* Denton jatkaa:
+Kyseisessä rypyssä ei siis ole mitään kidusta muistuttavaa. Se vain sattuu olemaan samassa kohtaa, kuin mistä kalan sikiöllä kehittyy kidukset. Koko tämän sikiövaiheen homologioiden etsimisen taustalla oleva ajattelutapa on kyseenalainen. Selkärankaisten eturaajoja pidetään klassisena esimerkkinä homologiasta eli yhteisestä alkuperästä. Australialaisen molekyylibiologin [Michael Dentonin](../pages/michael-denton.md) mukaan homologiset rakenteet syntyvät kuitenkin usein ei-homologisten geneettisten järjestelmien ohjaamina.[^16] Esimerkiksi monet sikiövaiheessa näennäisesti samankaltaiset rakenteet syntyvät eri kohdista ja eri geenien synnyttäminä. Vaikka kaikilla selkärankaisilla on ruuansulatuskanava, se kehittyy eri tavoin eri eläimillä. Kehitysbiologi [Pere Alberch](https://en.wikipedia.org/wiki/Pere_Alberch) onkin todennut, että "*on pikemminkin sääntö kuin poikkeus, että homologiset rakenteet muodostuvat erilaisista alkuperäisvaiheista."[^17]* Denton jatkaa:
 
 > Ei ole epäilystäkään siitä, että koska eri selkärankaisten sikiövaiheiden erot ovat niin suuria, aikuisien selkärankaisten homologisina pidettyjä elimiä ja rakenteita ei voida johtaa homologisiin soluihin ja alueisiin sikiönkehityksen alkuvaiheissa. Toisin sanoen, homologiset rakenteet syntyvät eri reittejä.[^16]
 

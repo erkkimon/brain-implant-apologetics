@@ -4,7 +4,7 @@ about: apologetics
 title: "Evoluution määritelmä"
 description: "Tämä artikkeli käsittelee \"evoluutio\"-termin erilaisia määritelmiä."
 tags: [apowiki, evoluutioteoria]
-timestamp: 2026-10-02T04:54:13Z
+timestamp: 2026-10-08T23:43:18Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Evoluution määritelmä".
@@ -65,7 +65,7 @@ Terminologisen epäselvyyden välttämiseksi **ApologetiikkaWikissä pyritään 
 
 ### Laji ja perusryhmä
 
-Makroevoluutiosta keskusteltaessa olennaiseksi osoittautuu siis myös varsin epämääräinen **laji**n käsite. **Biologisen lajikäsitteen** mukaan eliöt kuuluvat samaan lajiin, jos ne pystyvät luonnonoloissa tuottamaan lisääntymiskykyisiä jälkeläisiä keskenään. Tämän määritelmän mukaan esimerkiksi eläintarhassa menestyksellisesti risteytyvät leijona ja tiikeri eivät kuulu samaan lajiin, koska ne eivät luonnossa kykene maantieteellisen etäisyyden takia lisääntymään keskenään. Toisaalta esimerkiksi hevonen ja aasi risteytyvät keskenään, mutta risteytyksenä syntyvä muuli on lähes aina lisääntymiskyvytön, joten näitä pidetään eri lajeina. Tässä herää väistämättä rajanvetoon liittyviä kysymyksiä: minkälainen ympäristö lasketaan luonnonoloiksi? Onko [luonnonpuisto](https://fi.wikipedia.org/wiki/luonnonpuisto) tai [eläinreservaatti](https://fi.wikipedia.org/wiki/reservaatti) enää luonnollinen? Kuinka suuri osuus jälkeläisistä tulee olla lisääntymiskykyisiä? Biologinen lajikäsite ei siis ole mitenkään itsestään selvällä tavalla objektiivinen. Tämän epämääräisen lajikäsitteen korvaajaksi evoluutiokriitikot ovat ehdottaneet ns. perusryhmämallia, jonka mukaan kaikki suoraan tai epäsuorasti risteytyksen kautta yhteydessä olevat populaatiot kuuluvat samaan perusryhmään. Risteymän ei tarvitse olla lisääntymiskykyinen, vaan riittää että se on elinkelpoinen.
+Makroevoluutiosta keskusteltaessa olennaiseksi osoittautuu siis myös varsin epämääräinen **laji**n käsite. **Biologisen lajikäsitteen** mukaan eliöt kuuluvat samaan lajiin, jos ne pystyvät luonnonoloissa tuottamaan lisääntymiskykyisiä jälkeläisiä keskenään. Tämän määritelmän mukaan esimerkiksi eläintarhassa menestyksellisesti risteytyvät leijona ja tiikeri eivät kuulu samaan lajiin, koska ne eivät luonnossa kykene maantieteellisen etäisyyden takia lisääntymään keskenään. Toisaalta esimerkiksi hevonen ja aasi risteytyvät keskenään, mutta risteytyksenä syntyvä muuli on lähes aina lisääntymiskyvytön, joten näitä pidetään eri lajeina. Tässä herää väistämättä rajanvetoon liittyviä kysymyksiä: minkälainen ympäristö lasketaan luonnonoloiksi? Onko [luonnonpuisto](https://fi.wikipedia.org/wiki/luonnonpuisto) tai [eläinreservaatti](https://fi.wikipedia.org/wiki/Luonnonsuojelualue) enää luonnollinen? Kuinka suuri osuus jälkeläisistä tulee olla lisääntymiskykyisiä? Biologinen lajikäsite ei siis ole mitenkään itsestään selvällä tavalla objektiivinen. Tämän epämääräisen lajikäsitteen korvaajaksi evoluutiokriitikot ovat ehdottaneet ns. perusryhmämallia, jonka mukaan kaikki suoraan tai epäsuorasti risteytyksen kautta yhteydessä olevat populaatiot kuuluvat samaan perusryhmään. Risteymän ei tarvitse olla lisääntymiskykyinen, vaan riittää että se on elinkelpoinen.
 
 ### Terminologian ongelmallisuutta havainnollistava esimerkki
 

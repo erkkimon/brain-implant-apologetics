@@ -4,7 +4,7 @@ about: apologetics
 title: "Polveutumisoppi"
 description: "Polveutumisopin mukaan kaikki eliöt ovat polveutuneet yhteisestä kantamuodostaan ohjatusti tai ohjaamattomasti."
 tags: [apowiki, evoluutioteoria]
-timestamp: 2026-10-02T04:00:00Z
+timestamp: 2026-10-08T23:43:18Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Polveutumisoppi".
@@ -97,7 +97,7 @@ Tosiasiassa molekyylien avulla tehdyt sukupuut eroavat merkittävästi morfologi
 #### Fossiiliset todisteet
 [Paleontologia](https://fi.wikipedia.org/wiki/paleontologia) tutkii fossiileja. Tiettynä ajanjaksona eläneiden eläinten ja kasvien jäännöksiä löytyy kivettyneinä hyvinkin vanhoiksi ajoitetuissa geologisissa kerrostumissa. Varhaisemman kerroksen tulisi polveutumisopin mukaan sisältää jatkuvalla tavalla aina seuraavasta kerroksesta löytyvien fossiilien yksinkertaisempia ja jopa "puolivalmiita" muotoja.
 
-Esimerkiksi lintujen ja nisäkkäiden oletetaan kehittyneen matelijoista. Vuonna 1861 löydettiin *Archaeopteryxin* (höyhenpeitteinen lintulisko) fossiili, joka esitetään, varsinkin evoluutieoriaa popularisoitaessa, välimuotona lintujen kehityksessä. Kriittisen tarkastelun pohjalta voidaan kuitenkin todeta, ettei Archaeopteryxiä voida selkeästi nähdä välimuotona esim. dinosaurusten ja lintujen välillä, sillä Archaopteryxissa on mosaikkimaisesti piirteitä useasta eri eliöryhmästä, joten se on [mosaiikkimuoto](https://fi.wikipedia.org/wiki/mosaiikkimuoto). Archaopteryxistä löytyy neljän eri matelijaryhmän ([Kalaliskot](https://fi.wikipedia.org/wiki/kalaliskot), [Crocodilia](https://fi.wikipedia.org/wiki/crocodilia), [Saurischia](https://fi.wikipedia.org/wiki/saurischia), [Ornithischia](https://fi.wikipedia.org/wiki/ornitischia)) tuntomerkkejä, minkä vuoksi sitä ei voida pitää modernien lintujen esi-isänä.[^14]
+Esimerkiksi lintujen ja nisäkkäiden oletetaan kehittyneen matelijoista. Vuonna 1861 löydettiin *Archaeopteryxin* (höyhenpeitteinen lintulisko) fossiili, joka esitetään, varsinkin evoluutieoriaa popularisoitaessa, välimuotona lintujen kehityksessä. Kriittisen tarkastelun pohjalta voidaan kuitenkin todeta, ettei Archaeopteryxiä voida selkeästi nähdä välimuotona esim. dinosaurusten ja lintujen välillä, sillä Archaopteryxissa on mosaikkimaisesti piirteitä useasta eri eliöryhmästä, joten se on [mosaiikkimuoto](https://fi.wikipedia.org/wiki/mosaiikkimuoto). Archaopteryxistä löytyy neljän eri matelijaryhmän ([Kalaliskot](https://fi.wikipedia.org/wiki/kalaliskot), [Crocodilia](https://fi.wikipedia.org/wiki/crocodilia), [Saurischia](https://fi.wikipedia.org/wiki/saurischia), [Ornithischia](https://fi.wikipedia.org/wiki/Linnunlantioiset)) tuntomerkkejä, minkä vuoksi sitä ei voida pitää modernien lintujen esi-isänä.[^14]
 
 Fossiileja jotka täyttävät tyhjän aukon kutsutaan puuttuviksi lenkeiksi. Täydellisimpinä [fossiililinjoina](https://fi.wikipedia.org/wiki/fossiililinja) pidetään kehityslinjaa nisäkäsliskoista nisäkkäiksi, valaiden evoluutiota ja hevosen heimon evoluutiota kantalajista (*Eohippus*) nykyiseen hevoseen (*Equus*). Ihmisen evoluutiosta on esitetty useita eri kehityssarjoja.[^14]
 

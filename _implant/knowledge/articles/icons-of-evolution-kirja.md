@@ -4,7 +4,7 @@ about: apologetics
 title: "Icons of Evolution (kirja)"
 description: "Icons of Evolution on amerikkalaisen biologin Jonathan Wellsin kirjoittama kirja, jossa hän käsittelee merkittävimpiä evoluutioteorian markkinoinnissa käytettyjä todisteita."
 tags: [apowiki, kirjat, evoluutioteoria]
-timestamp: 2026-10-02T04:21:00Z
+timestamp: 2026-10-08T23:43:18Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Icons of Evolution (kirja)".
@@ -42,7 +42,7 @@ Ernst Haeckelin 1800-luvulla väärentämä sikiönvertailusarja on säilyttäny
 
 ### Liskolintu Archaeopteryx
 
-Tämä on kaikkein kuuluisin ns. välimuotofossiili, jonka väitetään yhdistävän matelijat lintuihin ja osoittavan näin makroevoluution käytännössä. Wellsin mukaan tämän todisteen käyttö on kuitenkin harhaanjohtavaa. Tämä luku Wellsin kirjassa on ehkä hämmästyttävin. Jopa laajasti evoluutiokeskusteluun tutustunut lukija saattaa olla yllättynyt siitä Wellsin väitteestä, että archaeopteryxia ei itse asiassa tuoreimmassa tutkimuksessa enää pidetä "puuttuvana renkaana". Wellsin apuna kunkin luvun tekemisessä ja kritisoinnissa oli alansa asiantuntijoita, joista läheskään kaikki eivät olleet Wellsin kanssa samoilla linjoilla evoluutioteoriaan suhtautumisesta. Näiden "tarkkailijoiden" tehtävä oli lähinnä kommentoida Wellsin argumenttien totuuspohjaa. Liskolintukappaleen referenssiryhmään kuului mm. [Alan Feducia](https://fi.wikipedia.org/wiki/Alan_Feducia), joka ei asiaan vain pintapuolisesti tutustuneillekaan kaipaa esittelyjä.[^6]
+Tämä on kaikkein kuuluisin ns. välimuotofossiili, jonka väitetään yhdistävän matelijat lintuihin ja osoittavan näin makroevoluution käytännössä. Wellsin mukaan tämän todisteen käyttö on kuitenkin harhaanjohtavaa. Tämä luku Wellsin kirjassa on ehkä hämmästyttävin. Jopa laajasti evoluutiokeskusteluun tutustunut lukija saattaa olla yllättynyt siitä Wellsin väitteestä, että archaeopteryxia ei itse asiassa tuoreimmassa tutkimuksessa enää pidetä "puuttuvana renkaana". Wellsin apuna kunkin luvun tekemisessä ja kritisoinnissa oli alansa asiantuntijoita, joista läheskään kaikki eivät olleet Wellsin kanssa samoilla linjoilla evoluutioteoriaan suhtautumisesta. Näiden "tarkkailijoiden" tehtävä oli lähinnä kommentoida Wellsin argumenttien totuuspohjaa. Liskolintukappaleen referenssiryhmään kuului mm. [Alan Feducia](https://fi.wikipedia.org/wiki/Alan_Feduccia), joka ei asiaan vain pintapuolisesti tutustuneillekaan kaipaa esittelyjä.[^6]
 
 ### Koivumittarit
 

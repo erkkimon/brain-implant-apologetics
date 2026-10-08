@@ -4,7 +4,7 @@ about: apologetics
 title: "Koulumassamurhat"
 description: "Koulumassamurhilla tarkoitetaan suomalaisessa kontekstissa lähinnä Jokelan ja Kauhajoen kouluissa tapahtuneita massamurhia."
 tags: [apowiki, yleistä-tietoa, lukusuositukset, ääriateismi, koulumassamurhat, kouluammuskelut, kouluammuskelu, koulusurmat, koulusurma, koulumassamurha, massamurha, ateismi, kritiikki, fundamentalismi, fundamentalistinen, fundamentalisti]
-timestamp: 2026-10-02T04:21:00Z
+timestamp: 2026-10-08T23:43:18Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Koulumassamurhat".
@@ -24,7 +24,7 @@ Koulumassamurhilla tarkoitetaan suomalaisessa [kontekstissa](../glossary/sanasto
 
 *Kuva: Media on järjestelmällisesti ohittanut tiedon koulumassamurhaajien maailmankuvasta. Matti Saari ilmoitti MySpace-sivuston profiilissaan uskonnokseen ateismin.*
 
-Suomessa vahvasti tapetilla olleet Kauhajoen ja Jokelan koulumassamurhat olivat lähes identtisiä.[^5] Molemmat ampujat olivat Himasen mukaan ateisteja.[^6] Auvinen ei missään jättämässään dokumentissa suoraan kerro olevansa ateisti, mutta hänen jälkeensä jättämät dokumentit kokonaisuutena suorastaan julistavat ateismia.[^7] Sitä vastoin nimimerkillä *Wumpscut* esiintynyt [Matti Saari](https://fi.wikipedia.org/wiki/Matti_Saari) ilmoittaa mm. Myspace-profiilissaan uskonnokseen ateismin.[^8]
+Suomessa vahvasti tapetilla olleet Kauhajoen ja Jokelan koulumassamurhat olivat lähes identtisiä.[^5] Molemmat ampujat olivat Himasen mukaan ateisteja.[^6] Auvinen ei missään jättämässään dokumentissa suoraan kerro olevansa ateisti, mutta hänen jälkeensä jättämät dokumentit kokonaisuutena suorastaan julistavat ateismia.[^7] Sitä vastoin nimimerkillä *Wumpscut* esiintynyt [Matti Saari](https://fi.wikipedia.org/wiki/Kauhajoen_koulusurmat#Ampuja) ilmoittaa mm. Myspace-profiilissaan uskonnokseen ateismin.[^8]
 
 Jan Nummensalon mukaan eräs merkittävä tekijä massamurhien takana on yhteiskunta, joka välittää materialistis-evolutionistista maailmankuvaa, jossa kelpoisin selviää.[^9] Hän pitää kyynistä hedonismia tärkeänä tekijänä koulumassamurhaajan ajattelussa, joka on looginen seuraus ateismista.[^10] Auvinen itse piti darvinistisen kelpoisimman eloonjäämisen toteutumista tärkeänä[^11][^12] ja näki tämän mukaisen luonnollisen "viidakon lakeihin" nojaavan järjestelmän oikeudenmukaisuutena.[^13]
 

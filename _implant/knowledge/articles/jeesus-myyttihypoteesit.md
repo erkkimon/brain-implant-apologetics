@@ -4,7 +4,7 @@ about: apologetics
 title: "Jeesus-myyttihypoteesit"
 description: "Jeesus-myyttihypoteesin mukaan Raamatun kuvaama Jeesus oli myytti."
 tags: [apowiki, jeesus, historia]
-timestamp: 2026-10-02T03:00:00Z
+timestamp: 2026-10-08T23:43:18Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Jeesus-myyttihypoteesit".
@@ -76,7 +76,7 @@ On myös helppo huomata, että vaikka esimerkiksi Jeesuksen ristiinnaulitseminen
 
 Termi *Jeesus-myytti* kattaa laajan kirjon ajatuksia, joita yhdistää käsitys, jonka mukaan [Raamatun](raamattu.md) Jeesus Nasaretilainen ei ole historiallinen henkilö. Nykyiset teoriat syntyivät Jeesuksen yhtenäistä biografiaa selvittävässä tutkimuksessa 1900-luvulla. [Max Müller](https://fi.wikipedia.org/wiki/Max_Müller) argumentoi uskontojen juurien olevan myyttisissä tarinoissa [Auringon](https://fi.wikipedia.org/wiki/Aurinko) syntymästä, kuolemasta ja uudelleensyntymästä.[^6]
 
-Ensimmäisiä hypoteesin kannattajia olivat ranskalaiset valistusajattelijat [Constantin-François Volney](https://fi.wikipedia.org/wiki/Constantin-François_Volney) ja [Charles François Dupuis](https://fi.wikipedia.org/wiki/Charles_François_Dupuis) vuonna 1970. Sittemmin hypoteesiä ovat elvyttäneet mm. [Earl Doherty](https://fi.wikipedia.org/wiki/Earl_Doherty), [Robert M. Price](https://fi.wikipedia.org/wiki/Robert_M._Price) ja [George Albert Wells](https://fi.wikipedia.org/wiki/George_Albert_Wells), mutta hypoteesin painoarvo historian- ja raamatuntutkijoiden parissa on olematon.[^7]
+Ensimmäisiä hypoteesin kannattajia olivat ranskalaiset valistusajattelijat [Constantin-François Volney](https://fi.wikipedia.org/wiki/Constantin_François_de_Chassebœuf) ja [Charles François Dupuis](https://en.wikipedia.org/wiki/Charles-François_Dupuis) vuonna 1970. Sittemmin hypoteesiä ovat elvyttäneet mm. [Earl Doherty](https://en.wikipedia.org/wiki/Earl_Doherty), [Robert M. Price](https://en.wikipedia.org/wiki/Robert_M._Price) ja [George Albert Wells](https://fi.wikipedia.org/wiki/George_Albert_Wells), mutta hypoteesin painoarvo historian- ja raamatuntutkijoiden parissa on olematon.[^7]
 
 Tieteen piirissä toimivat Jeesus-tutkijat suhtautuvat nykyään välinpitämättömästi antiikin tarujen ja evankeliumien väitettyihin yhtäläisyyksiin niiden todetun perättömyyden vuoksi, mikä on kuitenkin johtanut siihen, että Jeesus-myyttiä elättelevät maallikot ovat saaneet rauhassa levittää sensaatiohakuista propagandaansa.[^8]
 

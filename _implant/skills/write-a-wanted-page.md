@@ -2,7 +2,7 @@
 type: skill
 title: Write a wanted page
 description: "Use when closing an ApoWiki red link by writing the page the wiki never had: Finnish first, every claim footnoted to a pinned source revision, NPOV, saved in knowledge/pages/ with aliases so the converter links the red links there."
-timestamp: 2026-10-02T00:00:00Z
+timestamp: 2026-10-08T23:38:21Z
 depends_on: [skills/convert-apowiki-to-articles.md]
 tools:
   - skills/tools/apowiki_convert.py
@@ -15,7 +15,7 @@ anywhere: not in the wiki, not in its glossary, not in the Finnish Wikipedia.
 Those are the wanted pages, and `todo/open.md` lists them by inbound links.
 The plan closes them theme by theme alongside each translation batch
 ([plan](../plans/mvp-then-iteration.md)); the first three were written on
-2026-10-02 ([journal](../journals/2026-10-02.md)).
+2026-10-02 ([journal](../journals/archive/2026/10/2026-10-02.md)).
 
 ## Steps
 

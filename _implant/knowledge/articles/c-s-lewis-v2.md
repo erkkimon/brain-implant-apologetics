@@ -4,7 +4,7 @@ about: apologetics
 title: "C. S. Lewis"
 description: "Clive Staples Lewis (29. marraskuuta 1898 – 22. marraskuuta 1963) on legendaarisimmaksi tituleerattu kristitty apologeetta."
 tags: [apowiki, henkilöt]
-timestamp: 2026-10-02T04:38:41Z
+timestamp: 2026-10-08T23:43:18Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "C. S. Lewis".
@@ -32,7 +32,7 @@ Lewis kuului The Inklings nimiseen epämuodolliseen kirjallisuuspiiriin johon my
 
 #### Narnia
 
-Lewis julkaisi [Narnia-sarjan](https://fi.wikipedia.org/wiki/Narnia-sarja) ilmestymisjärjestyksessä ensimmäisen osan *Velho ja leijona* ("The Lion, the Witch, and the Wardrobe") vuonna 1950 (sarjan sisäisen kronologian mukaisessa järjestyksessä ensimmäinen osa on *Taikurin sisarenpoika*, joka ilmestyi vasta 1955). Viimeinen osa, *Narnian viimeinen taistelu* ("The Last Battle"), ilmestyi vuonna 1956 ja Lewis sai siitä [Carnegie-palkinnon](https://fi.wikipedia.org/wiki/Carnegie).
+Lewis julkaisi [Narnia-sarjan](https://fi.wikipedia.org/wiki/Narnian_tarinat) ilmestymisjärjestyksessä ensimmäisen osan *Velho ja leijona* ("The Lion, the Witch, and the Wardrobe") vuonna 1950 (sarjan sisäisen kronologian mukaisessa järjestyksessä ensimmäinen osa on *Taikurin sisarenpoika*, joka ilmestyi vasta 1955). Viimeinen osa, *Narnian viimeinen taistelu* ("The Last Battle"), ilmestyi vuonna 1956 ja Lewis sai siitä [Carnegie-palkinnon](https://fi.wikipedia.org/wiki/Carnegie-mitali).
 
 ### Avioliitto
 

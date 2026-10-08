@@ -4,7 +4,7 @@ about: apologetics
 title: "Tapio Puolimatka"
 description: "Timo Tapio Puolimatka (KT, VTT) toimii kasvatustieteen teorian ja tradition professorina Jyväskylän yliopistossa."
 tags: [apowiki, henkilöt, tapio-puolimatka]
-timestamp: 2026-10-02T04:21:00Z
+timestamp: 2026-10-08T23:43:18Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Tapio Puolimatka".
@@ -160,7 +160,7 @@ Pääartikkeli [Huuhaa-palkinto 2008](huuhaa-palkinto-2008-v3.md)
 
 > Kuvitellaan, että elämme keskiaikaa. Olet kirjoittanut tuhatsivuisen perusteellisesti argumentoidun kirjasarjan, jossa pyrit osoittamaan, että tiede on rajoittamatonta pyrkimystä totuuden löytämiseen ja että tiedettä pitäisi voida tehdä myös ateistisista ja agnostisista lähtökohdista. Kuvitellaan edelleen, että katolisen inkvisition alaosasto arvioi kirjasarjasi seuraavaan tapaan, ilman että millään tavalla viittaa esittämiisi argumentteihin: "Kirjan tarkoituksena on kaiken opetuksen ja tieteen lähtökohtien heittäminen roskakoriin, vain jotta saataisiin ateistinen fundamentalismi ansaitsemalleen paikalle." Mitä vastaisit?
 
-Lehtihaastattelussa Puolimatka arvostelee Skepsiksen argumentointia epäselväksi sekä katsoo Skepsiksen tehneen perustavanlaatuisen sekaannuksen kirjan sisällön suhteen mutta kertoo, ettei ole pahoillaan saamasta tunnustuksesta, ja odottaa kutsua keskustelemaan kirjan sisällöstä.[^12] *Kotimaa*-lehti julkaisi Puolimatkan [vastineen](tapio-puolimatka-uusateismin-tunnekieli.md) Skepsiksen palkintoon 18.12.2008. Puolimatka kommentoi palkintoa *[Ristin voitto](https://fi.wikipedia.org/wiki/Ristin_voitto)* -lehdessä: "Huuhaa-palkinto on keveämpää, osittain huumorilla höystettyä irvailua. Sana 'huuhaa' on voimakasta tunneviestintää, joka oikeuttaa tietyn maailmankatsomuksen hylkäämistä ilman järkiperusteluja. Olen kuitenkin iloinen, että ateistit kiinnittävät huomiota kirjoihini."[^13]
+Lehtihaastattelussa Puolimatka arvostelee Skepsiksen argumentointia epäselväksi sekä katsoo Skepsiksen tehneen perustavanlaatuisen sekaannuksen kirjan sisällön suhteen mutta kertoo, ettei ole pahoillaan saamasta tunnustuksesta, ja odottaa kutsua keskustelemaan kirjan sisällöstä.[^12] *Kotimaa*-lehti julkaisi Puolimatkan [vastineen](tapio-puolimatka-uusateismin-tunnekieli.md) Skepsiksen palkintoon 18.12.2008. Puolimatka kommentoi palkintoa *[Ristin voitto](https://fi.wikipedia.org/wiki/Ristin_Voitto)* -lehdessä: "Huuhaa-palkinto on keveämpää, osittain huumorilla höystettyä irvailua. Sana 'huuhaa' on voimakasta tunneviestintää, joka oikeuttaa tietyn maailmankatsomuksen hylkäämistä ilman järkiperusteluja. Olen kuitenkin iloinen, että ateistit kiinnittävät huomiota kirjoihini."[^13]
 
 #### *Tiedekeskustelun avoimuuskoe* -teos (2010)
 

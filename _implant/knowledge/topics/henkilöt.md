@@ -4,7 +4,7 @@ about: apologetics
 title: "Henkilöt"
 description: "88 ApoWiki-artikkelia aihepiiristä henkilöt — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, henkilöt]
-timestamp: 2026-09-25T23:30:00Z
+timestamp: 2026-10-08T23:43:18Z
 ---
 
 # Henkilöt
@@ -91,7 +91,7 @@ Aihepiirin henkilöt artikkelit, tuotu [ApoWikistä](https://apowiki.fi). Luette
 * [Rudolf Bultmann](../articles/rudolf-bultmann.md) — Rudolf Karl Bultmann (20.
 * [Sigmund Freud](../articles/sigmund-freud.md) — Sigmund Freud (alun perin Sigismund Schlomo Freud; 6.
 * [Stephen C. Meyer](../articles/stephen-c-meyer.md) — Stephen C.
-* [Stuart Burgess](../articles/stuart-burgess.md) — Stuart Burgess on Bristolin yliopiston mekaanisen tekniikan osaston dosentti (reader)).
+* [Stuart Burgess](../articles/stuart-burgess.md) — Stuart Burgess on Bristolin yliopiston mekaanisen tekniikan osaston dosentti (reader).
 * [Tapio Puolimatka](../articles/tapio-puolimatka.md) — Timo Tapio Puolimatka (KT, VTT) toimii kasvatustieteen teorian ja tradition professorina Jyväskylän yliopistossa.
 * [Thomas Nagel](../articles/thomas-nagel.md) — Thomas Nagel (s.
 * [Timo Laato](../articles/timo-laato.md) — Timo Ilmari Laato (s.

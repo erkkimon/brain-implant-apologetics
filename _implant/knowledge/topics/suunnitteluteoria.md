@@ -4,7 +4,7 @@ about: apologetics
 title: "Suunnitteluteoria"
 description: "39 ApoWiki-artikkelia aihepiiristä suunnitteluteoria — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, suunnitteluteoria]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-08T23:43:18Z
 ---
 
 # Suunnitteluteoria
@@ -40,7 +40,7 @@ Aihepiirin suunnitteluteoria artikkelit, tuotu [ApoWikistä](https://apowiki.fi)
 * [Selityssuodatin](../articles/selityssuodatin.md) — Selityssuodatin (engl.
 * [Signature in the Cell (kirja)](../articles/signature-in-the-cell-kirja.md) — Signature in the Cell: DNA and the Evidence for Intelligent Design (Allekirjoitus solussa: DNA ja todisteet älyllisestä suunnittelusta) on Stephen C.
 * [Signs of intelligence (kirja)](../articles/signs-of-intelligence-kirja.md) — Signs of Intelligence on W.
-* [Stuart Burgess](../articles/stuart-burgess.md) — Stuart Burgess on Bristolin yliopiston mekaanisen tekniikan osaston dosentti (reader)).
+* [Stuart Burgess](../articles/stuart-burgess.md) — Stuart Burgess on Bristolin yliopiston mekaanisen tekniikan osaston dosentti (reader).
 * [Suunnitteluteoria](../articles/suunnitteluteoria.md) — Ainahan voi väittää, että rinta viiden luodinreiän lävistämänä makaavan miehen kuolema oli sittenkin luonnollinen.
 * [Suunnitteluteoria ja kreationismi](../articles/suunnitteluteoria-ja-kreationismi.md) — Jo etymologiansakin mukaan kreationismin perustava käsite on erityinen luominen; suunnitteluteorian perustava käsite taas on älyllinen suunnittelu.
 * [Tarkoituksellisuuspäättelyn kritiikki](../articles/tarkoituksellisuuspäättelyn-kritiikki.md) — Suunnitteluteoreettinen tarkoituksellisuuspäättely on synnyttänyt voimakkaita kannanottoja niin puolesta kuin vastaan.

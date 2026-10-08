@@ -4,7 +4,7 @@ about: apologetics
 title: "Ateismi"
 description: "Ateismi tarkoittaa maailmankatsomusta josta puuttuu jumalusko, tai uskonvaraista käsitystä, jonka mukaan Jumalaa tai jumalia ei ole olemassa."
 tags: [apowiki, ateismi]
-timestamp: 2026-10-02T04:21:00Z
+timestamp: 2026-10-08T23:43:18Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ateismi".
@@ -104,7 +104,7 @@ Lisäksi ateistit uskovat käytännössä itsekin olentoihin, joiden olemassaolo
 #### Uskontojen lukumäärä
 Ateistit pitävät usein uskontojen lukumäärää perusteluna ateismille. Tämä käsitys on kuitenkin usealla tavalla ongelmallinen. Ensinnäkin, ateismi on uskonnon [tiedollisen määritelmän](uskonnon-määritelmä.md) mukaan vain yksi uskonnollinen käsitys muiden joukossa, joten uskonnollisten käsitysten lukumäärä alentaa samoin ateismin kuin muidenkin kantojen uskottavuutta. (Yhtä puusilmäinen ollessaan teistikin voisi argumentoida, että koska uskontoja on paljon, ateismi ei ainakaan ole oikeassa.)
 
-[George H. Smith](https://fi.wikipedia.org/wiki/George_H._Smith) on esittänyt ateististen näkemysten luokittelun eksistentialistiseen, metafyysiseen, tietoteoreettiseen, käytännölliseen, psykologiseen, yhteiskunnalliseen, kielitieteelliseen ja [objektivistiseen](https://fi.wikipedia.org/wiki/Objektivismi_(Rand)) ateismiin.[^14] On mielenkiintoista, että siinä missä ateistit usein käyttävät kristinuskon eri suuntausten lukumäärää 'todisteena' kristinuskoa vastaan, he eivät käytä samaa kriteeriä ateismiin, jonka eri suuntausten pitäisi samoin olla perustelu ateismia vastaan. Itseasiassa näyttää selvältä, että kristinuskon suuntaukset ovat keskenään useammista asioista yhtä mieltä (Jumalan olemassaolo, Jeesuksen historiallisuus ja ylösnousemus, Jeesuksen Jumaluus, taivas, helvetti, oikean ja väärän olemassaolo, vastuu Jumalalle, ...)  kuin mitä ateismin suuntaukset ovat (eivät ole yhtä mieltä edes ateismin määritelmästä: Jumalaa ei ole-väite vai Jumala-uskon puute), joten kristinuskon olisi tämän ateistien kriteerin mukaan ateismia todennäköisempi.
+[George H. Smith](https://en.wikipedia.org/wiki/George_H._Smith) on esittänyt ateististen näkemysten luokittelun eksistentialistiseen, metafyysiseen, tietoteoreettiseen, käytännölliseen, psykologiseen, yhteiskunnalliseen, kielitieteelliseen ja [objektivistiseen](https://fi.wikipedia.org/wiki/Objektivismi_(Rand)) ateismiin.[^14] On mielenkiintoista, että siinä missä ateistit usein käyttävät kristinuskon eri suuntausten lukumäärää 'todisteena' kristinuskoa vastaan, he eivät käytä samaa kriteeriä ateismiin, jonka eri suuntausten pitäisi samoin olla perustelu ateismia vastaan. Itseasiassa näyttää selvältä, että kristinuskon suuntaukset ovat keskenään useammista asioista yhtä mieltä (Jumalan olemassaolo, Jeesuksen historiallisuus ja ylösnousemus, Jeesuksen Jumaluus, taivas, helvetti, oikean ja väärän olemassaolo, vastuu Jumalalle, ...)  kuin mitä ateismin suuntaukset ovat (eivät ole yhtä mieltä edes ateismin määritelmästä: Jumalaa ei ole-väite vai Jumala-uskon puute), joten kristinuskon olisi tämän ateistien kriteerin mukaan ateismia todennäköisempi.
 
 #### Pahan ongelma
 * Pääartikkeli: [Pahan ongelma](pahan-ongelma.md)

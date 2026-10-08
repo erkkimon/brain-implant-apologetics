@@ -4,7 +4,7 @@ about: apologetics
 title: "Evoluutioteoria"
 description: "23 ApoWiki-artikkelia aihepiiristä evoluutioteoria — jokainen linkitetty tähän sivuun, niin että aihepiiri on selattavissa kokonaisuutena."
 tags: [apowiki, aihepiiri, evoluutioteoria]
-timestamp: 2026-09-27T13:00:00Z
+timestamp: 2026-10-08T23:43:18Z
 ---
 
 # Evoluutioteoria
@@ -17,7 +17,7 @@ Aihepiirin evoluutioteoria artikkelit, tuotu [ApoWikistä](https://apowiki.fi). 
 * [Eliömaailma rappeutuu -kirjan kritiikki](../articles/eliömaailma-rappeutuu-kirjan-kritiikki.md) — Eliömaailma rappeutuu (kirja) artikkelissa on referoitu kirjassa esitetty argumentaatio.
 * [Entropian lain evoluutioteoreettinen merkitys](../articles/entropian-lain-evoluutioteoreettinen-merkitys.md) — Ohjaamattoman evoluution mahdollisuuteen tai mahdottomuuteen liittyvissä väittelyissä tulee usein esille termodynamiikan toinen pääsääntö eli….
 * [Evoluutio (täsmennyssivu)](../articles/evoluutio-täsmennyssivu.md) — ''Evoluutiolla voidaan viitata seuraaviin: Perinnöllisen muuntelun mekanismit Evoluutioteoria Polveutumisoppi Evoluutioterminologiaa on selvitetty….
-* [Evoluutio – kriittinen analyysi (kirja)](../articles/evoluutio-kriittinen-analyysi-kirja.md) — Evoluutio – kriittinen analyysi on Siegfried Schererin ja Reinhard Junkerin kirjoittama kirja, joka arvostelee naturalistista) ja makroevolutiivista….
+* [Evoluutio – kriittinen analyysi (kirja)](../articles/evoluutio-kriittinen-analyysi-kirja.md) — Evoluutio – kriittinen analyysi on Siegfried Schererin ja Reinhard Junkerin kirjoittama kirja, joka arvostelee naturalistista ja makroevolutiivista….
 * [Evoluution ehdot](../articles/evoluution-ehdot.md) — Turun yliopiston perinnöllisyystieteen emeritusprofessori Petter Portin on Tieteessä tapahtuu -lehdessä julkaistussa artikkelissaan esittänyt….
 * [Evoluution määritelmä](../articles/evoluution-määritelmä.md) — Tämä artikkeli käsittelee "evoluutio"-termin erilaisia määritelmiä.
 * [Evoluutioteoria](../articles/evoluutioteoria.md) — TerminologiastaEvoluutioteorialla tarkoitetaan ApologetiikkaWikissä oppia jonka mukaan "kaikki eliöt polveutuvat yhteisestä esi-isästä ohjaamattomien….
@@ -29,7 +29,7 @@ Aihepiirin evoluutioteoria artikkelit, tuotu [ApoWikistä](https://apowiki.fi). 
 * [Maailman hienoin esitys (kirja)](../articles/maailman-hienoin-esitys-kirja.md) — Richard Dawkinsin kirja Maailman hienoin esitys: Evoluution todisteet (Terra Cognita 2009) on yksi viimeaikaisista yrityksistä tuoda tavallisen….
 * [Monimutkaisten järjestelmien synty](../articles/monimutkaisten-järjestelmien-synty.md) — Monimutkaisten järjestelmien synty on epäilemättä evoluutioteorian suurimpia haasteita.
 * [Nailonbakteerit](../articles/nailonbakteerit.md) — Nailonbakteerit ovat joukko mikrobeja, jotka kykenevät hajottamaan lyhyitä nailon 6 polymeerejä (oligomeerejä).
-* [Perinnöllisen muuntelun mekanismit](../articles/perinnöllisen-muuntelun-mekanismit.md) — Perinnöllisen muuntelun mekanismeja ovat muun muassa luonnonvalinta, seksuaalivalinta, mutaatiot) ja migraatio.
+* [Perinnöllisen muuntelun mekanismit](../articles/perinnöllisen-muuntelun-mekanismit.md) — Perinnöllisen muuntelun mekanismeja ovat muun muassa luonnonvalinta, seksuaalivalinta, mutaatiot ja migraatio.
 * [Polveutumisoppi](../articles/polveutumisoppi.md) — Polveutumisopin mukaan kaikki eliöt ovat polveutuneet yhteisestä kantamuodostaan ohjatusti tai ohjaamattomasti.
 * [Seksuaalisen lisääntymisen synty evoluutioteorian valossa](../articles/seksuaalisen-lisääntymisen-synty-evoluutioteorian-valossa.md) — Hyvää infoa….
 * [Tapio Puolimatka: Vastine Valtaojalle](../articles/tapio-puolimatka-vastine-valtaojalle.md) — Professori Tapio Puolimatka vastasi professori Esko Valtaojalle Kotimaa –lehden verkkokeskustelussa seuraavasti: On hämmentävää lukea tunnetun….

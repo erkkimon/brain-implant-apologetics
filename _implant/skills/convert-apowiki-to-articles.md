@@ -2,7 +2,7 @@
 type: skill
 title: Convert ApoWiki wikitext into implant articles
 description: Use when turning the ApoWiki export in raw/apowiki-export/ into searchable articles under knowledge/ — the deterministic, token-free conversion that produces the MVP, including wiki-link resolution, citation footnotes and the topic spine that grounds every page.
-timestamp: 2026-10-02T04:21:00Z
+timestamp: 2026-10-08T23:38:21Z
 depends_on: [skills/using-the-brain-implant.md]
 tools:
   - skills/tools/apowiki_convert.py
@@ -97,7 +97,7 @@ references linked to their book pages, zero ghosts.
   hand in `RED_LINK_TYPOS` in the converter. A bare book title also tries
   its "(kirja)" article, the suffix ApoWiki gives book pages. It is never guessed, because
   fuzzy matching pairs unrelated arguments
-  ([journal](../journals/2026-10-02.md)).
+  ([journal](../journals/archive/2026/10/2026-10-02.md)).
 * **A red link to a glossary term lands on the glossary.** When ApoWiki
   never wrote an article on a term its own [Sanasto](../knowledge/glossary/sanasto.md)
   defines (*perususkomus*, *äskettäisluomisnäkemys*), the label links to that
@@ -114,7 +114,7 @@ references linked to their book pages, zero ghosts.
   What the Finnish Wikipedia lacks, the English one is tried for next
   (`red-link-wikipedia-en.json`, `--lang en`): many red links name
   English-language scholars and books. 117 targets, added 2026-10-02
-  ([journal](../journals/2026-10-02.md)); bare years (*1623*) were rejected
+  ([journal](../journals/archive/2026/10/2026-10-02.md)); bare years (*1623*) were rejected
   by hand.
 * **Headings are inserted after the list pass, never before it.** `blocks()`
   reads a line starting with `#` as a wikitext numbered item. The

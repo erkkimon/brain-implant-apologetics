@@ -4,7 +4,7 @@ about: apologetics
 title: "English renderings of ApoWiki's glossary terms"
 description: "The translation contract: the one fixed English rendering of each ApoWiki glossary (Sanasto) term, so every translated article says the same thing the same way. Edited by hand, read by apowiki_glossary.py and by the translation check."
 tags: [glossary, sanasto, translation, terminology, english]
-timestamp: 2026-10-02T04:21:00Z
+timestamp: 2026-10-08T23:38:21Z
 half_life: 0
 ---
 
@@ -200,7 +200,7 @@ and the next translation batch picks the correction up.
 ## Left free on purpose
 
 Batch 2 (God and the arguments, 2026-10-02) met these terms and gave them
-no row ([journal](../../journals/2026-10-02.md)). They are either everyday
+no row ([journal](../../journals/archive/2026/10/2026-10-02.md)). They are either everyday
 Finnish whose English the model already gets right, or their stem catches
 unrelated words, so a row would fail correct chunks: *hyvä*, *käsite*,
 *halu*, *tahto*, *tarkoitus* (also *tarkoittaa*), *kohtalo* (also *kohta*),

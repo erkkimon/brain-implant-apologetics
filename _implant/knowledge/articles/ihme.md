@@ -4,7 +4,7 @@ about: apologetics
 title: "Ihme"
 description: "Ihme määritellään yleensä tapahtumaksi, joka ei selity luonnonlaeilla."
 tags: [apowiki, jumala, ihmeet]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-08T23:43:18Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Ihme".
@@ -57,7 +57,7 @@ Ateisti, joka pitää Jumalan olemassaoloa epätodennäköisenä, pitää toki m
 
 ### Ihmeiden suhde luonnonlakiin
 
-Suuri osa ihmeiden vastaisista argumenteista ([Spinoza](https://fi.wikipedia.org/wiki/Baruch_Spnoza), [Hume](https://fi.wikipedia.org/wiki/David_Hume)) perustuu käsitykselle, jossa ihme nähdään [luonnonlain](luonnonlaki.md) rikkoutumisena. Tämä käsitys on kuitenkin väärä, sillä luonnonlakeihin liittyy olennaisena [ceteris paribus](https://fi.wikipedia.org/wiki/Ceteris_paribus) ehdot, eli ehdot, joiden täyttyessä luonnonlaki on voimassa. Jumalan toimiessa 'kaikki muut asiat' eivät ole samoin, eli luonnonlakia ei rikota, koska sen toiminta-alueen ehdot eivät täyty Jumalan toiminnan yhteydessä.
+Suuri osa ihmeiden vastaisista argumenteista ([Spinoza](https://fi.wikipedia.org/wiki/Baruch_Spinoza), [Hume](https://fi.wikipedia.org/wiki/David_Hume)) perustuu käsitykselle, jossa ihme nähdään [luonnonlain](luonnonlaki.md) rikkoutumisena. Tämä käsitys on kuitenkin väärä, sillä luonnonlakeihin liittyy olennaisena [ceteris paribus](https://fi.wikipedia.org/wiki/Ceteris_paribus) ehdot, eli ehdot, joiden täyttyessä luonnonlaki on voimassa. Jumalan toimiessa 'kaikki muut asiat' eivät ole samoin, eli luonnonlakia ei rikota, koska sen toiminta-alueen ehdot eivät täyty Jumalan toiminnan yhteydessä.
 
 Tilanne on analoginen seuraavan kanssa: Henkilö A tiputtaa pallon esitelläkseen painovoiman aiheuttamaa vapaata pudotusta, mutta henkilö B ottaa pallon kiinni. Vapaaseen pudotukseen liittyvä säännönmukaisuuden ceteris paribus, eli 'kaikkien muiden asioiden ollessa samoin', -ehto ei täyty, joten vapaaseen pudotukseen liittyvä säännönmukaisuus ei ole voimassa. Tapahtuma ei kuitenkaan riko vapaan pudotuksen luonnolakia.
 

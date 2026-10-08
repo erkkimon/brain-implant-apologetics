@@ -2,9 +2,9 @@
 type: article
 about: apologetics
 title: "Stuart Burgess"
-description: "Stuart Burgess on Bristolin yliopiston mekaanisen tekniikan osaston dosentti (reader))."
+description: "Stuart Burgess on Bristolin yliopiston mekaanisen tekniikan osaston dosentti (reader)."
 tags: [apowiki, henkilöt, suunnitteluteoria, tyngät]
-timestamp: 2026-10-01T21:00:00Z
+timestamp: 2026-10-08T23:43:18Z
 ---
 <!--
 Converted from ApoWiki (https://apowiki.fi) article "Stuart Burgess".
