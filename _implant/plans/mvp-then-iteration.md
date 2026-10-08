@@ -3,7 +3,7 @@ type: plan
 title: "MVP first, then daily iteration (apologetics)"
 description: "The apologetics half of the shared plan: convert ApoWiki's wikitext to Finnish markdown pages with parsed implant links, hang the book corpus on the shared book spine, compile with multilingual embeddings, and only then start cooldown-batched translation and improvement."
 tags: [plan, mvp, roadmap]
-timestamp: 2026-10-02T07:51:19Z
+timestamp: 2026-10-08T23:51:13Z
 ---
 
 # MVP first, then daily iteration (apologetics)
@@ -152,22 +152,18 @@ happened last.
 
 1. Machine-time polish is done (glossary terms, red links, tables;
    2026-10-01). So is the translation setup (above).
-2. Translation batches one theme at a time, per the skill. As of
-   2026-10-02 (parked until the next session): batch 1 (design theory)
-   has four of six articles reviewed and landed in
-   [knowledge/en/](../knowledge/en/index.md). The last two
-   (kosminen-hienosäätö, suunnitteluteoria) are machine-translated and
-   wait for review: that is the first thing to do on resuming. Batches
-   2–4 (God and the arguments, atheism, evolution) have their glossary
-   rows and run unattended behind it on a machine-local llama-server.
+2. Translation batches one theme at a time, per the skill. Batch 1
+   (design theory, 6 articles) is reviewed and landed in
+   [knowledge/en/](../knowledge/en/index.md) (2026-10-09). Batches 2–4
+   (God and the arguments, atheism, evolution; 34 articles) finished
+   machine translation on 2026-10-02 and wait for review, batch 2 first.
    The exact state is in todo/open.md.
 3. Between batches, the pages the graph asks for, per the
    [wanted-page skill](../skills/write-a-wanted-page.md); the ones written
    so far are listed in [knowledge/pages/](../knowledge/pages/index.md).
-4. Also between batches: the audit of ApoWiki's direct Wikipedia links
-   that land on disambiguation or missing pages (27 and about 90, found
-   2026-10-02). The verified fixes so far and the method are in
-   todo/open.md.
+4. The audit of ApoWiki's direct Wikipedia links is done: 91 links fixed
+   by hand (2026-10-09). The links into pages that exist in no Wikipedia
+   stay as wanted links, listed in todo/open.md.
 
 Tom dogfoods in parallel and is not a gate (decided 2026-10-01). His bug
 reports go to the top of todo/open.md and take priority over polish.

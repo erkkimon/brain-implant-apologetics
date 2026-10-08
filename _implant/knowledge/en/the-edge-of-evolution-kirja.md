@@ -4,7 +4,7 @@ about: apologetics
 title: "The Edge of Evolution (book)"
 description: "The Edge of Evolution: The Search for the Limits of Darwinism (EOE) is a book by biochemistry professor Michael Behe on the empirically observed limits of evolutionary mechanisms."
 tags: [apowiki, kirjat, suunnitteluteoria, evoluutioteoria]
-timestamp: 2026-10-02T04:21:00Z
+timestamp: 2026-10-08T23:50:46Z
 lang: en
 translated_from: ../articles/the-edge-of-evolution-kirja.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -95,7 +95,7 @@ There are some counterarguments found among proponents of the Darwinian theory o
 
 #### P. Z. Myers and the Lenski experiments
 
-P. Z. Myers, who critiques [Design theory](../articles/suunnitteluteoria.md), criticized Behe's writings in his blog post[^4] concerning L. E. Lenski's famous bacterial experiments. In these experiments, bacteria were cultivated in a laboratory for 20 years so that a portion of the population was frozen for later use at specific intervals. At approximately the 31,500th generation, a certain bacterial population developed a new trait that enabled them to use citrate as a nutrient source under aerobic conditions. If acquiring this trait had required only a single mutation, it would have appeared much more quickly and frequently. However, it was not a simultaneous combination of two mutations, as it turned out that the ancestral forms of that population were able to acquire said mutation more easily at around the 20,000th generation than before. Thus, it was a neutral intermediate stage. Additionally, a third mutation occurred in the population at around the 33,000th generation, which enhanced citrate utilization.
+P. Z. Myers, who critiques [Design theory](suunnitteluteoria.md), criticized Behe's writings in his blog post[^4] concerning L. E. Lenski's famous bacterial experiments. In these experiments, bacteria were cultivated in a laboratory for 20 years so that a portion of the population was frozen for later use at specific intervals. At approximately the 31,500th generation, a certain bacterial population developed a new trait that enabled them to use citrate as a nutrient source under aerobic conditions. If acquiring this trait had required only a single mutation, it would have appeared much more quickly and frequently. However, it was not a simultaneous combination of two mutations, as it turned out that the ancestral forms of that population were able to acquire said mutation more easily at around the 20,000th generation than before. Thus, it was a neutral intermediate stage. Additionally, a third mutation occurred in the population at around the 33,000th generation, which enhanced citrate utilization.
 
 Myers accused Behe of distorting and misunderstanding Lenski's research. Myers's argument does not, however, seem entirely watertight.
 
@@ -118,7 +118,7 @@ So Behe clearly holds that this trait arose through an evolutionary process. He 
 * [Double-CCC](../articles/kaksois-ccc.md)
 * [Michael Behe](../articles/michael-behe.md)
 * [Theory of evolution](../articles/evoluutioteoria.md)
-* [Design theory](../articles/suunnitteluteoria.md)
+* [Design theory](suunnitteluteoria.md)
 * [Maailman hienoin esitys (kirja)](../articles/maailman-hienoin-esitys-kirja.md)
 
 #### Internet

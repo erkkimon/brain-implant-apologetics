@@ -4,7 +4,7 @@ about: apologetics
 title: "Teleological argument"
 description: "The teleological argument starts from the purposiveness (telos = end) and order found in nature."
 tags: [apowiki, filosofia, argumentit, suunnitteluteoria]
-timestamp: 2026-10-02T04:44:26Z
+timestamp: 2026-10-08T23:50:46Z
 lang: en
 translated_from: ../articles/teleologinen-argumentti.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -37,11 +37,11 @@ With the development of modern natural science thinking, in newer variants of th
 
 Generally, it is assumed that [David Hume](https://fi.wikipedia.org/wiki/David_Hume) <!-- red link: David Hume --> (1711–1776) and [Charles Darwin](https://fi.wikipedia.org/wiki/Charles_Darwin) <!-- red link: Charles Darwin --> (1809-1882) refuted the teleological argument. Hume argued against Paley by stating that, based on our experience, we know that a clock is the result of an intelligent design, but we lack corresponding experience regarding plants and animals. In his work *Dialogues Concerning Natural Religion*, Hume did not reject the argument entirely, but in his view, it justifies only a weak conclusion: that the first cause of the order in the universe probably possesses properties that are, in a loose sense, analogous to human intelligence.
 
-Modern variants of the teleological argument have been developed, appealing to the increasingly wondrous [cosmic fine-tuning](../articles/kosminen-hienosäätö.md) revealed through the progress of science. The scientific community has been amazed to discover how complex and sensitive a combination of conditions is required for the [origin of intelligent life](../articles/kosminen-lähiömme.md) and its development. The revelation of [cosmic fine-tuning](../articles/kosminen-hienosäätö.md) has led many scientists to conclude that such a delicate balance cannot be regarded as mere chance but requires an explanation. This fine-tuning of the universe seems to manifest the presence of [designing intelligence](../articles/suunnitteluteoria.md). Assuming an intelligent design based on the fine-tuning of the universe is not analogical reasoning but inference to the best explanation.
+Modern variants of the teleological argument have been developed, appealing to the increasingly wondrous [cosmic fine-tuning](kosminen-hienosäätö.md) revealed through the progress of science. The scientific community has been amazed to discover how complex and sensitive a combination of conditions is required for the [origin of intelligent life](../articles/kosminen-lähiömme.md) and its development. The revelation of [cosmic fine-tuning](kosminen-hienosäätö.md) has led many scientists to conclude that such a delicate balance cannot be regarded as mere chance but requires an explanation. This fine-tuning of the universe seems to manifest the presence of [designing intelligence](suunnitteluteoria.md). Assuming an intelligent design based on the fine-tuning of the universe is not analogical reasoning but inference to the best explanation.
 
 John Leslie[^3] speaks of the need to adopt a "natural explanation," which not only explains the matter in question but also reveals why it needs an explanation. For example, suppose that Jari was given a new car as a birthday gift. There are millions of different license plates, so it is very unlikely that his license plate would be CHT 4271. However, such a license plate in a gift car would not arouse any special interest. But suppose that Jari was born on August 8, 1949, and his birthday gift car's license plate was JAR 8849. It would be odd if he merely shrugged his shoulders and said: "Well, the car had to have some license plate, and all numbers are equally unlikely ..."
 
-[William Dembski](william-dembski.md)[^4] has presented a comprehensive theory of the [idea of intelligent design](../articles/suunnitteluteoria.md). He has presented a ten-point argument that allows distinguishing random phenomena from designed ones. According to Dembski, the decisive factor is not only that the thing to be explained is an improbable event, but that the event fits some independently given pattern, so that it is an example of "specified complexity." The prevalence of specified complexity in the universe leads us to seek an explanation based on intelligent design rather than appealing to blind chance.
+[William Dembski](william-dembski.md)[^4] has presented a comprehensive theory of the [idea of intelligent design](suunnitteluteoria.md). He has presented a ten-point argument that allows distinguishing random phenomena from designed ones. According to Dembski, the decisive factor is not only that the thing to be explained is an improbable event, but that the event fits some independently given pattern, so that it is an example of "specified complexity." The prevalence of specified complexity in the universe leads us to seek an explanation based on intelligent design rather than appealing to blind chance.
 
 Robin Collins[^5] has presented an argument based on the fine-tuning of the universe using the principle that when comparing two hypotheses, an observation is evidence for the hypothesis in the light of which it is more probable (or less improbable).
 
@@ -78,7 +78,7 @@ Is the teleological argument valid and convincing? To identify intelligent desig
 
 The philosopher [Antony Flew](../articles/antony-flew.md), who became known as a champion of atheism, considers specifically the modern variants of the teleological argument sufficiently convincing intellectually for him to deem it justified to abandon atheism and adopt theism instead. Flew notes that Darwin did not even claim in his [theory of evolution](../articles/evoluutioteoria.md) to explain the [origin of life](../articles/abiogeneesi.md), but only the mechanisms that guide the development of organisms.
 
-> It seems to me that [Richard Dawkins](../articles/richard-dawkins.md) constantly overlooks what Darwin himself says in the fourteenth chapter of his work *Origin of Species*. There he notes that his entire argument starts from an organism that is capable of reproduction. This is the product of evolution that a truly comprehensive theory of evolution should explain. Darwin himself was very aware that he had not provided such an explanation. It now seems to me that over fifty years of DNA research have produced material for a new and overwhelmingly convincing argument in favor of [intelligent design](../articles/suunnitteluteoria.md).
+> It seems to me that [Richard Dawkins](../articles/richard-dawkins.md) constantly overlooks what Darwin himself says in the fourteenth chapter of his work *Origin of Species*. There he notes that his entire argument starts from an organism that is capable of reproduction. This is the product of evolution that a truly comprehensive theory of evolution should explain. Darwin himself was very aware that he had not provided such an explanation. It now seems to me that over fifty years of DNA research have produced material for a new and overwhelmingly convincing argument in favor of [intelligent design](suunnitteluteoria.md).
 > Flew
 >
 > — quoted by Habermas[^11]
@@ -90,10 +90,10 @@ The teleological argument does not prove the existence of God, but it shows that
 ### See also
 #### ApoWiki
 * [The existence of God](../articles/jumalan-olemassaolo.md)
-* [Design theory](../articles/suunnitteluteoria.md)
+* [Design theory](suunnitteluteoria.md)
 * [Theory of evolution](../articles/evoluutioteoria.md)
 * [Abiogenesis](../articles/abiogeneesi.md)
-* [Cosmic fine-tuning](../articles/kosminen-hienosäätö.md)
+* [Cosmic fine-tuning](kosminen-hienosäätö.md)
 * [Our cosmic neighbourhood](../articles/kosminen-lähiömme.md)
 * [Multiverse](../articles/multiversumi-hypoteesi.md)
 
