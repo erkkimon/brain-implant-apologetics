@@ -4,7 +4,7 @@ about: apologetics
 title: "Teleological argument"
 description: "The teleological argument starts from the purposiveness (telos = end) and order found in nature."
 tags: [apowiki, filosofia, argumentit, suunnitteluteoria]
-timestamp: 2026-10-08T23:50:46Z
+timestamp: 2026-10-08T23:54:49Z
 lang: en
 translated_from: ../articles/teleologinen-argumentti.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -25,7 +25,7 @@ The starting point of the teleological argument is the purposiveness (*telos* = 
 
 The variants of the argument developed before the 1700s were based on the idea that the universe appeared to be ordered for a specific purpose. In India, this argument was used by the so-called Nyaya school (100-1000 AD), which justified the existence of God by appealing to the order present in the world.[^1] According to the variant presented by Plato, there are two teachings that lead humans to believe in gods. The first of these is the teaching about the soul. "The second is our teaching about the ordered motion followed by the stars and other bodies, which are governed by reason, the creator of the order of the universe." (Laws 966E)
 
-[Thomas Aquinas's](../articles/tuomas-akvinolainen.md) fifth way of proving the existence of God draws attention to the fact that many beings without intelligence act in a purposive manner.
+[Thomas Aquinas's](tuomas-akvinolainen.md) fifth way of proving the existence of God draws attention to the fact that many beings without intelligence act in a purposive manner.
 
 > We see, then, that certain things without knowledge, namely natural bodies, act for an end. This is evident in that they always or for the most part act in the same way to achieve what is best. Therefore, it is clear that they do not reach the end by chance but by design. But things without knowledge do not direct themselves to an end unless some knowing and understanding being directs them, as an archer directs an arrow to the target. Therefore, there is some understanding being that directs all natural bodies to an end, and we call him God.
 >
@@ -76,7 +76,7 @@ Such an assumption of the beauty, elegance, or harmony of the universe's structu
 
 Is the teleological argument valid and convincing? To identify intelligent design, it is essential to be able to eliminate its two competitors, chance and physical necessity. Physical necessity could explain the specified complexity manifesting in the world only if there existed, as yet unknown, a set of laws that could be condensed into a theory of the universe explaining what the universe is like. According to this possibility, the universe must be as it is, and there is little chance that the universe would not be life-permitting. This possibility is entirely speculative and would merely shift the fine-tuning argument one step back. Explaining an ordered universe based solely on chance also encounters serious problems.
 
-The philosopher [Antony Flew](../articles/antony-flew.md), who became known as a champion of atheism, considers specifically the modern variants of the teleological argument sufficiently convincing intellectually for him to deem it justified to abandon atheism and adopt theism instead. Flew notes that Darwin did not even claim in his [theory of evolution](../articles/evoluutioteoria.md) to explain the [origin of life](../articles/abiogeneesi.md), but only the mechanisms that guide the development of organisms.
+The philosopher [Antony Flew](antony-flew.md), who became known as a champion of atheism, considers specifically the modern variants of the teleological argument sufficiently convincing intellectually for him to deem it justified to abandon atheism and adopt theism instead. Flew notes that Darwin did not even claim in his [theory of evolution](../articles/evoluutioteoria.md) to explain the [origin of life](../articles/abiogeneesi.md), but only the mechanisms that guide the development of organisms.
 
 > It seems to me that [Richard Dawkins](../articles/richard-dawkins.md) constantly overlooks what Darwin himself says in the fourteenth chapter of his work *Origin of Species*. There he notes that his entire argument starts from an organism that is capable of reproduction. This is the product of evolution that a truly comprehensive theory of evolution should explain. Darwin himself was very aware that he had not provided such an explanation. It now seems to me that over fifty years of DNA research have produced material for a new and overwhelmingly convincing argument in favor of [intelligent design](suunnitteluteoria.md).
 > Flew
@@ -89,7 +89,7 @@ The teleological argument does not prove the existence of God, but it shows that
 
 ### See also
 #### ApoWiki
-* [The existence of God](../articles/jumalan-olemassaolo.md)
+* [The existence of God](jumalan-olemassaolo.md)
 * [Design theory](suunnitteluteoria.md)
 * [Theory of evolution](../articles/evoluutioteoria.md)
 * [Abiogenesis](../articles/abiogeneesi.md)
@@ -103,7 +103,7 @@ The teleological argument does not prove the existence of God, but it shows that
 ### References
 
 [^1]: Smart, Ninian, *Dortrine and Argument in lndian Philosophy*, London: George Allen and Unwin, 1964, s. 153-154
-[^2]: [Akvinolainen, Tuomas](../articles/tuomas-akvinolainen.md), *Summa Theologiae*, Valikoiden suomentanut J.-P. Rentto. Alkuteos 1266-1273, Helsinki: Gaudeamus, 2002, s. 39
+[^2]: [Akvinolainen, Tuomas](tuomas-akvinolainen.md), *Summa Theologiae*, Valikoiden suomentanut J.-P. Rentto. Alkuteos 1266-1273, Helsinki: Gaudeamus, 2002, s. 39
 [^3]: Leslie, John, *Universes*, London: Routledge, 1989, s. 225
 [^4]: [Dembski, William A.](william-dembski.md), *Älykkään suunnitelman idea*, Helsinki: Datakirjat, 2002
 [^5]: Collins, Robin: *Design and the Many-Worlds Hypothesis*, teoksessa [Craig, William Lane](../articles/william-lane-craig.md) (toim.), *Philosophy of Religion. A Reader and Guide*, Edinburgh: Edinburgh University Press, 2002

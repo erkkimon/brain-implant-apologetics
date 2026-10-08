@@ -4,7 +4,7 @@ about: apologetics
 title: "Cosmic fine-tuning"
 description: "Cosmic fine-tuning is the observed fact that the structure of the universe and of the laws of physics, and especially the constants of nature, must have been set very precisely for life to be possible."
 tags: [apowiki, kosmologia, suunnitteluteoria, lukusuositukset, hienosäätö, astrobiologia, kosminen, paikka, maapallo, linnunrata, kuu, aurinko, antrooppinen-periaate, kosminen-hienosäätö, fysiikan-lait, dna-koodi]
-timestamp: 2026-10-08T23:50:43Z
+timestamp: 2026-10-08T23:54:52Z
 lang: en
 translated_from: ../articles/kosminen-hienosäätö.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -301,7 +301,7 @@ The probability that the laws would be correctly set through blind chance is ext
 * [Science](../articles/tiede.md)
 * [Scientism](../articles/tieteisusko.md)
 * [God of the Gaps](../articles/aukkojen-jumala-v2.md)
-* [Cosmological argument](../articles/kosmologinen-argumentti.md)
+* [Cosmological argument](kosmologinen-argumentti.md)
 * [Abiogenesis](../articles/abiogeneesi.md)
 * [Design theory](suunnitteluteoria.md)
 
