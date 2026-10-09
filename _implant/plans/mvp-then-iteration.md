@@ -3,7 +3,7 @@ type: plan
 title: "MVP first, then daily iteration (apologetics)"
 description: "The apologetics half of the shared plan: convert ApoWiki's wikitext to Finnish markdown pages with parsed implant links, hang the book corpus on the shared book spine, compile with multilingual embeddings, and only then start cooldown-batched translation and improvement."
 tags: [plan, mvp, roadmap]
-timestamp: 2026-10-08T23:55:49Z
+timestamp: 2026-10-09T00:04:43Z
 ---
 
 # MVP first, then daily iteration (apologetics)
@@ -152,12 +152,11 @@ happened last.
 
 1. Machine-time polish is done (glossary terms, red links, tables;
    2026-10-01). So is the translation setup (above).
-2. Translation batches one theme at a time, per the skill. Batches 1
-   and 2 (design theory, 6; God and the arguments, 13) are reviewed and
-   landed in [knowledge/en/](../knowledge/en/index.md) (2026-10-09).
-   Batches 3 and 4 (atheism, evolution; 21 articles) finished machine
-   translation on 2026-10-02 and wait for review. The exact state is in
-   todo/open.md.
+2. Translation batches one theme at a time, per the skill. Batches 1–4
+   (design theory, God and the arguments, atheism, evolution; 40
+   articles) are reviewed and landed in
+   [knowledge/en/](../knowledge/en/index.md) (2026-10-09). The next
+   themes, and how to pick them, are in todo/open.md.
 3. Between batches, the pages the graph asks for, per the
    [wanted-page skill](../skills/write-a-wanted-page.md); the ones written
    so far are listed in [knowledge/pages/](../knowledge/pages/index.md).

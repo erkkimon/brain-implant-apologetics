@@ -4,7 +4,7 @@ about: apologetics
 title: "Design theory"
 description: "One can always claim that the death of a man lying with five bullet holes through his chest was natural after all."
 tags: [apowiki, suunnitteluteoria, id-teoria, älykkään-suunnittelun-teoria, älykkään-suunnitelman-teoria, älyllisen-suunnittelun-teoria, älykäs-suunnitelma, älykäs-suunnittelu, älyllinen-suunnittelu, optimaalinen-suunnittelu, aito-suunnittelu, näennäissuunnittelu, tarkoituksellisuuspäättely]
-timestamp: 2026-10-08T23:50:43Z
+timestamp: 2026-10-09T00:04:35Z
 lang: en
 translated_from: ../articles/suunnitteluteoria.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -92,9 +92,9 @@ Foundational design-theoretic work is unfinished but under way. This section pre
 
 *Main article: [Irreducible complexity](../articles/palautumaton-monimutkaisuus.md)*
 
-*Main article: [The origin of complex systems](../articles/monimutkaisten-järjestelmien-synty.md)*
+*Main article: [The origin of complex systems](monimutkaisten-järjestelmien-synty.md)*
 
-**[Michael Behe](../articles/michael-behe.md)**, in his book *[Darwin's Black Box](../articles/darwins-black-box-kirja.md)*, emphatically brought out the fact that the biochemical level of life[^5] depends for its functioning on countless different *molecular machines* made up of many parts, and that these machines typically work as wholes, so that removing any single part from such a machine breaks it so thoroughly that the output of the intact whole stops entirely, that is, the function the whole machine performs disappears.[^6] By Behe's clear logic, unguided processes working without purpose[^7] cannot get help from natural selection in finding such functions, because the selective advantages come only from finished machines.[^8] This in turn makes their probabilities of arising by chance infinitesimally small, and thereby the whole purposeless explanation of their origin absurdly implausible.[^9] Behe calls this all-or-nothing property **[irreducible complexity](../articles/palautumaton-monimutkaisuus.md)**[^10], and wholes that have this property, correspondingly, **irreducible systems**[^11]. Purposeless processes thus cannot by any means produce even a single such system in a *directly neo-Darwinian* way, and *this* fact is admitted even by Behe's knowledgeable naturalist critics.
+**[Michael Behe](../articles/michael-behe.md)**, in his book *[Darwin's Black Box](darwins-black-box-kirja.md)*, emphatically brought out the fact that the biochemical level of life[^5] depends for its functioning on countless different *molecular machines* made up of many parts, and that these machines typically work as wholes, so that removing any single part from such a machine breaks it so thoroughly that the output of the intact whole stops entirely, that is, the function the whole machine performs disappears.[^6] By Behe's clear logic, unguided processes working without purpose[^7] cannot get help from natural selection in finding such functions, because the selective advantages come only from finished machines.[^8] This in turn makes their probabilities of arising by chance infinitesimally small, and thereby the whole purposeless explanation of their origin absurdly implausible.[^9] Behe calls this all-or-nothing property **[irreducible complexity](../articles/palautumaton-monimutkaisuus.md)**[^10], and wholes that have this property, correspondingly, **irreducible systems**[^11]. Purposeless processes thus cannot by any means produce even a single such system in a *directly neo-Darwinian* way, and *this* fact is admitted even by Behe's knowledgeable naturalist critics.
 
 The naturalist camp, which had earlier kept silent about the problem in public, has since had to try to answer this challenge Behe raised, that irreducible systems cannot be explained. It has done so by appealing, besides the demand for loyalty to naturalism as such,[^12] also to the possibilities of *indirect evolutionary routes*. In principle this means that the claim that "biological reality is just as neo-Darwinism requires" has in fact been abandoned, and there has been a retreat to the claim that "neo-Darwinism is[^13] the right explanation of biological reality, even though it certainly doesn't look like it".
 
@@ -250,7 +250,7 @@ Design theory can also be useful for the Christian's own faith. For despite clai
 * [The logic of inference to design](tarkoituksellisuuspäättelyn-logiikka.md)
 * [Imperfect design](../articles/epätäydellinen-suunnittelu-argumentti.md)
 * [Irreducible complexity](../articles/palautumaton-monimutkaisuus.md)
-* [The origin of complex systems](../articles/monimutkaisten-järjestelmien-synty.md)
+* [The origin of complex systems](monimutkaisten-järjestelmien-synty.md)
 * [Explanatory filter](../articles/selityssuodatin.md)
 * [Mount Rushmore National Memorial](../articles/rushmore-vuoren-kansallinen-muistomerkki.md)
 * [Cosmic fine-tuning](kosminen-hienosäätö.md)

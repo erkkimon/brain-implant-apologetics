@@ -4,7 +4,7 @@ about: apologetics
 title: "Moral argument"
 description: "The moral argument is one form of the axiological argument. Axiology means the study of values, i.e. the theory of what is valuable and how valuations can be justified."
 tags: [apowiki, argumentit, etiikka]
-timestamp: 2026-10-08T23:54:49Z
+timestamp: 2026-10-09T00:04:35Z
 lang: en
 translated_from: ../articles/moraalinen-argumentti.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -34,7 +34,7 @@ There are, of course, many philosophers who are moral antirealists, i.e. who cla
 
 ### Objective morality is best explained by the existence of God
 
-Once grounds have been given for regarding moral values and norms as objective, the objectivity of morality is best explained by assuming that a perfectly good and just [God](jumala.md) is the origin of all reality. The moral order is easier to explain from a [theistic](teismi.md) than from an [atheistic](../articles/ateismi.md) starting point. From an atheistic starting point one can appeal to [evolutionary mechanisms](../articles/perinnöllisen-muuntelun-mekanismit.md) and to the requirements of the survival of the human species to explain how the moral order arose. Morality, however, is a subtle and many-sided system that contains much that is not necessary for the survival of the species.
+Once grounds have been given for regarding moral values and norms as objective, the objectivity of morality is best explained by assuming that a perfectly good and just [God](jumala.md) is the origin of all reality. The moral order is easier to explain from a [theistic](teismi.md) than from an [atheistic](ateismi.md) starting point. From an atheistic starting point one can appeal to [evolutionary mechanisms](perinnöllisen-muuntelun-mekanismit.md) and to the requirements of the survival of the human species to explain how the moral order arose. Morality, however, is a subtle and many-sided system that contains much that is not necessary for the survival of the species.
 
 ### Three criteria of a hypothesis's explanatory power
 

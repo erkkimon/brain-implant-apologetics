@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to be done — the implant's live work queue.
-timestamp: 2026-10-08T23:55:03Z
+timestamp: 2026-10-09T00:04:43Z
 ---
 
 # Open
@@ -42,8 +42,6 @@ testaments in `knowledge/books/`, each pointing at the theology spine.
 
 - [ ] Before each translation batch, fill `knowledge/glossary/english.md` rows for the glossary terms that batch uses (252 of 413 terms still lack one; `apowiki_translate.py --dry-run` lists them per chunk). Batch 1's, batch 2's (God and the arguments, 28 rows) and batch 3's (atheism, 25 rows) are in, the last two added 2026-10-02; batch 4's (evolution, 16 rows) followed the same day; 161 of 413 terms now have English.
 
-- [ ] Batch 3 (atheism, 9 articles, about 21 800 words: ateismi, richard-dawkins, pascalin-peliteoria, jumalharha-kirja, ateismin-falsifioitavuus, ateismin-määritelmä, tapio-puolimatka-uusateismin-tunnekieli, uusateismi, projektiivinen-ateistinen-teoria; antony-flew is already in batch 2). Glossary rows done 2026-10-02 (25 rows; the terms left free are listed on the English glossary page). Machine translation finished 2026-10-02 (`_temp/translations/`). Review and land as for batch 2 (todo/archive/2026-10-09.md; the reviewer prompt is in the 2026-10-09 journal).
-- [ ] Batch 4 (evolution, 12 articles, about 18 000 words: evoluutioteoria, evoluution-määritelmä, polveutumisoppi, perinnöllisen-muuntelun-mekanismit, evoluutioteorian-historia, kambrikauden-räjähdys, monimutkaisten-järjestelmien-synty, evoluution-ehdot, konvergenssi, nailonbakteerit, darwins-black-box-kirja, icons-of-evolution-kirja; the long critiques and book reviews of the theme, such as evoluutioteorian-vastaiset-argumentit and eliömaailma-rappeutuu-kirja, get runs of their own later). Glossary rows done 2026-10-02. Machine translation finished 2026-10-02 (`_temp/translations/`). Review and land as for batch 2 (todo/archive/2026-10-09.md; the reviewer prompt is in the 2026-10-09 journal).
 - [ ] Left from the 2026-10-09 audit of ApoWiki's direct Wikipedia links (closed in todo/archive/2026-10-09.md): about 35 direct links to Finnish Wikipedia pages that exist in no Wikipedia (Reinhard Junker, Sigrid Hartwig-Scherer, Harald Binder and the other authors of *Evoluutio – kriittinen analyysi*; Arthur L. Farstad, K. H. Rengstorff, Michael Brandt; terms such as *valintaetu*, *fossiililinja*, *singularismi*). They stay as ApoWiki wrote them, as wanted links; candidates for wanted pages when their theme's batch comes up (Junker first: he co-wrote the book perusryhmä rests on). The audit data is machine-local in `_temp/interwiki-*.json`.
 
 - [ ] Per batch: machine-translate one themed slice to English → improve that slice (ground claims, close its red links, enrich links) → commit. Themed, not alphabetical.

@@ -4,7 +4,7 @@ about: apologetics
 title: "Teleological argument"
 description: "The teleological argument starts from the purposiveness (telos = end) and order found in nature."
 tags: [apowiki, filosofia, argumentit, suunnitteluteoria]
-timestamp: 2026-10-08T23:54:49Z
+timestamp: 2026-10-09T00:04:35Z
 lang: en
 translated_from: ../articles/teleologinen-argumentti.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -76,9 +76,9 @@ Such an assumption of the beauty, elegance, or harmony of the universe's structu
 
 Is the teleological argument valid and convincing? To identify intelligent design, it is essential to be able to eliminate its two competitors, chance and physical necessity. Physical necessity could explain the specified complexity manifesting in the world only if there existed, as yet unknown, a set of laws that could be condensed into a theory of the universe explaining what the universe is like. According to this possibility, the universe must be as it is, and there is little chance that the universe would not be life-permitting. This possibility is entirely speculative and would merely shift the fine-tuning argument one step back. Explaining an ordered universe based solely on chance also encounters serious problems.
 
-The philosopher [Antony Flew](antony-flew.md), who became known as a champion of atheism, considers specifically the modern variants of the teleological argument sufficiently convincing intellectually for him to deem it justified to abandon atheism and adopt theism instead. Flew notes that Darwin did not even claim in his [theory of evolution](../articles/evoluutioteoria.md) to explain the [origin of life](../articles/abiogeneesi.md), but only the mechanisms that guide the development of organisms.
+The philosopher [Antony Flew](antony-flew.md), who became known as a champion of atheism, considers specifically the modern variants of the teleological argument sufficiently convincing intellectually for him to deem it justified to abandon atheism and adopt theism instead. Flew notes that Darwin did not even claim in his [theory of evolution](evoluutioteoria.md) to explain the [origin of life](../articles/abiogeneesi.md), but only the mechanisms that guide the development of organisms.
 
-> It seems to me that [Richard Dawkins](../articles/richard-dawkins.md) constantly overlooks what Darwin himself says in the fourteenth chapter of his work *Origin of Species*. There he notes that his entire argument starts from an organism that is capable of reproduction. This is the product of evolution that a truly comprehensive theory of evolution should explain. Darwin himself was very aware that he had not provided such an explanation. It now seems to me that over fifty years of DNA research have produced material for a new and overwhelmingly convincing argument in favor of [intelligent design](suunnitteluteoria.md).
+> It seems to me that [Richard Dawkins](richard-dawkins.md) constantly overlooks what Darwin himself says in the fourteenth chapter of his work *Origin of Species*. There he notes that his entire argument starts from an organism that is capable of reproduction. This is the product of evolution that a truly comprehensive theory of evolution should explain. Darwin himself was very aware that he had not provided such an explanation. It now seems to me that over fifty years of DNA research have produced material for a new and overwhelmingly convincing argument in favor of [intelligent design](suunnitteluteoria.md).
 > Flew
 >
 > — quoted by Habermas[^11]
@@ -91,7 +91,7 @@ The teleological argument does not prove the existence of God, but it shows that
 #### ApoWiki
 * [The existence of God](jumalan-olemassaolo.md)
 * [Design theory](suunnitteluteoria.md)
-* [Theory of evolution](../articles/evoluutioteoria.md)
+* [Theory of evolution](evoluutioteoria.md)
 * [Abiogenesis](../articles/abiogeneesi.md)
 * [Cosmic fine-tuning](kosminen-hienosäätö.md)
 * [Our cosmic neighbourhood](../articles/kosminen-lähiömme.md)

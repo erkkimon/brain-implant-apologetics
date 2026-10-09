@@ -4,7 +4,7 @@ about: apologetics
 title: "God"
 description: "The word god can refer to many kinds of supernatural beings; Hinduism, for example, has many gods but no personal, sovereign creator God."
 tags: [apowiki, jumala, teismi]
-timestamp: 2026-10-08T23:54:49Z
+timestamp: 2026-10-09T00:04:35Z
 lang: en
 translated_from: ../articles/jumala.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -28,7 +28,7 @@ The word god can refer to many kinds of [supernatural beings](../glossary/sanast
 
 *Main article: [The existence of God](jumalan-olemassaolo.md)*
 
-Several arguments have been put forward for the existence of God, but none of them is irrefutable in the sense that it could not be sidestepped from some philosophical point of view. The proofs of God's existence include the [ontological argument](ontologinen-argumentti.md), the [cosmological argument](kosmologinen-argumentti.md), the [teleological argument](teleologinen-argumentti.md), the [moral argument](moraalinen-argumentti.md) and the [existentialist argument](../articles/pascalin-peliteoria.md).
+Several arguments have been put forward for the existence of God, but none of them is irrefutable in the sense that it could not be sidestepped from some philosophical point of view. The proofs of God's existence include the [ontological argument](ontologinen-argumentti.md), the [cosmological argument](kosmologinen-argumentti.md), the [teleological argument](teleologinen-argumentti.md), the [moral argument](moraalinen-argumentti.md) and the [existentialist argument](pascalin-peliteoria.md).
 
 ### A God of the gaps?
 
@@ -73,7 +73,7 @@ Explaining things by God is sometimes regarded as a fallacy. The charge is then 
 * [The grounds for Christianity](../articles/kristinuskon-perustelut.md)
 * [Jesus](../articles/jeesus-nasaretilainen.md)
 * [Theism](teismi.md)
-* [Atheism](../articles/ateismi.md)
+* [Atheism](ateismi.md)
 * [Faith and knowledge](../articles/usko-ja-tieto.md)
 * [The scientific worldview](../articles/tieteellinen-maailmankatsomus.md)
 * [Tapio Puolimatka: Onko tiede kumonnut Jumalan?](../articles/tapio-puolimatka-onko-tiede-kumonnut-jumalan.md)

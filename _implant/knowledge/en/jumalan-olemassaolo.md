@@ -4,7 +4,7 @@ about: apologetics
 title: "The existence of God"
 description: "The existence of God can never be proved conclusively. Not even the existence of this text can be proved conclusively."
 tags: [apowiki, jumala, argumentit]
-timestamp: 2026-10-08T23:54:49Z
+timestamp: 2026-10-09T00:04:35Z
 lang: en
 translated_from: ../articles/jumalan-olemassaolo.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -45,7 +45,7 @@ The most significant proofs of God's existence are
 
 * [The problem of evil](../articles/pahan-ongelma.md)
 * [Who created God?](../articles/kuka-suunnitteli-suunnittelijan-argumentti-v2.md)
-* [Projective atheistic theories](../articles/projektiivinen-ateistinen-teoria.md): [Karl Marx](../articles/karl-marx.md) and [Sigmund Freud](../articles/sigmund-freud.md)
+* [Projective atheistic theories](projektiivinen-ateistinen-teoria.md): [Karl Marx](../articles/karl-marx.md) and [Sigmund Freud](../articles/sigmund-freud.md)
 
 ### See also
 #### ApoWiki

@@ -4,7 +4,7 @@ about: apologetics
 title: "Anselm's proof of God"
 description: "This page focuses on aspects of Anselm of Canterbury's original argument for the existence of God."
 tags: [apowiki, jumala]
-timestamp: 2026-10-08T23:54:49Z
+timestamp: 2026-10-09T00:04:35Z
 lang: en
 translated_from: ../articles/anselmin-jumalatodistus.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -97,7 +97,7 @@ The background of the argument is the statement of the Bible that those who thin
 
 #### Topicality of the argument
 
-The comparison of God's existence with the existence of mythological beings of antiquity such as fauns or unicorns, which has come up especially in connection with [New Atheism](../articles/uusateismi.md), is a current example of exactly the kind of foolishness that Anselm's argument addresses; the same can be said of the bus campaign whose slogan was "There's probably no God".
+The comparison of God's existence with the existence of mythological beings of antiquity such as fauns or unicorns, which has come up especially in connection with [New Atheism](uusateismi.md), is a current example of exactly the kind of foolishness that Anselm's argument addresses; the same can be said of the bus campaign whose slogan was "There's probably no God".
 
 The argument is also topical in relation to the religious pluralism common today, according to which all religions are at bottom "equally good" or even the same: all thinking that does not see the foundation of reality rightly is built on an untenable base. So it is not only atheists who are wrong but equally all others whose religious views contradict indisputable facts.
 
