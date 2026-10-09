@@ -4,7 +4,7 @@ about: apologetics
 title: "Sanasto — ApoWikin virallinen sanasto"
 description: "ApoWiki's official Finnish glossary: 413 terms with the definitions ApoWiki articles use them in, struck-through senses marked as usage ApoWiki avoids. The fixed term list for translation."
 tags: [apowiki, glossary, sanasto, terminology, translation]
-timestamp: 2026-10-02T04:21:00Z
+timestamp: 2026-10-09T00:07:18Z
 half_life: 0
 ---
 <!--
@@ -637,17 +637,23 @@ English: **exegesis**
 
 ### eksegeetti
 
+English: **exegete**
+
 - [eksegetiikkaa](#eksegetiikka) harjoittava henkilö
 
 <a id="eksegeettinen"></a>
 
 ### eksegeettinen
 
+English: **exegetical**
+
 - [eksegetiikkaan](#eksegetiikka) liittyvä
 
 <a id="eksegetiikka"></a>
 
 ### eksegetiikka
+
+English: **exegesis**
 
 - tekstien tutkimusta, jonka tavoitteena on ymmärtää, miten [syntykontekstin](#syntykonteksti) ihmiset ymmärsivät tekstin
 - teologian osa-alue, joka tutkii ja tulkitsee vanhoja kirjoituksia kriittisesti
@@ -1341,6 +1347,8 @@ English: **intuition**
 <a id="jeesus-traditio"></a>
 
 ### Jeesus-traditio
+
+English: **the Jesus tradition**
 
 - Jeesuksesta kertovaa perimätietoa
 
@@ -2713,6 +2721,8 @@ English: **design theory**
 <a id="synoptikot"></a>
 
 ### synoptikot
+
+English: **the Synoptists**
 
 - Matteus, Markus ja Luukas
 - [synoptisten evankeliumien](#synoptiset-evankeliumit) kirjoittajat

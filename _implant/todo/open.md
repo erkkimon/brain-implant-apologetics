@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to be done — the implant's live work queue.
-timestamp: 2026-10-09T00:04:43Z
+timestamp: 2026-10-09T00:07:48Z
 ---
 
 # Open
@@ -42,6 +42,7 @@ testaments in `knowledge/books/`, each pointing at the theology spine.
 
 - [ ] Before each translation batch, fill `knowledge/glossary/english.md` rows for the glossary terms that batch uses (252 of 413 terms still lack one; `apowiki_translate.py --dry-run` lists them per chunk). Batch 1's, batch 2's (God and the arguments, 28 rows) and batch 3's (atheism, 25 rows) are in, the last two added 2026-10-02; batch 4's (evolution, 16 rows) followed the same day; 161 of 413 terms now have English.
 
+- [ ] Batch 5 (Jesus and the Bible, 13 articles, about 18 000 words, most-linked members of the *jeesus* and *raamattu* topics: raamattu, jeesus-nasaretilainen, jeesuksen-ylösnousemus, jeesuksen-historiallisuus, jeesus-myyttihypoteesit, raamatun-historiallinen-luotettavuus, apostolien-teot, arkeologia-ja-raamattu, matti-kankaanniemi, tom-holmén, tapaus-kristus-kirja, ad-30-kirja, jeesus-kirja). Glossary rows done 2026-10-09. Machine translation runs from `_temp/run-batch5.sh` (machine-local; it starts a private llama-server on port 18431 if none answers, then a two-pass loop logging to `_temp/batch5.log`; rerun it the same way after a reboot, finished articles are skipped). The 9B GGUF is no longer in the shared Ollama, so it was re-fetched from the Ollama registry by digest into `~/.cache/apowiki-translate/` (skill step 4). Then review and land as for batch 2. *messias-ennustukset* (8 000 words) gets a run of its own later, like *alvin-plantinga*.
 - [ ] Left from the 2026-10-09 audit of ApoWiki's direct Wikipedia links (closed in todo/archive/2026-10-09.md): about 35 direct links to Finnish Wikipedia pages that exist in no Wikipedia (Reinhard Junker, Sigrid Hartwig-Scherer, Harald Binder and the other authors of *Evoluutio – kriittinen analyysi*; Arthur L. Farstad, K. H. Rengstorff, Michael Brandt; terms such as *valintaetu*, *fossiililinja*, *singularismi*). They stay as ApoWiki wrote them, as wanted links; candidates for wanted pages when their theme's batch comes up (Junker first: he co-wrote the book perusryhmä rests on). The audit data is machine-local in `_temp/interwiki-*.json`.
 
 - [ ] Per batch: machine-translate one themed slice to English → improve that slice (ground claims, close its red links, enrich links) → commit. Themed, not alphabetical.
