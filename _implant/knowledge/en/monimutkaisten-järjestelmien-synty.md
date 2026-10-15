@@ -4,7 +4,7 @@ about: apologetics
 title: "The origin of complex systems"
 description: "The origin of complex systems is undoubtedly one of the greatest challenges to the theory of evolution."
 tags: [apowiki, evoluutioteoria, suunnitteluteoria]
-timestamp: 2026-10-15T18:48:04Z
+timestamp: 2026-10-15T18:51:52Z
 lang: en
 translated_from: ../articles/monimutkaisten-järjestelmien-synty.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -34,7 +34,7 @@ Humans have built many complex systems.[^1] Nature, however, contains far more c
 
 #### Even alchemy had advantages over the theory of evolution
 
-In one sense the Darwinist is in an even worse position than the alchemist: the alchemist was at least free to use all his imagination and ingenuity in his pursuits,[^6] whereas [physicalism](../articles/fysikalismi.md)[^7] puts its adherents in an intellectual straitjacket. Explanatory models for the origin of life, of the various forms of life, of consciousness or of any object of study that are built on terms other than those of physicalism may not even be considered, neither by him nor – insofar as it is up to him – by anyone else within his sphere of influence.
+In one sense the Darwinist is in an even worse position than the alchemist: the alchemist was at least free to use all his imagination and ingenuity in his pursuits,[^6] whereas [physicalism](fysikalismi.md)[^7] puts its adherents in an intellectual straitjacket. Explanatory models for the origin of life, of the various forms of life, of consciousness or of any object of study that are built on terms other than those of physicalism may not even be considered, neither by him nor – insofar as it is up to him – by anyone else within his sphere of influence.
 
 Another essential difference between alchemists and Darwinists is that the alchemists honestly admitted their repeated failures: despite their attempts, no gold had been produced, and the "philosopher's stone" was still to be found.[^8] Darwinists, by contrast, are committed to a stronger claim than the alchemists: evolution is supposed to happen all the time, entirely on its own.[^9] So no failure can be admitted, when the whole biosphere supposedly proves the theory of evolution a fact by its mere existence.[^10]
 

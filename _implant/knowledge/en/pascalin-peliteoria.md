@@ -4,7 +4,7 @@ about: apologetics
 title: "Pascal's wager"
 description: "Pascal's wager (Pascal's game theory, Pascal's scale, Pascal's betting, Pascal's argument, the game-theoretic argument, the gambler's proof) is one reason to believe in God."
 tags: [apowiki, maailmankatsomus, pascalin-veto, pascalin-vaaka, blaise-pascal, pascalin-gambiitti, pascalin-peliteoria, ateismi, teismi, järki, usko, tieto]
-timestamp: 2026-10-15T18:48:04Z
+timestamp: 2026-10-15T18:51:52Z
 lang: en
 translated_from: ../articles/pascalin-peliteoria.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -115,7 +115,7 @@ It is possible to approach many different worldview options from the point of vi
 
 #### Personal preconditions
 
-The argument is aimed mainly at an [agnostic](../articles/agnostisismi.md) of some degree, who admits that he cannot be completely sure which worldview is true. This type of person is common today too, and many of them have grown used to lulling themselves with the idea that, lacking knowledge about ultimate questions that they would consider certain, they "should concentrate on enjoying this life". It is precisely this "to be safe, I take no position" philosophy of life that Pascal's wager shows to be thoroughly mistaken.
+The argument is aimed mainly at an [agnostic](agnostisismi.md) of some degree, who admits that he cannot be completely sure which worldview is true. This type of person is common today too, and many of them have grown used to lulling themselves with the idea that, lacking knowledge about ultimate questions that they would consider certain, they "should concentrate on enjoying this life". It is precisely this "to be safe, I take no position" philosophy of life that Pascal's wager shows to be thoroughly mistaken.
 
 According to the argument, an agnostic should not take the risk of living like an atheist and turning out to be wrong, because he could end up in suffering after death. Instead, he should take the risk of living and believing like a Christian even if atheism should turn out to be true. After all, he would not have to wake up after death to grieve over having been wrong, and before that he could still live a good and interesting life. Even then there is a risk that some other religion is true and that, according to it, the Christian would have to suffer after death. However, many religions do not allow adherence to other religions – or the whole idea of "adhering" to mutually exclusive religions at the same time is internally contradictory – so some risk always remains. To minimize the risk, one should in any case reject atheism, because the atheist at least cannot win. If atheism did turn out to be true, what would it matter – how could any atheist ever, in any ultimate sense, get to "enjoy being right"?
 
@@ -151,7 +151,7 @@ For this reason, a person who cannot be sure that atheism is true would not, on 
 
 ### See also
 
-* [Agnosticism](../articles/agnostisismi.md)
+* [Agnosticism](agnostisismi.md)
 * [Atheism](ateismi.md)
 * [The atheist's wager](../articles/ateistin-vedonlyönti.md)
 * [The existence of God](jumalan-olemassaolo.md)

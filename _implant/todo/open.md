@@ -2,7 +2,7 @@
 type: todo
 title: Open
 description: What is still to be done — the implant's live work queue.
-timestamp: 2026-10-15T16:41:36Z
+timestamp: 2026-10-15T18:52:02Z
 ---
 
 # Open
@@ -42,7 +42,7 @@ testaments in `knowledge/books/`, each pointing at the theology spine.
 
 - [ ] Before each translation batch, fill `knowledge/glossary/english.md` rows for the glossary terms that batch uses (252 of 413 terms still lack one; `apowiki_translate.py --dry-run` lists them per chunk). Batch 1's, batch 2's (God and the arguments, 28 rows) and batch 3's (atheism, 25 rows) are in, the last two added 2026-10-02; batch 4's (evolution, 16 rows) followed the same day; 161 of 413 terms now have English.
 
-- [ ] Batch 6 (philosophy and worldview, 19 articles, about 30 000 words: the most-linked untranslated members of the *filosofia* and *maailmankatsomus* topics: naturalismi, uskonnon-määritelmä, metodologinen-naturalismi, fysikalismi, agnostisismi, fideismi, tieteisusko, kristinusko, todistuksen-taakka, william-alston, michael-c-rea, peter-van-inwagen, warranted-christian-belief-kirja, warrant-the-current-debate-kirja, charles-taylor, eksperientialismi, usko-tiede-ja-evoluutio-kirja, a-secular-age-kirja, and last *alvin-plantinga*, 12 000 words). Glossary rows done 2026-10-15. Machine translation started 2026-10-15 from `_temp/run-batch6.sh` (machine-local, same recipe as batch 5; log `_temp/batch6.log`; rerun after a reboot, finished articles are skipped). Then review and land as for batch 2. Still to schedule: *messias-ennustukset* (8 000 words) and Daniel Nylund's *Ajankohtainen 3* chapter series (long: 3 000–17 000 words each).
+- [ ] Batch 6 (philosophy and worldview, 19 articles, about 30 000 words: the most-linked untranslated members of the *filosofia* and *maailmankatsomus* topics: naturalismi, uskonnon-määritelmä, metodologinen-naturalismi, fysikalismi, agnostisismi, fideismi, tieteisusko, kristinusko, todistuksen-taakka, william-alston, michael-c-rea, peter-van-inwagen, warranted-christian-belief-kirja, warrant-the-current-debate-kirja, charles-taylor, eksperientialismi, usko-tiede-ja-evoluutio-kirja, a-secular-age-kirja, and last *alvin-plantinga*, 12 000 words). Glossary rows done 2026-10-15. Machine translation started 2026-10-15 from `_temp/run-batch6.sh` (machine-local, same recipe as batch 5; log `_temp/batch6.log`; rerun after a reboot, finished articles are skipped). Landed so far (2026-10-15): naturalismi, fideismi, uskonnon-määritelmä, metodologinen-naturalismi, fysikalismi, agnostisismi. Review and land the rest as for batch 2, in parts as the run finishes them. Still to schedule: *messias-ennustukset* (8 000 words) and Daniel Nylund's *Ajankohtainen 3* chapter series (long: 3 000–17 000 words each).
 - [ ] Left from the 2026-10-09 audit of ApoWiki's direct Wikipedia links (closed in todo/archive/2026-10-09.md): about 35 direct links to Finnish Wikipedia pages that exist in no Wikipedia (Reinhard Junker, Sigrid Hartwig-Scherer, Harald Binder and the other authors of *Evoluutio – kriittinen analyysi*; Arthur L. Farstad, K. H. Rengstorff, Michael Brandt; terms such as *valintaetu*, *fossiililinja*, *singularismi*). They stay as ApoWiki wrote them, as wanted links; candidates for wanted pages when their theme's batch comes up (Junker first: he co-wrote the book perusryhmä rests on). The audit data is machine-local in `_temp/interwiki-*.json`.
 
 - [ ] Per batch: machine-translate one themed slice to English → improve that slice (ground claims, close its red links, enrich links) → commit. Themed, not alphabetical.
