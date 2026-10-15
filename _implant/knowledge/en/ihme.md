@@ -4,7 +4,7 @@ about: apologetics
 title: "Miracle"
 description: "A miracle is usually defined as an event that cannot be explained by the laws of nature."
 tags: [apowiki, jumala, ihmeet]
-timestamp: 2026-10-08T23:54:49Z
+timestamp: 2026-10-15T16:37:54Z
 lang: en
 translated_from: ../articles/ihme.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -73,7 +73,7 @@ The situation is analogous to the following: person A drops a ball to demonstrat
 * [Prayer](../articles/rukoileminen.md)
 * [Supernatural](../articles/yliluonnollinen.md)
 * [Vapaa-ajattelijan käsikirja](../articles/vapaa-ajattelijan-käsikirja.md)
-* [Resurrection of Jesus](../articles/jeesuksen-ylösnousemus.md)
+* [Resurrection of Jesus](jeesuksen-ylösnousemus.md)
 * [Occultism](../articles/okkultismi.md)
 
 #### Areiopagi

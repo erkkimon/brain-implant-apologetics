@@ -2,7 +2,7 @@
 type: skill
 title: Translate an article into English
 description: "Use when translating a converted Finnish ApoWiki article into English: a small local model does the prose, ApoWiki's own glossary (Sanasto) fixes the terminology, and deterministic checks (links, footnotes, glossary terms) decide whether a chunk is accepted. Frontier-model tokens are spent only on review."
-timestamp: 2026-10-09T00:07:48Z
+timestamp: 2026-10-15T16:33:07Z
 depends_on: [skills/convert-apowiki-to-articles.md]
 tools:
   - skills/tools/apowiki_glossary.py
@@ -98,7 +98,7 @@ of them. Finnish is matched by word stem, so inflected forms (*naturalismin*,
    `https://registry.ollama.ai/v2/<namespace>/<model>/manifests/<tag>`, take
    the layer of type `application/vnd.ollama.image.model`, download
    `…/blobs/sha256:<digest>` to a machine-local cache and check its sha256
-   ([journal 2026-10-09](../journals/2026-10-09.md)).
+   ([journal 2026-10-09](../journals/archive/2026/10/2026-10-09.md)).
 5. **Review** with a strong model or a human: read the English against the
    Finnish for meaning, especially negations and hedges (*melko varmasti*
    is "almost certainly", not "certainly"). Blocks marked
@@ -112,7 +112,7 @@ of them. Finnish is matched by word stem, so inflected forms (*naturalismin*,
    gained a space in [2026-10-02's converter
    fix](../journals/archive/2026/10/2026-10-02.md); the wording rarely changes.
    At batch scale the review fans out to subagents, one per long article
-   or a few short ones together ([journal 2026-10-09](../journals/2026-10-09.md);
+   or a few short ones together ([journal 2026-10-09](../journals/archive/2026/10/2026-10-09.md);
    batch 2's 13 articles took eight in parallel). Each reviewer edits only
    its `_temp/translations/X.md`, never runs git, and treats the *current*
    Finnish page as the source of truth, which also carries over link

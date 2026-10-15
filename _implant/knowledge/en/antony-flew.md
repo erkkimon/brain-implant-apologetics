@@ -4,7 +4,7 @@ about: apologetics
 title: "Antony Flew"
 description: "Antony Flew (11 February 1923 – 8 April 2010) was a British philosopher."
 tags: [apowiki, henkilöt, ateismi, teismi, tyngät]
-timestamp: 2026-10-09T00:04:35Z
+timestamp: 2026-10-15T16:37:54Z
 lang: en
 translated_from: ../articles/antony-flew.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -29,7 +29,7 @@ It is specifically the modern variants of the teleological argument that Flew fi
 
 Since Flew believes in the existence of God on the basis of the teleological argument, he regards his book *God and Philosophy*, which was built on atheistic thinking, as outdated, fit now only as a historical document with no direct bearing on current debates.
 
-Flew considered the [resurrection of Jesus](../articles/jeesuksen-ylösnousemus.md) the best-attested [miracle](ihme.md) in the world[^3] – but still did not consider it well enough attested to believe in it, even after he had become a deist.[^4]
+Flew considered the [resurrection of Jesus](jeesuksen-ylösnousemus.md) the best-attested [miracle](ihme.md) in the world[^3] – but still did not consider it well enough attested to believe in it, even after he had become a deist.[^4]
 
 ### Works
 

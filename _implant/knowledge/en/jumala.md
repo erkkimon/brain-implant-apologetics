@@ -4,7 +4,7 @@ about: apologetics
 title: "God"
 description: "The word god can refer to many kinds of supernatural beings; Hinduism, for example, has many gods but no personal, sovereign creator God."
 tags: [apowiki, jumala, teismi]
-timestamp: 2026-10-09T00:04:35Z
+timestamp: 2026-10-15T16:37:54Z
 lang: en
 translated_from: ../articles/jumala.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -71,7 +71,7 @@ Explaining things by God is sometimes regarded as a fallacy. The charge is then 
 * ["God is not nice" (argument)](../articles/jumala-ei-ole-kiva-argumentti.md)
 * ["Who designed the designer?" (argument)](../articles/kuka-suunnitteli-suunnittelijan-argumentti-v2.md)
 * [The grounds for Christianity](../articles/kristinuskon-perustelut.md)
-* [Jesus](../articles/jeesus-nasaretilainen.md)
+* [Jesus](jeesus-nasaretilainen.md)
 * [Theism](teismi.md)
 * [Atheism](ateismi.md)
 * [Faith and knowledge](../articles/usko-ja-tieto.md)
