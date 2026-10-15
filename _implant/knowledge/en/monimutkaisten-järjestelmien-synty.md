@@ -4,7 +4,7 @@ about: apologetics
 title: "The origin of complex systems"
 description: "The origin of complex systems is undoubtedly one of the greatest challenges to the theory of evolution."
 tags: [apowiki, evoluutioteoria, suunnitteluteoria]
-timestamp: 2026-10-09T00:04:35Z
+timestamp: 2026-10-15T18:48:04Z
 lang: en
 translated_from: ../articles/monimutkaisten-järjestelmien-synty.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -28,9 +28,9 @@ Although the great majority of the community of biologists rejects Behe's argume
 
 Humans have built many complex systems.[^1] Nature, however, contains far more complex systems[^2], which humans did not originally bring about and which they have not even been able to produce afterwards from non-living raw materials.[^3] How did they come into being? What kinds of causal factors (efficient causes) does the origin of complex systems require?
 
-### The theory of evolution as a metaphysics-driven research programme
+### The theory of evolution as a metaphysics-driven research program
 
-[Design theorist](suunnitteluteoria.md) William Dembski has drawn attention to the similarities between alchemy and the theory of evolution[^4]: the alchemists' confidence that lead could be turned into gold by the means at their disposal[^5] rested on their metaphysical worldview, namely the [Neoplatonic](https://fi.wikipedia.org/wiki/Uusplatonismi) idea that lead, as a base metal, was in any case striving towards becoming a precious metal – that is, was about to turn into gold quite naturally. Dembski points out an essential similarity between alchemists and Darwinists: each is so spellbound by his own metaphysical commitment that the harsh results of experience hardly move him.
+[Design theorist](suunnitteluteoria.md) William Dembski has drawn attention to the similarities between alchemy and the theory of evolution[^4]: the alchemists' confidence that lead could be turned into gold by the means at their disposal[^5] rested on their metaphysical worldview, namely the [Neoplatonic](https://fi.wikipedia.org/wiki/Uusplatonismi) idea that lead, as a base metal, was in any case striving toward becoming a precious metal – that is, was about to turn into gold quite naturally. Dembski points out an essential similarity between alchemists and Darwinists: each is so spellbound by his own metaphysical commitment that the harsh results of experience hardly move him.
 
 #### Even alchemy had advantages over the theory of evolution
 
@@ -54,7 +54,7 @@ In practice, then, the Darwinists' toolkit has been reduced[^13] mainly to annou
 
 "Embedding" observed phenomena in the metaphysical framework of Darwinism by means of development (frame) stories and terminology has so far been perhaps the most central way of hiding the problems of the theory of evolution. For example, calling the variation, adaptation and speciation observed in the objects of biological study "evolution" is ultimately a mere rhetorical trick to make the theory of evolution more credible.[^15]
 
-### A step towards testability: computer simulation of evolution
+### A step toward testability: computer simulation of evolution
 
 Since the experimental results obtained in biology leave a great deal to be desired from Darwinism's point of view, attempts have been made to help the situation by writing and promoting computer programs whose operation is claimed to demonstrate directly the creative powers of evolutionary mechanisms. Since they are promoted as counterparts of biological evolution and as demonstrations of its credibility, they too fall, to that extent, within the subject of this article.
 

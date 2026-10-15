@@ -8,7 +8,7 @@ skills, never this file._
   - tools: `tools/apowiki_convert.py`, `tools/apowiki_topics.py`, `tools/apowiki_books.py`, `tools/apowiki_glossary.py`, `tools/apowiki_stamp.py`, `tools/apowiki_redlinks.py`
 - [Translate an article into English](translate-an-article.md) — Use when translating a converted Finnish ApoWiki article into English: a small local model does the prose, ApoWiki's own glossary (Sanasto) fixes the terminology, and deterministic checks (links, footnotes, glossary terms) decide whether a chunk is accepted. Frontier-model tokens are spent only on review.
   - needs [Convert ApoWiki wikitext into implant articles](convert-apowiki-to-articles.md)
-  - tools: `tools/apowiki_glossary.py`, `tools/apowiki_translate.py`, `tools/apowiki_land.py`
+  - tools: `tools/apowiki_glossary.py`, `tools/apowiki_translate.py`, `tools/apowiki_land.py`, `tools/apowiki_american.py`
 - [Using the brain implant](using-the-brain-implant.md) — Use when reading from or writing to this brain implant — before answering from memory, before grepping, and before adding or changing any doc in _implant/. Explains what an implant is (mounted beside the agent's own brain, its cortex), where opinions go (the cortex, never here), and the read and write discipline the contract enforces.
 - [Write a wanted page](write-a-wanted-page.md) — Use when closing an ApoWiki red link by writing the page the wiki never had: Finnish first, every claim footnoted to a pinned source revision, NPOV, saved in knowledge/pages/ with aliases so the converter links the red links there.
   - needs [Convert ApoWiki wikitext into implant articles](convert-apowiki-to-articles.md)

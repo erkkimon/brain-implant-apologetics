@@ -4,7 +4,7 @@ about: apologetics
 title: "God's omnipotence"
 description: "Christian theism generally holds that omnipotence is one of the attributes of God."
 tags: [apowiki, jumala]
-timestamp: 2026-10-08T23:54:49Z
+timestamp: 2026-10-15T18:48:04Z
 lang: en
 translated_from: ../articles/jumalan-kaikkivoipuus.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -58,7 +58,7 @@ It is often claimed that God could not change or lie. If God is omnipotent, this
 > # God cannot lie.
 > # There is an [a priori](../glossary/sanasto.md#a-priori) contradiction between points 2 and 3.
 
-So we can conclude that an omnipotent God 1) can change and 2) can lie. He does not, however, necessarily do so. If we assume that God is an omnipotent [agent](https://en.wikipedia.org/wiki/Agency_(philosophy)), he could create for every human being a personal [football](https://fi.wikipedia.org/wiki/Jalkapallo) hovering half a metre above their head. He is, however, under no compulsion whatsoever to do so. Although Martti could in theory kill Mauri at any moment, he does not necessarily do it. Not everything that can be done has to be done. This is called free will.
+So we can conclude that an omnipotent God 1) can change and 2) can lie. He does not, however, necessarily do so. If we assume that God is an omnipotent [agent](https://en.wikipedia.org/wiki/Agency_(philosophy)), he could create for every human being a personal [football](https://fi.wikipedia.org/wiki/Jalkapallo) hovering half a meter above their head. He is, however, under no compulsion whatsoever to do so. Although Martti could in theory kill Mauri at any moment, he does not necessarily do it. Not everything that can be done has to be done. This is called free will.
 
 ### See also
 #### ApoWiki

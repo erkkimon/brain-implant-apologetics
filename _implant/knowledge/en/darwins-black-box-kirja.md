@@ -4,7 +4,7 @@ about: apologetics
 title: "Darwin's Black Box (book)"
 description: "Darwin's Black Box: The Biochemical Challenge to Evolution (DBB) is Michael Behe's first book on design-theoretical matters."
 tags: [apowiki, tyngät, kirjat, evoluutioteoria, suunnitteluteoria]
-timestamp: 2026-10-09T00:04:35Z
+timestamp: 2026-10-15T18:48:04Z
 lang: en
 translated_from: ../articles/darwins-black-box-kirja.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -29,7 +29,7 @@ Darwin's Black Box is about the [theory of evolution](evoluutioteoria.md), "whic
 
 ### Contents of the book
 
-Chapters 1 and 2 shed light on Behe's insight, which he calls *[irreducible complexity](../articles/palautumaton-monimutkaisuus.md)*. Chapters 3-7 describe the machines made of molecules that are the basis of life and that shatter the notion that life is simple. Chapter 8 discusses and criticises [evolutionary-mechanistic](perinnöllisen-muuntelun-mekanismit.md) explanations for the origin of [molecular machines](../articles/molekyylikone.md). In chapters 9-11 Behe presents his own explanation for the origin of molecular machines.
+Chapters 1 and 2 shed light on Behe's insight, which he calls *[irreducible complexity](../articles/palautumaton-monimutkaisuus.md)*. Chapters 3-7 describe the machines made of molecules that are the basis of life and that shatter the notion that life is simple. Chapter 8 discusses and criticizes [evolutionary-mechanistic](perinnöllisen-muuntelun-mekanismit.md) explanations for the origin of [molecular machines](../articles/molekyylikone.md). In chapters 9-11 Behe presents his own explanation for the origin of molecular machines.
 
 ### See also
 #### ApoWiki

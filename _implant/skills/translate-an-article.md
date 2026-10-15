@@ -2,12 +2,13 @@
 type: skill
 title: Translate an article into English
 description: "Use when translating a converted Finnish ApoWiki article into English: a small local model does the prose, ApoWiki's own glossary (Sanasto) fixes the terminology, and deterministic checks (links, footnotes, glossary terms) decide whether a chunk is accepted. Frontier-model tokens are spent only on review."
-timestamp: 2026-10-15T16:33:07Z
+timestamp: 2026-10-15T18:48:41Z
 depends_on: [skills/convert-apowiki-to-articles.md]
 tools:
   - skills/tools/apowiki_glossary.py
   - skills/tools/apowiki_translate.py
   - skills/tools/apowiki_land.py
+  - skills/tools/apowiki_american.py
 ---
 
 # Translate an article into English
@@ -134,6 +135,8 @@ of them. Finnish is matched by word stem, so inflected forms (*naturalismin*,
    `knowledge/pages/` that answers it, as the converter does for the Finnish
    page ([why](../journals/archive/2026/10/2026-10-02.md)).
    It is idempotent, so run it with no arguments to re-link after any change.
+   It also converts each landed page to American spelling, per [the
+   convention](../conventions/american-english.md), so reviewers need not.
    The tool writes `lang: en`, `translated_from`, `translated_by` and
    `translation_status: machine` into the frontmatter, but leaves `title` and
    `description` in Finnish. The reviewer translates both and sets

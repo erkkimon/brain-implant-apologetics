@@ -4,7 +4,7 @@ about: apologetics
 title: "Moral argument"
 description: "The moral argument is one form of the axiological argument. Axiology means the study of values, i.e. the theory of what is valuable and how valuations can be justified."
 tags: [apowiki, argumentit, etiikka]
-timestamp: 2026-10-09T00:04:35Z
+timestamp: 2026-10-15T18:48:04Z
 lang: en
 translated_from: ../articles/moraalinen-argumentti.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -52,7 +52,7 @@ In terms of unity, too, the theistic theory fares better than the atheistic one.
 
 The third criterion is fundamentality. A hypothesis must be considered better than its rivals if it can give the important features of reality a more fundamental place. Does a worldview leave us with a set of isolated facts that simply have to be accepted, or does it offer a good starting point for explaining why they exist? Atheistic materialism has great difficulty explaining human consciousness, which is the foundation of morality. The materialist philosopher Colin McGinn writes:
 
-> How is it possible for conscious states to depend upon brain states? How can technicolour phenomenology arise from soggy grey matter? - - How does the aggregation of millions of individually insentient neurons generate subjective awareness? We know that brains are the de facto causal basis of consciousness, but we have, it seems, no understanding whatever of how this can be so. It strikes us as miraculous, eerie, even faintly comic.
+> How is it possible for conscious states to depend upon brain states? How can technicolour phenomenology arise from soggy gray matter? - - How does the aggregation of millions of individually insentient neurons generate subjective awareness? We know that brains are the de facto causal basis of consciousness, but we have, it seems, no understanding whatever of how this can be so. It strikes us as miraculous, eerie, even faintly comic.
 >
 > — Colin McGinn[^3]
 
@@ -100,7 +100,7 @@ The famous Russian writer **Fyodor Dostoevsky** reflected on the problem of suff
 
 Dostoevsky's second view is interesting because it goes to the heart of the whole question "why is there so much evil in the world if God exists?". Without absolute truth it is hard to define the difference between evil and good. Absolute truth means that there is a real "right" and a real "wrong". These are universally and unchangeably true whether or not anyone believes in them.[^11] The opposite of this view is moral relativism, which stresses a relative understanding of right and wrong. In practice this shows in statements that stress everyone's right to do whatever feels good. Eastern religions among others largely teach moral relativism and base their ethics on it. This in turn leads almost inevitably to detachment from everyday reality, which cannot function on the basis of moral relativism. If we try to apply the Hindu guru Paramahansa Yogananda's remark "I don't take life seriously at all...it is all a dream"[^12] to everyday life, we immediately run into insurmountable problems. A society cannot function without taking life seriously.
 
-In practice we constantly make decisions and choices within the framework of certain moral views. We do not regard slight speeding as being as bad as poisoning a city's drinking water. Such things seem self-evident, but in fact they are not. We have learned certain patterns of behaviour that rest on the existence of right and wrong. In everyday life an emotion-based way of choosing works, but when we come to the logical coherence of our worldview, we have to look beneath the surface.
+In practice we constantly make decisions and choices within the framework of certain moral views. We do not regard slight speeding as being as bad as poisoning a city's drinking water. Such things seem self-evident, but in fact they are not. We have learned certain patterns of behavior that rest on the existence of right and wrong. In everyday life an emotion-based way of choosing works, but when we come to the logical coherence of our worldview, we have to look beneath the surface.
 
 ##### It feels wrong?
 When Frederick Copleston debated the famous atheist Bertrand Russell, he asked him: "Mr Russell, you believe in good and bad, don't you?" Russell said yes. "How do you distinguish between good and bad?" Copleston went on. "In the same way as between yellow and blue," Russell replies. Copleston pressed further: "But Mr Russell, you distinguish blue from yellow by seeing them, don't you? How do you distinguish good from bad?" Russell's answer sums up the moral problem of atheism: "On the basis of feelings - how else?"[^13]
@@ -125,7 +125,7 @@ Ray Cotton says this of God as absolute truth:
 
 God's unchangeability is in the final analysis a fact that is not relative.
 
-According to the Christian view, man is the image of God and in an entirely different position from the animals. This view starts from the basic premise that God is absolute truth and therefore ultimately decides what is right and what is wrong. Christianity thus acknowledges and recognises absolute truth. Since the very basic thesis of relativism, "there are no absolutes", is itself an absolute claim, relativism is illogical. In Christianity the Bible is understood as the revelation of absolute truth to humankind, and the view it represents is given priority when ethical or moral-philosophical questions are dealt with.
+According to the Christian view, man is the image of God and in an entirely different position from the animals. This view starts from the basic premise that God is absolute truth and therefore ultimately decides what is right and what is wrong. Christianity thus acknowledges and recognizes absolute truth. Since the very basic thesis of relativism, "there are no absolutes", is itself an absolute claim, relativism is illogical. In Christianity the Bible is understood as the revelation of absolute truth to humankind, and the view it represents is given priority when ethical or moral-philosophical questions are dealt with.
 
 ### See also
 #### Internet

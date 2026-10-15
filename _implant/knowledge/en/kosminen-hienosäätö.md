@@ -4,7 +4,7 @@ about: apologetics
 title: "Cosmic fine-tuning"
 description: "Cosmic fine-tuning is the observed fact that the structure of the universe and of the laws of physics, and especially the constants of nature, must have been set very precisely for life to be possible."
 tags: [apowiki, kosmologia, suunnitteluteoria, lukusuositukset, hienosäätö, astrobiologia, kosminen, paikka, maapallo, linnunrata, kuu, aurinko, antrooppinen-periaate, kosminen-hienosäätö, fysiikan-lait, dna-koodi]
-timestamp: 2026-10-08T23:54:52Z
+timestamp: 2026-10-15T18:48:04Z
 lang: en
 translated_from: ../articles/kosminen-hienosäätö.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -320,7 +320,7 @@ In Finnish, fine-tuning is covered in about a chapter of professor T. Puolimatka
 * J. Barrow, F. Tipler, The Anthropic Cosmological Principle, Clarendon Press, 1986.
 * J. Leslie, Universes, Routledge, 1996.
 * M. Denton, Nature’s Destiny. Free Press, 2002.
-* R. Collins, The teleological argument: an exploration of the fine tuning of the universe, in W. Craig and J.P. Moreland's recent book summarising several arguments, [The Blackwell Companion to Natural Theology](http://www.amazon.com/Blackwell-Companion-Natural-Theology/dp/1405176571).
+* R. Collins, The teleological argument: an exploration of the fine tuning of the universe, in W. Craig and J.P. Moreland's recent book summarizing several arguments, [The Blackwell Companion to Natural Theology](http://www.amazon.com/Blackwell-Companion-Natural-Theology/dp/1405176571).
 * R. Collins, Evidence for Fine-tuning, in God and Design, ed. N. A. Manson, Routledge, 2001
 * G. Gonzalez and J. W. Richards, [The Privileged Planet](../articles/the-privileged-planet-kirja.md), Regnery Publishing, 2004.
 * M. Rees, Just Six Numbers, Phoenix, 2000.
@@ -328,7 +328,7 @@ In Finnish, fine-tuning is covered in about a chapter of professor T. Puolimatka
 * R. Collins, How to Rigorously Define Fine-tuning, Philosophia Christi, 2005, http://home.messiah.edu/%7Ercollins/Fine-tuning/FT.HTM
 * R. Penrose, The Road to Reality, Knopf, 2005.
 
-A very good book on the subject will probably be Robin Collins's The Well-tempered Universe, once it comes out. A good summary of it is presumably the one in W. Lane Craig and J.P. Moreland's recent book summarising several arguments, "The Blackwell Companion to Natural Theology".
+A very good book on the subject will probably be Robin Collins's The Well-tempered Universe, once it comes out. A good summary of it is presumably the one in W. Lane Craig and J.P. Moreland's recent book summarizing several arguments, "The Blackwell Companion to Natural Theology".
 
 ### References
 

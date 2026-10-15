@@ -4,7 +4,7 @@ about: apologetics
 title: "Historicity of Jesus"
 description: "Denying the existence of Jesus of Nazareth is a common and fashionable way to brand Christianity as ridiculous."
 tags: [apowiki, jeesus, historia]
-timestamp: 2026-10-15T16:37:54Z
+timestamp: 2026-10-15T18:48:04Z
 lang: en
 translated_from: ../articles/jeesuksen-historiallisuus.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -135,7 +135,7 @@ Suetonius may, however, have misunderstood the person of Christ and his signific
 
 The Roman historian [Tacitus](https://fi.wikipedia.org/wiki/Tacitus) (c. 55–120) wrote in the early second century and also mentioned Jesus in his famous writings. Of Tacitus' works, the parts covering the years 29–32 have been lost, that is, precisely the books that could reasonably be expected to have dealt with Jesus' trial and death sentence.[^35] Tacitus is known to have written two passages about Jesus and Christianity in the year 116. The first says that there were Christians in Rome in the time of Emperor [Nero](https://fi.wikipedia.org/wiki/Nero) (54–68). The second says that Christianity arose in Rome and Judea and that the procurator [Pontius Pilate](https://fi.wikipedia.org/wiki/Pontius_Pilatus) had sent "Christus" to his death:
 
-> A persistent rumour held Emperor Nero to be the one who started this fire. To suppress the rumour he blamed the crime on a sect that was generally shunned for its ways of worship and whose members were called Christians. The name had been given them after a certain Christus, whom the procurator Pontius Pilate condemned and nailed to the cross in the reign of Tiberius. This dangerous sect, which I have described earlier, has taken root not only in Judea, where it comes from, but also in Rome itself, where all things fearful and shameful gather and find their home.[^36]
+> A persistent rumor held Emperor Nero to be the one who started this fire. To suppress the rumor he blamed the crime on a sect that was generally shunned for its ways of worship and whose members were called Christians. The name had been given them after a certain Christus, whom the procurator Pontius Pilate condemned and nailed to the cross in the reign of Tiberius. This dangerous sect, which I have described earlier, has taken root not only in Judea, where it comes from, but also in Rome itself, where all things fearful and shameful gather and find their home.[^36]
 > Tacitus
 >
 > — Annals 15, 44
@@ -160,7 +160,7 @@ The Babylonian [Talmud](https://fi.wikipedia.org/wiki/Talmud) mentions a person 
 
 Just as there has been debate about the historicity of Jesus, some have likewise questioned the historicity of many persons connected with Jesus, such as Jesus' mother Mary, his disciples and many other persons mentioned in the New Testament. *[citation needed]* For centuries there was debate about, among others, the historicity of [Pontius Pilate](https://fi.wikipedia.org/wiki/Pontius_Pilatus), who ordered Jesus' crucifixion. He is indeed mentioned in the works of Josephus, but not in the official Roman documents of the period. From this some have concluded that his existence is pure fiction or even a forged detail. There has likewise been debate about the alleged Pilate's title: was he a [prefect](https://fi.wikipedia.org/wiki/prefekti) (governor) or a [procurator](https://fi.wikipedia.org/wiki/prokuraattori)? *[citation needed]*
 
-In 1961 the situation changed when a limestone block bearing Pilate's dedicatory inscription of a *Tiberieum* was found in the ruins of the Roman theatre in [Caesarea Palaestina](https://fi.wikipedia.org/wiki/Caesarea_Palaestina), the capital of Judea. According to the inscription he was *prefectus* (usually written *praefectus*), that is, the governor of Judea. The word *Tiberieum* is unknown. Some scholars have suggested that it was a building, possibly a temple, dedicated to Emperor [Tiberius](https://fi.wikipedia.org/wiki/Tiberius). The inscription is now kept in the [Israel Museum](https://fi.wikipedia.org/wiki/Israelin_kansallismuseo) in Jerusalem under the number AE 1963 no. 104. It is known as the Pilate inscription. Many advocates of the historicity of Jesus point to this inscription as one part of the historical evidence that supports the New Testament's account of the historical Jesus.
+In 1961 the situation changed when a limestone block bearing Pilate's dedicatory inscription of a *Tiberieum* was found in the ruins of the Roman theater in [Caesarea Palaestina](https://fi.wikipedia.org/wiki/Caesarea_Palaestina), the capital of Judea. According to the inscription he was *prefectus* (usually written *praefectus*), that is, the governor of Judea. The word *Tiberieum* is unknown. Some scholars have suggested that it was a building, possibly a temple, dedicated to Emperor [Tiberius](https://fi.wikipedia.org/wiki/Tiberius). The inscription is now kept in the [Israel Museum](https://fi.wikipedia.org/wiki/Israelin_kansallismuseo) in Jerusalem under the number AE 1963 no. 104. It is known as the Pilate inscription. Many advocates of the historicity of Jesus point to this inscription as one part of the historical evidence that supports the New Testament's account of the historical Jesus.
 
 #### Shroud of Turin
 

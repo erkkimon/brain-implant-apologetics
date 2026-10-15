@@ -4,7 +4,7 @@ about: apologetics
 title: "Definition of atheism"
 description: "Imagine being asked whether you believe in the existence of Hattifatteners."
 tags: [apowiki, ateismi]
-timestamp: 2026-10-09T00:04:35Z
+timestamp: 2026-10-15T18:48:04Z
 lang: en
 translated_from: ../articles/ateismin-määritelmä.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -58,11 +58,11 @@ Other definitions have also been proposed. According to one definition[^7], athe
 
 As a proposition, belief in God, or theism, is the claim that a god or gods exist: *God exists*. The denial of belief in God is then the claim *God does not exist*. A person X who holds that God exists is a believer in God, a *theist*. A person X who holds that God does not exist is godless, an *atheist*.[^8]</br>For example, according to [George H. Smith](https://en.wikipedia.org/wiki/George_H._Smith) <!-- red link: George H. Smith -->, atheism is the proposition "there is no god or gods". [^9] This definition expresses an [ontological](../glossary/sanasto.md#ontologia) view, that is, a view about existence.[^10]
 
-As positions on existence these are mutually exclusive: no rational person can be a theist and an atheist at the same time, because the claims would form an inconsistent set of beliefs.[^11] Some, on the other hand, think that one must refrain from taking a position for or against the existence of God. Person X then holds neither theism nor atheism. This position on the existence of God can be characterised as doubt. Even this view is nevertheless a position, one based on deliberation and the weighing of grounds. [Thomas Henry Huxley](https://fi.wikipedia.org/wiki/Thomas_Henry_Huxley) <!-- red link: Thomas Henry Huxley --> proposed that this position be called [agnosticism](../articles/agnostisismi.md).[^8]
+As positions on existence these are mutually exclusive: no rational person can be a theist and an atheist at the same time, because the claims would form an inconsistent set of beliefs.[^11] Some, on the other hand, think that one must refrain from taking a position for or against the existence of God. Person X then holds neither theism nor atheism. This position on the existence of God can be characterized as doubt. Even this view is nevertheless a position, one based on deliberation and the weighing of grounds. [Thomas Henry Huxley](https://fi.wikipedia.org/wiki/Thomas_Henry_Huxley) <!-- red link: Thomas Henry Huxley --> proposed that this position be called [agnosticism](../articles/agnostisismi.md).[^8]
 
 ### Definition of the epistemological atheist
 
-When atheism refers to an epistemic attitude (some person X holds that a god exists), belief in God can be denied in two ways. In Ilkka Niiniluoto's characterisation, the denial can happen "from the outside", in which case a-theism, or non-theism, is (as regards person X) *a lack of belief in the existence of God*. An "internal denial", by contrast, leads to a narrow definition, according to which atheism is *the view that gods do not exist*. Ilkka Niiniluoto considers the latter interpretation logically stronger in the sense that, assuming person X's beliefs are consistent, the latter claim implies the former, but not the other way round.[^12]
+When atheism refers to an epistemic attitude (some person X holds that a god exists), belief in God can be denied in two ways. In Ilkka Niiniluoto's characterization, the denial can happen "from the outside", in which case a-theism, or non-theism, is (as regards person X) *a lack of belief in the existence of God*. An "internal denial", by contrast, leads to a narrow definition, according to which atheism is *the view that gods do not exist*. Ilkka Niiniluoto considers the latter interpretation logically stronger in the sense that, assuming person X's beliefs are consistent, the latter claim implies the former, but not the other way round.[^12]
 
 The philosopher [Michael Scriven](https://en.wikipedia.org/wiki/Michael_Scriven) <!-- red link: Michael Scriven --> has formulated the definitions of the atheist, the [agnostic](../articles/agnostisismi.md) and the theist as an [epistemological](../glossary/sanasto.md#tietoteoria) view, so that one's view on atheism, agnosticism and theism can come in degrees.[^13]
 
@@ -70,7 +70,7 @@ The philosopher [Michael Scriven](https://en.wikipedia.org/wiki/Michael_Scriven)
 |---|---|
 | 1. Strong evidence against existence, no evidence at all for it | [Positive atheist](../glossary/sanasto.md#positiivinen-ateismi) |
 | 2. No general or particular grounds or evidence at all for it | [Negative atheist](../glossary/sanasto.md#negatiivinen-ateismi) |
-| 3. Some general or particular grounds for it, yet improbable | Sceptic, agnostic in the broad sense; although he considers the existence of God improbable, he considers it possible |
+| 3. Some general or particular grounds for it, yet improbable | Skeptic, agnostic in the broad sense; although he considers the existence of God improbable, he considers it possible |
 | 4. Evidence for and against in equal measure, probability 50 % | [Agnostic](../articles/agnostisismi.md) in the narrow sense, takes no position either way |
 | 5. Strong evidence for it, yet inconsistencies and evidence against | Practical [theist](teismi.md), agnostic in the broad sense |
 | 6. Strong evidence for it and no evidence at all against. Provable in the ordinary sense | Modern theist |

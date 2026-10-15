@@ -4,7 +4,7 @@ about: apologetics
 title: "Definition of evolution"
 description: "This article deals with the different definitions of the term \"evolution\"."
 tags: [apowiki, evoluutioteoria]
-timestamp: 2026-10-09T00:04:35Z
+timestamp: 2026-10-15T18:48:04Z
 lang: en
 translated_from: ../articles/evoluution-määritelmä.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -34,7 +34,7 @@ In this sense evolution is something hardly anyone denies. In this sense it must
 
 ### Problems caused by contradictory definitions
 
-When evaluating the evidence for evolution, it is important to avoid committing a [false analogy](https://fi.wikipedia.org/wiki/Virheellinen_analogia). If the evidence speaks for one kind of evolution, it may nonetheless at the same time speak against some other kind of evolution. Many well-known evolution sceptics, such as [Philip Johnson](../pages/phillip-johnson.md), [Paul Nelson](../pages/paul-nelson.md) and [Jonathan Wells](../pages/jonathan-wells.md), draw attention to how muddled the definition of the term is in debates about evolution.
+When evaluating the evidence for evolution, it is important to avoid committing a [false analogy](https://fi.wikipedia.org/wiki/Virheellinen_analogia). If the evidence speaks for one kind of evolution, it may nonetheless at the same time speak against some other kind of evolution. Many well-known evolution skeptics, such as [Philip Johnson](../pages/phillip-johnson.md), [Paul Nelson](../pages/paul-nelson.md) and [Jonathan Wells](../pages/jonathan-wells.md), draw attention to how muddled the definition of the term is in debates about evolution.
 
 > *"Evolution"* is a tricky word. If it means *"small changes over time"*, then even the most bone-headed fundamentalist knows that changes have taken place in the Earth's history. If evolution means the doctrine that *"all organisms descend from a common ancestor through unguided mutations and natural selection"* (this is the textbook definition of evolution), it raises difficult questions even among first-rate biologists.
 >

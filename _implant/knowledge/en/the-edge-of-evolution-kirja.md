@@ -4,7 +4,7 @@ about: apologetics
 title: "The Edge of Evolution (book)"
 description: "The Edge of Evolution: The Search for the Limits of Darwinism (EOE) is a book by biochemistry professor Michael Behe on the empirically observed limits of evolutionary mechanisms."
 tags: [apowiki, kirjat, suunnitteluteoria, evoluutioteoria]
-timestamp: 2026-10-09T00:04:35Z
+timestamp: 2026-10-15T18:48:04Z
 lang: en
 translated_from: ../articles/the-edge-of-evolution-kirja.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -37,7 +37,7 @@ Behe concludes that the mutation-natural selection mechanism is often capable of
 
 ### The edge of evolution
 #### CCC
-If some combination of point mutations yields a selective advantage in some situation, the probability of that advantage arising by chance can in principle be calculated. In practice, however, such an advantage requires a sufficiently large population of organisms, and the more improbable the combination, the larger the population required. A suitable unit for comparing the complexity of the advantages that point-mutation combinations can in principle reach is the population size that theoretical calculations and practical observations show is needed to acquire chloroquine resistance, namely 10<sup>20</sup> (*chloroquine-complexity cluster*, CCC). Since this is a unit of complexity, the CCC figure grows the more intricate the case: 1 CCC is thus one chance in 10<sup>20</sup>, and other values are obtained logarithmically: when **n** = the number of cases of which on average one is favourable, the complexity of the situation is log<sub>10<sup>20</sup></sub> **n** CCC (taking the logarithm to base 10<sup>20</sup>). So, for example, the atovaquone resistance mentioned above requires log<sub>10<sup>20</sup></sub> 10<sup>12</sup> CCC = 12/20 CCC = 0.6 CCC.
+If some combination of point mutations yields a selective advantage in some situation, the probability of that advantage arising by chance can in principle be calculated. In practice, however, such an advantage requires a sufficiently large population of organisms, and the more improbable the combination, the larger the population required. A suitable unit for comparing the complexity of the advantages that point-mutation combinations can in principle reach is the population size that theoretical calculations and practical observations show is needed to acquire chloroquine resistance, namely 10<sup>20</sup> (*chloroquine-complexity cluster*, CCC). Since this is a unit of complexity, the CCC figure grows the more intricate the case: 1 CCC is thus one chance in 10<sup>20</sup>, and other values are obtained logarithmically: when **n** = the number of cases of which on average one is favorable, the complexity of the situation is log<sub>10<sup>20</sup></sub> **n** CCC (taking the logarithm to base 10<sup>20</sup>). So, for example, the atovaquone resistance mentioned above requires log<sub>10<sup>20</sup></sub> 10<sup>12</sup> CCC = 12/20 CCC = 0.6 CCC.
 
 On the basis of the above, a 1-CCC point-mutation combination develops in malaria only about once every five years. Because in most species populations and selection pressure are much smaller than in malaria, and the time between generations much longer (the generation time of the malaria parasite *Plasmodium falciparum* is 48 hours), in mammals evolution can less often cross changes even the size of one CCC.
 

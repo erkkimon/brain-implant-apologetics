@@ -4,7 +4,7 @@ about: apologetics
 title: "Pascal's wager"
 description: "Pascal's wager (Pascal's game theory, Pascal's scale, Pascal's betting, Pascal's argument, the game-theoretic argument, the gambler's proof) is one reason to believe in God."
 tags: [apowiki, maailmankatsomus, pascalin-veto, pascalin-vaaka, blaise-pascal, pascalin-gambiitti, pascalin-peliteoria, ateismi, teismi, järki, usko, tieto]
-timestamp: 2026-10-09T00:04:35Z
+timestamp: 2026-10-15T18:48:04Z
 lang: en
 translated_from: ../articles/pascalin-peliteoria.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -89,7 +89,7 @@ Pascal's argument should therefore be seen in a context where the doubter has no
 
 Pascal also considers the value of an infinite gain in relation to the uncertainty of winning it:
 
-> But at stake is an eternity of life and happiness. And if this is so, if there were an infinite number of possible outcomes, only one of which were favourable to you, you would still be right to stake one to win two, and since you are obliged to play, you would act foolishly if you refused to stake one life against three in a game where, of infinitely many outcomes, only one is favourable to you, if there were an infinity of infinitely happy life to be won. But here there is an infinitely happy life to be won, and only a finite number of chances of loss, and your stake is finite. Let us do the division: where [what can be won] is infinite, and the ratio of the chances of loss to the chances of gain is not infinite, there is no time to waste, you must give everything. And so, when one is obliged to play, he must sacrifice reason to save his life, rather than risk his life, to gain an infinite benefit, accepting at the same time that he loses nothing.
+> But at stake is an eternity of life and happiness. And if this is so, if there were an infinite number of possible outcomes, only one of which were favorable to you, you would still be right to stake one to win two, and since you are obliged to play, you would act foolishly if you refused to stake one life against three in a game where, of infinitely many outcomes, only one is favorable to you, if there were an infinity of infinitely happy life to be won. But here there is an infinitely happy life to be won, and only a finite number of chances of loss, and your stake is finite. Let us do the division: where [what can be won] is infinite, and the ratio of the chances of loss to the chances of gain is not infinite, there is no time to waste, you must give everything. And so, when one is obliged to play, he must sacrifice reason to save his life, rather than risk his life, to gain an infinite benefit, accepting at the same time that he loses nothing.
 >
 > — [Blaise Pascal](../articles/blaise-pascal.md)[^15]
 
@@ -117,7 +117,7 @@ It is possible to approach many different worldview options from the point of vi
 
 The argument is aimed mainly at an [agnostic](../articles/agnostisismi.md) of some degree, who admits that he cannot be completely sure which worldview is true. This type of person is common today too, and many of them have grown used to lulling themselves with the idea that, lacking knowledge about ultimate questions that they would consider certain, they "should concentrate on enjoying this life". It is precisely this "to be safe, I take no position" philosophy of life that Pascal's wager shows to be thoroughly mistaken.
 
-According to the argument, an agnostic should not take the risk of living like an atheist and turning out to be wrong, because he could end up in suffering after death. Instead, he should take the risk of living and believing like a Christian even if atheism should turn out to be true. After all, he would not have to wake up after death to grieve over having been wrong, and before that he could still live a good and interesting life. Even then there is a risk that some other religion is true and that, according to it, the Christian would have to suffer after death. However, many religions do not allow adherence to other religions – or the whole idea of "adhering" to mutually exclusive religions at the same time is internally contradictory – so some risk always remains. To minimise the risk, one should in any case reject atheism, because the atheist at least cannot win. If atheism did turn out to be true, what would it matter – how could any atheist ever, in any ultimate sense, get to "enjoy being right"?
+According to the argument, an agnostic should not take the risk of living like an atheist and turning out to be wrong, because he could end up in suffering after death. Instead, he should take the risk of living and believing like a Christian even if atheism should turn out to be true. After all, he would not have to wake up after death to grieve over having been wrong, and before that he could still live a good and interesting life. Even then there is a risk that some other religion is true and that, according to it, the Christian would have to suffer after death. However, many religions do not allow adherence to other religions – or the whole idea of "adhering" to mutually exclusive religions at the same time is internally contradictory – so some risk always remains. To minimize the risk, one should in any case reject atheism, because the atheist at least cannot win. If atheism did turn out to be true, what would it matter – how could any atheist ever, in any ultimate sense, get to "enjoy being right"?
 
 ### Responses to criticisms
 
@@ -127,7 +127,7 @@ Pascal originally argued from the assumption of a single god. He thus set only a
 
 #### The argument's "moral dubiousness"
 
-The game-theoretic argument has been criticised on the grounds that fundamental choices of belief about reality should not be made by calculating payoffs, and that God would probably not look kindly on those who believe on the basis of such reasoning.[^19] In practice, however, such reasoning is highly justified in many fundamental situations.
+The game-theoretic argument has been criticized on the grounds that fundamental choices of belief about reality should not be made by calculating payoffs, and that God would probably not look kindly on those who believe on the basis of such reasoning.[^19] In practice, however, such reasoning is highly justified in many fundamental situations.
 
 It is of course possible that your whole life is just an illusion and that your brain is really in a laboratory run by humanoids, where you are constantly fed false perceptions as electrical impulses. What if this is true? Would this possibility oblige you to take some kind of action? What kind of action would be good or bad in such a situation? If you cannot do anything about it, you may as well live as if your perceptions were reality. If you were wrong, what would it matter?
 

@@ -4,7 +4,7 @@ about: apologetics
 title: "Jesus myth hypotheses"
 description: "According to the Jesus myth hypothesis, the Jesus described in the Bible was a myth."
 tags: [apowiki, jeesus, historia]
-timestamp: 2026-10-15T16:37:54Z
+timestamp: 2026-10-15T18:48:04Z
 lang: en
 translated_from: ../articles/jeesus-myyttihypoteesit.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -53,7 +53,7 @@ The Rank-Raglan traits attributed to Jesus are in particular:
 1. an attempt to kill him soon after his birth,
 1. flight because of the attempt on his life,
 1. almost nothing is known of his childhood,
-1. he loses favour with God/the gods,
+1. he loses favor with God/the gods,
 1. he meets a "mysterious" (unusual) death,
 1. any children he may have do not inherit his kingship (Jesus had no biological children), and
 1. he has one or more tombs or tomb memorials
@@ -71,7 +71,7 @@ If the criteria are also stretched suitably, the following traits can be made to
 1. he dies on top of a hill (vs. the Gospels do not actually say that Golgotha was on a hill, so the hill *is not part of the story*, though dying on a hill is possible. In itself, being *lifted up* on the cross is also dying **in a high place**.)
 1. his body is not buried (vs. Jesus' **body is buried**, but on the third day **the tomb is found empty**)
 
-With suitable interpretation a great many traits can be made to fit, but the more subjective judgement is allowed in applying the traits, the weaker the conclusions drawn from the type analysis become. If, unlike with other hero myths, symbolic and theological meanings are accepted here in addition to concrete matches, the usefulness of this set of criteria for telling a historical hero from a legendary one is radically weakened.
+With suitable interpretation a great many traits can be made to fit, but the more subjective judgment is allowed in applying the traits, the weaker the conclusions drawn from the type analysis become. If, unlike with other hero myths, symbolic and theological meanings are accepted here in addition to concrete matches, the usefulness of this set of criteria for telling a historical hero from a legendary one is radically weakened.
 
 It is also easy to see that although, for example, Jesus' crucifixion fulfils the criterion of an unusual death, the same does not hold in the other direction: one cannot say that every mythical hero's unusual death took place by crucifixion. Likewise, it may be tempting to think that Jesus' virgin birth fulfils the *royal virgin* criterion well enough, even though Mary was not royal. But the same does not hold in the other direction, for in most hero myths this royal virgin by no means refers to a virgin birth, but simply to the royal maiden being a virgin when she marries! Similar problems arise at many other points as well.
 
@@ -85,14 +85,14 @@ Jesus scholars working within science today are indifferent to the alleged simil
 
 In the 2010s the leading defender of the myth hypothesis has been [Richard Carrier](https://en.wikipedia.org/wiki/Richard_Carrier) <!-- red link: Richard Carrier -->, who received his doctorate in ancient history from Columbia University in 2008 and has formulated his myth hypothesis by means of [Bayesian reasoning](../articles/bayesin-teoreema.md)[^9]. Carrier argues that because Jesus meets so many Rank-Raglan criteria, the prior probability of his historicity is very low[^10].
 
-This analysis of Carrier's has, however, been criticized as tendentious. The sceptic Johan Rönnblom compared the results when the Rank-Raglan typology is applied as literally as possible, and found that, looked at this way, Alexander the Great scores 13 points out of 22, whereas Jesus scores 8.5. He shows how Carrier, by conveniently altering the criteria, has obtained considerably higher scores for Jesus. Rönnblom illustrates how easily a creative interpretation of a measure of this kind opens the way to arbitrary results.[^11]
+This analysis of Carrier's has, however, been criticized as tendentious. The skeptic Johan Rönnblom compared the results when the Rank-Raglan typology is applied as literally as possible, and found that, looked at this way, Alexander the Great scores 13 points out of 22, whereas Jesus scores 8.5. He shows how Carrier, by conveniently altering the criteria, has obtained considerably higher scores for Jesus. Rönnblom illustrates how easily a creative interpretation of a measure of this kind opens the way to arbitrary results.[^11]
 
 Daniel N. Gullotta reviewed Carrier's book in the *Journal for the Study of the Historical Jesus* and also criticized the way Carrier uses the scoring of the Rank-Raglan typology:
 
 "Per Carrier’s assessment of the Rank-Raglan hero-type applied to Jesus, Mark’s Jesus scores 14 and Matthew’s Jesus scores 20. But according to the traditional Raglan heroic archetype, Mark’s Jesus scores 7 or 8, and Matthew’s Jesus scores 8 or 9, producing a result that is less than 11"
 [^12]
 
-### Jesus as the fulfilment of an archetypal story
+### Jesus as the fulfillment of an archetypal story
 
 *Main article: [Myths of the dying and rising god](../articles/myytit-kuolevasta-ja-ylösnousevasta-jumalasta.md)*
 

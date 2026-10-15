@@ -4,7 +4,7 @@ about: apologetics
 title: "Theory of evolution"
 description: "On ApoWiki, the theory of evolution means the doctrine that \"all organisms descend from a common ancestor through unguided mutations and natural selection.\" This view is also called the synthetic theory of evolution or neo-Darwinism."
 tags: [apowiki, evoluutioteoria, keskeneräiset-artikkelit]
-timestamp: 2026-10-09T00:04:35Z
+timestamp: 2026-10-15T18:48:04Z
 lang: en
 translated_from: ../articles/evoluutioteoria.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -167,11 +167,11 @@ According to the theory of evolution, this would be mere chance, because it is p
 
 According to John C. Sanford, empirical observations point to the degeneration of organisms' genomes.[^22] Unfortunately, natural selection is not able even to preserve the genome, as Sanford shows in his book. Sanford's argument has many sides; most of the results below are fatal to the theory of evolution even on their own:
 1. Most mutations are nearly neutral, that is, they are so slightly harmful that natural selection cannot weed them out because of normal noise and genetic drift. Such harmful mutations accumulate in the genome generation after generation.
-1. Fewer than one mutation in a million is favourable in terms of selection pressure, and even these are usually based on the destruction of information. For example, antibiotic resistance can be achieved when the part of the bacterium's metabolic machinery that the antibiotic targets breaks. (Your computer gets fewer viruses when the internet connection is broken.) In addition, because of genetic drift alone, fewer than one in a thousand beneficial mutations come to prevail in a population.
+1. Fewer than one mutation in a million is favorable in terms of selection pressure, and even these are usually based on the destruction of information. For example, antibiotic resistance can be achieved when the part of the bacterium's metabolic machinery that the antibiotic targets breaks. (Your computer gets fewer viruses when the internet connection is broken.) In addition, because of genetic drift alone, fewer than one in a thousand beneficial mutations come to prevail in a population.
 1. The mutation rate in humans is 200–6000 mutations per person per generation. Population-genetic calculations show that natural selection can weed out at most 0.5 mutations per person per generation. The human genome is therefore degenerating, and natural selection cannot keep up with weeding out the errors.
 1. Mitochondrial mutations pose a similar problem.
 1. Organisms reproduce and survive largely for reasons other than genetic advantages. Nutrition, upbringing and chance affect survival and reproduction far more than small genetic advantages do. Natural selection is thus like a princess who sleeps on top of many mattresses and tries to feel the peas, that is, the genetic errors, under them. For this reason natural selection is much less effective than is usually assumed.
-1. When one tries to select for one favourable mutation, several harmful mutations have to be carried along with it (Muller’s ratchet).
+1. When one tries to select for one favorable mutation, several harmful mutations have to be carried along with it (Muller’s ratchet).
 
 ### Sources
 

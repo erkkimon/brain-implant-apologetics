@@ -4,7 +4,7 @@ about: apologetics
 title: "Acts of the Apostles"
 description: "One of the first aims of naturalistic New Testament scholarship has been to call the historicity of Acts into question, because Acts gives an account of the first years of Christian history."
 tags: [apowiki, raamattu, historia]
-timestamp: 2026-10-15T16:37:54Z
+timestamp: 2026-10-15T18:48:04Z
 lang: en
 translated_from: ../articles/apostolien-teot.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -108,7 +108,7 @@ The classical scholar and historian Colin Hemer[^4] has examined the historicity
 1. the feature of an ancient square-rigged ship that it has no option but to drift with the storm  ( ([Acts 27:15](../books/act.md)))
 1. the precise location and name of the island of Cauda  ( ([Acts 27:16](../books/act.md)))
 1. the procedures needed to secure the ship in this special situation  ( ([Acts 27:17](../books/act.md)))
-1. the fourteenth night – a significant calculation based on the combination of estimates and probabilities, checked against the judgement of experienced Mediterranean sailors  ( ([Acts 27:27](../books/act.md)))
+1. the fourteenth night – a significant calculation based on the combination of estimates and probabilities, checked against the judgment of experienced Mediterranean sailors  ( ([Acts 27:27](../books/act.md)))
 1. the correct name of the Adriatic Sea at that time  ( ([Acts 27:27](../books/act.md)))
 1. the correct word for taking soundings  (bolisantes) and the correct depth of the sea near Malta
 1. a location that fits the line of approach of a ship drifting before an east wind  ( ([Acts 27:39](../books/act.md)))

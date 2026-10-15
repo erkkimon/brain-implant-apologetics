@@ -4,7 +4,7 @@ about: apologetics
 title: "The resurrection of Jesus"
 description: "Christianity differs from other religions in that it rests essentially on a historical event, the resurrection of Jesus."
 tags: [apowiki, jeesus, ihmeet, historia, lukusuositukset]
-timestamp: 2026-10-15T16:37:54Z
+timestamp: 2026-10-15T18:48:04Z
 lang: en
 translated_from: ../articles/jeesuksen-ylösnousemus.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -33,7 +33,7 @@ The resurrection of Jesus was a historical fact on which the early Christians bu
 
 Biblical-critical and historical research on the resurrection of Jesus has been one of the most popular research topics of the last couple of centuries. It is therefore interesting that, despite repeated attempts, critical research has not managed to develop a single credible naturalistic theory for the historical facts concerning the resurrection of Jesus. New Testament scholars' views on the historical reliability of the New Testament vary, but scholars generally agree that there are some historical facts about the final phase of Jesus' life and the first phase of the Christian church that we can know with sufficient certainty.
 
-**Gary Habermas**[^5] made a thorough study of what scholars of our time generally think about the resurrection. He examined over 1,400 of the most critical studies of the resurrection from the years 1975–2003. On the basis of his study, Habermas[^6] lists 12 historical facts related to the resurrection of Jesus on which the majority of scholars who specialise in this question are remarkably unanimous, regardless of their starting assumptions:
+**Gary Habermas**[^5] made a thorough study of what scholars of our time generally think about the resurrection. He examined over 1,400 of the most critical studies of the resurrection from the years 1975–2003. On the basis of his study, Habermas[^6] lists 12 historical facts related to the resurrection of Jesus on which the majority of scholars who specialize in this question are remarkably unanimous, regardless of their starting assumptions:
 
 1. Jesus died by Roman crucifixion.
 1. He was probably buried in a private tomb.
@@ -43,12 +43,12 @@ Biblical-critical and historical research on the resurrection of Jesus has been 
 1. As a result of these experiences the disciples' lives were completely transformed, so that they were ready to die for their faith.
 1. The bodily resurrection of Jesus was proclaimed very early in the history of the Christian church.
 1. The disciples began to testify and preach publicly about Jesus' resurrection in the city of Jerusalem, where Jesus had been crucified and buried a short time before.
-1. The message of the gospel centred on Jesus' death and resurrection.
+1. The message of the gospel centered on Jesus' death and resurrection.
 1. Sunday became the Christians' main day of assembly and prayer, even though a large part of the early Christians were Jews who had been taught from childhood to keep the Sabbath holy as a day of rest.
-1. Jesus' brother James, who had earlier been a sceptic, was converted when he believed he had met the risen Christ.
+1. Jesus' brother James, who had earlier been a skeptic, was converted when he believed he had met the risen Christ.
 1. Only a few years later Saul of Tarsus (Paul) became a believing Christian as a result of an experience that he believed was an appearance of the risen Jesus.
 
-Jesus' tomb was empty. If Jesus' opponents had stolen the body, they could have produced it and so refuted the Christians' claims. If Jesus' disciples had stolen the body, they would hardly have been ready to die in defence of their own lie. The New Testament reports twelve separate occasions on which Jesus appeared to his followers after his resurrection. These appearances were not hallucinations of a few seconds experienced by a single person, but situations in which several people encountered Jesus together. They touched him physically, ate and drank with him and talked about the kingdom of God.
+Jesus' tomb was empty. If Jesus' opponents had stolen the body, they could have produced it and so refuted the Christians' claims. If Jesus' disciples had stolen the body, they would hardly have been ready to die in defense of their own lie. The New Testament reports twelve separate occasions on which Jesus appeared to his followers after his resurrection. These appearances were not hallucinations of a few seconds experienced by a single person, but situations in which several people encountered Jesus together. They touched him physically, ate and drank with him and talked about the kingdom of God.
 
 > To them he also showed by many indisputable proofs that he was alive after his death. He appeared to them several times over forty days and spoke about the kingdom of God.
 >
@@ -97,7 +97,7 @@ If the story had been invented or embellished, women would hardly have been chos
 One rather convincing piece of evidence for the historicity of the resurrection is the existence of Christianity. There would be no Christianity if the apostles had not once proclaimed the good news of the risen Jesus. They would not have proclaimed a risen Jesus if they had not believed their own proclamation. Why not? Because almost all the apostles died as martyrs for their proclamation. It is quite absurd to suppose that they held on to an invented story all the way to their execution. So for all practical purposes the apostles certainly believed in the resurrection of Jesus. A belief a person is ready to die for is not a product of the imagination. The hypothesis that they went mad is made absurd by the number of people who would have had to go mad.
 
 ### Was the tomb empty?
-If anything can be considered certain in historical research, it is that the tomb really was empty, and most scholars in the field hold this view.[^20] One significant piece of evidence for the empty tomb is the existence of Christianity. Christianity is the result of the apostles proclaiming that the tomb had been emptied, and this proclamation was the result of the apostles believing that the tomb was empty. Even sceptics must admit that there would be no Christianity if the apostles had not believed the tomb was empty. It is senseless to think the apostles were lying, because they were crucified, fed to lions and beheaded for their belief. Dying for a lie you made up yourself requires nothing less than "flipping out", and it is extremely unlikely that all the apostles who were killed had gone mad.
+If anything can be considered certain in historical research, it is that the tomb really was empty, and most scholars in the field hold this view.[^20] One significant piece of evidence for the empty tomb is the existence of Christianity. Christianity is the result of the apostles proclaiming that the tomb had been emptied, and this proclamation was the result of the apostles believing that the tomb was empty. Even skeptics must admit that there would be no Christianity if the apostles had not believed the tomb was empty. It is senseless to think the apostles were lying, because they were crucified, fed to lions and beheaded for their belief. Dying for a lie you made up yourself requires nothing less than "flipping out", and it is extremely unlikely that all the apostles who were killed had gone mad.
 
 It is highly significant that even the early Jewish arguments concede that the tomb was empty. The Jewish arguments start from the assumption that the tomb was empty, and they try to explain its emptying naturally. A good example of such argument is in chapter 28 of [the Gospel of Matthew](../books/mat.md).
 
@@ -109,7 +109,7 @@ According to the Gospel of Matthew, the Jews did not even try to claim that Jesu
 
 ### Alternative theories for the empty tomb
 
-Although most scholars accept that the empty tomb is almost certain within the framework of historical research, many scholars, because of their worldview, do not want to admit that anything supernatural was involved in the emptying of the tomb. The alternative theories are in fact evidence that even sceptics are convinced the tomb was empty, and they result from the need to explain this practical fact in some way other than supernaturally.
+Although most scholars accept that the empty tomb is almost certain within the framework of historical research, many scholars, because of their worldview, do not want to admit that anything supernatural was involved in the emptying of the tomb. The alternative theories are in fact evidence that even skeptics are convinced the tomb was empty, and they result from the need to explain this practical fact in some way other than supernaturally.
 
 #### The apostles made up the story themselves
 

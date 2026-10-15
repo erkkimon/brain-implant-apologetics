@@ -4,7 +4,7 @@ about: apologetics
 title: "Jesus of Nazareth"
 description: "Jesus of Nazareth is the central figure of Christianity. Christians believe that in Jesus the second person of God became flesh (\"conceived by the Holy Spirit, born of the virgin Mary\") and revealed the Father."
 tags: [apowiki, jeesus]
-timestamp: 2026-10-15T16:37:54Z
+timestamp: 2026-10-15T18:48:04Z
 lang: en
 translated_from: ../articles/jeesus-nasaretilainen.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -62,7 +62,7 @@ The Bible contains a considerable number of prophecies that have usually been in
 * Born of a virgin ( ([Isa. 7:14](../books/isa.md)))
 * Called Immanuel (God with us) ( ([Isa. 7:14](../books/isa.md)))
 * Born in Bethlehem <!-- Efratassa Betlehemin toinen nimi?--> in Judea ( ([Mic. 5:2](../books/mic.md)))
-* Great men come to honour Him ( ([Ps. 72:10](../books/psa.md)))
+* Great men come to honor Him ( ([Ps. 72:10](../books/psa.md)))
 * His birth leads to the massacre of children ( ([Jer. 31:15](../books/jer.md)))
 * Called out of Egypt ( ([Hos. 11:1](../books/hos.md)))
 * He has a forerunner (John the Baptist) ( ([Isa. 40:3](../books/isa.md));  ([Mal. 3:1](../books/mal.md)))

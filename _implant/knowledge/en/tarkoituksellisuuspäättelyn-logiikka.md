@@ -4,7 +4,7 @@ about: apologetics
 title: "The logic of the design inference"
 description: "The design inference is a design-theoretic inference that leads to confirming or rejecting a design hypothesis about the object under study."
 tags: [apowiki, suunnitteluteoria]
-timestamp: 2026-10-08T23:50:46Z
+timestamp: 2026-10-15T18:48:04Z
 lang: en
 translated_from: ../articles/tarkoituksellisuuspäättelyn-logiikka.md
 translated_by: jaahas/qwen3.5-uncensored:9b-q6_K
@@ -96,7 +96,7 @@ A more detailed comparison table is in the article [Todennäköisyysrajojen vert
 
 ### Criticism of the design inference's reliability
 
-Has Dembski's pioneering work, then, made the naturalist camp concede the general principle that whoever makes a claim must prove it? Has anyone seriously set about examining how plausible the unintentional causes are, given their monopoly in research programmes drawn up on the terms of (methodological) naturalism? Quite the contrary: the naturalist camp has – as such quite as expected, as if reading its position of power in the sociology of science as its own collective infallibility, and appealing to that authority – mostly refused even the smallest revisions of its position, and has instead taken to presenting venomous criticism of Dembski's design inference. The quality, content and substantive weight of this criticism are sorted out [in an article of its own](../articles/tarkoituksellisuuspäättelyn-kritiikki.md).
+Has Dembski's pioneering work, then, made the naturalist camp concede the general principle that whoever makes a claim must prove it? Has anyone seriously set about examining how plausible the unintentional causes are, given their monopoly in research programs drawn up on the terms of (methodological) naturalism? Quite the contrary: the naturalist camp has – as such quite as expected, as if reading its position of power in the sociology of science as its own collective infallibility, and appealing to that authority – mostly refused even the smallest revisions of its position, and has instead taken to presenting venomous criticism of Dembski's design inference. The quality, content and substantive weight of this criticism are sorted out [in an article of its own](../articles/tarkoituksellisuuspäättelyn-kritiikki.md).
 
 ### References
 
