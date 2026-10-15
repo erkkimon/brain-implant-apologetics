@@ -4,7 +4,7 @@ about: apologetics
 title: "English renderings of ApoWiki's glossary terms"
 description: "The translation contract: the one fixed English rendering of each ApoWiki glossary (Sanasto) term, so every translated article says the same thing the same way. Edited by hand, read by apowiki_glossary.py and by the translation check."
 tags: [glossary, sanasto, translation, terminology, english]
-timestamp: 2026-10-09T00:07:18Z
+timestamp: 2026-10-15T16:40:08Z
 half_life: 0
 ---
 
@@ -201,6 +201,11 @@ and the next translation batch picks the correction up.
 | eksegeettinen | exegetical | |
 | synoptikot | the Synoptists | Matthew, Mark and Luke as authors |
 | Jeesus-traditio | the Jesus tradition | |
+| evidentialismi | evidentialism | religious claims need evidence |
+| eksperientialismi | experientialism | justified religious belief from direct experience |
+| skientismi | scientism | |
+| skeptisismi | scepticism | |
+| propositio | proposition | |
 
 ## Left free on purpose
 
@@ -230,6 +235,13 @@ and *rekonstruoida* (one stem, "reconstruction" and "reconstruct"),
 *variantti* (a textual variant or a mere variant), *impulssi*, *symboli*,
 *teoreema*, *tyranni*, *ilmiö* and *termi*: everyday words in these
 articles, which the model renders well.
+
+Batch 6 (philosophy and worldview, 2026-10-15) left these free:
+*koherentti*, *postuloida*, *anomalia*, *algoritmi*, *primitiivinen*,
+*optimismi*, *kollega*, *järjellinen*, *argumentatiivinen* and *abstrakti*
+are everyday words the model renders well. *deduktio* has no row because
+its stem also catches *deduktiivinen*, whose English ("deductive") does not
+contain "deduction".
 
 Batch 4 (evolution, 2026-10-02) left these free: *termi*, *elementti*,
 *fakta*, *täsmennys*, *intuitiivinen*, *retorinen* and *orgaaninen* are

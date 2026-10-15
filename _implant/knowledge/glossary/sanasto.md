@@ -4,7 +4,7 @@ about: apologetics
 title: "Sanasto — ApoWikin virallinen sanasto"
 description: "ApoWiki's official Finnish glossary: 413 terms with the definitions ApoWiki articles use them in, struck-through senses marked as usage ApoWiki avoids. The fixed term list for translation."
 tags: [apowiki, glossary, sanasto, terminology, translation]
-timestamp: 2026-10-09T00:07:18Z
+timestamp: 2026-10-15T16:40:08Z
 half_life: 0
 ---
 <!--
@@ -692,6 +692,8 @@ English: **exorcism**
 
 ### eksperientialismi
 
+English: **experientialism**
+
 - näkemys, jonka mukaan ihmisen on mahdollista omaksua uskonnollisia vakaumuksia tiedollisesti oikeutetulla tavalla välittömän kokemuksen perusteella; uskonnolliset vakaumukset voivat olla järjenmukaisia, vaikka niitä ei johdettaisi muista uskomuksista
 
 <a id="eksplikiittinen"></a>
@@ -863,6 +865,8 @@ English: **ethics**
 <a id="evidentialismi"></a>
 
 ### evidentialismi
+
+English: **evidentialism**
 
 - näkemys, jonka mukaan uskontoa koskeville myönteisille ja kielteisille väitteille on annettava perusteluja eli evidenssiä
 
@@ -2316,6 +2320,8 @@ English: **propaganda**
 
 ### propositio
 
+English: **proposition**
+
 - väitelause
 
 <a id="prosessi"></a>
@@ -2564,12 +2570,16 @@ English: **explanatory filter**
 
 ### skeptisismi
 
+English: **scepticism**
+
 - epäilevyys
 - käsityskanta, jonka mukaan varma tieto on mahdotonta
 
 <a id="skientismi"></a>
 
 ### skientismi
+
+English: **scientism**
 
 - tiedeusko
 - näkökanta, jonka mukaan kaikki todellinen tieto on tieteellistä tietoa
